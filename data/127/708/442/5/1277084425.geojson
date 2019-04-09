@@ -1,0 +1,73 @@
+{
+  "id": 1277084425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.90656,50.48602,81.90656,50.48602",
+    "geom:latitude":50.48602,
+    "geom:longitude":81.90656,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rassypnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519900,
+    "gn:latitude":50.48602,
+    "gn:longitude":81.90656,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Rassypnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rassypnoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0441\u0441\u044b\u043f\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519900
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3df2f9c83b113ef7e1aa15097f7bb414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785611,
+            "locality_id":1277084425,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1277084425,
+    "wof:lastmodified":1537659624,
+    "wof:name":"Rassypnoye",
+    "wof:parent_id":1108785611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.90656,
+    50.48602,
+    81.90656,
+    50.48602
+],
+  "geometry": {"coordinates":[81.90656,50.48602],"type":"Point"}
+}

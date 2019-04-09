@@ -1,0 +1,80 @@
+{
+  "id": 1243530791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.69188,43.40651,69.69188,43.40651",
+    "geom:latitude":43.40651,
+    "geom:longitude":69.69188,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ushbas",
+    "gn:country_code":"KZ",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517667,
+    "gn:latitude":43.40651,
+    "gn:longitude":69.69188,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Ushbas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u00dcshbas"
+    ],
+    "name:kaz_x_variant":[
+        "\u04ae\u0448\u0431\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0448\u0431\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Uch-Bas",
+        "Ushbas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517667
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c1740e3a3d9060769a646a53375f8586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785511,
+            "locality_id":1243530791,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1243530791,
+    "wof:lastmodified":1537659534,
+    "wof:name":"Ushbas",
+    "wof:parent_id":1108785511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.69188,
+    43.40651,
+    69.69188,
+    43.40651
+],
+  "geometry": {"coordinates":[69.69188,43.40651],"type":"Point"}
+}

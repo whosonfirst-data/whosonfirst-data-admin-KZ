@@ -1,0 +1,79 @@
+{
+  "id": 1327335375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.59242,52.31252,68.59242,52.31252",
+    "geom:latitude":52.31252,
+    "geom:longitude":68.59242,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vladimirovka",
+    "gn:country_code":"KZ",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517433,
+    "gn:latitude":52.31252,
+    "gn:longitude":68.59242,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Vladimirovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vlad\u012bm\u012brovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Vlad\u012bm\u012brovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517433
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cdf1ada799c15d496fb3aceea5684177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785397,
+            "locality_id":1327335375,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327335375,
+    "wof:lastmodified":1537659521,
+    "wof:name":"Vladimirovka",
+    "wof:parent_id":1108785397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.59241999999999,
+    52.31252,
+    68.59241999999999,
+    52.31252
+],
+  "geometry": {"coordinates":[68.59241999999999,52.31252],"type":"Point"}
+}

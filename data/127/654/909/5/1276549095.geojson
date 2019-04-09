@@ -1,0 +1,70 @@
+{
+  "id": 1276549095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.74854,53.50713,69.74854,53.50713",
+    "geom:latitude":53.50713,
+    "geom:longitude":69.74854,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Aygyrzhal",
+    "gn:country_code":"KZ",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532361,
+    "gn:latitude":53.50713,
+    "gn:longitude":69.74854,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Aygyrzhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0433\u044b\u0440\u0436\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532361
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"278eb79649ded51ac57cf0527078a622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1276549095,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1276549095,
+    "wof:lastmodified":1537659966,
+    "wof:name":"Aygyrzhal",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.74854,
+    53.50713,
+    69.74854,
+    53.50713
+],
+  "geometry": {"coordinates":[69.74854000000001,53.50713],"type":"Point"}
+}

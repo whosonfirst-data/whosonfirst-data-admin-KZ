@@ -1,0 +1,73 @@
+{
+  "id": 1327022413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.87153,48.94496,53.87153,48.94496",
+    "geom:latitude":48.94496,
+    "geom:longitude":53.87153,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kindyksay",
+    "gn:country_code":"KZ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609394,
+    "gn:latitude":48.94496,
+    "gn:longitude":53.87153,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kindyksay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kindyksay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u0434\u0438\u043a\u0441\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609394
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6dcd63f9e6e0c4f0d33913ca8dfba059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785453,
+            "locality_id":1327022413,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1327022413,
+    "wof:lastmodified":1537659410,
+    "wof:name":"Kindyksay",
+    "wof:parent_id":1108785453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.87153000000001,
+    48.94496,
+    53.87153000000001,
+    48.94496
+],
+  "geometry": {"coordinates":[53.87153000000001,48.94496],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 421168367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.27214,44.80838,76.27214,44.80838",
+    "geom:latitude":44.80838,
+    "geom:longitude":76.27214,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0642\u0627\u0646\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Bakanas"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u049b\u0430\u043d\u0430\u0441 \u0430\u0443\u044b\u043b\u044b"
+    ],
+    "name:kaz_x_variant":[
+        "Baqanas",
+        "\u0411\u0430\u049b\u0430\u043d\u0430\u0441"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u043a\u0430\u043d\u0430\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Bakanas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043a\u0430\u043d\u0430\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043a\u0430\u043d\u0430\u0441"
+    ],
+    "name:uzb_x_preferred":[
+        "Baqanas"
+    ],
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1525850,
+    "qs:gn_pop":6965,
+    "qs:name":"Bakanas",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Almaty",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1031838,
+    "qs:woe_adm0":23424871,
+    "qs:woe_id":2264230,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525850,
+        "gp:id":2264230,
+        "qs:id":1031838,
+        "wd:id":"Q1047089",
+        "wk:page":"Bakanas"
+    },
+    "wof:country":"KZ",
+    "wof:created":1459008762,
+    "wof:geomhash":"444ad7d437ff7218811241042a15476b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421168367,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":421168367,
+    "wof:lastmodified":1527716096,
+    "wof:name":"Bakanas",
+    "wof:parent_id":85672921,
+    "wof:placetype":"locality",
+    "wof:population":6965,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.27214,
+    44.80838,
+    76.27214,
+    44.80838
+],
+  "geometry": {"coordinates":[76.27213999999999,44.80838],"type":"Point"}
+}

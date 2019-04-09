@@ -1,0 +1,67 @@
+{
+  "id": 1326693783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.95,43.4,74.95,43.4",
+    "geom:latitude":43.4,
+    "geom:longitude":74.95,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gorno-Klyuchevoye",
+    "gn:country_code":"KZ",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524201,
+    "gn:latitude":43.4,
+    "gn:longitude":74.95,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Gorno-Klyuchevoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524201
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"16654d89f8ca987e947129d36c0d7c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785317,
+            "locality_id":1326693783,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1326693783,
+    "wof:lastmodified":1536751201,
+    "wof:name":"Gorno-Klyuchevoye",
+    "wof:parent_id":1108785317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.95,
+    43.4,
+    74.95,
+    43.4
+],
+  "geometry": {"coordinates":[74.95,43.4],"type":"Point"}
+}

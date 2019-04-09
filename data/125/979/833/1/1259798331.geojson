@@ -1,0 +1,67 @@
+{
+  "id": 1259798331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.88333,53.3,63.88333,53.3",
+    "geom:latitude":53.3,
+    "geom:longitude":63.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kazakhstanets",
+    "gn:country_code":"KZ",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522866,
+    "gn:latitude":53.3,
+    "gn:longitude":63.88333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kazakhstanets",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522866
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"28f12d6b866b33edc5803ba9965b6716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1259798331,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1259798331,
+    "wof:lastmodified":1536901806,
+    "wof:name":"Kazakhstanets",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.88333000000001,
+    53.3,
+    63.88333000000001,
+    53.3
+],
+  "geometry": {"coordinates":[63.88333000000001,53.3],"type":"Point"}
+}

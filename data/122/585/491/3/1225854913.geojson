@@ -1,0 +1,79 @@
+{
+  "id": 1225854913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.5,50.83333,51.5,50.83333",
+    "geom:latitude":50.83333,
+    "geom:longitude":51.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Suttegende",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608151,
+    "gn:latitude":50.83333,
+    "gn:longitude":51.5,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Suttegende",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Suttegende"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0442\u0442\u0438\u0433\u0435\u043d\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Sut-Tugunde",
+        "Syuttegende",
+        "Suttegende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608151
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"229bb729cd1effa6f9898c650336de93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785731,
+            "locality_id":1225854913,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1225854913,
+    "wof:lastmodified":1537659362,
+    "wof:name":"Suttegende",
+    "wof:parent_id":1108785731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.5,
+    50.83333,
+    51.5,
+    50.83333
+],
+  "geometry": {"coordinates":[51.5,50.83333],"type":"Point"}
+}

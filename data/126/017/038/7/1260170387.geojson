@@ -1,0 +1,70 @@
+{
+  "id": 1260170387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.64073,41.73551,69.64073,41.73551",
+    "geom:latitude":41.73551,
+    "geom:longitude":69.64073,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Akparak",
+    "gn:country_code":"KZ",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526725,
+    "gn:latitude":41.73551,
+    "gn:longitude":69.64073,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Akparak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043f\u0430\u0440\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526725
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c5a71272427cfa7547437b9ae44c386a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1260170387,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1260170387,
+    "wof:lastmodified":1537659924,
+    "wof:name":"Akparak",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.64073,
+    41.73551,
+    69.64073,
+    41.73551
+],
+  "geometry": {"coordinates":[69.64073,41.73551],"type":"Point"}
+}

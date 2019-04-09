@@ -1,0 +1,73 @@
+{
+  "id": 890455937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.35517,53.5836,68.35517,53.5836",
+    "geom:latitude":53.5836,
+    "geom:longitude":68.35517,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":1354,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Birlestik"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0456\u0440\u043b\u0435\u0441\u0442\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0440\u043b\u0435\u0441\u0442\u0438\u043a"
+    ],
+    "qs:name":"Birlestik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532249,
+        "gp:id":2264642,
+        "qs:id":556764
+    },
+    "wof:country":"KZ",
+    "wof:created":1469052986,
+    "wof:geomhash":"deb560c3e08f9d0770930c978e28ff11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890455937,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":890455937,
+    "wof:lastmodified":1505343666,
+    "wof:name":"Birlestik",
+    "wof:parent_id":85672907,
+    "wof:placetype":"locality",
+    "wof:population":1354,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.35517,
+    53.5836,
+    68.35517,
+    53.5836
+],
+  "geometry": {"coordinates":[68.35517,53.5836],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209986059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.90545,52.59654,67.90545,52.59654",
+    "geom:latitude":52.59654,
+    "geom:longitude":67.90545,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Krasnovo",
+    "gn:country_code":"KZ",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1536009,
+    "gn:latitude":52.59654,
+    "gn:longitude":67.90545,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Krasnovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krasnovo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1536009
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4402855672b7071fb789c8831ff26c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1209986059,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1209986059,
+    "wof:lastmodified":1537660005,
+    "wof:name":"Krasnovo",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.90545,
+    52.59654000000001,
+    67.90545,
+    52.59654000000001
+],
+  "geometry": {"coordinates":[67.90545,52.59654000000001],"type":"Point"}
+}

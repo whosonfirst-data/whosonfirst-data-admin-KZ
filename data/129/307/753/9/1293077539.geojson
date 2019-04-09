@@ -1,0 +1,83 @@
+{
+  "id": 1293077539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.37082,52.64157,61.37082,52.64157",
+    "geom:latitude":52.64157,
+    "geom:longitude":61.37082,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Okrainka",
+    "gn:country_code":"KZ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520465,
+    "gn:latitude":52.64157,
+    "gn:longitude":61.37082,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Okrainka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okrainka"
+    ],
+    "name:kaz_x_preferred":[
+        "Okra\u012bnka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u043a\u0440\u0430\u0438\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0440\u0430\u0438\u043d\u043d\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Okrainnyy",
+        "Okrainka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520465
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"89f35c9ce5edcf4e5a4e6430495d6a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785661,
+            "locality_id":1293077539,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293077539,
+    "wof:lastmodified":1537659659,
+    "wof:name":"Okrainka",
+    "wof:parent_id":1108785661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.37082,
+    52.64157,
+    61.37082,
+    52.64157
+],
+  "geometry": {"coordinates":[61.37082,52.64157],"type":"Point"}
+}

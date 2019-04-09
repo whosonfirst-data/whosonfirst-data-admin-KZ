@@ -1,0 +1,73 @@
+{
+  "id": 1310319755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.23333,49.55,50.23333,49.55",
+    "geom:latitude":49.55,
+    "geom:longitude":50.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kuzhan",
+    "gn:country_code":"KZ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609040,
+    "gn:latitude":49.55,
+    "gn:longitude":50.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kuzhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuzhan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0436\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609040
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"59be454881b1e552530538f42859f91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1310319755,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1310319755,
+    "wof:lastmodified":1537659397,
+    "wof:name":"Kuzhan",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.23333,
+    49.55,
+    50.23333,
+    49.55
+],
+  "geometry": {"coordinates":[50.23333,49.55],"type":"Point"}
+}

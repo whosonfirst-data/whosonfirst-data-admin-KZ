@@ -1,0 +1,67 @@
+{
+  "id": 1225863235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.03333,50.26667,50.03333,50.26667",
+    "geom:latitude":50.26667,
+    "geom:longitude":50.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Buldyk",
+    "gn:country_code":"KZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610183,
+    "gn:latitude":50.26667,
+    "gn:longitude":50.03333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Buldyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610183
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e7f627b5e28255209d99ca13521b3bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1225863235,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1225863235,
+    "wof:lastmodified":1536987651,
+    "wof:name":"Buldyk",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.03333,
+    50.26667,
+    50.03333,
+    50.26667
+],
+  "geometry": {"coordinates":[50.03333,50.26667],"type":"Point"}
+}

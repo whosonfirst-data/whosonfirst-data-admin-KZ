@@ -1,0 +1,67 @@
+{
+  "id": 1243244567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.98333,50.7,77.98333,50.7",
+    "geom:latitude":50.7,
+    "geom:longitude":77.98333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Boshan",
+    "gn:country_code":"KZ",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525113,
+    "gn:latitude":50.7,
+    "gn:longitude":77.98333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Boshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525113
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"49e17367285d15557ccbb1e845226d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1243244567,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1243244567,
+    "wof:lastmodified":1537093316,
+    "wof:name":"Boshan",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.98333000000002,
+    50.7,
+    77.98333000000002,
+    50.7
+],
+  "geometry": {"coordinates":[77.98333000000002,50.7],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210026325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.22899,45.84631,80.22899,45.84631",
+    "geom:latitude":45.84631,
+    "geom:longitude":80.22899,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Qyzylqayyng",
+    "gn:country_code":"KZ",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519921,
+    "gn:latitude":45.84631,
+    "gn:longitude":80.22899,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Qyzylqayyng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saratovskoye",
+        "Saratovka",
+        "Qyzylqayyng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519921,
+        "wk:page":"Qyzylqayyng"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2604c055adc0645753acf89406f10ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785413,
+            "locality_id":1210026325,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1210026325,
+    "wof:lastmodified":1537659625,
+    "wof:name":"Qyzylqayyng",
+    "wof:parent_id":1108785413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.22899,
+    45.84631,
+    80.22899,
+    45.84631
+],
+  "geometry": {"coordinates":[80.22899,45.84631],"type":"Point"}
+}

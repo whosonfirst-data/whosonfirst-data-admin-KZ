@@ -1,0 +1,79 @@
+{
+  "id": 1225852301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.46983,52.29151,70.46983,52.29151",
+    "geom:latitude":52.29151,
+    "geom:longitude":70.46983,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ulytoghan",
+    "gn:country_code":"KZ",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149728,
+    "gn:latitude":52.29151,
+    "gn:longitude":70.46983,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Ulytoghan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Ulytoghan"
+    ],
+    "name:kaz_x_variant":[
+        "\u04b0\u043b\u044b\u0442\u043e\u0493\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u044b\u0442\u043e\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ulytogan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149728
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ddcecefe8dd3db8c413c2db6a0cf9aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785389,
+            "locality_id":1225852301,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1225852301,
+    "wof:lastmodified":1537660125,
+    "wof:name":"Ulytoghan",
+    "wof:parent_id":1108785389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.46983,
+    52.29151,
+    70.46983,
+    52.29151
+],
+  "geometry": {"coordinates":[70.46983,52.29151],"type":"Point"}
+}

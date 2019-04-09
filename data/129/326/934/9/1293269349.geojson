@@ -1,0 +1,80 @@
+{
+  "id": 1293269349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.23683,49.66007,72.23683,49.66007",
+    "geom:latitude":49.66007,
+    "geom:longitude":72.23683,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Koyandy",
+    "gn:country_code":"KZ",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522111,
+    "gn:latitude":49.66007,
+    "gn:longitude":72.23683,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Koyandy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qoyandy"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u044f\u043d\u0434\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u044f\u043d\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kuyandy",
+        "Koyandy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522111
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cb8e0fe9675ee02f291be05a73bb4568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785649,
+            "locality_id":1293269349,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1293269349,
+    "wof:lastmodified":1537659743,
+    "wof:name":"Koyandy",
+    "wof:parent_id":1108785649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.23683,
+    49.66007000000001,
+    72.23683,
+    49.66007000000001
+],
+  "geometry": {"coordinates":[72.23683,49.66007000000001],"type":"Point"}
+}

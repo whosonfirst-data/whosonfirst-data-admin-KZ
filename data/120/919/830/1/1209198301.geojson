@@ -1,0 +1,67 @@
+{
+  "id": 1209198301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.59171,41.75594,69.59171,41.75594",
+    "geom:latitude":41.75594,
+    "geom:longitude":69.59171,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Turbat",
+    "gn:country_code":"KZ",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517971,
+    "gn:latitude":41.75594,
+    "gn:longitude":69.59171,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Turbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "T\u016brbat"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0443\u0440\u0431\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517971
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"65f1d91aef7ca4c9a3ebdbc8a39f6df4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209198301
+        }
+    ],
+    "wof:id":1209198301,
+    "wof:lastmodified":1537659544,
+    "wof:name":"Turbat",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.59170999999999,
+    41.75594,
+    69.59170999999999,
+    41.75594
+],
+  "geometry": {"coordinates":[69.59170999999999,41.75594],"type":"Point"}
+}

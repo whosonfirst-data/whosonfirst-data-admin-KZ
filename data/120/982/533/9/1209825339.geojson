@@ -1,0 +1,67 @@
+{
+  "id": 1209825339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.18333,51.2,68.18333,51.2",
+    "geom:latitude":51.2,
+    "geom:longitude":68.18333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bol'shaya Shuga",
+    "gn:country_code":"KZ",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525202,
+    "gn:latitude":51.2,
+    "gn:longitude":68.18333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Bol\u2019shaya Shuga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525202
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"389f4ccb6219ccf3e98524ea810eacb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785387,
+            "locality_id":1209825339,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1209825339,
+    "wof:lastmodified":1536374294,
+    "wof:name":"Bol'shaya Shuga",
+    "wof:parent_id":1108785387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.18333,
+    51.2,
+    68.18333,
+    51.2
+],
+  "geometry": {"coordinates":[68.18333,51.2],"type":"Point"}
+}

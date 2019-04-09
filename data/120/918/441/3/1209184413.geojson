@@ -1,0 +1,73 @@
+{
+  "id": 1209184413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.58434,49.44957,81.58434,49.44957",
+    "geom:latitude":49.44957,
+    "geom:longitude":81.58434,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Baturinka",
+    "gn:country_code":"KZ",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525674,
+    "gn:latitude":49.44957,
+    "gn:longitude":81.58434,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Baturinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baturinka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u012airli"
+    ],
+    "name:kaz_x_variant":[
+        "\u0418\u0456\u0440\u043b\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u0443\u0440\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525674
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"69ef88372c629a7d80a5acd43cdd1128",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209184413
+        }
+    ],
+    "wof:id":1209184413,
+    "wof:lastmodified":1537659886,
+    "wof:name":"Baturinka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.58434,
+    49.44957,
+    81.58434,
+    49.44957
+],
+  "geometry": {"coordinates":[81.58434,49.44957],"type":"Point"}
+}

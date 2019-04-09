@@ -1,0 +1,67 @@
+{
+  "id": 1293302819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.03203,50.52395,54.03203,50.52395",
+    "geom:latitude":50.52395,
+    "geom:longitude":54.03203,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kizimchek",
+    "gn:country_code":"KZ",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609377,
+    "gn:latitude":50.52395,
+    "gn:longitude":54.03203,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kizimchek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609377
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cf43be72ceb46570ad43909c75998095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785711,
+            "locality_id":1293302819,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293302819,
+    "wof:lastmodified":1537050998,
+    "wof:name":"Kizimchek",
+    "wof:parent_id":1108785711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.03203000000001,
+    50.52395,
+    54.03203000000001,
+    50.52395
+],
+  "geometry": {"coordinates":[54.03203000000001,50.52395],"type":"Point"}
+}

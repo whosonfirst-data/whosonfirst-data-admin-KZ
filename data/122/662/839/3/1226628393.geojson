@@ -1,0 +1,82 @@
+{
+  "id": 1226628393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.50022,54.37459,70.50022,54.37459",
+    "geom:latitude":54.37459,
+    "geom:longitude":70.50022,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Seyfulino",
+    "gn:country_code":"KZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531129,
+    "gn:latitude":54.37459,
+    "gn:longitude":70.50022,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Seyfulino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Seyfulino"
+    ],
+    "name:kaz_x_preferred":[
+        "Seyf\u016bll\u012bn"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0435\u0439\u0444\u0443\u043b\u043b\u0438\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0439\u0444\u0443\u043b\u043b\u0438\u043d\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u0439\u0444\u0443\u043b\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531129
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"78241ab33f8996a41134c7eecdac611e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1226628393,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226628393,
+    "wof:lastmodified":1537659955,
+    "wof:name":"Seyfulino",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.50022,
+    54.37459000000001,
+    70.50022,
+    54.37459000000001
+],
+  "geometry": {"coordinates":[70.50022,54.37459000000001],"type":"Point"}
+}

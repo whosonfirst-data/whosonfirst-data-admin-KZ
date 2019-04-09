@@ -1,0 +1,86 @@
+{
+  "id": 1226215741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.06583,49.74732,84.06583,49.74732",
+    "geom:latitude":49.74732,
+    "geom:longitude":84.06583,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Snegirevo",
+    "gn:country_code":"KZ",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518929,
+    "gn:latitude":49.74732,
+    "gn:longitude":84.06583,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Snegir\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Snegirevo"
+    ],
+    "name:kaz_x_preferred":[
+        "Sneg\u012bryovo"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u043d\u0435\u0433\u0438\u0440\u0451\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043d\u0435\u0433\u0438\u0440\u0435\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "Snegir\u00ebvo"
+    ],
+    "name:und_x_variant":[
+        "Snegevevo",
+        "Snigeveva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518929
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"67e31d2a0b2d47aa629664645fbf9bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1226215741,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226215741,
+    "wof:lastmodified":1537659582,
+    "wof:name":"Snegirevo",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.06583,
+    49.74732,
+    84.06583,
+    49.74732
+],
+  "geometry": {"coordinates":[84.06583000000001,49.74732],"type":"Point"}
+}

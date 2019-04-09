@@ -1,0 +1,83 @@
+{
+  "id": 1243183813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.16227,53.44493,69.16227,53.44493",
+    "geom:latitude":53.44493,
+    "geom:longitude":69.16227,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Donggilaghash",
+    "gn:country_code":"KZ",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532331,
+    "gn:latitude":53.44493,
+    "gn:longitude":69.16227,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Donggilaghash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dongul'agash"
+    ],
+    "name:kaz_x_preferred":[
+        "Donggilaghash"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u043e\u04a3\u0433\u0456\u043b\u0430\u0493\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u0433\u0443\u043b\u0430\u0433\u0430\u0448"
+    ],
+    "name:rus_x_variant":[
+        "Dongul\u2019agash",
+        "\u0414\u043e\u043d\u0433\u0443\u043b\u044c\u0430\u0433\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532331
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"816877f0bb753e427beb71e7d77699eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1243183813,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1243183813,
+    "wof:lastmodified":1537659965,
+    "wof:name":"Donggilaghash",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.16226999999999,
+    53.44493000000001,
+    69.16226999999999,
+    53.44493000000001
+],
+  "geometry": {"coordinates":[69.16226999999999,53.44493000000001],"type":"Point"}
+}

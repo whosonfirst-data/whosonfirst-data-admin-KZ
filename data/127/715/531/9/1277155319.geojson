@@ -1,0 +1,70 @@
+{
+  "id": 1277155319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.9,52.71667,77.9,52.71667",
+    "geom:latitude":52.71667,
+    "geom:longitude":77.9,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kas'yanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522936,
+    "gn:latitude":52.71667,
+    "gn:longitude":77.9,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Kas\u2019yanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kas\u2019yanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522936
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ec0f8b0ec91698a3d61193e88e335502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1277155319,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1277155319,
+    "wof:lastmodified":1537659778,
+    "wof:name":"Kas'yanovka",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.9,
+    52.71666999999999,
+    77.9,
+    52.71666999999999
+],
+  "geometry": {"coordinates":[77.90000000000001,52.71666999999999],"type":"Point"}
+}

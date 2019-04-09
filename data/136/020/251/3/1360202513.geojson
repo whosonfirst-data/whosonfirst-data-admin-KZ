@@ -1,0 +1,73 @@
+{
+  "id": 1360202513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.86771,43.54703,77.86771,43.54703",
+    "geom:latitude":43.54703,
+    "geom:longitude":77.86771,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Teskensu",
+    "gn:country_code":"KZ",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518177,
+    "gn:latitude":43.54703,
+    "gn:longitude":77.86771,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Teskensu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Teskens\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0435\u0441\u043a\u0435\u043d\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518177
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"afc2e6ec2646ae7df37c135ec383c9b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1360202513,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1360202513,
+    "wof:lastmodified":1537659555,
+    "wof:name":"Teskensu",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.86771,
+    43.54703,
+    77.86771,
+    43.54703
+],
+  "geometry": {"coordinates":[77.86771,43.54703],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1292988835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.76469,53.07198,74.76469,53.07198",
+    "geom:latitude":53.07198,
+    "geom:longitude":74.76469,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Otdeleniye Nomer Dva Sovkhoza Novoivanovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520610,
+    "gn:latitude":53.07198,
+    "gn:longitude":74.76469,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Otdeleniye Nomer Dva Sovkhoza Novoivanovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Tasqudyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0430\u0441\u049b\u04b1\u0434\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u0414\u0432\u0430 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u041d\u043e\u0432\u043e\u0438\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Novoivanovskiy",
+        "Otdeleniye Nomer Dva Sovkhoza Novoivanovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520610
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c90b2838059b8e2b1519498f4c986bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1292988835,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1292988835,
+    "wof:lastmodified":1537659670,
+    "wof:name":"Otdeleniye Nomer Dva Sovkhoza Novoivanovskiy",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.76469,
+    53.07198,
+    74.76469,
+    53.07198
+],
+  "geometry": {"coordinates":[74.76469,53.07198],"type":"Point"}
+}

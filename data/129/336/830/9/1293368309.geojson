@@ -1,0 +1,84 @@
+{
+  "id": 1293368309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.16496,52.79629,78.16496,52.79629",
+    "geom:latitude":52.79629,
+    "geom:longitude":78.16496,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Stretinka",
+    "gn:country_code":"KZ",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518761,
+    "gn:latitude":52.79629,
+    "gn:longitude":78.16496,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Stretinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Stretenka"
+    ],
+    "name:kaz_x_preferred":[
+        "Stret\u012bnka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0442\u0440\u0435\u0442\u0438\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0440\u0435\u0442\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sretenskiy",
+        "Stretenka",
+        "Stretinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518761
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"623edd276bb0abecb240e47af035037d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1293368309,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1293368309,
+    "wof:lastmodified":1537659573,
+    "wof:name":"Stretinka",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.16496,
+    52.79629,
+    78.16496,
+    52.79629
+],
+  "geometry": {"coordinates":[78.16495999999999,52.79629],"type":"Point"}
+}

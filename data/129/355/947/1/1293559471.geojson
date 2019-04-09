@@ -1,0 +1,85 @@
+{
+  "id": 1293559471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.0429,49.10776,84.0429,49.10776",
+    "geom:latitude":49.10776,
+    "geom:longitude":84.0429,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Novotimofeyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520655,
+    "gn:latitude":49.10776,
+    "gn:longitude":84.0429,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Novotimofeyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novotimofeyevka"
+    ],
+    "name:kaz_x_preferred":[
+        "Novot\u012bmofeevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0442\u0438\u043c\u043e\u0444\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0442\u0438\u043c\u043e\u0444\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chistyy Yar",
+        "Novaya Timofeyevka",
+        "Chisty Yar",
+        "Novotimofeyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520655
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e740ae4e75e6ae34a434e01a56410102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1293559471,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293559471,
+    "wof:lastmodified":1537659673,
+    "wof:name":"Novotimofeyevka",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.0429,
+    49.10776,
+    84.0429,
+    49.10776
+],
+  "geometry": {"coordinates":[84.0429,49.10776],"type":"Point"}
+}

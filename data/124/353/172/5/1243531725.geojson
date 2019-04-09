@@ -1,0 +1,67 @@
+{
+  "id": 1243531725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.77444,50.09,71.77444,50.09",
+    "geom:latitude":50.09,
+    "geom:longitude":71.77444,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhangabul",
+    "gn:country_code":"KZ",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1483075,
+    "gn:latitude":50.09,
+    "gn:longitude":71.77444,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Zhangabul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1483075
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"394c3dfb19a40b7c97c4fe69b3e58bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785499,
+            "locality_id":1243531725,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1243531725,
+    "wof:lastmodified":1536682614,
+    "wof:name":"Zhangabul",
+    "wof:parent_id":1108785499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.77444,
+    50.09,
+    71.77444,
+    50.09
+],
+  "geometry": {"coordinates":[71.77444,50.09],"type":"Point"}
+}

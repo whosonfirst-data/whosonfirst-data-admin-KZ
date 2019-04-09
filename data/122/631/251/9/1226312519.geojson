@@ -1,0 +1,81 @@
+{
+  "id": 1226312519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.03514,54.90281,70.03514,54.90281",
+    "geom:latitude":54.90281,
+    "geom:longitude":70.03514,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Furmanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524264,
+    "gn:latitude":54.90281,
+    "gn:longitude":70.03514,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Furmanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "F\u016brmanovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0443\u0440\u043c\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0443\u0440\u043c\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Furmanovskiy",
+        "F\u016brmanovka",
+        "Furmanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524264
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0e8ed61bab9d0592e9ef38e553452a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1226312519,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226312519,
+    "wof:lastmodified":1537659829,
+    "wof:name":"Furmanovka",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.03514,
+    54.90281,
+    70.03514,
+    54.90281
+],
+  "geometry": {"coordinates":[70.03514,54.90281],"type":"Point"}
+}

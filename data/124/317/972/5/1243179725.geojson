@@ -1,0 +1,79 @@
+{
+  "id": 1243179725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.36782,53.10364,70.36782,53.10364",
+    "geom:latitude":53.10364,
+    "geom:longitude":70.36782,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zelyonyy Bor",
+    "gn:country_code":"KZ",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11113301,
+    "gn:latitude":53.10364,
+    "gn:longitude":70.36782,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Zelyonyy Bor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zelyonyy Bor"
+    ],
+    "name:kaz_x_variant":[
+        "\u0417\u0435\u043b\u0451\u043d\u044b\u0439 \u0411\u043e\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u0411\u043e\u0440"
+    ],
+    "name:und_x_variant":[
+        "Zelenyy Bor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11113301
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6299e27cd2689c36d80b614e3ed3fa8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785629,
+            "locality_id":1243179725,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1243179725,
+    "wof:lastmodified":1537660097,
+    "wof:name":"Zelyonyy Bor",
+    "wof:parent_id":1108785629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.36782,
+    53.10364000000001,
+    70.36782,
+    53.10364000000001
+],
+  "geometry": {"coordinates":[70.36781999999999,53.10364000000001],"type":"Point"}
+}

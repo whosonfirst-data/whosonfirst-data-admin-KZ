@@ -1,0 +1,71 @@
+{
+  "id": 1259962609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.93345,47.93582,80.93345,47.93582",
+    "geom:latitude":47.93582,
+    "geom:longitude":80.93345,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Aqshi",
+    "gn:country_code":"KZ",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526679,
+    "gn:latitude":47.93582,
+    "gn:longitude":80.93345,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Aqsh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akshiy",
+        "Aqsh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526679
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"62f03cc883037b41eb13452bf8098ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785459,
+            "locality_id":1259962609,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259962609,
+    "wof:lastmodified":1537659922,
+    "wof:name":"Aqshi",
+    "wof:parent_id":1108785459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.93345,
+    47.93582,
+    80.93345,
+    47.93582
+],
+  "geometry": {"coordinates":[80.93344999999999,47.93582],"type":"Point"}
+}

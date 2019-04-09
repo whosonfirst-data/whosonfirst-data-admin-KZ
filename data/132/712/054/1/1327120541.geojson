@@ -1,0 +1,83 @@
+{
+  "id": 1327120541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.68004,53.52179,65.68004,53.52179",
+    "geom:latitude":53.52179,
+    "geom:longitude":65.68004,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Novobarvinovka",
+    "gn:country_code":"KZ",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520640,
+    "gn:latitude":53.52179,
+    "gn:longitude":65.68004,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Novobarvinovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novobarvinovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Novobarv\u012bnovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0431\u0430\u0440\u0432\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0431\u0430\u0440\u0432\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novo-Barbinovka",
+        "Novobarvinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520640
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"46253fe4cd328e335687a69eeb1f5a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785569,
+            "locality_id":1327120541,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1327120541,
+    "wof:lastmodified":1537659672,
+    "wof:name":"Novobarvinovka",
+    "wof:parent_id":1108785569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.68004,
+    53.52179,
+    65.68004,
+    53.52179
+],
+  "geometry": {"coordinates":[65.68004000000001,53.52179],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209012119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.71235,52.73901,70.71235,52.73901",
+    "geom:latitude":52.73901,
+    "geom:longitude":70.71235,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Saule",
+    "gn:country_code":"KZ",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519482,
+    "gn:latitude":52.73901,
+    "gn:longitude":70.71235,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Saule",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saule"
+    ],
+    "name:kaz_x_preferred":[
+        "S\u00e4\u016ble"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u04d9\u0443\u043b\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0443\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Sauly",
+        "Saule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519482
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"baa7b92e3587c2aef490d628eca47526",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209012119
+        }
+    ],
+    "wof:id":1209012119,
+    "wof:lastmodified":1537659608,
+    "wof:name":"Saule",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.71235,
+    52.73901,
+    70.71235,
+    52.73901
+],
+  "geometry": {"coordinates":[70.71235,52.73901],"type":"Point"}
+}

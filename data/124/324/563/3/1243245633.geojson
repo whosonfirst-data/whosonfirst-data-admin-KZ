@@ -1,0 +1,76 @@
+{
+  "id": 1243245633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.62714,53.46473,66.62714,53.46473",
+    "geom:latitude":53.46473,
+    "geom:longitude":66.62714,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Belogradovka",
+    "gn:country_code":"KZ",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532127,
+    "gn:latitude":53.46473,
+    "gn:longitude":66.62714,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Belogradovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Belogradovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532127
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"696735a8004d8e5d63c2760cba579562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785689,
+            "locality_id":1243245633,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243245633,
+    "wof:lastmodified":1537659958,
+    "wof:name":"Belogradovka",
+    "wof:parent_id":1108785689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.62714,
+    53.46473,
+    66.62714,
+    53.46473
+],
+  "geometry": {"coordinates":[66.62714,53.46473],"type":"Point"}
+}

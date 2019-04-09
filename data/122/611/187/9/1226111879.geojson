@@ -1,0 +1,80 @@
+{
+  "id": 1226111879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.37732,54.10493,71.37732,54.10493",
+    "geom:latitude":54.10493,
+    "geom:longitude":71.37732,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kiyevskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522603,
+    "gn:latitude":54.10493,
+    "gn:longitude":71.37732,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Kiyevskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K\u012bevskoe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0438\u0435\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0435\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kiyevskiy",
+        "K\u012bevskoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522603
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8ad8ab5a13d6a5817afb2c0a26a5be64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1226111879,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226111879,
+    "wof:lastmodified":1537659765,
+    "wof:name":"Kiyevskoye",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.37732,
+    54.10493,
+    71.37732,
+    54.10493
+],
+  "geometry": {"coordinates":[71.37732,54.10493],"type":"Point"}
+}

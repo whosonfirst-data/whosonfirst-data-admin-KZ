@@ -1,0 +1,80 @@
+{
+  "id": 1243038323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.41806,49.35306,77.41806,49.35306",
+    "geom:latitude":49.35306,
+    "geom:longitude":77.41806,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Karaulen",
+    "gn:country_code":"KZ",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537199,
+    "gn:latitude":49.35306,
+    "gn:longitude":77.41806,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Karaulen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qara\u00f6len"
+    ],
+    "name:kaz_x_variant":[
+        "Qara\u00f6leng",
+        "\u049a\u0430\u0440\u0430\u04e9\u043b\u0435\u04a3"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u0435 \u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u041a\u0430\u0439\u043d\u0430\u0440\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Pervoye Otdeleniye Sovkhoza Kaynarskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537199
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6998f779b9c0da9e34a0a4e1f5a289cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1243038323,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243038323,
+    "wof:lastmodified":1537660013,
+    "wof:name":"Karaulen",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.41806,
+    49.35306,
+    77.41806,
+    49.35306
+],
+  "geometry": {"coordinates":[77.41806,49.35306],"type":"Point"}
+}

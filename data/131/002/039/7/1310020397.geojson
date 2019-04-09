@@ -1,0 +1,77 @@
+{
+  "id": 1310020397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.99947,52.70424,69.99947,52.70424",
+    "geom:latitude":52.70424,
+    "geom:longitude":69.99947,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Urymqay",
+    "gn:country_code":"KZ",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535649,
+    "gn:latitude":52.70424,
+    "gn:longitude":69.99947,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Urymqay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Urymqay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0443\u043c\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Urumkay",
+        "Urymqay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535649
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d58450b2799383d58b9ee92f22989bd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785629,
+            "locality_id":1310020397,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310020397,
+    "wof:lastmodified":1537659999,
+    "wof:name":"Urymqay",
+    "wof:parent_id":1108785629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.99947,
+    52.70424000000001,
+    69.99947,
+    52.70424000000001
+],
+  "geometry": {"coordinates":[69.99947,52.70424000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309882049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.60563,43.16684,74.60563,43.16684",
+    "geom:latitude":43.16684,
+    "geom:longitude":74.60563,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kalguta",
+    "gn:country_code":"KZ",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8219979,
+    "gn:latitude":43.16684,
+    "gn:longitude":74.60563,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Kalguta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0433\u0443\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8219979
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"77fb39989eaaa48e58c9bdb735f6c5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785317,
+            "locality_id":1309882049,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1309882049,
+    "wof:lastmodified":1537660040,
+    "wof:name":"Kalguta",
+    "wof:parent_id":1108785317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.60563,
+    43.16684,
+    74.60563,
+    43.16684
+],
+  "geometry": {"coordinates":[74.60563,43.16684],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1260271151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.24765,53.84068,75.24765,53.84068",
+    "geom:latitude":53.84068,
+    "geom:longitude":75.24765,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Razdel'noye",
+    "gn:country_code":"KZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533041,
+    "gn:latitude":53.84068,
+    "gn:longitude":75.24765,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Razdel\u2019noye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Razdel'noye"
+    ],
+    "name:kaz_x_preferred":[
+        "Razdel\u2019noe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0420\u0430\u0437\u0434\u0435\u043b\u044c\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0434\u0435\u043b\u044c\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Razdel\u2019noye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533041
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"63b4a19dc022f47d6c03e27574b5f5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785349,
+            "locality_id":1260271151,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1260271151,
+    "wof:lastmodified":1537659974,
+    "wof:name":"Razdel'noye",
+    "wof:parent_id":1108785349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.24765,
+    53.84068000000001,
+    75.24765,
+    53.84068000000001
+],
+  "geometry": {"coordinates":[75.24764999999999,53.84068000000001],"type":"Point"}
+}

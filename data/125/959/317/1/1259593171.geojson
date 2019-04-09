@@ -1,0 +1,71 @@
+{
+  "id": 1259593171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.99765,50.49548,69.99765,50.49548",
+    "geom:latitude":50.49548,
+    "geom:longitude":69.99765,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Birtaban",
+    "gn:country_code":"KZ",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525305,
+    "gn:latitude":50.49548,
+    "gn:longitude":69.99765,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Birtaban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Byr-Taban",
+        "Birtaban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525305
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3650425585dc1c6abfee19b50cd831fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785395,
+            "locality_id":1259593171,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259593171,
+    "wof:lastmodified":1537659870,
+    "wof:name":"Birtaban",
+    "wof:parent_id":1108785395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.99765,
+    50.49548,
+    69.99765,
+    50.49548
+],
+  "geometry": {"coordinates":[69.99764999999999,50.49548],"type":"Point"}
+}

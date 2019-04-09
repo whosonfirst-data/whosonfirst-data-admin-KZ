@@ -1,0 +1,65 @@
+{
+  "id": 1209082531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.3,53.48333,61.3,53.48333",
+    "geom:latitude":53.48333,
+    "geom:longitude":61.3,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ornekskiy",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520358,
+    "gn:latitude":53.48333,
+    "gn:longitude":61.3,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Ornekskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urnek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520358
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8c7b4795b170541eb013247cde26db34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209082531
+        }
+    ],
+    "wof:id":1209082531,
+    "wof:lastmodified":1537659651,
+    "wof:name":"Ornekskiy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.3,
+    53.48333,
+    61.3,
+    53.48333
+],
+  "geometry": {"coordinates":[61.3,53.48333],"type":"Point"}
+}

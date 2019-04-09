@@ -1,0 +1,79 @@
+{
+  "id": 1209498893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.03307,41.49182,68.03307,41.49182",
+    "geom:latitude":41.49182,
+    "geom:longitude":68.03307,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Syrdar'inskoe",
+    "gn:country_code":"KZ",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1536916,
+    "gn:latitude":41.49182,
+    "gn:longitude":68.03307,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Syrdar\u2019\u012bnskoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Syrdar\u2019\u012bnskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u044b\u0440\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "Pyat\u2019desyat Let Oktyabrya"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u044f\u0442\u044c\u0434\u0435\u0441\u044f\u0442 \u041b\u0435\u0442 \u041e\u043a\u0442\u044f\u0431\u0440\u044f"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Imeni Pyat\u2019desyat Let Oktyabrya",
+        "Syrdar\u2019ynskoye",
+        "Syrdar\u2019inskoye",
+        "Syrdar\u012bya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1536916
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7c5019bd2451f338374d82128d1a20ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209498893
+        }
+    ],
+    "wof:id":1209498893,
+    "wof:lastmodified":1537660007,
+    "wof:name":"Syrdar'inskoe",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.03307,
+    41.49182,
+    68.03307,
+    41.49182
+],
+  "geometry": {"coordinates":[68.03307,41.49182],"type":"Point"}
+}

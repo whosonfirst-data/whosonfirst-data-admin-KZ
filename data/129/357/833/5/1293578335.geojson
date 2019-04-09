@@ -1,0 +1,67 @@
+{
+  "id": 1293578335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.75,41.51667,68.75,41.51667",
+    "geom:latitude":41.51667,
+    "geom:longitude":68.75,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Karavan-Saray",
+    "gn:country_code":"KZ",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523040,
+    "gn:latitude":41.51667,
+    "gn:longitude":68.75,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Karavan-Saray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523040
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"54186181f2c2cd653f9571d1164ab52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1293578335,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293578335,
+    "wof:lastmodified":1536656223,
+    "wof:name":"Karavan-Saray",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.75,
+    41.51667,
+    68.75,
+    41.51667
+],
+  "geometry": {"coordinates":[68.75,41.51667],"type":"Point"}
+}

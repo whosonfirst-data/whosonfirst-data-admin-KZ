@@ -1,0 +1,73 @@
+{
+  "id": 1310223131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.57361,49.39761,62.57361,49.39761",
+    "geom:latitude":49.39761,
+    "geom:longitude":62.57361,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kaldybay",
+    "gn:country_code":"KZ",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1536015,
+    "gn:latitude":49.39761,
+    "gn:longitude":62.57361,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Kaldybay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kaldybay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0434\u044b\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1536015
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8716de6e863b96a24ae699d1e6168077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1310223131,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310223131,
+    "wof:lastmodified":1537660005,
+    "wof:name":"Kaldybay",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.57361,
+    49.39761,
+    62.57361,
+    49.39761
+],
+  "geometry": {"coordinates":[62.57361,49.39761],"type":"Point"}
+}

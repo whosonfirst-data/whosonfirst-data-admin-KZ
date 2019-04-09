@@ -1,0 +1,79 @@
+{
+  "id": 1327404221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.13822,48.43318,85.13822,48.43318",
+    "geom:latitude":48.43318,
+    "geom:longitude":85.13822,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Altay",
+    "gn:country_code":"KZ",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10867439,
+    "gn:latitude":48.43318,
+    "gn:longitude":85.13822,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Altay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Altay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u043b\u0442\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0440\u0435\u0447\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Prirechnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10867439
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ead0f83bde7d277a5a474c7efc32fb49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1327404221,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327404221,
+    "wof:lastmodified":1537660071,
+    "wof:name":"Altay",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.13821999999998,
+    48.43318,
+    85.13821999999998,
+    48.43318
+],
+  "geometry": {"coordinates":[85.13821999999998,48.43318],"type":"Point"}
+}

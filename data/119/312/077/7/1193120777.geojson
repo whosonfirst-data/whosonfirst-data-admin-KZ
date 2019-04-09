@@ -1,0 +1,79 @@
+{
+  "id": 1193120777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07269,43.08134,71.07269,43.08134",
+    "geom:latitude":43.08134,
+    "geom:longitude":71.07269,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Qarakemer",
+    "gn:country_code":"KZ",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11118805,
+    "gn:latitude":43.08134,
+    "gn:longitude":71.07269,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Qarakemer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarakemer"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u043a\u0435\u043c\u0435\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u0435\u043c\u0435\u0440"
+    ],
+    "name:und_x_variant":[
+        "Karakemer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11118805
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2b6498349bd8e422202bcd88a4f95c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785603,
+            "locality_id":1193120777,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1193120777,
+    "wof:lastmodified":1537660099,
+    "wof:name":"Qarakemer",
+    "wof:parent_id":1108785603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07269000000002,
+    43.08134,
+    71.07269000000002,
+    43.08134
+],
+  "geometry": {"coordinates":[71.07269000000002,43.08134],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343968193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.68337,50.24396,79.68337,50.24396",
+    "geom:latitude":50.24396,
+    "geom:longitude":79.68337,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sary-Bulak",
+    "gn:country_code":"KZ",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519648,
+    "gn:latitude":50.24396,
+    "gn:longitude":79.68337,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sary-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519648
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e3ed301743e7763eaee047ec96874ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1343968193,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343968193,
+    "wof:lastmodified":1537008023,
+    "wof:name":"Sary-Bulak",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.68337,
+    50.24396,
+    79.68337,
+    50.24396
+],
+  "geometry": {"coordinates":[79.68337,50.24396],"type":"Point"}
+}

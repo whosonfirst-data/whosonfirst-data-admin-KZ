@@ -1,0 +1,80 @@
+{
+  "id": 1243245675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.22416,54.94181,70.22416,54.94181",
+    "geom:latitude":54.94181,
+    "geom:longitude":70.22416,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Novotroitskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520532,
+    "gn:latitude":54.94181,
+    "gn:longitude":70.22416,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Novotroitskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Novogeorg\u012bevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0433\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0442\u0440\u043e\u0438\u0446\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Novo-Troitskiy",
+        "Novotroitskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520532
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3e5e3b6fc2600e3c982054623529a591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1243245675,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243245675,
+    "wof:lastmodified":1537659662,
+    "wof:name":"Novotroitskoye",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.22416,
+    54.94181,
+    70.22416,
+    54.94181
+],
+  "geometry": {"coordinates":[70.22416,54.94181],"type":"Point"}
+}

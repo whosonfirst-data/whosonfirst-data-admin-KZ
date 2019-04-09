@@ -1,0 +1,71 @@
+{
+  "id": 1243431529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.48333,50.4,72.48333,50.4",
+    "geom:latitude":50.4,
+    "geom:longitude":72.48333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kundyzdy",
+    "gn:country_code":"KZ",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521794,
+    "gn:latitude":50.4,
+    "gn:longitude":72.48333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kundyzdy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kunduzdy",
+        "Kundyzdy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521794
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"976d75792cb2411c3e8c4d682ca48df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1243431529,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1243431529,
+    "wof:lastmodified":1537659728,
+    "wof:name":"Kundyzdy",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.48333000000002,
+    50.4,
+    72.48333000000002,
+    50.4
+],
+  "geometry": {"coordinates":[72.48333000000002,50.4],"type":"Point"}
+}

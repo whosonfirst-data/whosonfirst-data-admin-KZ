@@ -1,0 +1,76 @@
+{
+  "id": 1327320763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.57965,49.87904,73.57965,49.87904",
+    "geom:latitude":49.87904,
+    "geom:longitude":73.57965,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Togyzkuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518117,
+    "gn:latitude":49.87904,
+    "gn:longitude":73.57965,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Togyzkuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0422\u043e\u0493\u044b\u0437\u049b\u04b1\u0434\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0433\u044b\u0437\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "Toghyzqudyq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518117
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c2593fc92fa0e0900249aa643f29067f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1327320763,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1327320763,
+    "wof:lastmodified":1537659551,
+    "wof:name":"Togyzkuduk",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.57965,
+    49.87904,
+    73.57965,
+    49.87904
+],
+  "geometry": {"coordinates":[73.57965,49.87904],"type":"Point"}
+}

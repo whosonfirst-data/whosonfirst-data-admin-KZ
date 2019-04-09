@@ -1,0 +1,67 @@
+{
+  "id": 1209949815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.18726,48.79614,60.18726,48.79614",
+    "geom:latitude":48.79614,
+    "geom:longitude":60.18726,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aktogay",
+    "gn:country_code":"KZ",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526571,
+    "gn:latitude":48.79614,
+    "gn:longitude":60.18726,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Aktogay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526571
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6ba04112d116e42f547da7fd9e08f984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785715,
+            "locality_id":1209949815,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1209949815,
+    "wof:lastmodified":1536384682,
+    "wof:name":"Aktogay",
+    "wof:parent_id":1108785715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.18726,
+    48.79614,
+    60.18726,
+    48.79614
+],
+  "geometry": {"coordinates":[60.18726,48.79614],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344140679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.1636,40.94787,68.1636,40.94787",
+    "geom:latitude":40.94787,
+    "geom:longitude":68.1636,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Makhtaly",
+    "gn:country_code":"KZ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521235,
+    "gn:latitude":40.94787,
+    "gn:longitude":68.1636,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Makhtaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Maqtaly"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0430\u049b\u0442\u0430\u043b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0445\u0442\u0430\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521235
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b049df99368f873b0a5268bb38d2a332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1344140679,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1344140679,
+    "wof:lastmodified":1537659703,
+    "wof:name":"Makhtaly",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.1636,
+    40.94787,
+    68.1636,
+    40.94787
+],
+  "geometry": {"coordinates":[68.1636,40.94787],"type":"Point"}
+}

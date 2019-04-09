@@ -1,0 +1,78 @@
+{
+  "id": 1360300387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.92851,50.74845,52.92851,50.74845",
+    "geom:latitude":50.74845,
+    "geom:longitude":52.92851,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Khar'kovalkovka",
+    "gn:country_code":"KZ",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609414,
+    "gn:latitude":50.74845,
+    "gn:longitude":52.92851,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Khar\u2019kovalkovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khar'kovalkovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u044c\u043a\u043e\u0432\u0430\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Valkovskiy",
+        "Khar\u2019kovalovka",
+        "Khar\u2019kovalkovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609414
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aab24e83bf63f8dadc2d6b1de9323fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785325,
+            "locality_id":1360300387,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1360300387,
+    "wof:lastmodified":1537659411,
+    "wof:name":"Khar'kovalkovka",
+    "wof:parent_id":1108785325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.92851,
+    50.74845,
+    52.92851,
+    50.74845
+],
+  "geometry": {"coordinates":[52.92851,50.74845],"type":"Point"}
+}

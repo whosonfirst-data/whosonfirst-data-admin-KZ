@@ -1,0 +1,87 @@
+{
+  "id": 1293499029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.74666,52.86131,72.74666,52.86131",
+    "geom:latitude":52.86131,
+    "geom:longitude":72.74666,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Voroshilovo",
+    "gn:country_code":"KZ",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533574,
+    "gn:latitude":52.86131,
+    "gn:longitude":72.74666,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Voroshilovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Boroshilovo"
+    ],
+    "name:kaz_x_preferred":[
+        "Vorosh\u012blovo"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Karabulak",
+        "Boroshilovo",
+        "Voroshilovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533574
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"23b0c678ee188dc807f06972e6dd5b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1293499029,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293499029,
+    "wof:lastmodified":1537659978,
+    "wof:name":"Voroshilovo",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.74665999999998,
+    52.86131,
+    72.74665999999998,
+    52.86131
+],
+  "geometry": {"coordinates":[72.74665999999998,52.86131],"type":"Point"}
+}

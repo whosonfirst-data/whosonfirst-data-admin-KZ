@@ -1,0 +1,72 @@
+{
+  "id": 1209916009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.7699,51.8621,70.7699,51.8621",
+    "geom:latitude":51.8621,
+    "geom:longitude":70.7699,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Podlesnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520118,
+    "gn:latitude":51.8621,
+    "gn:longitude":70.7699,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Podlesnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podlesnyy",
+        "Podlesnoye",
+        "Dmitrovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520118
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"72b2637f27ee0d8d2ada32b422d38d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1209916009,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1209916009,
+    "wof:lastmodified":1537659639,
+    "wof:name":"Podlesnoye",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.7699,
+    51.8621,
+    70.7699,
+    51.8621
+],
+  "geometry": {"coordinates":[70.76990000000001,51.8621],"type":"Point"}
+}

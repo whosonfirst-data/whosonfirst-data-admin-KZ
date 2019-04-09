@@ -1,0 +1,80 @@
+{
+  "id": 1276199207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.71944,50.3768,82.71944,50.3768",
+    "geom:latitude":50.3768,
+    "geom:longitude":82.71944,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bystrukha",
+    "gn:country_code":"KZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524931,
+    "gn:latitude":50.3768,
+    "gn:longitude":82.71944,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Bystrukha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bystr\u016bkha"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u044b\u0441\u0442\u0440\u0443\u0445\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044b\u0441\u0442\u0440\u0443\u0445\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bystr\u016bkha",
+        "Bystrukha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524931
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b9adee3891845e97cdf48b9caf89d139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785307,
+            "locality_id":1276199207,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276199207,
+    "wof:lastmodified":1537659855,
+    "wof:name":"Bystrukha",
+    "wof:parent_id":1108785307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.71944,
+    50.3768,
+    82.71944,
+    50.3768
+],
+  "geometry": {"coordinates":[82.71944000000001,50.3768],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1259562737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.33881,53.8989,63.33881,53.8989",
+    "geom:latitude":53.8989,
+    "geom:longitude":63.33881,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Aral",
+    "gn:country_code":"KZ",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526249,
+    "gn:latitude":53.8989,
+    "gn:longitude":63.33881,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Aral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aral'skoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Aral"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0440\u0430\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_variant":[
+        "Aral\u2019skoye",
+        "\u0410\u0440\u0430\u043b\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Aral\u2019skiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526249
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d314aec12db49ac71ebc9894eb33b8a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1259562737,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1259562737,
+    "wof:lastmodified":1537659906,
+    "wof:name":"Aral",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.33881,
+    53.8989,
+    63.33881,
+    53.8989
+],
+  "geometry": {"coordinates":[63.33881,53.8989],"type":"Point"}
+}

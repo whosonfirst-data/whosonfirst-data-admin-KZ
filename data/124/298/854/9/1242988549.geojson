@@ -1,0 +1,79 @@
+{
+  "id": 1242988549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.66643,43.3402,76.66643,43.3402",
+    "geom:latitude":43.3402,
+    "geom:longitude":76.66643,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qoshmambet",
+    "gn:country_code":"KZ",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11528042,
+    "gn:latitude":43.3402,
+    "gn:longitude":76.66643,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Qoshmambet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qoshmambet"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u0448\u043c\u0430\u043c\u0431\u0435\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0448\u043c\u0430\u043c\u0431\u0435\u0442"
+    ],
+    "name:und_x_variant":[
+        "Koshmambet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11528042
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b0afed485fcede09dc33644085da42c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785419,
+            "locality_id":1242988549,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1242988549,
+    "wof:lastmodified":1537660190,
+    "wof:name":"Qoshmambet",
+    "wof:parent_id":1108785419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.66643,
+    43.3402,
+    76.66643,
+    43.3402
+],
+  "geometry": {"coordinates":[76.66643000000001,43.3402],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310000475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.33836,51.47698,53.33836,51.47698",
+    "geom:latitude":51.47698,
+    "geom:longitude":53.33836,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dmitrovo",
+    "gn:country_code":"KZ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609758,
+    "gn:latitude":51.47698,
+    "gn:longitude":53.33836,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Dmitrovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dmitrovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Izbek",
+        "Dmitrov",
+        "Dmitrovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609758
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0ca406c637a495c97c5cc32de5b70e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785325,
+            "locality_id":1310000475,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1310000475,
+    "wof:lastmodified":1537659422,
+    "wof:name":"Dmitrovo",
+    "wof:parent_id":1108785325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.33836,
+    51.47698,
+    53.33836,
+    51.47698
+],
+  "geometry": {"coordinates":[53.33836,51.47698],"type":"Point"}
+}

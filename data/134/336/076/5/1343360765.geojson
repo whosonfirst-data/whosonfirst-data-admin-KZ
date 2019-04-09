@@ -1,0 +1,82 @@
+{
+  "id": 1343360765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.9827,52.72262,69.9827,52.72262",
+    "geom:latitude":52.72262,
+    "geom:longitude":69.9827,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dmitriyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524589,
+    "gn:latitude":52.72262,
+    "gn:longitude":69.9827,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Dmitriyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dm\u012btr\u012bevka"
+    ],
+    "name:kaz_x_preferred":[
+        "Dm\u012btr\u012bevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dmitriyevskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524589
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6115cfa6d97b9f4a3d45d98f9bd2b837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785629,
+            "locality_id":1343360765,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343360765,
+    "wof:lastmodified":1537659842,
+    "wof:name":"Dmitriyevka",
+    "wof:parent_id":1108785629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.9827,
+    52.72261999999999,
+    69.9827,
+    52.72261999999999
+],
+  "geometry": {"coordinates":[69.98269999999999,52.72261999999999],"type":"Point"}
+}

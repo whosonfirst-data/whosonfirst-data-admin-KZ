@@ -1,0 +1,73 @@
+{
+  "id": 1260063541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.47172,42.93708,71.47172,42.93708",
+    "geom:latitude":42.93708,
+    "geom:longitude":71.47172,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Talas",
+    "gn:country_code":"KZ",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11118840,
+    "gn:latitude":42.93708,
+    "gn:longitude":71.47172,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Talas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Talas"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0430\u043b\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11118840
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"10070daf98e65a56ef45859c5d3330df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785487,
+            "locality_id":1260063541,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1260063541,
+    "wof:lastmodified":1537660102,
+    "wof:name":"Talas",
+    "wof:parent_id":1108785487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.47171999999998,
+    42.93708,
+    71.47171999999998,
+    42.93708
+],
+  "geometry": {"coordinates":[71.47171999999998,42.93708],"type":"Point"}
+}

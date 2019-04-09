@@ -1,0 +1,76 @@
+{
+  "id": 1343248401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.87868,52.17255,63.87868,52.17255",
+    "geom:latitude":52.17255,
+    "geom:longitude":63.87868,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kurguus",
+    "gn:country_code":"KZ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11421732,
+    "gn:latitude":52.17255,
+    "gn:longitude":63.87868,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Kurguus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qurq\u016bys"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u04b1\u0440\u049b\u0443\u044b\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0433\u0443\u0443\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11421732
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"68ffccc79e002d4805f700ca3ec7c07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785659,
+            "locality_id":1343248401,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343248401,
+    "wof:lastmodified":1537660149,
+    "wof:name":"Kurguus",
+    "wof:parent_id":1108785659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.87868,
+    52.17255,
+    63.87868,
+    52.17255
+],
+  "geometry": {"coordinates":[63.87868,52.17255],"type":"Point"}
+}

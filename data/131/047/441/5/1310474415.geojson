@@ -1,0 +1,79 @@
+{
+  "id": 1310474415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.45101,53.32146,67.45101,53.32146",
+    "geom:latitude":53.32146,
+    "geom:longitude":67.45101,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kazanka",
+    "gn:country_code":"KZ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522853,
+    "gn:latitude":53.32146,
+    "gn:longitude":67.45101,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kazanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kazanka"
+    ],
+    "name:kaz_x_preferred":[
+        "Kazanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kazanskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522853
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b87e2d3850d08ebfafe1bf0ccf3c9206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1310474415,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310474415,
+    "wof:lastmodified":1537659776,
+    "wof:name":"Kazanka",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.45101,
+    53.32146,
+    67.45101,
+    53.32146
+],
+  "geometry": {"coordinates":[67.45101,53.32146],"type":"Point"}
+}

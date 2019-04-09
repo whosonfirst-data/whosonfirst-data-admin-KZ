@@ -1,0 +1,76 @@
+{
+  "id": 1327007177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.69797,49.06504,73.69797,49.06504",
+    "geom:latitude":49.06504,
+    "geom:longitude":73.69797,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Akkiik",
+    "gn:country_code":"KZ",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492257,
+    "gn:latitude":49.06504,
+    "gn:longitude":73.69797,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Akkiik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqq\u012byaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u049b\u0438\u044f\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043a\u0438\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492257
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2d5754fc78d4d10db4be7e6956279ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1327007177,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1327007177,
+    "wof:lastmodified":1537660164,
+    "wof:name":"Akkiik",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.69797,
+    49.06504,
+    73.69797,
+    49.06504
+],
+  "geometry": {"coordinates":[73.69797,49.06504],"type":"Point"}
+}

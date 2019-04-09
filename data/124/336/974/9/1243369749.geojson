@@ -1,0 +1,82 @@
+{
+  "id": 1243369749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.6722,50.15002,55.6722,50.15002",
+    "geom:latitude":50.15002,
+    "geom:longitude":55.6722,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Novoalekseyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608724,
+    "gn:latitude":50.15002,
+    "gn:longitude":55.6722,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Novoalekseyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novoalekseevka"
+    ],
+    "name:kaz_x_preferred":[
+        "Novoalekseevka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0430\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khobda",
+        "Novo-Alekseyevskoye",
+        "Novoakkseyevka",
+        "Novo-Alekseevskoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608724
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0b9441437482ff389805c7d2a015c234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785491,
+            "locality_id":1243369749,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1243369749,
+    "wof:lastmodified":1537659385,
+    "wof:name":"Novoalekseyevka",
+    "wof:parent_id":1108785491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.6722,
+    50.15002,
+    55.6722,
+    50.15002
+],
+  "geometry": {"coordinates":[55.6722,50.15002],"type":"Point"}
+}

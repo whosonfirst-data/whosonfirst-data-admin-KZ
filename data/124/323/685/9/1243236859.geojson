@@ -1,0 +1,71 @@
+{
+  "id": 1243236859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.59006,49.62688,83.59006,49.62688",
+    "geom:latitude":49.62688,
+    "geom:longitude":83.59006,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Oktyabr'skiy",
+    "gn:country_code":"KZ",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520443,
+    "gn:latitude":49.62688,
+    "gn:longitude":83.59006,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Oktyabr\u2019sk\u012by",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oktyabr\u2019skoye",
+        "Oktyabr\u2019sk\u012by"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520443
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"eec475dec1cfcfb88fa211a4aa734d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1243236859,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243236859,
+    "wof:lastmodified":1537659657,
+    "wof:name":"Oktyabr'skiy",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.59006,
+    49.62688,
+    83.59006,
+    49.62688
+],
+  "geometry": {"coordinates":[83.59005999999999,49.62688],"type":"Point"}
+}

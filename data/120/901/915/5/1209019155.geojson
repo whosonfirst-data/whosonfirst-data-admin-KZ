@@ -1,0 +1,61 @@
+{
+  "id": 1209019155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.85,51.18333,50.85,51.18333",
+    "geom:latitude":51.18333,
+    "geom:longitude":50.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kamenskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609719,
+    "gn:latitude":51.18333,
+    "gn:longitude":50.85,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kamenskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609719
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"58c93fbac9a52d6f3133664d03e56bbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209019155
+        }
+    ],
+    "wof:id":1209019155,
+    "wof:lastmodified":1536300200,
+    "wof:name":"Kamenskiy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.85,
+    51.18333,
+    50.85,
+    51.18333
+],
+  "geometry": {"coordinates":[50.85,51.18333],"type":"Point"}
+}

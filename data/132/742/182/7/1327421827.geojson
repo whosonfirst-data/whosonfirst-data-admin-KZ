@@ -1,0 +1,84 @@
+{
+  "id": 1327421827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.87518,52.33786,77.87518,52.33786",
+    "geom:latitude":52.33786,
+    "geom:longitude":77.87518,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zhylybulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516559,
+    "gn:latitude":52.33786,
+    "gn:longitude":77.87518,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Zhylybulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhilblak"
+    ],
+    "name:kaz_x_preferred":[
+        "Zhylybulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u044b\u043b\u044b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u043b\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zhil-Bulak",
+        "Zhilblak",
+        "Zhilbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516559
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"be7f4e3f161cf0db321d66775944ceb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1327421827,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1327421827,
+    "wof:lastmodified":1537659475,
+    "wof:name":"Zhylybulaq",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.87518,
+    52.33786,
+    77.87518,
+    52.33786
+],
+  "geometry": {"coordinates":[77.87518,52.33786],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310212495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.43866,51.40719,68.43866,51.40719",
+    "geom:latitude":51.40719,
+    "geom:longitude":68.43866,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novomarinovka",
+    "gn:country_code":"KZ",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521112,
+    "gn:latitude":51.40719,
+    "gn:longitude":68.43866,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Novomar\u012bnovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marinovskiy",
+        "Novomar\u012bnovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521112
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1200d6c0eca8d81bb22aaf16bdced5dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785387,
+            "locality_id":1310212495,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310212495,
+    "wof:lastmodified":1537659697,
+    "wof:name":"Novomarinovka",
+    "wof:parent_id":1108785387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.43866,
+    51.40719,
+    68.43866,
+    51.40719
+],
+  "geometry": {"coordinates":[68.43866,51.40719],"type":"Point"}
+}

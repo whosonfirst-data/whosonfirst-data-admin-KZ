@@ -1,0 +1,67 @@
+{
+  "id": 1242985431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.63333,49.9,47.63333,49.9",
+    "geom:latitude":49.9,
+    "geom:longitude":47.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Boysuat",
+    "gn:country_code":"KZ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610204,
+    "gn:latitude":49.9,
+    "gn:longitude":47.63333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Boysuat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610204
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9f3de997957c6be7b12f35cc452a3ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1242985431,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1242985431,
+    "wof:lastmodified":1536972733,
+    "wof:name":"Boysuat",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.63333,
+    49.9,
+    47.63333,
+    49.9
+],
+  "geometry": {"coordinates":[47.63333,49.9],"type":"Point"}
+}

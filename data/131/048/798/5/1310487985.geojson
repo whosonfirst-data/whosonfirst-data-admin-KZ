@@ -1,0 +1,79 @@
+{
+  "id": 1310487985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.78179,51.76507,64.78179,51.76507",
+    "geom:latitude":51.76507,
+    "geom:longitude":64.78179,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sholaqsay",
+    "gn:country_code":"KZ",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519079,
+    "gn:latitude":51.76507,
+    "gn:longitude":64.78179,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sholaqsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sholaqsay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043b\u0430\u043a\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Chulaksayskiy",
+        "Sholaksay",
+        "Cholak-Say",
+        "Sholaqsay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519079
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fb10ec92a13225ab839f6883bececcd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785513,
+            "locality_id":1310487985,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310487985,
+    "wof:lastmodified":1537659590,
+    "wof:name":"Sholaqsay",
+    "wof:parent_id":1108785513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.78179,
+    51.76507,
+    64.78179,
+    51.76507
+],
+  "geometry": {"coordinates":[64.78179,51.76507],"type":"Point"}
+}

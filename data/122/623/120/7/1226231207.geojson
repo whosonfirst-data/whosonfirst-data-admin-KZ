@@ -1,0 +1,70 @@
+{
+  "id": 1226231207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.78182,41.11126,68.78182,41.11126",
+    "geom:latitude":41.11126,
+    "geom:longitude":68.78182,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Otdeleniye Uchagan",
+    "gn:country_code":"KZ",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10956205,
+    "gn:latitude":41.11126,
+    "gn:longitude":68.78182,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Otdeleniye Uchagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0423\u0447\u0430\u0433\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956205
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b45f14db59041efc9f8c644bf4343363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1226231207,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226231207,
+    "wof:lastmodified":1537660082,
+    "wof:name":"Otdeleniye Uchagan",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.78182,
+    41.11126,
+    68.78182,
+    41.11126
+],
+  "geometry": {"coordinates":[68.78182,41.11126],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209896317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.48071,50.25312,71.48071,50.25312",
+    "geom:latitude":50.25312,
+    "geom:longitude":71.48071,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Karoy",
+    "gn:country_code":"KZ",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523234,
+    "gn:latitude":50.25312,
+    "gn:longitude":71.48071,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Karoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karaoy",
+        "Karoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523234
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bab1eef77c587aabca813bc0e77eaaf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785499,
+            "locality_id":1209896317,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1209896317,
+    "wof:lastmodified":1537659787,
+    "wof:name":"Karoy",
+    "wof:parent_id":1108785499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.48071,
+    50.25312,
+    71.48071,
+    50.25312
+],
+  "geometry": {"coordinates":[71.48071,50.25312],"type":"Point"}
+}

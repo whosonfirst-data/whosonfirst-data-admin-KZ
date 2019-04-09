@@ -1,0 +1,80 @@
+{
+  "id": 1259574897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.08174,51.57684,52.08174,51.57684",
+    "geom:latitude":51.57684,
+    "geom:longitude":52.08174,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chebotarevo",
+    "gn:country_code":"KZ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610120,
+    "gn:latitude":51.57684,
+    "gn:longitude":52.08174,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Chebotar\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chebotar\u00ebvo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0431\u043e\u0442\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "Chebotar\u00ebvo"
+    ],
+    "name:und_x_variant":[
+        "Chebatar\u00ebv",
+        "Chebotar\u00ebv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610120
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"589e3dec25bbe147692758b9f432c390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785331,
+            "locality_id":1259574897,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1259574897,
+    "wof:lastmodified":1537659431,
+    "wof:name":"Chebotarevo",
+    "wof:parent_id":1108785331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.08174,
+    51.57684,
+    52.08174,
+    51.57684
+],
+  "geometry": {"coordinates":[52.08174,51.57684],"type":"Point"}
+}

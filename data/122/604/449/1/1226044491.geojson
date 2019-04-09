@@ -1,0 +1,76 @@
+{
+  "id": 1226044491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.93933,52.49353,68.93933,52.49353",
+    "geom:latitude":52.49353,
+    "geom:longitude":68.93933,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novoromanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520563,
+    "gn:latitude":52.49353,
+    "gn:longitude":68.93933,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Novoromanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novoromanovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0440\u043e\u043c\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0440\u043e\u043c\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520563
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"49ac39ed2aac511172694e92390a7f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785397,
+            "locality_id":1226044491,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226044491,
+    "wof:lastmodified":1537659665,
+    "wof:name":"Novoromanovka",
+    "wof:parent_id":1108785397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.93933,
+    52.49353000000001,
+    68.93933,
+    52.49353000000001
+],
+  "geometry": {"coordinates":[68.93933,52.49353000000001],"type":"Point"}
+}

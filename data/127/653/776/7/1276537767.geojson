@@ -1,0 +1,67 @@
+{
+  "id": 1276537767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.71667,42.78333,68.71667,42.78333",
+    "geom:latitude":42.78333,
+    "geom:longitude":68.71667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhanaaryk",
+    "gn:country_code":"KZ",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516893,
+    "gn:latitude":42.78333,
+    "gn:longitude":68.71667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Zhanaaryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516893
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"63e8983f2948a831a75b9c51f7861eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785593,
+            "locality_id":1276537767,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276537767,
+    "wof:lastmodified":1537001284,
+    "wof:name":"Zhanaaryk",
+    "wof:parent_id":1108785593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.71667,
+    42.78333,
+    68.71667,
+    42.78333
+],
+  "geometry": {"coordinates":[68.71666999999999,42.78333],"type":"Point"}
+}

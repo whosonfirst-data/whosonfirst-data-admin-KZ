@@ -1,0 +1,75 @@
+{
+  "id": 1243347247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.79032,41.87241,69.79032,41.87241",
+    "geom:latitude":41.87241,
+    "geom:longitude":69.79032,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kyzylbulak",
+    "gn:country_code":"KZ",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516574,
+    "gn:latitude":41.87241,
+    "gn:longitude":69.79032,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Kyzylbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zhigirgen",
+        "Zhigirzen",
+        "Kyzylbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516574
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0e1661dd02bd7d9598e4614f5c58f712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1243347247,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243347247,
+    "wof:lastmodified":1537659476,
+    "wof:name":"Kyzylbulak",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.79032,
+    41.87241,
+    69.79032,
+    41.87241
+],
+  "geometry": {"coordinates":[69.79031999999999,41.87241],"type":"Point"}
+}

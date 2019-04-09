@@ -1,0 +1,71 @@
+{
+  "id": 1326831067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.63333,50.65,57.63333,50.65",
+    "geom:latitude":50.65,
+    "geom:longitude":57.63333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kel'-Kerey",
+    "gn:country_code":"KZ",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609449,
+    "gn:latitude":50.65,
+    "gn:longitude":57.63333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kel\u2019-Kerey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kel-Kedey",
+        "Kel\u2019-Kerey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609449
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"18f8b090d329d7d219a8b57c87bcb518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785697,
+            "locality_id":1326831067,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1326831067,
+    "wof:lastmodified":1537659412,
+    "wof:name":"Kel'-Kerey",
+    "wof:parent_id":1108785697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.63333000000001,
+    50.65,
+    57.63333000000001,
+    50.65
+],
+  "geometry": {"coordinates":[57.63333000000001,50.65],"type":"Point"}
+}

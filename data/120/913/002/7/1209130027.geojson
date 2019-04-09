@@ -1,0 +1,67 @@
+{
+  "id": 1209130027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.98333,48.9,60.98333,48.9",
+    "geom:latitude":48.9,
+    "geom:longitude":60.98333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mankanay",
+    "gn:country_code":"KZ",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521134,
+    "gn:latitude":48.9,
+    "gn:longitude":60.98333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Mankanay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mankanay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u043a\u0430\u043d\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521134
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5d97f877d01b8aa9bbe16aede57b5dff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209130027
+        }
+    ],
+    "wof:id":1209130027,
+    "wof:lastmodified":1537659698,
+    "wof:name":"Mankanay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.98333,
+    48.9,
+    60.98333,
+    48.9
+],
+  "geometry": {"coordinates":[60.98333,48.9],"type":"Point"}
+}

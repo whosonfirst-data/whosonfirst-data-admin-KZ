@@ -1,0 +1,85 @@
+{
+  "id": 1310715773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.28313,43.54423,77.28313,43.54423",
+    "geom:latitude":43.54423,
+    "geom:longitude":77.28313,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bazarkeldi",
+    "gn:country_code":"KZ",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":1525565,
+    "gn:latitude":43.54423,
+    "gn:longitude":77.28313,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Bazarkeldi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Bazarkeldi"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u0437\u0430\u0440\u043a\u0435\u043b\u0434\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0437\u0430\u0440\u043a\u0435\u043b\u044c\u0434\u044b"
+    ],
+    "name:rus_x_variant":[
+        "Otdeleniye Nomer Odin Sovkhoza Oktyabr\u2019skiy",
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u041e\u0434\u0438\u043d \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Bazaskel\u2019dy",
+        "Bazarkel\u2019dy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525565,
+        "wk:page":"Bazarkel%27dy"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a124b0146a11b5484b8becce9f8ba87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1310715773,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1310715773,
+    "wof:lastmodified":1537659881,
+    "wof:name":"Bazarkeldi",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.28313,
+    43.54423,
+    77.28313,
+    43.54423
+],
+  "geometry": {"coordinates":[77.28313,43.54423],"type":"Point"}
+}

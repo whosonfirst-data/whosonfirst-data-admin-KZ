@@ -1,0 +1,76 @@
+{
+  "id": 1259476951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.35732,43.55032,68.35732,43.55032",
+    "geom:latitude":43.55032,
+    "geom:longitude":68.35732,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shashtobe",
+    "gn:country_code":"KZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055413,
+    "gn:latitude":43.55032,
+    "gn:longitude":68.35732,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Shashtobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shasht\u00f6be"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0430\u0448\u0442\u04e9\u0431\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0448\u0442\u043e\u0431\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055413
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8410bc69a081ca599d844b6ac1c1e97a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1259476951,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1259476951,
+    "wof:lastmodified":1537660093,
+    "wof:name":"Shashtobe",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.35732,
+    43.55032,
+    68.35732,
+    43.55032
+],
+  "geometry": {"coordinates":[68.35732,43.55032],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310115959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.43333,51.95,64.43333,51.95",
+    "geom:latitude":51.95,
+    "geom:longitude":64.43333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kokbiye",
+    "gn:country_code":"KZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522537,
+    "gn:latitude":51.95,
+    "gn:longitude":64.43333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kokbiye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522537
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bf8037f4a61c69165e50eda3107a14b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785513,
+            "locality_id":1310115959,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310115959,
+    "wof:lastmodified":1536980629,
+    "wof:name":"Kokbiye",
+    "wof:parent_id":1108785513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.43333,
+    51.95,
+    64.43333,
+    51.95
+],
+  "geometry": {"coordinates":[64.43333,51.95],"type":"Point"}
+}

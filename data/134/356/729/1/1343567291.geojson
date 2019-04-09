@@ -1,0 +1,71 @@
+{
+  "id": 1343567291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.36667,50.35,56.36667,50.35",
+    "geom:latitude":50.35,
+    "geom:longitude":56.36667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ashchisay",
+    "gn:country_code":"KZ",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610555,
+    "gn:latitude":50.35,
+    "gn:longitude":56.36667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Ashchisay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashche-Say",
+        "Ashchisay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610555
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c71634a4457cea2b78d71279b3de31d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785323,
+            "locality_id":1343567291,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1343567291,
+    "wof:lastmodified":1537659446,
+    "wof:name":"Ashchisay",
+    "wof:parent_id":1108785323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.36666999999999,
+    50.35,
+    56.36666999999999,
+    50.35
+],
+  "geometry": {"coordinates":[56.36666999999999,50.35],"type":"Point"}
+}

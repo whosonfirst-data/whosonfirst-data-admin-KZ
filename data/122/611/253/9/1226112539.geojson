@@ -1,0 +1,79 @@
+{
+  "id": 1226112539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.13124,49.52188,81.13124,49.52188",
+    "geom:latitude":49.52188,
+    "geom:longitude":81.13124,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qarash",
+    "gn:country_code":"KZ",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512792,
+    "gn:latitude":49.52188,
+    "gn:longitude":81.13124,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Qarash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarash"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Karash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512792
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5a3794eb25b8ec597ac732f4a59749d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1226112539,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226112539,
+    "wof:lastmodified":1537660181,
+    "wof:name":"Qarash",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.13124,
+    49.52188,
+    81.13124,
+    49.52188
+],
+  "geometry": {"coordinates":[81.13124000000001,49.52188],"type":"Point"}
+}

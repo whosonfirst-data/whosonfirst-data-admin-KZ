@@ -1,0 +1,70 @@
+{
+  "id": 1259765293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.35166,53.64649,67.35166,53.64649",
+    "geom:latitude":53.64649,
+    "geom:longitude":67.35166,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Izvestkovoye",
+    "gn:country_code":"KZ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532170,
+    "gn:latitude":53.64649,
+    "gn:longitude":67.35166,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Izvestkovoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0432\u0435\u0441\u0442\u043a\u043e\u0432\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532170
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"538d2a96cdd807b1b287de0785f80e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1259765293,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259765293,
+    "wof:lastmodified":1537659960,
+    "wof:name":"Izvestkovoye",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.35166,
+    53.64649,
+    67.35166,
+    53.64649
+],
+  "geometry": {"coordinates":[67.35166,53.64649],"type":"Point"}
+}

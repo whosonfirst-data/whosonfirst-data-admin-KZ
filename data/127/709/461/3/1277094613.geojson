@@ -1,0 +1,73 @@
+{
+  "id": 1277094613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25577,42.8171,69.25577,42.8171",
+    "geom:latitude":42.8171,
+    "geom:longitude":69.25577,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bekbau",
+    "gn:country_code":"KZ",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641317,
+    "gn:latitude":42.8171,
+    "gn:longitude":69.25577,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Bekbau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Bekba\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u043a\u0431\u0430\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641317
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4d61e8d10713ca006e69cadb093c142a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785583,
+            "locality_id":1277094613,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1277094613,
+    "wof:lastmodified":1537660055,
+    "wof:name":"Bekbau",
+    "wof:parent_id":1108785583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25577,
+    42.8171,
+    69.25577,
+    42.8171
+],
+  "geometry": {"coordinates":[69.25577,42.8171],"type":"Point"}
+}

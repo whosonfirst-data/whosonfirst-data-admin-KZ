@@ -1,0 +1,67 @@
+{
+  "id": 1293178125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.16667,49.6,67.16667,49.6",
+    "geom:latitude":49.6,
+    "geom:longitude":67.16667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Shuruk",
+    "gn:country_code":"KZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518990,
+    "gn:latitude":49.6,
+    "gn:longitude":67.16667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Shuruk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518990
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"14d525c9fc2f7aa90bd36ac0a68767c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785515,
+            "locality_id":1293178125,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1293178125,
+    "wof:lastmodified":1536736209,
+    "wof:name":"Shuruk",
+    "wof:parent_id":1108785515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.16667,
+    49.6,
+    67.16667,
+    49.6
+],
+  "geometry": {"coordinates":[67.16667,49.6],"type":"Point"}
+}

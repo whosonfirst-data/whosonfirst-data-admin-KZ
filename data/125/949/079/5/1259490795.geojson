@@ -1,0 +1,73 @@
+{
+  "id": 1259490795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.72762,51.51404,67.72762,51.51404",
+    "geom:latitude":51.51404,
+    "geom:longitude":67.72762,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Oku",
+    "gn:country_code":"KZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520420,
+    "gn:latitude":51.51404,
+    "gn:longitude":67.72762,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Oku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u00dcki"
+    ],
+    "name:und_x_variant":[
+        "Uki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520420
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f9a841ef20872c560bb502a04eb8603f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785623,
+            "locality_id":1259490795,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259490795,
+    "wof:lastmodified":1537659655,
+    "wof:name":"Oku",
+    "wof:parent_id":1108785623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.72762,
+    51.51404,
+    67.72762,
+    51.51404
+],
+  "geometry": {"coordinates":[67.72762,51.51404],"type":"Point"}
+}

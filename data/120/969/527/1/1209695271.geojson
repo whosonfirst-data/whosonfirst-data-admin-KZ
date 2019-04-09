@@ -1,0 +1,77 @@
+{
+  "id": 1209695271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.96503,53.35812,63.96503,53.35812",
+    "geom:latitude":53.35812,
+    "geom:longitude":63.96503,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nechaevka",
+    "gn:country_code":"KZ",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520725,
+    "gn:latitude":53.35812,
+    "gn:longitude":63.96503,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Nechaevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nechayevskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "Nechaevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u0435\u0447\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0447\u0430\u0435\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Nechayevskiy",
+        "Nechayevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520725
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cbbddba18562e7eecd8215cb8f44bc70",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209695271
+        }
+    ],
+    "wof:id":1209695271,
+    "wof:lastmodified":1537659678,
+    "wof:name":"Nechaevka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.96503000000001,
+    53.35811999999999,
+    63.96503000000001,
+    53.35811999999999
+],
+  "geometry": {"coordinates":[63.96503000000001,53.35811999999999],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209378491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.42574,43.07134,73.42574,43.07134",
+    "geom:latitude":43.07134,
+    "geom:longitude":73.42574,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Altynaryk",
+    "gn:country_code":"KZ",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8220751,
+    "gn:latitude":43.07134,
+    "gn:longitude":73.42574,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Altynaryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Altynaryq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u043b\u0442\u044b\u043d\u0430\u0440\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0442\u044b\u043d\u0430\u0440\u044b\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8220751
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4b4f022c97a30dffb8d01a6eeee68678",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209378491
+        }
+    ],
+    "wof:id":1209378491,
+    "wof:lastmodified":1537660041,
+    "wof:name":"Altynaryk",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.42574,
+    43.07134,
+    73.42574,
+    43.07134
+],
+  "geometry": {"coordinates":[73.42574,43.07134],"type":"Point"}
+}

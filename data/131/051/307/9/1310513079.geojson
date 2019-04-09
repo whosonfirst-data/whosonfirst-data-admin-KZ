@@ -1,0 +1,71 @@
+{
+  "id": 1310513079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.86129,51.40746,71.86129,51.40746",
+    "geom:latitude":51.40746,
+    "geom:longitude":71.86129,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Minovka",
+    "gn:country_code":"KZ",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520926,
+    "gn:latitude":51.40746,
+    "gn:longitude":71.86129,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Minovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minovskoye",
+        "Minovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520926
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c41c816ca437d358d85be65fd8661abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785441,
+            "locality_id":1310513079,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310513079,
+    "wof:lastmodified":1537659688,
+    "wof:name":"Minovka",
+    "wof:parent_id":1108785441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.86129,
+    51.40746,
+    71.86129,
+    51.40746
+],
+  "geometry": {"coordinates":[71.86129,51.40746],"type":"Point"}
+}

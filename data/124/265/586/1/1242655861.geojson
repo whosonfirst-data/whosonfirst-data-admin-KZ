@@ -1,0 +1,84 @@
+{
+  "id": 1242655861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.56075,53.92799,75.56075,53.92799",
+    "geom:latitude":53.92799,
+    "geom:longitude":75.56075,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Oktyabr'skoye",
+    "gn:country_code":"KZ",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520447,
+    "gn:latitude":53.92799,
+    "gn:longitude":75.56075,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Oktyabr\u2019skoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oktyabr'"
+    ],
+    "name:kaz_x_preferred":[
+        "Oktyabr\u2019skoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:und_x_variant":[
+        "Bogoyavlenka",
+        "Oktyabr\u2019skoye",
+        "Oktyabr\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520447
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a0af77014f713c464b9e86aeaf576b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785349,
+            "locality_id":1242655861,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1242655861,
+    "wof:lastmodified":1537659658,
+    "wof:name":"Oktyabr'skoye",
+    "wof:parent_id":1108785349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.56075,
+    53.92799,
+    75.56075,
+    53.92799
+],
+  "geometry": {"coordinates":[75.56075,53.92799],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259464231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.51667,51.2,75.51667,51.2",
+    "geom:latitude":51.2,
+    "geom:longitude":75.51667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Maykuben",
+    "gn:country_code":"KZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521034,
+    "gn:latitude":51.2,
+    "gn:longitude":75.51667,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Maykuben",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maykubek",
+        "Maykuben"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521034
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b44336db564a6680f384039332ee938f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1259464231,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259464231,
+    "wof:lastmodified":1537659694,
+    "wof:name":"Maykuben",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.51666999999998,
+    51.2,
+    75.51666999999998,
+    51.2
+],
+  "geometry": {"coordinates":[75.51666999999998,51.2],"type":"Point"}
+}

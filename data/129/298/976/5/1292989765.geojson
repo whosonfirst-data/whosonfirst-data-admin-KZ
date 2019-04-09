@@ -1,0 +1,79 @@
+{
+  "id": 1292989765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.01178,43.38868,68.01178,43.38868",
+    "geom:latitude":43.38868,
+    "geom:longitude":68.01178,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Maksim Gor'kiy",
+    "gn:country_code":"KZ",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055420,
+    "gn:latitude":43.38868,
+    "gn:longitude":68.01178,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Maks\u012bm Gor\u2019k\u012by",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Maks\u012bm Gor\u2019k\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0430\u043a\u0441\u0438\u043c \u0413\u043e\u0440\u044c\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "Imeni Maksima Gor\u2019kogo"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u043c\u0435\u043d\u0438 \u041c\u0430\u043a\u0441\u0438\u043c\u0430 \u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055420
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9401396682bdfc3da5c344f8eb4fffc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1292989765,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1292989765,
+    "wof:lastmodified":1537660093,
+    "wof:name":"Maksim Gor'kiy",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.01178,
+    43.38868,
+    68.01178,
+    43.38868
+],
+  "geometry": {"coordinates":[68.01178,43.38868],"type":"Point"}
+}

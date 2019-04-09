@@ -1,0 +1,83 @@
+{
+  "id": 1242943315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.72948,50.39177,80.72948,50.39177",
+    "geom:latitude":50.39177,
+    "geom:longitude":80.72948,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tepkashi",
+    "gn:country_code":"KZ",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518235,
+    "gn:latitude":50.39177,
+    "gn:longitude":80.72948,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Tepkashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tepkashi"
+    ],
+    "name:kaz_x_preferred":[
+        "Tepkash\u012b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0435\u043f\u043a\u0430\u0448\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043f\u043a\u0430\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Tipkashi",
+        "Tepkashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518235
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"19158c2e7fad8f39df7eb0e72baeca8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1242943315,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1242943315,
+    "wof:lastmodified":1537659556,
+    "wof:name":"Tepkashi",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.72948000000002,
+    50.39177,
+    80.72948000000002,
+    50.39177
+],
+  "geometry": {"coordinates":[80.72948000000002,50.39177],"type":"Point"}
+}

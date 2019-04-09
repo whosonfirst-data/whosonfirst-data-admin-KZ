@@ -1,0 +1,67 @@
+{
+  "id": 1260197773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85,48.63333,48.85,48.63333",
+    "geom:latitude":48.63333,
+    "geom:longitude":48.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bushali",
+    "gn:country_code":"KZ",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610156,
+    "gn:latitude":48.63333,
+    "gn:longitude":48.85,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Bushali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610156
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"761b2c6492b7464851c7393f16fa336c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785701,
+            "locality_id":1260197773,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1260197773,
+    "wof:lastmodified":1536827257,
+    "wof:name":"Bushali",
+    "wof:parent_id":1108785701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85,
+    48.63333,
+    48.85,
+    48.63333
+],
+  "geometry": {"coordinates":[48.85,48.63333],"type":"Point"}
+}

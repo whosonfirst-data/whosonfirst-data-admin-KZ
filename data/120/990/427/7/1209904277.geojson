@@ -1,0 +1,70 @@
+{
+  "id": 1209904277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.8132,51.28905,77.8132,51.28905",
+    "geom:latitude":51.28905,
+    "geom:longitude":77.8132,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Taspike",
+    "gn:country_code":"KZ",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11183491,
+    "gn:latitude":51.28905,
+    "gn:longitude":77.8132,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Taspike",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0441\u043f\u0438\u043a\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11183491
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a2aa6c0af910a4805241e4b61dddd14e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1209904277,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1209904277,
+    "wof:lastmodified":1537660128,
+    "wof:name":"Taspike",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.8132,
+    51.28905,
+    77.8132,
+    51.28905
+],
+  "geometry": {"coordinates":[77.81319999999999,51.28905],"type":"Point"}
+}

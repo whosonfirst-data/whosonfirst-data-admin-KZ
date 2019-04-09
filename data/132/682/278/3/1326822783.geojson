@@ -1,0 +1,73 @@
+{
+  "id": 1326822783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.36667,48.05,50.36667,48.05",
+    "geom:latitude":48.05,
+    "geom:longitude":50.36667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Urochishche Shalashagyl",
+    "gn:country_code":"KZ",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609258,
+    "gn:latitude":48.05,
+    "gn:longitude":50.36667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Urochishche Shalashagyl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u043e\u0447\u0438\u0449\u0435 \u0428\u0430\u043b\u0430\u0448\u0430\u0433\u044b\u043b"
+    ],
+    "name:und_x_variant":[
+        "Kork"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609258
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ec4c80dc141ea5b69d69244fc57494c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785449,
+            "locality_id":1326822783,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1326822783,
+    "wof:lastmodified":1537659404,
+    "wof:name":"Urochishche Shalashagyl",
+    "wof:parent_id":1108785449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.36667,
+    48.05,
+    50.36667,
+    48.05
+],
+  "geometry": {"coordinates":[50.36667,48.05],"type":"Point"}
+}

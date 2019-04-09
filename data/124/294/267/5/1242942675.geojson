@@ -1,0 +1,79 @@
+{
+  "id": 1242942675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.85823,53.99294,69.85823,53.99294",
+    "geom:latitude":53.99294,
+    "geom:longitude":69.85823,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tendik",
+    "gn:country_code":"KZ",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532377,
+    "gn:latitude":53.99294,
+    "gn:longitude":69.85823,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Tendik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tendik"
+    ],
+    "name:kaz_x_preferred":[
+        "Tengdik"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0435\u04a3\u0434\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043d\u0434\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532377
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d5b61a8170dfe61920b0030eba861f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1242942675,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1242942675,
+    "wof:lastmodified":1537659967,
+    "wof:name":"Tendik",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.85823,
+    53.99294,
+    69.85823,
+    53.99294
+],
+  "geometry": {"coordinates":[69.85823000000001,53.99294],"type":"Point"}
+}

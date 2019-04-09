@@ -1,0 +1,83 @@
+{
+  "id": 1226557679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.10905,43.67654,77.10905,43.67654",
+    "geom:latitude":43.67654,
+    "geom:longitude":77.10905,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhetigen",
+    "gn:country_code":"KZ",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520706,
+    "gn:latitude":43.67654,
+    "gn:longitude":77.10905,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Zhetigen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "N\u012bkolaevka"
+    ],
+    "name:kaz_x_variant":[
+        "Zhetigen",
+        "\u0416\u0435\u0442\u0456\u0433\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Nikolayevka",
+        "Kutermay",
+        "Kutentay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520706,
+        "wk:page":"Zhetigen"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ce55c204dd07aec113141a5ee9b5cf20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785433,
+            "locality_id":1226557679,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1226557679,
+    "wof:lastmodified":1537659676,
+    "wof:name":"Zhetigen",
+    "wof:parent_id":1108785433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.10905,
+    43.67654,
+    77.10905,
+    43.67654
+],
+  "geometry": {"coordinates":[77.10905,43.67654],"type":"Point"}
+}

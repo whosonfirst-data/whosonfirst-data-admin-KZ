@@ -1,0 +1,76 @@
+{
+  "id": 1310193291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.70503,50.51026,76.70503,50.51026",
+    "geom:latitude":50.51026,
+    "geom:longitude":76.70503,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Akshiy",
+    "gn:country_code":"KZ",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247221,
+    "gn:latitude":50.51026,
+    "gn:longitude":76.70503,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Akshiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqsh\u012b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0448\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0448\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247221
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"57091a7bab73975e98eeab0ef7280947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1310193291,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310193291,
+    "wof:lastmodified":1537660130,
+    "wof:name":"Akshiy",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.70503000000002,
+    50.51026,
+    76.70503000000002,
+    50.51026
+],
+  "geometry": {"coordinates":[76.70503000000002,50.51026],"type":"Point"}
+}

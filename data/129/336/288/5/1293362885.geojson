@@ -1,0 +1,73 @@
+{
+  "id": 1293362885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.98684,54.59513,70.98684,54.59513",
+    "geom:latitude":54.59513,
+    "geom:longitude":70.98684,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yekaterinovka",
+    "gn:country_code":"KZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517276,
+    "gn:latitude":54.59513,
+    "gn:longitude":70.98684,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Yekaterinovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Ekater\u012bnovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517276
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a9b91a85f62637106f9477aa4640c820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1293362885,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293362885,
+    "wof:lastmodified":1537659510,
+    "wof:name":"Yekaterinovka",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.98684,
+    54.59513000000001,
+    70.98684,
+    54.59513000000001
+],
+  "geometry": {"coordinates":[70.98684,54.59513000000001],"type":"Point"}
+}

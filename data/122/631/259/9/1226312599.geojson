@@ -1,0 +1,73 @@
+{
+  "id": 1226312599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.40169,54.68629,68.40169,54.68629",
+    "geom:latitude":54.68629,
+    "geom:longitude":68.40169,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Novoandreyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530458,
+    "gn:latitude":54.68629,
+    "gn:longitude":68.40169,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Novoandreyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Novoandreevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0430\u043d\u0434\u0440\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530458
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7f209f209c0554a77b0295fef698d44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785359,
+            "locality_id":1226312599,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226312599,
+    "wof:lastmodified":1537659938,
+    "wof:name":"Novoandreyevka",
+    "wof:parent_id":1108785359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.40169,
+    54.68629,
+    68.40169,
+    54.68629
+],
+  "geometry": {"coordinates":[68.40169,54.68629],"type":"Point"}
+}

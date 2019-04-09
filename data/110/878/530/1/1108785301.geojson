@@ -1,0 +1,94 @@
+{
+  "id": 1108785301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.011497,
+    "geom:area_square_m":98235541.384716,
+    "geom:bbox":"49.704250336,46.201889038,49.84658432,46.366249084",
+    "geom:latitude":46.290365,
+    "geom:longitude":49.785203,
+    "iso:country":"KZ",
+    "lbl:latitude":46.292851,
+    "lbl:longitude":49.792212,
+    "meso:adm1_loc":"\u0410\u0442\u044b\u0440\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "meso:delete_fla":"2",
+    "meso:dissme":"\u041a\u0443\u0440\u043c\u0430\u043d\u0433\u0430\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u0410\u0442\u044b\u0440\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "meso:gadm_adm1":"Atyrau",
+    "meso:gadm_adm2":"Kurmangazinskiy",
+    "meso:gadm_alt":"NULL",
+    "meso:gadm_hasc":"KZ.AR.KU",
+    "meso:gaul_adm1":"Atyrauskaya",
+    "meso:gaul_adm2":"Kurmangazy",
+    "meso:mps_x":49.792212,
+    "meso:mps_y":46.292851,
+    "meso:name_en":"Kurmangazinskiy",
+    "meso:name_loc":"\u041a\u0443\u0440\u043c\u0430\u043d\u0433\u0430\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+    "meso:type_loc":"Rayon",
+    "mps:latitude":46.292851,
+    "mps:longitude":49.792212,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kurmangazinskiy"
+    ],
+    "name:und_x_variant":[
+        "\u041a\u0443\u0440\u043c\u0430\u043d\u0433\u0430\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"1999-04-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"1999-04-01",
+    "statoids:capital":"Ganyushkino",
+    "statoids:country":"KZ",
+    "statoids:hasc":"KZ.AR",
+    "statoids:name":"Kurmangazinskiy",
+    "statoids:population":"55600",
+    "statoids:statoid":"KZ.AR.KU",
+    "statoids:timezone":"5",
+    "statoids:type":"rayon",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"KZ.AR.KU"
+    },
+    "wof:country":"KZ",
+    "wof:created":1481837898,
+    "wof:geomhash":"51bbc3ea5a784b0fe3784904321ad6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785301,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1108785301,
+    "wof:lastmodified":1536615793,
+    "wof:name":"Kurmangazinskiy",
+    "wof:parent_id":85672889,
+    "wof:placetype":"county",
+    "wof:placetype_local":"rayon",
+    "wof:population":55600,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:shortcode":"KU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.70425033600003,
+    46.20188903800005,
+    49.84658432000003,
+    46.36624908400006
+],
+  "geometry": {"coordinates":[[[49.70988845800008,46.36233520500008],[49.72558212300004,46.36624908400006],[49.73300170900006,46.36449813800004],[49.75233459500004,46.35991668700007],[49.76547241200007,46.35363769500003],[49.78010940600007,46.35116577100007],[49.79035949700005,46.34277725200008],[49.80361175500008,46.33741760300006],[49.82941818200004,46.31272125200007],[49.83130645800003,46.30091476400003],[49.84263992300004,46.28511047400008],[49.84558486900005,46.27688980100004],[49.84633255000006,46.27477645900007],[49.84658432000003,46.26855468700006],[49.84122085600006,46.25441741900005],[49.83213806200007,46.24505615200007],[49.82986068700006,46.23969268800005],[49.82197189300007,46.21005630500008],[49.81983184800004,46.20605468800005],[49.81238937400008,46.20188903800005],[49.80380630500008,46.20194625900007],[49.79683303800005,46.20441818200004],[49.77413940400004,46.23833465600006],[49.76616668700007,46.24361038200004],[49.76586151100003,46.24913787800006],[49.75572204600007,46.25294494600007],[49.76413726800007,46.25958252000004],[49.76094436600005,46.26619339000007],[49.75160980200008,46.28486251800007],[49.73616790800003,46.30252838100006],[49.73097229000007,46.33105468800005],[49.72491836500006,46.33852767900004],[49.71394348100006,46.34375],[49.70788955700004,46.34844589200003],[49.70425033600003,46.35669326800007],[49.70988845800008,46.36233520500008]]],"type":"Polygon"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243577973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.40857,48.91211,54.40857,48.91211",
+    "geom:latitude":48.91211,
+    "geom:longitude":54.40857,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Koptogay",
+    "gn:country_code":"KZ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609267,
+    "gn:latitude":48.91211,
+    "gn:longitude":54.40857,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Koptogay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koptogay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0442\u043e\u0433\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kuptugay",
+        "Koptogay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609267
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"805a23cd8bd748e68bd2e4b5555db316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785401,
+            "locality_id":1243577973,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1243577973,
+    "wof:lastmodified":1537659405,
+    "wof:name":"Koptogay",
+    "wof:parent_id":1108785401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.40857,
+    48.91211,
+    54.40857,
+    48.91211
+],
+  "geometry": {"coordinates":[54.40857,48.91211],"type":"Point"}
+}

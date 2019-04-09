@@ -1,0 +1,85 @@
+{
+  "id": 1209785451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.01988,54.34846,68.01988,54.34846",
+    "geom:latitude":54.34846,
+    "geom:longitude":68.01988,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Osyodloe",
+    "gn:country_code":"KZ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530982,
+    "gn:latitude":54.34846,
+    "gn:longitude":68.01988,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Osyodloe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Osedloye"
+    ],
+    "name:kaz_x_preferred":[
+        "Osyodloe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u0441\u0451\u0434\u043b\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0435\u0434\u043b\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "Os\u00ebdloye"
+    ],
+    "name:und_x_variant":[
+        "Osedloye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530982
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aa1b03d1bcf1ae82fd759f413a7a7d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785563,
+            "locality_id":1209785451,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1209785451,
+    "wof:lastmodified":1537659950,
+    "wof:name":"Osyodloe",
+    "wof:parent_id":1108785563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.01988,
+    54.34846,
+    68.01988,
+    54.34846
+],
+  "geometry": {"coordinates":[68.01988,54.34846],"type":"Point"}
+}

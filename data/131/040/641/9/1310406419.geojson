@@ -1,0 +1,70 @@
+{
+  "id": 1310406419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.69317,48.8738,54.69317,48.8738",
+    "geom:latitude":48.8738,
+    "geom:longitude":54.69317,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Karasu",
+    "gn:country_code":"KZ",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863479,
+    "gn:latitude":48.8738,
+    "gn:longitude":54.69317,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Karasu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaras\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863479
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"82cbcd07075f646d078809baa88c762b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785401,
+            "locality_id":1310406419,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1310406419,
+    "wof:lastmodified":1537659460,
+    "wof:name":"Karasu",
+    "wof:parent_id":1108785401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.69317,
+    48.8738,
+    54.69317,
+    48.8738
+],
+  "geometry": {"coordinates":[54.69317,48.8738],"type":"Point"}
+}

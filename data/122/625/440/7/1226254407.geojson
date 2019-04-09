@@ -1,0 +1,83 @@
+{
+  "id": 1226254407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.15274,53.10542,71.15274,53.10542",
+    "geom:latitude":53.10542,
+    "geom:longitude":71.15274,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zaozyornyy",
+    "gn:country_code":"KZ",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525912,
+    "gn:latitude":53.10542,
+    "gn:longitude":71.15274,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Zaozyornyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zaozernyy"
+    ],
+    "name:kaz_x_preferred":[
+        "Zaozyornyy"
+    ],
+    "name:kaz_x_variant":[
+        "\u0417\u0430\u043e\u0437\u0451\u0440\u043d\u044b\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043e\u0437\u0435\u0440\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Aysary",
+        "Zaozernyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525912
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5bd5db45e795ace02af458ed398214ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1226254407,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226254407,
+    "wof:lastmodified":1537659895,
+    "wof:name":"Zaozyornyy",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.15274000000002,
+    53.10542,
+    71.15274000000002,
+    53.10542
+],
+  "geometry": {"coordinates":[71.15274000000002,53.10542],"type":"Point"}
+}

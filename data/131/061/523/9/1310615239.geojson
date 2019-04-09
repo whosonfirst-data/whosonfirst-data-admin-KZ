@@ -1,0 +1,70 @@
+{
+  "id": 1310615239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.37521,43.42124,77.37521,43.42124",
+    "geom:latitude":43.42124,
+    "geom:longitude":77.37521,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dachnyy Poselok Kirovets",
+    "gn:country_code":"KZ",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10310674,
+    "gn:latitude":43.42124,
+    "gn:longitude":77.37521,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Dachnyy Poselok Kirovets",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0447\u043d\u044b\u0439 \u041f\u043e\u0441\u0435\u043b\u043e\u043a \u041a\u0438\u0440\u043e\u0432\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10310674
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"83434226556bc6150f72afd2e03d8d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1310615239,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1310615239,
+    "wof:lastmodified":1537660046,
+    "wof:name":"Dachnyy Poselok Kirovets",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.37521,
+    43.42124,
+    77.37521,
+    43.42124
+],
+  "geometry": {"coordinates":[77.37521,43.42124],"type":"Point"}
+}

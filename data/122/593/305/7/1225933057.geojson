@@ -1,0 +1,73 @@
+{
+  "id": 1225933057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.64013,42.16441,69.64013,42.16441",
+    "geom:latitude":42.16441,
+    "geom:longitude":69.64013,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tekesu",
+    "gn:country_code":"KZ",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518291,
+    "gn:latitude":42.16441,
+    "gn:longitude":69.64013,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Tekesu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Tekes\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0435\u043a\u0435\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518291
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1aa0f90799b1cdf03c5daeade095b881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785607,
+            "locality_id":1225933057,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1225933057,
+    "wof:lastmodified":1537659557,
+    "wof:name":"Tekesu",
+    "wof:parent_id":1108785607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.64013,
+    42.16441,
+    69.64013,
+    42.16441
+],
+  "geometry": {"coordinates":[69.64013,42.16441],"type":"Point"}
+}

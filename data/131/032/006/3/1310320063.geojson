@@ -1,0 +1,72 @@
+{
+  "id": 1310320063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.23333,51.86667,71.23333,51.86667",
+    "geom:latitude":51.86667,
+    "geom:longitude":71.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Novorybinskiy",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520556,
+    "gn:latitude":51.86667,
+    "gn:longitude":71.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Novorybinskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Novy Rybinski",
+        "Novorybinskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520556
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ef5939705a7b3c9659d5be37b7cee366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1310320063,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310320063,
+    "wof:lastmodified":1537659664,
+    "wof:name":"Novorybinskiy",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.23333000000002,
+    51.86667,
+    71.23333000000002,
+    51.86667
+],
+  "geometry": {"coordinates":[71.23333000000002,51.86667],"type":"Point"}
+}

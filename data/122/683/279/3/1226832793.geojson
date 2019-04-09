@@ -1,0 +1,71 @@
+{
+  "id": 1226832793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06973,41.00058,68.06973,41.00058",
+    "geom:latitude":41.00058,
+    "geom:longitude":68.06973,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sovkhoz Imeni Amangel'dy",
+    "gn:country_code":"KZ",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10956097,
+    "gn:latitude":41.00058,
+    "gn:longitude":68.06973,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Sovkhoz Imeni Amangel\u2019dy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sovkhoz Imeni Amangel\u2019dy"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u043e\u0432\u0445\u043e\u0437 \u0418\u043c\u0435\u043d\u0438 \u0410\u043c\u0430\u043d\u0433\u0435\u043b\u044c\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956097
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1543fdbe088c8d9349daaa26582dae54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226832793,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":1226832793,
+    "wof:lastmodified":1537660078,
+    "wof:name":"Sovkhoz Imeni Amangel'dy",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06973,
+    41.00058,
+    68.06973,
+    41.00058
+],
+  "geometry": {"coordinates":[68.06973000000001,41.00058],"type":"Point"}
+}

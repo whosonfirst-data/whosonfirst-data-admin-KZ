@@ -1,0 +1,81 @@
+{
+  "id": 1293397475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.60227,52.56893,70.60227,52.56893",
+    "geom:latitude":52.56893,
+    "geom:longitude":70.60227,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Makinka",
+    "gn:country_code":"KZ",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521232,
+    "gn:latitude":52.56893,
+    "gn:longitude":70.60227,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Makinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mak\u012bnka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043a\u0438\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Makinskoye",
+        "Mak\u012bnka",
+        "Makinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521232
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e0a267ebd23f3bc750fddecdfb5cd8ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1293397475,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293397475,
+    "wof:lastmodified":1537659703,
+    "wof:name":"Makinka",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.60226999999998,
+    52.56893,
+    70.60226999999998,
+    52.56893
+],
+  "geometry": {"coordinates":[70.60226999999998,52.56893],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1310573713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.0483,52.6145,68.0483,52.6145",
+    "geom:latitude":52.6145,
+    "geom:longitude":68.0483,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Akkanburluk",
+    "gn:country_code":"KZ",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526813,
+    "gn:latitude":52.6145,
+    "gn:longitude":68.0483,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Akkanburluk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akkanburluk"
+    ],
+    "name:kaz_x_preferred":[
+        "Aqqanborlyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u049b\u0430\u043d\u0431\u043e\u0440\u043b\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0430\u043d\u0431\u0443\u0440\u043b\u0443\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043a\u043a\u0430\u043d\u0431\u0443\u0440\u043b\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526813
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cec07cac79d712af395a6fb2e4449500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1310573713,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310573713,
+    "wof:lastmodified":1537659926,
+    "wof:name":"Akkanburluk",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.0483,
+    52.6145,
+    68.0483,
+    52.6145
+],
+  "geometry": {"coordinates":[68.0483,52.6145],"type":"Point"}
+}

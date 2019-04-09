@@ -1,0 +1,80 @@
+{
+  "id": 1310574409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.89411,49.49648,81.89411,49.49648",
+    "geom:latitude":49.49648,
+    "geom:longitude":81.89411,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Shymyldyq",
+    "gn:country_code":"KZ",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518979,
+    "gn:latitude":49.49648,
+    "gn:longitude":81.89411,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Shymyldyq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shymyldyq"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u044b\u043c\u044b\u043b\u0434\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u043f\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Filippovka",
+        "Shymyldyq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518979
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d422ef15ff365364ad0b52949d15b1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1310574409,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310574409,
+    "wof:lastmodified":1537659585,
+    "wof:name":"Shymyldyq",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.89411,
+    49.49648,
+    81.89411,
+    49.49648
+],
+  "geometry": {"coordinates":[81.89411,49.49648],"type":"Point"}
+}

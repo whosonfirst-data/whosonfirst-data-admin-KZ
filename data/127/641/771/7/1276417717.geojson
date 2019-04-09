@@ -1,0 +1,67 @@
+{
+  "id": 1276417717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.98333,48.11667,66.98333,48.11667",
+    "geom:latitude":48.11667,
+    "geom:longitude":66.98333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Leninshil",
+    "gn:country_code":"KZ",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521369,
+    "gn:latitude":48.11667,
+    "gn:longitude":66.98333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Leninshil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521369
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aea563b8f5a7da00215f9ebfc559316c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785515,
+            "locality_id":1276417717,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1276417717,
+    "wof:lastmodified":1536665647,
+    "wof:name":"Leninshil",
+    "wof:parent_id":1108785515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.98333000000001,
+    48.11667,
+    66.98333000000001,
+    48.11667
+],
+  "geometry": {"coordinates":[66.98333000000001,48.11667],"type":"Point"}
+}

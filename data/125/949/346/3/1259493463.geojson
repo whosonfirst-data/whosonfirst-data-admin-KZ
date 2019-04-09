@@ -1,0 +1,67 @@
+{
+  "id": 1259493463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.36667,49.38333,81.36667,49.38333",
+    "geom:latitude":49.38333,
+    "geom:longitude":81.36667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Akbuzau",
+    "gn:country_code":"KZ",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526866,
+    "gn:latitude":49.38333,
+    "gn:longitude":81.36667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Akbuzau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526866
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"77d4a2909cae50bfd1f69cdf4acf7b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1259493463,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259493463,
+    "wof:lastmodified":1536843306,
+    "wof:name":"Akbuzau",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.36667,
+    49.38333,
+    81.36667,
+    49.38333
+],
+  "geometry": {"coordinates":[81.36667,49.38333],"type":"Point"}
+}

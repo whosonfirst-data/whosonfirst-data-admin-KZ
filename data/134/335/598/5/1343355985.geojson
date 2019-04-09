@@ -1,0 +1,77 @@
+{
+  "id": 1343355985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.278,51.05665,52.278,51.05665",
+    "geom:latitude":51.05665,
+    "geom:longitude":52.278,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pridorozhnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608577,
+    "gn:latitude":51.05665,
+    "gn:longitude":52.278,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Pridorozhnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pridorozhnoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pridorozhnyy",
+        "Pridorozhnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608577
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2c50d523db3e6f519482e74e32638271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785731,
+            "locality_id":1343355985,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1343355985,
+    "wof:lastmodified":1537659378,
+    "wof:name":"Pridorozhnoye",
+    "wof:parent_id":1108785731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.278,
+    51.05665,
+    52.278,
+    51.05665
+],
+  "geometry": {"coordinates":[52.278,51.05665],"type":"Point"}
+}

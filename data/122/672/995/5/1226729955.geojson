@@ -1,0 +1,79 @@
+{
+  "id": 1226729955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.28241,48.27228,72.28241,48.27228",
+    "geom:latitude":48.27228,
+    "geom:longitude":72.28241,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhartas",
+    "gn:country_code":"KZ",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504308,
+    "gn:latitude":48.27228,
+    "gn:longitude":72.28241,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Zhartas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhartas"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u0440\u0442\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0442\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Ortau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504308
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"40e24e34cd59103799e1bfabdc51ce08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1226729955,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226729955,
+    "wof:lastmodified":1537660168,
+    "wof:name":"Zhartas",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.28241,
+    48.27228,
+    72.28241,
+    48.27228
+],
+  "geometry": {"coordinates":[72.28241,48.27228],"type":"Point"}
+}

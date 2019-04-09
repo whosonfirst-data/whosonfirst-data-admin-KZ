@@ -1,0 +1,75 @@
+{
+  "id": 1226608819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.20639,43.24389,75.20639,43.24389",
+    "geom:latitude":43.24389,
+    "geom:longitude":75.20639,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sulutor",
+    "gn:country_code":"KZ",
+    "gn:dem":1493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521188,
+    "gn:latitude":43.24389,
+    "gn:longitude":75.20639,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Sulutor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sul\u016bt\u00f6r"
+    ],
+    "name:und_x_variant":[
+        "Maloarkhangel\u2019skoye",
+        "Malyy Arikhangel\u2019shiy",
+        "Sulutor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521188
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"94ab5127a33e66b3696af972cb7f5ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785317,
+            "locality_id":1226608819,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1226608819,
+    "wof:lastmodified":1537659701,
+    "wof:name":"Sulutor",
+    "wof:parent_id":1108785317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.20639,
+    43.24389,
+    75.20639,
+    43.24389
+],
+  "geometry": {"coordinates":[75.20639,43.24389],"type":"Point"}
+}

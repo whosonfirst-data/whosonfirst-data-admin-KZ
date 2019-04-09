@@ -1,0 +1,78 @@
+{
+  "id": 1360295617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.78419,51.81391,60.78419,51.81391",
+    "geom:latitude":51.81391,
+    "geom:longitude":60.78419,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kundybay",
+    "gn:country_code":"KZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521798,
+    "gn:latitude":51.81391,
+    "gn:longitude":60.78419,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kundybay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kundybay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0434\u044b\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kandyuaev",
+        "Konduvayev Aul",
+        "Kundybay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521798
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2ddacd7d5b8e881966234fd981fa1461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785525,
+            "locality_id":1360295617,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1360295617,
+    "wof:lastmodified":1537659728,
+    "wof:name":"Kundybay",
+    "wof:parent_id":1108785525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.78419,
+    51.81391,
+    60.78419,
+    51.81391
+],
+  "geometry": {"coordinates":[60.78419,51.81391],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343741633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.16667,49.78333,64.16667,49.78333",
+    "geom:latitude":49.78333,
+    "geom:longitude":64.16667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Albar-Bugut",
+    "gn:country_code":"KZ",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526474,
+    "gn:latitude":49.78333,
+    "gn:longitude":64.16667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Albar-Bugut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526474
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"18feb49d0c3a002101b55dfad74dfa42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1343741633,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343741633,
+    "wof:lastmodified":1536837026,
+    "wof:name":"Albar-Bugut",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.16667,
+    49.78333,
+    64.16667,
+    49.78333
+],
+  "geometry": {"coordinates":[64.16667,49.78333],"type":"Point"}
+}

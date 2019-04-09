@@ -1,0 +1,70 @@
+{
+  "id": 1326512881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.8756,48.69513,82.8756,48.69513",
+    "geom:latitude":48.69513,
+    "geom:longitude":82.8756,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Berikpay",
+    "gn:country_code":"KZ",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527378,
+    "gn:latitude":48.69513,
+    "gn:longitude":82.8756,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Berikpay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0438\u043a\u043f\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527378
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c2757b629201058b100ef7b2102b2a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1326512881,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1326512881,
+    "wof:lastmodified":1537660187,
+    "wof:name":"Berikpay",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.8756,
+    48.69513,
+    82.8756,
+    48.69513
+],
+  "geometry": {"coordinates":[82.87560000000001,48.69513],"type":"Point"}
+}

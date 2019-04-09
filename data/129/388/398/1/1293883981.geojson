@@ -1,0 +1,71 @@
+{
+  "id": 1293883981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.96667,48.71667,57.96667,48.71667",
+    "geom:latitude":48.71667,
+    "geom:longitude":57.96667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kzyl-Zhulduz",
+    "gn:country_code":"KZ",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608962,
+    "gn:latitude":48.71667,
+    "gn:longitude":57.96667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kzyl-Zhulduz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyzyl-Zhulduz",
+        "Kzyl-Zhulduz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608962
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bfb0ec5fd6b1a0d969dc8fa68b0b63bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785725,
+            "locality_id":1293883981,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293883981,
+    "wof:lastmodified":1537659393,
+    "wof:name":"Kzyl-Zhulduz",
+    "wof:parent_id":1108785725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.96666999999999,
+    48.71667,
+    57.96666999999999,
+    48.71667
+],
+  "geometry": {"coordinates":[57.96666999999999,48.71667],"type":"Point"}
+}

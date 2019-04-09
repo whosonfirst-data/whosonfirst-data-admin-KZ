@@ -1,0 +1,82 @@
+{
+  "id": 1243536825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.14097,54.27123,69.14097,54.27123",
+    "geom:latitude":54.27123,
+    "geom:longitude":69.14097,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Rublevka",
+    "gn:country_code":"KZ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519846,
+    "gn:latitude":54.27123,
+    "gn:longitude":69.14097,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Rubl\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rubl\u00ebvka"
+    ],
+    "name:kaz_x_preferred":[
+        "R\u016bblyovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0420\u0443\u0431\u043b\u0451\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0431\u043b\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "Rubl\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519846
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a390e10e2d12fa09c0744a903fa25538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785685,
+            "locality_id":1243536825,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243536825,
+    "wof:lastmodified":1537659620,
+    "wof:name":"Rublevka",
+    "wof:parent_id":1108785685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.14097,
+    54.27123,
+    69.14097,
+    54.27123
+],
+  "geometry": {"coordinates":[69.14097,54.27123],"type":"Point"}
+}

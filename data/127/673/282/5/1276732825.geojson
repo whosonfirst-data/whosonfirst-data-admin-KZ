@@ -1,0 +1,83 @@
+{
+  "id": 1276732825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.07052,49.82389,81.07052,49.82389",
+    "geom:latitude":49.82389,
+    "geom:longitude":81.07052,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gromovka",
+    "gn:country_code":"KZ",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524170,
+    "gn:latitude":49.82389,
+    "gn:longitude":81.07052,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Gromovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gromovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Qongyrb\u012bik"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u04a3\u044b\u0440\u0431\u0438\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gromovskiy",
+        "Gromovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524170
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0f1dae59f5568a7f6b48e30248743db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1276732825,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276732825,
+    "wof:lastmodified":1537659822,
+    "wof:name":"Gromovka",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.07052,
+    49.82389000000001,
+    81.07052,
+    49.82389000000001
+],
+  "geometry": {"coordinates":[81.07052,49.82389000000001],"type":"Point"}
+}

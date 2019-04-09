@@ -1,0 +1,70 @@
+{
+  "id": 1360273549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.35147,50.92379,75.35147,50.92379",
+    "geom:latitude":50.92379,
+    "geom:longitude":75.35147,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Suvenir",
+    "gn:country_code":"KZ",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11175507,
+    "gn:latitude":50.92379,
+    "gn:longitude":75.35147,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Suvenir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0432\u0435\u043d\u0438\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11175507
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e012670a7890254ca7f646550bdacab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1360273549,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1360273549,
+    "wof:lastmodified":1537660128,
+    "wof:name":"Suvenir",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.35146999999998,
+    50.92379,
+    75.35146999999998,
+    50.92379
+],
+  "geometry": {"coordinates":[75.35146999999998,50.92379],"type":"Point"}
+}

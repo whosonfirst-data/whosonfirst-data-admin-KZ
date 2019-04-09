@@ -1,0 +1,67 @@
+{
+  "id": 1209287019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.35658,54.73142,69.35658,54.73142",
+    "geom:latitude":54.73142,
+    "geom:longitude":69.35658,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Shakhovskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530641,
+    "gn:latitude":54.73142,
+    "gn:longitude":69.35658,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Shakhovskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0428\u0430\u0445\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Shakhovskoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530641
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"020631746f6cb8a16d3530dbd6295131",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209287019
+        }
+    ],
+    "wof:id":1209287019,
+    "wof:lastmodified":1537659941,
+    "wof:name":"Shakhovskoye",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.35658000000001,
+    54.73141999999999,
+    69.35658000000001,
+    54.73141999999999
+],
+  "geometry": {"coordinates":[69.35658000000001,54.73141999999999],"type":"Point"}
+}

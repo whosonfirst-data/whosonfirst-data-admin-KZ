@@ -1,0 +1,76 @@
+{
+  "id": 1209092595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.93728,53.06432,62.93728,53.06432",
+    "geom:latitude":53.06432,
+    "geom:longitude":62.93728,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Lomonosovka",
+    "gn:country_code":"KZ",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521304,
+    "gn:latitude":53.06432,
+    "gn:longitude":62.93728,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Lomonosovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lomonosovskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "Lomonosovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Lomonosovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521304
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"68bf8317f3013aa9b544b42cca2b7315",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209092595
+        }
+    ],
+    "wof:id":1209092595,
+    "wof:lastmodified":1537659707,
+    "wof:name":"Lomonosovka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.93728,
+    53.06432,
+    62.93728,
+    53.06432
+],
+  "geometry": {"coordinates":[62.93728,53.06432],"type":"Point"}
+}

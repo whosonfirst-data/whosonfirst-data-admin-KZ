@@ -1,0 +1,76 @@
+{
+  "id": 1226215817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.75321,49.30237,84.75321,49.30237",
+    "geom:latitude":49.30237,
+    "geom:longitude":84.75321,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Solonovka",
+    "gn:country_code":"KZ",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518897,
+    "gn:latitude":49.30237,
+    "gn:longitude":84.75321,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Solonovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Solonovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518897
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"92b0f7ce7149022c21b24f28a3d32972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1226215817,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226215817,
+    "wof:lastmodified":1537659581,
+    "wof:name":"Solonovka",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.75321,
+    49.30237,
+    84.75321,
+    49.30237
+],
+  "geometry": {"coordinates":[84.75321,49.30237],"type":"Point"}
+}

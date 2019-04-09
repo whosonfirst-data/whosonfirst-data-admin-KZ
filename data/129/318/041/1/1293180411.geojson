@@ -1,0 +1,70 @@
+{
+  "id": 1293180411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.48532,52.1976,61.48532,52.1976",
+    "geom:latitude":52.1976,
+    "geom:longitude":61.48532,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Opytnoye Pole",
+    "gn:country_code":"KZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11526672,
+    "gn:latitude":52.1976,
+    "gn:longitude":61.48532,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Opytnoye Pole",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043f\u044b\u0442\u043d\u043e\u0435 \u041f\u043e\u043b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11526672
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dd1a41109284205865bded246faca56e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785525,
+            "locality_id":1293180411,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293180411,
+    "wof:lastmodified":1537660185,
+    "wof:name":"Opytnoye Pole",
+    "wof:parent_id":1108785525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.48532,
+    52.1976,
+    61.48532,
+    52.1976
+],
+  "geometry": {"coordinates":[61.48532,52.1976],"type":"Point"}
+}

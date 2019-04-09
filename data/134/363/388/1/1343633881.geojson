@@ -1,0 +1,73 @@
+{
+  "id": 1343633881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.35933,53.81401,73.35933,53.81401",
+    "geom:latitude":53.81401,
+    "geom:longitude":73.35933,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kystauagash",
+    "gn:country_code":"KZ",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532810,
+    "gn:latitude":53.81401,
+    "gn:longitude":73.35933,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kystauagash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kystauagash"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0441\u0442\u0430\u0443\u0430\u0433\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532810
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4dbd4986af2bee9140c9e9aec8aed31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785367,
+            "locality_id":1343633881,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343633881,
+    "wof:lastmodified":1537659972,
+    "wof:name":"Kystauagash",
+    "wof:parent_id":1108785367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.35933,
+    53.81401,
+    73.35933,
+    53.81401
+],
+  "geometry": {"coordinates":[73.35933,53.81401],"type":"Point"}
+}

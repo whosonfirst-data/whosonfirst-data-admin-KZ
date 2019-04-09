@@ -1,0 +1,77 @@
+{
+  "id": 1327030571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.98595,50.61482,58.98595,50.61482",
+    "geom:latitude":50.61482,
+    "geom:longitude":58.98595,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Maytobe",
+    "gn:country_code":"KZ",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608845,
+    "gn:latitude":50.61482,
+    "gn:longitude":58.98595,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Maytobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maytobe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0439\u0442\u043e\u0431\u0435"
+    ],
+    "name:und_x_variant":[
+        "May-Tyube",
+        "Maytobe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608845
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fd6af7b575f03106b170f7757423585f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785523,
+            "locality_id":1327030571,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1327030571,
+    "wof:lastmodified":1537659390,
+    "wof:name":"Maytobe",
+    "wof:parent_id":1108785523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.98595,
+    50.61482,
+    58.98595,
+    50.61482
+],
+  "geometry": {"coordinates":[58.98595,50.61482],"type":"Point"}
+}

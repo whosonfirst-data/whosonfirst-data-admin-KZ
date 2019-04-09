@@ -1,0 +1,73 @@
+{
+  "id": 1310696411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.55,44.3,50.55,44.3",
+    "geom:latitude":44.3,
+    "geom:longitude":50.55,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sakakuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608515,
+    "gn:latitude":44.3,
+    "gn:longitude":50.55,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sakakuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kochev\u2019ye Saga-Kuduk",
+        "Saga-Kuduk",
+        "Soka Kuduk",
+        "Sakakuduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608515
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ef0f1d4419448aeea7e867bd26eb3796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785341,
+            "locality_id":1310696411,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1310696411,
+    "wof:lastmodified":1537659374,
+    "wof:name":"Sakakuduk",
+    "wof:parent_id":1108785341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.55,
+    44.3,
+    50.55,
+    44.3
+],
+  "geometry": {"coordinates":[50.55,44.3],"type":"Point"}
+}

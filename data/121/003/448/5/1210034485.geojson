@@ -1,0 +1,67 @@
+{
+  "id": 1210034485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.48952,54.02272,61.48952,54.02272",
+    "geom:latitude":54.02272,
+    "geom:longitude":61.48952,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zolota",
+    "gn:country_code":"KZ",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516452,
+    "gn:latitude":54.02272,
+    "gn:longitude":61.48952,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Zolota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yekaterinburg",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516452
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5c1ff79bdf3f48dbb550c6d867faf5f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785333,
+            "locality_id":1210034485,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1210034485,
+    "wof:lastmodified":1536387108,
+    "wof:name":"Zolota",
+    "wof:parent_id":1108785333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.48952,
+    54.02271999999999,
+    61.48952,
+    54.02271999999999
+],
+  "geometry": {"coordinates":[61.48952,54.02271999999999],"type":"Point"}
+}

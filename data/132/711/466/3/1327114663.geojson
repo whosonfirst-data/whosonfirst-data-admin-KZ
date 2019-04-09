@@ -1,0 +1,75 @@
+{
+  "id": 1327114663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.06149,49.75713,73.06149,49.75713",
+    "geom:latitude":49.75713,
+    "geom:longitude":73.06149,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bol'shaya Mikhaylovka",
+    "gn:country_code":"KZ",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525206,
+    "gn:latitude":49.75713,
+    "gn:longitude":73.06149,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Bol\u2019shaya Mikhaylovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019she-Mikhaylovskoye",
+        "Bol\u2019she-Michaylovskiy",
+        "Bol\u2019shaya Mikhaylovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525206
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3f2d97982ccac4c6b160229c44c75305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1327114663,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1327114663,
+    "wof:lastmodified":1537659865,
+    "wof:name":"Bol'shaya Mikhaylovka",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.06149,
+    49.75713,
+    73.06149,
+    49.75713
+],
+  "geometry": {"coordinates":[73.06149000000001,49.75713],"type":"Point"}
+}

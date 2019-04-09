@@ -1,0 +1,67 @@
+{
+  "id": 1193268031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.91667,42.85,51.91667,42.85",
+    "geom:latitude":42.85,
+    "geom:longitude":51.91667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kyzyk",
+    "gn:country_code":"KZ",
+    "gn:dem":-29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609019,
+    "gn:latitude":42.85,
+    "gn:longitude":51.91667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kyzyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609019
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bead1ef4ef80ef372d9705a8b718785d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785363,
+            "locality_id":1193268031,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1193268031,
+    "wof:lastmodified":1536373736,
+    "wof:name":"Kyzyk",
+    "wof:parent_id":1108785363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.91667,
+    42.85,
+    51.91667,
+    42.85
+],
+  "geometry": {"coordinates":[51.91667,42.85],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343250133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.88195,50.53955,74.88195,50.53955",
+    "geom:latitude":50.53955,
+    "geom:longitude":74.88195,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Karatobe",
+    "gn:country_code":"KZ",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11141151,
+    "gn:latitude":50.53955,
+    "gn:longitude":74.88195,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Karatobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarat\u00f6be"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0442\u04e9\u0431\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0442\u043e\u0431\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11141151
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"74d4c1edfc8a647760e1a3cbbe7d0ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1343250133,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343250133,
+    "wof:lastmodified":1537660120,
+    "wof:name":"Karatobe",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.88195,
+    50.53955,
+    74.88195,
+    50.53955
+],
+  "geometry": {"coordinates":[74.88195,50.53955],"type":"Point"}
+}

@@ -1,0 +1,216 @@
+{
+  "id": 421167111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.87512,48.68976,55.87512,48.68976",
+    "geom:latitude":48.68976,
+    "geom:longitude":55.87512,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0439\u0433\u0430\u043d\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Bayganin"
+    ],
+    "name:fra_x_preferred":[
+        "District de Bayganin"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Baj\u01e7anin"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0439\u0493\u0430\u043d\u0438\u043d \u0430\u0443\u0434\u0430\u043d\u044b"
+    ],
+    "name:kaz_x_variant":[
+        "Bayghan\u012bn"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0458\u0433\u0430\u043d\u0438\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Bayganin"
+    ],
+    "name:nld_x_preferred":[
+        "Bay\u011fan\u00efn"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0628\u06cc\u06af\u0627\u0646\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0433\u0430\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0439\u0433\u0430\u043d\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0439\u0433\u0430\u043d\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Karaulkel\u2019dy"
+    ],
+    "name:uzb_x_preferred":[
+        "Bayg\u02bbanin"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Kazakhstan",
+    "ne:ADM0_A3":"KAZ",
+    "ne:ADM1NAME":"Aqt\u00f6be",
+    "ne:ADMIN1_COD":4,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":610386,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Bayganin",
+    "ne:GN_POP":7657,
+    "ne:GTOPO30":190.0,
+    "ne:ISO_A2":"KZ",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":48.691691,
+    "ne:LONGITUDE":55.873995,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Bayghanin",
+    "ne:MAX_AREAKM":2.0,
+    "ne:MAX_AREAMI":1.0,
+    "ne:MAX_BBXMAX":55.883333,
+    "ne:MAX_BBXMIN":55.866667,
+    "ne:MAX_BBYMAX":48.7,
+    "ne:MAX_BBYMIN":48.683333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":6.0,
+    "ne:MAX_PERMI":4.0,
+    "ne:MAX_POP10":885,
+    "ne:MAX_POP20":885,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":55.873611,
+    "ne:MEAN_BBYC":48.690278,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":2.0,
+    "ne:MIN_AREAMI":1.0,
+    "ne:MIN_BBXMAX":55.883333,
+    "ne:MIN_BBXMIN":55.866667,
+    "ne:MIN_BBYMAX":48.7,
+    "ne:MIN_BBYMIN":48.683333,
+    "ne:MIN_PERKM":6.0,
+    "ne:MIN_PERMI":4.0,
+    "ne:NAME":"Bayghanin",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Bayghanin",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":7657,
+    "ne:POP_MIN":885,
+    "ne:POP_OTHER":885,
+    "ne:RANK_MAX":5,
+    "ne:RANK_MIN":2,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Kazakhstan",
+    "ne:SOV_A3":"KAZ",
+    "ne:TIMEZONE":"Asia/Aqtobe",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":610386,
+    "qs:gn_pop":7657,
+    "qs:name":"Bayganin",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Aqtobe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":126066,
+    "qs:woe_adm0":23424871,
+    "qs:woe_id":2264251,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610386,
+        "gp:id":2264251,
+        "qs:id":126066
+    },
+    "wof:country":"KZ",
+    "wof:created":1459008720,
+    "wof:geomhash":"f90e3aa900304be39d56e02aaf45da13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421167111,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":421167111,
+    "wof:lastmodified":1527716156,
+    "wof:name":"Bayganin",
+    "wof:parent_id":85672877,
+    "wof:placetype":"locality",
+    "wof:population":7657,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.87512,
+    48.68976,
+    55.87512,
+    48.68976
+],
+  "geometry": {"coordinates":[55.87512,48.68976],"type":"Point"}
+}

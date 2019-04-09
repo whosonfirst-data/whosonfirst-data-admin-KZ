@@ -1,0 +1,75 @@
+{
+  "id": 1226761917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.84039,43.33062,75.84039,43.33062",
+    "geom:latitude":43.33062,
+    "geom:longitude":75.84039,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Targan",
+    "gn:country_code":"KZ",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518455,
+    "gn:latitude":43.33062,
+    "gn:longitude":75.84039,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Targan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Targhap"
+    ],
+    "name:und_x_variant":[
+        "Stanovishche Targap",
+        "Targap",
+        "Targan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518455
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4ed1ed0b9d6a758ee7ad2c1f2d7cd1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1226761917,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1226761917,
+    "wof:lastmodified":1537659563,
+    "wof:name":"Targan",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.84039,
+    43.33062,
+    75.84039,
+    43.33062
+],
+  "geometry": {"coordinates":[75.84039,43.33062],"type":"Point"}
+}

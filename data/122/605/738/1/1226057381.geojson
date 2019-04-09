@@ -1,0 +1,67 @@
+{
+  "id": 1226057381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.55,48.75,47.55,48.75",
+    "geom:latitude":48.75,
+    "geom:longitude":47.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Meshitkum",
+    "gn:country_code":"KZ",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608831,
+    "gn:latitude":48.75,
+    "gn:longitude":47.55,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Meshitkum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608831
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dc4aa3eb1a1b356b7047c9b774f95770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785701,
+            "locality_id":1226057381,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226057381,
+    "wof:lastmodified":1536708623,
+    "wof:name":"Meshitkum",
+    "wof:parent_id":1108785701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.55,
+    48.75,
+    47.55,
+    48.75
+],
+  "geometry": {"coordinates":[47.55,48.75],"type":"Point"}
+}

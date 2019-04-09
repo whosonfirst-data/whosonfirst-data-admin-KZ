@@ -1,0 +1,61 @@
+{
+  "id": 1209597563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.98333,53.7,71.98333,53.7",
+    "geom:latitude":53.7,
+    "geom:longitude":71.98333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zhanaaul",
+    "gn:country_code":"KZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516882,
+    "gn:latitude":53.7,
+    "gn:longitude":71.98333,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Zhanaaul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516882
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6e00508c3f6f362b88a30dcb26be5cba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209597563
+        }
+    ],
+    "wof:id":1209597563,
+    "wof:lastmodified":1536282274,
+    "wof:name":"Zhanaaul",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.98333000000002,
+    53.7,
+    71.98333000000002,
+    53.7
+],
+  "geometry": {"coordinates":[71.98333000000002,53.7],"type":"Point"}
+}

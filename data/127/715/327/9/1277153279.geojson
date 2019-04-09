@@ -1,0 +1,81 @@
+{
+  "id": 1277153279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.58333,43.1,71.58333,43.1",
+    "geom:latitude":43.1,
+    "geom:longitude":71.58333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dikan",
+    "gn:country_code":"KZ",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524614,
+    "gn:latitude":43.1,
+    "gn:longitude":71.58333,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Dikan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "D\u012bqan"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u0438\u049b\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043a\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Dyykan",
+        "Dekhkan",
+        "Dikan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524614
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4dac2932ec43319713438beb255fedd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785487,
+            "locality_id":1277153279,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1277153279,
+    "wof:lastmodified":1537659843,
+    "wof:name":"Dikan",
+    "wof:parent_id":1108785487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.58333,
+    43.1,
+    71.58333,
+    43.1
+],
+  "geometry": {"coordinates":[71.58333,43.1],"type":"Point"}
+}

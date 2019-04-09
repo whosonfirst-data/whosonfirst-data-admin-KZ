@@ -1,0 +1,65 @@
+{
+  "id": 1209537755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.55,46.9,50.55,46.9",
+    "geom:latitude":46.9,
+    "geom:longitude":50.55,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Trekhbratinskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":-29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607959,
+    "gn:latitude":46.9,
+    "gn:longitude":50.55,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tr\u00ebkhbratinskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pos\u00eblok Trekhbratinskiy",
+        "Tr\u00ebkhbratinskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607959
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"768dea3907cb9a84527b17a1b0b90c80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209537755
+        }
+    ],
+    "wof:id":1209537755,
+    "wof:lastmodified":1537659354,
+    "wof:name":"Trekhbratinskiy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.55,
+    46.9,
+    50.55,
+    46.9
+],
+  "geometry": {"coordinates":[50.55,46.9],"type":"Point"}
+}

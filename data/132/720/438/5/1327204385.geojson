@@ -1,0 +1,78 @@
+{
+  "id": 1327204385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.46854,50.20072,80.46854,50.20072",
+    "geom:latitude":50.20072,
+    "geom:longitude":80.46854,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Razvaliny Shoptygak",
+    "gn:country_code":"KZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519065,
+    "gn:latitude":50.20072,
+    "gn:longitude":80.46854,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Razvaliny Shoptygak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u0428\u043e\u043f\u0442\u044b\u0433\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Shobtykhak",
+        "Shoptygak",
+        "Sheptygak",
+        "Shobty-Gak",
+        "Shoptykhak",
+        "Razvaliny Shoptygak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519065
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ace520b69fd3576c98db3fbb72710db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1327204385,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327204385,
+    "wof:lastmodified":1537659589,
+    "wof:name":"Razvaliny Shoptygak",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.46854,
+    50.20072,
+    80.46854,
+    50.20072
+],
+  "geometry": {"coordinates":[80.46854,50.20072],"type":"Point"}
+}

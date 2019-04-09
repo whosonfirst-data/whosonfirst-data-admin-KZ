@@ -1,0 +1,61 @@
+{
+  "id": 1209329303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.2,51.35,78.2,51.35",
+    "geom:latitude":51.35,
+    "geom:longitude":78.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Krasnyy Rybak",
+    "gn:country_code":"KZ",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521974,
+    "gn:latitude":51.35,
+    "gn:longitude":78.2,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Krasnyy Rybak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521974
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4956ff43a3d42cc0d855d324ef462930",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209329303
+        }
+    ],
+    "wof:id":1209329303,
+    "wof:lastmodified":1536290424,
+    "wof:name":"Krasnyy Rybak",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.2,
+    51.35,
+    78.2,
+    51.35
+],
+  "geometry": {"coordinates":[78.2,51.35],"type":"Point"}
+}

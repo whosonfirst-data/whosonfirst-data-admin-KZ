@@ -1,0 +1,83 @@
+{
+  "id": 1343361027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.60246,52.86244,70.60246,52.86244",
+    "geom:latitude":52.86244,
+    "geom:longitude":70.60246,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Qyzyluyym",
+    "gn:country_code":"KZ",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521436,
+    "gn:latitude":52.86244,
+    "gn:longitude":70.60246,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Qyzyluyym",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyzyluim"
+    ],
+    "name:kaz_x_preferred":[
+        "Qyzyluyym"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u04b1\u0439\u044b\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0443\u044e\u043c"
+    ],
+    "name:und_x_variant":[
+        "Kyzyluim",
+        "Kyzyluyum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521436
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"201df63c42cfd532f9aa8a6cee91a8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1343361027,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343361027,
+    "wof:lastmodified":1537659715,
+    "wof:name":"Qyzyluyym",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.60246,
+    52.86244,
+    70.60246,
+    52.86244
+],
+  "geometry": {"coordinates":[70.60245999999999,52.86244],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209433053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.77232,48.86221,83.77232,48.86221",
+    "geom:latitude":48.86221,
+    "geom:longitude":83.77232,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zarya",
+    "gn:country_code":"KZ",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517083,
+    "gn:latitude":48.86221,
+    "gn:longitude":83.77232,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Zarya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517083
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0f90cc89017d8f682108a9011670719d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209433053
+        }
+    ],
+    "wof:id":1209433053,
+    "wof:lastmodified":1536287182,
+    "wof:name":"Zarya",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.77232,
+    48.86221,
+    83.77232,
+    48.86221
+],
+  "geometry": {"coordinates":[83.77231999999999,48.86221],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309782389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.2986,53.26971,62.2986,53.26971",
+    "geom:latitude":53.26971,
+    "geom:longitude":62.2986,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Salamat",
+    "gn:country_code":"KZ",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11507937,
+    "gn:latitude":53.26971,
+    "gn:longitude":62.2986,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Salamat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043c\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507937
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9238dbfe3e977c56dd1414e978b02dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785333,
+            "locality_id":1309782389,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1309782389,
+    "wof:lastmodified":1537660174,
+    "wof:name":"Salamat",
+    "wof:parent_id":1108785333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.2986,
+    53.26971,
+    62.2986,
+    53.26971
+],
+  "geometry": {"coordinates":[62.2986,53.26971],"type":"Point"}
+}

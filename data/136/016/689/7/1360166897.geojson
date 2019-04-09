@@ -1,0 +1,79 @@
+{
+  "id": 1360166897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.17252,53.56681,68.17252,53.56681",
+    "geom:latitude":53.56681,
+    "geom:longitude":68.17252,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sholakozek",
+    "gn:country_code":"KZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519084,
+    "gn:latitude":53.56681,
+    "gn:longitude":68.17252,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Sholakozek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sholakozek"
+    ],
+    "name:kaz_x_preferred":[
+        "Sholaq\u00f6zek"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u043e\u043b\u0430\u049b\u04e9\u0437\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043b\u0430\u043a\u043e\u0437\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519084
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2b6978b813ebba582e9b3712195e78bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1360166897,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1360166897,
+    "wof:lastmodified":1537659590,
+    "wof:name":"Sholakozek",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.17251999999999,
+    53.56681,
+    68.17251999999999,
+    53.56681
+],
+  "geometry": {"coordinates":[68.17251999999999,53.56681],"type":"Point"}
+}

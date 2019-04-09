@@ -1,0 +1,72 @@
+{
+  "id": 1310223331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.47836,45.61832,80.47836,45.61832",
+    "geom:latitude":45.61832,
+    "geom:longitude":80.47836,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kargaly",
+    "gn:country_code":"KZ",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523014,
+    "gn:latitude":45.61832,
+    "gn:longitude":80.47836,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kargaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kargal\u00f6",
+        "Kartaly",
+        "Kargaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523014
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d0cabf914496bd217a357607ee475fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785417,
+            "locality_id":1310223331,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1310223331,
+    "wof:lastmodified":1537659780,
+    "wof:name":"Kargaly",
+    "wof:parent_id":1108785417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.47836,
+    45.61832,
+    80.47836,
+    45.61832
+],
+  "geometry": {"coordinates":[80.47836,45.61832],"type":"Point"}
+}

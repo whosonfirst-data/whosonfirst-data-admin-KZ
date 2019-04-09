@@ -1,0 +1,71 @@
+{
+  "id": 1309890203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.86667,45.23333,55.86667,45.23333",
+    "geom:latitude":45.23333,
+    "geom:longitude":55.86667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sam Vtoroy",
+    "gn:country_code":"KZ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608501,
+    "gn:latitude":45.23333,
+    "gn:longitude":55.86667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sam Vtoroy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karakuduk",
+        "Sam Vtoroy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608501
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"16508cc8df8b2cf6796e381a19754bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785539,
+            "locality_id":1309890203,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1309890203,
+    "wof:lastmodified":1537659374,
+    "wof:name":"Sam Vtoroy",
+    "wof:parent_id":1108785539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.86666999999999,
+    45.23333,
+    55.86666999999999,
+    45.23333
+],
+  "geometry": {"coordinates":[55.86666999999999,45.23333],"type":"Point"}
+}

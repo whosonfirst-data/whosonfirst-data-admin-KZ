@@ -1,0 +1,79 @@
+{
+  "id": 1343656289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.1814,51.004,50.1814,51.004",
+    "geom:latitude":51.004,
+    "geom:longitude":50.1814,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Aqtau",
+    "gn:country_code":"KZ",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608643,
+    "gn:latitude":51.004,
+    "gn:longitude":50.1814,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Aqta\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aqta\u016b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0442\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Panika",
+        "Aktau",
+        "Bol\u2019shaya Panika",
+        "Aqta\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608643
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"13c12d4f15fa6138495bb0e5b521054b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785329,
+            "locality_id":1343656289,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1343656289,
+    "wof:lastmodified":1537659381,
+    "wof:name":"Aqtau",
+    "wof:parent_id":1108785329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.1814,
+    51.004,
+    50.1814,
+    51.004
+],
+  "geometry": {"coordinates":[50.1814,51.004],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226313871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.0462,44.6333,66.0462,44.6333",
+    "geom:latitude":44.6333,
+    "geom:longitude":66.0462,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sulutobe",
+    "gn:country_code":"KZ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518896,
+    "gn:latitude":44.6333,
+    "gn:longitude":66.0462,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sul\u016bt\u00f6be",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solo-Tyube",
+        "Solotobe",
+        "Sul\u016bt\u00f6be"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518896
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d48a5bc2248672514a48c81d75ac5600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785675,
+            "locality_id":1226313871,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1226313871,
+    "wof:lastmodified":1537659581,
+    "wof:name":"Sulutobe",
+    "wof:parent_id":1108785675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.0462,
+    44.6333,
+    66.0462,
+    44.6333
+],
+  "geometry": {"coordinates":[66.0462,44.6333],"type":"Point"}
+}

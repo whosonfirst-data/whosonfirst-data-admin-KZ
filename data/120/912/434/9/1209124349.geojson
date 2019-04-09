@@ -1,0 +1,64 @@
+{
+  "id": 1209124349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.78871,44.51484,78.78871,44.51484",
+    "geom:latitude":44.51484,
+    "geom:longitude":78.78871,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bostan",
+    "gn:country_code":"KZ",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525695,
+    "gn:latitude":44.51484,
+    "gn:longitude":78.78871,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bostan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bastan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525695
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ebcedfcdf6acee59338d1f76e81571e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209124349
+        }
+    ],
+    "wof:id":1209124349,
+    "wof:lastmodified":1537659887,
+    "wof:name":"Bostan",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.78871,
+    44.51484,
+    78.78871,
+    44.51484
+],
+  "geometry": {"coordinates":[78.78870999999999,44.51484],"type":"Point"}
+}

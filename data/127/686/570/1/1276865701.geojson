@@ -1,0 +1,70 @@
+{
+  "id": 1276865701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.60261,40.67542,68.60261,40.67542",
+    "geom:latitude":40.67542,
+    "geom:longitude":68.60261,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Imeni Sabira Rakhimova",
+    "gn:country_code":"KZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956132,
+    "gn:latitude":40.67542,
+    "gn:longitude":68.60261,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Imeni Sabira Rakhimova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u0421\u0430\u0431\u0438\u0440\u0430 \u0420\u0430\u0445\u0438\u043c\u043e\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956132
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bab81e637c209cecef9d4b9e988ce12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1276865701,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276865701,
+    "wof:lastmodified":1537660080,
+    "wof:name":"Imeni Sabira Rakhimova",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.60261,
+    40.67542,
+    68.60261,
+    40.67542
+],
+  "geometry": {"coordinates":[68.60261,40.67542],"type":"Point"}
+}

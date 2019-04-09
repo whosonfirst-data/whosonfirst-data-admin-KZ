@@ -1,0 +1,79 @@
+{
+  "id": 1226547359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.25157,52.38241,71.25157,52.38241",
+    "geom:latitude":52.38241,
+    "geom:longitude":71.25157,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lidiyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521317,
+    "gn:latitude":52.38241,
+    "gn:longitude":71.25157,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Lidiyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lidiyevka"
+    ],
+    "name:kaz_x_preferred":[
+        "L\u012bd\u012bevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041b\u0438\u0434\u0438\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0434\u0438\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521317
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2397b1f2dbe03f0142f48e35388362e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1226547359,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226547359,
+    "wof:lastmodified":1537659708,
+    "wof:name":"Lidiyevka",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.25157,
+    52.38241,
+    71.25157,
+    52.38241
+],
+  "geometry": {"coordinates":[71.25157,52.38241],"type":"Point"}
+}

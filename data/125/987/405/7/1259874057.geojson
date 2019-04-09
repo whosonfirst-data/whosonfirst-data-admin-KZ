@@ -1,0 +1,79 @@
+{
+  "id": 1259874057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.48259,49.27537,49.48259,49.27537",
+    "geom:latitude":49.27537,
+    "geom:longitude":49.48259,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zhuldyz",
+    "gn:country_code":"KZ",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607517,
+    "gn:latitude":49.27537,
+    "gn:longitude":49.48259,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zhuldyz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhuldyz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u043b\u0434\u044b\u0437"
+    ],
+    "name:und_x_variant":[
+        "Bestogan",
+        "Zhulduz",
+        "Zhulauz",
+        "Zhuldyz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607517
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"40c13d89e99970068383ea1d1de742f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1259874057,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1259874057,
+    "wof:lastmodified":1537659338,
+    "wof:name":"Zhuldyz",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.48259,
+    49.27537,
+    49.48259,
+    49.27537
+],
+  "geometry": {"coordinates":[49.48259,49.27537],"type":"Point"}
+}

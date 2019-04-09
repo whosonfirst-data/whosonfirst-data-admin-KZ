@@ -1,0 +1,67 @@
+{
+  "id": 1309695775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.05,45.93333,62.05,45.93333",
+    "geom:latitude":45.93333,
+    "geom:longitude":62.05,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Imeni Lenina",
+    "gn:country_code":"KZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523942,
+    "gn:latitude":45.93333,
+    "gn:longitude":62.05,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Imeni Lenina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523942
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"854f448ae08d049511f3757f4788a801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785613,
+            "locality_id":1309695775,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1309695775,
+    "wof:lastmodified":1537086572,
+    "wof:name":"Imeni Lenina",
+    "wof:parent_id":1108785613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.05,
+    45.93333,
+    62.05,
+    45.93333
+],
+  "geometry": {"coordinates":[62.05,45.93333],"type":"Point"}
+}

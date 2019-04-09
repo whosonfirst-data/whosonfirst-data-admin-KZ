@@ -1,0 +1,79 @@
+{
+  "id": 1242650053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.89593,54.23365,68.89593,54.23365",
+    "geom:latitude":54.23365,
+    "geom:longitude":68.89593,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dmitrovka",
+    "gn:country_code":"KZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531004,
+    "gn:latitude":54.23365,
+    "gn:longitude":68.89593,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Dmitrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dmitrovka"
+    ],
+    "name:kaz_x_preferred":[
+        "D\u012bm\u012btrovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531004
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9d3193ed5e5bf6f02219eb7d1c3282e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1242650053,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1242650053,
+    "wof:lastmodified":1537659950,
+    "wof:name":"Dmitrovka",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.89593,
+    54.23365,
+    68.89593,
+    54.23365
+],
+  "geometry": {"coordinates":[68.89593000000001,54.23365],"type":"Point"}
+}

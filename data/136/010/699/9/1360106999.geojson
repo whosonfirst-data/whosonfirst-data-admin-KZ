@@ -1,0 +1,80 @@
+{
+  "id": 1360106999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.6,47.98333,51.6,47.98333",
+    "geom:latitude":47.98333,
+    "geom:longitude":51.6,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Topoli",
+    "gn:country_code":"KZ",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607973,
+    "gn:latitude":47.98333,
+    "gn:longitude":51.6,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Topoli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Topoli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Topali",
+        "Topolinski",
+        "Topolinskiy",
+        "Topoli",
+        "Topol\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607973
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f3400dfd01b91c1bf384e0f34cb090e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785445,
+            "locality_id":1360106999,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1360106999,
+    "wof:lastmodified":1537659355,
+    "wof:name":"Topoli",
+    "wof:parent_id":1108785445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.6,
+    47.98333,
+    51.6,
+    47.98333
+],
+  "geometry": {"coordinates":[51.6,47.98333],"type":"Point"}
+}

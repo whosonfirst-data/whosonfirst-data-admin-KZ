@@ -1,0 +1,79 @@
+{
+  "id": 1360274377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.1699,43.24555,69.1699,43.24555",
+    "geom:latitude":43.24555,
+    "geom:longitude":69.1699,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bestoghay",
+    "gn:country_code":"KZ",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641306,
+    "gn:latitude":43.24555,
+    "gn:longitude":69.1699,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Bestoghay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Bestoghay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u0441\u0442\u043e\u0493\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u0442\u043e\u0433\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Bestogay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641306
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"adb2a11d75cb5b62c28af7f56c384468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785583,
+            "locality_id":1360274377,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1360274377,
+    "wof:lastmodified":1537660054,
+    "wof:name":"Bestoghay",
+    "wof:parent_id":1108785583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.1699,
+    43.24555,
+    69.1699,
+    43.24555
+],
+  "geometry": {"coordinates":[69.1699,43.24555],"type":"Point"}
+}

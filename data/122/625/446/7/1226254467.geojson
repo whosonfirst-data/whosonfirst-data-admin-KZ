@@ -1,0 +1,76 @@
+{
+  "id": 1226254467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.72115,51.54487,67.72115,51.54487",
+    "geom:latitude":51.54487,
+    "geom:longitude":67.72115,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Taypaq",
+    "gn:country_code":"KZ",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518221,
+    "gn:latitude":51.54487,
+    "gn:longitude":67.72115,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Taypaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Taypaq"
+    ],
+    "name:und_x_variant":[
+        "Terekty",
+        "Terekti",
+        "Tarakty",
+        "Taypak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518221
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"445ca69b1115d5756af42a3e566527bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785623,
+            "locality_id":1226254467,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226254467,
+    "wof:lastmodified":1537659556,
+    "wof:name":"Taypaq",
+    "wof:parent_id":1108785623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.72115,
+    51.54487,
+    67.72115,
+    51.54487
+],
+  "geometry": {"coordinates":[67.72114999999999,51.54487],"type":"Point"}
+}

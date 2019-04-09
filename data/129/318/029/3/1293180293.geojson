@@ -1,0 +1,77 @@
+{
+  "id": 1293180293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.17652,52.78352,65.17652,52.78352",
+    "geom:latitude":52.78352,
+    "geom:longitude":65.17652,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Novoselovka",
+    "gn:country_code":"KZ",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520553,
+    "gn:latitude":52.78352,
+    "gn:longitude":65.17652,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Novos\u00eblovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novos\u00eblovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bakanskiy",
+        "Novos\u00eblovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520553
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ba664e21ad10a672c15e81807620608b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1293180293,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293180293,
+    "wof:lastmodified":1537659664,
+    "wof:name":"Novoselovka",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.17652,
+    52.78352,
+    65.17652,
+    52.78352
+],
+  "geometry": {"coordinates":[65.17652,52.78352],"type":"Point"}
+}

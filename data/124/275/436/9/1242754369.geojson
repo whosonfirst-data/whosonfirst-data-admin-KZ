@@ -1,0 +1,77 @@
+{
+  "id": 1242754369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.29246,49.84577,64.29246,49.84577",
+    "geom:latitude":49.84577,
+    "geom:longitude":64.29246,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kolkamys",
+    "gn:country_code":"KZ",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522395,
+    "gn:latitude":49.84577,
+    "gn:longitude":64.29246,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kolkamys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kolkamys"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u044c\u043a\u0430\u043c\u044b\u0441"
+    ],
+    "name:und_x_variant":[
+        "Kul\u2019kamys",
+        "Kolkamys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522395
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fa5cbf48bded9668a8c1bf4f9a8a535b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1242754369,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1242754369,
+    "wof:lastmodified":1537659758,
+    "wof:name":"Kolkamys",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.29245999999999,
+    49.84577,
+    64.29245999999999,
+    49.84577
+],
+  "geometry": {"coordinates":[64.29245999999999,49.84577],"type":"Point"}
+}

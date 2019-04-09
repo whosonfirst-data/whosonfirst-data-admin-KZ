@@ -1,0 +1,72 @@
+{
+  "id": 1225927663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.13333,43.55,69.13333,43.55",
+    "geom:latitude":43.55,
+    "geom:longitude":69.13333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Imeni Pervogo Maya",
+    "gn:country_code":"KZ",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523890,
+    "gn:latitude":43.55,
+    "gn:longitude":69.13333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Imeni Pervogo Maya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pervoye Maya",
+        "Pervogo Maya",
+        "Imeni Pervogo Maya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523890
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bab8cfc5cdddd5330d24e9346c33cd5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785599,
+            "locality_id":1225927663,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1225927663,
+    "wof:lastmodified":1537659811,
+    "wof:name":"Imeni Pervogo Maya",
+    "wof:parent_id":1108785599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.13333,
+    43.55,
+    69.13333,
+    43.55
+],
+  "geometry": {"coordinates":[69.13333,43.55],"type":"Point"}
+}

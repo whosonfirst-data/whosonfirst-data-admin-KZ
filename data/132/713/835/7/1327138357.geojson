@@ -1,0 +1,73 @@
+{
+  "id": 1327138357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.62858,43.37257,79.62858,43.37257",
+    "geom:latitude":43.37257,
+    "geom:longitude":79.62858,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dolayty",
+    "gn:country_code":"KZ",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524517,
+    "gn:latitude":43.37257,
+    "gn:longitude":79.62858,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Dolayty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0430\u0439\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Dulaty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524517
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2a7e54a6e1f308433ddff47ab9c10068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785425,
+            "locality_id":1327138357,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1327138357,
+    "wof:lastmodified":1537659837,
+    "wof:name":"Dolayty",
+    "wof:parent_id":1108785425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.62858,
+    43.37257,
+    79.62858,
+    43.37257
+],
+  "geometry": {"coordinates":[79.62858,43.37257],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1309886103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.09344,50.32336,74.09344,50.32336",
+    "geom:latitude":50.32336,
+    "geom:longitude":74.09344,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ulgi",
+    "gn:country_code":"KZ",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517801,
+    "gn:latitude":50.32336,
+    "gn:longitude":74.09344,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"\u00dclgi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u00dclgi"
+    ],
+    "name:kaz_x_variant":[
+        "\u04ae\u043b\u0433\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "Ul\u2019gi"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u043b\u044c\u0433\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ul\u2019ga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517801
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"346616c9ec58aec92979bda6dd9b2c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1309886103,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1309886103,
+    "wof:lastmodified":1537659539,
+    "wof:name":"Ulgi",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.09344,
+    50.32336,
+    74.09344,
+    50.32336
+],
+  "geometry": {"coordinates":[74.09344,50.32336],"type":"Point"}
+}

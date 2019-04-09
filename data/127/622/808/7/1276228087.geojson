@@ -1,0 +1,67 @@
+{
+  "id": 1276228087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.25,49.96667,62.25,49.96667",
+    "geom:latitude":49.96667,
+    "geom:longitude":62.25,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Karaastau",
+    "gn:country_code":"KZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523477,
+    "gn:latitude":49.96667,
+    "gn:longitude":62.25,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Karaastau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523477
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"816e213c9f7baf643ab39b0645075c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1276228087,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1276228087,
+    "wof:lastmodified":1536920478,
+    "wof:name":"Karaastau",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.25,
+    49.96667,
+    62.25,
+    49.96667
+],
+  "geometry": {"coordinates":[62.25,49.96667],"type":"Point"}
+}

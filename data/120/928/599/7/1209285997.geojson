@@ -1,0 +1,73 @@
+{
+  "id": 1209285997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65745,43.56167,71.65745,43.56167",
+    "geom:latitude":43.56167,
+    "geom:longitude":71.65745,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Eltaytoyghan",
+    "gn:country_code":"KZ",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10433387,
+    "gn:latitude":43.56167,
+    "gn:longitude":71.65745,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Eltaytoyghan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Eltaytoyghan"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u043b\u0442\u0430\u0439\u0442\u043e\u0439\u0493\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u0433\u0430\u0442\u0442\u0430\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Yelgattagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10433387
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f242d3a0d1e4655d53edb6680d1204e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209285997
+        }
+    ],
+    "wof:id":1209285997,
+    "wof:lastmodified":1537660051,
+    "wof:name":"Eltaytoyghan",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65745,
+    43.56167,
+    71.65745,
+    43.56167
+],
+  "geometry": {"coordinates":[71.65745,43.56167],"type":"Point"}
+}

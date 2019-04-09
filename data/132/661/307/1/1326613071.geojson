@@ -1,0 +1,79 @@
+{
+  "id": 1326613071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.34323,48.87442,82.34323,48.87442",
+    "geom:latitude":48.87442,
+    "geom:longitude":82.34323,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qosaghash",
+    "gn:country_code":"KZ",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527257,
+    "gn:latitude":48.87442,
+    "gn:longitude":82.34323,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Qosaghash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qosaghash"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u0441\u0430\u0493\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0430\u0433\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Kosagash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527257
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4828dad7f99bb572ec53e9d35167ccdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1326613071,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1326613071,
+    "wof:lastmodified":1537660187,
+    "wof:name":"Qosaghash",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.34323,
+    48.87442,
+    82.34323,
+    48.87442
+],
+  "geometry": {"coordinates":[82.34323000000001,48.87442],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1226138213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.6854,41.98226,69.6854,41.98226",
+    "geom:latitude":41.98226,
+    "geom:longitude":69.6854,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Suykbulak",
+    "gn:country_code":"KZ",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518688,
+    "gn:latitude":41.98226,
+    "gn:longitude":69.6854,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Suykbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhangatalap"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430\u0442\u0430\u043b\u0430\u043f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u044b\u043a\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Sauk-Bulak",
+        "Suykbulak",
+        "Zhanatalap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518688
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"14c936cceff67174cdd36191d4fe8c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1226138213,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226138213,
+    "wof:lastmodified":1537659570,
+    "wof:name":"Suykbulak",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.6854,
+    41.98226,
+    69.6854,
+    41.98226
+],
+  "geometry": {"coordinates":[69.6854,41.98226],"type":"Point"}
+}

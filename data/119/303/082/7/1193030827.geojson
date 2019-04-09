@@ -1,0 +1,67 @@
+{
+  "id": 1193030827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.13333,51.03333,65.13333,51.03333",
+    "geom:latitude":51.03333,
+    "geom:longitude":65.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ayakmoildy",
+    "gn:country_code":"KZ",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525976,
+    "gn:latitude":51.03333,
+    "gn:longitude":65.13333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Ayakmoildy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525976
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d8716448151a6003937fdf65a75af0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1193030827,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1193030827,
+    "wof:lastmodified":1536364362,
+    "wof:name":"Ayakmoildy",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.13333,
+    51.03333,
+    65.13333,
+    51.03333
+],
+  "geometry": {"coordinates":[65.13333,51.03333],"type":"Point"}
+}

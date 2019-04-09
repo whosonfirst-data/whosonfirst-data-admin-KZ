@@ -1,0 +1,67 @@
+{
+  "id": 1242592303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.5,45.41667,79.5,45.41667",
+    "geom:latitude":45.41667,
+    "geom:longitude":79.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Imeni Stalina",
+    "gn:country_code":"KZ",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523871,
+    "gn:latitude":45.41667,
+    "gn:longitude":79.5,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Imeni Stalina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523871
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8f41b969d408e655eab1c1385f822aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785407,
+            "locality_id":1242592303,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1242592303,
+    "wof:lastmodified":1537040668,
+    "wof:name":"Imeni Stalina",
+    "wof:parent_id":1108785407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.5,
+    45.41667,
+    79.5,
+    45.41667
+],
+  "geometry": {"coordinates":[79.5,45.41667],"type":"Point"}
+}

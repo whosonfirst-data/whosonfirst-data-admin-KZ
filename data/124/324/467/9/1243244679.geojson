@@ -1,0 +1,83 @@
+{
+  "id": 1243244679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.07013,51.08439,78.07013,51.08439",
+    "geom:latitude":51.08439,
+    "geom:longitude":78.07013,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Karaterek",
+    "gn:country_code":"KZ",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523085,
+    "gn:latitude":51.08439,
+    "gn:longitude":78.07013,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Karaterek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karaterek"
+    ],
+    "name:kaz_x_preferred":[
+        "Qaraterek"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Tiktogay",
+        "Karaterek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523085
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6d3a35c3f6061606e6856c961c5bc637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1243244679,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1243244679,
+    "wof:lastmodified":1537659783,
+    "wof:name":"Karaterek",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.07013,
+    51.08439,
+    78.07013,
+    51.08439
+],
+  "geometry": {"coordinates":[78.07013000000001,51.08439],"type":"Point"}
+}

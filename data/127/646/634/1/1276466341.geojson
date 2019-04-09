@@ -1,0 +1,67 @@
+{
+  "id": 1276466341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.36667,48.98333,53.36667,48.98333",
+    "geom:latitude":48.98333,
+    "geom:longitude":53.36667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Atinbay",
+    "gn:country_code":"KZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610532,
+    "gn:latitude":48.98333,
+    "gn:longitude":53.36667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Atinbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610532
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7b282db6819601f78cc5c2abd080de7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785453,
+            "locality_id":1276466341,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1276466341,
+    "wof:lastmodified":1537094463,
+    "wof:name":"Atinbay",
+    "wof:parent_id":1108785453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.36666999999999,
+    48.98333,
+    53.36666999999999,
+    48.98333
+],
+  "geometry": {"coordinates":[53.36666999999999,48.98333],"type":"Point"}
+}

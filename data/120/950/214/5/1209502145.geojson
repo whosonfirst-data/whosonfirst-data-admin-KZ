@@ -1,0 +1,61 @@
+{
+  "id": 1209502145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.26667,49.95,70.26667,49.95",
+    "geom:latitude":49.95,
+    "geom:longitude":70.26667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nurinskiy Pyatyy",
+    "gn:country_code":"KZ",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520498,
+    "gn:latitude":49.95,
+    "gn:longitude":70.26667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Nurinskiy Pyatyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520498
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fa595273e5f0dc155fa13e41bc44b615",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209502145
+        }
+    ],
+    "wof:id":1209502145,
+    "wof:lastmodified":1536285148,
+    "wof:name":"Nurinskiy Pyatyy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.26666999999999,
+    49.95,
+    70.26666999999999,
+    49.95
+],
+  "geometry": {"coordinates":[70.26666999999999,49.95],"type":"Point"}
+}

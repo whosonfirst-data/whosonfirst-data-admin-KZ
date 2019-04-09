@@ -1,0 +1,72 @@
+{
+  "id": 1293854269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.39413,47.26545,85.39413,47.26545",
+    "geom:latitude":47.26545,
+    "geom:longitude":85.39413,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qaraunggir",
+    "gn:country_code":"KZ",
+    "gn:dem":1311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523047,
+    "gn:latitude":47.26545,
+    "gn:longitude":85.39413,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Qara\u00fcnggir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karaungur",
+        "Karaungir",
+        "Qara\u00fcnggir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523047
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bbd75aedaa47f114bed4c7e9505998ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785311,
+            "locality_id":1293854269,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293854269,
+    "wof:lastmodified":1537659782,
+    "wof:name":"Qaraunggir",
+    "wof:parent_id":1108785311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.39413,
+    47.26545,
+    85.39413,
+    47.26545
+],
+  "geometry": {"coordinates":[85.39413,47.26545],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343334831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.34499,49.22058,78.34499,49.22058",
+    "geom:latitude":49.22058,
+    "geom:longitude":78.34499,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bestamak",
+    "gn:country_code":"KZ",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525387,
+    "gn:latitude":49.22058,
+    "gn:longitude":78.34499,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Bestamak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bestamak"
+    ],
+    "name:kaz_x_preferred":[
+        "Bestamaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u0441\u0442\u0430\u043c\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u0442\u0430\u043c\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525387
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d40222a9a696cd0ebd90b4c766995d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1343334831,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343334831,
+    "wof:lastmodified":1537659873,
+    "wof:name":"Bestamak",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.34499,
+    49.22058,
+    78.34499,
+    49.22058
+],
+  "geometry": {"coordinates":[78.34499,49.22058],"type":"Point"}
+}

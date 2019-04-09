@@ -1,0 +1,73 @@
+{
+  "id": 1343773405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.1813,50.89686,69.1813,50.89686",
+    "geom:latitude":50.89686,
+    "geom:longitude":69.1813,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Konyrtybek",
+    "gn:country_code":"KZ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523503,
+    "gn:latitude":50.89686,
+    "gn:longitude":69.1813,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Konyrtybek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanyrtobek",
+        "Kozhakol\u2019",
+        "Imeni Stalina",
+        "Konyrtybek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523503
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e5abc2da09ed21a9d48e38638eb59b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785503,
+            "locality_id":1343773405,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343773405,
+    "wof:lastmodified":1537659796,
+    "wof:name":"Konyrtybek",
+    "wof:parent_id":1108785503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.1813,
+    50.89686,
+    69.1813,
+    50.89686
+],
+  "geometry": {"coordinates":[69.18129999999999,50.89686],"type":"Point"}
+}

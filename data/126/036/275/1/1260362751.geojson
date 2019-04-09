@@ -1,0 +1,76 @@
+{
+  "id": 1260362751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.83371,50.09779,82.83371,50.09779",
+    "geom:latitude":50.09779,
+    "geom:longitude":82.83371,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Vesyoloe",
+    "gn:country_code":"KZ",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510271,
+    "gn:latitude":50.09779,
+    "gn:longitude":82.83371,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Vesyoloe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Vesyoloe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u0435\u0441\u0451\u043b\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "Ves\u00ebloye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510271
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"befa272048ece78983a7f20e4acc725e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785307,
+            "locality_id":1260362751,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1260362751,
+    "wof:lastmodified":1537660179,
+    "wof:name":"Vesyoloe",
+    "wof:parent_id":1108785307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.83371,
+    50.09779,
+    82.83371,
+    50.09779
+],
+  "geometry": {"coordinates":[82.83371,50.09779],"type":"Point"}
+}

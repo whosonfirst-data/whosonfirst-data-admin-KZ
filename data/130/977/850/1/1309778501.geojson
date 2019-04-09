@@ -1,0 +1,79 @@
+{
+  "id": 1309778501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.54941,53.96963,67.54941,53.96963",
+    "geom:latitude":53.96963,
+    "geom:longitude":67.54941,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zhanatalap",
+    "gn:country_code":"KZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532166,
+    "gn:latitude":53.96963,
+    "gn:longitude":67.54941,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Zhanatalap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhanatalap"
+    ],
+    "name:kaz_x_preferred":[
+        "Zhangatalap"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430\u0442\u0430\u043b\u0430\u043f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0442\u0430\u043b\u0430\u043f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532166
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5ac7d43e114e4e59ce65b523a206e4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1309778501,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1309778501,
+    "wof:lastmodified":1537659959,
+    "wof:name":"Zhanatalap",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.54941,
+    53.96963,
+    67.54941,
+    53.96963
+],
+  "geometry": {"coordinates":[67.54940999999999,53.96963],"type":"Point"}
+}

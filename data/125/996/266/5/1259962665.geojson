@@ -1,0 +1,70 @@
+{
+  "id": 1259962665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.71973,48.31553,77.71973,48.31553",
+    "geom:latitude":48.31553,
+    "geom:longitude":77.71973,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Akyshbay",
+    "gn:country_code":"KZ",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11412571,
+    "gn:latitude":48.31553,
+    "gn:longitude":77.71973,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Akyshbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u044b\u0448\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11412571
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b35664b299614bcbd9b66c80230372ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785459,
+            "locality_id":1259962665,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259962665,
+    "wof:lastmodified":1537660137,
+    "wof:name":"Akyshbay",
+    "wof:parent_id":1108785459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.71973,
+    48.31553,
+    77.71973,
+    48.31553
+],
+  "geometry": {"coordinates":[77.71973,48.31553],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226762329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.48333,48.21667,47.48333,48.21667",
+    "geom:latitude":48.21667,
+    "geom:longitude":47.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kenzhegora",
+    "gn:country_code":"KZ",
+    "gn:dem":-7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609435,
+    "gn:latitude":48.21667,
+    "gn:longitude":47.48333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kenzhegora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kenzhegora"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0436\u0435\u0433\u043e\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609435
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e7b47bcb9f2f848045c80d37cc606cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1226762329,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1226762329,
+    "wof:lastmodified":1537659412,
+    "wof:name":"Kenzhegora",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.48333,
+    48.21667,
+    47.48333,
+    48.21667
+],
+  "geometry": {"coordinates":[47.48333,48.21667],"type":"Point"}
+}

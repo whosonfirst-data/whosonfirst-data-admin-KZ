@@ -1,0 +1,67 @@
+{
+  "id": 1209106789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.20221,49.98319,57.20221,49.98319",
+    "geom:latitude":49.98319,
+    "geom:longitude":57.20221,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sambay",
+    "gn:country_code":"KZ",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608506,
+    "gn:latitude":49.98319,
+    "gn:longitude":57.20221,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sambay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sambay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608506
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7b7906f91c3f0dace4b81f794dc9778b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209106789
+        }
+    ],
+    "wof:id":1209106789,
+    "wof:lastmodified":1537659374,
+    "wof:name":"Sambay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.20221,
+    49.98319,
+    57.20221,
+    49.98319
+],
+  "geometry": {"coordinates":[57.20221,49.98319],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1327251821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.54817,40.89672,68.54817,40.89672",
+    "geom:latitude":40.89672,
+    "geom:longitude":68.54817,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Abay",
+    "gn:country_code":"KZ",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535827,
+    "gn:latitude":40.89672,
+    "gn:longitude":68.54817,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Abay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhambyl"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u043c\u0431\u044b\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0430\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0435\u043d\u0435\u0441\u0448\u0438\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Kenesshil\u2019",
+        "Abay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535827
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"32d793727a14a6d85b68ead1de169de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1327251821,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1327251821,
+    "wof:lastmodified":1537660003,
+    "wof:name":"Abay",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.54817,
+    40.89672,
+    68.54817,
+    40.89672
+],
+  "geometry": {"coordinates":[68.54817,40.89672],"type":"Point"}
+}

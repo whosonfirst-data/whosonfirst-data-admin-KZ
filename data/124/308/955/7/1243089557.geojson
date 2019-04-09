@@ -1,0 +1,67 @@
+{
+  "id": 1243089557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.67111,48.13417,47.67111,48.13417",
+    "geom:latitude":48.13417,
+    "geom:longitude":47.67111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tyulyugen",
+    "gn:country_code":"KZ",
+    "gn:dem":-12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607883,
+    "gn:latitude":48.13417,
+    "gn:longitude":47.67111,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tyulyugen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607883
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"10b022cc5541fbd8fa30650d80f078c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1243089557,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1243089557,
+    "wof:lastmodified":1536822124,
+    "wof:name":"Tyulyugen",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.67111,
+    48.13417000000001,
+    47.67111,
+    48.13417000000001
+],
+  "geometry": {"coordinates":[47.67111,48.13417000000001],"type":"Point"}
+}

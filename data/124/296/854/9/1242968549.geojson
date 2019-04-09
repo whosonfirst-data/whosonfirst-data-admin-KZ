@@ -1,0 +1,79 @@
+{
+  "id": 1242968549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.45194,47.43333,53.45194,47.43333",
+    "geom:latitude":47.43333,
+    "geom:longitude":53.45194,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Qoshqar",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":-22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609234,
+    "gn:latitude":47.43333,
+    "gn:longitude":53.45194,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Qoshqar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qoshqar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0448\u043a\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Koshkar",
+        "Qoshqar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609234,
+        "wk:page":"Koshkar"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"703de4098d35ceafa4c72d16be7f80eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785455,
+            "locality_id":1242968549,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1242968549,
+    "wof:lastmodified":1537659404,
+    "wof:name":"Qoshqar",
+    "wof:parent_id":1108785455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.45194,
+    47.43333,
+    53.45194,
+    47.43333
+],
+  "geometry": {"coordinates":[53.45194,47.43333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309722193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4,45.45,80.4,45.45",
+    "geom:latitude":45.45,
+    "geom:longitude":80.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bastaushi",
+    "gn:country_code":"KZ",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525693,
+    "gn:latitude":45.45,
+    "gn:longitude":80.4,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Bastaushi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525693
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ffd0bb3154aaae790e6ce31761b37579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785417,
+            "locality_id":1309722193,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1309722193,
+    "wof:lastmodified":1537049446,
+    "wof:name":"Bastaushi",
+    "wof:parent_id":1108785417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4,
+    45.45,
+    80.4,
+    45.45
+],
+  "geometry": {"coordinates":[80.40000000000001,45.45],"type":"Point"}
+}

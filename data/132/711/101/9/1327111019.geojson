@@ -1,0 +1,70 @@
+{
+  "id": 1327111019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.82513,52.72292,61.82513,52.72292",
+    "geom:latitude":52.72292,
+    "geom:longitude":61.82513,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Imeni Titova",
+    "gn:country_code":"KZ",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11418022,
+    "gn:latitude":52.72292,
+    "gn:longitude":61.82513,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Imeni Titova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u0422\u0438\u0442\u043e\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11418022
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"244e4da8c613dad8e00de899552fbb53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785661,
+            "locality_id":1327111019,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1327111019,
+    "wof:lastmodified":1537660147,
+    "wof:name":"Imeni Titova",
+    "wof:parent_id":1108785661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.82513,
+    52.72292,
+    61.82513,
+    52.72292
+],
+  "geometry": {"coordinates":[61.82513,52.72292],"type":"Point"}
+}

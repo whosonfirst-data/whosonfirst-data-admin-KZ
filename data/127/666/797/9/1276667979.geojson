@@ -1,0 +1,67 @@
+{
+  "id": 1276667979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.05,53.75,62.05,53.75",
+    "geom:latitude":53.75,
+    "geom:longitude":62.05,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kustanayskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521669,
+    "gn:latitude":53.75,
+    "gn:longitude":62.05,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kustanayskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521669
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d1d511332ff1f373abf3376b6958c1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785333,
+            "locality_id":1276667979,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1276667979,
+    "wof:lastmodified":1536826355,
+    "wof:name":"Kustanayskiy",
+    "wof:parent_id":1108785333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.05,
+    53.75,
+    62.05,
+    53.75
+],
+  "geometry": {"coordinates":[62.05,53.75],"type":"Point"}
+}

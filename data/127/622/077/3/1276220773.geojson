@@ -1,0 +1,73 @@
+{
+  "id": 1276220773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.47456,40.75498,68.47456,40.75498",
+    "geom:latitude":40.75498,
+    "geom:longitude":68.47456,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pervoye Maya",
+    "gn:country_code":"KZ",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535824,
+    "gn:latitude":40.75498,
+    "gn:longitude":68.47456,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Pervoye Maya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u0435 \u041c\u0430\u044f"
+    ],
+    "name:uzb_x_preferred":[
+        "Ko\u2018korol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535824
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2a59b8c68adbb2902ccb2b1b63d89abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1276220773,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276220773,
+    "wof:lastmodified":1537660003,
+    "wof:name":"Pervoye Maya",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.47456,
+    40.75498,
+    68.47456,
+    40.75498
+],
+  "geometry": {"coordinates":[68.47456,40.75498],"type":"Point"}
+}

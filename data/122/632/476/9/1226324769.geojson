@@ -1,0 +1,76 @@
+{
+  "id": 1226324769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.28421,53.32099,68.28421,53.32099",
+    "geom:latitude":53.32099,
+    "geom:longitude":68.28421,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Komarovka",
+    "gn:country_code":"KZ",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522382,
+    "gn:latitude":53.32099,
+    "gn:longitude":68.28421,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Komarovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Komarovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522382
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cbe2d76ab9f8f232561575e5c894abe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1226324769,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226324769,
+    "wof:lastmodified":1537659757,
+    "wof:name":"Komarovka",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.28421,
+    53.32099,
+    68.28421,
+    53.32099
+],
+  "geometry": {"coordinates":[68.28421,53.32099],"type":"Point"}
+}

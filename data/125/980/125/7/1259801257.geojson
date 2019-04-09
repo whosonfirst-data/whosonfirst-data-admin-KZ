@@ -1,0 +1,73 @@
+{
+  "id": 1259801257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.35268,43.37409,75.35268,43.37409",
+    "geom:latitude":43.37409,
+    "geom:longitude":75.35268,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Polevoy Stan Taldy-Bulak",
+    "gn:country_code":"KZ",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518567,
+    "gn:latitude":43.37409,
+    "gn:longitude":75.35268,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Polevoy Stan Taldy-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0435\u0432\u043e\u0439 \u0421\u0442\u0430\u043d \u0422\u0430\u043b\u0434\u044b-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Taldy-Bulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518567
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9aaeaf7b7cb67c3b729aa4cb984b798f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1259801257,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1259801257,
+    "wof:lastmodified":1537659566,
+    "wof:name":"Polevoy Stan Taldy-Bulak",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.35268,
+    43.37409,
+    75.35268,
+    43.37409
+],
+  "geometry": {"coordinates":[75.35268000000001,43.37409],"type":"Point"}
+}

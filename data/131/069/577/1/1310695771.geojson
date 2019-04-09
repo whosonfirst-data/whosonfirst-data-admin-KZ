@@ -1,0 +1,70 @@
+{
+  "id": 1310695771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.14294,43.34181,68.14294,43.34181",
+    "geom:latitude":43.34181,
+    "geom:longitude":68.14294,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Karsakty",
+    "gn:country_code":"KZ",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055445,
+    "gn:latitude":43.34181,
+    "gn:longitude":68.14294,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Karsakty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0441\u0430\u043a\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055445
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2189fd7f67814c372d3286029535e80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1310695771,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1310695771,
+    "wof:lastmodified":1537660094,
+    "wof:name":"Karsakty",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.14294,
+    43.34181,
+    68.14294,
+    43.34181
+],
+  "geometry": {"coordinates":[68.14294,43.34181],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310188879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.28868,40.68723,68.28868,40.68723",
+    "geom:latitude":40.68723,
+    "geom:longitude":68.28868,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Internatsional'noye",
+    "gn:country_code":"KZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956121,
+    "gn:latitude":40.68723,
+    "gn:longitude":68.28868,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Internatsional\u2019noye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Internatsional\u2019noye"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u043d\u0442\u0435\u0440\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Jo\u2018lbaris Kamshorayev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956121
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d939e766137fc37b87899acbaa213d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1310188879,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1310188879,
+    "wof:lastmodified":1537660079,
+    "wof:name":"Internatsional'noye",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.28868,
+    40.68723,
+    68.28868,
+    40.68723
+],
+  "geometry": {"coordinates":[68.28868,40.68723],"type":"Point"}
+}

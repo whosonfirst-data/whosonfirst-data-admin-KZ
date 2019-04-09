@@ -1,0 +1,73 @@
+{
+  "id": 1276196033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.50779,49.67692,82.50779,49.67692",
+    "geom:latitude":49.67692,
+    "geom:longitude":82.50779,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tochka",
+    "gn:country_code":"KZ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1484516,
+    "gn:latitude":49.67692,
+    "gn:longitude":82.50779,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tochka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tochka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0447\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1484516
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c227dcc877bffbe872f190e5a50dd3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785473,
+            "locality_id":1276196033,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276196033,
+    "wof:lastmodified":1537659465,
+    "wof:name":"Tochka",
+    "wof:parent_id":1108785473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.50779,
+    49.67692,
+    82.50779,
+    49.67692
+],
+  "geometry": {"coordinates":[82.50779,49.67692],"type":"Point"}
+}

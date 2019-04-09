@@ -1,0 +1,75 @@
+{
+  "id": 1226551475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.12982,51.37673,72.12982,51.37673",
+    "geom:latitude":51.37673,
+    "geom:longitude":72.12982,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Razvaliny Kiyka",
+    "gn:country_code":"KZ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1539514,
+    "gn:latitude":51.37673,
+    "gn:longitude":72.12982,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Razvaliny Kiyka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u041a\u0438\u0439\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kypka",
+        "Kiyka",
+        "Razvaliny Kiyka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1539514
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"abe9471936ac250d2467d12fc59590a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785443,
+            "locality_id":1226551475,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226551475,
+    "wof:lastmodified":1537660025,
+    "wof:name":"Razvaliny Kiyka",
+    "wof:parent_id":1108785443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.12982,
+    51.37673,
+    72.12982,
+    51.37673
+],
+  "geometry": {"coordinates":[72.12982,51.37673],"type":"Point"}
+}

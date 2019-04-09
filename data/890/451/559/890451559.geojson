@@ -1,0 +1,67 @@
+{
+  "id": 890451559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.71667,47.78333,78.71667,47.78333",
+    "geom:latitude":47.78333,
+    "geom:longitude":78.71667,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":4038,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Bidaik"
+    ],
+    "qs:name":"Sarykamys",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519625,
+        "gp:id":2264659,
+        "qs:id":133220
+    },
+    "wof:country":"KZ",
+    "wof:created":1469052785,
+    "wof:geomhash":"360ba8936618691185729654b04295ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890451559,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":890451559,
+    "wof:lastmodified":1505343640,
+    "wof:name":"Sarykamys",
+    "wof:parent_id":85672915,
+    "wof:placetype":"locality",
+    "wof:population":4038,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.71667,
+    47.78333,
+    78.71667,
+    47.78333
+],
+  "geometry": {"coordinates":[78.71666999999999,47.78333],"type":"Point"}
+}

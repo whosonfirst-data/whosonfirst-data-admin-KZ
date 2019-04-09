@@ -1,0 +1,84 @@
+{
+  "id": 1259756387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4605,50.6715,80.4605,50.6715",
+    "geom:latitude":50.6715,
+    "geom:longitude":80.4605,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Novopokrovka",
+    "gn:country_code":"KZ",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520572,
+    "gn:latitude":50.6715,
+    "gn:longitude":80.4605,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Novopokrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novopokrovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u043e\u043a\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u043e\u043a\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u043e\u043f\u043e\u043a\u0440\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Leninskiy",
+        "Novopokrova",
+        "Novopokrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520572
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4bcb607aafea7468009e8263e399a064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1259756387,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259756387,
+    "wof:lastmodified":1537659666,
+    "wof:name":"Novopokrovka",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4605,
+    50.6715,
+    80.4605,
+    50.6715
+],
+  "geometry": {"coordinates":[80.4605,50.6715],"type":"Point"}
+}

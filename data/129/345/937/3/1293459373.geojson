@@ -1,0 +1,82 @@
+{
+  "id": 1293459373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.59453,53.7077,68.59453,53.7077",
+    "geom:latitude":53.7077,
+    "geom:longitude":68.59453,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Usken",
+    "gn:country_code":"KZ",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532267,
+    "gn:latitude":53.7077,
+    "gn:longitude":68.59453,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Usken",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Usken"
+    ],
+    "name:kaz_x_preferred":[
+        "\u00d6sken"
+    ],
+    "name:kaz_x_variant":[
+        "\u04e8\u0441\u043a\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u043a\u0435\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u0441\u043a\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532267
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dab958e93e7cd5b8793a99073dbee32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1293459373,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293459373,
+    "wof:lastmodified":1537659963,
+    "wof:name":"Usken",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.59453,
+    53.7077,
+    68.59453,
+    53.7077
+],
+  "geometry": {"coordinates":[68.59453000000001,53.7077],"type":"Point"}
+}

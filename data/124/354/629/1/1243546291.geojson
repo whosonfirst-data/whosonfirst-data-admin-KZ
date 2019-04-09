@@ -1,0 +1,77 @@
+{
+  "id": 1243546291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.96127,49.24738,52.96127,49.24738",
+    "geom:latitude":49.24738,
+    "geom:longitude":52.96127,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Besotar",
+    "gn:country_code":"KZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610310,
+    "gn:latitude":49.24738,
+    "gn:longitude":52.96127,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Besotar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Besotar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u043e\u0442\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Beskutyr",
+        "Besotar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610310
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9e8e114f8e096fe7dac68b3e6abd65ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785493,
+            "locality_id":1243546291,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1243546291,
+    "wof:lastmodified":1537659439,
+    "wof:name":"Besotar",
+    "wof:parent_id":1108785493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.96126999999999,
+    49.24738,
+    52.96126999999999,
+    49.24738
+],
+  "geometry": {"coordinates":[52.96126999999999,49.24738],"type":"Point"}
+}

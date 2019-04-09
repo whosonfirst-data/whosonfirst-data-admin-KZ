@@ -1,0 +1,76 @@
+{
+  "id": 1209902647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.88817,53.10792,62.88817,53.10792",
+    "geom:latitude":53.10792,
+    "geom:longitude":62.88817,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ul'yanovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507980,
+    "gn:latitude":53.10792,
+    "gn:longitude":62.88817,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u016al\u2019yanovsk\u012by",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u016al\u2019yanovsk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "Ul\u2019yanovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507980
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"83b93a3a9d502a8839f7939e86b7407a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1209902647,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1209902647,
+    "wof:lastmodified":1537660174,
+    "wof:name":"Ul'yanovskiy",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.88817,
+    53.10791999999999,
+    62.88817,
+    53.10791999999999
+],
+  "geometry": {"coordinates":[62.88817,53.10791999999999],"type":"Point"}
+}

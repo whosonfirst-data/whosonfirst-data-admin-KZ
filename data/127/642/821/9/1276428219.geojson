@@ -1,0 +1,77 @@
+{
+  "id": 1276428219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.38945,49.78623,76.38945,49.78623",
+    "geom:latitude":49.78623,
+    "geom:longitude":76.38945,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Yegindybulak",
+    "gn:country_code":"KZ",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517290,
+    "gn:latitude":49.78623,
+    "gn:longitude":76.38945,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Yegindybulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0415\u0433\u0456\u043d\u0434\u0456\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0433\u0438\u043d\u0434\u044b\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Yegendybulak",
+        "Egindibulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517290
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"126ee66dcc6997d481ef823d6fd07885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1276428219,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1276428219,
+    "wof:lastmodified":1537659511,
+    "wof:name":"Yegindybulak",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.38945,
+    49.78623,
+    76.38945,
+    49.78623
+],
+  "geometry": {"coordinates":[76.38945,49.78623],"type":"Point"}
+}

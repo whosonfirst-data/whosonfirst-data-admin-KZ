@@ -1,0 +1,78 @@
+{
+  "id": 1343941625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.09545,41.94521,68.09545,41.94521",
+    "geom:latitude":41.94521,
+    "geom:longitude":68.09545,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Syutkent",
+    "gn:country_code":"KZ",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518637,
+    "gn:latitude":41.94521,
+    "gn:longitude":68.09545,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Syutkent",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0421\u04af\u0442\u043a\u0435\u043d\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044e\u0442\u043a\u0435\u043d\u0442"
+    ],
+    "name:und_x_variant":[
+        "Kolkhoz Sutkent",
+        "Syutkent",
+        "S\u00fctkent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518637
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e2e4a3ab677402f20da2658e1a98dbee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785365,
+            "locality_id":1343941625,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1343941625,
+    "wof:lastmodified":1537659568,
+    "wof:name":"Syutkent",
+    "wof:parent_id":1108785365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.09545,
+    41.94521,
+    68.09545,
+    41.94521
+],
+  "geometry": {"coordinates":[68.09545,41.94521],"type":"Point"}
+}

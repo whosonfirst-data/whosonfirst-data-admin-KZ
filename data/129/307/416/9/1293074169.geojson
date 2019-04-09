@@ -1,0 +1,70 @@
+{
+  "id": 1293074169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.74069,49.63961,81.74069,49.63961",
+    "geom:latitude":49.63961,
+    "geom:longitude":81.74069,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kolatay",
+    "gn:country_code":"KZ",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512752,
+    "gn:latitude":49.63961,
+    "gn:longitude":81.74069,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kolatay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0430\u0442\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512752
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cc34338239dba165fa1f2a092321c766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1293074169,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293074169,
+    "wof:lastmodified":1537660181,
+    "wof:name":"Kolatay",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.74069,
+    49.63961,
+    81.74069,
+    49.63961
+],
+  "geometry": {"coordinates":[81.74069,49.63961],"type":"Point"}
+}

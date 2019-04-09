@@ -1,0 +1,71 @@
+{
+  "id": 1209487855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.46132,54.49013,69.46132,54.49013",
+    "geom:latitude":54.49013,
+    "geom:longitude":69.46132,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kokterek",
+    "gn:country_code":"KZ",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531045,
+    "gn:latitude":54.49013,
+    "gn:longitude":69.46132,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Kokterek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u0437\u0430\u0440\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Bozgrad",
+        "Bozaral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531045
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fa258fe40e5b372ac2f80c978b63b592",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209487855
+        }
+    ],
+    "wof:id":1209487855,
+    "wof:lastmodified":1537659952,
+    "wof:name":"Kokterek",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.46132,
+    54.49013000000001,
+    69.46132,
+    54.49013000000001
+],
+  "geometry": {"coordinates":[69.46132,54.49013000000001],"type":"Point"}
+}

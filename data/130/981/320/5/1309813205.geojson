@@ -1,0 +1,79 @@
+{
+  "id": 1309813205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.10359,44.03867,77.10359,44.03867",
+    "geom:latitude":44.03867,
+    "geom:longitude":77.10359,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kerbulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055298,
+    "gn:latitude":44.03867,
+    "gn:longitude":77.10359,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Kerbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kerbulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0435\u0440\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kerbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055298
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"386ca290137b7d88cdbca92c9210de7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785431,
+            "locality_id":1309813205,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1309813205,
+    "wof:lastmodified":1537660091,
+    "wof:name":"Kerbulaq",
+    "wof:parent_id":1108785431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.10359,
+    44.03867,
+    77.10359,
+    44.03867
+],
+  "geometry": {"coordinates":[77.10359,44.03867],"type":"Point"}
+}

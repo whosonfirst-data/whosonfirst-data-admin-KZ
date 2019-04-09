@@ -1,0 +1,79 @@
+{
+  "id": 1293275171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.16543,49.33668,85.16543,49.33668",
+    "geom:latitude":49.33668,
+    "geom:longitude":85.16543,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pechi",
+    "gn:country_code":"KZ",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520223,
+    "gn:latitude":49.33668,
+    "gn:longitude":85.16543,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Pechi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pechi"
+    ],
+    "name:kaz_x_preferred":[
+        "Pech\u012b"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u0435\u0447\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520223
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1493e980b22944c11da627cc6019f2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1293275171,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293275171,
+    "wof:lastmodified":1537659644,
+    "wof:name":"Pechi",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.16543,
+    49.33668,
+    85.16543,
+    49.33668
+],
+  "geometry": {"coordinates":[85.16543,49.33668],"type":"Point"}
+}

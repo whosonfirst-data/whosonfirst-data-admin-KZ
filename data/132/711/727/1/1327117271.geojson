@@ -1,0 +1,73 @@
+{
+  "id": 1327117271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.29583,47.10405,81.29583,47.10405",
+    "geom:latitude":47.10405,
+    "geom:longitude":81.29583,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tasaryq",
+    "gn:country_code":"KZ",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518434,
+    "gn:latitude":47.10405,
+    "gn:longitude":81.29583,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Tasaryq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Tasaryq"
+    ],
+    "name:und_x_variant":[
+        "Tasaryk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518434
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ed7b925d240b3f9376967092e25c59f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1327117271,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327117271,
+    "wof:lastmodified":1537659562,
+    "wof:name":"Tasaryq",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.29583000000002,
+    47.10405,
+    81.29583000000002,
+    47.10405
+],
+  "geometry": {"coordinates":[81.29583000000002,47.10405],"type":"Point"}
+}

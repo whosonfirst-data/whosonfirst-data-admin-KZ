@@ -1,0 +1,79 @@
+{
+  "id": 1276196653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.98267,43.89523,66.98267,43.89523",
+    "geom:latitude":43.89523,
+    "geom:longitude":66.98267,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Qandyqudyq",
+    "gn:country_code":"KZ",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10425846,
+    "gn:latitude":43.89523,
+    "gn:longitude":66.98267,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Qandyqudyq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qandyqudyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u043d\u0434\u044b\u049b\u04b1\u0434\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "Molochnotovarnaya Ferma Nomer Pyat\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u043e\u043b\u043e\u0447\u043d\u043e\u0442\u043e\u0432\u0430\u0440\u043d\u0430\u044f \u0424\u0435\u0440\u043c\u0430 \u041d\u043e\u043c\u0435\u0440 \u041f\u044f\u0442\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10425846
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"422b0033a4f342c285c73e111a9ca226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1276196653,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1276196653,
+    "wof:lastmodified":1537660048,
+    "wof:name":"Qandyqudyq",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.98267,
+    43.89523,
+    66.98267,
+    43.89523
+],
+  "geometry": {"coordinates":[66.98267,43.89523],"type":"Point"}
+}

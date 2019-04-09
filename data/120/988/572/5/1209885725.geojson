@@ -1,0 +1,79 @@
+{
+  "id": 1209885725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.98511,54.80775,67.98511,54.80775",
+    "geom:latitude":54.80775,
+    "geom:longitude":67.98511,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Novodubrovnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530381,
+    "gn:latitude":54.80775,
+    "gn:longitude":67.98511,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Novodubrovnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novodubrovnoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Novod\u016bbrovnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0434\u0443\u0431\u0440\u043e\u0432\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0434\u0443\u0431\u0440\u043e\u0432\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530381
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"69c534e4cb08d90e6fbe1774454fb740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785359,
+            "locality_id":1209885725,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1209885725,
+    "wof:lastmodified":1537659937,
+    "wof:name":"Novodubrovnoye",
+    "wof:parent_id":1108785359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.98510999999999,
+    54.80775,
+    67.98510999999999,
+    54.80775
+],
+  "geometry": {"coordinates":[67.98510999999999,54.80775],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293408143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.28333,51.3,79.28333,51.3",
+    "geom:latitude":51.3,
+    "geom:longitude":79.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Karakuduk",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523292,
+    "gn:latitude":51.3,
+    "gn:longitude":79.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Karakuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kositsy",
+        "Karakudun",
+        "Karakuduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523292
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2f66dda1105deeb44fbf6982f8b0648d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785639,
+            "locality_id":1293408143,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293408143,
+    "wof:lastmodified":1537659789,
+    "wof:name":"Karakuduk",
+    "wof:parent_id":1108785639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.28333,
+    51.3,
+    79.28333,
+    51.3
+],
+  "geometry": {"coordinates":[79.28333000000001,51.3],"type":"Point"}
+}

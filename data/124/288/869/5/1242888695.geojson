@@ -1,0 +1,67 @@
+{
+  "id": 1242888695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.23094,50.50181,81.23094,50.50181",
+    "geom:latitude":50.50181,
+    "geom:longitude":81.23094,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Polovinnyy Log",
+    "gn:country_code":"KZ",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520088,
+    "gn:latitude":50.50181,
+    "gn:longitude":81.23094,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Polovinnyy Log",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520088
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"09548b74016fc0268370ad58485fb437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1242888695,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1242888695,
+    "wof:lastmodified":1536613064,
+    "wof:name":"Polovinnyy Log",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.23094,
+    50.50181,
+    81.23094,
+    50.50181
+],
+  "geometry": {"coordinates":[81.23094,50.50181],"type":"Point"}
+}

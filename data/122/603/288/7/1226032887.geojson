@@ -1,0 +1,70 @@
+{
+  "id": 1226032887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.37219,51.8921,78.37219,51.8921",
+    "geom:latitude":51.8921,
+    "geom:longitude":78.37219,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shandy",
+    "gn:country_code":"KZ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1519284,
+    "gn:latitude":51.8921,
+    "gn:longitude":78.37219,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Shandy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043d\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519284
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"87e5992f4fdca1b00d9479f25b9846f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1226032887,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1226032887,
+    "wof:lastmodified":1537659599,
+    "wof:name":"Shandy",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.37219,
+    51.8921,
+    78.37219,
+    51.8921
+],
+  "geometry": {"coordinates":[78.37219,51.8921],"type":"Point"}
+}

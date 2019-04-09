@@ -1,0 +1,70 @@
+{
+  "id": 1226753791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.8,47.45,60.8,47.45",
+    "geom:latitude":47.45,
+    "geom:longitude":60.8,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Karashokat",
+    "gn:country_code":"KZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523192,
+    "gn:latitude":47.45,
+    "gn:longitude":60.8,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Karashokat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Karashokat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523192
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3039735fa3de8616439fb75ec7c5a1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785541,
+            "locality_id":1226753791,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1226753791,
+    "wof:lastmodified":1537659786,
+    "wof:name":"Karashokat",
+    "wof:parent_id":1108785541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.8,
+    47.45,
+    60.8,
+    47.45
+],
+  "geometry": {"coordinates":[60.8,47.45],"type":"Point"}
+}

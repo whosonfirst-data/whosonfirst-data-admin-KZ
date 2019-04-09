@@ -1,0 +1,67 @@
+{
+  "id": 1326948653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.96667,49.48333,46.96667,49.48333",
+    "geom:latitude":49.48333,
+    "geom:longitude":46.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Shmakhov",
+    "gn:country_code":"KZ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608295,
+    "gn:latitude":49.48333,
+    "gn:longitude":46.96667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Shmakhov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608295
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"57c0510114ab7136ba5246671c648138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785327,
+            "locality_id":1326948653,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1326948653,
+    "wof:lastmodified":1536880447,
+    "wof:name":"Shmakhov",
+    "wof:parent_id":1108785327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.96667,
+    49.48333,
+    46.96667,
+    49.48333
+],
+  "geometry": {"coordinates":[46.96667,49.48333],"type":"Point"}
+}

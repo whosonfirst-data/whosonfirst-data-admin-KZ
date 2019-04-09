@@ -1,0 +1,76 @@
+{
+  "id": 1260150937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.13596,50.4376,80.13596,50.4376",
+    "geom:latitude":50.4376,
+    "geom:longitude":80.13596,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Murat",
+    "gn:country_code":"KZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1483569,
+    "gn:latitude":50.4376,
+    "gn:longitude":80.13596,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Murat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Murat"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u04b1\u0440\u0430\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1483569
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"927cb09a1d9da235ced6f8f4d083c4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1260150937,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1260150937,
+    "wof:lastmodified":1537659462,
+    "wof:name":"Murat",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.13596,
+    50.4376,
+    80.13596,
+    50.4376
+],
+  "geometry": {"coordinates":[80.13596,50.4376],"type":"Point"}
+}

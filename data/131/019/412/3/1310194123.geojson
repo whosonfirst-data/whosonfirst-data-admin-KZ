@@ -1,0 +1,67 @@
+{
+  "id": 1310194123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.01667,43.26667,69.01667,43.26667",
+    "geom:latitude":43.26667,
+    "geom:longitude":69.01667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bugun'skiy",
+    "gn:country_code":"KZ",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525043,
+    "gn:latitude":43.26667,
+    "gn:longitude":69.01667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Bugun\u2019skiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525043
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9c1afc6d9e569855300ecea6e23beb10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785583,
+            "locality_id":1310194123,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1310194123,
+    "wof:lastmodified":1536867473,
+    "wof:name":"Bugun'skiy",
+    "wof:parent_id":1108785583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.01666999999999,
+    43.26667,
+    69.01666999999999,
+    43.26667
+],
+  "geometry": {"coordinates":[69.01666999999999,43.26667],"type":"Point"}
+}

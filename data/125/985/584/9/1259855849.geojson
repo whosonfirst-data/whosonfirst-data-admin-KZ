@@ -1,0 +1,80 @@
+{
+  "id": 1259855849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.93233,51.63065,60.93233,51.63065",
+    "geom:latitude":51.63065,
+    "geom:longitude":60.93233,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Volgogradskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517418,
+    "gn:latitude":51.63065,
+    "gn:longitude":60.93233,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Volgogradskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Volgogradskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "Volgogradsk\u012by"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Stalingradskiy",
+        "Volgogradskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517418
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fb5c2bdcd6826deb9a7a297cb67fcc9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785525,
+            "locality_id":1259855849,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1259855849,
+    "wof:lastmodified":1537659520,
+    "wof:name":"Volgogradskiy",
+    "wof:parent_id":1108785525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.93233000000001,
+    51.63065,
+    60.93233000000001,
+    51.63065
+],
+  "geometry": {"coordinates":[60.93233000000001,51.63065],"type":"Point"}
+}

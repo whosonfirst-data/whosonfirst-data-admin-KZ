@@ -1,0 +1,76 @@
+{
+  "id": 1326911597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.56071,52.61197,76.56071,52.61197",
+    "geom:latitude":52.61197,
+    "geom:longitude":76.56071,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zhanasharua",
+    "gn:country_code":"KZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10806724,
+    "gn:latitude":52.61197,
+    "gn:longitude":76.56071,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Zhanasharua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhangashar\u016ba"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430\u0448\u0430\u0440\u0443\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0448\u0430\u0440\u0443\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10806724
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a5270ae15ba14411f86d9df4bf6220d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785551,
+            "locality_id":1326911597,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1326911597,
+    "wof:lastmodified":1537660061,
+    "wof:name":"Zhanasharua",
+    "wof:parent_id":1108785551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.56071,
+    52.61196999999999,
+    76.56071,
+    52.61196999999999
+],
+  "geometry": {"coordinates":[76.56071,52.61196999999999],"type":"Point"}
+}

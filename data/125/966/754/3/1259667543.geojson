@@ -1,0 +1,81 @@
+{
+  "id": 1259667543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.34712,41.59948,69.34712,41.59948",
+    "geom:latitude":41.59948,
+    "geom:longitude":69.34712,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Stepnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526842,
+    "gn:latitude":41.59948,
+    "gn:longitude":69.34712,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Stepnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqzhar"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0436\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ak-Dzhar",
+        "Ak-Jar",
+        "Akzhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526842
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2e84b0e2a6f51f5968fbc740e0a3a370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1259667543,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1259667543,
+    "wof:lastmodified":1537659927,
+    "wof:name":"Stepnoye",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.34711999999999,
+    41.59948,
+    69.34711999999999,
+    41.59948
+],
+  "geometry": {"coordinates":[69.34711999999999,41.59948],"type":"Point"}
+}

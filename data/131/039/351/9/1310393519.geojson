@@ -1,0 +1,86 @@
+{
+  "id": 1310393519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.02877,53.73143,75.02877,53.73143",
+    "geom:latitude":53.73143,
+    "geom:longitude":75.02877,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Urlyutyub",
+    "gn:country_code":"KZ",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517708,
+    "gn:latitude":53.73143,
+    "gn:longitude":75.02877,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Urlyutyub",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u016arlyutyub"
+    ],
+    "name:kaz_x_preferred":[
+        "\u00dcyirlit\u00fcp"
+    ],
+    "name:kaz_x_variant":[
+        "\u04ae\u0439\u0456\u0440\u043b\u0456\u0442\u04af\u043f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u043b\u044e\u0442\u044e\u0431"
+    ],
+    "name:und_x_variant":[
+        "Urlyutyuk",
+        "Urlyutyupskiy",
+        "Urlyutyup",
+        "\u016arlyutyub",
+        "Urlyutyub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517708
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cbbead5a96ece380ed7858ee47f2c8f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1310393519,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310393519,
+    "wof:lastmodified":1537659536,
+    "wof:name":"Urlyutyub",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.02877,
+    53.73143,
+    75.02877,
+    53.73143
+],
+  "geometry": {"coordinates":[75.02876999999999,53.73143],"type":"Point"}
+}

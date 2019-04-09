@@ -1,0 +1,83 @@
+{
+  "id": 1209733639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.42288,52.87239,69.42288,52.87239",
+    "geom:latitude":52.87239,
+    "geom:longitude":69.42288,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ortaagash",
+    "gn:country_code":"KZ",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520350,
+    "gn:latitude":52.87239,
+    "gn:longitude":69.42288,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ortaagash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ortaagash"
+    ],
+    "name:kaz_x_preferred":[
+        "Ortaaghash"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u0440\u0442\u0430\u0430\u0493\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0442\u0430\u0430\u0433\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Ortakagash",
+        "Ortaagash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520350
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6c062384e0fd2330c805f6a3bde04b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1209733639,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1209733639,
+    "wof:lastmodified":1537659651,
+    "wof:name":"Ortaagash",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.42288,
+    52.87239,
+    69.42288,
+    52.87239
+],
+  "geometry": {"coordinates":[69.42288000000001,52.87239],"type":"Point"}
+}

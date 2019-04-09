@@ -1,0 +1,84 @@
+{
+  "id": 1276430097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.16862,40.75774,68.16862,40.75774",
+    "geom:latitude":40.75774,
+    "geom:longitude":68.16862,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qaraoy",
+    "gn:country_code":"KZ",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513935,
+    "gn:latitude":40.75774,
+    "gn:longitude":68.16862,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Qaraoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaraoy"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u043e\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u043c\u0443\u043d\u0438\u0437\u043c"
+    ],
+    "name:und_x_variant":[
+        "Imeni Lenina",
+        "Kommunism",
+        "Kommunizm"
+    ],
+    "name:uzb_x_preferred":[
+        "Baykonis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513935
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"09b09d427398ca90db33b8678b5ed9f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1276430097,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276430097,
+    "wof:lastmodified":1537659468,
+    "wof:name":"Qaraoy",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.16861999999999,
+    40.75774000000001,
+    68.16861999999999,
+    40.75774000000001
+],
+  "geometry": {"coordinates":[68.16861999999999,40.75774000000001],"type":"Point"}
+}

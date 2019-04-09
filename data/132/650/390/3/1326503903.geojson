@@ -1,0 +1,70 @@
+{
+  "id": 1326503903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.40662,42.8369,71.40662,42.8369",
+    "geom:latitude":42.8369,
+    "geom:longitude":71.40662,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sedovka",
+    "gn:country_code":"KZ",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11118917,
+    "gn:latitude":42.8369,
+    "gn:longitude":71.40662,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Sedovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11118917
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6853a60036e878b025f568fe12c95448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785603,
+            "locality_id":1326503903,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1326503903,
+    "wof:lastmodified":1537660104,
+    "wof:name":"Sedovka",
+    "wof:parent_id":1108785603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.40661999999998,
+    42.8369,
+    71.40661999999998,
+    42.8369
+],
+  "geometry": {"coordinates":[71.40661999999998,42.8369],"type":"Point"}
+}

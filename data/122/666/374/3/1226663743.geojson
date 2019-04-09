@@ -1,0 +1,73 @@
+{
+  "id": 1226663743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.08065,42.8749,79.08065,42.8749",
+    "geom:latitude":42.8749,
+    "geom:longitude":79.08065,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhamanbulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":2059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507897,
+    "gn:latitude":42.8749,
+    "gn:longitude":79.08065,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Zhamanbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhamanbulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u043c\u0430\u043d\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507897
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5a0b73dd4b9816b12f584ceb0111f677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1226663743,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1226663743,
+    "wof:lastmodified":1537660174,
+    "wof:name":"Zhamanbulaq",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.08065,
+    42.8749,
+    79.08065,
+    42.8749
+],
+  "geometry": {"coordinates":[79.08065000000001,42.8749],"type":"Point"}
+}

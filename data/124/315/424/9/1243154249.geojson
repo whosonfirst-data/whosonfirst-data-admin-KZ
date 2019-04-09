@@ -1,0 +1,76 @@
+{
+  "id": 1243154249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.01326,54.44418,67.01326,54.44418",
+    "geom:latitude":54.44418,
+    "geom:longitude":67.01326,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bogdanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525247,
+    "gn:latitude":54.44418,
+    "gn:longitude":67.01326,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Bogdanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bogdanovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525247
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cb5112bc86db9fe2849f2867afe650ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1243154249,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243154249,
+    "wof:lastmodified":1537659867,
+    "wof:name":"Bogdanovka",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.01326,
+    54.44418,
+    67.01326,
+    54.44418
+],
+  "geometry": {"coordinates":[67.01326,54.44418],"type":"Point"}
+}

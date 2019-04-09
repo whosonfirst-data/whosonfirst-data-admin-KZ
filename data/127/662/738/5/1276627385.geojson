@@ -1,0 +1,73 @@
+{
+  "id": 1276627385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.01475,53.82105,72.01475,53.82105",
+    "geom:latitude":53.82105,
+    "geom:longitude":72.01475,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Boztal",
+    "gn:country_code":"KZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532680,
+    "gn:latitude":53.82105,
+    "gn:longitude":72.01475,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Boztal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Boztal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0437\u0442\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532680
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"320b4cf64f1dec738da0b41f9c71ba8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1276627385,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276627385,
+    "wof:lastmodified":1537659971,
+    "wof:name":"Boztal",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.01475,
+    53.82105,
+    72.01475,
+    53.82105
+],
+  "geometry": {"coordinates":[72.01475000000001,53.82105],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1326813227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.7072,49.55638,81.7072,49.55638",
+    "geom:latitude":49.55638,
+    "geom:longitude":81.7072,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Birlikshil",
+    "gn:country_code":"KZ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525311,
+    "gn:latitude":49.55638,
+    "gn:longitude":81.7072,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Birlikshil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Birlikshil'"
+    ],
+    "name:kaz_x_preferred":[
+        "Birlikshil"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0456\u0440\u043b\u0456\u043a\u0448\u0456\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0440\u043b\u0438\u043a\u0448\u0438\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Birlikshil\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525311
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1dfd70852cfc87fdc8cde907f4e42170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1326813227,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1326813227,
+    "wof:lastmodified":1537659870,
+    "wof:name":"Birlikshil",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.7072,
+    49.55638,
+    81.7072,
+    49.55638
+],
+  "geometry": {"coordinates":[81.7072,49.55638],"type":"Point"}
+}

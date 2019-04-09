@@ -1,0 +1,76 @@
+{
+  "id": 1226418927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.9134,52.04229,60.9134,52.04229",
+    "geom:latitude":52.04229,
+    "geom:longitude":60.9134,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koylybay",
+    "gn:country_code":"KZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11422642,
+    "gn:latitude":52.04229,
+    "gn:longitude":60.9134,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Koylybay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0439\u043b\u044b\u0431\u0430\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u043b\u0438\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kulibay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11422642
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b16e61d1b0d67706f926b1330db2fc86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785525,
+            "locality_id":1226418927,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226418927,
+    "wof:lastmodified":1537660150,
+    "wof:name":"Koylybay",
+    "wof:parent_id":1108785525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.9134,
+    52.04229,
+    60.9134,
+    52.04229
+],
+  "geometry": {"coordinates":[60.9134,52.04229],"type":"Point"}
+}

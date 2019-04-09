@@ -1,0 +1,61 @@
+{
+  "id": 1209116165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.31667,51.65,78.31667,51.65",
+    "geom:latitude":51.65,
+    "geom:longitude":78.31667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chebach-Bay",
+    "gn:country_code":"KZ",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524867,
+    "gn:latitude":51.65,
+    "gn:longitude":78.31667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Chebach-Bay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524867
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c9aa229b2a33ae1d8e9b8dbee7edf999",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209116165
+        }
+    ],
+    "wof:id":1209116165,
+    "wof:lastmodified":1536297247,
+    "wof:name":"Chebach-Bay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.31667,
+    51.65,
+    78.31667,
+    51.65
+],
+  "geometry": {"coordinates":[78.31667,51.65],"type":"Point"}
+}

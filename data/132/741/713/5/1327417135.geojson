@@ -1,0 +1,70 @@
+{
+  "id": 1327417135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.67269,43.81194,67.67269,43.81194",
+    "geom:latitude":43.81194,
+    "geom:longitude":67.67269,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kaynarbulak",
+    "gn:country_code":"KZ",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522896,
+    "gn:latitude":43.81194,
+    "gn:longitude":67.67269,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kaynarbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u043d\u0430\u0440\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522896
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d6b851045620b6099c1cef0830004923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1327417135,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1327417135,
+    "wof:lastmodified":1537659777,
+    "wof:name":"Kaynarbulak",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.67269,
+    43.81194,
+    67.67269,
+    43.81194
+],
+  "geometry": {"coordinates":[67.67269,43.81194],"type":"Point"}
+}

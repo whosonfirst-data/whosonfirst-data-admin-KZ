@@ -1,0 +1,76 @@
+{
+  "id": 1260299623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.26941,43.94741,77.26941,43.94741",
+    "geom:latitude":43.94741,
+    "geom:longitude":77.26941,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kulan-Tobe",
+    "gn:country_code":"KZ",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10310595,
+    "gn:latitude":43.94741,
+    "gn:longitude":77.26941,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Kulan-Tobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qulant\u00f6be"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u04b1\u043b\u0430\u043d\u0442\u04e9\u0431\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0430\u043d-\u0422\u043e\u0431\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10310595
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a96397a8ff0a0d8bbdf1ef35f488e274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785431,
+            "locality_id":1260299623,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1260299623,
+    "wof:lastmodified":1537660045,
+    "wof:name":"Kulan-Tobe",
+    "wof:parent_id":1108785431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.26941,
+    43.94741,
+    77.26941,
+    43.94741
+],
+  "geometry": {"coordinates":[77.26940999999999,43.94741],"type":"Point"}
+}

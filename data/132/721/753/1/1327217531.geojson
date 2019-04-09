@@ -1,0 +1,70 @@
+{
+  "id": 1327217531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.63501,41.72532,69.63501,41.72532",
+    "geom:latitude":41.72532,
+    "geom:longitude":69.63501,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Undurus",
+    "gn:country_code":"KZ",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955636,
+    "gn:latitude":41.72532,
+    "gn:longitude":69.63501,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Undurus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u0434\u0443\u0440\u0443\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955636
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"93d8535e077521cf8dfddac413926cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1327217531,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1327217531,
+    "wof:lastmodified":1537660076,
+    "wof:name":"Undurus",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.63501,
+    41.72532,
+    69.63501,
+    41.72532
+],
+  "geometry": {"coordinates":[69.63500999999999,41.72532],"type":"Point"}
+}

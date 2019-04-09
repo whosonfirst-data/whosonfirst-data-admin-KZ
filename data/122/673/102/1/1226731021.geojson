@@ -1,0 +1,73 @@
+{
+  "id": 1226731021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.61725,51.28076,77.61725,51.28076",
+    "geom:latitude":51.28076,
+    "geom:longitude":77.61725,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Polevoy Stan Korlybay",
+    "gn:country_code":"KZ",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522257,
+    "gn:latitude":51.28076,
+    "gn:longitude":77.61725,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Polevoy Stan Korlybay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0435\u0432\u043e\u0439 \u0421\u0442\u0430\u043d \u041a\u043e\u0440\u043b\u044b\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Korlybay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522257
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fceef75467cc131a33a5888b20a40b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1226731021,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1226731021,
+    "wof:lastmodified":1537659751,
+    "wof:name":"Polevoy Stan Korlybay",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.61725,
+    51.28076,
+    77.61725,
+    51.28076
+],
+  "geometry": {"coordinates":[77.61725,51.28076],"type":"Point"}
+}

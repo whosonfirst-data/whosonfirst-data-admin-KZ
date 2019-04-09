@@ -1,0 +1,83 @@
+{
+  "id": 1327010051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.61982,48.55309,70.61982,48.55309",
+    "geom:latitude":48.55309,
+    "geom:longitude":70.61982,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Myngadyr",
+    "gn:country_code":"KZ",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537170,
+    "gn:latitude":48.55309,
+    "gn:longitude":70.61982,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Myngadyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Myngadyr"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u044b\u04a3\u0430\u0434\u044b\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "Manadyr\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u043d\u0430\u0434\u044b\u0440\u044c"
+    ],
+    "name:und_x_variant":[
+        "Monadyr\u2019",
+        "Mangadyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537170
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"38295e720d4362a713d77e650f51187a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785597,
+            "locality_id":1327010051,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1327010051,
+    "wof:lastmodified":1537660011,
+    "wof:name":"Myngadyr",
+    "wof:parent_id":1108785597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.61981999999998,
+    48.55309000000001,
+    70.61981999999998,
+    48.55309000000001
+],
+  "geometry": {"coordinates":[70.61981999999998,48.55309000000001],"type":"Point"}
+}

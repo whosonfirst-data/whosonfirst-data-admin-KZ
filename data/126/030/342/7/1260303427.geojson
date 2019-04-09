@@ -1,0 +1,70 @@
+{
+  "id": 1260303427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.715,43.76351,75.715,43.76351",
+    "geom:latitude":43.76351,
+    "geom:longitude":75.715,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Koskuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11026660,
+    "gn:latitude":43.76351,
+    "gn:longitude":75.715,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Koskuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11026660
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f5d58b55aed4bf95d6edce5a3004b8ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1260303427,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1260303427,
+    "wof:lastmodified":1537660090,
+    "wof:name":"Koskuduk",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.715,
+    43.76351,
+    75.715,
+    43.76351
+],
+  "geometry": {"coordinates":[75.715,43.76351],"type":"Point"}
+}

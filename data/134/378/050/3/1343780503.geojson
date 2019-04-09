@@ -1,0 +1,67 @@
+{
+  "id": 1343780503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65,51.9,71.65,51.9",
+    "geom:latitude":51.9,
+    "geom:longitude":71.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kalininskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523619,
+    "gn:latitude":51.9,
+    "gn:longitude":71.65,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kalininskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523619
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1a0aaf3e285af95f47249a04a4082b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1343780503,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343780503,
+    "wof:lastmodified":1536782562,
+    "wof:name":"Kalininskiy",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65,
+    51.9,
+    71.65,
+    51.9
+],
+  "geometry": {"coordinates":[71.65000000000001,51.9],"type":"Point"}
+}

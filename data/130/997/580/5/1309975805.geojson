@@ -1,0 +1,73 @@
+{
+  "id": 1309975805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.16154,52.54603,67.16154,52.54603",
+    "geom:latitude":52.54603,
+    "geom:longitude":67.16154,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Prirechenskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11134810,
+    "gn:latitude":52.54603,
+    "gn:longitude":67.16154,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Pr\u012brechensk\u012by",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Pr\u012brechensk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u0440\u0438\u0440\u0435\u0447\u0435\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11134810
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3a3bea7615173433e004198127228283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1309975805,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1309975805,
+    "wof:lastmodified":1537660116,
+    "wof:name":"Prirechenskiy",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.16154,
+    52.54603,
+    67.16154,
+    52.54603
+],
+  "geometry": {"coordinates":[67.16154,52.54603],"type":"Point"}
+}

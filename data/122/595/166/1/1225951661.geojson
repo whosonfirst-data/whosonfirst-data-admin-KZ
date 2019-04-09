@@ -1,0 +1,80 @@
+{
+  "id": 1225951661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.64266,52.39911,70.64266,52.39911",
+    "geom:latitude":52.39911,
+    "geom:longitude":70.64266,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Danilovka",
+    "gn:country_code":"KZ",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524654,
+    "gn:latitude":52.39911,
+    "gn:longitude":70.64266,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Danilovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dan\u012blovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dan\u012blovka",
+        "Danilovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524654
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8a5fedabc3728dc970f4c12f010ab5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785389,
+            "locality_id":1225951661,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1225951661,
+    "wof:lastmodified":1537659845,
+    "wof:name":"Danilovka",
+    "wof:parent_id":1108785389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.64265999999998,
+    52.39911,
+    70.64265999999998,
+    52.39911
+],
+  "geometry": {"coordinates":[70.64265999999998,52.39911],"type":"Point"}
+}

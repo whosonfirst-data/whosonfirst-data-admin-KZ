@@ -1,0 +1,70 @@
+{
+  "id": 1243548197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.16443,43.82005,68.16443,43.82005",
+    "geom:latitude":43.82005,
+    "geom:longitude":68.16443,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ushozen",
+    "gn:country_code":"KZ",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055431,
+    "gn:latitude":43.82005,
+    "gn:longitude":68.16443,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Ushozen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0448\u043e\u0437\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055431
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fba13b380a068063e4e0a864c69e44ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1243548197,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243548197,
+    "wof:lastmodified":1537660094,
+    "wof:name":"Ushozen",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.16443000000001,
+    43.82005,
+    68.16443000000001,
+    43.82005
+],
+  "geometry": {"coordinates":[68.16443000000001,43.82005],"type":"Point"}
+}

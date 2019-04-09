@@ -1,0 +1,82 @@
+{
+  "id": 1343460669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.84007,52.60715,68.84007,52.60715",
+    "geom:latitude":52.60715,
+    "geom:longitude":68.84007,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sandyktau",
+    "gn:country_code":"KZ",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519741,
+    "gn:latitude":52.60715,
+    "gn:longitude":68.84007,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Sandyktau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sandyqta\u016b"
+    ],
+    "name:kaz_x_preferred":[
+        "Sandyqta\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0430\u043d\u0434\u044b\u049b\u0442\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0434\u044b\u043a\u0442\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Sandyktav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519741
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c707e77010ef9c26c6918c0280d1ed80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785397,
+            "locality_id":1343460669,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343460669,
+    "wof:lastmodified":1537659614,
+    "wof:name":"Sandyktau",
+    "wof:parent_id":1108785397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.84007,
+    52.60715,
+    68.84007,
+    52.60715
+],
+  "geometry": {"coordinates":[68.84007,52.60715],"type":"Point"}
+}

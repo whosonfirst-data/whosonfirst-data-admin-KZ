@@ -1,0 +1,76 @@
+{
+  "id": 1243257857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.52841,42.09052,69.52841,42.09052",
+    "geom:latitude":42.09052,
+    "geom:longitude":69.52841,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pobeda",
+    "gn:country_code":"KZ",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11120456,
+    "gn:latitude":42.09052,
+    "gn:longitude":69.52841,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Pobeda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0431\u0435\u0434\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0430\u0441\u044b\u043a\u0431\u0430\u0441\u044b"
+    ],
+    "name:und_x_variant":[
+        "Sasykbasy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11120456
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ab0de039acef658113e69f45499db18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785369,
+            "locality_id":1243257857,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243257857,
+    "wof:lastmodified":1537660114,
+    "wof:name":"Pobeda",
+    "wof:parent_id":1108785369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.52841,
+    42.09052,
+    69.52841,
+    42.09052
+],
+  "geometry": {"coordinates":[69.52840999999999,42.09052],"type":"Point"}
+}

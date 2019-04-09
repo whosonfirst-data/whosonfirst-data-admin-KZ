@@ -1,0 +1,73 @@
+{
+  "id": 1327148815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.46167,45.63917,77.46167,45.63917",
+    "geom:latitude":45.63917,
+    "geom:longitude":77.46167,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Maylybay",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537974,
+    "gn:latitude":45.63917,
+    "gn:longitude":77.46167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maylybay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maylybay Pervyy",
+        "Maylybay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537974,
+        "wk:page":"Maylybay"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"643429234b6d5da77128876d0692908d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785415,
+            "locality_id":1327148815,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1327148815,
+    "wof:lastmodified":1537660020,
+    "wof:name":"Maylybay",
+    "wof:parent_id":1108785415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.46167,
+    45.63917,
+    77.46167,
+    45.63917
+],
+  "geometry": {"coordinates":[77.46167,45.63917],"type":"Point"}
+}

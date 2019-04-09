@@ -1,0 +1,64 @@
+{
+  "id": 1209494147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.37581,42.95186,71.37581,42.95186",
+    "geom:latitude":42.95186,
+    "geom:longitude":71.37581,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chaykuruk",
+    "gn:country_code":"KZ",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11119011,
+    "gn:latitude":42.95186,
+    "gn:longitude":71.37581,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Chaykuruk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0439\u043a\u0443\u0440\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11119011
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"02a2ed9f74a6660a705ae4c5bf0dbade",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209494147
+        }
+    ],
+    "wof:id":1209494147,
+    "wof:lastmodified":1537660105,
+    "wof:name":"Chaykuruk",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.37581,
+    42.95186,
+    71.37581,
+    42.95186
+],
+  "geometry": {"coordinates":[71.37581,42.95186],"type":"Point"}
+}

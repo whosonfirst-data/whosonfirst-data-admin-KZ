@@ -1,0 +1,72 @@
+{
+  "id": 1193154933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1,47.16667,81.1,47.16667",
+    "geom:latitude":47.16667,
+    "geom:longitude":81.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Urdzhar",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517720,
+    "gn:latitude":47.16667,
+    "gn:longitude":81.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Urdzhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urdzharskiy",
+        "Urdzhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517720
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"890bbedd3a49af5f071da18d41a3e89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1193154933,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1193154933,
+    "wof:lastmodified":1537659536,
+    "wof:name":"Urdzhar",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1,
+    47.16667,
+    81.1,
+    47.16667
+],
+  "geometry": {"coordinates":[81.09999999999999,47.16667],"type":"Point"}
+}

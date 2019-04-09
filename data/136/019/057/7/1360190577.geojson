@@ -1,0 +1,76 @@
+{
+  "id": 1360190577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.86192,48.70234,57.86192,48.70234",
+    "geom:latitude":48.70234,
+    "geom:longitude":57.86192,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kumzhargan",
+    "gn:country_code":"KZ",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609101,
+    "gn:latitude":48.70234,
+    "gn:longitude":57.86192,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kumzhargan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kumzhargan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c\u0436\u0430\u0440\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Qumzhargan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609101
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2e3d9cd10a9d1bd353e378de9de81ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785725,
+            "locality_id":1360190577,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1360190577,
+    "wof:lastmodified":1537659399,
+    "wof:name":"Kumzhargan",
+    "wof:parent_id":1108785725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.86192,
+    48.70234,
+    57.86192,
+    48.70234
+],
+  "geometry": {"coordinates":[57.86192,48.70234],"type":"Point"}
+}

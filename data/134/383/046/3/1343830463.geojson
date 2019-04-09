@@ -1,0 +1,76 @@
+{
+  "id": 1343830463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.30192,54.06667,70.30192,54.06667",
+    "geom:latitude":54.06667,
+    "geom:longitude":70.30192,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yuzhnyy",
+    "gn:country_code":"KZ",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531163,
+    "gn:latitude":54.06667,
+    "gn:longitude":70.30192,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Yuzhnyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Tr\u00fcdovoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0440\u04af\u0434\u043e\u0432\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0436\u043d\u044b\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531163
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"da1d379a0b4b008aef669777471ca571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1343830463,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343830463,
+    "wof:lastmodified":1537659955,
+    "wof:name":"Yuzhnyy",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.30192,
+    54.06667,
+    70.30192,
+    54.06667
+],
+  "geometry": {"coordinates":[70.30192,54.06667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310501843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.28333,47.65,60.28333,47.65",
+    "geom:latitude":47.65,
+    "geom:longitude":60.28333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhilan",
+    "gn:country_code":"KZ",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516573,
+    "gn:latitude":47.65,
+    "gn:longitude":60.28333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Zhilan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516573
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"31d25ef638db5a4a2d454ba407a29047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785541,
+            "locality_id":1310501843,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1310501843,
+    "wof:lastmodified":1536922889,
+    "wof:name":"Zhilan",
+    "wof:parent_id":1108785541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.28333000000001,
+    47.65,
+    60.28333000000001,
+    47.65
+],
+  "geometry": {"coordinates":[60.28333000000001,47.65],"type":"Point"}
+}

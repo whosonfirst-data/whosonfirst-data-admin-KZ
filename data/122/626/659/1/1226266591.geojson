@@ -1,0 +1,76 @@
+{
+  "id": 1226266591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.76775,48.21797,59.76775,48.21797",
+    "geom:latitude":48.21797,
+    "geom:longitude":59.76775,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Taldykum",
+    "gn:country_code":"KZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863523,
+    "gn:latitude":48.21797,
+    "gn:longitude":59.76775,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Taldykum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Taldyqum"
+    ],
+    "name:kaz_x_preferred":[
+        "Taldyqum"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0434\u044b\u043a\u0443\u043c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863523
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c77ae1cc559603db4c0c037c90dc9759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785541,
+            "locality_id":1226266591,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1226266591,
+    "wof:lastmodified":1537659460,
+    "wof:name":"Taldykum",
+    "wof:parent_id":1108785541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.76775,
+    48.21797,
+    59.76775,
+    48.21797
+],
+  "geometry": {"coordinates":[59.76775,48.21797],"type":"Point"}
+}

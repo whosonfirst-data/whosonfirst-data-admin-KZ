@@ -1,0 +1,73 @@
+{
+  "id": 1243244777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.86092,52.73279,77.86092,52.73279",
+    "geom:latitude":52.73279,
+    "geom:longitude":77.86092,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bogodukhovka",
+    "gn:country_code":"KZ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11027550,
+    "gn:latitude":52.73279,
+    "gn:longitude":77.86092,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Bogodukhovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Bogod\u016bkhovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u043e\u0433\u043e\u0434\u0443\u0445\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027550
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f845d65b26a07111eb56683bc1d0438b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1243244777,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1243244777,
+    "wof:lastmodified":1537660091,
+    "wof:name":"Bogodukhovka",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.86092,
+    52.73279,
+    77.86092,
+    52.73279
+],
+  "geometry": {"coordinates":[77.86091999999999,52.73279],"type":"Point"}
+}

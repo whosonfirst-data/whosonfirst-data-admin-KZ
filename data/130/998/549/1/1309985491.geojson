@@ -1,0 +1,73 @@
+{
+  "id": 1309985491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.3545,52.76222,61.3545,52.76222",
+    "geom:latitude":52.76222,
+    "geom:longitude":61.3545,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Konstantinovka",
+    "gn:country_code":"KZ",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522310,
+    "gn:latitude":52.76222,
+    "gn:longitude":61.3545,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Konstantinovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Konstantinovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522310
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"11cda76b23e7ec1d0945b9c04b6ebf29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785661,
+            "locality_id":1309985491,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1309985491,
+    "wof:lastmodified":1537659752,
+    "wof:name":"Konstantinovka",
+    "wof:parent_id":1108785661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.3545,
+    52.76221999999999,
+    61.3545,
+    52.76221999999999
+],
+  "geometry": {"coordinates":[61.3545,52.76221999999999],"type":"Point"}
+}

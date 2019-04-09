@@ -1,0 +1,82 @@
+{
+  "id": 1276409641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.30813,53.67794,71.30813,53.67794",
+    "geom:latitude":53.67794,
+    "geom:longitude":71.30813,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sovkhoznoye",
+    "gn:country_code":"KZ",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521376,
+    "gn:latitude":53.67794,
+    "gn:longitude":71.30813,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Sovkhoznoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sovkhoznoe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043e\u0432\u0445\u043e\u0437\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0432\u0445\u043e\u0437\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Leningradskiy",
+        "Sovkhoznoye",
+        "Leningradskiy",
+        "Sovkhoznoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521376
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0f687b92b6b14bc6d74790e0a2712aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1276409641,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276409641,
+    "wof:lastmodified":1537659712,
+    "wof:name":"Sovkhoznoye",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.30813,
+    53.67794,
+    71.30813,
+    53.67794
+],
+  "geometry": {"coordinates":[71.30813000000001,53.67794],"type":"Point"}
+}

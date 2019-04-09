@@ -1,0 +1,71 @@
+{
+  "id": 1309704791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.3,46.85,50.3,46.85",
+    "geom:latitude":46.85,
+    "geom:longitude":50.3,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhanakamys",
+    "gn:country_code":"KZ",
+    "gn:dem":-27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607640,
+    "gn:latitude":46.85,
+    "gn:longitude":50.3,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Zhanakamys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kara-Kormys",
+        "Zhanakamys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607640
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"05798641be9a44e59ac6ef359784b317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785449,
+            "locality_id":1309704791,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1309704791,
+    "wof:lastmodified":1537659344,
+    "wof:name":"Zhanakamys",
+    "wof:parent_id":1108785449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.3,
+    46.85,
+    50.3,
+    46.85
+],
+  "geometry": {"coordinates":[50.3,46.85],"type":"Point"}
+}

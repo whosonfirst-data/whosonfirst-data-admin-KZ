@@ -1,0 +1,61 @@
+{
+  "id": 1209621387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.76667,47.8,59.76667,47.8",
+    "geom:latitude":47.8,
+    "geom:longitude":59.76667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aralshiy",
+    "gn:country_code":"KZ",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610605,
+    "gn:latitude":47.8,
+    "gn:longitude":59.76667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Aralshiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610605
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b94909eca7738ed909ca097b41978014",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209621387
+        }
+    ],
+    "wof:id":1209621387,
+    "wof:lastmodified":1536281506,
+    "wof:name":"Aralshiy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.76667,
+    47.8,
+    59.76667,
+    47.8
+],
+  "geometry": {"coordinates":[59.76667,47.8],"type":"Point"}
+}

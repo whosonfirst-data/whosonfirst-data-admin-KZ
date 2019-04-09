@@ -1,0 +1,78 @@
+{
+  "id": 1310129715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.42194,49.74583,61.42194,49.74583",
+    "geom:latitude":49.74583,
+    "geom:longitude":61.42194,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Basqudyq",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525704,
+    "gn:latitude":49.74583,
+    "gn:longitude":61.42194,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Basqudyq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Basqudyq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "Baskuduk",
+        "Basqudyq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525704
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1d6c304b02f9feb428da6202e24938db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1310129715,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1310129715,
+    "wof:lastmodified":1537659887,
+    "wof:name":"Basqudyq",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.42194,
+    49.74583,
+    61.42194,
+    49.74583
+],
+  "geometry": {"coordinates":[61.42194,49.74583],"type":"Point"}
+}

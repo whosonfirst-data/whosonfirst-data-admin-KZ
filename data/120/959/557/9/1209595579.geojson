@@ -1,0 +1,65 @@
+{
+  "id": 1209595579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.33333,49.7,73.33333,49.7",
+    "geom:latitude":49.7,
+    "geom:longitude":73.33333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tasmola",
+    "gn:country_code":"KZ",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518403,
+    "gn:latitude":49.7,
+    "gn:longitude":73.33333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tasmola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yesinala",
+        "Tasmola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518403
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"374f2849a8a01ed33651c88811738110",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209595579
+        }
+    ],
+    "wof:id":1209595579,
+    "wof:lastmodified":1537659561,
+    "wof:name":"Tasmola",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.33333,
+    49.7,
+    73.33333,
+    49.7
+],
+  "geometry": {"coordinates":[73.33333,49.7],"type":"Point"}
+}

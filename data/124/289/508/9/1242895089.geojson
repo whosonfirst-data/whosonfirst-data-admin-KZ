@@ -1,0 +1,81 @@
+{
+  "id": 1242895089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.28487,50.25754,54.28487,50.25754",
+    "geom:latitude":50.25754,
+    "geom:longitude":54.28487,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Almaznoye",
+    "gn:country_code":"KZ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610651,
+    "gn:latitude":50.25754,
+    "gn:longitude":54.28487,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Almaznoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Almaznoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Almaznoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0437\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Almaznyy",
+        "Almazny",
+        "Almaznoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610651
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3d3f88d2daa35d7e7dd1578a95ccf77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785711,
+            "locality_id":1242895089,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1242895089,
+    "wof:lastmodified":1537659449,
+    "wof:name":"Almaznoye",
+    "wof:parent_id":1108785711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.28487,
+    50.25754000000001,
+    54.28487,
+    50.25754000000001
+],
+  "geometry": {"coordinates":[54.28487,50.25754000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209120837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.53333,49.81667,79.53333,49.81667",
+    "geom:latitude":49.81667,
+    "geom:longitude":79.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koshigul'skiy",
+    "gn:country_code":"KZ",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522201,
+    "gn:latitude":49.81667,
+    "gn:longitude":79.53333,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Koshigul\u2019skiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Koshigul\u2019skiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522201
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3731e4561091764f678f5039fec2d53e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209120837
+        }
+    ],
+    "wof:id":1209120837,
+    "wof:lastmodified":1537659748,
+    "wof:name":"Koshigul'skiy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.53333,
+    49.81667,
+    79.53333,
+    49.81667
+],
+  "geometry": {"coordinates":[79.53333000000001,49.81667],"type":"Point"}
+}

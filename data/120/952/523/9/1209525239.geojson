@@ -1,0 +1,61 @@
+{
+  "id": 1209525239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.26667,48.61667,83.26667,48.61667",
+    "geom:latitude":48.61667,
+    "geom:longitude":83.26667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chalokozakov",
+    "gn:country_code":"KZ",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524902,
+    "gn:latitude":48.61667,
+    "gn:longitude":83.26667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Chalokozakov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524902
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b4916677473e30be86749ec29dc4fced",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209525239
+        }
+    ],
+    "wof:id":1209525239,
+    "wof:lastmodified":1536284452,
+    "wof:name":"Chalokozakov",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.26666999999998,
+    48.61667,
+    83.26666999999998,
+    48.61667
+],
+  "geometry": {"coordinates":[83.26666999999998,48.61667],"type":"Point"}
+}

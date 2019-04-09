@@ -1,0 +1,67 @@
+{
+  "id": 1226131637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.04167,41.98056,69.04167,41.98056",
+    "geom:latitude":41.98056,
+    "geom:longitude":69.04167,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chanak",
+    "gn:country_code":"KZ",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1536776,
+    "gn:latitude":41.98056,
+    "gn:longitude":69.04167,
+    "gn:modification_date":"1998-05-21",
+    "gn:name":"Chanak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1536776
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"43d8bfc1ce794c137a28ef7ea2c919d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785581,
+            "locality_id":1226131637,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226131637,
+    "wof:lastmodified":1537094842,
+    "wof:name":"Chanak",
+    "wof:parent_id":1108785581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.04167,
+    41.98056,
+    69.04167,
+    41.98056
+],
+  "geometry": {"coordinates":[69.04167,41.98056],"type":"Point"}
+}

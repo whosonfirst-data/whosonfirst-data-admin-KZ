@@ -1,0 +1,67 @@
+{
+  "id": 1343571385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.56667,50.43333,83.56667,50.43333",
+    "geom:latitude":50.43333,
+    "geom:longitude":83.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Prostokishino",
+    "gn:country_code":"KZ",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519987,
+    "gn:latitude":50.43333,
+    "gn:longitude":83.56667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Prostokishino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519987
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6d05efc9dedc0461fdf98672d0f8f3c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785719,
+            "locality_id":1343571385,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343571385,
+    "wof:lastmodified":1537080468,
+    "wof:name":"Prostokishino",
+    "wof:parent_id":1108785719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.56667,
+    50.43333,
+    83.56667,
+    50.43333
+],
+  "geometry": {"coordinates":[83.56667,50.43333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209385355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.53633,50.80274,79.53633,50.80274",
+    "geom:latitude":50.80274,
+    "geom:longitude":79.53633,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qarabas",
+    "gn:country_code":"KZ",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11509608,
+    "gn:latitude":50.80274,
+    "gn:longitude":79.53633,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Qarabas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarabas"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0431\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11509608
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"85d0908e0af7ac873ec3859b0545b4b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209385355
+        }
+    ],
+    "wof:id":1209385355,
+    "wof:lastmodified":1537660176,
+    "wof:name":"Qarabas",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.53633,
+    50.80274,
+    79.53633,
+    50.80274
+],
+  "geometry": {"coordinates":[79.53633000000001,50.80274],"type":"Point"}
+}

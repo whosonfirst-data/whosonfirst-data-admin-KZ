@@ -1,0 +1,76 @@
+{
+  "id": 1293306511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.1361,43.50398,77.1361,43.50398",
+    "geom:latitude":43.50398,
+    "geom:longitude":77.1361,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Terenkara",
+    "gn:country_code":"KZ",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10310663,
+    "gn:latitude":43.50398,
+    "gn:longitude":77.1361,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Terenkara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u043d\u043a\u0430\u0440\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u043e\u0434\u0441\u043e\u0431\u043d\u043e\u0435 \u0425\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u043e \u041a\u0430\u043c\u0435\u043d\u043d\u043e\u0435 \u041f\u043b\u0430\u0442\u043e"
+    ],
+    "name:und_x_variant":[
+        "Podsobnoye Khozyaystvo Kamennoe Plato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10310663
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"005aa782d13d6cc42550463de4db981b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785421,
+            "locality_id":1293306511,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293306511,
+    "wof:lastmodified":1537660046,
+    "wof:name":"Terenkara",
+    "wof:parent_id":1108785421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.1361,
+    43.50398,
+    77.1361,
+    43.50398
+],
+  "geometry": {"coordinates":[77.1361,43.50398],"type":"Point"}
+}

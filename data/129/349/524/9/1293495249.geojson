@@ -1,0 +1,79 @@
+{
+  "id": 1293495249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.68325,52.19423,69.68325,52.19423",
+    "geom:latitude":52.19423,
+    "geom:longitude":69.68325,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ortaqshyl",
+    "gn:country_code":"KZ",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11135423,
+    "gn:latitude":52.19423,
+    "gn:longitude":69.68325,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Ortaqshyl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Ortaqshyl"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u0440\u0442\u0430\u049b\u0448\u044b\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0442\u0430\u043a\u0448\u044b\u043b"
+    ],
+    "name:und_x_variant":[
+        "Ortakshyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11135423
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"93ad6cecf8c513650e3c0a274e2ba042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785389,
+            "locality_id":1293495249,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293495249,
+    "wof:lastmodified":1537660117,
+    "wof:name":"Ortaqshyl",
+    "wof:parent_id":1108785389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.68325,
+    52.19423,
+    69.68325,
+    52.19423
+],
+  "geometry": {"coordinates":[69.68325,52.19423],"type":"Point"}
+}

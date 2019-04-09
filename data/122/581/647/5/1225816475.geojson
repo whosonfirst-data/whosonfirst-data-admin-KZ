@@ -1,0 +1,75 @@
+{
+  "id": 1225816475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.75,45.63333,61.75,45.63333",
+    "geom:latitude":45.63333,
+    "geom:longitude":61.75,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kozhabaky",
+    "gn:country_code":"KZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522075,
+    "gn:latitude":45.63333,
+    "gn:longitude":61.75,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kozhabaky",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qozhabaqy"
+    ],
+    "name:und_x_variant":[
+        "Kozhabakha",
+        "Kozhebakha",
+        "Kozhabaky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522075
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"24c29b7e480027a4c8393c270d06e9eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785613,
+            "locality_id":1225816475,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1225816475,
+    "wof:lastmodified":1537659741,
+    "wof:name":"Kozhabaky",
+    "wof:parent_id":1108785613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.75,
+    45.63333,
+    61.75,
+    45.63333
+],
+  "geometry": {"coordinates":[61.75,45.63333],"type":"Point"}
+}

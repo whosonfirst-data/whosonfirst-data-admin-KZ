@@ -1,0 +1,70 @@
+{
+  "id": 1209086489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.03081,48.49195,73.03081,48.49195",
+    "geom:latitude":48.49195,
+    "geom:longitude":73.03081,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhasterek",
+    "gn:country_code":"KZ",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11410758,
+    "gn:latitude":48.49195,
+    "gn:longitude":73.03081,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Zhasterek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhasterek Qysta\u016by"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u0441\u0442\u0435\u0440\u0435\u043a \u049a\u044b\u0441\u0442\u0430\u0443\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0441\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11410758
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"760e4b607b8cf4956dab7667a3da9925",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209086489
+        }
+    ],
+    "wof:id":1209086489,
+    "wof:lastmodified":1537660136,
+    "wof:name":"Zhasterek",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.03081,
+    48.49195,
+    73.03081,
+    48.49195
+],
+  "geometry": {"coordinates":[73.03081,48.49195],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243055059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.35249,48.25141,72.35249,48.25141",
+    "geom:latitude":48.25141,
+    "geom:longitude":72.35249,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ferma Nomer Chetyre Sovkhoza Ortau",
+    "gn:country_code":"KZ",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520330,
+    "gn:latitude":48.25141,
+    "gn:longitude":72.35249,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Ferma Nomer Chetyre Sovkhoza Ortau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Orta\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u0440\u0442\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u043c\u0430 \u041d\u043e\u043c\u0435\u0440 \u0427\u0435\u0442\u044b\u0440\u0435 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u041e\u0440\u0442\u0430\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520330
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"10f12d17a2485994bb8fe7d232b9bf4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1243055059,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1243055059,
+    "wof:lastmodified":1537659651,
+    "wof:name":"Ferma Nomer Chetyre Sovkhoza Ortau",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.35249,
+    48.25141,
+    72.35249,
+    48.25141
+],
+  "geometry": {"coordinates":[72.35249,48.25141],"type":"Point"}
+}

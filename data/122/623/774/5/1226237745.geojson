@@ -1,0 +1,82 @@
+{
+  "id": 1226237745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.64305,41.25217,68.64305,41.25217",
+    "geom:latitude":41.25217,
+    "geom:longitude":68.64305,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhanatirshilik",
+    "gn:country_code":"KZ",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516819,
+    "gn:latitude":41.25217,
+    "gn:longitude":68.64305,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Zhanatirshilik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhangatirshilik"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430\u0442\u0456\u0440\u0448\u0456\u043b\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0442\u0438\u0440\u0448\u0438\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Akmola",
+        "Zhana-Trikshilik",
+        "Dzhone-Trik-Chilik",
+        "Zhanatirshilik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516819
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dee57b8fb53ab3790d733675d153b9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1226237745,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226237745,
+    "wof:lastmodified":1537659485,
+    "wof:name":"Zhanatirshilik",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.64305,
+    41.25217,
+    68.64305,
+    41.25217
+],
+  "geometry": {"coordinates":[68.64305,41.25217],"type":"Point"}
+}

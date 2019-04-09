@@ -1,0 +1,72 @@
+{
+  "id": 1243182155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.56829,49.68503,78.56829,49.68503",
+    "geom:latitude":49.68503,
+    "geom:longitude":78.56829,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Taypan",
+    "gn:country_code":"KZ",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518325,
+    "gn:latitude":49.68503,
+    "gn:longitude":78.56829,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Taypan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taylyan-Kuduk",
+        "Taylan",
+        "Taypan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518325
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"427b57d2aae36fac1cfd74d1aef7bdce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1243182155,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243182155,
+    "wof:lastmodified":1537659558,
+    "wof:name":"Taypan",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.56829,
+    49.68503,
+    78.56829,
+    49.68503
+],
+  "geometry": {"coordinates":[78.56829,49.68503],"type":"Point"}
+}

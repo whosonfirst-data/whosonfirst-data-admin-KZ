@@ -1,0 +1,79 @@
+{
+  "id": 1310128097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.90705,47.02907,51.90705,47.02907",
+    "geom:latitude":47.02907,
+    "geom:longitude":51.90705,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taskala",
+    "gn:country_code":"KZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608076,
+    "gn:latitude":47.02907,
+    "gn:longitude":51.90705,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Taskala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Taskala"
+    ],
+    "name:kaz_x_preferred":[
+        "Tasqala"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0430\u0441\u049b\u0430\u043b\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0441\u043a\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608076
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5cd8dc9aa2922783683c1a88382e793d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785451,
+            "locality_id":1310128097,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1310128097,
+    "wof:lastmodified":1537659359,
+    "wof:name":"Taskala",
+    "wof:parent_id":1108785451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.90705,
+    47.02907,
+    51.90705,
+    47.02907
+],
+  "geometry": {"coordinates":[51.90705,47.02907],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1242942679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.53008,53.50379,68.53008,53.50379",
+    "geom:latitude":53.50379,
+    "geom:longitude":68.53008,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zhumushchi",
+    "gn:country_code":"KZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532274,
+    "gn:latitude":53.50379,
+    "gn:longitude":68.53008,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Zhumushchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhumushchi"
+    ],
+    "name:kaz_x_preferred":[
+        "Zhumysshy"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u04b1\u043c\u044b\u0441\u0448\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u043c\u044b\u0441\u0448\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0416\u0443\u043c\u0443\u0449\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532274
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5f40f1a242cb72de56dbb37e5aa816bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1242942679,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1242942679,
+    "wof:lastmodified":1537659963,
+    "wof:name":"Zhumushchi",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.53008,
+    53.50379,
+    68.53008,
+    53.50379
+],
+  "geometry": {"coordinates":[68.53008,53.50379],"type":"Point"}
+}

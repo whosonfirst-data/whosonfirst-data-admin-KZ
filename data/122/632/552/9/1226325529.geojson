@@ -1,0 +1,77 @@
+{
+  "id": 1226325529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.24389,48.90172,79.24389,48.90172",
+    "geom:latitude":48.90172,
+    "geom:longitude":79.24389,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Olzhabay",
+    "gn:country_code":"KZ",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520402,
+    "gn:latitude":48.90172,
+    "gn:longitude":79.24389,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Olzhabay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Olzhabay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0436\u0430\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Olzhoboy",
+        "Olzhabay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520402
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a3d901d920d888dafd1c75b4ba762026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785727,
+            "locality_id":1226325529,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226325529,
+    "wof:lastmodified":1537659654,
+    "wof:name":"Olzhabay",
+    "wof:parent_id":1108785727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.24389000000002,
+    48.90172000000001,
+    79.24389000000002,
+    48.90172000000001
+],
+  "geometry": {"coordinates":[79.24389000000002,48.90172000000001],"type":"Point"}
+}

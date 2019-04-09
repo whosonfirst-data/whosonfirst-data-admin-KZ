@@ -1,0 +1,85 @@
+{
+  "id": 1360071659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.34042,53.85592,62.34042,53.85592",
+    "geom:latitude":53.85592,
+    "geom:longitude":62.34042,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bol'shoe",
+    "gn:country_code":"KZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525188,
+    "gn:latitude":53.85592,
+    "gn:longitude":62.34042,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Bol\u2019shoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bol'shoy"
+    ],
+    "name:kaz_x_preferred":[
+        "Bol\u2019shoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439"
+    ],
+    "name:rus_x_variant":[
+        "Bol\u2019shoye"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525188
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d66c85fd9a4bb9e11003d75809a65f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1360071659,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1360071659,
+    "wof:lastmodified":1537659864,
+    "wof:name":"Bol'shoe",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.34042,
+    53.85592,
+    62.34042,
+    53.85592
+],
+  "geometry": {"coordinates":[62.34042,53.85592],"type":"Point"}
+}

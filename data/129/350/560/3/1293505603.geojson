@@ -1,0 +1,71 @@
+{
+  "id": 1293505603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.70912,45.8258,80.70912,45.8258",
+    "geom:latitude":45.8258,
+    "geom:longitude":80.70912,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Osinovka",
+    "gn:country_code":"KZ",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520319,
+    "gn:latitude":45.8258,
+    "gn:longitude":80.70912,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Osinovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osinovskoye",
+        "Osinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520319
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e5548abfe49bff34dc65adcc1d8a0191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785413,
+            "locality_id":1293505603,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293505603,
+    "wof:lastmodified":1537659650,
+    "wof:name":"Osinovka",
+    "wof:parent_id":1108785413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.70912,
+    45.8258,
+    80.70912,
+    45.8258
+],
+  "geometry": {"coordinates":[80.70912,45.8258],"type":"Point"}
+}

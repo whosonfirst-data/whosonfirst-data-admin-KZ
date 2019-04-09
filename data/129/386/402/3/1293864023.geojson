@@ -1,0 +1,77 @@
+{
+  "id": 1293864023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.01849,50.61495,73.01849,50.61495",
+    "geom:latitude":50.61495,
+    "geom:longitude":73.01849,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Priishimskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520031,
+    "gn:latitude":50.61495,
+    "gn:longitude":73.01849,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Priishimskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Pr\u012b\u012bsh\u012bmskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u0440\u0438\u0438\u0448\u0438\u043c\u0441\u043a\u043e\u0435",
+        "Pr\u012b\u012bsh\u012bmka",
+        "Esil Mangy",
+        "\u041f\u0440\u0438\u0438\u0448\u0438\u043c\u043a\u0430",
+        "\u0415\u0441\u0456\u043b \u041c\u0430\u04a3\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520031
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"256a326007d9edc4da683923fb16e741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1293864023,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1293864023,
+    "wof:lastmodified":1537659632,
+    "wof:name":"Priishimskoye",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.01849,
+    50.61495,
+    73.01849,
+    50.61495
+],
+  "geometry": {"coordinates":[73.01849,50.61495],"type":"Point"}
+}

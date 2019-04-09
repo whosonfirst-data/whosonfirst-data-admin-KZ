@@ -1,0 +1,67 @@
+{
+  "id": 1259601197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.51667,49.93333,52.51667,49.93333",
+    "geom:latitude":49.93333,
+    "geom:longitude":52.51667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dyurt-Kutyur",
+    "gn:country_code":"KZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609998,
+    "gn:latitude":49.93333,
+    "gn:longitude":52.51667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Dyurt-Kutyur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609998
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e498fce23503b78dd94678c40d8626bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785495,
+            "locality_id":1259601197,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1259601197,
+    "wof:lastmodified":1536689381,
+    "wof:name":"Dyurt-Kutyur",
+    "wof:parent_id":1108785495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.51667,
+    49.93333,
+    52.51667,
+    49.93333
+],
+  "geometry": {"coordinates":[52.51667,49.93333],"type":"Point"}
+}

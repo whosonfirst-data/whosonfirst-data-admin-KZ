@@ -1,0 +1,74 @@
+{
+  "id": 1310503535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.30118,51.55281,73.30118,51.55281",
+    "geom:latitude":51.55281,
+    "geom:longitude":73.30118,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ordabay",
+    "gn:country_code":"KZ",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1539542,
+    "gn:latitude":51.55281,
+    "gn:longitude":73.30118,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Ordabay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041e\u0440\u0434\u0430\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Ordubay",
+        "Ordabay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1539542
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1d1f7cd30cd782b34d0057818f608cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1310503535,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310503535,
+    "wof:lastmodified":1537660026,
+    "wof:name":"Ordabay",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.30118,
+    51.55281,
+    73.30118,
+    51.55281
+],
+  "geometry": {"coordinates":[73.30118,51.55281],"type":"Point"}
+}

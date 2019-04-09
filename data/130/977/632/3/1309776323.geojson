@@ -1,0 +1,78 @@
+{
+  "id": 1309776323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.58131,50.08103,79.58131,50.08103",
+    "geom:latitude":50.08103,
+    "geom:longitude":79.58131,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Znamenka",
+    "gn:country_code":"KZ",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516457,
+    "gn:latitude":50.08103,
+    "gn:longitude":79.58131,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Znamenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Znamenka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043d\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Znamenskoye",
+        "Znamenskiy",
+        "Znamenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516457
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f6ee1f2230fea5c4de5c5d1577659926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1309776323,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1309776323,
+    "wof:lastmodified":1537659470,
+    "wof:name":"Znamenka",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.58131,
+    50.08103,
+    79.58131,
+    50.08103
+],
+  "geometry": {"coordinates":[79.58131,50.08103],"type":"Point"}
+}

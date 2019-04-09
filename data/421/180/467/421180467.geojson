@@ -1,0 +1,90 @@
+{
+  "id": 421180467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.31329,50.14112,82.31329,50.14112",
+    "geom:latitude":50.14112,
+    "geom:longitude":82.31329,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Gl\u016bbokoe"
+    ],
+    "name:kaz_x_preferred":[
+        "Gl\u016bbokoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435"
+    ],
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1524227,
+    "qs:gn_pop":11192,
+    "qs:name":"Glubokoye",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Shyghys Qazaqstan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":433033,
+    "qs:woe_adm0":23424871,
+    "qs:woe_id":2264385,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524227,
+        "gp:id":2264385,
+        "qs:id":433033
+    },
+    "wof:country":"KZ",
+    "wof:created":1459009260,
+    "wof:geomhash":"062f085e21d0addc390dbfad4081354e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421180467,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":421180467,
+    "wof:lastmodified":1527716240,
+    "wof:name":"Glubokoye",
+    "wof:parent_id":85672915,
+    "wof:placetype":"locality",
+    "wof:population":11192,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.31329,
+    50.14112,
+    82.31329,
+    50.14112
+],
+  "geometry": {"coordinates":[82.31328999999999,50.14112],"type":"Point"}
+}

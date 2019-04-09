@@ -1,0 +1,77 @@
+{
+  "id": 1226231281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.27336,43.42908,68.27336,43.42908",
+    "geom:latitude":43.42908,
+    "geom:longitude":68.27336,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kommuna",
+    "gn:country_code":"KZ",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522368,
+    "gn:latitude":43.42908,
+    "gn:longitude":68.27336,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Kommuna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Komm\u016bna"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u043e\u043c\u043c\u0443\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dzhuynek",
+        "Kommuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522368
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"88519eb84e9f05fb50f1310cbc802a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1226231281,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226231281,
+    "wof:lastmodified":1537659756,
+    "wof:name":"Kommuna",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.27336,
+    43.42908,
+    68.27336,
+    43.42908
+],
+  "geometry": {"coordinates":[68.27336,43.42908],"type":"Point"}
+}

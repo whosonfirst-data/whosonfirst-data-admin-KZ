@@ -1,0 +1,67 @@
+{
+  "id": 1343685831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.51667,48.6,56.51667,48.6",
+    "geom:latitude":48.6,
+    "geom:longitude":56.51667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kumchokat",
+    "gn:country_code":"KZ",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609114,
+    "gn:latitude":48.6,
+    "gn:longitude":56.51667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kumchokat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609114
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3f1d27465abc93c5c372e8816f26b1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785399,
+            "locality_id":1343685831,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1343685831,
+    "wof:lastmodified":1536919084,
+    "wof:name":"Kumchokat",
+    "wof:parent_id":1108785399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.51667,
+    48.6,
+    56.51667,
+    48.6
+],
+  "geometry": {"coordinates":[56.51667,48.6],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293210337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.33333,49.63333,63.33333,49.63333",
+    "geom:latitude":49.63333,
+    "geom:longitude":63.33333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dautbaysay",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524627,
+    "gn:latitude":49.63333,
+    "gn:longitude":63.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dautbaysay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daut-Bay",
+        "Dautbaysay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524627
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ee9c1dc0bffcf9d8ae4b4227d879fb51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1293210337,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293210337,
+    "wof:lastmodified":1537659844,
+    "wof:name":"Dautbaysay",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.33333,
+    49.63333,
+    63.33333,
+    49.63333
+],
+  "geometry": {"coordinates":[63.33333,49.63333],"type":"Point"}
+}

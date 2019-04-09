@@ -1,0 +1,77 @@
+{
+  "id": 1293558827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.1347,53.45554,70.1347,53.45554",
+    "geom:latitude":53.45554,
+    "geom:longitude":70.1347,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Oktyabr'skoye",
+    "gn:country_code":"KZ",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520444,
+    "gn:latitude":53.45554,
+    "gn:longitude":70.1347,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Oktyabr\u2019skoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Oktyabr\u2019skoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Oktyabr\u2019 Pervyy",
+        "Oktyabr\u2019skoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520444
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bab39fc09daeddfc2bdbcb5544a5066e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1293558827,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293558827,
+    "wof:lastmodified":1537659658,
+    "wof:name":"Oktyabr'skoye",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.1347,
+    53.45554,
+    70.1347,
+    53.45554
+],
+  "geometry": {"coordinates":[70.1347,53.45554],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242575425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.05,46.98333,53.05,46.98333",
+    "geom:latitude":46.98333,
+    "geom:longitude":53.05,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dzharchik",
+    "gn:country_code":"KZ",
+    "gn:dem":-26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609949,
+    "gn:latitude":46.98333,
+    "gn:longitude":53.05,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Dzharchik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dzharchik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0440\u0448\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zharshik",
+        "Dzharchik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609949
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8aaf90252475430324cc2f07bb988acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785637,
+            "locality_id":1242575425,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1242575425,
+    "wof:lastmodified":1537659427,
+    "wof:name":"Dzharchik",
+    "wof:parent_id":1108785637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.05,
+    46.98333,
+    53.05,
+    46.98333
+],
+  "geometry": {"coordinates":[53.05,46.98333],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293171103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.83444,48.7821,82.83444,48.7821",
+    "geom:latitude":48.7821,
+    "geom:longitude":82.83444,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qoytas",
+    "gn:country_code":"KZ",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527244,
+    "gn:latitude":48.7821,
+    "gn:longitude":82.83444,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Qoytas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qoytas"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u0439\u0442\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0439\u0442\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Koytas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527244
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9a73c2ed52d4f805bc46317215ca747e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1293171103,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293171103,
+    "wof:lastmodified":1537660186,
+    "wof:name":"Qoytas",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.83444,
+    48.7821,
+    82.83444,
+    48.7821
+],
+  "geometry": {"coordinates":[82.83444,48.7821],"type":"Point"}
+}

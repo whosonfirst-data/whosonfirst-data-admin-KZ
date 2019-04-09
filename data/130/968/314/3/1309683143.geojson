@@ -1,0 +1,71 @@
+{
+  "id": 1309683143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.06667,44.81667,65.06667,44.81667",
+    "geom:latitude":44.81667,
+    "geom:longitude":65.06667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kyzylzhaylau",
+    "gn:country_code":"KZ",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521418,
+    "gn:latitude":44.81667,
+    "gn:longitude":65.06667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kyzylzhaylau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyzyl-Dzhaylya",
+        "Kyzylzhaylau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521418
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"657a80effa2222cdb17ccc88404b28bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785671,
+            "locality_id":1309683143,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1309683143,
+    "wof:lastmodified":1537659714,
+    "wof:name":"Kyzylzhaylau",
+    "wof:parent_id":1108785671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.06667,
+    44.81667,
+    65.06667,
+    44.81667
+],
+  "geometry": {"coordinates":[65.06667,44.81667],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1293678139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.84611,41.36861,68.84611,41.36861",
+    "geom:latitude":41.36861,
+    "geom:longitude":68.84611,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Oshakty",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517674,
+    "gn:latitude":41.36861,
+    "gn:longitude":68.84611,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Oshakty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Oshaqty"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u0448\u0430\u049b\u0442\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0448\u0430\u043a\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Uch-Akty",
+        "Ushakty",
+        "Oshakty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517674
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0c18b81a78478e452f7ecdc2b2e89b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1293678139,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293678139,
+    "wof:lastmodified":1537659534,
+    "wof:name":"Oshakty",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.84611,
+    41.36861,
+    68.84611,
+    41.36861
+],
+  "geometry": {"coordinates":[68.84611,41.36861],"type":"Point"}
+}

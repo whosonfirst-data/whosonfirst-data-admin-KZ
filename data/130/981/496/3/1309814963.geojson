@@ -1,0 +1,76 @@
+{
+  "id": 1309814963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.27163,52.5522,70.27163,52.5522",
+    "geom:latitude":52.5522,
+    "geom:longitude":70.27163,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Prokhorovka",
+    "gn:country_code":"KZ",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519997,
+    "gn:latitude":52.5522,
+    "gn:longitude":70.27163,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Prokhorovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Prokhorovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u043e\u0445\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0445\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519997
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"feef4b7ee853b88fd9e742bccb886960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785389,
+            "locality_id":1309814963,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1309814963,
+    "wof:lastmodified":1537659629,
+    "wof:name":"Prokhorovka",
+    "wof:parent_id":1108785389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.27163,
+    52.5522,
+    70.27163,
+    52.5522
+],
+  "geometry": {"coordinates":[70.27163,52.5522],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209325989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.55364,52.54659,69.55364,52.54659",
+    "geom:latitude":52.54659,
+    "geom:longitude":69.55364,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Fedoseyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524276,
+    "gn:latitude":52.54659,
+    "gn:longitude":69.55364,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Fedoseyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Fedoseevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0424\u0435\u0434\u043e\u0441\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524276
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"947afaa43de4f7d7b690c56ba19e80cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209325989
+        }
+    ],
+    "wof:id":1209325989,
+    "wof:lastmodified":1537659830,
+    "wof:name":"Fedoseyevka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.55364,
+    52.54659,
+    69.55364,
+    52.54659
+],
+  "geometry": {"coordinates":[69.55364,52.54659],"type":"Point"}
+}

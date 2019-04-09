@@ -1,0 +1,71 @@
+{
+  "id": 1226650793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.53861,51.13056,71.53861,51.13056",
+    "geom:latitude":51.13056,
+    "geom:longitude":71.53861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Promyshlennyy",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537918,
+    "gn:latitude":51.13056,
+    "gn:longitude":71.53861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Promyshlennyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Promyshlennyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672941,
+        1108785439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537918
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"78aa1481103432c5b31996565561960a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785439,
+            "locality_id":1226650793,
+            "region_id":85672941
+        }
+    ],
+    "wof:id":1226650793,
+    "wof:lastmodified":1537660018,
+    "wof:name":"Promyshlennyy",
+    "wof:parent_id":1108785439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.53860999999998,
+    51.13056,
+    71.53860999999998,
+    51.13056
+],
+  "geometry": {"coordinates":[71.53860999999998,51.13056],"type":"Point"}
+}

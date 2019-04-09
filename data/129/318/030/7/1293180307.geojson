@@ -1,0 +1,76 @@
+{
+  "id": 1293180307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.31063,50.10438,65.31063,50.10438",
+    "geom:latitude":50.10438,
+    "geom:longitude":65.31063,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Urpek",
+    "gn:country_code":"KZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517699,
+    "gn:latitude":50.10438,
+    "gn:longitude":65.31063,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u00dcrpek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00dcrpek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u043f\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "\u00dcrpek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517699
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"876566b82e237c231ebbb420d8500c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1293180307,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293180307,
+    "wof:lastmodified":1537659535,
+    "wof:name":"Urpek",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.31063,
+    50.10438,
+    65.31063,
+    50.10438
+],
+  "geometry": {"coordinates":[65.31063,50.10438],"type":"Point"}
+}

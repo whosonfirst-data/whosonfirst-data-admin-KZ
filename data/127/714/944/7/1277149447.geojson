@@ -1,0 +1,83 @@
+{
+  "id": 1277149447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.81963,54.41488,70.81963,54.41488",
+    "geom:latitude":54.41488,
+    "geom:longitude":70.81963,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Malaya Vozvyshenka",
+    "gn:country_code":"KZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517356,
+    "gn:latitude":54.41488,
+    "gn:longitude":70.81963,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Malaya Vozvyshenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malaya Vozvyshenka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u044f \u0412\u043e\u0437\u0432\u044b\u0448\u0435\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b.\u0412\u043e\u0437\u0432\u044b\u0448\u0435\u043d\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u043e\u0437\u0432\u044b\u0448\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vozvyshenka",
+        "Malaya Vozvyshenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517356
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"46c4edc0cacd729720ab6c060f711bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1277149447,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1277149447,
+    "wof:lastmodified":1537659514,
+    "wof:name":"Malaya Vozvyshenka",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.81963,
+    54.41488,
+    70.81963,
+    54.41488
+],
+  "geometry": {"coordinates":[70.81963,54.41488],"type":"Point"}
+}

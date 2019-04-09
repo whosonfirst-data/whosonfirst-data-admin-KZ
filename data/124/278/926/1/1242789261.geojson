@@ -1,0 +1,84 @@
+{
+  "id": 1242789261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.5692,52.24999,67.5692,52.24999",
+    "geom:latitude":52.24999,
+    "geom:longitude":67.5692,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kalininskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522340,
+    "gn:latitude":52.24999,
+    "gn:longitude":67.5692,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Kalininskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kalininskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "Kal\u012bn\u012bnsk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Komsomol\u2019skiy",
+        "Kalinino",
+        "Kalininskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522340
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d56d96994208e78e537ea60541e84b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785623,
+            "locality_id":1242789261,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1242789261,
+    "wof:lastmodified":1537659755,
+    "wof:name":"Kalininskiy",
+    "wof:parent_id":1108785623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.5692,
+    52.24999,
+    67.5692,
+    52.24999
+],
+  "geometry": {"coordinates":[67.5692,52.24999],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242660379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.78473,47.76734,84.78473,47.76734",
+    "geom:latitude":47.76734,
+    "geom:longitude":84.78473,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Aqaral",
+    "gn:country_code":"KZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526909,
+    "gn:latitude":47.76734,
+    "gn:longitude":84.78473,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Aqaral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agaral",
+        "Akaral",
+        "Aqaral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526909
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"42bb586674f200573144995638d61036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785311,
+            "locality_id":1242660379,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1242660379,
+    "wof:lastmodified":1537659929,
+    "wof:name":"Aqaral",
+    "wof:parent_id":1108785311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.78473000000002,
+    47.76734,
+    84.78473000000002,
+    47.76734
+],
+  "geometry": {"coordinates":[84.78473000000002,47.76734],"type":"Point"}
+}

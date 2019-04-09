@@ -1,0 +1,67 @@
+{
+  "id": 1360103161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.95,51.15,51.95,51.15",
+    "geom:latitude":51.15,
+    "geom:longitude":51.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Urtakchal",
+    "gn:country_code":"KZ",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607831,
+    "gn:latitude":51.15,
+    "gn:longitude":51.95,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Urtakchal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607831
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d2ea561cd77e921c8f0e156b9352422c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785731,
+            "locality_id":1360103161,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1360103161,
+    "wof:lastmodified":1536920181,
+    "wof:name":"Urtakchal",
+    "wof:parent_id":1108785731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.95,
+    51.15,
+    51.95,
+    51.15
+],
+  "geometry": {"coordinates":[51.95,51.15],"type":"Point"}
+}

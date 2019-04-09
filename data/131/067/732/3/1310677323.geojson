@@ -1,0 +1,73 @@
+{
+  "id": 1310677323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.86684,53.90772,62.86684,53.90772",
+    "geom:latitude":53.90772,
+    "geom:longitude":62.86684,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Staroshumnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11416952,
+    "gn:latitude":53.90772,
+    "gn:longitude":62.86684,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Staroshumnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Starosh\u016bmnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0442\u0430\u0440\u043e\u0448\u0443\u043c\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11416952
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b00e80ed4d980d88a590e0fe3d980030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1310677323,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310677323,
+    "wof:lastmodified":1537660144,
+    "wof:name":"Staroshumnoye",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.86684,
+    53.90772,
+    62.86684,
+    53.90772
+],
+  "geometry": {"coordinates":[62.86684,53.90772],"type":"Point"}
+}

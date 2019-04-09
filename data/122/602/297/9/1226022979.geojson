@@ -1,0 +1,79 @@
+{
+  "id": 1226022979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.64987,52.96002,74.64987,52.96002",
+    "geom:latitude":52.96002,
+    "geom:longitude":74.64987,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rote-Fane",
+    "gn:country_code":"KZ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533766,
+    "gn:latitude":52.96002,
+    "gn:longitude":74.64987,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Rote-Fane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rote-Fane"
+    ],
+    "name:kaz_x_preferred":[
+        "Rote Fane"
+    ],
+    "name:kaz_x_variant":[
+        "\u0420\u043e\u0442\u0435 \u0424\u0430\u043d\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0442\u0435-\u0424\u0430\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533766
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a2657cac89f6ff7f7c72d8739c38057a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1226022979,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1226022979,
+    "wof:lastmodified":1537659980,
+    "wof:name":"Rote-Fane",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.64986999999998,
+    52.96001999999999,
+    74.64986999999998,
+    52.96001999999999
+],
+  "geometry": {"coordinates":[74.64986999999998,52.96001999999999],"type":"Point"}
+}

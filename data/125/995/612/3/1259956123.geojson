@@ -1,0 +1,73 @@
+{
+  "id": 1259956123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.4354,42.8175,70.4354,42.8175",
+    "geom:latitude":42.8175,
+    "geom:longitude":70.4354,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Zimovka Kogaly",
+    "gn:country_code":"KZ",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522554,
+    "gn:latitude":42.8175,
+    "gn:longitude":70.4354,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Zimovka Kogaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u043c\u043e\u0432\u043a\u0430 \u041a\u043e\u0433\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kogaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522554
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"117ab57e5462d05d4478974784b93e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785737,
+            "locality_id":1259956123,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1259956123,
+    "wof:lastmodified":1537659763,
+    "wof:name":"Zimovka Kogaly",
+    "wof:parent_id":1108785737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.4354,
+    42.8175,
+    70.4354,
+    42.8175
+],
+  "geometry": {"coordinates":[70.4354,42.8175],"type":"Point"}
+}

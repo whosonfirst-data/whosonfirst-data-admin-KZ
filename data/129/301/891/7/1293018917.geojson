@@ -1,0 +1,71 @@
+{
+  "id": 1293018917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.12334,50.03977,52.12334,50.03977",
+    "geom:latitude":50.03977,
+    "geom:longitude":52.12334,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Olenty",
+    "gn:country_code":"KZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608674,
+    "gn:latitude":50.03977,
+    "gn:longitude":52.12334,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Olenty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulenta",
+        "Olenty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608674
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c9744f5d15e6f431b42be29d53049a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1293018917,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293018917,
+    "wof:lastmodified":1537659382,
+    "wof:name":"Olenty",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.12334,
+    50.03977,
+    52.12334,
+    50.03977
+],
+  "geometry": {"coordinates":[52.12334,50.03977],"type":"Point"}
+}

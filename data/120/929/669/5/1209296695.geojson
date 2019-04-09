@@ -1,0 +1,73 @@
+{
+  "id": 1209296695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.60366,53.5702,67.60366,53.5702",
+    "geom:latitude":53.5702,
+    "geom:longitude":67.60366,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sukhorabovka",
+    "gn:country_code":"KZ",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518747,
+    "gn:latitude":53.5702,
+    "gn:longitude":67.60366,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Sukhorabovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "S\u016bkhorabovka"
+    ],
+    "name:kaz_x_preferred":[
+        "S\u016bkhorabovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0443\u0445\u043e\u0440\u0430\u0431\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0445\u043e\u0440\u0430\u0431\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518747
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6816396a5a76edb6256c99c83eb4bd7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209296695
+        }
+    ],
+    "wof:id":1209296695,
+    "wof:lastmodified":1537659572,
+    "wof:name":"Sukhorabovka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.60365999999999,
+    53.5702,
+    67.60365999999999,
+    53.5702
+],
+  "geometry": {"coordinates":[67.60365999999999,53.5702],"type":"Point"}
+}

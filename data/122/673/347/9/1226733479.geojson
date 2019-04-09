@@ -1,0 +1,67 @@
+{
+  "id": 1226733479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.61667,41.03333,68.61667,41.03333",
+    "geom:latitude":41.03333,
+    "geom:longitude":68.61667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ani-Muratbay",
+    "gn:country_code":"KZ",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526292,
+    "gn:latitude":41.03333,
+    "gn:longitude":68.61667,
+    "gn:modification_date":"1998-05-21",
+    "gn:name":"Ani-Muratbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526292
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"648a54e55ad63d59b2fbf23f6de5831b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785365,
+            "locality_id":1226733479,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226733479,
+    "wof:lastmodified":1536733451,
+    "wof:name":"Ani-Muratbay",
+    "wof:parent_id":1108785365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.61667,
+    41.03333,
+    68.61667,
+    41.03333
+],
+  "geometry": {"coordinates":[68.61667,41.03333],"type":"Point"}
+}

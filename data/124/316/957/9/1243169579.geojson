@@ -1,0 +1,78 @@
+{
+  "id": 1243169579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.36667,46.68333,53.36667,46.68333",
+    "geom:latitude":46.68333,
+    "geom:longitude":53.36667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Shubartbala",
+    "gn:country_code":"KZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608268,
+    "gn:latitude":46.68333,
+    "gn:longitude":53.36667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Shubartbala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shubartbala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0431\u0430\u0440\u0431\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Shoburbala",
+        "Shubartbala",
+        "Shubyrtpaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608268
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cd4b54111747547d2a64bb7e5a69d9be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785637,
+            "locality_id":1243169579,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1243169579,
+    "wof:lastmodified":1537659365,
+    "wof:name":"Shubartbala",
+    "wof:parent_id":1108785637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.36666999999999,
+    46.68333,
+    53.36666999999999,
+    46.68333
+],
+  "geometry": {"coordinates":[53.36666999999999,46.68333],"type":"Point"}
+}

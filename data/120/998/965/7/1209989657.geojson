@@ -1,0 +1,79 @@
+{
+  "id": 1209989657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.14552,49.18381,80.14552,49.18381",
+    "geom:latitude":49.18381,
+    "geom:longitude":80.14552,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qarabulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11514542,
+    "gn:latitude":49.18381,
+    "gn:longitude":80.14552,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Qarabulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarabulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u043c\u043e\u0432\u043a\u0430 \u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zimovka Karabulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11514542
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6f927aa3d2103925a666761160129b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785727,
+            "locality_id":1209989657,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1209989657,
+    "wof:lastmodified":1537660183,
+    "wof:name":"Qarabulaq",
+    "wof:parent_id":1108785727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.14551999999998,
+    49.18381,
+    80.14551999999998,
+    49.18381
+],
+  "geometry": {"coordinates":[80.14551999999998,49.18381],"type":"Point"}
+}

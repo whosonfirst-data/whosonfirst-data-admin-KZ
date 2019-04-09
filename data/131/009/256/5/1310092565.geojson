@@ -1,0 +1,67 @@
+{
+  "id": 1310092565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.47222,47.58056,64.47222,47.58056",
+    "geom:latitude":47.58056,
+    "geom:longitude":64.47222,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Koskop",
+    "gn:country_code":"KZ",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1484313,
+    "gn:latitude":47.58056,
+    "gn:longitude":64.47222,
+    "gn:modification_date":"1998-01-14",
+    "gn:name":"Koskop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1484313
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8e0e5f2e21dca95590a781f296629512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785515,
+            "locality_id":1310092565,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1310092565,
+    "wof:lastmodified":1537014476,
+    "wof:name":"Koskop",
+    "wof:parent_id":1108785515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.47222,
+    47.58056,
+    64.47222,
+    47.58056
+],
+  "geometry": {"coordinates":[64.47221999999999,47.58056],"type":"Point"}
+}

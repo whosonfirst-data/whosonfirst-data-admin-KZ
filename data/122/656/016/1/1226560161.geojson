@@ -1,0 +1,76 @@
+{
+  "id": 1226560161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.02234,41.47665,68.02234,41.47665",
+    "geom:latitude":41.47665,
+    "geom:longitude":68.02234,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Koksu",
+    "gn:country_code":"KZ",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522477,
+    "gn:latitude":41.47665,
+    "gn:longitude":68.02234,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Koksu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "K\u00f6ks\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u04e9\u043a\u0441\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522477
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2dd649d9789a79203b55fdd30a6e9ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785365,
+            "locality_id":1226560161,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226560161,
+    "wof:lastmodified":1537659760,
+    "wof:name":"Koksu",
+    "wof:parent_id":1108785365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.02234,
+    41.47665,
+    68.02234,
+    41.47665
+],
+  "geometry": {"coordinates":[68.02234,41.47665],"type":"Point"}
+}

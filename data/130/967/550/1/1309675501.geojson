@@ -1,0 +1,76 @@
+{
+  "id": 1309675501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.7887,43.88588,71.7887,43.88588",
+    "geom:latitude":43.88588,
+    "geom:longitude":71.7887,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Koyandy",
+    "gn:country_code":"KZ",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10433469,
+    "gn:latitude":43.88588,
+    "gn:longitude":71.7887,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Koyandy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u044f\u043d\u0434\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0436\u0443\u0432\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0428\u0442\u0430\u0431"
+    ],
+    "name:und_x_variant":[
+        "Dzhuvalinskiy Shtab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10433469
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"85fc76f62987a9896e1d7307b0c13c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785479,
+            "locality_id":1309675501,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1309675501,
+    "wof:lastmodified":1537660052,
+    "wof:name":"Koyandy",
+    "wof:parent_id":1108785479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.7887,
+    43.88588,
+    71.7887,
+    43.88588
+],
+  "geometry": {"coordinates":[71.78870000000001,43.88588],"type":"Point"}
+}

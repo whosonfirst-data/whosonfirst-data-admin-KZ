@@ -1,0 +1,80 @@
+{
+  "id": 1310684057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.28508,48.09722,85.28508,48.09722",
+    "geom:latitude":48.09722,
+    "geom:longitude":85.28508,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Staryy Kazakhstan",
+    "gn:country_code":"KZ",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522871,
+    "gn:latitude":48.09722,
+    "gn:longitude":85.28508,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Staryy Kazakhstan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kazakhstan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kazakhstan",
+        "Staryy Kazakhstan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522871
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cb4388393bac7f01161f99ab876714b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1310684057,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310684057,
+    "wof:lastmodified":1537659776,
+    "wof:name":"Staryy Kazakhstan",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.28508000000002,
+    48.09722,
+    85.28508000000002,
+    48.09722
+],
+  "geometry": {"coordinates":[85.28508000000002,48.09722],"type":"Point"}
+}

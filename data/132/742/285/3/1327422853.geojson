@@ -1,0 +1,76 @@
+{
+  "id": 1327422853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.6261,40.66021,68.6261,40.66021",
+    "geom:latitude":40.66021,
+    "geom:longitude":68.6261,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mayak",
+    "gn:country_code":"KZ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956085,
+    "gn:latitude":40.66021,
+    "gn:longitude":68.6261,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Mayak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Mayak"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0430\u044f\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Dikan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956085
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dfd9342fe8b8002301b3b0d5562abfa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1327422853,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1327422853,
+    "wof:lastmodified":1537660077,
+    "wof:name":"Mayak",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.6261,
+    40.66021,
+    68.6261,
+    40.66021
+],
+  "geometry": {"coordinates":[68.62609999999999,40.66021],"type":"Point"}
+}

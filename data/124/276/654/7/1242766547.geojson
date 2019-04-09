@@ -1,0 +1,72 @@
+{
+  "id": 1242766547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.52528,45.20611,67.52528,45.20611",
+    "geom:latitude":45.20611,
+    "geom:longitude":67.52528,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tayqongyr",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537857,
+    "gn:latitude":45.20611,
+    "gn:longitude":67.52528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tayqongyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taykonyr",
+        "Tayqongyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537857
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c6aac6ea6768fb7342b70c05b140a5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785599,
+            "locality_id":1242766547,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1242766547,
+    "wof:lastmodified":1537660018,
+    "wof:name":"Tayqongyr",
+    "wof:parent_id":1108785599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.52528000000001,
+    45.20611,
+    67.52528000000001,
+    45.20611
+],
+  "geometry": {"coordinates":[67.52528000000001,45.20611],"type":"Point"}
+}

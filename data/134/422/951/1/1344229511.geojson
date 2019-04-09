@@ -1,0 +1,70 @@
+{
+  "id": 1344229511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.56942,54.8671,70.56942,54.8671",
+    "geom:latitude":54.8671,
+    "geom:longitude":70.56942,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tishchenko",
+    "gn:country_code":"KZ",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530689,
+    "gn:latitude":54.8671,
+    "gn:longitude":70.56942,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Tishchenko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0449\u0435\u043d\u043a\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530689
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9a87b09303bdfa0d179c2dd9313e9b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1344229511,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1344229511,
+    "wof:lastmodified":1537659943,
+    "wof:name":"Tishchenko",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.56942,
+    54.8671,
+    70.56942,
+    54.8671
+],
+  "geometry": {"coordinates":[70.56941999999999,54.8671],"type":"Point"}
+}

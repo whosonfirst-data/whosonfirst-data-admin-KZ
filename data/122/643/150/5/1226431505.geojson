@@ -1,0 +1,70 @@
+{
+  "id": 1226431505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.9601,41.80334,69.9601,41.80334",
+    "geom:latitude":41.80334,
+    "geom:longitude":69.9601,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Buguchalpek",
+    "gn:country_code":"KZ",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1536936,
+    "gn:latitude":41.80334,
+    "gn:longitude":69.9601,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Buguchalpek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0433\u0443\u0447\u0430\u043b\u043f\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1536936
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3ab2e5f7cad23bbaa5e930a99cc3e890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1226431505,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226431505,
+    "wof:lastmodified":1537660008,
+    "wof:name":"Buguchalpek",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.9601,
+    41.80334000000001,
+    69.9601,
+    41.80334000000001
+],
+  "geometry": {"coordinates":[69.9601,41.80334000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309689497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.5141,50.20793,71.5141,50.20793",
+    "geom:latitude":50.20793,
+    "geom:longitude":71.5141,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kyzylshilik",
+    "gn:country_code":"KZ",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1483128,
+    "gn:latitude":50.20793,
+    "gn:longitude":71.5141,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kyzylshilik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1483128
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d88430e715a3082d4315baab8bb12d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785499,
+            "locality_id":1309689497,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1309689497,
+    "wof:lastmodified":1537095602,
+    "wof:name":"Kyzylshilik",
+    "wof:parent_id":1108785499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.5141,
+    50.20793,
+    71.5141,
+    50.20793
+],
+  "geometry": {"coordinates":[71.5141,50.20793],"type":"Point"}
+}

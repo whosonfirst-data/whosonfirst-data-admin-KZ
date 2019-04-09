@@ -1,0 +1,76 @@
+{
+  "id": 1293661717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.55444,53.07693,73.55444,53.07693",
+    "geom:latitude":53.07693,
+    "geom:longitude":73.55444,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zhaskayrat",
+    "gn:country_code":"KZ",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533637,
+    "gn:latitude":53.07693,
+    "gn:longitude":73.55444,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Zhaskayrat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhasqayrat"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u0441\u049b\u0430\u0439\u0440\u0430\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0441\u043a\u0430\u0439\u0440\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533637
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"401293c252b80ba82626c4e489d90101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785367,
+            "locality_id":1293661717,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293661717,
+    "wof:lastmodified":1537659978,
+    "wof:name":"Zhaskayrat",
+    "wof:parent_id":1108785367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.55444,
+    53.07693,
+    73.55444,
+    53.07693
+],
+  "geometry": {"coordinates":[73.55444,53.07693],"type":"Point"}
+}

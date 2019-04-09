@@ -1,0 +1,70 @@
+{
+  "id": 1309885997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.8138,49.79214,75.8138,49.79214",
+    "geom:latitude":49.79214,
+    "geom:longitude":75.8138,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kyzyltu",
+    "gn:country_code":"KZ",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11408206,
+    "gn:latitude":49.79214,
+    "gn:longitude":75.8138,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Kyzyltu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0442\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11408206
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e22f325a4473af4c578bd8b12a6ca924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1309885997,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1309885997,
+    "wof:lastmodified":1537660133,
+    "wof:name":"Kyzyltu",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.8138,
+    49.79214,
+    75.8138,
+    49.79214
+],
+  "geometry": {"coordinates":[75.8138,49.79214],"type":"Point"}
+}

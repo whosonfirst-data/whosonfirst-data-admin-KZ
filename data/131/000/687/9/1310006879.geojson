@@ -1,0 +1,71 @@
+{
+  "id": 1310006879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.86667,50.56667,54.86667,50.56667",
+    "geom:latitude":50.56667,
+    "geom:longitude":54.86667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kopty",
+    "gn:country_code":"KZ",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609266,
+    "gn:latitude":50.56667,
+    "gn:longitude":54.86667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kopty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kopli",
+        "Kopty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609266
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5b38c7bd8d4fa6fa6799a47ccd1774ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785491,
+            "locality_id":1310006879,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1310006879,
+    "wof:lastmodified":1537659405,
+    "wof:name":"Kopty",
+    "wof:parent_id":1108785491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.86666999999999,
+    50.56667,
+    54.86666999999999,
+    50.56667
+],
+  "geometry": {"coordinates":[54.86666999999999,50.56667],"type":"Point"}
+}

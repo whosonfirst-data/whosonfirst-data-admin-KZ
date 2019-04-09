@@ -1,0 +1,70 @@
+{
+  "id": 1193256449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.59,53.83394,75.59,53.83394",
+    "geom:latitude":53.83394,
+    "geom:longitude":75.59,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tursumbay",
+    "gn:country_code":"KZ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10988328,
+    "gn:latitude":53.83394,
+    "gn:longitude":75.59,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Tursumbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u0441\u0443\u043c\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10988328
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"28509eb6f77890f8596e122861e47bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785349,
+            "locality_id":1193256449,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1193256449,
+    "wof:lastmodified":1537660088,
+    "wof:name":"Tursumbay",
+    "wof:parent_id":1108785349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.59,
+    53.83394000000001,
+    75.59,
+    53.83394000000001
+],
+  "geometry": {"coordinates":[75.59,53.83394000000001],"type":"Point"}
+}

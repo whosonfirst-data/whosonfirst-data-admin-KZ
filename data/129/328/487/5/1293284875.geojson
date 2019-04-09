@@ -1,0 +1,67 @@
+{
+  "id": 1293284875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.8,47.35,52.8,47.35",
+    "geom:latitude":47.35,
+    "geom:longitude":52.8,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Karabatan",
+    "gn:country_code":"KZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609683,
+    "gn:latitude":47.35,
+    "gn:longitude":52.8,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Karabatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609683
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b5e9226d91e672dc1b1af845c0ed950a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785455,
+            "locality_id":1293284875,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1293284875,
+    "wof:lastmodified":1537076012,
+    "wof:name":"Karabatan",
+    "wof:parent_id":1108785455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.8,
+    47.35,
+    52.8,
+    47.35
+],
+  "geometry": {"coordinates":[52.8,47.35],"type":"Point"}
+}

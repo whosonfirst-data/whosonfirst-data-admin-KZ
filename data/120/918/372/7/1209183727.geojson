@@ -1,0 +1,80 @@
+{
+  "id": 1209183727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.72634,53.27644,66.72634,53.27644",
+    "geom:latitude":53.27644,
+    "geom:longitude":66.72634,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Chervonnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524809,
+    "gn:latitude":53.27644,
+    "gn:longitude":66.72634,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Chervonnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chervonnoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Chervonnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0427\u0435\u0440\u0432\u043e\u043d\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u043e\u043d\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Chervonyy",
+        "Chervonnyy",
+        "Chervonnaya",
+        "Chervonnoye",
+        "Sovkhoz Chervonnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524809
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3c09ba6b704854246c92cc2f1a71e654",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209183727
+        }
+    ],
+    "wof:id":1209183727,
+    "wof:lastmodified":1537659849,
+    "wof:name":"Chervonnoye",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.72634000000001,
+    53.27644,
+    66.72634000000001,
+    53.27644
+],
+  "geometry": {"coordinates":[66.72634000000001,53.27644],"type":"Point"}
+}

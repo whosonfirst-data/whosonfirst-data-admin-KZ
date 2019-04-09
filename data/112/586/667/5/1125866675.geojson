@@ -1,0 +1,87 @@
+{
+  "id": 1125866675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3615,50.93112,81.3615,50.93112",
+    "geom:latitude":50.93112,
+    "geom:longitude":81.3615,
+    "gn:gn_country":"KZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8896,
+    "gn:population":8896,
+    "iso:country":"KZ",
+    "lbl:latitude":50.93112,
+    "lbl:longitude":81.3615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Zhezkent"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0435\u0437\u043a\u0435\u043d\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u0437\u043a\u0435\u043d\u0442"
+    ],
+    "qs_pg:aaroncc":"KZ",
+    "qs_pg:gn_country":"KZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1516590,
+    "qs_pg:gn_pop":8896,
+    "qs_pg:name":"Zhezkent",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":133117,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516590,
+        "qs_pg:id":133117
+    },
+    "wof:country":"KZ",
+    "wof:created":1497294077,
+    "wof:geomhash":"79aad519d41a01b1791d8fdf4c0d8f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1125866675,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1125866675,
+    "wof:lastmodified":1509397029,
+    "wof:name":"Zhezkent",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:population":8896,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3615,
+    50.93112,
+    81.3615,
+    50.93112
+],
+  "geometry": {"coordinates":[81.36150000000001,50.93112],"type":"Point"}
+}

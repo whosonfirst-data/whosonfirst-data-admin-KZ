@@ -1,0 +1,85 @@
+{
+  "id": 1226511939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.15222,53.63027,69.15222,53.63027",
+    "geom:latitude":53.63027,
+    "geom:longitude":69.15222,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gor'koye",
+    "gn:country_code":"KZ",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524041,
+    "gn:latitude":53.63027,
+    "gn:longitude":69.15222,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Gor\u2019koye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gor'koye"
+    ],
+    "name:kaz_x_preferred":[
+        "Gor\u2019koe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0413\u043e\u0440\u044c\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u044c\u043a\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "Gor\u2019koye"
+    ],
+    "name:und_x_variant":[
+        "Imeni Gor\u2019kogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524041
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8987fdc51d00da964c5f0f91dc044191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1226511939,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226511939,
+    "wof:lastmodified":1537659816,
+    "wof:name":"Gor'koye",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.15222,
+    53.63027,
+    69.15222,
+    53.63027
+],
+  "geometry": {"coordinates":[69.15222,53.63027],"type":"Point"}
+}

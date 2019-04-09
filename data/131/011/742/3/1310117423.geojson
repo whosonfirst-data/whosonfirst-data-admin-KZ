@@ -1,0 +1,79 @@
+{
+  "id": 1310117423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.01902,52.06189,72.01902,52.06189",
+    "geom:latitude":52.06189,
+    "geom:longitude":72.01902,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Iskra",
+    "gn:country_code":"KZ",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523746,
+    "gn:latitude":52.06189,
+    "gn:longitude":72.01902,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Iskra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Iskra"
+    ],
+    "name:kaz_x_preferred":[
+        "\u012askra"
+    ],
+    "name:kaz_x_variant":[
+        "\u0418\u0441\u043a\u0440\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u043a\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523746
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"63bea9d1e238fd6141920264b2a72f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1310117423,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310117423,
+    "wof:lastmodified":1537659805,
+    "wof:name":"Iskra",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.01902,
+    52.06189000000001,
+    72.01902,
+    52.06189000000001
+],
+  "geometry": {"coordinates":[72.01902,52.06189000000001],"type":"Point"}
+}

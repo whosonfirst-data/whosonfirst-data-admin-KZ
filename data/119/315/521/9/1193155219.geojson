@@ -1,0 +1,67 @@
+{
+  "id": 1193155219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.09663,50.35752,70.09663,50.35752",
+    "geom:latitude":50.35752,
+    "geom:longitude":70.09663,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhapalak",
+    "gn:country_code":"KZ",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516759,
+    "gn:latitude":50.35752,
+    "gn:longitude":70.09663,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zhapalak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516759
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bd5a4cfb8353f6e74954d18441d758b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785395,
+            "locality_id":1193155219,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1193155219,
+    "wof:lastmodified":1536373965,
+    "wof:name":"Zhapalak",
+    "wof:parent_id":1108785395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.09663,
+    50.35752,
+    70.09663,
+    50.35752
+],
+  "geometry": {"coordinates":[70.09663,50.35752],"type":"Point"}
+}

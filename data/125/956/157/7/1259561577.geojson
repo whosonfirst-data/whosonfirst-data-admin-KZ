@@ -1,0 +1,70 @@
+{
+  "id": 1259561577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.63063,50.65602,74.63063,50.65602",
+    "geom:latitude":50.65602,
+    "geom:longitude":74.63063,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Keregetas",
+    "gn:country_code":"KZ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11141112,
+    "gn:latitude":50.65602,
+    "gn:longitude":74.63063,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Keregetas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u0435\u0433\u0435\u0442\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11141112
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"95ea8a6b94ba28eba0b82916f049a7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1259561577,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259561577,
+    "wof:lastmodified":1537660119,
+    "wof:name":"Keregetas",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.63063000000002,
+    50.65602,
+    74.63063000000002,
+    50.65602
+],
+  "geometry": {"coordinates":[74.63063000000002,50.65602],"type":"Point"}
+}

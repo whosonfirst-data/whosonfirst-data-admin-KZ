@@ -1,0 +1,76 @@
+{
+  "id": 890420641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.5821,49.7105,81.5821,49.7105",
+    "geom:latitude":49.7105,
+    "geom:longitude":81.5821,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":4209,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00c4\u016bezov"
+    ],
+    "name:kaz_x_preferred":[
+        "\u04d8\u0443\u0435\u0437\u043e\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0443\u044d\u0437\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Bakyrchik"
+    ],
+    "qs:name":"Bakyrshik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526021,
+        "gp:id":2260737,
+        "qs:id":1031843
+    },
+    "wof:country":"KZ",
+    "wof:created":1469051355,
+    "wof:geomhash":"703e6c2c8f62685bc97f463ceb70d5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890420641,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":890420641,
+    "wof:lastmodified":1505343458,
+    "wof:name":"Bakyrshik",
+    "wof:parent_id":85672915,
+    "wof:placetype":"locality",
+    "wof:population":4209,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.5821,
+    49.7105,
+    81.5821,
+    49.7105
+],
+  "geometry": {"coordinates":[81.5821,49.7105],"type":"Point"}
+}

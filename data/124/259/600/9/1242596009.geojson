@@ -1,0 +1,67 @@
+{
+  "id": 1242596009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.15418,45.676,80.15418,45.676",
+    "geom:latitude":45.676,
+    "geom:longitude":80.15418,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Agartu",
+    "gn:country_code":"KZ",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526933,
+    "gn:latitude":45.676,
+    "gn:longitude":80.15418,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Agartu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526933
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f082bd51f0cb31ad1783765a2f188eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785417,
+            "locality_id":1242596009,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1242596009,
+    "wof:lastmodified":1537035569,
+    "wof:name":"Agartu",
+    "wof:parent_id":1108785417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.15418000000003,
+    45.676,
+    80.15418000000003,
+    45.676
+],
+  "geometry": {"coordinates":[80.15418000000003,45.676],"type":"Point"}
+}

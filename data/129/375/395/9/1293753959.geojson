@@ -1,0 +1,70 @@
+{
+  "id": 1293753959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.24638,49.50793,85.24638,49.50793",
+    "geom:latitude":49.50793,
+    "geom:longitude":85.24638,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Seredchikha",
+    "gn:country_code":"KZ",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534742,
+    "gn:latitude":49.50793,
+    "gn:longitude":85.24638,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Seredchikha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0435\u0434\u0447\u0438\u0445\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534742
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4ad90b08d2ed7ef3d2dbf6aa047064d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1293753959,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293753959,
+    "wof:lastmodified":1537659985,
+    "wof:name":"Seredchikha",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.24638,
+    49.50793,
+    85.24638,
+    49.50793
+],
+  "geometry": {"coordinates":[85.24638,49.50793],"type":"Point"}
+}

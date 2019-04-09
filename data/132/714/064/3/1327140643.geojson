@@ -1,0 +1,73 @@
+{
+  "id": 1327140643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.34662,49.81789,57.34662,49.81789",
+    "geom:latitude":49.81789,
+    "geom:longitude":57.34662,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tamdy",
+    "gn:country_code":"KZ",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608101,
+    "gn:latitude":49.81789,
+    "gn:longitude":57.34662,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tamdy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tamdy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608101
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"baf8ce1dfb2fcf57283364499246866d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785521,
+            "locality_id":1327140643,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1327140643,
+    "wof:lastmodified":1537659360,
+    "wof:name":"Tamdy",
+    "wof:parent_id":1108785521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.34662,
+    49.81789000000001,
+    57.34662,
+    49.81789000000001
+],
+  "geometry": {"coordinates":[57.34662,49.81789000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226157637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.6648,50.4239,79.6648,50.4239",
+    "geom:latitude":50.4239,
+    "geom:longitude":79.6648,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Taldy",
+    "gn:country_code":"KZ",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518586,
+    "gn:latitude":50.4239,
+    "gn:longitude":79.6648,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Taldy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Taldy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518586
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"56c9937e28c46d9cd8fa7ebe9a8a5afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1226157637,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226157637,
+    "wof:lastmodified":1537659566,
+    "wof:name":"Taldy",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.6648,
+    50.4239,
+    79.6648,
+    50.4239
+],
+  "geometry": {"coordinates":[79.6648,50.4239],"type":"Point"}
+}

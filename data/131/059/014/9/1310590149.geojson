@@ -1,0 +1,70 @@
+{
+  "id": 1310590149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.54224,40.63062,68.54224,40.63062",
+    "geom:latitude":40.63062,
+    "geom:longitude":68.54224,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kommunizm",
+    "gn:country_code":"KZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522363,
+    "gn:latitude":40.63062,
+    "gn:longitude":68.54224,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Kommunizm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Jantoqsoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522363
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cb7bfccf2d06e9df65ea86df99e58e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1310590149,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1310590149,
+    "wof:lastmodified":1537659755,
+    "wof:name":"Kommunizm",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.54224,
+    40.63062,
+    68.54224,
+    40.63062
+],
+  "geometry": {"coordinates":[68.54224000000001,40.63062],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1293307001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.01667,43.16667,79.01667,43.16667",
+    "geom:latitude":43.16667,
+    "geom:longitude":79.01667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Uzynbulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":1487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517238,
+    "gn:latitude":43.16667,
+    "gn:longitude":79.01667,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Uzynbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Uzynbulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u04b0\u0437\u044b\u043d\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u0443\u043d\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Uzunbulak",
+        "Yenbek",
+        "Uzynbulak",
+        "Imbek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517238
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"480879a0131ed807848ad4e8331645bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1293307001,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293307001,
+    "wof:lastmodified":1537659507,
+    "wof:name":"Uzynbulaq",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.01666999999998,
+    43.16667,
+    79.01666999999998,
+    43.16667
+],
+  "geometry": {"coordinates":[79.01666999999998,43.16667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243468469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.56557,43.35239,79.56557,43.35239",
+    "geom:latitude":43.35239,
+    "geom:longitude":79.56557,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Malyy Aksu",
+    "gn:country_code":"KZ",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871300,
+    "gn:latitude":43.35239,
+    "gn:longitude":79.56557,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Malyy Aksu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0439 \u0410\u043a\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871300
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8579a974647bbc0f204a5214e67411e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785425,
+            "locality_id":1243468469,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1243468469,
+    "wof:lastmodified":1537660072,
+    "wof:name":"Malyy Aksu",
+    "wof:parent_id":1108785425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.56557,
+    43.35239,
+    79.56557,
+    43.35239
+],
+  "geometry": {"coordinates":[79.56556999999999,43.35239],"type":"Point"}
+}

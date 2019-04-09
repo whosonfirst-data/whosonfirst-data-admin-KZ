@@ -1,0 +1,77 @@
+{
+  "id": 1327204393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.64904,49.97662,79.64904,49.97662",
+    "geom:latitude":49.97662,
+    "geom:longitude":79.64904,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Brusilovka",
+    "gn:country_code":"KZ",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525063,
+    "gn:latitude":49.97662,
+    "gn:longitude":79.64904,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Brusilovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Br\u016bs\u012blovsk\u012by"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0443\u0441\u0438\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Br\u016bs\u012blovsk\u012by",
+        "Brusilovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525063
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d77a8cc725c60240f882200da3803b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1327204393,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327204393,
+    "wof:lastmodified":1537659860,
+    "wof:name":"Brusilovka",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.64904,
+    49.97662,
+    79.64904,
+    49.97662
+],
+  "geometry": {"coordinates":[79.64904,49.97662],"type":"Point"}
+}

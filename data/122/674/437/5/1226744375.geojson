@@ -1,0 +1,76 @@
+{
+  "id": 1226744375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.42693,49.995,51.42693,49.995",
+    "geom:latitude":49.995,
+    "geom:longitude":51.42693,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kengsuat",
+    "gn:country_code":"KZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609437,
+    "gn:latitude":49.995,
+    "gn:longitude":51.42693,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kengsuat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kensuat"
+    ],
+    "name:kaz_x_preferred":[
+        "Kengsuat"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0441\u0443\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609437
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"60868b8a088399aac1d1f678df52b358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1226744375,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226744375,
+    "wof:lastmodified":1537659412,
+    "wof:name":"Kengsuat",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.42693,
+    49.995,
+    51.42693,
+    49.995
+],
+  "geometry": {"coordinates":[51.42693,49.995],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242956609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.28928,46.37672,62.28928,46.37672",
+    "geom:latitude":46.37672,
+    "geom:longitude":62.28928,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sholkum",
+    "gn:country_code":"KZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11406288,
+    "gn:latitude":46.37672,
+    "gn:longitude":62.28928,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Sholkum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sh\u00f6lqum"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u04e9\u043b\u049b\u04b1\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043b\u043a\u0443\u043c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11406288
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d2af36b44fc80f38c9b0ae539dcd8770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785613,
+            "locality_id":1242956609,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1242956609,
+    "wof:lastmodified":1537660132,
+    "wof:name":"Sholkum",
+    "wof:parent_id":1108785613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.28928000000001,
+    46.37672,
+    62.28928000000001,
+    46.37672
+],
+  "geometry": {"coordinates":[62.28928000000001,46.37672],"type":"Point"}
+}

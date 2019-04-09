@@ -1,0 +1,83 @@
+{
+  "id": 1310677373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.69148,52.38669,61.69148,52.38669",
+    "geom:latitude":52.38669,
+    "geom:longitude":61.69148,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Grishenka",
+    "gn:country_code":"KZ",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524176,
+    "gn:latitude":52.38669,
+    "gn:longitude":61.69148,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Grishenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Grishinskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "Gr\u012bshenka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0413\u0440\u0438\u0448\u0435\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0448\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Grishinskiy",
+        "Grishenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524176
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b12182e318b3f24112e093cafd732dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785661,
+            "locality_id":1310677373,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310677373,
+    "wof:lastmodified":1537659822,
+    "wof:name":"Grishenka",
+    "wof:parent_id":1108785661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.69148000000001,
+    52.38669,
+    61.69148000000001,
+    52.38669
+],
+  "geometry": {"coordinates":[61.69148000000001,52.38669],"type":"Point"}
+}

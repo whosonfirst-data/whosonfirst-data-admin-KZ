@@ -1,0 +1,67 @@
+{
+  "id": 1360103029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.32308,47.91181,83.32308,47.91181",
+    "geom:latitude":47.91181,
+    "geom:longitude":83.32308,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Burkhanka",
+    "gn:country_code":"KZ",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524980,
+    "gn:latitude":47.91181,
+    "gn:longitude":83.32308,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Burkhanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524980
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"78a931f66419c7bbaa1276dd1a82b5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785469,
+            "locality_id":1360103029,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1360103029,
+    "wof:lastmodified":1536920378,
+    "wof:name":"Burkhanka",
+    "wof:parent_id":1108785469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.32308,
+    47.91181,
+    83.32308,
+    47.91181
+],
+  "geometry": {"coordinates":[83.32308,47.91181],"type":"Point"}
+}

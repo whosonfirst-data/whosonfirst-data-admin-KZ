@@ -1,0 +1,77 @@
+{
+  "id": 1276672501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.80969,48.81122,83.80969,48.81122",
+    "geom:latitude":48.81122,
+    "geom:longitude":83.80969,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Qaynar",
+    "gn:country_code":"KZ",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519929,
+    "gn:latitude":48.81122,
+    "gn:longitude":83.80969,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Qaynar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qaynar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0433\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sergeyevka",
+        "Qaynar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519929
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6d3f30ec8ba512e13930a9ad81183173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1276672501,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276672501,
+    "wof:lastmodified":1537659625,
+    "wof:name":"Qaynar",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.80969,
+    48.81122,
+    83.80969,
+    48.81122
+],
+  "geometry": {"coordinates":[83.80969,48.81122],"type":"Point"}
+}

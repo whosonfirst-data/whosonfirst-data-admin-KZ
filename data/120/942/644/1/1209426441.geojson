@@ -1,0 +1,67 @@
+{
+  "id": 1209426441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.56788,53.23318,71.56788,53.23318",
+    "geom:latitude":53.23318,
+    "geom:longitude":71.56788,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Aray",
+    "gn:country_code":"KZ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11146410,
+    "gn:latitude":53.23318,
+    "gn:longitude":71.56788,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Aray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aray"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0440\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11146410
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2f83dcf5cddcec3f2e7663ede1f13175",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209426441
+        }
+    ],
+    "wof:id":1209426441,
+    "wof:lastmodified":1537660122,
+    "wof:name":"Aray",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.56788,
+    53.23318,
+    71.56788,
+    53.23318
+],
+  "geometry": {"coordinates":[71.56788,53.23318],"type":"Point"}
+}

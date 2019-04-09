@@ -1,0 +1,80 @@
+{
+  "id": 1293467945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.34971,52.53119,78.34971,52.53119",
+    "geom:latitude":52.53119,
+    "geom:longitude":78.34971,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nazarovka",
+    "gn:country_code":"KZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520727,
+    "gn:latitude":52.53119,
+    "gn:longitude":78.34971,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Nazarovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nazarovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0430\u0437\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0437\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Nazarovskiy",
+        "Nazarovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520727
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a57164628d2a517e6b534081f4279dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1293467945,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1293467945,
+    "wof:lastmodified":1537659678,
+    "wof:name":"Nazarovka",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.34971,
+    52.53119,
+    78.34971,
+    52.53119
+],
+  "geometry": {"coordinates":[78.34971,52.53119],"type":"Point"}
+}

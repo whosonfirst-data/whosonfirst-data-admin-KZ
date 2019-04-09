@@ -1,0 +1,73 @@
+{
+  "id": 1343332083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1875,50.43998,80.1875,50.43998",
+    "geom:latitude":50.43998,
+    "geom:longitude":80.1875,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dachnyy Poselok",
+    "gn:country_code":"KZ",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1483568,
+    "gn:latitude":50.43998,
+    "gn:longitude":80.1875,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Dachnyy Pos\u00eblok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dachnyy Pos\u00eblok"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0430\u0447\u043d\u044b\u0439 \u041f\u043e\u0441\u0451\u043b\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1483568
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7d8781dc742ad360816802cef601ab48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1343332083,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343332083,
+    "wof:lastmodified":1537659462,
+    "wof:name":"Dachnyy Poselok",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1875,
+    50.43998,
+    80.1875,
+    50.43998
+],
+  "geometry": {"coordinates":[80.1875,50.43998],"type":"Point"}
+}

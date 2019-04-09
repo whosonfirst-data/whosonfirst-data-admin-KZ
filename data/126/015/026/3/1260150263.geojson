@@ -1,0 +1,79 @@
+{
+  "id": 1260150263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.67438,53.96186,67.67438,53.96186",
+    "geom:latitude":53.96186,
+    "geom:longitude":67.67438,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kokterek",
+    "gn:country_code":"KZ",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532179,
+    "gn:latitude":53.96186,
+    "gn:longitude":67.67438,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kokterek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kokterek"
+    ],
+    "name:kaz_x_preferred":[
+        "K\u00f6kterek"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u04e9\u043a\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532179
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0fbde6cb78cd96bf451eb6c33df257d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1260150263,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1260150263,
+    "wof:lastmodified":1537659960,
+    "wof:name":"Kokterek",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.67438,
+    53.96186,
+    67.67438,
+    53.96186
+],
+  "geometry": {"coordinates":[67.67438,53.96186],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1276967489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.9651,53.7516,74.9651,53.7516",
+    "geom:latitude":53.7516,
+    "geom:longitude":74.9651,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Severnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519370,
+    "gn:latitude":53.7516,
+    "gn:longitude":74.9651,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Severnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Severnoe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Severnyy",
+        "Severnoye",
+        "Severnoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519370
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dc9a4224148cf84209497c9c8c1f0142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1276967489,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1276967489,
+    "wof:lastmodified":1537659603,
+    "wof:name":"Severnoye",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.9651,
+    53.7516,
+    74.9651,
+    53.7516
+],
+  "geometry": {"coordinates":[74.96510000000001,53.7516],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1243038273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.58777,50.32814,82.58777,50.32814",
+    "geom:latitude":50.32814,
+    "geom:longitude":82.58777,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sekisovka",
+    "gn:country_code":"KZ",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519439,
+    "gn:latitude":50.32814,
+    "gn:longitude":82.58777,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Sekisovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sekisovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Sek\u012bsovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0435\u043a\u0438\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043a\u0438\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sekisovskoye",
+        "Sekisovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519439
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e8c11964a7c653330bd7c8d0805dbd19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785307,
+            "locality_id":1243038273,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243038273,
+    "wof:lastmodified":1537659607,
+    "wof:name":"Sekisovka",
+    "wof:parent_id":1108785307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.58776999999998,
+    50.32814000000001,
+    82.58776999999998,
+    50.32814000000001
+],
+  "geometry": {"coordinates":[82.58776999999998,50.32814000000001],"type":"Point"}
+}

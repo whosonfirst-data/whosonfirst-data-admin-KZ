@@ -1,0 +1,80 @@
+{
+  "id": 1343850657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.27944,47.81861,47.27944,47.81861",
+    "geom:latitude":47.81861,
+    "geom:longitude":47.27944,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Konyrterek",
+    "gn:country_code":"KZ",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609290,
+    "gn:latitude":47.81861,
+    "gn:longitude":47.27944,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Konyrterek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Konyrterek"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u044b\u0440\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Yekpindykurylys",
+        "Yekpyndykurylys",
+        "Yekpendekurlus",
+        "Yekpynbykurylys",
+        "Konyrterek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609290
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1475652622419d8e859bf7d69ceff08c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1343850657,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1343850657,
+    "wof:lastmodified":1537659406,
+    "wof:name":"Konyrterek",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.27944,
+    47.81861,
+    47.27944,
+    47.81861
+],
+  "geometry": {"coordinates":[47.27944,47.81861],"type":"Point"}
+}

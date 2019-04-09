@@ -1,0 +1,70 @@
+{
+  "id": 1209502149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.54188,50.07163,73.54188,50.07163",
+    "geom:latitude":50.07163,
+    "geom:longitude":73.54188,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sartobe",
+    "gn:country_code":"KZ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11452118,
+    "gn:latitude":50.07163,
+    "gn:longitude":73.54188,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Sartobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sart\u00f6be"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0430\u0440\u0442\u04e9\u0431\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0442\u043e\u0431\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11452118
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d0688a896d148572d8a6fbc46f9e4353",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209502149
+        }
+    ],
+    "wof:id":1209502149,
+    "wof:lastmodified":1537660154,
+    "wof:name":"Sartobe",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.54188,
+    50.07163,
+    73.54188,
+    50.07163
+],
+  "geometry": {"coordinates":[73.54188000000001,50.07163],"type":"Point"}
+}

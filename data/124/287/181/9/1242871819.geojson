@@ -1,0 +1,71 @@
+{
+  "id": 1242871819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.61667,47.01667,50.61667,47.01667",
+    "geom:latitude":47.01667,
+    "geom:longitude":50.61667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhangaly",
+    "gn:country_code":"KZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607612,
+    "gn:latitude":47.01667,
+    "gn:longitude":50.61667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Zhangaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhangali",
+        "Zhangaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607612
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"491d436f5040a00e61e16a1899df2677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785449,
+            "locality_id":1242871819,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1242871819,
+    "wof:lastmodified":1537659343,
+    "wof:name":"Zhangaly",
+    "wof:parent_id":1108785449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.61667,
+    47.01667,
+    50.61667,
+    47.01667
+],
+  "geometry": {"coordinates":[50.61667,47.01667],"type":"Point"}
+}

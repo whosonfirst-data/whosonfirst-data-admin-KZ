@@ -1,0 +1,73 @@
+{
+  "id": 1326606493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.86561,54.65887,65.86561,54.65887",
+    "geom:latitude":54.65887,
+    "geom:longitude":65.86561,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pochinovka",
+    "gn:country_code":"KZ",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11416868,
+    "gn:latitude":54.65887,
+    "gn:longitude":65.86561,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Pochinovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Poch\u012bnovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u043e\u0447\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11416868
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"18341e5a36a9e66f538d38c0e763c3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1326606493,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1326606493,
+    "wof:lastmodified":1537660144,
+    "wof:name":"Pochinovka",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.86561,
+    54.65886999999999,
+    65.86561,
+    54.65886999999999
+],
+  "geometry": {"coordinates":[65.86561,54.65886999999999],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243343579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.41667,48.85,67.41667,48.85",
+    "geom:latitude":48.85,
+    "geom:longitude":67.41667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Los'",
+    "gn:country_code":"KZ",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521302,
+    "gn:latitude":48.85,
+    "gn:longitude":67.41667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Los\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521302
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d80bc1a2b092250999f76aef95f1fc31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785515,
+            "locality_id":1243343579,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1243343579,
+    "wof:lastmodified":1536954015,
+    "wof:name":"Los'",
+    "wof:parent_id":1108785515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.41667,
+    48.85,
+    67.41667,
+    48.85
+],
+  "geometry": {"coordinates":[67.41667,48.85],"type":"Point"}
+}

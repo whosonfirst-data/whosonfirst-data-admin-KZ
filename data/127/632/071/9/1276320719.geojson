@@ -1,0 +1,79 @@
+{
+  "id": 1276320719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.63639,48.77724,72.63639,48.77724",
+    "geom:latitude":48.77724,
+    "geom:longitude":72.63639,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Erkindik",
+    "gn:country_code":"KZ",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11408743,
+    "gn:latitude":48.77724,
+    "gn:longitude":72.63639,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Erkindik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Erkindik"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u0440\u043a\u0456\u043d\u0434\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0440\u043a\u0438\u043d\u0434\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Yerkindik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11408743
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"688ef32c12f4ebba3be3c6e51325eaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1276320719,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1276320719,
+    "wof:lastmodified":1537660133,
+    "wof:name":"Erkindik",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.63639,
+    48.77724,
+    72.63639,
+    48.77724
+],
+  "geometry": {"coordinates":[72.63639000000001,48.77724],"type":"Point"}
+}

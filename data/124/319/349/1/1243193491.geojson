@@ -1,0 +1,77 @@
+{
+  "id": 1243193491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.39422,49.72683,48.39422,49.72683",
+    "geom:latitude":49.72683,
+    "geom:longitude":48.39422,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mereke",
+    "gn:country_code":"KZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609813,
+    "gn:latitude":49.72683,
+    "gn:longitude":48.39422,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mereke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mereke"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0440\u0435\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Imeni Molotova",
+        "Mereke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609813
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a019430e905a8a3bde3d284c29202c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1243193491,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1243193491,
+    "wof:lastmodified":1537659423,
+    "wof:name":"Mereke",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.39422,
+    49.72683,
+    48.39422,
+    49.72683
+],
+  "geometry": {"coordinates":[48.39422,49.72683],"type":"Point"}
+}

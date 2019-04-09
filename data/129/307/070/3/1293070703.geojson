@@ -1,0 +1,79 @@
+{
+  "id": 1293070703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.88689,53.83289,67.88689,53.83289",
+    "geom:latitude":53.83289,
+    "geom:longitude":67.88689,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zhanasu",
+    "gn:country_code":"KZ",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532186,
+    "gn:latitude":53.83289,
+    "gn:longitude":67.88689,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Zhanasu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhanasu"
+    ],
+    "name:kaz_x_preferred":[
+        "Zhangas\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430\u0441\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532186
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"93d1d73e68e7395770cb6c75c648d112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1293070703,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293070703,
+    "wof:lastmodified":1537659961,
+    "wof:name":"Zhanasu",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.88689000000001,
+    53.83289,
+    67.88689000000001,
+    53.83289
+],
+  "geometry": {"coordinates":[67.88689000000001,53.83289],"type":"Point"}
+}

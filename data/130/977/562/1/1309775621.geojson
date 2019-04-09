@@ -1,0 +1,79 @@
+{
+  "id": 1309775621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.24137,53.50307,67.24137,53.50307",
+    "geom:latitude":53.50307,
+    "geom:longitude":67.24137,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Afanas'yevka",
+    "gn:country_code":"KZ",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526944,
+    "gn:latitude":53.50307,
+    "gn:longitude":67.24137,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Afanas\u2019yevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Afanas\u2019evka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Afanas\u2019yevka"
+    ],
+    "name:rus_x_variant":[
+        "Sovkhoz Afanas\u2019yevskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526944
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0063130c90d6d91410561b9686410dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1309775621,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1309775621,
+    "wof:lastmodified":1537659930,
+    "wof:name":"Afanas'yevka",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.24136999999999,
+    53.50307,
+    67.24136999999999,
+    53.50307
+],
+  "geometry": {"coordinates":[67.24136999999999,53.50307],"type":"Point"}
+}

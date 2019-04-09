@@ -1,0 +1,79 @@
+{
+  "id": 1327397523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.81285,43.24566,74.81285,43.24566",
+    "geom:latitude":43.24566,
+    "geom:longitude":74.81285,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kyzyltas",
+    "gn:country_code":"KZ",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8219995,
+    "gn:latitude":43.24566,
+    "gn:longitude":74.81285,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Kyzyltas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyzyltas"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u0442\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0442\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Ferma Numer Tri Sovkhoza Kirovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8219995
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5bc761f0920379504cba3bd3875eefcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785317,
+            "locality_id":1327397523,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1327397523,
+    "wof:lastmodified":1537660040,
+    "wof:name":"Kyzyltas",
+    "wof:parent_id":1108785317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.81285,
+    43.24566,
+    74.81285,
+    43.24566
+],
+  "geometry": {"coordinates":[74.81285,43.24566],"type":"Point"}
+}

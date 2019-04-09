@@ -1,0 +1,74 @@
+{
+  "id": 1360286079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.20385,50.84667,56.20385,50.84667",
+    "geom:latitude":50.84667,
+    "geom:longitude":56.20385,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yaysan",
+    "gn:country_code":"KZ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607751,
+    "gn:latitude":50.84667,
+    "gn:longitude":56.20385,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Yaysan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhaysang"
+    ],
+    "name:und_x_variant":[
+        "Yaisan",
+        "Yaysan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607751
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0c4f28d332ce4d39831715441df835fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785323,
+            "locality_id":1360286079,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1360286079,
+    "wof:lastmodified":1537659349,
+    "wof:name":"Yaysan",
+    "wof:parent_id":1108785323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.20385,
+    50.84667,
+    56.20385,
+    50.84667
+],
+  "geometry": {"coordinates":[56.20385,50.84667],"type":"Point"}
+}

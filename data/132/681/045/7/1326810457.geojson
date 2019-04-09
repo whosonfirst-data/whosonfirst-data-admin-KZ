@@ -1,0 +1,76 @@
+{
+  "id": 1326810457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.05527,48.06176,77.05527,48.06176",
+    "geom:latitude":48.06176,
+    "geom:longitude":77.05527,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Amirsana",
+    "gn:country_code":"KZ",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11412642,
+    "gn:latitude":48.06176,
+    "gn:longitude":77.05527,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Amirsana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u00c4mirsana"
+    ],
+    "name:kaz_x_variant":[
+        "\u04d8\u043c\u0456\u0440\u0441\u0430\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0438\u0440\u0441\u0430\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11412642
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"15e7bce5888bf0dad7d224a758a5723c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1326810457,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1326810457,
+    "wof:lastmodified":1537660138,
+    "wof:name":"Amirsana",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.05527,
+    48.06176,
+    77.05527,
+    48.06176
+],
+  "geometry": {"coordinates":[77.05526999999999,48.06176],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326603775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.21667,45.71667,62.21667,45.71667",
+    "geom:latitude":45.71667,
+    "geom:longitude":62.21667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Avangard",
+    "gn:country_code":"KZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525997,
+    "gn:latitude":45.71667,
+    "gn:longitude":62.21667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Avangard",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abay",
+        "Avangard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525997
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e85656598daaf45e1b4b66088ea81eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785613,
+            "locality_id":1326603775,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1326603775,
+    "wof:lastmodified":1537659899,
+    "wof:name":"Avangard",
+    "wof:parent_id":1108785613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.21666999999999,
+    45.71667,
+    62.21666999999999,
+    45.71667
+],
+  "geometry": {"coordinates":[62.21666999999999,45.71667],"type":"Point"}
+}

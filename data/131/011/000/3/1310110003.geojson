@@ -1,0 +1,82 @@
+{
+  "id": 1310110003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.26122,43.62952,77.26122,43.62952",
+    "geom:latitude":43.62952,
+    "geom:longitude":77.26122,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ostemir",
+    "gn:country_code":"KZ",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10310642,
+    "gn:latitude":43.62952,
+    "gn:longitude":77.26122,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Ostemir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "M\u012brnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0438\u0440\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0435\u043c\u0438\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u0440\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Mirnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10310642
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3d69c9aa1e6cf671dd6e0df1e1a22c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785421,
+            "locality_id":1310110003,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1310110003,
+    "wof:lastmodified":1537660045,
+    "wof:name":"Ostemir",
+    "wof:parent_id":1108785421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.26122,
+    43.62952,
+    77.26122,
+    43.62952
+],
+  "geometry": {"coordinates":[77.26121999999999,43.62952],"type":"Point"}
+}

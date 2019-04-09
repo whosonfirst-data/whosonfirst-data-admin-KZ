@@ -1,0 +1,76 @@
+{
+  "id": 1276785085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.08809,44.48069,52.08809,44.48069",
+    "geom:latitude":44.48069,
+    "geom:longitude":52.08809,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tigen",
+    "gn:country_code":"KZ",
+    "gn:dem":-37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608004,
+    "gn:latitude":44.48069,
+    "gn:longitude":52.08809,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"T\u012bgen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "T\u012bgen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0433\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "T\u012bgen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608004
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b3634b80f216657151aefd89541fa10b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785543,
+            "locality_id":1276785085,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1276785085,
+    "wof:lastmodified":1537659356,
+    "wof:name":"Tigen",
+    "wof:parent_id":1108785543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.08809,
+    44.48069,
+    52.08809,
+    44.48069
+],
+  "geometry": {"coordinates":[52.08809,44.48069],"type":"Point"}
+}

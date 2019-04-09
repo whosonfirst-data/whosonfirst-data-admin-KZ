@@ -1,0 +1,74 @@
+{
+  "id": 1310388229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.99108,50.99035,80.99108,50.99035",
+    "geom:latitude":50.99035,
+    "geom:longitude":80.99108,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Maralbay",
+    "gn:country_code":"KZ",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521124,
+    "gn:latitude":50.99035,
+    "gn:longitude":80.99108,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Maralbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u043b\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Marallayevskiy",
+        "Maralbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521124
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e5380d2fb6268c8522ce65e84196c4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1310388229,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310388229,
+    "wof:lastmodified":1537659697,
+    "wof:name":"Maralbay",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.99108000000003,
+    50.99035,
+    80.99108000000003,
+    50.99035
+],
+  "geometry": {"coordinates":[80.99108000000003,50.99035],"type":"Point"}
+}

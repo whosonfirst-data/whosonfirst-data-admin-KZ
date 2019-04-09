@@ -1,0 +1,77 @@
+{
+  "id": 1293489507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.7121,52.75432,68.7121,52.75432",
+    "geom:latitude":52.75432,
+    "geom:longitude":68.7121,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Krasnyy Okhotnik",
+    "gn:country_code":"KZ",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517101,
+    "gn:latitude":52.75432,
+    "gn:longitude":68.7121,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Krasnyy Okhotnik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041e\u0445\u043e\u0442\u043d\u0438\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0430\u043e\u0437\u0451\u0440\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zaoz\u00ebrnoye",
+        "Krasnyy Okhotnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517101
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c27ff9f5919dc042951efc049a30653a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785397,
+            "locality_id":1293489507,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293489507,
+    "wof:lastmodified":1537659499,
+    "wof:name":"Krasnyy Okhotnik",
+    "wof:parent_id":1108785397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.7121,
+    52.75431999999999,
+    68.7121,
+    52.75431999999999
+],
+  "geometry": {"coordinates":[68.71210000000001,52.75431999999999],"type":"Point"}
+}

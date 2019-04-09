@@ -1,0 +1,76 @@
+{
+  "id": 890441319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.04848,49.70815,81.04848,49.70815",
+    "geom:latitude":49.70815,
+    "geom:longitude":81.04848,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":1244,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Suykbulak"
+    ],
+    "name:kaz_x_preferred":[
+        "S\u016byqbulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0443\u044b\u049b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u044b\u043a\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "qs:name":"Suykbulak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518687,
+        "gp:id":2264314,
+        "qs:id":276618
+    },
+    "wof:country":"KZ",
+    "wof:created":1469052318,
+    "wof:geomhash":"f4a5a319d9336694c5f3ce320f56b2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890441319,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":890441319,
+    "wof:lastmodified":1505343581,
+    "wof:name":"Suykbulak",
+    "wof:parent_id":85672915,
+    "wof:placetype":"locality",
+    "wof:population":1244,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.04848,
+    49.70815,
+    81.04848,
+    49.70815
+],
+  "geometry": {"coordinates":[81.04848,49.70815],"type":"Point"}
+}

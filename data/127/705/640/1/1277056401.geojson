@@ -1,0 +1,71 @@
+{
+  "id": 1277056401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.15,48.3,72.15,48.3",
+    "geom:latitude":48.3,
+    "geom:longitude":72.15,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kurmonaka",
+    "gn:country_code":"KZ",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521722,
+    "gn:latitude":48.3,
+    "gn:longitude":72.15,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kurmonaka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kur-Manaka",
+        "Kurmonaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521722
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f5248890d16c5426a0642b794ae591c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1277056401,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1277056401,
+    "wof:lastmodified":1537659727,
+    "wof:name":"Kurmonaka",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.15,
+    48.3,
+    72.15,
+    48.3
+],
+  "geometry": {"coordinates":[72.15000000000001,48.3],"type":"Point"}
+}

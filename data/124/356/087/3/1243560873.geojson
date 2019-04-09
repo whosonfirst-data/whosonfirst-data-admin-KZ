@@ -1,0 +1,72 @@
+{
+  "id": 1243560873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.98333,51.03333,57.98333,51.03333",
+    "geom:latitude":51.03333,
+    "geom:longitude":57.98333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sarbay",
+    "gn:country_code":"KZ",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608475,
+    "gn:latitude":51.03333,
+    "gn:longitude":57.98333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sarbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaumetey",
+        "Serbay",
+        "Sarbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608475
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"878a1cb5ba4ddc217aa287dbc9f829ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785697,
+            "locality_id":1243560873,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1243560873,
+    "wof:lastmodified":1537659373,
+    "wof:name":"Sarbay",
+    "wof:parent_id":1108785697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.98333,
+    51.03333,
+    57.98333,
+    51.03333
+],
+  "geometry": {"coordinates":[57.98333,51.03333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309696005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.10806,41.36583,68.10806,41.36583",
+    "geom:latitude":41.36583,
+    "geom:longitude":68.10806,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kalgansyr",
+    "gn:country_code":"KZ",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532427,
+    "gn:latitude":41.36583,
+    "gn:longitude":68.10806,
+    "gn:modification_date":"1998-05-21",
+    "gn:name":"Kalgansyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532427
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c417e87b36b6b77e2886928da08db3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785365,
+            "locality_id":1309696005,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1309696005,
+    "wof:lastmodified":1537086257,
+    "wof:name":"Kalgansyr",
+    "wof:parent_id":1108785365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.10806,
+    41.36583,
+    68.10806,
+    41.36583
+],
+  "geometry": {"coordinates":[68.10805999999999,41.36583],"type":"Point"}
+}

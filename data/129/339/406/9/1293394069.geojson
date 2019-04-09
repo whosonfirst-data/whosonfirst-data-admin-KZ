@@ -1,0 +1,72 @@
+{
+  "id": 1293394069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.09995,43.21618,77.09995,43.21618",
+    "geom:latitude":43.21618,
+    "geom:longitude":77.09995,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gornyy Sadovod",
+    "gn:country_code":"KZ",
+    "gn:dem":1499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1539914,
+    "gn:latitude":43.21618,
+    "gn:longitude":77.09995,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Gornyy Sadovod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sovkhoz Gornyy Sadovod",
+        "Gornyy Sadovod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1539914,
+        "wk:page":"Gornyy_Sadovod"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"64dceba20f716ee363e1f76ea4067f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785421,
+            "locality_id":1293394069,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293394069,
+    "wof:lastmodified":1537660027,
+    "wof:name":"Gornyy Sadovod",
+    "wof:parent_id":1108785421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.09995,
+    43.21618,
+    77.09995,
+    43.21618
+],
+  "geometry": {"coordinates":[77.09995000000001,43.21618],"type":"Point"}
+}

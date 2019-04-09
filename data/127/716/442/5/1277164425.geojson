@@ -1,0 +1,70 @@
+{
+  "id": 1277164425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.17711,49.8272,73.17711,49.8272",
+    "geom:latitude":49.8272,
+    "geom:longitude":73.17711,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Novyy Gorod",
+    "gn:country_code":"KZ",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247711,
+    "gn:latitude":49.8272,
+    "gn:longitude":73.17711,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Novyy Gorod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0413\u043e\u0440\u043e\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247711
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3175c686c385657c74e4de39f51a224d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1277164425,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1277164425,
+    "wof:lastmodified":1537660131,
+    "wof:name":"Novyy Gorod",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.17711,
+    49.8272,
+    73.17711,
+    49.8272
+],
+  "geometry": {"coordinates":[73.17711,49.8272],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1309700355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.86861,51.26639,77.86861,51.26639",
+    "geom:latitude":51.26639,
+    "geom:longitude":77.86861,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zhumysker",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519624,
+    "gn:latitude":51.26639,
+    "gn:longitude":77.86861,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Zhumysker",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0416\u04b1\u043c\u044b\u0441\u043a\u0435\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0432\u0445\u043e\u0437 \u041a\u0430\u0437\u0430\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Maytyubek",
+        "Sarykamys",
+        "Zhumysker",
+        "Sovkhoz Kazanskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519624
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"be36fb70fd49e28a447c6f08d5a02812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1309700355,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1309700355,
+    "wof:lastmodified":1537659611,
+    "wof:name":"Zhumysker",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.86861,
+    51.26639,
+    77.86861,
+    51.26639
+],
+  "geometry": {"coordinates":[77.86861,51.26639],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209421055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.18333,45.43333,57.18333,45.43333",
+    "geom:latitude":45.43333,
+    "geom:longitude":57.18333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Matay",
+    "gn:country_code":"KZ",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608857,
+    "gn:latitude":45.43333,
+    "gn:longitude":57.18333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Matay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608857
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bc579d8fd07407ab845facfd96db285a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209421055
+        }
+    ],
+    "wof:id":1209421055,
+    "wof:lastmodified":1536287530,
+    "wof:name":"Matay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.18333000000001,
+    45.43333,
+    57.18333000000001,
+    45.43333
+],
+  "geometry": {"coordinates":[57.18333000000001,45.43333],"type":"Point"}
+}

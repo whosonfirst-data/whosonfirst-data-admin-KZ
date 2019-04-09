@@ -1,0 +1,70 @@
+{
+  "id": 1226564139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.8,48.16667,50.8,48.16667",
+    "geom:latitude":48.16667,
+    "geom:longitude":50.8,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tuma",
+    "gn:country_code":"KZ",
+    "gn:dem":-12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607933,
+    "gn:latitude":48.16667,
+    "gn:longitude":50.8,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tuma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u016bma Qysta\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607933
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"98631d0d1fc8e148233e49fb27393839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785445,
+            "locality_id":1226564139,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1226564139,
+    "wof:lastmodified":1537659354,
+    "wof:name":"Tuma",
+    "wof:parent_id":1108785445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.8,
+    48.16667,
+    50.8,
+    48.16667
+],
+  "geometry": {"coordinates":[50.8,48.16667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209396945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.77775,54.17096,68.77775,54.17096",
+    "geom:latitude":54.17096,
+    "geom:longitude":68.77775,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Shtyrovka",
+    "gn:country_code":"KZ",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519031,
+    "gn:latitude":54.17096,
+    "gn:longitude":68.77775,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Shtyrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u044b\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519031
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"30289c8d1cfc029575ec6b09944b1c6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209396945
+        }
+    ],
+    "wof:id":1209396945,
+    "wof:lastmodified":1537659588,
+    "wof:name":"Shtyrovka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.77775,
+    54.17096,
+    68.77775,
+    54.17096
+],
+  "geometry": {"coordinates":[68.77775,54.17096],"type":"Point"}
+}

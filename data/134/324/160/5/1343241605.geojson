@@ -1,0 +1,73 @@
+{
+  "id": 1343241605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.62351,52.989,63.62351,52.989",
+    "geom:latitude":52.989,
+    "geom:longitude":63.62351,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ryspay",
+    "gn:country_code":"KZ",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519819,
+    "gn:latitude":52.989,
+    "gn:longitude":63.62351,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ryspay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ryspay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044b\u0441\u043f\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519819
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f3b06b567e93f884de4d4706a81a2834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1343241605,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343241605,
+    "wof:lastmodified":1537659617,
+    "wof:name":"Ryspay",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.62351,
+    52.989,
+    63.62351,
+    52.989
+],
+  "geometry": {"coordinates":[63.62351,52.989],"type":"Point"}
+}

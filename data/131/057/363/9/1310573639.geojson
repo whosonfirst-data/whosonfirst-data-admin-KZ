@@ -1,0 +1,88 @@
+{
+  "id": 1310573639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.93099,53.51457,71.93099,53.51457",
+    "geom:latitude":53.51457,
+    "geom:longitude":71.93099,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Togurzhal",
+    "gn:country_code":"KZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517993,
+    "gn:latitude":53.51457,
+    "gn:longitude":71.93099,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Togurzhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Togurzhap"
+    ],
+    "name:kaz_x_preferred":[
+        "T\u00fcgirzhan"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u04af\u0433\u0456\u0440\u0436\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0433\u0443\u0440\u0436\u0430\u043f"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u043e\u0433\u0443\u0440\u0436\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Tugyrzhal",
+        "Tugyrzhap",
+        "Togurzhap",
+        "Togurzhal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517993
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"42ffbac8769b3617fe4f6e2b82ce793c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1310573639,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310573639,
+    "wof:lastmodified":1537659545,
+    "wof:name":"Togurzhal",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.93099000000002,
+    53.51456999999999,
+    71.93099000000002,
+    53.51456999999999
+],
+  "geometry": {"coordinates":[71.93099000000002,53.51456999999999],"type":"Point"}
+}

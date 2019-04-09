@@ -1,0 +1,67 @@
+{
+  "id": 1292938841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.08835,48.36447,60.08835,48.36447",
+    "geom:latitude":48.36447,
+    "geom:longitude":60.08835,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tumalykol",
+    "gn:country_code":"KZ",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8473731,
+    "gn:latitude":48.36447,
+    "gn:longitude":60.08835,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"T\u016bmalyk\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8473731
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"94ae88a88fa463298d21e6e78b65bcd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785541,
+            "locality_id":1292938841,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1292938841,
+    "wof:lastmodified":1537077972,
+    "wof:name":"Tumalykol",
+    "wof:parent_id":1108785541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.08835,
+    48.36447,
+    60.08835,
+    48.36447
+],
+  "geometry": {"coordinates":[60.08835,48.36447],"type":"Point"}
+}

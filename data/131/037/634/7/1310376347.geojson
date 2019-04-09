@@ -1,0 +1,84 @@
+{
+  "id": 1310376347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.78214,43.20151,67.78214,43.20151",
+    "geom:latitude":43.20151,
+    "geom:longitude":67.78214,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Koktobe",
+    "gn:country_code":"KZ",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526588,
+    "gn:latitude":43.20151,
+    "gn:longitude":67.78214,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Koktobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "K\u00f6kt\u00f6be"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u04e9\u043a\u0442\u04e9\u0431\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0442\u043e\u0431\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043a\u0442\u043e\u0431\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ak-Tyube",
+        "Aktobe",
+        "Koktobe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526588
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c732d9d5193c7e69d347ac6d8d7004cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1310376347,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1310376347,
+    "wof:lastmodified":1537659919,
+    "wof:name":"Koktobe",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.78214,
+    43.20151,
+    67.78214,
+    43.20151
+],
+  "geometry": {"coordinates":[67.78214,43.20151],"type":"Point"}
+}

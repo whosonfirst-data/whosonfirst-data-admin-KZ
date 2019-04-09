@@ -1,0 +1,67 @@
+{
+  "id": 1209416909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.96108,52.65794,69.96108,52.65794",
+    "geom:latitude":52.65794,
+    "geom:longitude":69.96108,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kul'turnyy Stan",
+    "gn:country_code":"KZ",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11135357,
+    "gn:latitude":52.65794,
+    "gn:longitude":69.96108,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Kul\u2019turnyy Stan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kul\u2019turnyy Stan"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u044b\u0439 \u0421\u0442\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11135357
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e3d8cb8d27c14ddf8d2c685cc95577b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209416909
+        }
+    ],
+    "wof:id":1209416909,
+    "wof:lastmodified":1537660117,
+    "wof:name":"Kul'turnyy Stan",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.96108000000001,
+    52.65794,
+    69.96108000000001,
+    52.65794
+],
+  "geometry": {"coordinates":[69.96108000000001,52.65794],"type":"Point"}
+}

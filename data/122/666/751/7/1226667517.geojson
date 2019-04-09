@@ -1,0 +1,77 @@
+{
+  "id": 1226667517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.12271,50.14767,54.12271,50.14767",
+    "geom:latitude":50.14767,
+    "geom:longitude":54.12271,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lebedevka",
+    "gn:country_code":"KZ",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608953,
+    "gn:latitude":50.14767,
+    "gn:longitude":54.12271,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Lebedevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lebedevka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0431\u0435\u0434\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lebedevskiy",
+        "Lebedevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608953
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"943f754b5b1277282e4525d11c548d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785711,
+            "locality_id":1226667517,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226667517,
+    "wof:lastmodified":1537659393,
+    "wof:name":"Lebedevka",
+    "wof:parent_id":1108785711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.12271,
+    50.14767,
+    54.12271,
+    50.14767
+],
+  "geometry": {"coordinates":[54.12271,50.14767],"type":"Point"}
+}

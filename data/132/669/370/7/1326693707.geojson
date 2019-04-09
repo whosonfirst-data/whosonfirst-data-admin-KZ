@@ -1,0 +1,83 @@
+{
+  "id": 1326693707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.11548,43.93283,70.11548,43.93283",
+    "geom:latitude":43.93283,
+    "geom:longitude":70.11548,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Zharqudyq",
+    "gn:country_code":"KZ",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10430351,
+    "gn:latitude":43.93283,
+    "gn:longitude":70.11548,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Zharqudyq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zharqudyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u0440\u049b\u04b1\u0434\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0440\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0424\u0435\u0440\u043c\u0430 \u041d\u043e\u043c\u0435\u0440 \u0422\u0440\u0438 \u0416\u0430\u0440\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zharkuduk",
+        "Ferma Nomer Tri Zharkuduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10430351
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"694d14e3ee7551bc4d761588bc0f1134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785511,
+            "locality_id":1326693707,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1326693707,
+    "wof:lastmodified":1537660051,
+    "wof:name":"Zharqudyq",
+    "wof:parent_id":1108785511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.11548,
+    43.93283,
+    70.11548,
+    43.93283
+],
+  "geometry": {"coordinates":[70.11548000000001,43.93283],"type":"Point"}
+}

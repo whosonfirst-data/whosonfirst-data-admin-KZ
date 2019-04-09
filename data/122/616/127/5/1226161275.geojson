@@ -1,0 +1,73 @@
+{
+  "id": 1226161275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.3,51.73333,76.3,51.73333",
+    "geom:latitude":51.73333,
+    "geom:longitude":76.3,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhaman",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516949,
+    "gn:latitude":51.73333,
+    "gn:longitude":76.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zhaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhaman-Tuz",
+        "Zhamantuz",
+        "Zhaman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516949
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fdaabf3d5f122d7e0609508dcdd7a356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785733,
+            "locality_id":1226161275,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1226161275,
+    "wof:lastmodified":1537659492,
+    "wof:name":"Zhaman",
+    "wof:parent_id":1108785733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.3,
+    51.73333,
+    76.3,
+    51.73333
+],
+  "geometry": {"coordinates":[76.3,51.73333],"type":"Point"}
+}

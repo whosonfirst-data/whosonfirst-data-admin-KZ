@@ -1,0 +1,79 @@
+{
+  "id": 1276745405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.962,53.33841,66.962,53.33841",
+    "geom:latitude":53.33841,
+    "geom:longitude":66.962,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kupriyanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521779,
+    "gn:latitude":53.33841,
+    "gn:longitude":66.962,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Kupriyanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kupriyanovka"
+    ],
+    "name:kaz_x_preferred":[
+        "K\u016bpr\u012byanovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0443\u043f\u0440\u0438\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043f\u0440\u0438\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521779
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2d7d55db5dd3820ab66f40f152930ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1276745405,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276745405,
+    "wof:lastmodified":1537659728,
+    "wof:name":"Kupriyanovka",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.962,
+    53.33841,
+    66.962,
+    53.33841
+],
+  "geometry": {"coordinates":[66.962,53.33841],"type":"Point"}
+}

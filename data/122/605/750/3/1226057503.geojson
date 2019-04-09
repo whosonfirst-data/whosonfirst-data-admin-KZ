@@ -1,0 +1,70 @@
+{
+  "id": 1226057503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.83333,52.68333,61.83333,52.68333",
+    "geom:latitude":52.68333,
+    "geom:longitude":61.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kuzmichevka",
+    "gn:country_code":"KZ",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521611,
+    "gn:latitude":52.68333,
+    "gn:longitude":61.83333,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kuzmich\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kuzmich\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521611
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"10e75be8e72ef8e4d1fbadcfc5aab8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785661,
+            "locality_id":1226057503,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226057503,
+    "wof:lastmodified":1537659723,
+    "wof:name":"Kuzmichevka",
+    "wof:parent_id":1108785661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.83333,
+    52.68333000000001,
+    61.83333,
+    52.68333000000001
+],
+  "geometry": {"coordinates":[61.83333,52.68333000000001],"type":"Point"}
+}

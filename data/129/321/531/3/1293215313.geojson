@@ -1,0 +1,67 @@
+{
+  "id": 1293215313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.66667,48.96667,49.66667,48.96667",
+    "geom:latitude":48.96667,
+    "geom:longitude":49.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhana-Ushm",
+    "gn:country_code":"KZ",
+    "gn:dem":-6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607621,
+    "gn:latitude":48.96667,
+    "gn:longitude":49.66667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Zhana-Ushm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607621
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c3279b70639c436eaf163500e6a212e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1293215313,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293215313,
+    "wof:lastmodified":1536682273,
+    "wof:name":"Zhana-Ushm",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.66667,
+    48.96667,
+    49.66667,
+    48.96667
+],
+  "geometry": {"coordinates":[49.66667,48.96667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344175257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.78126,45.74755,80.78126,45.74755",
+    "geom:latitude":45.74755,
+    "geom:longitude":80.78126,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nadezhdovka",
+    "gn:country_code":"KZ",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520766,
+    "gn:latitude":45.74755,
+    "gn:longitude":80.78126,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nadezhdovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nadezdinskoye",
+        "Nadezhdinskoye",
+        "Nadezhdovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520766
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4322b9c48a1d8967515c787ca9b7d036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785413,
+            "locality_id":1344175257,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1344175257,
+    "wof:lastmodified":1537659680,
+    "wof:name":"Nadezhdovka",
+    "wof:parent_id":1108785413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.78126,
+    45.74755,
+    80.78126,
+    45.74755
+],
+  "geometry": {"coordinates":[80.78126,45.74755],"type":"Point"}
+}

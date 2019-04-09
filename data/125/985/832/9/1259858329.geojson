@@ -1,0 +1,67 @@
+{
+  "id": 1259858329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.98333,45.15,64.98333,45.15",
+    "geom:latitude":45.15,
+    "geom:longitude":64.98333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pervoye Maya",
+    "gn:country_code":"KZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520194,
+    "gn:latitude":45.15,
+    "gn:longitude":64.98333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Pervoye Maya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520194
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"37173ebe7001172852ea69648cc24e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785671,
+            "locality_id":1259858329,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1259858329,
+    "wof:lastmodified":1536814716,
+    "wof:name":"Pervoye Maya",
+    "wof:parent_id":1108785671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.98333000000001,
+    45.15,
+    64.98333000000001,
+    45.15
+],
+  "geometry": {"coordinates":[64.98333000000001,45.15],"type":"Point"}
+}

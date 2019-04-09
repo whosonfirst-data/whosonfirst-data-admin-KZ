@@ -1,0 +1,76 @@
+{
+  "id": 1276246391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.1654,43.51929,77.1654,43.51929",
+    "geom:latitude":43.51929,
+    "geom:longitude":77.1654,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kamenskoye Plato",
+    "gn:country_code":"KZ",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":1539942,
+    "gn:latitude":43.51929,
+    "gn:longitude":77.1654,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kamenskoye Plato",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0441\u043a\u043e\u0435 \u041f\u043b\u0430\u0442\u043e"
+    ],
+    "name:und_x_variant":[
+        "Podsobnoye Khozyaystvo Kamennoye Plato",
+        "Kamennoye Plato",
+        "Kamenskoye Plato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1539942,
+        "wk:page":"Kamennoye_Plato"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b0758c44ceee4b8fac37ca9b6917720c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785421,
+            "locality_id":1276246391,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1276246391,
+    "wof:lastmodified":1537660029,
+    "wof:name":"Kamenskoye Plato",
+    "wof:parent_id":1108785421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.1654,
+    43.51929000000001,
+    77.1654,
+    43.51929000000001
+],
+  "geometry": {"coordinates":[77.16540000000001,43.51929000000001],"type":"Point"}
+}

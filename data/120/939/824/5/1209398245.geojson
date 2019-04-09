@@ -1,0 +1,61 @@
+{
+  "id": 1209398245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.66917,44.80111,65.66917,44.80111",
+    "geom:latitude":44.80111,
+    "geom:longitude":65.66917,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Burebay",
+    "gn:country_code":"KZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535124,
+    "gn:latitude":44.80111,
+    "gn:longitude":65.66917,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Burebay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535124
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cf7e8c8eb84156a3b2b1e5a6315e00a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209398245
+        }
+    ],
+    "wof:id":1209398245,
+    "wof:lastmodified":1536288229,
+    "wof:name":"Burebay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.66917,
+    44.80111,
+    65.66917,
+    44.80111
+],
+  "geometry": {"coordinates":[65.66916999999999,44.80111],"type":"Point"}
+}

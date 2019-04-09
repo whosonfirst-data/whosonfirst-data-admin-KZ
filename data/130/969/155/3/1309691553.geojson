@@ -1,0 +1,80 @@
+{
+  "id": 1309691553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.51676,52.66573,65.51676,52.66573",
+    "geom:latitude":52.66573,
+    "geom:longitude":65.51676,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Vostok",
+    "gn:country_code":"KZ",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517372,
+    "gn:latitude":52.66573,
+    "gn:longitude":65.51676,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Vostok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vostok"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u043e\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0441\u0443"
+    ],
+    "name:und_x_variant":[
+        "Karaman",
+        "Vostok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517372
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d213a51378580753e1197f0dbbe0fbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1309691553,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1309691553,
+    "wof:lastmodified":1537659516,
+    "wof:name":"Vostok",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.51675999999999,
+    52.66573,
+    65.51675999999999,
+    52.66573
+],
+  "geometry": {"coordinates":[65.51675999999999,52.66573],"type":"Point"}
+}

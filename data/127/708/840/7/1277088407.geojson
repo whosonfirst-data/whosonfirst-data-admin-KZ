@@ -1,0 +1,67 @@
+{
+  "id": 1277088407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.72902,43.47955,79.72902,43.47955",
+    "geom:latitude":43.47955,
+    "geom:longitude":79.72902,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Munn's Corners",
+    "gn:country_code":"KZ",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":11071616,
+    "gn:latitude":43.47955,
+    "gn:longitude":79.72902,
+    "gn:modification_date":"2016-02-15",
+    "gn:name":"Munn's Corners",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11071616
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"90869b978cb40e8d7f7fdc0f97ec8385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785425,
+            "locality_id":1277088407,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1277088407,
+    "wof:lastmodified":1536759552,
+    "wof:name":"Munn's Corners",
+    "wof:parent_id":1108785425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.72901999999998,
+    43.47955,
+    79.72901999999998,
+    43.47955
+],
+  "geometry": {"coordinates":[79.72901999999998,43.47955],"type":"Point"}
+}

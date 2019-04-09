@@ -1,0 +1,70 @@
+{
+  "id": 1293760075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.02124,52.58499,63.02124,52.58499",
+    "geom:latitude":52.58499,
+    "geom:longitude":63.02124,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Stretinka",
+    "gn:country_code":"KZ",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11421748,
+    "gn:latitude":52.58499,
+    "gn:longitude":63.02124,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Stretinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u0442\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11421748
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6280ee3f1df00576b3dcaee87d43a172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785535,
+            "locality_id":1293760075,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293760075,
+    "wof:lastmodified":1537660150,
+    "wof:name":"Stretinka",
+    "wof:parent_id":1108785535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.02124,
+    52.58499000000001,
+    63.02124,
+    52.58499000000001
+],
+  "geometry": {"coordinates":[63.02124,52.58499000000001],"type":"Point"}
+}

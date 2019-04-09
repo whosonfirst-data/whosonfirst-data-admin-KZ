@@ -1,0 +1,77 @@
+{
+  "id": 1293610411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.86617,50.41246,53.86617,50.41246",
+    "geom:latitude":50.41246,
+    "geom:longitude":53.86617,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Novopetrovka",
+    "gn:country_code":"KZ",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608712,
+    "gn:latitude":50.41246,
+    "gn:longitude":53.86617,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Novopetrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novopetrovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novopetrovskiy",
+        "Novopetrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608712
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"77fadfafb2acbc7dca339f49b0f68f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785711,
+            "locality_id":1293610411,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293610411,
+    "wof:lastmodified":1537659384,
+    "wof:name":"Novopetrovka",
+    "wof:parent_id":1108785711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.86617,
+    50.41246,
+    53.86617,
+    50.41246
+],
+  "geometry": {"coordinates":[53.86617,50.41246],"type":"Point"}
+}

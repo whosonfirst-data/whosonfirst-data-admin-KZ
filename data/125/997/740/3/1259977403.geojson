@@ -1,0 +1,81 @@
+{
+  "id": 1259977403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.75,47.51667,51.75,47.51667",
+    "geom:latitude":47.51667,
+    "geom:longitude":51.75,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saraychik",
+    "gn:country_code":"KZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608478,
+    "gn:latitude":47.51667,
+    "gn:longitude":51.75,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Saraychik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saraychik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0439\u0447\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Saraichikovuskaya",
+        "Saraychikovskaya",
+        "Ssaraitschik",
+        "Saraychik",
+        "Sarayshyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608478,
+        "wk:page":"Saray-J%C3%BCk"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7dc6624bb2b9ba1a7c9f0ece0696eacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785457,
+            "locality_id":1259977403,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1259977403,
+    "wof:lastmodified":1537659373,
+    "wof:name":"Saraychik",
+    "wof:parent_id":1108785457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.75,
+    47.51667,
+    51.75,
+    47.51667
+],
+  "geometry": {"coordinates":[51.75,47.51667],"type":"Point"}
+}

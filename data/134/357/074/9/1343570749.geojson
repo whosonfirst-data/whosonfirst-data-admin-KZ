@@ -1,0 +1,71 @@
+{
+  "id": 1343570749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.3,45.66667,74.3,45.66667",
+    "geom:latitude":45.66667,
+    "geom:longitude":74.3,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Semiz-Kul'",
+    "gn:country_code":"KZ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519407,
+    "gn:latitude":45.66667,
+    "gn:longitude":74.3,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Semiz-Kul\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rybalka Semiz-Kul\u2019",
+        "Semiz-Kul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519407
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b1270a75fcc44a286a9d3af7eaf8eba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785403,
+            "locality_id":1343570749,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1343570749,
+    "wof:lastmodified":1537659605,
+    "wof:name":"Semiz-Kul'",
+    "wof:parent_id":1108785403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.3,
+    45.66667,
+    74.3,
+    45.66667
+],
+  "geometry": {"coordinates":[74.3,45.66667],"type":"Point"}
+}

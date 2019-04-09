@@ -1,0 +1,67 @@
+{
+  "id": 1293855379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.26667,43.6,71.26667,43.6",
+    "geom:latitude":43.6,
+    "geom:longitude":71.26667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Uyuk",
+    "gn:country_code":"KZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517573,
+    "gn:latitude":43.6,
+    "gn:longitude":71.26667,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Uyuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517573
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"29bd90bd4f1147702d4539d6769cb270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785643,
+            "locality_id":1293855379,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1293855379,
+    "wof:lastmodified":1536753924,
+    "wof:name":"Uyuk",
+    "wof:parent_id":1108785643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.26666999999998,
+    43.6,
+    71.26666999999998,
+    43.6
+],
+  "geometry": {"coordinates":[71.26666999999998,43.6],"type":"Point"}
+}

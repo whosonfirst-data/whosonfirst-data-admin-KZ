@@ -1,0 +1,67 @@
+{
+  "id": 1209311967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.53333,46.6,49.53333,46.6",
+    "geom:latitude":46.6,
+    "geom:longitude":49.53333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lenkosa",
+    "gn:country_code":"KZ",
+    "gn:dem":-30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608944,
+    "gn:latitude":46.6,
+    "gn:longitude":49.53333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Lenkosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lenkosa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u043a\u043e\u0441\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608944
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"110e6471d4652344c8c043ac3fd20a9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209311967
+        }
+    ],
+    "wof:id":1209311967,
+    "wof:lastmodified":1537659392,
+    "wof:name":"Lenkosa",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.53333,
+    46.6,
+    49.53333,
+    46.6
+],
+  "geometry": {"coordinates":[49.53333,46.6],"type":"Point"}
+}

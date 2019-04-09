@@ -1,0 +1,70 @@
+{
+  "id": 1309688679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.12664,52.15718,63.12664,52.15718",
+    "geom:latitude":52.15718,
+    "geom:longitude":63.12664,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Shegebay",
+    "gn:country_code":"KZ",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11421791,
+    "gn:latitude":52.15718,
+    "gn:longitude":63.12664,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Shegebay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0433\u0435\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11421791
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"968436d992cf09c5468c8bc47659bed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785535,
+            "locality_id":1309688679,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1309688679,
+    "wof:lastmodified":1537660150,
+    "wof:name":"Shegebay",
+    "wof:parent_id":1108785535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.12664,
+    52.15718,
+    63.12664,
+    52.15718
+],
+  "geometry": {"coordinates":[63.12664,52.15718],"type":"Point"}
+}

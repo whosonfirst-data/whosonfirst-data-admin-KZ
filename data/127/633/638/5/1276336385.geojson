@@ -1,0 +1,76 @@
+{
+  "id": 1276336385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.25684,52.14032,72.25684,52.14032",
+    "geom:latitude":52.14032,
+    "geom:longitude":72.25684,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Komey",
+    "gn:country_code":"KZ",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10838479,
+    "gn:latitude":52.14032,
+    "gn:longitude":72.25684,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Komey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "K\u00f6mey"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u04e9\u043c\u0435\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0435\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10838479
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4aafdd354d6c25755b8e71c8ef07d792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1276336385,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1276336385,
+    "wof:lastmodified":1537660064,
+    "wof:name":"Komey",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.25684,
+    52.14032,
+    72.25684,
+    52.14032
+],
+  "geometry": {"coordinates":[72.25684,52.14032],"type":"Point"}
+}

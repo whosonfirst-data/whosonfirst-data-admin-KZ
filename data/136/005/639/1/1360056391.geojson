@@ -1,0 +1,74 @@
+{
+  "id": 1360056391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.62785,43.84077,67.62785,43.84077",
+    "geom:latitude":43.84077,
+    "geom:longitude":67.62785,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Takhtamysh",
+    "gn:country_code":"KZ",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529726,
+    "gn:latitude":43.84077,
+    "gn:longitude":67.62785,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Takhtamysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0445\u0442\u0430\u043c\u044b\u0448"
+    ],
+    "name:und_x_variant":[
+        "Krach",
+        "Takhtamysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529726
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"98b0ed399d49790f0b599ee80e615bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1360056391,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1360056391,
+    "wof:lastmodified":1537659934,
+    "wof:name":"Takhtamysh",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.62785,
+    43.84077,
+    67.62785,
+    43.84077
+],
+  "geometry": {"coordinates":[67.62785,43.84077],"type":"Point"}
+}

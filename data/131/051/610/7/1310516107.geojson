@@ -1,0 +1,67 @@
+{
+  "id": 1310516107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.88333,53.98333,72.88333,53.98333",
+    "geom:latitude":53.98333,
+    "geom:longitude":72.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Saryn",
+    "gn:country_code":"KZ",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519589,
+    "gn:latitude":53.98333,
+    "gn:longitude":72.88333,
+    "gn:modification_date":"1996-02-29",
+    "gn:name":"Saryn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519589
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1ecc1647220476c438d899dc445eb254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785367,
+            "locality_id":1310516107,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310516107,
+    "wof:lastmodified":1536901592,
+    "wof:name":"Saryn",
+    "wof:parent_id":1108785367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.88333,
+    53.98333,
+    72.88333,
+    53.98333
+],
+  "geometry": {"coordinates":[72.88333,53.98333],"type":"Point"}
+}

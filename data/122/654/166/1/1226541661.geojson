@@ -1,0 +1,67 @@
+{
+  "id": 1226541661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.46896,51.2754,70.46896,51.2754",
+    "geom:latitude":51.2754,
+    "geom:longitude":70.46896,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zelenyy Gay",
+    "gn:country_code":"KZ",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517050,
+    "gn:latitude":51.2754,
+    "gn:longitude":70.46896,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zel\u00ebnyy Gay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517050
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"340e577455aef9ff64351922f88532b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785391,
+            "locality_id":1226541661,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226541661,
+    "wof:lastmodified":1537003164,
+    "wof:name":"Zelenyy Gay",
+    "wof:parent_id":1108785391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.46896,
+    51.2754,
+    70.46896,
+    51.2754
+],
+  "geometry": {"coordinates":[70.46896,51.2754],"type":"Point"}
+}

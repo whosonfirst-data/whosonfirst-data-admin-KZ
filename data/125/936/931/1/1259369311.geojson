@@ -1,0 +1,82 @@
+{
+  "id": 1259369311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.82444,52.73667,62.82444,52.73667",
+    "geom:latitude":52.73667,
+    "geom:longitude":62.82444,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Eltay",
+    "gn:country_code":"KZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517265,
+    "gn:latitude":52.73667,
+    "gn:longitude":62.82444,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Eltay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Eltay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u043b\u0442\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "Yel\u2019tay"
+    ],
+    "name:rus_x_variant":[
+        "\u0415\u043b\u044c\u0442\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Yelbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517265
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d306529fbaac47b5ea9d547cb15ffe91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785535,
+            "locality_id":1259369311,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1259369311,
+    "wof:lastmodified":1537659509,
+    "wof:name":"Eltay",
+    "wof:parent_id":1108785535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.82444,
+    52.73667,
+    62.82444,
+    52.73667
+],
+  "geometry": {"coordinates":[62.82444,52.73667],"type":"Point"}
+}

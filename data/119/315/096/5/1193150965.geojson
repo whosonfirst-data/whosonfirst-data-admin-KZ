@@ -1,0 +1,76 @@
+{
+  "id": 1193150965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.03874,43.44159,77.03874,43.44159",
+    "geom:latitude":43.44159,
+    "geom:longitude":77.03874,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kirovo",
+    "gn:country_code":"KZ",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1539933,
+    "gn:latitude":43.44159,
+    "gn:longitude":77.03874,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kirovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0416\u0435\u0442\u044b-\u0421\u0443"
+    ],
+    "name:und_x_variant":[
+        "Zhety-Su"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1539933
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dbabbcd1611b6505ebfb377ddd2dacce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785421,
+            "locality_id":1193150965,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1193150965,
+    "wof:lastmodified":1537660028,
+    "wof:name":"Kirovo",
+    "wof:parent_id":1108785421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.03874,
+    43.44159000000001,
+    77.03874,
+    43.44159000000001
+],
+  "geometry": {"coordinates":[77.03874,43.44159000000001],"type":"Point"}
+}

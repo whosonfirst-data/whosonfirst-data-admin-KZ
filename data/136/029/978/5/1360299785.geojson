@@ -1,0 +1,79 @@
+{
+  "id": 1360299785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.01244,45.83629,81.01244,45.83629",
+    "geom:latitude":45.83629,
+    "geom:longitude":81.01244,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Izendi",
+    "gn:country_code":"KZ",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10821535,
+    "gn:latitude":45.83629,
+    "gn:longitude":81.01244,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Izendi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Izendi"
+    ],
+    "name:kaz_x_variant":[
+        "\u0406\u0437\u0435\u043d\u0434\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0435\u043d\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Izendy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10821535
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5ab6285aa9d731b5c331efa973a770a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785413,
+            "locality_id":1360299785,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1360299785,
+    "wof:lastmodified":1537660063,
+    "wof:name":"Izendi",
+    "wof:parent_id":1108785413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.01244,
+    45.83629000000001,
+    81.01244,
+    45.83629000000001
+],
+  "geometry": {"coordinates":[81.01244,45.83629000000001],"type":"Point"}
+}

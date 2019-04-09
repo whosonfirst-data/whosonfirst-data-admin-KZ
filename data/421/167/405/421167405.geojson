@@ -1,0 +1,103 @@
+{
+  "id": 421167405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.38798,41.75979,69.38798,41.75979",
+    "geom:latitude":41.75979,
+    "geom:longitude":69.38798,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "BIIK Kazygurt"
+    ],
+    "name:ita_x_preferred":[
+        "BIIK Kazygurt"
+    ],
+    "name:kaz_x_preferred":[
+        "Qazyqurt"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0437\u044b\u049b\u04b1\u0440\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0418\u0418\u041a-\u041a\u0430\u0437\u044b\u0433\u0443\u0440\u0442"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "BIIK Kazygurt"
+    ],
+    "name:unk_x_variant":[
+        "Kazyghurt"
+    ],
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1521351,
+    "qs:gn_pop":14737,
+    "qs:name":"Kazygurt",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Ongtustik Qazaqstan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":133298,
+    "qs:woe_adm0":23424871,
+    "qs:woe_id":2264649,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":200,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521351,
+        "gp:id":2264649,
+        "qs:id":133298,
+        "wd:id":"Q2877076"
+    },
+    "wof:country":"KZ",
+    "wof:created":1459008730,
+    "wof:geomhash":"ebf2aeecf2a6ba8adc26bff0b0cf84b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421167405,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":421167405,
+    "wof:lastmodified":1527716160,
+    "wof:name":"Kazygurt",
+    "wof:parent_id":85672927,
+    "wof:placetype":"locality",
+    "wof:population":14737,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.38798,
+    41.75979,
+    69.38798,
+    41.75979
+],
+  "geometry": {"coordinates":[69.38798,41.75979],"type":"Point"}
+}

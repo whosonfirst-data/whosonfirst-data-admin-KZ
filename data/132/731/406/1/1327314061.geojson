@@ -1,0 +1,76 @@
+{
+  "id": 1327314061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.08314,49.77285,73.08314,49.77285",
+    "geom:latitude":49.77285,
+    "geom:longitude":73.08314,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Fyodorovka",
+    "gn:country_code":"KZ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247691,
+    "gn:latitude":49.77285,
+    "gn:longitude":73.08314,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Fyodorovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Fyodorovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0424\u0451\u0434\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "F\u00ebderovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247691
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1d972418a2a4e23db4ef6ce46c676c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1327314061,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1327314061,
+    "wof:lastmodified":1537660130,
+    "wof:name":"Fyodorovka",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.08314,
+    49.77285,
+    73.08314,
+    49.77285
+],
+  "geometry": {"coordinates":[73.08314,49.77285],"type":"Point"}
+}

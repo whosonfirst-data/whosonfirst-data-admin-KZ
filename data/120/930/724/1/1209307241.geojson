@@ -1,0 +1,67 @@
+{
+  "id": 1209307241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.05,47.26667,52.05,47.26667",
+    "geom:latitude":47.26667,
+    "geom:longitude":52.05,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sokol",
+    "gn:country_code":"KZ",
+    "gn:dem":-24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608232,
+    "gn:latitude":47.26667,
+    "gn:longitude":52.05,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sokol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sokol"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608232
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c19bc6382c58950871c85a918f366233",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209307241
+        }
+    ],
+    "wof:id":1209307241,
+    "wof:lastmodified":1537659364,
+    "wof:name":"Sokol",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.05,
+    47.26667,
+    52.05,
+    47.26667
+],
+  "geometry": {"coordinates":[52.05,47.26667],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327122363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.26466,50.80792,74.26466,50.80792",
+    "geom:latitude":50.80792,
+    "geom:longitude":74.26466,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Uzynbulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517532,
+    "gn:latitude":50.80792,
+    "gn:longitude":74.26466,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Uzynbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u04b0\u0437\u044b\u043d\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u0443\u043d\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Uzynbulak",
+        "Uzynbulaq",
+        "Uzunbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517532
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8f1138630a20cef0eae48e78bfcb656f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1327122363,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1327122363,
+    "wof:lastmodified":1537659528,
+    "wof:name":"Uzynbulaq",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.26465999999998,
+    50.80792,
+    74.26465999999998,
+    50.80792
+],
+  "geometry": {"coordinates":[74.26465999999998,50.80792],"type":"Point"}
+}

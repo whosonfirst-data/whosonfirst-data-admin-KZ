@@ -1,0 +1,83 @@
+{
+  "id": 1310503549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.01998,51.48817,73.01998,51.48817",
+    "geom:latitude":51.48817,
+    "geom:longitude":73.01998,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Eltay",
+    "gn:country_code":"KZ",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517302,
+    "gn:latitude":51.48817,
+    "gn:longitude":73.01998,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Eltay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Eltay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u043b\u0442\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "Yel\u2019tay"
+    ],
+    "name:rus_x_variant":[
+        "\u0415\u043b\u044c\u0442\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Yedege",
+        "Yedyge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517302
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6fa34959809b347d17c03b2b31006141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1310503549,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310503549,
+    "wof:lastmodified":1537659512,
+    "wof:name":"Eltay",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.01998,
+    51.48817,
+    73.01998,
+    51.48817
+],
+  "geometry": {"coordinates":[73.01998,51.48817],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327304233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6233,47.15957,81.6233,47.15957",
+    "geom:latitude":47.15957,
+    "geom:longitude":81.6233,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Besterek",
+    "gn:country_code":"KZ",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8561349,
+    "gn:latitude":47.15957,
+    "gn:longitude":81.6233,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Besterek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561349
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0a0b3d0d439b8185ed3f1831e0b8b919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1327304233,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327304233,
+    "wof:lastmodified":1536864662,
+    "wof:name":"Besterek",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6233,
+    47.15957,
+    81.6233,
+    47.15957
+],
+  "geometry": {"coordinates":[81.6233,47.15957],"type":"Point"}
+}

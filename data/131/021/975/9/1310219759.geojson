@@ -1,0 +1,77 @@
+{
+  "id": 1310219759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.8815,50.65788,79.8815,50.65788",
+    "geom:latitude":50.65788,
+    "geom:longitude":79.8815,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kuzembay",
+    "gn:country_code":"KZ",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521617,
+    "gn:latitude":50.65788,
+    "gn:longitude":79.8815,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kuzembay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuzembay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0437\u0435\u043c\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kazumbay",
+        "Kuzembay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521617
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9ed49d48fba9bd0e40815c3bc11588ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1310219759,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310219759,
+    "wof:lastmodified":1537659723,
+    "wof:name":"Kuzembay",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.8815,
+    50.65788,
+    79.8815,
+    50.65788
+],
+  "geometry": {"coordinates":[79.8815,50.65788],"type":"Point"}
+}

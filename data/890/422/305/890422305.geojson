@@ -1,0 +1,77 @@
+{
+  "id": 890422305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.71871,46.7983,54.71871,46.7983",
+    "geom:latitude":46.7983,
+    "geom:longitude":54.71871,
+    "gn:country":"KZ",
+    "gn:fcode":"PPLQ",
+    "gn:pop":828,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Biikzhal"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0438\u0456\u043a\u0436\u0430\u043b"
+    ],
+    "name:may_x_preferred":[
+        "Biikzhal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0438\u043a\u0436\u0430\u043b"
+    ],
+    "qs:name":"B\u012bikzhal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":828394,
+        "gp:id":2260353,
+        "qs:id":554213,
+        "wd:id":"Q4086533"
+    },
+    "wof:country":"KZ",
+    "wof:created":1469051436,
+    "wof:geomhash":"3d316807f4f6e7f9471e6b51bd68263b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890422305,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":890422305,
+    "wof:lastmodified":1514469574,
+    "wof:name":"B\u012bikzhal",
+    "wof:parent_id":85672889,
+    "wof:placetype":"locality",
+    "wof:population":828,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.71871,
+    46.7983,
+    54.71871,
+    46.7983
+],
+  "geometry": {"coordinates":[54.71871,46.7983],"type":"Point"}
+}

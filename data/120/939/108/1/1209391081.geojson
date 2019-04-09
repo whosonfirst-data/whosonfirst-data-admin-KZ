@@ -1,0 +1,70 @@
+{
+  "id": 1209391081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.37802,43.14416,73.37802,43.14416",
+    "geom:latitude":43.14416,
+    "geom:longitude":73.37802,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Akkoz-Kaynar",
+    "gn:country_code":"KZ",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8220742,
+    "gn:latitude":43.14416,
+    "gn:longitude":73.37802,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Akkoz-Kaynar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqk\u00f6z-Qaynar"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u043a\u04e9\u0437-\u049a\u0430\u0439\u043d\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043a\u043e\u0437-\u041a\u0430\u0439\u043d\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8220742
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"681dd977b3c47e6f9617d4ea57e2e081",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209391081
+        }
+    ],
+    "wof:id":1209391081,
+    "wof:lastmodified":1537660041,
+    "wof:name":"Akkoz-Kaynar",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.37801999999998,
+    43.14416,
+    73.37801999999998,
+    43.14416
+],
+  "geometry": {"coordinates":[73.37801999999998,43.14416],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310214901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.91667,45.08333,77.91667,45.08333",
+    "geom:latitude":45.08333,
+    "geom:longitude":77.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kalpe",
+    "gn:country_code":"KZ",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521972,
+    "gn:latitude":45.08333,
+    "gn:longitude":77.91667,
+    "gn:modification_date":"2018-05-18",
+    "gn:name":"Kalpe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u043f\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521972
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f302e10c9d6a20e57ee199eb713da640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785415,
+            "locality_id":1310214901,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1310214901,
+    "wof:lastmodified":1537551049,
+    "wof:name":"Kalpe",
+    "wof:parent_id":1108785415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.91667,
+    45.08333,
+    77.91667,
+    45.08333
+],
+  "geometry": {"coordinates":[77.91667,45.08333],"type":"Point"}
+}

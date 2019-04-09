@@ -1,0 +1,73 @@
+{
+  "id": 1310023929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.28333,50.1,51.28333,50.1",
+    "geom:latitude":50.1,
+    "geom:longitude":51.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Goryachenskiy",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609870,
+    "gn:latitude":50.1,
+    "gn:longitude":51.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Goryachenskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goryachinskiy",
+        "Goryachinski",
+        "Goryachenskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609870
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"117f8abdac272b1eabbc45eb178c6eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1310023929,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1310023929,
+    "wof:lastmodified":1537659424,
+    "wof:name":"Goryachenskiy",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.28333,
+    50.1,
+    51.28333,
+    50.1
+],
+  "geometry": {"coordinates":[51.28333,50.1],"type":"Point"}
+}

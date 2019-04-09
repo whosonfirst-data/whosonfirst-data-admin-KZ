@@ -1,0 +1,113 @@
+{
+  "id": 421167397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.31472,45.45278,78.31472,45.45278",
+    "geom:latitude":45.45278,
+    "geom:longitude":78.31472,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u043b\u0439"
+    ],
+    "name:dut_x_preferred":[
+        "Molaly"
+    ],
+    "name:eng_x_preferred":[
+        "Molaly"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03bf\u03bb\u03ac\u03bb\u03b9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u043b\u044b"
+    ],
+    "name:may_x_preferred":[
+        "Molaly"
+    ],
+    "name:msa_x_preferred":[
+        "Molaly"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u043b\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Molaly"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u043b\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Molaly"
+    ],
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1520831,
+    "qs:gn_pop":707,
+    "qs:name":"Mulaly",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Almaty",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":133282,
+    "qs:woe_adm0":23424871,
+    "qs:woe_id":2264703,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520831,
+        "gp:id":2264703,
+        "qs:id":133282,
+        "wd:id":"Q4505043",
+        "wk:page":"Molaly"
+    },
+    "wof:country":"KZ",
+    "wof:created":1459008729,
+    "wof:geomhash":"12072a85f052e474dc6cae167c91c896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421167397,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":421167397,
+    "wof:lastmodified":1527716153,
+    "wof:name":"Mulaly",
+    "wof:parent_id":85672921,
+    "wof:placetype":"locality",
+    "wof:population":707,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.31472,
+    45.45278,
+    78.31472,
+    45.45278
+],
+  "geometry": {"coordinates":[78.31471999999999,45.45278],"type":"Point"}
+}

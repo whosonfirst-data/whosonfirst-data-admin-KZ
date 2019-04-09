@@ -1,0 +1,70 @@
+{
+  "id": 1343533745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.73749,53.64502,66.73749,53.64502",
+    "geom:latitude":53.64502,
+    "geom:longitude":66.73749,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Prudovoye",
+    "gn:country_code":"KZ",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532128,
+    "gn:latitude":53.64502,
+    "gn:longitude":66.73749,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Prudovoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0443\u0434\u043e\u0432\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532128
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4a7e80062dfc34d2d3928953865c23fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785689,
+            "locality_id":1343533745,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343533745,
+    "wof:lastmodified":1537659958,
+    "wof:name":"Prudovoye",
+    "wof:parent_id":1108785689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.73749000000001,
+    53.64502,
+    66.73749000000001,
+    53.64502
+],
+  "geometry": {"coordinates":[66.73749000000001,53.64502],"type":"Point"}
+}

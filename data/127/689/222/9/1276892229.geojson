@@ -1,0 +1,67 @@
+{
+  "id": 1276892229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.75411,50.56091,66.75411,50.56091",
+    "geom:latitude":50.56091,
+    "geom:longitude":66.75411,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vostochnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532961,
+    "gn:latitude":50.56091,
+    "gn:longitude":66.75411,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Vostochnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532961
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"23b983b321a9c50c2881b88c6b202528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785517,
+            "locality_id":1276892229,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1276892229,
+    "wof:lastmodified":1537023557,
+    "wof:name":"Vostochnoye",
+    "wof:parent_id":1108785517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.75411,
+    50.56091,
+    66.75411,
+    50.56091
+],
+  "geometry": {"coordinates":[66.75411,50.56091],"type":"Point"}
+}

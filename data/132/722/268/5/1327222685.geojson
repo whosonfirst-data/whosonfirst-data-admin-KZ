@@ -1,0 +1,67 @@
+{
+  "id": 1327222685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.1,42.91667,70.1,42.91667",
+    "geom:latitude":42.91667,
+    "geom:longitude":70.1,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bogoroditskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525236,
+    "gn:latitude":42.91667,
+    "gn:longitude":70.1,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Bogoroditskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525236
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d83a2396f30272bd74b028346e6c5fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785583,
+            "locality_id":1327222685,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1327222685,
+    "wof:lastmodified":1536982934,
+    "wof:name":"Bogoroditskiy",
+    "wof:parent_id":1108785583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.1,
+    42.91667,
+    70.1,
+    42.91667
+],
+  "geometry": {"coordinates":[70.09999999999999,42.91667],"type":"Point"}
+}

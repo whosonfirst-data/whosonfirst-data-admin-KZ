@@ -1,0 +1,80 @@
+{
+  "id": 1293505061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.72026,43.02758,78.72026,43.02758",
+    "geom:latitude":43.02758,
+    "geom:longitude":78.72026,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Toguzbulak",
+    "gn:country_code":"KZ",
+    "gn:dem":1870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518123,
+    "gn:latitude":43.02758,
+    "gn:longitude":78.72026,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Toguzbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Toghyzbulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u043e\u0493\u044b\u0437\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0433\u0443\u0437\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Togubulak",
+        "Toguzbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518123
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4a973221c4e3099995e825d818f8caa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1293505061,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293505061,
+    "wof:lastmodified":1537659552,
+    "wof:name":"Toguzbulak",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.72026,
+    43.02758,
+    78.72026,
+    43.02758
+],
+  "geometry": {"coordinates":[78.72026,43.02758],"type":"Point"}
+}

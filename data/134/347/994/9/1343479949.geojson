@@ -1,0 +1,71 @@
+{
+  "id": 1343479949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.73333,44.3,51.73333,44.3",
+    "geom:latitude":44.3,
+    "geom:longitude":51.73333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Karaduan",
+    "gn:country_code":"KZ",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609663,
+    "gn:latitude":44.3,
+    "gn:longitude":51.73333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Karaduan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karaduuan",
+        "Karaduan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609663
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3ea11c7b6f99060374ab5030db1fdae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785543,
+            "locality_id":1343479949,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1343479949,
+    "wof:lastmodified":1537659419,
+    "wof:name":"Karaduan",
+    "wof:parent_id":1108785543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.73333,
+    44.3,
+    51.73333,
+    44.3
+],
+  "geometry": {"coordinates":[51.73333,44.3],"type":"Point"}
+}

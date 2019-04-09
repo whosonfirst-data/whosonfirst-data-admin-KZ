@@ -1,0 +1,67 @@
+{
+  "id": 1276128411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.1,45.56667,80.1,45.56667",
+    "geom:latitude":45.56667,
+    "geom:longitude":80.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kunzhaman",
+    "gn:country_code":"KZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521783,
+    "gn:latitude":45.56667,
+    "gn:longitude":80.1,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kunzhaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521783
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b831e244e90d32f45bbe579dfa9d3b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785417,
+            "locality_id":1276128411,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1276128411,
+    "wof:lastmodified":1537050971,
+    "wof:name":"Kunzhaman",
+    "wof:parent_id":1108785417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.1,
+    45.56667,
+    80.1,
+    45.56667
+],
+  "geometry": {"coordinates":[80.09999999999999,45.56667],"type":"Point"}
+}

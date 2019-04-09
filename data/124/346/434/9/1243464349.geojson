@@ -1,0 +1,77 @@
+{
+  "id": 1243464349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.7224,48.79628,81.7224,48.79628",
+    "geom:latitude":48.79628,
+    "geom:longitude":81.7224,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zosimovka",
+    "gn:country_code":"KZ",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516444,
+    "gn:latitude":48.79628,
+    "gn:longitude":81.7224,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zosimovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zosimovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0441\u0438\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zyasimovka",
+        "Zosimovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516444
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6c1e9cb5e73685c3d33f5d9de1eb6729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1243464349,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243464349,
+    "wof:lastmodified":1537659469,
+    "wof:name":"Zosimovka",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.7224,
+    48.79628,
+    81.7224,
+    48.79628
+],
+  "geometry": {"coordinates":[81.72239999999999,48.79628],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276199691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.76,44.47056,65.76,44.47056",
+    "geom:latitude":44.47056,
+    "geom:longitude":65.76,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Aydarly",
+    "gn:country_code":"KZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525951,
+    "gn:latitude":44.47056,
+    "gn:longitude":65.76,
+    "gn:modification_date":"1998-03-23",
+    "gn:name":"Aydarly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525951
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"65cd897e20119201976c6f57dc1acb70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785671,
+            "locality_id":1276199691,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1276199691,
+    "wof:lastmodified":1536958101,
+    "wof:name":"Aydarly",
+    "wof:parent_id":1108785671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.76,
+    44.47056,
+    65.76,
+    44.47056
+],
+  "geometry": {"coordinates":[65.76000000000001,44.47056],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242656375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.25,44.85,65.25,44.85",
+    "geom:latitude":44.85,
+    "geom:longitude":65.25,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Koktobe",
+    "gn:country_code":"KZ",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522435,
+    "gn:latitude":44.85,
+    "gn:longitude":65.25,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Koktobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522435
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"57cec4c47f850940552dd418d28c83a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785671,
+            "locality_id":1242656375,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1242656375,
+    "wof:lastmodified":1536950633,
+    "wof:name":"Koktobe",
+    "wof:parent_id":1108785671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.25,
+    44.85,
+    65.25,
+    44.85
+],
+  "geometry": {"coordinates":[65.25,44.85],"type":"Point"}
+}

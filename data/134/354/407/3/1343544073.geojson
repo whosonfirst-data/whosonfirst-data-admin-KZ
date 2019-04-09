@@ -1,0 +1,79 @@
+{
+  "id": 1343544073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.38727,49.50659,84.38727,49.50659",
+    "geom:latitude":49.50659,
+    "geom:longitude":84.38727,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sredigornoye",
+    "gn:country_code":"KZ",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534641,
+    "gn:latitude":49.50659,
+    "gn:longitude":84.38727,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Sredigornoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sredigornoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Sred\u012bgornoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0440\u0435\u0434\u0438\u0433\u043e\u0440\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0440\u0435\u0434\u0438\u0433\u043e\u0440\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534641
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c614fb868474282f8559a0549530e1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1343544073,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343544073,
+    "wof:lastmodified":1537659985,
+    "wof:name":"Sredigornoye",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.38727,
+    49.50659,
+    84.38727,
+    49.50659
+],
+  "geometry": {"coordinates":[84.38727,49.50659],"type":"Point"}
+}

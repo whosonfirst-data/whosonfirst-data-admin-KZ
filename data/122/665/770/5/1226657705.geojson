@@ -1,0 +1,71 @@
+{
+  "id": 1226657705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.0357,51.6041,68.0357,51.6041",
+    "geom:latitude":51.6041,
+    "geom:longitude":68.0357,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Samarka",
+    "gn:country_code":"KZ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519764,
+    "gn:latitude":51.6041,
+    "gn:longitude":68.0357,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Samarka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samarovskiy",
+        "Samarka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519764
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"24cff2f805b6ffadb7106d1ff541935a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785387,
+            "locality_id":1226657705,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226657705,
+    "wof:lastmodified":1537659615,
+    "wof:name":"Samarka",
+    "wof:parent_id":1108785387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.0357,
+    51.6041,
+    68.0357,
+    51.6041
+],
+  "geometry": {"coordinates":[68.03570000000001,51.6041],"type":"Point"}
+}

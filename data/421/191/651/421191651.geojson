@@ -1,0 +1,116 @@
+{
+  "id": 421191651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.59895,50.25676,52.59895,50.25676",
+    "geom:latitude":50.25676,
+    "geom:longitude":52.59895,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0431\u0435\u0439\u0442\u0439"
+    ],
+    "name:dut_x_preferred":[
+        "Zhympity"
+    ],
+    "name:eng_x_preferred":[
+        "Zhymp\u012bty"
+    ],
+    "name:gre_x_preferred":[
+        "\u0396\u03b9\u03bc\u03c0\u03af\u03c4\u03b9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05d9\u05de\u05e4\u05d9\u05d8\u05d9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u044b\u043c\u043f\u0438\u0442\u044b"
+    ],
+    "name:kaz_x_variant":[
+        "Zhymp\u012bty"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u044b\u043c\u043f\u0438\u0442\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0436\u0430\u043c\u0431\u0435\u0439\u0442\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Dzjambejty"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0438\u043c\u043f\u0456\u0442\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Dzhambeyty"
+    ],
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":609977,
+    "qs:gn_pop":6262,
+    "qs:name":"Zhympity",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Batys Qazaqstan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":69851,
+    "qs:woe_adm0":23424871,
+    "qs:woe_id":29389366,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609977,
+        "gp:id":29389366,
+        "qs:id":69851,
+        "wd:id":"Q4737934",
+        "wk:page":"Zhympity"
+    },
+    "wof:country":"KZ",
+    "wof:created":1459009700,
+    "wof:geomhash":"671bfedca38cc7dff83c8b590d26764a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421191651,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":421191651,
+    "wof:lastmodified":1527716376,
+    "wof:name":"Zhympity",
+    "wof:parent_id":85672893,
+    "wof:placetype":"locality",
+    "wof:population":6262,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.59895,
+    50.25676,
+    52.59895,
+    50.25676
+],
+  "geometry": {"coordinates":[52.59895,50.25676],"type":"Point"}
+}

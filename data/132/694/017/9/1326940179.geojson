@@ -1,0 +1,67 @@
+{
+  "id": 1326940179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.85,49.48333,49.85,49.48333",
+    "geom:latitude":49.48333,
+    "geom:longitude":49.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kokterek",
+    "gn:country_code":"KZ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609346,
+    "gn:latitude":49.48333,
+    "gn:longitude":49.85,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kokterek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609346
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4fe58ef72b7e6a68abcea43c2f07ae6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1326940179,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1326940179,
+    "wof:lastmodified":1536892950,
+    "wof:name":"Kokterek",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.85,
+    49.48333,
+    49.85,
+    49.48333
+],
+  "geometry": {"coordinates":[49.85,49.48333],"type":"Point"}
+}

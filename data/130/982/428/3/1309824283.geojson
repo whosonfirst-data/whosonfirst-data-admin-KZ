@@ -1,0 +1,70 @@
+{
+  "id": 1309824283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.12772,42.53883,70.12772,42.53883",
+    "geom:latitude":42.53883,
+    "geom:longitude":70.12772,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Karakchi",
+    "gn:country_code":"KZ",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523351,
+    "gn:latitude":42.53883,
+    "gn:longitude":70.12772,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Karakchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523351
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"34c953678e46d99638d8938332d652bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785605,
+            "locality_id":1309824283,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1309824283,
+    "wof:lastmodified":1537659791,
+    "wof:name":"Karakchi",
+    "wof:parent_id":1108785605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.12772,
+    42.53883,
+    70.12772,
+    42.53883
+],
+  "geometry": {"coordinates":[70.12772,42.53883],"type":"Point"}
+}

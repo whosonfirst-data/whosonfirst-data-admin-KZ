@@ -1,0 +1,74 @@
+{
+  "id": 1293012275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.69852,51.40102,71.69852,51.40102",
+    "geom:latitude":51.40102,
+    "geom:longitude":71.69852,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sofiyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518927,
+    "gn:latitude":51.40102,
+    "gn:longitude":71.69852,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sofiyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sof\u012bevka"
+    ],
+    "name:und_x_variant":[
+        "Sof\u2019inskoye",
+        "Sofiyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518927
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e08e344608eb53017c9b900ebbaa71e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785441,
+            "locality_id":1293012275,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293012275,
+    "wof:lastmodified":1537659582,
+    "wof:name":"Sofiyevka",
+    "wof:parent_id":1108785441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.69852,
+    51.40102,
+    71.69852,
+    51.40102
+],
+  "geometry": {"coordinates":[71.69852,51.40102],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210030843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.68333,53.25,63.68333,53.25",
+    "geom:latitude":53.25,
+    "geom:longitude":63.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Krasnyy Partizan",
+    "gn:country_code":"KZ",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521976,
+    "gn:latitude":53.25,
+    "gn:longitude":63.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Krasnyy Partizan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krasnyy Partizan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d.\u043f\u0430\u0440\u0442\u0438\u0437\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521976
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f2bdc3552c40b64f13a9896172c604e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1210030843,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1210030843,
+    "wof:lastmodified":1537659735,
+    "wof:name":"Krasnyy Partizan",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.68333000000001,
+    53.25,
+    63.68333000000001,
+    53.25
+],
+  "geometry": {"coordinates":[63.68333000000001,53.25],"type":"Point"}
+}

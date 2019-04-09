@@ -1,0 +1,67 @@
+{
+  "id": 1310015987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.91667,49.86667,47.91667,49.86667",
+    "geom:latitude":49.86667,
+    "geom:longitude":47.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Malayak",
+    "gn:country_code":"KZ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608907,
+    "gn:latitude":49.86667,
+    "gn:longitude":47.91667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Malayak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608907
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b94b9a043383aecaaf4325c2df97a89e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1310015987,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1310015987,
+    "wof:lastmodified":1536626241,
+    "wof:name":"Malayak",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.91667,
+    49.86667,
+    47.91667,
+    49.86667
+],
+  "geometry": {"coordinates":[47.91667,49.86667],"type":"Point"}
+}

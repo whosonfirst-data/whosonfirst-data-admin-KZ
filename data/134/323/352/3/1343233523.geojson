@@ -1,0 +1,84 @@
+{
+  "id": 1343233523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.74892,53.86285,63.74892,53.86285",
+    "geom:latitude":53.86285,
+    "geom:longitude":63.74892,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Aleshinka",
+    "gn:country_code":"KZ",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526434,
+    "gn:latitude":53.86285,
+    "gn:longitude":63.74892,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Aleshinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Al\u00ebshinka"
+    ],
+    "name:kaz_x_preferred":[
+        "Alesh\u012bnka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u043b\u0435\u0448\u0438\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u0448\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Aleshinskiy",
+        "Al\u00ebshinka",
+        "Aleshinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526434
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2ca34a4807e47da171c8b1dc26cabaff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785385,
+            "locality_id":1343233523,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343233523,
+    "wof:lastmodified":1537659913,
+    "wof:name":"Aleshinka",
+    "wof:parent_id":1108785385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.74892,
+    53.86285,
+    63.74892,
+    53.86285
+],
+  "geometry": {"coordinates":[63.74892,53.86285],"type":"Point"}
+}

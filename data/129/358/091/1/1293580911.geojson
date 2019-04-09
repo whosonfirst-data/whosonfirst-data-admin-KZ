@@ -1,0 +1,73 @@
+{
+  "id": 1293580911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.97573,49.68516,49.97573,49.68516",
+    "geom:latitude":49.68516,
+    "geom:longitude":49.97573,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Alimbek",
+    "gn:country_code":"KZ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610655,
+    "gn:latitude":49.68516,
+    "gn:longitude":49.97573,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Alimbek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Alimbek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0438\u043c\u0431\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610655
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e1ccb5a43ff2d5a7ee935eeb30827f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1293580911,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293580911,
+    "wof:lastmodified":1537659450,
+    "wof:name":"Alimbek",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.97573,
+    49.68516,
+    49.97573,
+    49.68516
+],
+  "geometry": {"coordinates":[49.97573,49.68516],"type":"Point"}
+}

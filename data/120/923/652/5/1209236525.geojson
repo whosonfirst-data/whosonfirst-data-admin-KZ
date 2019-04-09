@@ -1,0 +1,61 @@
+{
+  "id": 1209236525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.75,47.9,47.75,47.9",
+    "geom:latitude":47.9,
+    "geom:longitude":47.75,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Stamgazi",
+    "gn:country_code":"KZ",
+    "gn:dem":-12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608188,
+    "gn:latitude":47.9,
+    "gn:longitude":47.75,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Stamgazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608188
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3f19d69a891f2d74f0adcaed21226f31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209236525
+        }
+    ],
+    "wof:id":1209236525,
+    "wof:lastmodified":1536293461,
+    "wof:name":"Stamgazi",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.75,
+    47.9,
+    47.75,
+    47.9
+],
+  "geometry": {"coordinates":[47.75,47.9],"type":"Point"}
+}

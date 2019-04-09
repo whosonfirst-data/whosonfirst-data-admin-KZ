@@ -1,0 +1,67 @@
+{
+  "id": 1225955973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.78333,52.3,69.78333,52.3",
+    "geom:latitude":52.3,
+    "geom:longitude":69.78333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novyy Khutor",
+    "gn:country_code":"KZ",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520516,
+    "gn:latitude":52.3,
+    "gn:longitude":69.78333,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Novyy Khutor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520516
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aafb5a757f46500cf236f1fc223282d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785389,
+            "locality_id":1225955973,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1225955973,
+    "wof:lastmodified":1536853408,
+    "wof:name":"Novyy Khutor",
+    "wof:parent_id":1108785389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.78333,
+    52.3,
+    69.78333,
+    52.3
+],
+  "geometry": {"coordinates":[69.78333000000001,52.3],"type":"Point"}
+}

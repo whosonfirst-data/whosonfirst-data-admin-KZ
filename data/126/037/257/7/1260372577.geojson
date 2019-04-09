@@ -1,0 +1,86 @@
+{
+  "id": 1260372577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.835,54.18621,67.835,54.18621",
+    "geom:latitude":54.18621,
+    "geom:longitude":67.835,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zharkaik",
+    "gn:country_code":"KZ",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516751,
+    "gn:latitude":54.18621,
+    "gn:longitude":67.835,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Zharkaik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zharkaik"
+    ],
+    "name:kaz_x_preferred":[
+        "Zharqayyng"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u0440\u049b\u0430\u0439\u044b\u04a3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0440\u043a\u0430\u0439\u044b\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0416\u0430\u0440\u043a\u0430\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zhargain",
+        "Zharkaik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516751
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1db0490a5841761f49231dd50dd79502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785563,
+            "locality_id":1260372577,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1260372577,
+    "wof:lastmodified":1537659482,
+    "wof:name":"Zharkaik",
+    "wof:parent_id":1108785563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.835,
+    54.18621,
+    67.835,
+    54.18621
+],
+  "geometry": {"coordinates":[67.83499999999999,54.18621],"type":"Point"}
+}

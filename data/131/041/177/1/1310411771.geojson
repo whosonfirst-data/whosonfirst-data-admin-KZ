@@ -1,0 +1,67 @@
+{
+  "id": 1310411771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.83333,49.46667,54.83333,49.46667",
+    "geom:latitude":49.46667,
+    "geom:longitude":54.83333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kiil",
+    "gn:country_code":"KZ",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609399,
+    "gn:latitude":49.46667,
+    "gn:longitude":54.83333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kiil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609399
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e4a657fc4394cc4902f47dfd5361f8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785401,
+            "locality_id":1310411771,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1310411771,
+    "wof:lastmodified":1537050081,
+    "wof:name":"Kiil",
+    "wof:parent_id":1108785401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.83333,
+    49.46667,
+    54.83333,
+    49.46667
+],
+  "geometry": {"coordinates":[54.83333,49.46667],"type":"Point"}
+}

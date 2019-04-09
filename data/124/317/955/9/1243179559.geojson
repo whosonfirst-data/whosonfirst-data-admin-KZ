@@ -1,0 +1,73 @@
+{
+  "id": 1243179559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.99017,52.03907,72.99017,52.03907",
+    "geom:latitude":52.03907,
+    "geom:longitude":72.99017,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chilinka",
+    "gn:country_code":"KZ",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10838487,
+    "gn:latitude":52.03907,
+    "gn:longitude":72.99017,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Chilinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Ch\u012bl\u012bnka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0427\u0438\u043b\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10838487
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9d6a50c910c3bb5fc9c5e44e3e884e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1243179559,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1243179559,
+    "wof:lastmodified":1537660064,
+    "wof:name":"Chilinka",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.99016999999998,
+    52.03907,
+    72.99016999999998,
+    52.03907
+],
+  "geometry": {"coordinates":[72.99016999999998,52.03907],"type":"Point"}
+}

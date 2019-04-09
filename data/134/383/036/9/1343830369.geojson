@@ -1,0 +1,84 @@
+{
+  "id": 1343830369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.51335,54.48148,70.51335,54.48148",
+    "geom:latitude":54.48148,
+    "geom:longitude":70.51335,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tamanskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523856,
+    "gn:latitude":54.48148,
+    "gn:longitude":70.51335,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Tamanskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tamanskoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Tamanskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0430\u043c\u0430\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Imeni Tamanskoy Divizii",
+        "Uzun-Kol\u2019",
+        "Tamanskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523856
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"78e322581bb8bc8118c33a8f787bc35f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1343830369,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343830369,
+    "wof:lastmodified":1537659810,
+    "wof:name":"Tamanskoye",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.51335,
+    54.48148000000001,
+    70.51335,
+    54.48148000000001
+],
+  "geometry": {"coordinates":[70.51335,54.48148000000001],"type":"Point"}
+}

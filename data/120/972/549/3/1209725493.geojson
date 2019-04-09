@@ -1,0 +1,73 @@
+{
+  "id": 1209725493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.56667,49.06667,50.56667,49.06667",
+    "geom:latitude":49.06667,
+    "geom:longitude":50.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kenzhebay",
+    "gn:country_code":"KZ",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609436,
+    "gn:latitude":49.06667,
+    "gn:longitude":50.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kenzhebay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kenzhebay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0436\u0435\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609436
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"43c6162b33bec3d2ecedc2bd42fff907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1209725493,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1209725493,
+    "wof:lastmodified":1537659412,
+    "wof:name":"Kenzhebay",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.56667,
+    49.06667,
+    50.56667,
+    49.06667
+],
+  "geometry": {"coordinates":[50.56667,49.06667],"type":"Point"}
+}

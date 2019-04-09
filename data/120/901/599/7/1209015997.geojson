@@ -1,0 +1,74 @@
+{
+  "id": 1209015997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.21273,52.40308,70.21273,52.40308",
+    "geom:latitude":52.40308,
+    "geom:longitude":70.21273,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Voznesenka",
+    "gn:country_code":"KZ",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517366,
+    "gn:latitude":52.40308,
+    "gn:longitude":70.21273,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Voznesenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Voznesenka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Voznesenskoye",
+        "Voznesenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517366
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4bdbd52ec648ed5a2e863cb147fa3a10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209015997
+        }
+    ],
+    "wof:id":1209015997,
+    "wof:lastmodified":1537659515,
+    "wof:name":"Voznesenka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.21273000000001,
+    52.40308,
+    70.21273000000001,
+    52.40308
+],
+  "geometry": {"coordinates":[70.21273000000001,52.40308],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360300375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.13622,49.45219,82.13622,49.45219",
+    "geom:latitude":49.45219,
+    "geom:longitude":82.13622,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Belyanskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525463,
+    "gn:latitude":49.45219,
+    "gn:longitude":82.13622,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Belyanskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Belyanskiy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0440\u0438\u0436\u0430\u0431\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Dirizhaol\u2019",
+        "Belyanskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525463
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"356c2809eed7870148eb353619b8d906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785473,
+            "locality_id":1360300375,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1360300375,
+    "wof:lastmodified":1537659877,
+    "wof:name":"Belyanskiy",
+    "wof:parent_id":1108785473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.13622,
+    49.45219,
+    82.13622,
+    49.45219
+],
+  "geometry": {"coordinates":[82.13621999999999,49.45219],"type":"Point"}
+}

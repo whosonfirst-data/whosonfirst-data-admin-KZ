@@ -1,0 +1,79 @@
+{
+  "id": 1309788555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.36772,49.02024,83.36772,49.02024",
+    "geom:latitude":49.02024,
+    "geom:longitude":83.36772,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Samarskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519756,
+    "gn:latitude":49.02024,
+    "gn:longitude":83.36772,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Samarskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Samarskoe"
+    ],
+    "name:kaz_x_preferred":[
+        "Samarskoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Samarovskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519756
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2a8d686bdbbed7afce4bb8b6ffe9d7c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1309788555,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1309788555,
+    "wof:lastmodified":1537659615,
+    "wof:name":"Samarskoye",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.36771999999998,
+    49.02024,
+    83.36771999999998,
+    49.02024
+],
+  "geometry": {"coordinates":[83.36771999999998,49.02024],"type":"Point"}
+}

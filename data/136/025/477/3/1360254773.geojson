@@ -1,0 +1,74 @@
+{
+  "id": 1360254773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.00707,55.10944,70.00707,55.10944",
+    "geom:latitude":55.10944,
+    "geom:longitude":70.00707,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nikolayevka",
+    "gn:country_code":"KZ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520697,
+    "gn:latitude":55.10944,
+    "gn:longitude":70.00707,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Nikolayevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Nikolayevskiy",
+        "N\u012bkolaevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520697
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4cc73072b9092136ceded549cb43e1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1360254773,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1360254773,
+    "wof:lastmodified":1537659675,
+    "wof:name":"Nikolayevka",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.00707,
+    55.10944,
+    70.00707,
+    55.10944
+],
+  "geometry": {"coordinates":[70.00707,55.10944],"type":"Point"}
+}

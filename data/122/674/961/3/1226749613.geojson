@@ -1,0 +1,71 @@
+{
+  "id": 1226749613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.28567,51.67424,68.28567,51.67424",
+    "geom:latitude":51.67424,
+    "geom:longitude":68.28567,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ashchykol'",
+    "gn:country_code":"KZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526130,
+    "gn:latitude":51.67424,
+    "gn:longitude":68.28567,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ashchykol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashchikol\u2019",
+        "Ashchykol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526130
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"039618df8c7b56c148f1dfda683dce84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785387,
+            "locality_id":1226749613,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226749613,
+    "wof:lastmodified":1537659901,
+    "wof:name":"Ashchykol'",
+    "wof:parent_id":1108785387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.28567,
+    51.67424000000001,
+    68.28567,
+    51.67424000000001
+],
+  "geometry": {"coordinates":[68.28567,51.67424000000001],"type":"Point"}
+}

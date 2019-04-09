@@ -1,0 +1,75 @@
+{
+  "id": 1193036329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.89723,41.32265,68.89723,41.32265",
+    "geom:latitude":41.32265,
+    "geom:longitude":68.89723,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Beskubyr",
+    "gn:country_code":"KZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525400,
+    "gn:latitude":41.32265,
+    "gn:longitude":68.89723,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Beskubyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u043a\u0443\u0431\u044b\u0440"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Kelesskiy",
+        "Beskubur",
+        "Beskubyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525400
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"35194c7f23aeaf9584cbd932ee80fb4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1193036329,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1193036329,
+    "wof:lastmodified":1537659873,
+    "wof:name":"Beskubyr",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.89723000000001,
+    41.32265,
+    68.89723000000001,
+    41.32265
+],
+  "geometry": {"coordinates":[68.89723000000001,41.32265],"type":"Point"}
+}

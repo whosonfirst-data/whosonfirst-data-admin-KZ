@@ -1,0 +1,67 @@
+{
+  "id": 1259855737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.2,43.03333,71.2,43.03333",
+    "geom:latitude":43.03333,
+    "geom:longitude":71.2,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kokozek",
+    "gn:country_code":"KZ",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522514,
+    "gn:latitude":43.03333,
+    "gn:longitude":71.2,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Kokozek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522514
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5d7d5b0f5cc1711c26817d9a400a1a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785603,
+            "locality_id":1259855737,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1259855737,
+    "wof:lastmodified":1536818313,
+    "wof:name":"Kokozek",
+    "wof:parent_id":1108785603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.2,
+    43.03333,
+    71.2,
+    43.03333
+],
+  "geometry": {"coordinates":[71.2,43.03333],"type":"Point"}
+}

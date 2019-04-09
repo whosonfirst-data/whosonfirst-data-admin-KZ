@@ -1,0 +1,85 @@
+{
+  "id": 1243426929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.1252,53.59488,71.1252,53.59488",
+    "geom:latitude":53.59488,
+    "geom:longitude":71.1252,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ashchykol'",
+    "gn:country_code":"KZ",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532481,
+    "gn:latitude":53.59488,
+    "gn:longitude":71.1252,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Ashchykol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ashchykol'"
+    ],
+    "name:kaz_x_preferred":[
+        "Ashchyk\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0449\u044b\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0449\u0438\u043a\u043e\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0449\u044b\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Ashchykol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532481
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6248f740e7c1905caa8708aec71b2c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1243426929,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243426929,
+    "wof:lastmodified":1537659969,
+    "wof:name":"Ashchykol'",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.1252,
+    53.59488,
+    71.1252,
+    53.59488
+],
+  "geometry": {"coordinates":[71.12520000000001,53.59488],"type":"Point"}
+}

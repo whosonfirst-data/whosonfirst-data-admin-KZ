@@ -1,0 +1,73 @@
+{
+  "id": 1209708245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.45,47.61667,49.45,47.61667",
+    "geom:latitude":47.61667,
+    "geom:longitude":49.45,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sasyktau",
+    "gn:country_code":"KZ",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608426,
+    "gn:latitude":47.61667,
+    "gn:longitude":49.45,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sasyktau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sasyktau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0441\u044b\u043a\u0442\u0430\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608426
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"db456b4b8989fdffeaa9a2867cef85f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1209708245,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1209708245,
+    "wof:lastmodified":1537659371,
+    "wof:name":"Sasyktau",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.45,
+    47.61667,
+    49.45,
+    47.61667
+],
+  "geometry": {"coordinates":[49.45,47.61667],"type":"Point"}
+}

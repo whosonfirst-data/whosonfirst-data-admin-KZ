@@ -1,0 +1,73 @@
+{
+  "id": 1209326179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.24083,52.00257,66.24083,52.00257",
+    "geom:latitude":52.00257,
+    "geom:longitude":66.24083,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Surgan",
+    "gn:country_code":"KZ",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518707,
+    "gn:latitude":52.00257,
+    "gn:longitude":66.24083,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Surgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Surgan"
+    ],
+    "name:kaz_x_preferred":[
+        "Surghan"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u04b1\u0440\u0493\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0440\u0433\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518707
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9b811b6e4d5d2fc88b598afed4d5b47e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209326179
+        }
+    ],
+    "wof:id":1209326179,
+    "wof:lastmodified":1537659571,
+    "wof:name":"Surgan",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.24083,
+    52.00257,
+    66.24083,
+    52.00257
+],
+  "geometry": {"coordinates":[66.24083,52.00257],"type":"Point"}
+}

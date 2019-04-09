@@ -1,0 +1,80 @@
+{
+  "id": 1259860745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.67965,51.43516,78.67965,51.43516",
+    "geom:latitude":51.43516,
+    "geom:longitude":78.67965,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shingrau",
+    "gn:country_code":"KZ",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519150,
+    "gn:latitude":51.43516,
+    "gn:longitude":78.67965,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Shingrau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shirau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u044b\u043d\u0433\u0440\u0430\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0438\u043d\u0433\u0440\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Shirau",
+        "Shingrau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519150
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4fff9db5fba9453b7d45c56b3859a743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785559,
+            "locality_id":1259860745,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259860745,
+    "wof:lastmodified":1537659593,
+    "wof:name":"Shingrau",
+    "wof:parent_id":1108785559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.67965,
+    51.43516,
+    78.67965,
+    51.43516
+],
+  "geometry": {"coordinates":[78.67965,51.43516],"type":"Point"}
+}

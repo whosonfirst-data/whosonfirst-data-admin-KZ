@@ -1,0 +1,71 @@
+{
+  "id": 1276669511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.04557,51.19695,67.04557,51.19695",
+    "geom:latitude":51.19695,
+    "geom:longitude":67.04557,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kumsuat",
+    "gn:country_code":"KZ",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519857,
+    "gn:latitude":51.19695,
+    "gn:longitude":67.04557,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kumsuat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rostovskiy",
+        "Kumsuat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519857
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9fb7aa36a37b8041252ab31a3b18043e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785497,
+            "locality_id":1276669511,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1276669511,
+    "wof:lastmodified":1537659621,
+    "wof:name":"Kumsuat",
+    "wof:parent_id":1108785497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.04557,
+    51.19695,
+    67.04557,
+    51.19695
+],
+  "geometry": {"coordinates":[67.04557,51.19695],"type":"Point"}
+}

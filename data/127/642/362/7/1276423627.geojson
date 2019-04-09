@@ -1,0 +1,73 @@
+{
+  "id": 1276423627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.83333,47.65,80.83333,47.65",
+    "geom:latitude":47.65,
+    "geom:longitude":80.83333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Beketay",
+    "gn:country_code":"KZ",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525546,
+    "gn:latitude":47.65,
+    "gn:longitude":80.83333,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Beketay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kenkolat"
+    ],
+    "name:und_x_variant":[
+        "Ferma Chetv\u00ebrtaya Sovkhoza Mynbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525546
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6d3fe1ff9e0cc1e8af4ee30213a9a234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785459,
+            "locality_id":1276423627,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276423627,
+    "wof:lastmodified":1537659881,
+    "wof:name":"Beketay",
+    "wof:parent_id":1108785459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.83333,
+    47.65,
+    80.83333,
+    47.65
+],
+  "geometry": {"coordinates":[80.83333,47.65],"type":"Point"}
+}

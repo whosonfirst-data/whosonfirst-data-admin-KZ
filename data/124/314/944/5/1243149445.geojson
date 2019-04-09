@@ -1,0 +1,79 @@
+{
+  "id": 1243149445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.48176,48.90535,73.48176,48.90535",
+    "geom:latitude":48.90535,
+    "geom:longitude":73.48176,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tumsyq",
+    "gn:country_code":"KZ",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492262,
+    "gn:latitude":48.90535,
+    "gn:longitude":73.48176,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Tumsyq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Tumsyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u04b1\u043c\u0441\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043c\u0441\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Tumsyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492262
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1eb45810132b23f429be74b984948277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1243149445,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1243149445,
+    "wof:lastmodified":1537660164,
+    "wof:name":"Tumsyq",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.48176,
+    48.90535,
+    73.48176,
+    48.90535
+],
+  "geometry": {"coordinates":[73.48175999999999,48.90535],"type":"Point"}
+}

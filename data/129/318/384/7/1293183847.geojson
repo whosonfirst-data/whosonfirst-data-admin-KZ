@@ -1,0 +1,70 @@
+{
+  "id": 1293183847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.53253,48.75223,82.53253,48.75223",
+    "geom:latitude":48.75223,
+    "geom:longitude":82.53253,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ushkyn",
+    "gn:country_code":"KZ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527361,
+    "gn:latitude":48.75223,
+    "gn:longitude":82.53253,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Ushkyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0448\u043a\u044b\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527361
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"afab35ab837a1531301a1205e694c821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1293183847,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293183847,
+    "wof:lastmodified":1537660187,
+    "wof:name":"Ushkyn",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.53253000000002,
+    48.75223,
+    82.53253000000002,
+    48.75223
+],
+  "geometry": {"coordinates":[82.53253000000002,48.75223],"type":"Point"}
+}

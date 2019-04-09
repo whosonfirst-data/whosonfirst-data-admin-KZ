@@ -1,0 +1,78 @@
+{
+  "id": 890443867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.18166,52.45606,68.18166,52.45606",
+    "geom:latitude":52.45606,
+    "geom:longitude":68.18166,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":5626,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shantobe"
+    ],
+    "name:kaz_x_preferred":[
+        "Shangt\u00f6be"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0430\u04a3\u0442\u04e9\u0431\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043d\u0442\u043e\u0431\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Shantyube"
+    ],
+    "qs:name":"Shantobe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519277,
+        "qs:id":1031661
+    },
+    "wof:country":"KZ",
+    "wof:created":1469052441,
+    "wof:geomhash":"0c7f258ddf3b7557a5d5eeaf61511141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890443867,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":890443867,
+    "wof:lastmodified":1505343596,
+    "wof:name":"Shantobe",
+    "wof:parent_id":85672897,
+    "wof:placetype":"locality",
+    "wof:population":5626,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.18166,
+    52.45606,
+    68.18166,
+    52.45606
+],
+  "geometry": {"coordinates":[68.18165999999999,52.45606],"type":"Point"}
+}

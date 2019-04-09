@@ -1,0 +1,79 @@
+{
+  "id": 1260063033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.52369,48.29204,85.52369,48.29204",
+    "geom:latitude":48.29204,
+    "geom:longitude":85.52369,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bylgharytabyty",
+    "gn:country_code":"KZ",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10867424,
+    "gn:latitude":48.29204,
+    "gn:longitude":85.52369,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Bylgharytabyty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Bylgharytabyty"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u044b\u043b\u0493\u0430\u0440\u044b\u0442\u0430\u0431\u044b\u0442\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u0440\u0442\u0430\u0431\u044b\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bulgartabyty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10867424
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c5ed9466ab8d3ca3e795af81b29802c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1260063033,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1260063033,
+    "wof:lastmodified":1537660071,
+    "wof:name":"Bylgharytabyty",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.52369,
+    48.29204,
+    85.52369,
+    48.29204
+],
+  "geometry": {"coordinates":[85.52369,48.29204],"type":"Point"}
+}

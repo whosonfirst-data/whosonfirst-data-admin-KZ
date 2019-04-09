@@ -1,0 +1,73 @@
+{
+  "id": 1327216675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.23787,50.56775,82.23787,50.56775",
+    "geom:latitude":50.56775,
+    "geom:longitude":82.23787,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kandykovka",
+    "gn:country_code":"KZ",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510191,
+    "gn:latitude":50.56775,
+    "gn:longitude":82.23787,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kandykovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kandykovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0430\u043d\u0434\u044b\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510191
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9001bc903538d0c7f35f3630c63b28df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785611,
+            "locality_id":1327216675,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327216675,
+    "wof:lastmodified":1537660178,
+    "wof:name":"Kandykovka",
+    "wof:parent_id":1108785611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.23787,
+    50.56775,
+    82.23787,
+    50.56775
+],
+  "geometry": {"coordinates":[82.23787,50.56775],"type":"Point"}
+}

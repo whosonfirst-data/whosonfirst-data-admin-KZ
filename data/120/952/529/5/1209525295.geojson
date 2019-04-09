@@ -1,0 +1,61 @@
+{
+  "id": 1209525295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.33333,50.76667,72.33333,50.76667",
+    "geom:latitude":50.76667,
+    "geom:longitude":72.33333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Voznesenskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517359,
+    "gn:latitude":50.76667,
+    "gn:longitude":72.33333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Voznesenskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517359
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bfef6a1aa1e650a3478e6b6e51a22a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209525295
+        }
+    ],
+    "wof:id":1209525295,
+    "wof:lastmodified":1536284450,
+    "wof:name":"Voznesenskoye",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.33333,
+    50.76667,
+    72.33333,
+    50.76667
+],
+  "geometry": {"coordinates":[72.33333,50.76667],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1276202611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.67318,52.82766,62.67318,52.82766",
+    "geom:latitude":52.82766,
+    "geom:longitude":62.67318,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Voronezhskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517403,
+    "gn:latitude":52.82766,
+    "gn:longitude":62.67318,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Voronezhskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Voronezhskoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Voronezhskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u043d\u0438\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Voronenskiy",
+        "Voronezhskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517403
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f9f08d73d9efa9325d39907c33b07efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785535,
+            "locality_id":1276202611,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1276202611,
+    "wof:lastmodified":1537659519,
+    "wof:name":"Voronezhskoye",
+    "wof:parent_id":1108785535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.67318,
+    52.82766,
+    62.67318,
+    52.82766
+],
+  "geometry": {"coordinates":[62.67318,52.82766],"type":"Point"}
+}

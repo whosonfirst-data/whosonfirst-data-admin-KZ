@@ -1,0 +1,83 @@
+{
+  "id": 1209988979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.3836,52.99919,67.3836,52.99919",
+    "geom:latitude":52.99919,
+    "geom:longitude":67.3836,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Andreyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526304,
+    "gn:latitude":52.99919,
+    "gn:longitude":67.3836,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Andreyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Andreyevka"
+    ],
+    "name:kaz_x_preferred":[
+        "Andreevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u043d\u0434\u0440\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Andreyevskoye",
+        "Andreyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526304
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ea96735ef266adbb97be5a2ddeb38aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1209988979,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1209988979,
+    "wof:lastmodified":1537659908,
+    "wof:name":"Andreyevka",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.3836,
+    52.99919000000001,
+    67.3836,
+    52.99919000000001
+],
+  "geometry": {"coordinates":[67.3836,52.99919000000001],"type":"Point"}
+}

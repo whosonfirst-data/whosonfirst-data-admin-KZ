@@ -1,0 +1,67 @@
+{
+  "id": 1326740423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.76667,49.65,50.76667,49.65",
+    "geom:latitude":49.65,
+    "geom:longitude":50.76667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Barpel'",
+    "gn:country_code":"KZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610434,
+    "gn:latitude":49.65,
+    "gn:longitude":50.76667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Barpel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610434
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3834e91579c886bac0e09bfa9453f0a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1326740423,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1326740423,
+    "wof:lastmodified":1536683784,
+    "wof:name":"Barpel'",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.76667,
+    49.65,
+    50.76667,
+    49.65
+],
+  "geometry": {"coordinates":[50.76667,49.65],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1193017935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.95373,52.86412,69.95373,52.86412",
+    "geom:latitude":52.86412,
+    "geom:longitude":69.95373,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zlatopol'ye",
+    "gn:country_code":"KZ",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516459,
+    "gn:latitude":52.86412,
+    "gn:longitude":69.95373,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Zlatopol\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zlatopol'ye"
+    ],
+    "name:kaz_x_preferred":[
+        "Zlatopol\u2019e"
+    ],
+    "name:kaz_x_variant":[
+        "\u0417\u043b\u0430\u0442\u043e\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u043e\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:rus_x_variant":[
+        "Zlatopol\u2019ye",
+        "Sovkhoz Zlatopol\u2019skiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516459
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"01ef7e5af094c0e227fad822f14828ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785629,
+            "locality_id":1193017935,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1193017935,
+    "wof:lastmodified":1537659471,
+    "wof:name":"Zlatopol'ye",
+    "wof:parent_id":1108785629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.95373000000001,
+    52.86411999999999,
+    69.95373000000001,
+    52.86411999999999
+],
+  "geometry": {"coordinates":[69.95373000000001,52.86411999999999],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310186353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.25124,52.3321,77.25124,52.3321",
+    "geom:latitude":52.3321,
+    "geom:longitude":77.25124,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shangdy",
+    "gn:country_code":"KZ",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10801719,
+    "gn:latitude":52.3321,
+    "gn:longitude":77.25124,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Shangdy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shangdy"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0430\u04a3\u0434\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043d\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Shandy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10801719
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"231713fb9fdb48f0f61477334e9b3c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785561,
+            "locality_id":1310186353,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310186353,
+    "wof:lastmodified":1537660060,
+    "wof:name":"Shangdy",
+    "wof:parent_id":1108785561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.25124,
+    52.3321,
+    77.25124,
+    52.3321
+],
+  "geometry": {"coordinates":[77.25124,52.3321],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326963191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.1,47.13333,56.1,47.13333",
+    "geom:latitude":47.13333,
+    "geom:longitude":56.1,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Akkuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610755,
+    "gn:latitude":47.13333,
+    "gn:longitude":56.1,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Akkuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610755
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d06cb97703242d5e1e9a50ade634c60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785399,
+            "locality_id":1326963191,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1326963191,
+    "wof:lastmodified":1536858936,
+    "wof:name":"Akkuduk",
+    "wof:parent_id":1108785399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.1,
+    47.13333,
+    56.1,
+    47.13333
+],
+  "geometry": {"coordinates":[56.1,47.13333],"type":"Point"}
+}

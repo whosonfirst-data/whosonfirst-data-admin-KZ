@@ -1,0 +1,67 @@
+{
+  "id": 1259383245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.6,49.9,54.6,49.9",
+    "geom:latitude":49.9,
+    "geom:longitude":54.6,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sokolovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608230,
+    "gn:latitude":49.9,
+    "gn:longitude":54.6,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sokolovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608230
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f09cd57d9265db82cb3d4031fbbf1281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785491,
+            "locality_id":1259383245,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1259383245,
+    "wof:lastmodified":1537001855,
+    "wof:name":"Sokolovskiy",
+    "wof:parent_id":1108785491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.6,
+    49.9,
+    54.6,
+    49.9
+],
+  "geometry": {"coordinates":[54.6,49.9],"type":"Point"}
+}

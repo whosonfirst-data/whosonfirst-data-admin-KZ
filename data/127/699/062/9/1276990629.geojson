@@ -1,0 +1,81 @@
+{
+  "id": 1276990629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.27028,43.35833,76.27028,43.35833",
+    "geom:latitude":43.35833,
+    "geom:longitude":76.27028,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taran",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518468,
+    "gn:latitude":43.35833,
+    "gn:longitude":76.27028,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Taran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Balghabek Qydyrbekuly"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u043b\u0493\u0430\u0431\u0435\u043a \u049a\u044b\u0434\u044b\u0440\u0431\u0435\u043a\u04b1\u043b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Imeni Tarana",
+        "Taran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518468
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aaa362542ecef368173aed1e9bf9b984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1276990629,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1276990629,
+    "wof:lastmodified":1537659564,
+    "wof:name":"Taran",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.27028,
+    43.35833,
+    76.27028,
+    43.35833
+],
+  "geometry": {"coordinates":[76.27028,43.35833],"type":"Point"}
+}

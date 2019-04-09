@@ -1,0 +1,67 @@
+{
+  "id": 1209077583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.07402,53.52209,64.07402,53.52209",
+    "geom:latitude":53.52209,
+    "geom:longitude":64.07402,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sormovka",
+    "gn:country_code":"KZ",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11417108,
+    "gn:latitude":53.52209,
+    "gn:longitude":64.07402,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Sormovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sormovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u043e\u0440\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11417108
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"167cbc584884057b84b30e5239ef1f1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209077583
+        }
+    ],
+    "wof:id":1209077583,
+    "wof:lastmodified":1537660147,
+    "wof:name":"Sormovka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.07401999999999,
+    53.52209000000001,
+    64.07401999999999,
+    53.52209000000001
+],
+  "geometry": {"coordinates":[64.07401999999999,53.52209000000001],"type":"Point"}
+}

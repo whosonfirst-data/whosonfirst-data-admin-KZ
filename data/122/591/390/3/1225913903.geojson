@@ -1,0 +1,70 @@
+{
+  "id": 1225913903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.36675,54.01502,67.36675,54.01502",
+    "geom:latitude":54.01502,
+    "geom:longitude":67.36675,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Savrasovka",
+    "gn:country_code":"KZ",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519467,
+    "gn:latitude":54.01502,
+    "gn:longitude":67.36675,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Savrasovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0432\u0440\u0430\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519467
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f387fb9a1a4712e3516c4783a44caf96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1225913903,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1225913903,
+    "wof:lastmodified":1537659608,
+    "wof:name":"Savrasovka",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.36675,
+    54.01501999999999,
+    67.36675,
+    54.01501999999999
+],
+  "geometry": {"coordinates":[67.36675,54.01501999999999],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343539531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.45919,53.71912,75.45919,53.71912",
+    "geom:latitude":53.71912,
+    "geom:longitude":75.45919,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Abay",
+    "gn:country_code":"KZ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533050,
+    "gn:latitude":53.71912,
+    "gn:longitude":75.45919,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Abay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abay"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533050
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1a1184873072ad130b605de1f270cc16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785349,
+            "locality_id":1343539531,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343539531,
+    "wof:lastmodified":1537659974,
+    "wof:name":"Abay",
+    "wof:parent_id":1108785349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.45919,
+    53.71912,
+    75.45919,
+    53.71912
+],
+  "geometry": {"coordinates":[75.45919000000001,53.71912],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1192999427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.53727,53.50673,74.53727,53.50673",
+    "geom:latitude":53.50673,
+    "geom:longitude":74.53727,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kaban",
+    "gn:country_code":"KZ",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532912,
+    "gn:latitude":53.50673,
+    "gn:longitude":74.53727,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Kaban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kaban"
+    ],
+    "name:kaz_x_preferred":[
+        "Qaban"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0431\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532912
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8be9c6dc8ba1a2c0709c9b744875efe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1192999427,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1192999427,
+    "wof:lastmodified":1537659973,
+    "wof:name":"Kaban",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.53726999999998,
+    53.50673000000001,
+    74.53726999999998,
+    53.50673000000001
+],
+  "geometry": {"coordinates":[74.53726999999998,53.50673000000001],"type":"Point"}
+}

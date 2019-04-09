@@ -1,0 +1,79 @@
+{
+  "id": 1209078735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.06489,54.50268,69.06489,54.50268",
+    "geom:latitude":54.50268,
+    "geom:longitude":69.06489,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dayyndyk",
+    "gn:country_code":"KZ",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531043,
+    "gn:latitude":54.50268,
+    "gn:longitude":69.06489,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Dayyndyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dayyndyk"
+    ],
+    "name:kaz_x_preferred":[
+        "Dayyndyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u0430\u0439\u044b\u043d\u0434\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0439\u044b\u043d\u0434\u044b\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u043b\u043f\u0430\u0433\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Olpagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531043
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"87609611a4fd58e8add12e7356e953d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209078735
+        }
+    ],
+    "wof:id":1209078735,
+    "wof:lastmodified":1537659952,
+    "wof:name":"Dayyndyk",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.06489,
+    54.50268000000001,
+    69.06489,
+    54.50268000000001
+],
+  "geometry": {"coordinates":[69.06489000000001,54.50268000000001],"type":"Point"}
+}

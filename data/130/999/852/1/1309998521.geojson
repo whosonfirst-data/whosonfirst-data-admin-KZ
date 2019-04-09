@@ -1,0 +1,73 @@
+{
+  "id": 1309998521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.38889,47.09861,54.38889,47.09861",
+    "geom:latitude":47.09861,
+    "geom:longitude":54.38889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Aqqyztoghay",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610766,
+    "gn:latitude":47.09861,
+    "gn:longitude":54.38889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Aqqyztoghay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akkiztogay",
+        "Kolkhoz Imeni Amangeldy",
+        "Aqqyztoghay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610766
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4fbe229ccb39781577a28b220251fd95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785637,
+            "locality_id":1309998521,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1309998521,
+    "wof:lastmodified":1537659454,
+    "wof:name":"Aqqyztoghay",
+    "wof:parent_id":1108785637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.38889,
+    47.09861,
+    54.38889,
+    47.09861
+],
+  "geometry": {"coordinates":[54.38889,47.09861],"type":"Point"}
+}

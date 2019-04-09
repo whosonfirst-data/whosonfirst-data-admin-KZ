@@ -1,0 +1,65 @@
+{
+  "id": 1209515785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.21667,47.11667,59.21667,47.11667",
+    "geom:latitude":47.11667,
+    "geom:longitude":59.21667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Imeni Vos'mogo Marta",
+    "gn:country_code":"KZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609801,
+    "gn:latitude":47.11667,
+    "gn:longitude":59.21667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Imeni Vos\u2019mogo Marta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urdakongan",
+        "Imeni Vos\u2019mogo Marta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609801
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"751db241ba5544e89a23e249a7b8fff8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209515785
+        }
+    ],
+    "wof:id":1209515785,
+    "wof:lastmodified":1537659423,
+    "wof:name":"Imeni Vos'mogo Marta",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.21666999999999,
+    47.11667,
+    59.21666999999999,
+    47.11667
+],
+  "geometry": {"coordinates":[59.21666999999999,47.11667],"type":"Point"}
+}

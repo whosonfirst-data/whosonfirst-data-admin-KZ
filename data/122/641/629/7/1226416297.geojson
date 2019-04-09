@@ -1,0 +1,72 @@
+{
+  "id": 1226416297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.76417,43.68972,67.76417,43.68972",
+    "geom:latitude":43.68972,
+    "geom:longitude":67.76417,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kenges",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529730,
+    "gn:latitude":43.68972,
+    "gn:longitude":67.76417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kenges",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kenes",
+        "Kenges"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529730
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1bc3953408df171d980207769df7cd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1226416297,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1226416297,
+    "wof:lastmodified":1537659934,
+    "wof:name":"Kenges",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.76417,
+    43.68972,
+    67.76417,
+    43.68972
+],
+  "geometry": {"coordinates":[67.76416999999999,43.68972],"type":"Point"}
+}

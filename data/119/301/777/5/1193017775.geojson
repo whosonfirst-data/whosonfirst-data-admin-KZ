@@ -1,0 +1,70 @@
+{
+  "id": 1193017775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.22018,51.89721,66.22018,51.89721",
+    "geom:latitude":51.89721,
+    "geom:longitude":66.22018,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Buzulukskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524938,
+    "gn:latitude":51.89721,
+    "gn:longitude":66.22018,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Buzulukskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u016bz\u016bl\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524938
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6a0fa0753bc799e36718ef6e1c8b5501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785621,
+            "locality_id":1193017775,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1193017775,
+    "wof:lastmodified":1537659855,
+    "wof:name":"Buzulukskoye",
+    "wof:parent_id":1108785621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.22018,
+    51.89721,
+    66.22018,
+    51.89721
+],
+  "geometry": {"coordinates":[66.22018,51.89721],"type":"Point"}
+}

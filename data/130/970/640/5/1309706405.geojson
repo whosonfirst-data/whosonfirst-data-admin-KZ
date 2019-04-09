@@ -1,0 +1,76 @@
+{
+  "id": 1309706405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.56976,42.07534,69.56976,42.07534",
+    "geom:latitude":42.07534,
+    "geom:longitude":69.56976,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Atbulak",
+    "gn:country_code":"KZ",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526029,
+    "gn:latitude":42.07534,
+    "gn:longitude":69.56976,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Atbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Atbulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0442\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526029
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d54591e547891e278effe13a0d1e881c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1309706405,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1309706405,
+    "wof:lastmodified":1537659899,
+    "wof:name":"Atbulak",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.56976,
+    42.07534,
+    69.56976,
+    42.07534
+],
+  "geometry": {"coordinates":[69.56976,42.07534],"type":"Point"}
+}

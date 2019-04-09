@@ -1,0 +1,67 @@
+{
+  "id": 1310223111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.13971,49.90642,53.13971,49.90642",
+    "geom:latitude":49.90642,
+    "geom:longitude":53.13971,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Shibyndy",
+    "gn:country_code":"KZ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608320,
+    "gn:latitude":49.90642,
+    "gn:longitude":53.13971,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Shibyndy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608320
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3b9cdcb52a94ce43e46f68933a2ba2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785495,
+            "locality_id":1310223111,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1310223111,
+    "wof:lastmodified":1536825908,
+    "wof:name":"Shibyndy",
+    "wof:parent_id":1108785495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.13971,
+    49.90642,
+    53.13971,
+    49.90642
+],
+  "geometry": {"coordinates":[53.13971,49.90642],"type":"Point"}
+}

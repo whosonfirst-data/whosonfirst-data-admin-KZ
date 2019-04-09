@@ -1,0 +1,79 @@
+{
+  "id": 1343930411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.45125,54.85334,69.45125,54.85334",
+    "geom:latitude":54.85334,
+    "geom:longitude":69.45125,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Asanovo",
+    "gn:country_code":"KZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526154,
+    "gn:latitude":54.85334,
+    "gn:longitude":69.45125,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Asanovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Asanovo"
+    ],
+    "name:kaz_x_preferred":[
+        "Asanov"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0441\u0430\u043d\u043e\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526154
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f6df3bedab450ee840375c66727385fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1343930411,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343930411,
+    "wof:lastmodified":1537659902,
+    "wof:name":"Asanovo",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.45125,
+    54.85334,
+    69.45125,
+    54.85334
+],
+  "geometry": {"coordinates":[69.45125,54.85334],"type":"Point"}
+}

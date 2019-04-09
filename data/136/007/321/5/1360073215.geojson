@@ -1,0 +1,81 @@
+{
+  "id": 1360073215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.76576,53.44615,75.76576,53.44615",
+    "geom:latitude":53.44615,
+    "geom:longitude":75.76576,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pervomaysk",
+    "gn:country_code":"KZ",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520197,
+    "gn:latitude":53.44615,
+    "gn:longitude":75.76576,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Pervomaysk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pervomaysk"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kommunar",
+        "Pervomayskoye",
+        "Pervomaysk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520197
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"32e8d46e0fbcd49caa980241bee3c793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785557,
+            "locality_id":1360073215,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1360073215,
+    "wof:lastmodified":1537659643,
+    "wof:name":"Pervomaysk",
+    "wof:parent_id":1108785557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.76576,
+    53.44615,
+    75.76576,
+    53.44615
+],
+  "geometry": {"coordinates":[75.76576,53.44615],"type":"Point"}
+}

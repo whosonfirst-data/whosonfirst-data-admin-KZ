@@ -1,0 +1,61 @@
+{
+  "id": 1209525243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.93744,50.49764,79.93744,50.49764",
+    "geom:latitude":50.49764,
+    "geom:longitude":79.93744,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Steklyanskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518785,
+    "gn:latitude":50.49764,
+    "gn:longitude":79.93744,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Steklyanskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518785
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a005de65c5f3af9783726e822582df80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209525243
+        }
+    ],
+    "wof:id":1209525243,
+    "wof:lastmodified":1536284452,
+    "wof:name":"Steklyanskiy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.93744000000002,
+    50.49764,
+    79.93744000000002,
+    50.49764
+],
+  "geometry": {"coordinates":[79.93744000000002,50.49764],"type":"Point"}
+}

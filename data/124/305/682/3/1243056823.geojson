@@ -1,0 +1,70 @@
+{
+  "id": 1243056823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.62198,43.61823,68.62198,43.61823",
+    "geom:latitude":43.61823,
+    "geom:longitude":68.62198,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Severnyy Biresek",
+    "gn:country_code":"KZ",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055488,
+    "gn:latitude":43.61823,
+    "gn:longitude":68.62198,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Severnyy Biresek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0411\u0438\u0440\u0435\u0441\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055488
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e0478b47c0a3b58858cceb4a0edaf48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1243056823,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243056823,
+    "wof:lastmodified":1537660094,
+    "wof:name":"Severnyy Biresek",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.62198000000001,
+    43.61823,
+    68.62198000000001,
+    43.61823
+],
+  "geometry": {"coordinates":[68.62198000000001,43.61823],"type":"Point"}
+}

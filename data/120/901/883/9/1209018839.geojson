@@ -1,0 +1,72 @@
+{
+  "id": 1209018839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.03333,49.01667,50.03333,49.01667",
+    "geom:latitude":49.01667,
+    "geom:longitude":50.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mukhorskiy",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608785,
+    "gn:latitude":49.01667,
+    "gn:longitude":50.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mukhorskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mukhorskiy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0445\u043e\u0440"
+    ],
+    "name:und_x_variant":[
+        "Post Mukhorski",
+        "Mukhorskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608785
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5213f83791651417ffac9f3652c07833",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209018839
+        }
+    ],
+    "wof:id":1209018839,
+    "wof:lastmodified":1537659388,
+    "wof:name":"Mukhorskiy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.03333,
+    49.01667,
+    50.03333,
+    49.01667
+],
+  "geometry": {"coordinates":[50.03333,49.01667],"type":"Point"}
+}

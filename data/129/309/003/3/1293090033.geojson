@@ -1,0 +1,70 @@
+{
+  "id": 1293090033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57098,40.6927,68.57098,40.6927",
+    "geom:latitude":40.6927,
+    "geom:longitude":68.57098,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Otdeleniye Parizhskaya Kommuna",
+    "gn:country_code":"KZ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10956130,
+    "gn:latitude":40.6927,
+    "gn:longitude":68.57098,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Otdeleniye Parizhskaya Kommuna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041f\u0430\u0440\u0438\u0436\u0441\u043a\u0430\u044f \u041a\u043e\u043c\u043c\u0443\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956130
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"155dc448a68d397dc3dcff834fbbd9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1293090033,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293090033,
+    "wof:lastmodified":1537660080,
+    "wof:name":"Otdeleniye Parizhskaya Kommuna",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57098,
+    40.6927,
+    68.57098,
+    40.6927
+],
+  "geometry": {"coordinates":[68.57098000000001,40.6927],"type":"Point"}
+}

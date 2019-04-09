@@ -1,0 +1,73 @@
+{
+  "id": 1209183819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.23319,53.74782,73.23319,53.74782",
+    "geom:latitude":53.74782,
+    "geom:longitude":73.23319,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Saga",
+    "gn:country_code":"KZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532806,
+    "gn:latitude":53.74782,
+    "gn:longitude":73.23319,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Saga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saga"
+    ],
+    "name:kaz_x_preferred":[
+        "Sagha"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0430\u0493\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0433\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532806
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f8c2ef60329e939b3e03c2956491bc3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209183819
+        }
+    ],
+    "wof:id":1209183819,
+    "wof:lastmodified":1537659972,
+    "wof:name":"Saga",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.23319000000002,
+    53.74782,
+    73.23319000000002,
+    53.74782
+],
+  "geometry": {"coordinates":[73.23319000000002,53.74782],"type":"Point"}
+}

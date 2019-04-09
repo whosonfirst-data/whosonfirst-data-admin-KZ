@@ -1,0 +1,79 @@
+{
+  "id": 1293866071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.46725,52.91909,67.46725,52.91909",
+    "geom:latitude":52.91909,
+    "geom:longitude":67.46725,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Raisovka",
+    "gn:country_code":"KZ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519916,
+    "gn:latitude":52.91909,
+    "gn:longitude":67.46725,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Raisovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Raisovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Ra\u012bsovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0420\u0430\u0438\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0438\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519916
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bba546ce52ec1155f2dea56c8df38371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1293866071,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293866071,
+    "wof:lastmodified":1537659624,
+    "wof:name":"Raisovka",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.46725,
+    52.91909,
+    67.46725,
+    52.91909
+],
+  "geometry": {"coordinates":[67.46725000000001,52.91909],"type":"Point"}
+}

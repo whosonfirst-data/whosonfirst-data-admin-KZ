@@ -1,0 +1,76 @@
+{
+  "id": 1293891059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.80717,52.19155,70.80717,52.19155",
+    "geom:latitude":52.19155,
+    "geom:longitude":70.80717,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Krasnyy May",
+    "gn:country_code":"KZ",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521386,
+    "gn:latitude":52.19155,
+    "gn:longitude":70.80717,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Krasnyy May",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041c\u0430\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0435\u0431\u0435\u0434\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lebedevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521386
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"689cb60ee267008c0336a29f0eda91b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785389,
+            "locality_id":1293891059,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293891059,
+    "wof:lastmodified":1537659712,
+    "wof:name":"Krasnyy May",
+    "wof:parent_id":1108785389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.80717,
+    52.19155,
+    70.80717,
+    52.19155
+],
+  "geometry": {"coordinates":[70.80717,52.19155],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260163789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.30942,50.60081,80.30942,50.60081",
+    "geom:latitude":50.60081,
+    "geom:longitude":80.30942,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dyuseken",
+    "gn:country_code":"KZ",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524492,
+    "gn:latitude":50.60081,
+    "gn:longitude":80.30942,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Dyuseken",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u044e\u0441\u0435\u043a\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Dyusekenevskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524492
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f211a427ec3f0aefc8516654d8b0e1ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1260163789,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1260163789,
+    "wof:lastmodified":1537659836,
+    "wof:name":"Dyuseken",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.30941999999997,
+    50.60081,
+    80.30941999999997,
+    50.60081
+],
+  "geometry": {"coordinates":[80.30941999999997,50.60081],"type":"Point"}
+}

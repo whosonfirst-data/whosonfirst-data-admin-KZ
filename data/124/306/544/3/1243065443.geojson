@@ -1,0 +1,70 @@
+{
+  "id": 1243065443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.3,47.45,54.3,47.45",
+    "geom:latitude":47.45,
+    "geom:longitude":54.3,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Imankara",
+    "gn:country_code":"KZ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609848,
+    "gn:latitude":47.45,
+    "gn:longitude":54.3,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Imankara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u012amanqara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609848
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fd2c935b361ffcd52f0d382b22f33d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785637,
+            "locality_id":1243065443,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1243065443,
+    "wof:lastmodified":1537659423,
+    "wof:name":"Imankara",
+    "wof:parent_id":1108785637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.3,
+    47.45,
+    54.3,
+    47.45
+],
+  "geometry": {"coordinates":[54.3,47.45],"type":"Point"}
+}

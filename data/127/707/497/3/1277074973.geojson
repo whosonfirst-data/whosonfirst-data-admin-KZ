@@ -1,0 +1,73 @@
+{
+  "id": 1277074973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.21667,50.25,55.21667,50.25",
+    "geom:latitude":50.25,
+    "geom:longitude":55.21667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cherkesskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610111,
+    "gn:latitude":50.25,
+    "gn:longitude":55.21667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Cherkesskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cherkesskiy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043a\u0435\u0441\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610111
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b0644569bd23923afd2cd633ed525041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785491,
+            "locality_id":1277074973,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1277074973,
+    "wof:lastmodified":1537659431,
+    "wof:name":"Cherkesskiy",
+    "wof:parent_id":1108785491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.21666999999999,
+    50.25,
+    55.21666999999999,
+    50.25
+],
+  "geometry": {"coordinates":[55.21666999999999,50.25],"type":"Point"}
+}

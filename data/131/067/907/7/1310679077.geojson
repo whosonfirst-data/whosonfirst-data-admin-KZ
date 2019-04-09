@@ -1,0 +1,70 @@
+{
+  "id": 1310679077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.17616,50.76097,77.17616,50.76097",
+    "geom:latitude":50.76097,
+    "geom:longitude":77.17616,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sement",
+    "gn:country_code":"KZ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11183597,
+    "gn:latitude":50.76097,
+    "gn:longitude":77.17616,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Sement",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043c\u0435\u043d\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11183597
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8060d07413e0209f125039f9ff9242e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1310679077,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310679077,
+    "wof:lastmodified":1537660128,
+    "wof:name":"Sement",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.17616,
+    50.76097,
+    77.17616,
+    50.76097
+],
+  "geometry": {"coordinates":[77.17616,50.76097],"type":"Point"}
+}

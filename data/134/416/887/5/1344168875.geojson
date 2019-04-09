@@ -1,0 +1,79 @@
+{
+  "id": 1344168875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.63395,51.41357,72.63395,51.41357",
+    "geom:latitude":51.41357,
+    "geom:longitude":72.63395,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Erkinshilik",
+    "gn:country_code":"KZ",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520235,
+    "gn:latitude":51.41357,
+    "gn:longitude":72.63395,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Erkinshilik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Pavlovka"
+    ],
+    "name:kaz_x_variant":[
+        "Erkinshilik",
+        "\u0415\u0440\u043a\u0456\u043d\u0448\u0456\u043b\u0456\u043a",
+        "\u041f\u0430\u0432\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pavlovskoye",
+        "Pavlovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520235
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"901e826e42c936a2112d330f8fa90d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1344168875,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1344168875,
+    "wof:lastmodified":1537659645,
+    "wof:name":"Erkinshilik",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.63395,
+    51.41357,
+    72.63395,
+    51.41357
+],
+  "geometry": {"coordinates":[72.63395,51.41357],"type":"Point"}
+}

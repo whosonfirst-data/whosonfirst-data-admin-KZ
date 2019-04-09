@@ -1,0 +1,70 @@
+{
+  "id": 1243236829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.80249,49.23834,77.80249,49.23834",
+    "geom:latitude":49.23834,
+    "geom:longitude":77.80249,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Orazaly",
+    "gn:country_code":"KZ",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507265,
+    "gn:latitude":49.23834,
+    "gn:longitude":77.80249,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Orazaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0430\u0437\u0430\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507265
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"48473b3ad2d2c055803c7d800b30531a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1243236829,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243236829,
+    "wof:lastmodified":1537660168,
+    "wof:name":"Orazaly",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.80249,
+    49.23834,
+    77.80249,
+    49.23834
+],
+  "geometry": {"coordinates":[77.80249000000001,49.23834],"type":"Point"}
+}

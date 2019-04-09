@@ -1,0 +1,65 @@
+{
+  "id": 1209078691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.13333,54.45,69.13333,54.45",
+    "geom:latitude":54.45,
+    "geom:longitude":69.13333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ir-Kindyk",
+    "gn:country_code":"KZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523774,
+    "gn:latitude":54.45,
+    "gn:longitude":69.13333,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Ir-Kindyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yerkendyk",
+        "Ir-Kindyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523774
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"40dcd121fce17c25a1564108986e3513",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209078691
+        }
+    ],
+    "wof:id":1209078691,
+    "wof:lastmodified":1537659806,
+    "wof:name":"Ir-Kindyk",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.13333,
+    54.45,
+    69.13333,
+    54.45
+],
+  "geometry": {"coordinates":[69.13333,54.45],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242943343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.06378,50.38642,81.06378,50.38642",
+    "geom:latitude":50.38642,
+    "geom:longitude":81.06378,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Shul'binsk",
+    "gn:country_code":"KZ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519006,
+    "gn:latitude":50.38642,
+    "gn:longitude":81.06378,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Sh\u016bl\u2019b\u012bnsk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sh\u016bl'b\u012bnsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u043b\u044c\u0431\u0438\u043d\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Niva",
+        "Sh\u016bl\u2019b\u012bnsk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519006
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b10a1c6db85374d14c7ffea7bac23043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1242943343,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1242943343,
+    "wof:lastmodified":1537659587,
+    "wof:name":"Shul'binsk",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.06378000000002,
+    50.38642,
+    81.06378000000002,
+    50.38642
+],
+  "geometry": {"coordinates":[81.06378000000002,50.38642],"type":"Point"}
+}

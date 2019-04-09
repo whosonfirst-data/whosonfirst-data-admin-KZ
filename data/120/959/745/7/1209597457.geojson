@@ -1,0 +1,73 @@
+{
+  "id": 1209597457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.94259,53.56535,66.94259,53.56535",
+    "geom:latitude":53.56535,
+    "geom:longitude":66.94259,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kurtay",
+    "gn:country_code":"KZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532142,
+    "gn:latitude":53.56535,
+    "gn:longitude":66.94259,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Kurtay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kurtay"
+    ],
+    "name:kaz_x_preferred":[
+        "Qurtay"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u04b1\u0440\u0442\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0442\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532142
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a586482c4c20ef181163aa9feed35ce3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209597457
+        }
+    ],
+    "wof:id":1209597457,
+    "wof:lastmodified":1537659959,
+    "wof:name":"Kurtay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.94259,
+    53.56535,
+    66.94259,
+    53.56535
+],
+  "geometry": {"coordinates":[66.94259,53.56535],"type":"Point"}
+}

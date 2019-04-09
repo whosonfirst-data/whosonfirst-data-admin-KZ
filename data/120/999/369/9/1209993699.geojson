@@ -1,0 +1,70 @@
+{
+  "id": 1209993699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.73973,50.34842,74.73973,50.34842",
+    "geom:latitude":50.34842,
+    "geom:longitude":74.73973,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Karatoka",
+    "gn:country_code":"KZ",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11141321,
+    "gn:latitude":50.34842,
+    "gn:longitude":74.73973,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Karatoka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0442\u043e\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11141321
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"668b3431ec34d58ab3fc92eaff0eef4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1209993699,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1209993699,
+    "wof:lastmodified":1537660120,
+    "wof:name":"Karatoka",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.73973000000002,
+    50.34842,
+    74.73973000000002,
+    50.34842
+],
+  "geometry": {"coordinates":[74.73973000000002,50.34842],"type":"Point"}
+}

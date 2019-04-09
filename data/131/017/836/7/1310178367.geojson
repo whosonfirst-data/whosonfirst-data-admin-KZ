@@ -1,0 +1,83 @@
+{
+  "id": 1310178367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.85743,49.09617,77.85743,49.09617",
+    "geom:latitude":49.09617,
+    "geom:longitude":77.85743,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Karashilik",
+    "gn:country_code":"KZ",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526871,
+    "gn:latitude":49.09617,
+    "gn:longitude":77.85743,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Karashilik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarashilik"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0448\u0456\u043b\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0448\u0438\u043b\u0438\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043a\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Akbulak",
+        "Karashilik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526871
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fb1a5100c20a77286660680de629d376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1310178367,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310178367,
+    "wof:lastmodified":1537659928,
+    "wof:name":"Karashilik",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.85743000000002,
+    49.09617,
+    77.85743000000002,
+    49.09617
+],
+  "geometry": {"coordinates":[77.85743000000002,49.09617],"type":"Point"}
+}

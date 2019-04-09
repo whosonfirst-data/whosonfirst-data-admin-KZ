@@ -1,0 +1,76 @@
+{
+  "id": 1292921291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.28189,43.55138,76.28189,43.55138",
+    "geom:latitude":43.55138,
+    "geom:longitude":76.28189,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kokdala",
+    "gn:country_code":"KZ",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527962,
+    "gn:latitude":43.55138,
+    "gn:longitude":76.28189,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Kokdala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "K\u00f6kdala"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u04e9\u043a\u0434\u0430\u043b\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0434\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527962
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e0b3fb837654e517202a983aa0d1347a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1292921291,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1292921291,
+    "wof:lastmodified":1537660189,
+    "wof:name":"Kokdala",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.28189,
+    43.55138,
+    76.28189,
+    43.55138
+],
+  "geometry": {"coordinates":[76.28189,43.55138],"type":"Point"}
+}

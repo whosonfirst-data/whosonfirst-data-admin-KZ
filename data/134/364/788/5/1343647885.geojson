@@ -1,0 +1,82 @@
+{
+  "id": 1343647885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.79135,52.14432,60.79135,52.14432",
+    "geom:latitude":52.14432,
+    "geom:longitude":60.79135,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Doulbay",
+    "gn:country_code":"KZ",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11422636,
+    "gn:latitude":52.14432,
+    "gn:longitude":60.79135,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Doulbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Da\u016bylbay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u0430\u0443\u044b\u043b\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0443\u043b\u0431\u0430\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0443\u043b\u0443\u043c\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Dulumbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11422636
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"563c87e5f3c3ea85960905ee6a2f4076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785525,
+            "locality_id":1343647885,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343647885,
+    "wof:lastmodified":1537660150,
+    "wof:name":"Doulbay",
+    "wof:parent_id":1108785525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.79135,
+    52.14432,
+    60.79135,
+    52.14432
+],
+  "geometry": {"coordinates":[60.79135,52.14432],"type":"Point"}
+}

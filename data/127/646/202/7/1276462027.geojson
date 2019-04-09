@@ -1,0 +1,67 @@
+{
+  "id": 1276462027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.91611,49.79306,63.91611,49.79306",
+    "geom:latitude":49.79306,
+    "geom:longitude":63.91611,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Karatogay",
+    "gn:country_code":"KZ",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530204,
+    "gn:latitude":49.79306,
+    "gn:longitude":63.91611,
+    "gn:modification_date":"1995-12-14",
+    "gn:name":"Karatogay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530204
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4c846fd24b336cc0c748773847781d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1276462027,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1276462027,
+    "wof:lastmodified":1536603223,
+    "wof:name":"Karatogay",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.91611,
+    49.79306,
+    63.91611,
+    49.79306
+],
+  "geometry": {"coordinates":[63.91611,49.79306],"type":"Point"}
+}

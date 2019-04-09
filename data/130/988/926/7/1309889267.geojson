@@ -1,0 +1,67 @@
+{
+  "id": 1309889267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.88333,45.23333,64.88333,45.23333",
+    "geom:latitude":45.23333,
+    "geom:longitude":64.88333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Rybachiy",
+    "gn:country_code":"KZ",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519828,
+    "gn:latitude":45.23333,
+    "gn:longitude":64.88333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Rybachiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519828
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e9ca2ac20c476ace8a38ae5a58e345ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785671,
+            "locality_id":1309889267,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1309889267,
+    "wof:lastmodified":1536810369,
+    "wof:name":"Rybachiy",
+    "wof:parent_id":1108785671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.88333,
+    45.23333,
+    64.88333,
+    45.23333
+],
+  "geometry": {"coordinates":[64.88333,45.23333],"type":"Point"}
+}

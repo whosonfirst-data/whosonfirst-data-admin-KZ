@@ -1,0 +1,72 @@
+{
+  "id": 1243336737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.28562,49.93301,82.28562,49.93301",
+    "geom:latitude":49.93301,
+    "geom:longitude":82.28562,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Arshaly Pervoye",
+    "gn:country_code":"KZ",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1484018,
+    "gn:latitude":49.93301,
+    "gn:longitude":82.28562,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Arshaly Pervoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arshaly 1-ye",
+        "Arshaly 1 (Pervoye)",
+        "Arshaly Pervoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1484018
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"37373eee8da729a2c9c0553b50ecc666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785473,
+            "locality_id":1243336737,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243336737,
+    "wof:lastmodified":1537659464,
+    "wof:name":"Arshaly Pervoye",
+    "wof:parent_id":1108785473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.28562,
+    49.93301,
+    82.28562,
+    49.93301
+],
+  "geometry": {"coordinates":[82.28561999999999,49.93301],"type":"Point"}
+}

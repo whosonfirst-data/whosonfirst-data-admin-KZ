@@ -1,0 +1,79 @@
+{
+  "id": 1292974143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.6451,49.47385,79.6451,49.47385",
+    "geom:latitude":49.47385,
+    "geom:longitude":79.6451,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Aqshoqy",
+    "gn:country_code":"KZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510428,
+    "gn:latitude":49.47385,
+    "gn:longitude":79.6451,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Aqshoqy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqshoqy"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0448\u043e\u049b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0448\u043e\u043a\u044b"
+    ],
+    "name:und_x_variant":[
+        "Akshoky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510428
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"016a60d9c7daeb261e8fbebddcb8c1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785727,
+            "locality_id":1292974143,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1292974143,
+    "wof:lastmodified":1537660180,
+    "wof:name":"Aqshoqy",
+    "wof:parent_id":1108785727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.6451,
+    49.47385,
+    79.6451,
+    49.47385
+],
+  "geometry": {"coordinates":[79.6451,49.47385],"type":"Point"}
+}

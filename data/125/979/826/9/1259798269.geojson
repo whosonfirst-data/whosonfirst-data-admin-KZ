@@ -1,0 +1,76 @@
+{
+  "id": 1259798269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.72676,50.42242,81.72676,50.42242",
+    "geom:latitude":50.42242,
+    "geom:longitude":81.72676,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Volchevka",
+    "gn:country_code":"KZ",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517423,
+    "gn:latitude":50.42242,
+    "gn:longitude":81.72676,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Volch\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Volch\u00ebvka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u0447\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Volch\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517423
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fbc9d4d6c08bdd5b5f61a4839356da2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785611,
+            "locality_id":1259798269,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259798269,
+    "wof:lastmodified":1537659520,
+    "wof:name":"Volchevka",
+    "wof:parent_id":1108785611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.72676,
+    50.42242,
+    81.72676,
+    50.42242
+],
+  "geometry": {"coordinates":[81.72676,50.42242],"type":"Point"}
+}

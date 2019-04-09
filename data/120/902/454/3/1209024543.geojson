@@ -1,0 +1,64 @@
+{
+  "id": 1209024543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.54401,40.80195,68.54401,40.80195",
+    "geom:latitude":40.80195,
+    "geom:longitude":68.54401,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Imeni Voroshilova",
+    "gn:country_code":"KZ",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535831,
+    "gn:latitude":40.80195,
+    "gn:longitude":68.54401,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Imeni Voroshilova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535831
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"79282f0d711a4f32b2c071514e4fded7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209024543
+        }
+    ],
+    "wof:id":1209024543,
+    "wof:lastmodified":1537660003,
+    "wof:name":"Imeni Voroshilova",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.54401,
+    40.80195,
+    68.54401,
+    40.80195
+],
+  "geometry": {"coordinates":[68.54401,40.80195],"type":"Point"}
+}

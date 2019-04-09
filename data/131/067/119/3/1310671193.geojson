@@ -1,0 +1,70 @@
+{
+  "id": 1310671193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.72975,48.6966,86.72975,48.6966",
+    "geom:latitude":48.6966,
+    "geom:longitude":86.72975,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Matveyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11453753,
+    "gn:latitude":48.6966,
+    "gn:longitude":86.72975,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Matveyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0432\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11453753
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"01dfe7c37878e134fca24c994aa0d5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1310671193,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310671193,
+    "wof:lastmodified":1537660155,
+    "wof:name":"Matveyevka",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.72975,
+    48.6966,
+    86.72975,
+    48.6966
+],
+  "geometry": {"coordinates":[86.72975,48.6966],"type":"Point"}
+}

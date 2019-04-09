@@ -1,0 +1,79 @@
+{
+  "id": 1276435677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.39101,42.25664,70.39101,42.25664",
+    "geom:latitude":42.25664,
+    "geom:longitude":70.39101,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Baldyberek",
+    "gn:country_code":"KZ",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10842312,
+    "gn:latitude":42.25664,
+    "gn:longitude":70.39101,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Baldyberek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Baldyberek"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u043b\u0434\u044b\u0431\u0435\u0440\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043d\u043a\u0435\u0440\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Tonkeris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10842312
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"084fff4f290159837ac02fcd694c0b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785369,
+            "locality_id":1276435677,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276435677,
+    "wof:lastmodified":1537660069,
+    "wof:name":"Baldyberek",
+    "wof:parent_id":1108785369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.39101,
+    42.25664,
+    70.39101,
+    42.25664
+],
+  "geometry": {"coordinates":[70.39100999999999,42.25664],"type":"Point"}
+}

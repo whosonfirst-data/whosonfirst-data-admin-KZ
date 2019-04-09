@@ -1,0 +1,80 @@
+{
+  "id": 1193027613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.2225,53.19728,69.2225,53.19728",
+    "geom:latitude":53.19728,
+    "geom:longitude":69.2225,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zarechnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535599,
+    "gn:latitude":53.19728,
+    "gn:longitude":69.2225,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Zarechnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zarechnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0417\u0430\u0440\u0435\u0447\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0433\u043e\u0440\u043e\u0434\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Prigorodnoye",
+        "Zarechnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535599
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cb079d5415fa4a3b36c421f23425263d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1193027613,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1193027613,
+    "wof:lastmodified":1537659998,
+    "wof:name":"Zarechnoye",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.2225,
+    53.19728000000001,
+    69.2225,
+    53.19728000000001
+],
+  "geometry": {"coordinates":[69.2225,53.19728000000001],"type":"Point"}
+}

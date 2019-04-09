@@ -1,0 +1,81 @@
+{
+  "id": 1243260629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.96825,49.66108,53.96825,49.66108",
+    "geom:latitude":49.66108,
+    "geom:longitude":53.96825,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Aktaysay",
+    "gn:country_code":"KZ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610696,
+    "gn:latitude":49.66108,
+    "gn:longitude":53.96825,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Aktaysay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aktaysay"
+    ],
+    "name:kaz_x_preferred":[
+        "Aqtaysay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0442\u0430\u0439\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Karatobe",
+        "Akta-Say",
+        "Aktaysay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610696
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"63cc928d6d8d06574b89c66f8920036d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785493,
+            "locality_id":1243260629,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1243260629,
+    "wof:lastmodified":1537659451,
+    "wof:name":"Aktaysay",
+    "wof:parent_id":1108785493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.96825,
+    49.66108,
+    53.96825,
+    49.66108
+],
+  "geometry": {"coordinates":[53.96825,49.66108],"type":"Point"}
+}

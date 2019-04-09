@@ -1,0 +1,70 @@
+{
+  "id": 1209699627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.65567,43.54546,68.65567,43.54546",
+    "geom:latitude":43.54546,
+    "geom:longitude":68.65567,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kyzkorgan",
+    "gn:country_code":"KZ",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055497,
+    "gn:latitude":43.54546,
+    "gn:longitude":68.65567,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Kyzkorgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u043a\u043e\u0440\u0433\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055497
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"634eec9cf1b3d3925595d84e0ea309cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1209699627,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1209699627,
+    "wof:lastmodified":1537660094,
+    "wof:name":"Kyzkorgan",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.65567,
+    43.54546,
+    68.65567,
+    43.54546
+],
+  "geometry": {"coordinates":[68.65567,43.54546],"type":"Point"}
+}

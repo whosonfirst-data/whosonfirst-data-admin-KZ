@@ -1,0 +1,67 @@
+{
+  "id": 1343657839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.38333,42.26667,70.38333,42.26667",
+    "geom:latitude":42.26667,
+    "geom:longitude":70.38333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Borisovka",
+    "gn:country_code":"KZ",
+    "gn:dem":1687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525155,
+    "gn:latitude":42.26667,
+    "gn:longitude":70.38333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Borisovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525155
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c8309e5ff129db3b63c1dc437d8e1541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785369,
+            "locality_id":1343657839,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1343657839,
+    "wof:lastmodified":1536958809,
+    "wof:name":"Borisovka",
+    "wof:parent_id":1108785369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.38333,
+    42.26667,
+    70.38333,
+    42.26667
+],
+  "geometry": {"coordinates":[70.38333,42.26667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293572111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.82993,49.161,85.82993,49.161",
+    "geom:latitude":49.161,
+    "geom:longitude":85.82993,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bayberdy",
+    "gn:country_code":"KZ",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534412,
+    "gn:latitude":49.161,
+    "gn:longitude":85.82993,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Bayberdy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0431\u0435\u0440\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534412
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3c6c6584fc098bae4c82725c088a0772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1293572111,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293572111,
+    "wof:lastmodified":1537659981,
+    "wof:name":"Bayberdy",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.82993,
+    49.161,
+    85.82993,
+    49.161
+],
+  "geometry": {"coordinates":[85.82993,49.161],"type":"Point"}
+}

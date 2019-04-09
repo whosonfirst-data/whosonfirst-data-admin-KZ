@@ -1,0 +1,81 @@
+{
+  "id": 1343927503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.68833,54.52717,68.68833,54.52717",
+    "geom:latitude":54.52717,
+    "geom:longitude":68.68833,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Novonikol'skoe",
+    "gn:country_code":"KZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520586,
+    "gn:latitude":54.52717,
+    "gn:longitude":68.68833,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Novon\u012bkol\u2019skoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novon\u012bkol'skoe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043d\u0438\u043a\u043e\u043b\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043d\u0438\u043a\u043e\u043b\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Novonikol\u2019skoye",
+        "Novonikol\u2019sk",
+        "Novon\u012bkol\u2019skoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520586
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c1e77da13133e7eba5f96c4c61549112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1343927503,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343927503,
+    "wof:lastmodified":1537659667,
+    "wof:name":"Novonikol'skoe",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.68833000000001,
+    54.52717,
+    68.68833000000001,
+    54.52717
+],
+  "geometry": {"coordinates":[68.68833000000001,54.52717],"type":"Point"}
+}

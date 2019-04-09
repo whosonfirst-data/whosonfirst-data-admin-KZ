@@ -1,0 +1,67 @@
+{
+  "id": 1259885807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.86667,50.18333,61.86667,50.18333",
+    "geom:latitude":50.18333,
+    "geom:longitude":61.86667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Altykiben",
+    "gn:country_code":"KZ",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526360,
+    "gn:latitude":50.18333,
+    "gn:longitude":61.86667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Altykiben",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526360
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"df545823ee3fb9632ea49057c39a6af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1259885807,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1259885807,
+    "wof:lastmodified":1536776334,
+    "wof:name":"Altykiben",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.86666999999999,
+    50.18333,
+    61.86666999999999,
+    50.18333
+],
+  "geometry": {"coordinates":[61.86666999999999,50.18333],"type":"Point"}
+}

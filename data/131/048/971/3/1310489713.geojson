@@ -1,0 +1,73 @@
+{
+  "id": 1310489713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.78594,51.74765,78.78594,51.74765",
+    "geom:latitude":51.74765,
+    "geom:longitude":78.78594,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Stantsiya Maykaragay",
+    "gn:country_code":"KZ",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521041,
+    "gn:latitude":51.74765,
+    "gn:longitude":78.78594,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Stantsiya Maykaragay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0446\u0438\u044f \u041c\u0430\u0439\u043a\u0430\u0440\u0430\u0433\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Maykaragayskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521041
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"de0118962e5d7e8dc1e58a616eaeeb6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785559,
+            "locality_id":1310489713,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310489713,
+    "wof:lastmodified":1537659694,
+    "wof:name":"Stantsiya Maykaragay",
+    "wof:parent_id":1108785559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.78594,
+    51.74765,
+    78.78594,
+    51.74765
+],
+  "geometry": {"coordinates":[78.78594,51.74765],"type":"Point"}
+}

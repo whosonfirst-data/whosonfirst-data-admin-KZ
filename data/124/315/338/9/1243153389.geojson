@@ -1,0 +1,84 @@
+{
+  "id": 1243153389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.97326,52.72686,75.97326,52.72686",
+    "geom:latitude":52.72686,
+    "geom:longitude":75.97326,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Karabuzau",
+    "gn:country_code":"KZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523422,
+    "gn:latitude":52.72686,
+    "gn:longitude":75.97326,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Karabuzau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karabuzau"
+    ],
+    "name:kaz_x_preferred":[
+        "Qarabuza\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0431\u04b1\u0437\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0443\u0437\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Abrosimovskoye",
+        "Abrosimovka",
+        "Karabuzau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523422
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fcd60ae8e8b69a1d2693eefdccc6d2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785553,
+            "locality_id":1243153389,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1243153389,
+    "wof:lastmodified":1537659794,
+    "wof:name":"Karabuzau",
+    "wof:parent_id":1108785553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.97326,
+    52.72686,
+    75.97326,
+    52.72686
+],
+  "geometry": {"coordinates":[75.97326,52.72686],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310113237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.9791,51.06886,70.9791,51.06886",
+    "geom:latitude":51.06886,
+    "geom:longitude":70.9791,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malinovka",
+    "gn:country_code":"KZ",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521193,
+    "gn:latitude":51.06886,
+    "gn:longitude":70.9791,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Malinovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Mal\u012bnovka"
+    ],
+    "name:und_x_variant":[
+        "Akmolinskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521193
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"db8df1232b7f3038ab394346afbe14a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785625,
+            "locality_id":1310113237,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310113237,
+    "wof:lastmodified":1537659701,
+    "wof:name":"Malinovka",
+    "wof:parent_id":1108785625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.9791,
+    51.06886,
+    70.9791,
+    51.06886
+],
+  "geometry": {"coordinates":[70.9791,51.06886],"type":"Point"}
+}

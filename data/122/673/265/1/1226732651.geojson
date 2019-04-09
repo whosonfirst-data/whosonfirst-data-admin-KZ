@@ -1,0 +1,79 @@
+{
+  "id": 1226732651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.77048,50.55344,82.77048,50.55344",
+    "geom:latitude":50.55344,
+    "geom:longitude":82.77048,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Volchikha",
+    "gn:country_code":"KZ",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517422,
+    "gn:latitude":50.55344,
+    "gn:longitude":82.77048,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Volchikha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Volchikha"
+    ],
+    "name:kaz_x_preferred":[
+        "Volch\u012bkha"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u043e\u043b\u0447\u0438\u0445\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u0447\u0438\u0445\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517422
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"33c9e3e591d00be134d439ab4f350cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785307,
+            "locality_id":1226732651,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226732651,
+    "wof:lastmodified":1537659520,
+    "wof:name":"Volchikha",
+    "wof:parent_id":1108785307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.77048,
+    50.55344,
+    82.77048,
+    50.55344
+],
+  "geometry": {"coordinates":[82.77048000000001,50.55344],"type":"Point"}
+}

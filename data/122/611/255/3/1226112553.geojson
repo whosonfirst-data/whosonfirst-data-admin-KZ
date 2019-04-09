@@ -1,0 +1,79 @@
+{
+  "id": 1226112553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.20592,48.38883,84.20592,48.38883",
+    "geom:latitude":48.38883,
+    "geom:longitude":84.20592,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Amangeldi",
+    "gn:country_code":"KZ",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11438461,
+    "gn:latitude":48.38883,
+    "gn:longitude":84.20592,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Amangeldi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Amangeldi"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u0434\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "Amangel\u2019dy"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u044c\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11438461
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ef09836bee00b9010510a429d2b2a4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1226112553,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226112553,
+    "wof:lastmodified":1537660151,
+    "wof:name":"Amangeldi",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.20591999999998,
+    48.38883,
+    84.20591999999998,
+    48.38883
+],
+  "geometry": {"coordinates":[84.20591999999998,48.38883],"type":"Point"}
+}

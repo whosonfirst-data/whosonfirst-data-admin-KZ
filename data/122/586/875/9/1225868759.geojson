@@ -1,0 +1,76 @@
+{
+  "id": 1225868759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.24652,48.9615,54.24652,48.9615",
+    "geom:latitude":48.9615,
+    "geom:longitude":54.24652,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shubarshi",
+    "gn:country_code":"KZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863480,
+    "gn:latitude":48.9615,
+    "gn:longitude":54.24652,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Shubarshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shubarshi"
+    ],
+    "name:kaz_x_preferred":[
+        "Shubarsh\u012b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0431\u0430\u0440\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863480
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b86e82fb43c5705907eb953313faae3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785401,
+            "locality_id":1225868759,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1225868759,
+    "wof:lastmodified":1537659460,
+    "wof:name":"Shubarshi",
+    "wof:parent_id":1108785401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.24652,
+    48.9615,
+    54.24652,
+    48.9615
+],
+  "geometry": {"coordinates":[54.24652,48.9615],"type":"Point"}
+}

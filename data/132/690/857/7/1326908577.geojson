@@ -1,0 +1,70 @@
+{
+  "id": 1326908577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.52983,52.52655,78.52983,52.52655",
+    "geom:latitude":52.52655,
+    "geom:longitude":78.52983,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kurgamys",
+    "gn:country_code":"KZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10776496,
+    "gn:latitude":52.52655,
+    "gn:longitude":78.52983,
+    "gn:modification_date":"2015-09-09",
+    "gn:name":"Kurgamys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0433\u0430\u043c\u044b\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10776496
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"81f018db01fffccdf1fbb263fd40e649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1326908577,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1326908577,
+    "wof:lastmodified":1537660057,
+    "wof:name":"Kurgamys",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.52983,
+    52.52655,
+    78.52983,
+    52.52655
+],
+  "geometry": {"coordinates":[78.52983,52.52655],"type":"Point"}
+}

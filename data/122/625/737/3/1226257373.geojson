@@ -1,0 +1,76 @@
+{
+  "id": 1226257373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.35506,50.10705,65.35506,50.10705",
+    "geom:latitude":50.10705,
+    "geom:longitude":65.35506,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Agashtykol'",
+    "gn:country_code":"KZ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526930,
+    "gn:latitude":50.10705,
+    "gn:longitude":65.35506,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Agashtykol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Agashtykol'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0430\u0448\u0442\u044b\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Agashtykol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526930
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9ef7cfc1e46c52d115315716737102ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1226257373,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226257373,
+    "wof:lastmodified":1537659930,
+    "wof:name":"Agashtykol'",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.35506,
+    50.10705,
+    65.35506,
+    50.10705
+],
+  "geometry": {"coordinates":[65.35505999999999,50.10705],"type":"Point"}
+}

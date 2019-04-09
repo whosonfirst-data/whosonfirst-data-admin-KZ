@@ -1,0 +1,76 @@
+{
+  "id": 1360281395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.43987,40.63609,68.43987,40.63609",
+    "geom:latitude":40.63609,
+    "geom:longitude":68.43987,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Orgeba",
+    "gn:country_code":"KZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956086,
+    "gn:latitude":40.63609,
+    "gn:longitude":68.43987,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"\u00d6rgeba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u00d6rgeba"
+    ],
+    "name:kaz_x_variant":[
+        "\u04e8\u0440\u0433\u0435\u0431\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Org\u2018abos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956086
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3b603362cd42009fdde2ca4bf14c31d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1360281395,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1360281395,
+    "wof:lastmodified":1537660077,
+    "wof:name":"Orgeba",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.43987,
+    40.63609,
+    68.43987,
+    40.63609
+],
+  "geometry": {"coordinates":[68.43987,40.63609],"type":"Point"}
+}

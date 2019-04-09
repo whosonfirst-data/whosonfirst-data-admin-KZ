@@ -1,0 +1,76 @@
+{
+  "id": 1259571145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.95411,52.14475,74.95411,52.14475",
+    "geom:latitude":52.14475,
+    "geom:longitude":74.95411,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Akish",
+    "gn:country_code":"KZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10839363,
+    "gn:latitude":52.14475,
+    "gn:longitude":74.95411,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Akish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqsh\u012b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0448\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0438\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10839363
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fb5149d63064f09e35c6b8b556182483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785733,
+            "locality_id":1259571145,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259571145,
+    "wof:lastmodified":1537660064,
+    "wof:name":"Akish",
+    "wof:parent_id":1108785733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.95411,
+    52.14475,
+    74.95411,
+    52.14475
+],
+  "geometry": {"coordinates":[74.95411,52.14475],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343241591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.49639,54.10168,63.49639,54.10168",
+    "geom:latitude":54.10168,
+    "geom:longitude":63.49639,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Balykty",
+    "gn:country_code":"KZ",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525781,
+    "gn:latitude":54.10168,
+    "gn:longitude":63.49639,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Balykty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Balykty"
+    ],
+    "name:kaz_x_preferred":[
+        "Balyqty"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u043b\u044b\u049b\u0442\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u044b\u043a\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525781
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"068b9fce88a21e17158a9712e68158aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1343241591,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343241591,
+    "wof:lastmodified":1537659891,
+    "wof:name":"Balykty",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.49639000000001,
+    54.10168,
+    63.49639000000001,
+    54.10168
+],
+  "geometry": {"coordinates":[63.49639000000001,54.10168],"type":"Point"}
+}

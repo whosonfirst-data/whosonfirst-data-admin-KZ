@@ -1,0 +1,79 @@
+{
+  "id": 1293690979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.81127,43.00119,78.81127,43.00119",
+    "geom:latitude":43.00119,
+    "geom:longitude":78.81127,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhaydaqbulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":1869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11491390,
+    "gn:latitude":43.00119,
+    "gn:longitude":78.81127,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Zhaydaqbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhaydaqbulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u0439\u0434\u0430\u049b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0439\u0434\u0430\u043a\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zhaydakbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491390
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2e14a25cc0b64c9f487578b2c4d802c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1293690979,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293690979,
+    "wof:lastmodified":1537660162,
+    "wof:name":"Zhaydaqbulaq",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.81127,
+    43.00119,
+    78.81127,
+    43.00119
+],
+  "geometry": {"coordinates":[78.81126999999999,43.00119],"type":"Point"}
+}

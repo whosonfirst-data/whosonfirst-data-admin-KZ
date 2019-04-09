@@ -1,0 +1,67 @@
+{
+  "id": 1243464557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.71667,50.35,47.71667,50.35",
+    "geom:latitude":50.35,
+    "geom:longitude":47.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Osemenitel'",
+    "gn:country_code":"KZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608655,
+    "gn:latitude":50.35,
+    "gn:longitude":47.71667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Osemenitel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608655
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"823d2bd0c13d6582929780e5dbf5e42e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785327,
+            "locality_id":1243464557,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1243464557,
+    "wof:lastmodified":1536779846,
+    "wof:name":"Osemenitel'",
+    "wof:parent_id":1108785327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.71667,
+    50.35,
+    47.71667,
+    50.35
+],
+  "geometry": {"coordinates":[47.71667,50.35],"type":"Point"}
+}

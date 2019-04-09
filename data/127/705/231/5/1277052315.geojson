@@ -1,0 +1,85 @@
+{
+  "id": 1277052315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.80479,52.39554,65.80479,52.39554",
+    "geom:latitude":52.39554,
+    "geom:longitude":65.80479,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Molodyozhnoe",
+    "gn:country_code":"KZ",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520877,
+    "gn:latitude":52.39554,
+    "gn:longitude":65.80479,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Molodyozhnoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Molod\u00ebzhnoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Molodyozhnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u043e\u043b\u043e\u0434\u0451\u0436\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u043e\u0434\u0435\u0436\u043d\u044b\u0439"
+    ],
+    "name:rus_x_variant":[
+        "Molod\u00ebzhnoye"
+    ],
+    "name:und_x_variant":[
+        "Molod\u00ebzhnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520877
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7317c7a010068d53ce83f3256495994a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1277052315,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1277052315,
+    "wof:lastmodified":1537659685,
+    "wof:name":"Molodyozhnoe",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.80479,
+    52.39554,
+    65.80479,
+    52.39554
+],
+  "geometry": {"coordinates":[65.80479,52.39554],"type":"Point"}
+}

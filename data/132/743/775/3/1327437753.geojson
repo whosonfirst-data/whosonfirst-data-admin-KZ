@@ -1,0 +1,77 @@
+{
+  "id": 1327437753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.0271,50.05777,57.0271,50.05777",
+    "geom:latitude":50.05777,
+    "geom:longitude":57.0271,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Petrovka",
+    "gn:country_code":"KZ",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608612,
+    "gn:latitude":50.05777,
+    "gn:longitude":57.0271,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Petrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Petrovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Petrovskiy",
+        "Petrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608612
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7b17a1d8c36b2c925ddde0741013b327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785521,
+            "locality_id":1327437753,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1327437753,
+    "wof:lastmodified":1537659379,
+    "wof:name":"Petrovka",
+    "wof:parent_id":1108785521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.0271,
+    50.05777,
+    57.0271,
+    50.05777
+],
+  "geometry": {"coordinates":[57.0271,50.05777],"type":"Point"}
+}

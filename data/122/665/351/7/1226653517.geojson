@@ -1,0 +1,79 @@
+{
+  "id": 1226653517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.63575,52.37154,69.63575,52.37154",
+    "geom:latitude":52.37154,
+    "geom:longitude":69.63575,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Otradnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520298,
+    "gn:latitude":52.37154,
+    "gn:longitude":69.63575,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Otradnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Otradnoe"
+    ],
+    "name:kaz_x_preferred":[
+        "Otradnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u0442\u0440\u0430\u0434\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0440\u0430\u0434\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520298
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dc10b08610b086aa3b8d1bef5202e5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785389,
+            "locality_id":1226653517,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226653517,
+    "wof:lastmodified":1537659649,
+    "wof:name":"Otradnoye",
+    "wof:parent_id":1108785389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.63575,
+    52.37154,
+    69.63575,
+    52.37154
+],
+  "geometry": {"coordinates":[69.63575,52.37154],"type":"Point"}
+}

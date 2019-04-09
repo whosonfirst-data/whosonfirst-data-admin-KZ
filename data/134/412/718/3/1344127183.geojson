@@ -1,0 +1,82 @@
+{
+  "id": 1344127183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6212,50.78584,80.6212,50.78584",
+    "geom:latitude":50.78584,
+    "geom:longitude":80.6212,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zenkovka",
+    "gn:country_code":"KZ",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517048,
+    "gn:latitude":50.78584,
+    "gn:longitude":80.6212,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Zenkovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zenkovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0435\u043d\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043d\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zinkovka",
+        "Zenkoyskiy",
+        "Zenkovskiy",
+        "Zenkovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517048
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a2b258f1d10bd283f78896aaed60bda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1344127183,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1344127183,
+    "wof:lastmodified":1537659496,
+    "wof:name":"Zenkovka",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6212,
+    50.78584,
+    80.6212,
+    50.78584
+],
+  "geometry": {"coordinates":[80.6212,50.78584],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343834293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.35023,42.99461,70.35023,42.99461",
+    "geom:latitude":42.99461,
+    "geom:longitude":70.35023,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Araltobe",
+    "gn:country_code":"KZ",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794338,
+    "gn:latitude":42.99461,
+    "gn:longitude":70.35023,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Aralt\u00f6be",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aralt\u00f6be"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0440\u0430\u043b\u0442\u04e9\u0431\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794338
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e2e75867edfd5e561026417c41c88b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785643,
+            "locality_id":1343834293,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1343834293,
+    "wof:lastmodified":1537660059,
+    "wof:name":"Araltobe",
+    "wof:parent_id":1108785643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.35023000000001,
+    42.99461,
+    70.35023000000001,
+    42.99461
+],
+  "geometry": {"coordinates":[70.35023000000001,42.99461],"type":"Point"}
+}

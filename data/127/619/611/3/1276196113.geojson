@@ -1,0 +1,78 @@
+{
+  "id": 1276196113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.26513,49.83558,82.26513,49.83558",
+    "geom:latitude":49.83558,
+    "geom:longitude":82.26513,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zavidnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517065,
+    "gn:latitude":49.83558,
+    "gn:longitude":82.26513,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zavidnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zavidnoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0432\u0438\u0434\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Peredovoy",
+        "Zavidnyy",
+        "Zavidnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517065
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"155262c98207013b7259a4d0b066131a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785473,
+            "locality_id":1276196113,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276196113,
+    "wof:lastmodified":1537659497,
+    "wof:name":"Zavidnoye",
+    "wof:parent_id":1108785473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.26513,
+    49.83558,
+    82.26513,
+    49.83558
+],
+  "geometry": {"coordinates":[82.26513,49.83558],"type":"Point"}
+}

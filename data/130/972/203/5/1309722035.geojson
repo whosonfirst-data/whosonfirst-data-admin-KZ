@@ -1,0 +1,67 @@
+{
+  "id": 1309722035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.7,48.98333,77.7,48.98333",
+    "geom:latitude":48.98333,
+    "geom:longitude":77.7,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kenzhebay",
+    "gn:country_code":"KZ",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522743,
+    "gn:latitude":48.98333,
+    "gn:longitude":77.7,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kenzhebay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522743
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0d1a6fce1251311663602ce0b99b7e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1309722035,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1309722035,
+    "wof:lastmodified":1537049669,
+    "wof:name":"Kenzhebay",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.7,
+    48.98333,
+    77.7,
+    48.98333
+],
+  "geometry": {"coordinates":[77.7,48.98333],"type":"Point"}
+}

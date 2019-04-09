@@ -1,0 +1,72 @@
+{
+  "id": 1276772997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.81667,50.3,51.81667,50.3",
+    "geom:latitude":50.3,
+    "geom:longitude":51.81667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kuraile",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609089,
+    "gn:latitude":50.3,
+    "gn:longitude":51.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kuraile",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurayle",
+        "Kuraile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609089
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"983c73cb18b36f7ed77187dd3a8c25cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785731,
+            "locality_id":1276772997,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1276772997,
+    "wof:lastmodified":1537659399,
+    "wof:name":"Kuraile",
+    "wof:parent_id":1108785731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.81667,
+    50.3,
+    51.81667,
+    50.3
+],
+  "geometry": {"coordinates":[51.81667,50.3],"type":"Point"}
+}

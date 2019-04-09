@@ -1,0 +1,74 @@
+{
+  "id": 1343773535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.24662,51.84983,71.24662,51.84983",
+    "geom:latitude":51.84983,
+    "geom:longitude":71.24662,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novorybinka",
+    "gn:country_code":"KZ",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520559,
+    "gn:latitude":51.84983,
+    "gn:longitude":71.24662,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Novorybinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Novoryb\u012bnka"
+    ],
+    "name:und_x_variant":[
+        "Novo-Rybinskoye",
+        "Novorybinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520559
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e854e33d9fc241b735db2c1fafba75ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1343773535,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343773535,
+    "wof:lastmodified":1537659664,
+    "wof:name":"Novorybinka",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.24662,
+    51.84983,
+    71.24662,
+    51.84983
+],
+  "geometry": {"coordinates":[71.24661999999999,51.84983],"type":"Point"}
+}

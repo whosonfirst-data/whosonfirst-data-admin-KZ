@@ -1,0 +1,70 @@
+{
+  "id": 1293171157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.15499,49.21415,86.15499,49.21415",
+    "geom:latitude":49.21415,
+    "geom:longitude":86.15499,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Talovochka",
+    "gn:country_code":"KZ",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11453701,
+    "gn:latitude":49.21415,
+    "gn:longitude":86.15499,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Talovochka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u043e\u0432\u043e\u0447\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11453701
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"929f6124b80364e1032fd86dbddf0f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1293171157,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293171157,
+    "wof:lastmodified":1537660154,
+    "wof:name":"Talovochka",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.15499,
+    49.21415,
+    86.15499,
+    49.21415
+],
+  "geometry": {"coordinates":[86.15499,49.21415],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310393589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.7679,53.25528,74.7679,53.25528",
+    "geom:latitude":53.25528,
+    "geom:longitude":74.7679,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Otdeleniye Nomer Dva Sovkhoza Panfilovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533726,
+    "gn:latitude":53.25528,
+    "gn:longitude":74.7679,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Otdeleniye Nomer Dva Sovkhoza Panfilovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqqudyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u049b\u04b1\u0434\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u0414\u0432\u0430 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u041f\u0430\u043d\u0444\u0438\u043b\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533726
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"53911168c89e3edf6334548e867f0e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1310393589,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310393589,
+    "wof:lastmodified":1537659979,
+    "wof:name":"Otdeleniye Nomer Dva Sovkhoza Panfilovskiy",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.7679,
+    53.25528000000001,
+    74.7679,
+    53.25528000000001
+],
+  "geometry": {"coordinates":[74.7679,53.25528000000001],"type":"Point"}
+}

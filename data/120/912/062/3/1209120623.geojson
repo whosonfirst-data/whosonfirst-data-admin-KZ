@@ -1,0 +1,61 @@
+{
+  "id": 1209120623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.56667,51.76667,61.56667,51.76667",
+    "geom:latitude":51.76667,
+    "geom:longitude":61.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ol'ginskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520411,
+    "gn:latitude":51.76667,
+    "gn:longitude":61.56667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Ol\u2019ginskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520411
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"15a73e902141bc762f8ef04468b0e962",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209120623
+        }
+    ],
+    "wof:id":1209120623,
+    "wof:lastmodified":1536297111,
+    "wof:name":"Ol'ginskiy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.56667,
+    51.76667,
+    61.56667,
+    51.76667
+],
+  "geometry": {"coordinates":[61.56667,51.76667],"type":"Point"}
+}

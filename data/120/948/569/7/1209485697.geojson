@@ -1,0 +1,64 @@
+{
+  "id": 1209485697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.04787,49.62325,84.04787,49.62325",
+    "geom:latitude":49.62325,
+    "geom:longitude":84.04787,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Proletarka",
+    "gn:country_code":"KZ",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534604,
+    "gn:latitude":49.62325,
+    "gn:longitude":84.04787,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Proletarka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534604
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"34198d08a438c0a26095981abab0615c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209485697
+        }
+    ],
+    "wof:id":1209485697,
+    "wof:lastmodified":1537659984,
+    "wof:name":"Proletarka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.04786999999997,
+    49.62325,
+    84.04786999999997,
+    49.62325
+],
+  "geometry": {"coordinates":[84.04786999999997,49.62325],"type":"Point"}
+}

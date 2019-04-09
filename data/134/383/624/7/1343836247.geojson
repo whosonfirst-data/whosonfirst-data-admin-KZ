@@ -1,0 +1,77 @@
+{
+  "id": 1343836247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.606,53.44169,73.606,53.44169",
+    "geom:latitude":53.44169,
+    "geom:longitude":73.606,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sholaksay",
+    "gn:country_code":"KZ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1532814,
+    "gn:latitude":53.44169,
+    "gn:longitude":73.606,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Sholaksay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Sholansay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043b\u0430\u043a\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Sholansay",
+        "Sholaksay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532814
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"727cd6d893d57e7d2af3376d30030075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1343836247,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343836247,
+    "wof:lastmodified":1537659972,
+    "wof:name":"Sholaksay",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.60600000000002,
+    53.44169,
+    73.60600000000002,
+    53.44169
+],
+  "geometry": {"coordinates":[73.60600000000002,53.44169],"type":"Point"}
+}

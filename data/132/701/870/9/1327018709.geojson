@@ -1,0 +1,70 @@
+{
+  "id": 1327018709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.26028,43.40177,68.26028,43.40177",
+    "geom:latitude":43.40177,
+    "geom:longitude":68.26028,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shipan",
+    "gn:country_code":"KZ",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055449,
+    "gn:latitude":43.40177,
+    "gn:longitude":68.26028,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Shipan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043f\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055449
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a974d6d359fa5e9816af2b3dc4769ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1327018709,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1327018709,
+    "wof:lastmodified":1537660094,
+    "wof:name":"Shipan",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.26028000000001,
+    43.40177,
+    68.26028000000001,
+    43.40177
+],
+  "geometry": {"coordinates":[68.26028000000001,43.40177],"type":"Point"}
+}

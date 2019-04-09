@@ -1,0 +1,70 @@
+{
+  "id": 1209085763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.02647,54.03272,62.02647,54.03272",
+    "geom:latitude":54.03272,
+    "geom:longitude":62.02647,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Shadyksayevka",
+    "gn:country_code":"KZ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1541458,
+    "gn:latitude":54.03272,
+    "gn:longitude":62.02647,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Shadyksayevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shadyqsay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0430\u0434\u044b\u049b\u0441\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0434\u044b\u043a\u0441\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1541458
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fd0500cdda0793ad46b1144430fee7d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209085763
+        }
+    ],
+    "wof:id":1209085763,
+    "wof:lastmodified":1537660035,
+    "wof:name":"Shadyksayevka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.02647,
+    54.03272,
+    62.02647,
+    54.03272
+],
+  "geometry": {"coordinates":[62.02647,54.03272],"type":"Point"}
+}

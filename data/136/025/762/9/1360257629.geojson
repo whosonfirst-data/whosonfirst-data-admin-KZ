@@ -1,0 +1,73 @@
+{
+  "id": 1360257629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.58577,54.84377,70.58577,54.84377",
+    "geom:latitude":54.84377,
+    "geom:longitude":70.58577,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ukrainka",
+    "gn:country_code":"KZ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530688,
+    "gn:latitude":54.84377,
+    "gn:longitude":70.58577,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Ukrainka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u016akra\u012bnka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0423\u043a\u0440\u0430\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530688
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6e13524d16e2a8657eb1df0a3085532d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1360257629,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1360257629,
+    "wof:lastmodified":1537659943,
+    "wof:name":"Ukrainka",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.58577,
+    54.84376999999999,
+    70.58577,
+    54.84376999999999
+],
+  "geometry": {"coordinates":[70.58577,54.84376999999999],"type":"Point"}
+}

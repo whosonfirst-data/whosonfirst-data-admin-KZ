@@ -1,0 +1,71 @@
+{
+  "id": 1343242411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.16667,50.03333,71.16667,50.03333",
+    "geom:latitude":50.03333,
+    "geom:longitude":71.16667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Semnadtsat' Let Oktyabrya Chetvertyy",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519406,
+    "gn:latitude":50.03333,
+    "gn:longitude":71.16667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Semnadtsat' Let Oktyabrya Chetv\u00ebrtyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519406
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f969c42b775cf8dd46d5fe90ea01a20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785499,
+            "locality_id":1343242411,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1343242411,
+    "wof:lastmodified":1537659605,
+    "wof:name":"Semnadtsat' Let Oktyabrya Chetvertyy",
+    "wof:parent_id":1108785499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.16667,
+    50.03333,
+    71.16667,
+    50.03333
+],
+  "geometry": {"coordinates":[71.16667,50.03333],"type":"Point"}
+}

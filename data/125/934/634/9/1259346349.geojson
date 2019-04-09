@@ -1,0 +1,70 @@
+{
+  "id": 1259346349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.2,42.95,75.2,42.95",
+    "geom:latitude":42.95,
+    "geom:longitude":75.2,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kyzylsay",
+    "gn:country_code":"KZ",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521494,
+    "gn:latitude":42.95,
+    "gn:longitude":75.2,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Kyzylsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyzylsay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521494
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6fe263061dd6ce4427a541f8d93ec1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785317,
+            "locality_id":1259346349,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1259346349,
+    "wof:lastmodified":1537659719,
+    "wof:name":"Kyzylsay",
+    "wof:parent_id":1108785317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.2,
+    42.95,
+    75.2,
+    42.95
+],
+  "geometry": {"coordinates":[75.2,42.95],"type":"Point"}
+}

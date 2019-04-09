@@ -1,0 +1,70 @@
+{
+  "id": 1293678071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.69256,42.91398,69.69256,42.91398",
+    "geom:latitude":42.91398,
+    "geom:longitude":69.69256,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhuldyz",
+    "gn:country_code":"KZ",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641451,
+    "gn:latitude":42.91398,
+    "gn:longitude":69.69256,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Zhuldyz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u043b\u0434\u044b\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641451
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"23e4396a1210a47444074876898372c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785583,
+            "locality_id":1293678071,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293678071,
+    "wof:lastmodified":1537660057,
+    "wof:name":"Zhuldyz",
+    "wof:parent_id":1108785583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.69256,
+    42.91398,
+    69.69256,
+    42.91398
+],
+  "geometry": {"coordinates":[69.69256,42.91398],"type":"Point"}
+}

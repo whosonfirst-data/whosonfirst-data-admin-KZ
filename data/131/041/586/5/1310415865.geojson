@@ -1,0 +1,67 @@
+{
+  "id": 1310415865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.18333,50.36667,51.18333,50.36667",
+    "geom:latitude":50.36667,
+    "geom:longitude":51.18333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Adaytobe",
+    "gn:country_code":"KZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610800,
+    "gn:latitude":50.36667,
+    "gn:longitude":51.18333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Adaytobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610800
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"40e879d17a9484598224494979afb996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785731,
+            "locality_id":1310415865,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1310415865,
+    "wof:lastmodified":1537044414,
+    "wof:name":"Adaytobe",
+    "wof:parent_id":1108785731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.18333,
+    50.36667,
+    51.18333,
+    50.36667
+],
+  "geometry": {"coordinates":[51.18333,50.36667],"type":"Point"}
+}

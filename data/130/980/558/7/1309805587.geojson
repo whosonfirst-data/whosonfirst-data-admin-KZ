@@ -1,0 +1,70 @@
+{
+  "id": 1309805587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.03424,53.33144,70.03424,53.33144",
+    "geom:latitude":53.33144,
+    "geom:longitude":70.03424,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mezgilsor",
+    "gn:country_code":"KZ",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11113300,
+    "gn:latitude":53.33144,
+    "gn:longitude":70.03424,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Mezgilsor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0437\u0433\u0438\u043b\u0441\u043e\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11113300
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7a38726056c52d8ca6331ef064ac0303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785629,
+            "locality_id":1309805587,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1309805587,
+    "wof:lastmodified":1537660097,
+    "wof:name":"Mezgilsor",
+    "wof:parent_id":1108785629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.03424,
+    53.33144,
+    70.03424,
+    53.33144
+],
+  "geometry": {"coordinates":[70.03424,53.33144],"type":"Point"}
+}

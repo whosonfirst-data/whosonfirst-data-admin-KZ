@@ -1,0 +1,80 @@
+{
+  "id": 1293195773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.55746,41.89613,69.55746,41.89613",
+    "geom:latitude":41.89613,
+    "geom:longitude":69.55746,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhanaturmys",
+    "gn:country_code":"KZ",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522495,
+    "gn:latitude":41.89613,
+    "gn:longitude":69.55746,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Zhanaturmys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhangaturmys"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430\u0442\u04b1\u0440\u043c\u044b\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0442\u0443\u0440\u043c\u044b\u0441"
+    ],
+    "name:und_x_variant":[
+        "Kokryuk",
+        "Zhanaturmys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522495
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c34b73bc1823d572a4949addd0ad2d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1293195773,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293195773,
+    "wof:lastmodified":1537659761,
+    "wof:name":"Zhanaturmys",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.55745999999999,
+    41.89613,
+    69.55745999999999,
+    41.89613
+],
+  "geometry": {"coordinates":[69.55745999999999,41.89613],"type":"Point"}
+}

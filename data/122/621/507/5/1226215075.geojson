@@ -1,0 +1,70 @@
+{
+  "id": 1226215075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.60312,54.88786,69.60312,54.88786",
+    "geom:latitude":54.88786,
+    "geom:longitude":69.60312,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Krutoye",
+    "gn:country_code":"KZ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530607,
+    "gn:latitude":54.88786,
+    "gn:longitude":69.60312,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Krutoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u0442\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530607
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5e9f0a5300da699d4303c1afbd9d5e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1226215075,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226215075,
+    "wof:lastmodified":1537659940,
+    "wof:name":"Krutoye",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.60311999999999,
+    54.88786,
+    69.60311999999999,
+    54.88786
+],
+  "geometry": {"coordinates":[69.60311999999999,54.88786],"type":"Point"}
+}

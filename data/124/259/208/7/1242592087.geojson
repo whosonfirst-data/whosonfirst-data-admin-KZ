@@ -1,0 +1,78 @@
+{
+  "id": 1242592087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.10366,51.78049,65.10366,51.78049",
+    "geom:latitude":51.78049,
+    "geom:longitude":65.10366,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tubek",
+    "gn:country_code":"KZ",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523088,
+    "gn:latitude":51.78049,
+    "gn:longitude":65.10366,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tubek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tubek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0431\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Karateke",
+        "Qarateke",
+        "Tubek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523088
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9b69941ee0f925718652bbae97d7fb3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1242592087,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1242592087,
+    "wof:lastmodified":1537659784,
+    "wof:name":"Tubek",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.10365999999999,
+    51.78049,
+    65.10365999999999,
+    51.78049
+],
+  "geometry": {"coordinates":[65.10365999999999,51.78049],"type":"Point"}
+}

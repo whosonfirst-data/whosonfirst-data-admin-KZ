@@ -1,0 +1,86 @@
+{
+  "id": 1343831153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.20293,48.77934,84.20293,48.77934",
+    "geom:latitude":48.77934,
+    "geom:longitude":84.20293,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tosqayyng",
+    "gn:country_code":"KZ",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518051,
+    "gn:latitude":48.77934,
+    "gn:longitude":84.20293,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Tosqayyng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Budennovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u043e\u0441\u049b\u0430\u0439\u044b\u04a3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0435\u043d\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "Bud\u00ebnnovka",
+        "\u0411\u0443\u0434\u0451\u043d\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Budenovka",
+        "Tuzkain",
+        "Budennovskiy",
+        "Budennovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518051
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bf91a6d59d1e187efa22fe7eaed47f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1343831153,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343831153,
+    "wof:lastmodified":1537659549,
+    "wof:name":"Tosqayyng",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.20293000000002,
+    48.77934000000001,
+    84.20293000000002,
+    48.77934000000001
+],
+  "geometry": {"coordinates":[84.20293000000002,48.77934000000001],"type":"Point"}
+}

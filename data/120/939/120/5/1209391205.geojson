@@ -1,0 +1,73 @@
+{
+  "id": 1209391205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.41201,54.08769,65.41201,54.08769",
+    "geom:latitude":54.08769,
+    "geom:longitude":65.41201,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Esmyrza",
+    "gn:country_code":"KZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11416761,
+    "gn:latitude":54.08769,
+    "gn:longitude":65.41201,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Esmyrza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Esmyrza"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u0441\u043c\u044b\u0440\u0437\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0441\u043c\u0443\u0440\u0437\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yesmurza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11416761
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e2a7e813ed60a2db9c46bf70d41a8571",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209391205
+        }
+    ],
+    "wof:id":1209391205,
+    "wof:lastmodified":1537660144,
+    "wof:name":"Esmyrza",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.41201,
+    54.08769,
+    65.41201,
+    54.08769
+],
+  "geometry": {"coordinates":[65.41201,54.08769],"type":"Point"}
+}

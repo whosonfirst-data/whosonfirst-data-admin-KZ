@@ -1,0 +1,87 @@
+{
+  "id": 1327407069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.50387,48.4379,85.50387,48.4379",
+    "geom:latitude":48.4379,
+    "geom:longitude":85.50387,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qaynarly",
+    "gn:country_code":"KZ",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526199,
+    "gn:latitude":48.4379,
+    "gn:longitude":85.50387,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Qaynarly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Arkhipovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Qaynarly"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0439\u043d\u0430\u0440\u043b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0445\u0438\u043f\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0439\u043d\u0430\u0440\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Arkhipovskiy",
+        "Arkhipovka",
+        "Kaynarly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526199
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"00df7b41e9a6d09cbc4c1f19802ee33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1327407069,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327407069,
+    "wof:lastmodified":1537659903,
+    "wof:name":"Qaynarly",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.50386999999998,
+    48.4379,
+    85.50386999999998,
+    48.4379
+],
+  "geometry": {"coordinates":[85.50386999999998,48.4379],"type":"Point"}
+}

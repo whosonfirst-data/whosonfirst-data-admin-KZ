@@ -1,0 +1,80 @@
+{
+  "id": 1327044379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.31538,43.60182,76.31538,43.60182",
+    "geom:latitude":43.60182,
+    "geom:longitude":76.31538,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Uzynaghash",
+    "gn:country_code":"KZ",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517562,
+    "gn:latitude":43.60182,
+    "gn:longitude":76.31538,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Uzynaghash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Uzynaghash"
+    ],
+    "name:kaz_x_variant":[
+        "\u04b0\u0437\u044b\u043d\u0430\u0493\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u044b\u043d\u0430\u0433\u0430\u0447"
+    ],
+    "name:und_x_variant":[
+        "Uzunagach",
+        "Uzynagach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517562
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"153b9f1c7483a1f7f25dfe6ff6886330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1327044379,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1327044379,
+    "wof:lastmodified":1537659529,
+    "wof:name":"Uzynaghash",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.31538,
+    43.60182,
+    76.31538,
+    43.60182
+],
+  "geometry": {"coordinates":[76.31538,43.60182],"type":"Point"}
+}

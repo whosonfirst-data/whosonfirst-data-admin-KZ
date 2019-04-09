@@ -1,0 +1,67 @@
+{
+  "id": 1292905275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.28333,52.1,70.28333,52.1",
+    "geom:latitude":52.1,
+    "geom:longitude":70.28333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Voronezhskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517401,
+    "gn:latitude":52.1,
+    "gn:longitude":70.28333,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Voronezhskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517401
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bce5bb79e92af570c870f5c5d4a978ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1292905275,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1292905275,
+    "wof:lastmodified":1536630701,
+    "wof:name":"Voronezhskoye",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.28333,
+    52.1,
+    70.28333,
+    52.1
+],
+  "geometry": {"coordinates":[70.28333000000001,52.1],"type":"Point"}
+}

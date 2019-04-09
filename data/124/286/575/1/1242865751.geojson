@@ -1,0 +1,77 @@
+{
+  "id": 1242865751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.97058,50.80936,52.97058,50.80936",
+    "geom:latitude":50.80936,
+    "geom:longitude":52.97058,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Aleksandrovka",
+    "gn:country_code":"KZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610668,
+    "gn:latitude":50.80936,
+    "gn:longitude":52.97058,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Aleksandrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aleksandrovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yuzhno-Aleksandrovskiy",
+        "Aleksandrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610668
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f30ffe106cb148e01d90321f2e905c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785325,
+            "locality_id":1242865751,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1242865751,
+    "wof:lastmodified":1537659450,
+    "wof:name":"Aleksandrovka",
+    "wof:parent_id":1108785325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.97058000000001,
+    50.80936,
+    52.97058000000001,
+    50.80936
+],
+  "geometry": {"coordinates":[52.97058000000001,50.80936],"type":"Point"}
+}

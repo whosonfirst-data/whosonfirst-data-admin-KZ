@@ -1,0 +1,73 @@
+{
+  "id": 1310385633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06525,48.87102,68.06525,48.87102",
+    "geom:latitude":48.87102,
+    "geom:longitude":68.06525,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Betbulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525364,
+    "gn:latitude":48.87102,
+    "gn:longitude":68.06525,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Betbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Betbulaq"
+    ],
+    "name:und_x_variant":[
+        "Betbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525364
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aad2b38b2cda129d9e71e30b0fc5d48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785515,
+            "locality_id":1310385633,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1310385633,
+    "wof:lastmodified":1537659873,
+    "wof:name":"Betbulaq",
+    "wof:parent_id":1108785515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06525,
+    48.87102,
+    68.06525,
+    48.87102
+],
+  "geometry": {"coordinates":[68.06525000000001,48.87102],"type":"Point"}
+}

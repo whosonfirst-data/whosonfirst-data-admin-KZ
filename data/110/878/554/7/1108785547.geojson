@@ -1,0 +1,92 @@
+{
+  "id": 1108785547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000512,
+    "geom:area_square_m":4443160.369856,
+    "geom:bbox":"52.8856491468,45.3990255206,52.9609572989,45.464314243",
+    "geom:latitude":45.431622,
+    "geom:longitude":52.921344,
+    "iso:country":"KZ",
+    "lbl:latitude":45.435948,
+    "lbl:longitude":52.918206,
+    "meso:adm1_loc":"\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "meso:delete_fla":"2",
+    "meso:dissme":"\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "meso:gadm_adm1":"Mangghystau",
+    "meso:gadm_adm2":"Manghystauskiy",
+    "meso:gadm_alt":"Mangistauskiy",
+    "meso:gadm_hasc":"KZ.MG.MA",
+    "meso:gaul_adm1":"Mangistauskaya",
+    "meso:gaul_adm2":"Mangystau",
+    "meso:mps_x":52.918206,
+    "meso:mps_y":45.435948,
+    "meso:name_en":"Manghystauskiy",
+    "meso:name_loc":"\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+    "meso:type_loc":"Rayon",
+    "mps:latitude":45.435948,
+    "mps:longitude":52.918206,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Manghystauskiy"
+    ],
+    "name:und_x_variant":[
+        "\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"1999-04-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"1999-04-01",
+    "statoids:capital":"Shetpe",
+    "statoids:country":"KZ",
+    "statoids:hasc":"KZ.MG",
+    "statoids:name":"Manghystauskiy",
+    "statoids:population":"29000",
+    "statoids:statoid":"KZ.MG.MA",
+    "statoids:timezone":"5",
+    "statoids:type":"rayon",
+    "wof:belongsto":[
+        102191569,
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"KZ.MG.MA"
+    },
+    "wof:country":"KZ",
+    "wof:created":1481838026,
+    "wof:geomhash":"1e436618368dabda8ac27eb4253f9316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785547
+        }
+    ],
+    "wof:id":1108785547,
+    "wof:lastmodified":1536615805,
+    "wof:name":"Manghystauskiy",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"rayon",
+    "wof:population":29000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:shortcode":"MA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.88564914683666,
+    45.39902552055141,
+    52.96095729893146,
+    45.46431424304931
+],
+  "geometry": {"coordinates":[[[52.96095729893146,45.39902552055141],[52.95519256600022,45.40002822900027],[52.93691635100015,45.4111938480001],[52.92980575600023,45.41849899300013],[52.92461013800028,45.42074966400014],[52.89283371000022,45.45769500700015],[52.88564914683666,45.46431424304931],[52.88929100708579,45.46265946085664],[52.89464550354211,45.45882973042768],[52.90017930064458,45.45423659077604],[52.90617649263208,45.45017031438648],[52.91092504521819,45.44733550436219],[52.91503219349917,45.4454778618835],[52.91901284051327,45.44324820204689],[52.92175013620589,45.44005345376862],[52.92487496190918,45.43402662069069],[52.92946327173597,45.42718504924952],[52.93327927768688,45.42306870371428],[52.93584230343122,45.42034643353152],[52.93804733168199,45.41742085683079],[52.94067071333274,45.41428422074844],[52.94374728154476,45.411686147934],[52.9464397264927,45.40921090252415],[52.94982641340825,45.40588994648589],[52.95403700447824,45.40294497324231],[52.95826850223833,45.40022248662052],[52.96095729893146,45.39902552055141]]],"type":"Polygon"}
+}

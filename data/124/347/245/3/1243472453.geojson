@@ -1,0 +1,77 @@
+{
+  "id": 1243472453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.72153,50.05088,65.72153,50.05088",
+    "geom:latitude":50.05088,
+    "geom:longitude":65.72153,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kulik",
+    "gn:country_code":"KZ",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521873,
+    "gn:latitude":50.05088,
+    "gn:longitude":65.72153,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kulik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kulik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kentubek",
+        "Kulik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521873
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"619f979cc77f49cfbb027c6199fe23ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1243472453,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1243472453,
+    "wof:lastmodified":1537659731,
+    "wof:name":"Kulik",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.72153,
+    50.05088,
+    65.72153,
+    50.05088
+],
+  "geometry": {"coordinates":[65.72153,50.05088],"type":"Point"}
+}

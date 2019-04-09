@@ -1,0 +1,73 @@
+{
+  "id": 1293218313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.06835,44.14279,80.06835,44.14279",
+    "geom:latitude":44.14279,
+    "geom:longitude":80.06835,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Eltay",
+    "gn:country_code":"KZ",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11516638,
+    "gn:latitude":44.14279,
+    "gn:longitude":80.06835,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Eltay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Eltay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u043b\u0442\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11516638
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a8bc14943b6974c625f0d0b90ff09f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785409,
+            "locality_id":1293218313,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293218313,
+    "wof:lastmodified":1537660183,
+    "wof:name":"Eltay",
+    "wof:parent_id":1108785409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.06835,
+    44.14279000000001,
+    80.06835,
+    44.14279000000001
+],
+  "geometry": {"coordinates":[80.06835,44.14279000000001],"type":"Point"}
+}

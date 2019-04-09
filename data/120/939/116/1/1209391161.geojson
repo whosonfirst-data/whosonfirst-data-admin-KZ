@@ -1,0 +1,61 @@
+{
+  "id": 1209391161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.71667,43.53333,69.71667,43.53333",
+    "geom:latitude":43.53333,
+    "geom:longitude":69.71667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Konechnaya",
+    "gn:country_code":"KZ",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522320,
+    "gn:latitude":43.53333,
+    "gn:longitude":69.71667,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Konechnaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522320
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9ede57ce88c9260d2f1306152efd525a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209391161
+        }
+    ],
+    "wof:id":1209391161,
+    "wof:lastmodified":1536288456,
+    "wof:name":"Konechnaya",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.71667,
+    43.53333,
+    69.71667,
+    43.53333
+],
+  "geometry": {"coordinates":[69.71666999999999,43.53333],"type":"Point"}
+}

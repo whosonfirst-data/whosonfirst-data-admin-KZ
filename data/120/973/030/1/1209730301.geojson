@@ -1,0 +1,67 @@
+{
+  "id": 1209730301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.83333,48.65,51.83333,48.65",
+    "geom:latitude":48.65,
+    "geom:longitude":51.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bekettobe",
+    "gn:country_code":"KZ",
+    "gn:dem":-10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610353,
+    "gn:latitude":48.65,
+    "gn:longitude":51.83333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Bekettobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610353
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"66758e1052f30b04ae6a79c41fe5857c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1209730301,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1209730301,
+    "wof:lastmodified":1536379359,
+    "wof:name":"Bekettobe",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.83333,
+    48.65,
+    51.83333,
+    48.65
+],
+  "geometry": {"coordinates":[51.83333,48.65],"type":"Point"}
+}

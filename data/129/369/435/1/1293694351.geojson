@@ -1,0 +1,79 @@
+{
+  "id": 1293694351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.12608,53.16965,69.12608,53.16965",
+    "geom:latitude":53.16965,
+    "geom:longitude":69.12608,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chaglinka",
+    "gn:country_code":"KZ",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524914,
+    "gn:latitude":53.16965,
+    "gn:longitude":69.12608,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Chaglinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shaghalaly"
+    ],
+    "name:kaz_x_preferred":[
+        "Shaghalaly"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0430\u0493\u0430\u043b\u0430\u043b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0433\u043b\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524914
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0dce3f900143eb581f6a54f9916c336e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1293694351,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293694351,
+    "wof:lastmodified":1537659855,
+    "wof:name":"Chaglinka",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.12608,
+    53.16965,
+    69.12608,
+    53.16965
+],
+  "geometry": {"coordinates":[69.12608,53.16965],"type":"Point"}
+}

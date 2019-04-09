@@ -1,0 +1,78 @@
+{
+  "id": 1259392607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.78333,50.6,65.78333,50.6",
+    "geom:latitude":50.6,
+    "geom:longitude":65.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Karazhar",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523032,
+    "gn:latitude":50.6,
+    "gn:longitude":65.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Karazhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karazhar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0436\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Karashar",
+        "Karazhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523032
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c809657861893e94eb383b4289c474f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1259392607,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1259392607,
+    "wof:lastmodified":1537659781,
+    "wof:name":"Karazhar",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.78333,
+    50.6,
+    65.78333,
+    50.6
+],
+  "geometry": {"coordinates":[65.78333000000001,50.6],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293180279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.51917,49.3025,64.51917,49.3025",
+    "geom:latitude":49.3025,
+    "geom:longitude":64.51917,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Alibi",
+    "gn:country_code":"KZ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529790,
+    "gn:latitude":49.3025,
+    "gn:longitude":64.51917,
+    "gn:modification_date":"1998-08-19",
+    "gn:name":"Alibi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529790
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e19335e4bef6c1b5d7d818ce708297d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1293180279,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293180279,
+    "wof:lastmodified":1536733299,
+    "wof:name":"Alibi",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.51916999999999,
+    49.3025,
+    64.51916999999999,
+    49.3025
+],
+  "geometry": {"coordinates":[64.51916999999999,49.3025],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259994257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.15,49.78333,47.15,49.78333",
+    "geom:latitude":49.78333,
+    "geom:longitude":47.15,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhanaturmys",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607623,
+    "gn:latitude":49.78333,
+    "gn:longitude":47.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zhanaturmys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhana-Turmis",
+        "Zhanaturmys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607623
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f4e0952ebe82f9878cb92e25d2153ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785327,
+            "locality_id":1259994257,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1259994257,
+    "wof:lastmodified":1537659343,
+    "wof:name":"Zhanaturmys",
+    "wof:parent_id":1108785327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.15,
+    49.78333,
+    47.15,
+    49.78333
+],
+  "geometry": {"coordinates":[47.15,49.78333],"type":"Point"}
+}

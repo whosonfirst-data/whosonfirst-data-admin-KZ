@@ -1,0 +1,80 @@
+{
+  "id": 1309785217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.89201,52.89049,65.89201,52.89049",
+    "geom:latitude":52.89049,
+    "geom:longitude":65.89201,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mayskoe",
+    "gn:country_code":"KZ",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517244,
+    "gn:latitude":52.89049,
+    "gn:longitude":65.89201,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mayskoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mayskoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043a\u044b\u0440\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Yeltay",
+        "Tykyrkol\u2019",
+        "Mayskoye",
+        "Takyrkol\u2019",
+        "Mayskoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517244
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f1c88bb675fb3a583dc7aa0d4e6727cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1309785217,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1309785217,
+    "wof:lastmodified":1537659508,
+    "wof:name":"Mayskoe",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.89201,
+    52.89049,
+    65.89201,
+    52.89049
+],
+  "geometry": {"coordinates":[65.89201,52.89049],"type":"Point"}
+}

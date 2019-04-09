@@ -1,0 +1,84 @@
+{
+  "id": 1344043693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.69914,53.2063,63.69914,53.2063",
+    "geom:latitude":53.2063,
+    "geom:longitude":63.69914,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Zatobyl",
+    "gn:country_code":"KZ",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517073,
+    "gn:latitude":53.2063,
+    "gn:longitude":63.69914,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Zatobyl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zatobyl"
+    ],
+    "name:kaz_x_preferred":[
+        "Zatobyl"
+    ],
+    "name:rus_x_preferred":[
+        "Zatobol\u2019sk"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0430\u0442\u043e\u0431\u043e\u043b\u044c\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zatobel\u2019skoye",
+        "Zatobol\u2019skiy",
+        "Zatobol\u2019skoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517073
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ee20e87eb54a79a7bba9456e1b33bc50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1344043693,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1344043693,
+    "wof:lastmodified":1537659498,
+    "wof:name":"Zatobyl",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.69914,
+    53.2063,
+    63.69914,
+    53.2063
+],
+  "geometry": {"coordinates":[63.69914,53.2063],"type":"Point"}
+}

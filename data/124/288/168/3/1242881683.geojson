@@ -1,0 +1,79 @@
+{
+  "id": 1242881683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.6431,52.48525,70.6431,52.48525",
+    "geom:latitude":52.48525,
+    "geom:longitude":70.6431,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kogam",
+    "gn:country_code":"KZ",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522551,
+    "gn:latitude":52.48525,
+    "gn:longitude":70.6431,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Kogam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kogam"
+    ],
+    "name:kaz_x_preferred":[
+        "Qogham"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u0493\u0430\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0433\u0430\u043c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522551
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"01fa7fe18fbbcd579ccc94ba8995bcaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1242881683,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1242881683,
+    "wof:lastmodified":1537659763,
+    "wof:name":"Kogam",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.6431,
+    52.48525,
+    70.6431,
+    52.48525
+],
+  "geometry": {"coordinates":[70.6431,52.48525],"type":"Point"}
+}

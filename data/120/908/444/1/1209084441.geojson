@@ -1,0 +1,70 @@
+{
+  "id": 1209084441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.71022,52.02991,74.71022,52.02991",
+    "geom:latitude":52.02991,
+    "geom:longitude":74.71022,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shiylikuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10839367,
+    "gn:latitude":52.02991,
+    "gn:longitude":74.71022,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Shiylikuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sh\u012bliqudyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0438\u043b\u0456\u049b\u04b1\u0434\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0439\u043b\u0438\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10839367
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"43b56bab0f122da1bdabfbbd63f00fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209084441
+        }
+    ],
+    "wof:id":1209084441,
+    "wof:lastmodified":1537660065,
+    "wof:name":"Shiylikuduk",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.71021999999998,
+    52.02991,
+    74.71021999999998,
+    52.02991
+],
+  "geometry": {"coordinates":[74.71021999999998,52.02991],"type":"Point"}
+}

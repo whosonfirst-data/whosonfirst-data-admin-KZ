@@ -1,0 +1,67 @@
+{
+  "id": 1225927767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.21667,42.23333,70.21667,42.23333",
+    "geom:latitude":42.23333,
+    "geom:longitude":70.21667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gornoye",
+    "gn:country_code":"KZ",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524198,
+    "gn:latitude":42.23333,
+    "gn:longitude":70.21667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Gornoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524198
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"508b5ba67deadd1a15c8087b7a649d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785369,
+            "locality_id":1225927767,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1225927767,
+    "wof:lastmodified":1536895208,
+    "wof:name":"Gornoye",
+    "wof:parent_id":1108785369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.21667,
+    42.23333,
+    70.21667,
+    42.23333
+],
+  "geometry": {"coordinates":[70.21666999999999,42.23333],"type":"Point"}
+}

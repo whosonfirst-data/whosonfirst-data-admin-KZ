@@ -1,0 +1,79 @@
+{
+  "id": 1209987955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.37766,43.82402,74.37766,43.82402",
+    "geom:latitude":43.82402,
+    "geom:longitude":74.37766,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Shoqpar",
+    "gn:country_code":"KZ",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10975195,
+    "gn:latitude":43.82402,
+    "gn:longitude":74.37766,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Shoqpar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shoqpar"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u043e\u049b\u043f\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u043a\u043f\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Chokpar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10975195
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6f59f652c0f000967af80fe671fcd952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785707,
+            "locality_id":1209987955,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1209987955,
+    "wof:lastmodified":1537660086,
+    "wof:name":"Shoqpar",
+    "wof:parent_id":1108785707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.37765999999998,
+    43.82402,
+    74.37765999999998,
+    43.82402
+],
+  "geometry": {"coordinates":[74.37765999999998,43.82402],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293188033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.11042,50.16279,76.11042,50.16279",
+    "geom:latitude":50.16279,
+    "geom:longitude":76.11042,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Novyy Kyzylshilik",
+    "gn:country_code":"KZ",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247163,
+    "gn:latitude":50.16279,
+    "gn:longitude":76.11042,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Novyy Kyzylshilik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u041a\u044b\u0437\u044b\u043b\u0448\u0438\u043b\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247163
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"73152fa4ba9434574cd4f327a4e29b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1293188033,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1293188033,
+    "wof:lastmodified":1537660129,
+    "wof:name":"Novyy Kyzylshilik",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.11041999999998,
+    50.16279,
+    76.11041999999998,
+    50.16279
+],
+  "geometry": {"coordinates":[76.11041999999998,50.16279],"type":"Point"}
+}

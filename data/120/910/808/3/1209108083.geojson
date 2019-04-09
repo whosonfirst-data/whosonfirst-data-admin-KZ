@@ -1,0 +1,75 @@
+{
+  "id": 1209108083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.51613,52.89775,72.51613,52.89775",
+    "geom:latitude":52.89775,
+    "geom:longitude":72.51613,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Staryy Koytas",
+    "gn:country_code":"KZ",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533571,
+    "gn:latitude":52.89775,
+    "gn:longitude":72.51613,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Staryy Koytas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Staryy Koytas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440.\u041a\u043e\u0439\u0442\u0430\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0439\u0442\u0430\u0441",
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u041a\u043e\u0439\u0442\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Koytas",
+        "Staryy Koytas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533571
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e521b158c7ee95c36f81dc52fadebff7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209108083
+        }
+    ],
+    "wof:id":1209108083,
+    "wof:lastmodified":1537659978,
+    "wof:name":"Staryy Koytas",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.51613,
+    52.89775,
+    72.51613,
+    52.89775
+],
+  "geometry": {"coordinates":[72.51613,52.89775],"type":"Point"}
+}

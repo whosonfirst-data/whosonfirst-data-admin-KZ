@@ -1,0 +1,81 @@
+{
+  "id": 890433745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.59997,53.29617,69.59997,53.29617",
+    "geom:latitude":53.29617,
+    "geom:longitude":69.59997,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":16773,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Akkol'"
+    ],
+    "name:kaz_x_preferred":[
+        "Aqk\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043a\u043e\u043b\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Alexeyevka"
+    ],
+    "qs:name":"Akkol\u2019",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":286,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526797,
+        "gp:id":12514492,
+        "qs:id":133417,
+        "wk:page":"Akkol"
+    },
+    "wof:country":"KZ",
+    "wof:created":1469051993,
+    "wof:geomhash":"aa813563f6319e878b5cb8ffb105855f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890433745,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":890433745,
+    "wof:lastmodified":1527792958,
+    "wof:name":"Akkol\u2019",
+    "wof:parent_id":85672897,
+    "wof:placetype":"locality",
+    "wof:population":16773,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.59997,
+    53.29617,
+    69.59997,
+    53.29617
+],
+  "geometry": {"coordinates":[69.59997,53.29617],"type":"Point"}
+}

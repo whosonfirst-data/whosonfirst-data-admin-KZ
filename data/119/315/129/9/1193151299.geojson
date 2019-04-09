@@ -1,0 +1,76 @@
+{
+  "id": 1193151299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.81162,44.40708,77.81162,44.40708",
+    "geom:latitude":44.40708,
+    "geom:longitude":77.81162,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shiylisu",
+    "gn:country_code":"KZ",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8569258,
+    "gn:latitude":44.40708,
+    "gn:longitude":77.81162,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Shiylisu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sh\u012blis\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0438\u043b\u0456\u0441\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0439\u043b\u0438\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8569258
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0280381c5b134aa479ae7d6c924f272f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785423,
+            "locality_id":1193151299,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1193151299,
+    "wof:lastmodified":1537660045,
+    "wof:name":"Shiylisu",
+    "wof:parent_id":1108785423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.81161999999998,
+    44.40708,
+    77.81161999999998,
+    44.40708
+],
+  "geometry": {"coordinates":[77.81161999999998,44.40708],"type":"Point"}
+}

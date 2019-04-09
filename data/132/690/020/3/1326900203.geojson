@@ -1,0 +1,70 @@
+{
+  "id": 1326900203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.24908,54.63323,66.24908,54.63323",
+    "geom:latitude":54.63323,
+    "geom:longitude":66.24908,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yastrebinka",
+    "gn:country_code":"KZ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530768,
+    "gn:latitude":54.63323,
+    "gn:longitude":66.24908,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Yastrebinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0441\u0442\u0440\u0435\u0431\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530768
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5dfe79d94994f4ed6cd60319a6d605b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1326900203,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1326900203,
+    "wof:lastmodified":1537659945,
+    "wof:name":"Yastrebinka",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.24908,
+    54.63323000000001,
+    66.24908,
+    54.63323000000001
+],
+  "geometry": {"coordinates":[66.24908000000001,54.63323000000001],"type":"Point"}
+}

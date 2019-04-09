@@ -1,0 +1,71 @@
+{
+  "id": 1327232307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.73333,47.48333,60.73333,47.48333",
+    "geom:latitude":47.48333,
+    "geom:longitude":60.73333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shagar",
+    "gn:country_code":"KZ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519345,
+    "gn:latitude":47.48333,
+    "gn:longitude":60.73333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Shagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chagar",
+        "Shagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519345
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"949439e939625f3f7f1bdae5a4888c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785541,
+            "locality_id":1327232307,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1327232307,
+    "wof:lastmodified":1537659602,
+    "wof:name":"Shagar",
+    "wof:parent_id":1108785541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.73333,
+    47.48333,
+    60.73333,
+    47.48333
+],
+  "geometry": {"coordinates":[60.73333,47.48333],"type":"Point"}
+}

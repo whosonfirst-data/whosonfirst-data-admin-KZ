@@ -1,0 +1,76 @@
+{
+  "id": 1293477103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.55994,50.10481,70.55994,50.10481",
+    "geom:latitude":50.10481,
+    "geom:longitude":70.55994,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Qulanotpes",
+    "gn:country_code":"KZ",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521891,
+    "gn:latitude":50.10481,
+    "gn:longitude":70.55994,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Qulan\u00f6tpes",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aul Shura",
+        "Shura",
+        "Kulan-Utpesskiy",
+        "Kulanutpes",
+        "Kulanotpes",
+        "Kulanutmes",
+        "Qulan\u00f6tpes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521891
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6e4b0a1e93427e88649435825d7071e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785499,
+            "locality_id":1293477103,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1293477103,
+    "wof:lastmodified":1537659731,
+    "wof:name":"Qulanotpes",
+    "wof:parent_id":1108785499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.55994,
+    50.10481,
+    70.55994,
+    50.10481
+],
+  "geometry": {"coordinates":[70.55994,50.10481],"type":"Point"}
+}

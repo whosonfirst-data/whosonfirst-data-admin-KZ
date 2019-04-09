@@ -1,0 +1,73 @@
+{
+  "id": 1310020185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.47871,43.33133,79.47871,43.33133",
+    "geom:latitude":43.33133,
+    "geom:longitude":79.47871,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qyrghyzsay",
+    "gn:country_code":"KZ",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871326,
+    "gn:latitude":43.33133,
+    "gn:longitude":79.47871,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Qyrghyzsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyrghyzsay"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0440\u0493\u044b\u0437\u0441\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871326
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"775fdcefd19ba9a92f4cbfc7a9557cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785425,
+            "locality_id":1310020185,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1310020185,
+    "wof:lastmodified":1537660072,
+    "wof:name":"Qyrghyzsay",
+    "wof:parent_id":1108785425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.47870999999998,
+    43.33133,
+    79.47870999999998,
+    43.33133
+],
+  "geometry": {"coordinates":[79.47870999999998,43.33133],"type":"Point"}
+}

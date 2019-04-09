@@ -1,0 +1,76 @@
+{
+  "id": 1225961893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.60875,44.22181,77.60875,44.22181",
+    "geom:latitude":44.22181,
+    "geom:longitude":77.60875,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Samen",
+    "gn:country_code":"KZ",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055359,
+    "gn:latitude":44.22181,
+    "gn:longitude":77.60875,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Samen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "S\u00e4men"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u04d9\u043c\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055359
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cf02538eaeaad8080f54f6de3ac72f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785423,
+            "locality_id":1225961893,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1225961893,
+    "wof:lastmodified":1537660092,
+    "wof:name":"Samen",
+    "wof:parent_id":1108785423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.60875,
+    44.22181,
+    77.60875,
+    44.22181
+],
+  "geometry": {"coordinates":[77.60875,44.22181],"type":"Point"}
+}

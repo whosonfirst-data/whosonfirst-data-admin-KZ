@@ -1,0 +1,76 @@
+{
+  "id": 1243245635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.21461,55.03514,70.21461,55.03514",
+    "geom:latitude":55.03514,
+    "geom:longitude":70.21461,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Beloye",
+    "gn:country_code":"KZ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530661,
+    "gn:latitude":55.03514,
+    "gn:longitude":70.21461,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Beloye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Dimitrovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530661
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9dc96a04cbf353a051bcb29f6fc4f03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1243245635,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243245635,
+    "wof:lastmodified":1537659942,
+    "wof:name":"Beloye",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.21461,
+    55.03514000000001,
+    70.21461,
+    55.03514000000001
+],
+  "geometry": {"coordinates":[70.21460999999999,55.03514000000001],"type":"Point"}
+}

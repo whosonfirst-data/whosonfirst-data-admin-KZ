@@ -1,0 +1,84 @@
+{
+  "id": 1343373527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.7811,43.48707,77.7811,43.48707",
+    "geom:latitude":43.48707,
+    "geom:longitude":77.7811,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ashchybulak",
+    "gn:country_code":"KZ",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526311,
+    "gn:latitude":43.48707,
+    "gn:longitude":77.7811,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ashchybulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Ashchybulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0449\u044b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0449\u044b\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043d\u0430\u0442\u043e\u043b\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Anatol\u2019yevskoye",
+        "Anatol\u2019yevka",
+        "Ashchybulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526311
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3b54ee428a7e58e983f3c4972e60c3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1343373527,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1343373527,
+    "wof:lastmodified":1537659908,
+    "wof:name":"Ashchybulak",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.7811,
+    43.48707,
+    77.7811,
+    43.48707
+],
+  "geometry": {"coordinates":[77.7811,43.48707],"type":"Point"}
+}

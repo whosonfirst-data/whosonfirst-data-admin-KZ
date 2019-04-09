@@ -1,0 +1,71 @@
+{
+  "id": 1293215063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.30547,50.39606,79.30547,50.39606",
+    "geom:latitude":50.39606,
+    "geom:longitude":79.30547,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ushasha Pervaya",
+    "gn:country_code":"KZ",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517669,
+    "gn:latitude":50.39606,
+    "gn:longitude":79.30547,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ushasha Pervaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ush-Aga",
+        "Ushasha Pervaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517669
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dd882917a2e27afe41d18cd5d6d551cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1293215063,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293215063,
+    "wof:lastmodified":1537659534,
+    "wof:name":"Ushasha Pervaya",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.30547,
+    50.39606,
+    79.30547,
+    50.39606
+],
+  "geometry": {"coordinates":[79.30547,50.39606],"type":"Point"}
+}

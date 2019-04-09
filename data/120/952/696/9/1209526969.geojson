@@ -1,0 +1,67 @@
+{
+  "id": 1209526969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.11918,51.21438,71.11918,51.21438",
+    "geom:latitude":51.21438,
+    "geom:longitude":71.11918,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vozdvizhenka",
+    "gn:country_code":"KZ",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517369,
+    "gn:latitude":51.21438,
+    "gn:longitude":71.11918,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vozdvizhenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Vozdv\u012bzhenka"
+    ],
+    "name:und_x_variant":[
+        "Vozdvizhenskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517369
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5ed6ea8cdee387435af24cb0c2c7fb61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209526969
+        }
+    ],
+    "wof:id":1209526969,
+    "wof:lastmodified":1537659515,
+    "wof:name":"Vozdvizhenka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.11918,
+    51.21438,
+    71.11918,
+    51.21438
+],
+  "geometry": {"coordinates":[71.11918,51.21438],"type":"Point"}
+}

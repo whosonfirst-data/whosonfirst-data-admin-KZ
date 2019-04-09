@@ -1,0 +1,82 @@
+{
+  "id": 1259764365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.80797,52.22575,76.80797,52.22575",
+    "geom:latitude":52.22575,
+    "geom:longitude":76.80797,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Aydakol'",
+    "gn:country_code":"KZ",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525962,
+    "gn:latitude":52.22575,
+    "gn:longitude":76.80797,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Aydakol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aydakol'"
+    ],
+    "name:kaz_x_preferred":[
+        "Aydak\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0439\u0434\u0430\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0434\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Aydakol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525962
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"31c5cad8b9f1844b6be24933fe5356fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785551,
+            "locality_id":1259764365,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259764365,
+    "wof:lastmodified":1537659897,
+    "wof:name":"Aydakol'",
+    "wof:parent_id":1108785551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.80797,
+    52.22575,
+    76.80797,
+    52.22575
+],
+  "geometry": {"coordinates":[76.80797,52.22575],"type":"Point"}
+}

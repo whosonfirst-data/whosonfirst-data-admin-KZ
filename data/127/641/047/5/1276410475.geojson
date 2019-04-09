@@ -1,0 +1,73 @@
+{
+  "id": 1276410475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.50669,49.28801,78.50669,49.28801",
+    "geom:latitude":49.28801,
+    "geom:longitude":78.50669,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Aydapkel",
+    "gn:country_code":"KZ",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11514527,
+    "gn:latitude":49.28801,
+    "gn:longitude":78.50669,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Aydapkel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aydapkel"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0439\u0434\u0430\u043f\u043a\u0435\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11514527
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"56ff6a5ee17e28c2cb6c0315f293a5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785727,
+            "locality_id":1276410475,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276410475,
+    "wof:lastmodified":1537660182,
+    "wof:name":"Aydapkel",
+    "wof:parent_id":1108785727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.50669,
+    49.28801,
+    78.50669,
+    49.28801
+],
+  "geometry": {"coordinates":[78.50669000000001,49.28801],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344267001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.51667,54.28333,76.51667,54.28333",
+    "geom:latitude":54.28333,
+    "geom:longitude":76.51667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ozerki",
+    "gn:country_code":"KZ",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520276,
+    "gn:latitude":54.28333,
+    "gn:longitude":76.51667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Ozerki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520276
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"391a3e188d5319c45d57240c35928630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785349,
+            "locality_id":1344267001,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1344267001,
+    "wof:lastmodified":1537071542,
+    "wof:name":"Ozerki",
+    "wof:parent_id":1108785349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.51666999999998,
+    54.28333000000001,
+    76.51666999999998,
+    54.28333000000001
+],
+  "geometry": {"coordinates":[76.51666999999998,54.28333000000001],"type":"Point"}
+}

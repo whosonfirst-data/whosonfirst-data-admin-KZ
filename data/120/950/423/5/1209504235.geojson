@@ -1,0 +1,61 @@
+{
+  "id": 1209504235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.38333,40.91667,68.38333,40.91667",
+    "geom:latitude":40.91667,
+    "geom:longitude":68.38333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sotsializm",
+    "gn:country_code":"KZ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518843,
+    "gn:latitude":40.91667,
+    "gn:longitude":68.38333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sotsializm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518843
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"47b0ca350dae61fcfdb69fdd6005312f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209504235
+        }
+    ],
+    "wof:id":1209504235,
+    "wof:lastmodified":1536285085,
+    "wof:name":"Sotsializm",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.38333,
+    40.91667,
+    68.38333,
+    40.91667
+],
+  "geometry": {"coordinates":[68.38333,40.91667],"type":"Point"}
+}

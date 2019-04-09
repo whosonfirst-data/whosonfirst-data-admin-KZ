@@ -1,0 +1,73 @@
+{
+  "id": 890443871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.40382,50.23058,73.40382,50.23058",
+    "geom:latitude":50.23058,
+    "geom:longitude":73.40382,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":3920,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u049a\u0443\u0448\u043e\u049b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0448\u043e\u043a\u044b"
+    ],
+    "name:unk_x_variant":[
+        "Kushoky"
+    ],
+    "qs:name":"Q\u016bshoqy",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521677,
+        "gp:id":2264939,
+        "qs:id":1031730
+    },
+    "wof:country":"KZ",
+    "wof:created":1469052441,
+    "wof:geomhash":"b3c21b8c93cb6d6bb3c8d333e3b309fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890443871,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":890443871,
+    "wof:lastmodified":1505343596,
+    "wof:name":"Q\u016bshoqy",
+    "wof:parent_id":85672905,
+    "wof:placetype":"locality",
+    "wof:population":3920,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.40382,
+    50.23058,
+    73.40382,
+    50.23058
+],
+  "geometry": {"coordinates":[73.40382,50.23058],"type":"Point"}
+}

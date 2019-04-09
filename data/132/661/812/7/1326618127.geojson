@@ -1,0 +1,67 @@
+{
+  "id": 1326618127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.85,51.8,75.85,51.8",
+    "geom:latitude":51.8,
+    "geom:longitude":75.85,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yeseraspa",
+    "gn:country_code":"KZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517174,
+    "gn:latitude":51.8,
+    "gn:longitude":75.85,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Yeseraspa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517174
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4543879244ace70b94e6fa8659e9399a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785733,
+            "locality_id":1326618127,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1326618127,
+    "wof:lastmodified":1536858891,
+    "wof:name":"Yeseraspa",
+    "wof:parent_id":1108785733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.85,
+    51.8,
+    75.85,
+    51.8
+],
+  "geometry": {"coordinates":[75.84999999999999,51.8],"type":"Point"}
+}

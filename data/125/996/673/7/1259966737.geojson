@@ -1,0 +1,71 @@
+{
+  "id": 1259966737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.09467,49.32471,66.09467,49.32471",
+    "geom:latitude":49.32471,
+    "geom:longitude":66.09467,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sarbas",
+    "gn:country_code":"KZ",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531842,
+    "gn:latitude":49.32471,
+    "gn:longitude":66.09467,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Sarbas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarybas",
+        "Sarbas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531842
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0620a7a7bc90631a339552d551423fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1259966737,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1259966737,
+    "wof:lastmodified":1537659956,
+    "wof:name":"Sarbas",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.09467,
+    49.32471,
+    66.09467,
+    49.32471
+],
+  "geometry": {"coordinates":[66.09466999999999,49.32471],"type":"Point"}
+}

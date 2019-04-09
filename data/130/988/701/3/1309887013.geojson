@@ -1,0 +1,67 @@
+{
+  "id": 1309887013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.08333,52.05,76.08333,52.05",
+    "geom:latitude":52.05,
+    "geom:longitude":76.08333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bulat-Kayegan",
+    "gn:country_code":"KZ",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525017,
+    "gn:latitude":52.05,
+    "gn:longitude":76.08333,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Bulat-Kayegan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525017
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9b0d4dfe5432d8ceeffc48c427905140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785551,
+            "locality_id":1309887013,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1309887013,
+    "wof:lastmodified":1536813454,
+    "wof:name":"Bulat-Kayegan",
+    "wof:parent_id":1108785551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.08333,
+    52.05,
+    76.08333,
+    52.05
+],
+  "geometry": {"coordinates":[76.08333,52.05],"type":"Point"}
+}

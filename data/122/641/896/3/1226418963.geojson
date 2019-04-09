@@ -1,0 +1,82 @@
+{
+  "id": 1226418963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.02338,52.2944,65.02338,52.2944",
+    "geom:latitude":52.2944,
+    "geom:longitude":65.02338,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koybagar",
+    "gn:country_code":"KZ",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522099,
+    "gn:latitude":52.2944,
+    "gn:longitude":65.02338,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Koybagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qoybaghar"
+    ],
+    "name:kaz_x_preferred":[
+        "Qoybaghar"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u0439\u0431\u0430\u0493\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0439\u0431\u0430\u0433\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kaybagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522099
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"545dbb5c51c7b49ad6049bad3369d3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1226418963,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226418963,
+    "wof:lastmodified":1537659743,
+    "wof:name":"Koybagar",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.02338,
+    52.2944,
+    65.02338,
+    52.2944
+],
+  "geometry": {"coordinates":[65.02338,52.2944],"type":"Point"}
+}

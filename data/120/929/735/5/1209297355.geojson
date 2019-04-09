@@ -1,0 +1,73 @@
+{
+  "id": 1209297355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.30581,48.02543,85.30581,48.02543",
+    "geom:latitude":48.02543,
+    "geom:longitude":85.30581,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Orda",
+    "gn:country_code":"KZ",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10867394,
+    "gn:latitude":48.02543,
+    "gn:longitude":85.30581,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Orda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Orda"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u0440\u0434\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0434\u044b\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ardynka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10867394
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f8e3da8ec0e3a76656840ae6f0daeeec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209297355
+        }
+    ],
+    "wof:id":1209297355,
+    "wof:lastmodified":1537660071,
+    "wof:name":"Orda",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.30581,
+    48.02543,
+    85.30581,
+    48.02543
+],
+  "geometry": {"coordinates":[85.30580999999999,48.02543],"type":"Point"}
+}

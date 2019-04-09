@@ -1,0 +1,70 @@
+{
+  "id": 1276645187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.46468,40.88829,68.46468,40.88829",
+    "geom:latitude":40.88829,
+    "geom:longitude":68.46468,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Otdeleniye Sadoogoroda",
+    "gn:country_code":"KZ",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10956183,
+    "gn:latitude":40.88829,
+    "gn:longitude":68.46468,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Otdeleniye Sadoogoroda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0421\u0430\u0434\u043e\u043e\u0433\u043e\u0440\u043e\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956183
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1c6df2130e5a1dded49ac6c30509e33f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1276645187,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276645187,
+    "wof:lastmodified":1537660081,
+    "wof:name":"Otdeleniye Sadoogoroda",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.46468,
+    40.88829000000001,
+    68.46468,
+    40.88829000000001
+],
+  "geometry": {"coordinates":[68.46468,40.88829000000001],"type":"Point"}
+}

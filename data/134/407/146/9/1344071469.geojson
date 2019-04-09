@@ -1,0 +1,71 @@
+{
+  "id": 1344071469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.25,47.33333,81.25,47.33333",
+    "geom:latitude":47.33333,
+    "geom:longitude":81.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Medvezh'ye",
+    "gn:country_code":"KZ",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520985,
+    "gn:latitude":47.33333,
+    "gn:longitude":81.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Medvezh\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Medrezh\u2019ye",
+        "Medvezh\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520985
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"30096e9d635a76cda82a2913b66d7dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1344071469,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1344071469,
+    "wof:lastmodified":1537659692,
+    "wof:name":"Medvezh'ye",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.25,
+    47.33333,
+    81.25,
+    47.33333
+],
+  "geometry": {"coordinates":[81.25,47.33333],"type":"Point"}
+}

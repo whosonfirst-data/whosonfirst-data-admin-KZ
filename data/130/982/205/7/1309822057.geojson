@@ -1,0 +1,72 @@
+{
+  "id": 1309822057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.61667,51.06667,49.61667,51.06667",
+    "geom:latitude":51.06667,
+    "geom:longitude":49.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kartashov",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609506,
+    "gn:latitude":51.06667,
+    "gn:longitude":49.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kartashov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sad Kartasheva",
+        "Kartashov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609506
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b5c99989022dbda859f574f3a84e1506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785329,
+            "locality_id":1309822057,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1309822057,
+    "wof:lastmodified":1537659413,
+    "wof:name":"Kartashov",
+    "wof:parent_id":1108785329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.61667,
+    51.06667,
+    49.61667,
+    51.06667
+],
+  "geometry": {"coordinates":[49.61667,51.06667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260275845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.83333,47.86667,54.83333,47.86667",
+    "geom:latitude":47.86667,
+    "geom:longitude":54.83333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Burankol'",
+    "gn:country_code":"KZ",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610170,
+    "gn:latitude":47.86667,
+    "gn:longitude":54.83333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Burankol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burakol\u2019",
+        "Birakol\u2019",
+        "Burankol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610170
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"45e8a08e9d9eb77c0060f9b347b6458e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785453,
+            "locality_id":1260275845,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1260275845,
+    "wof:lastmodified":1537659432,
+    "wof:name":"Burankol'",
+    "wof:parent_id":1108785453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.83333,
+    47.86667,
+    54.83333,
+    47.86667
+],
+  "geometry": {"coordinates":[54.83333,47.86667],"type":"Point"}
+}

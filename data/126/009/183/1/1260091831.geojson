@@ -1,0 +1,70 @@
+{
+  "id": 1260091831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.80268,52.45916,68.80268,52.45916",
+    "geom:latitude":52.45916,
+    "geom:longitude":68.80268,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sabardinka",
+    "gn:country_code":"KZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149478,
+    "gn:latitude":52.45916,
+    "gn:longitude":68.80268,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Sabardinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149478
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4ef75f81a5f9663b126aaf2f7569e8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785397,
+            "locality_id":1260091831,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1260091831,
+    "wof:lastmodified":1537660123,
+    "wof:name":"Sabardinka",
+    "wof:parent_id":1108785397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.80268000000001,
+    52.45916,
+    68.80268000000001,
+    52.45916
+],
+  "geometry": {"coordinates":[68.80268000000001,52.45916],"type":"Point"}
+}

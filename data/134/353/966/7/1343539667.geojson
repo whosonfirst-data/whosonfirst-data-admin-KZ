@@ -1,0 +1,80 @@
+{
+  "id": 1343539667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.45635,53.45652,76.45635,53.45652",
+    "geom:latitude":53.45652,
+    "geom:longitude":76.45635,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kontorka",
+    "gn:country_code":"KZ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522304,
+    "gn:latitude":53.45652,
+    "gn:longitude":76.45635,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Kontorka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kontorka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u043d\u0442\u043e\u0440\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0442\u043e\u0440\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kontorskoye",
+        "Kontorka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522304
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"99cf97dee6f461e90e01ce5683b41b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785557,
+            "locality_id":1343539667,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343539667,
+    "wof:lastmodified":1537659752,
+    "wof:name":"Kontorka",
+    "wof:parent_id":1108785557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.45635,
+    53.45652,
+    76.45635,
+    53.45652
+],
+  "geometry": {"coordinates":[76.45635,53.45652],"type":"Point"}
+}

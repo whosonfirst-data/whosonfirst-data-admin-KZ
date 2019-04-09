@@ -1,0 +1,67 @@
+{
+  "id": 1343828893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.41833,43.70972,67.41833,43.70972",
+    "geom:latitude":43.70972,
+    "geom:longitude":67.41833,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Akkum",
+    "gn:country_code":"KZ",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526760,
+    "gn:latitude":43.70972,
+    "gn:longitude":67.41833,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Akkum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526760
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"68d8b120e8fd9947c6c0e81d490118ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1343828893,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1343828893,
+    "wof:lastmodified":1536712549,
+    "wof:name":"Akkum",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.41833000000001,
+    43.70972,
+    67.41833000000001,
+    43.70972
+],
+  "geometry": {"coordinates":[67.41833000000001,43.70972],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209829965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.71667,50.4,50.71667,50.4",
+    "geom:latitude":50.4,
+    "geom:longitude":50.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bykov",
+    "gn:country_code":"KZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610148,
+    "gn:latitude":50.4,
+    "gn:longitude":50.71667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Bykov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610148
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1d59429d7a6300d12d48485522ee867a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1209829965,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1209829965,
+    "wof:lastmodified":1536369504,
+    "wof:name":"Bykov",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.71667,
+    50.4,
+    50.71667,
+    50.4
+],
+  "geometry": {"coordinates":[50.71667,50.4],"type":"Point"}
+}

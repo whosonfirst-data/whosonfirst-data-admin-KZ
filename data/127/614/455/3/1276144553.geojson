@@ -1,0 +1,67 @@
+{
+  "id": 1276144553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.15,46.55,49.15,46.55",
+    "geom:latitude":46.55,
+    "geom:longitude":49.15,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yarki",
+    "gn:country_code":"KZ",
+    "gn:dem":-29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607753,
+    "gn:latitude":46.55,
+    "gn:longitude":49.15,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Yarki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607753
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ed3abfac7fc0997dd4e719a357ffd484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1276144553,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1276144553,
+    "wof:lastmodified":1537030385,
+    "wof:name":"Yarki",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.15,
+    46.55,
+    49.15,
+    46.55
+],
+  "geometry": {"coordinates":[49.15,46.55],"type":"Point"}
+}

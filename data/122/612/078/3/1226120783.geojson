@@ -1,0 +1,71 @@
+{
+  "id": 1226120783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.08333,52.11667,76.08333,52.11667",
+    "geom:latitude":52.11667,
+    "geom:longitude":76.08333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Porfir'yevskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520074,
+    "gn:latitude":52.11667,
+    "gn:longitude":76.08333,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Porfir\u2019yevskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Porfir\u2019yevskoye",
+        "Porfir\u2019yevskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520074
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fbc5bdbf6cb01556620de56bc4688e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785551,
+            "locality_id":1226120783,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1226120783,
+    "wof:lastmodified":1537659635,
+    "wof:name":"Porfir'yevskiy",
+    "wof:parent_id":1108785551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.08333,
+    52.11667,
+    76.08333,
+    52.11667
+],
+  "geometry": {"coordinates":[76.08333,52.11667],"type":"Point"}
+}

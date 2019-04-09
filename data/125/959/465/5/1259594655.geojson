@@ -1,0 +1,73 @@
+{
+  "id": 1259594655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.45463,51.42614,66.45463,51.42614",
+    "geom:latitude":51.42614,
+    "geom:longitude":66.45463,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Savinkovka",
+    "gn:country_code":"KZ",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519468,
+    "gn:latitude":51.42614,
+    "gn:longitude":66.45463,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Savinkovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Savinkovskiy",
+        "Savinkovskoye",
+        "Saven\u2019kovskoye",
+        "Savinkovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519468
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bcd53848bbd9e68c9b01f8e16c740d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785497,
+            "locality_id":1259594655,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259594655,
+    "wof:lastmodified":1537659608,
+    "wof:name":"Savinkovka",
+    "wof:parent_id":1108785497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.45463000000001,
+    51.42614,
+    66.45463000000001,
+    51.42614
+],
+  "geometry": {"coordinates":[66.45463000000001,51.42614],"type":"Point"}
+}

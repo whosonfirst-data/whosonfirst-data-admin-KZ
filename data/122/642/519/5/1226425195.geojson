@@ -1,0 +1,83 @@
+{
+  "id": 1226425195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.05236,50.16801,82.05236,50.16801",
+    "geom:latitude":50.16801,
+    "geom:longitude":82.05236,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tavricheskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518333,
+    "gn:latitude":50.16801,
+    "gn:longitude":82.05236,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Tavricheskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tavricheskoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Tavr\u012bcheskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0430\u0432\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0432\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Tavricheskiy",
+        "Tavricheskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518333
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2c242e92798026b68e1a6d6b38239a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785473,
+            "locality_id":1226425195,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226425195,
+    "wof:lastmodified":1537659559,
+    "wof:name":"Tavricheskoye",
+    "wof:parent_id":1108785473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.05236,
+    50.16801,
+    82.05236,
+    50.16801
+],
+  "geometry": {"coordinates":[82.05235999999999,50.16801],"type":"Point"}
+}

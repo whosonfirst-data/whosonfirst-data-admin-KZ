@@ -1,0 +1,70 @@
+{
+  "id": 1259952491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.71369,54.934,69.71369,54.934",
+    "geom:latitude":54.934,
+    "geom:longitude":69.71369,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sosnovka",
+    "gn:country_code":"KZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530599,
+    "gn:latitude":54.934,
+    "gn:longitude":69.71369,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Sosnovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0441\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530599
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"329bdb52408e1260778f2e94fad45fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1259952491,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259952491,
+    "wof:lastmodified":1537659940,
+    "wof:name":"Sosnovka",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.71369,
+    54.934,
+    69.71369,
+    54.934
+],
+  "geometry": {"coordinates":[69.71369,54.934],"type":"Point"}
+}

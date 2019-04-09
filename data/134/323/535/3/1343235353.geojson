@@ -1,0 +1,78 @@
+{
+  "id": 1343235353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.6655,49.71698,82.6655,49.71698",
+    "geom:latitude":49.71698,
+    "geom:longitude":82.6655,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Leninka",
+    "gn:country_code":"KZ",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521373,
+    "gn:latitude":49.71698,
+    "gn:longitude":82.6655,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Len\u012bnka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Len\u012bnka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sagyr",
+        "Leninskoye",
+        "Len\u012bnka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521373
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b1150f05dc006621c2177cad4a24c585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785473,
+            "locality_id":1343235353,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343235353,
+    "wof:lastmodified":1537659711,
+    "wof:name":"Leninka",
+    "wof:parent_id":1108785473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.6655,
+    49.71698,
+    82.6655,
+    49.71698
+],
+  "geometry": {"coordinates":[82.66549999999999,49.71698],"type":"Point"}
+}

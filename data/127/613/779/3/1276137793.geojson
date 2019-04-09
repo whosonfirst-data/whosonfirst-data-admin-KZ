@@ -1,0 +1,78 @@
+{
+  "id": 1276137793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.34893,50.09967,52.34893,50.09967",
+    "geom:latitude":50.09967,
+    "geom:longitude":52.34893,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhirakuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607536,
+    "gn:latitude":50.09967,
+    "gn:longitude":52.34893,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Zhirakuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhirakuduk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u0440\u0430\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zhyrakuduk",
+        "Zhra-Kuduk",
+        "Zhirakuduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607536
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"879b28468cf3772bfbef435e61f6eb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785495,
+            "locality_id":1276137793,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1276137793,
+    "wof:lastmodified":1537659339,
+    "wof:name":"Zhirakuduk",
+    "wof:parent_id":1108785495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.34893,
+    50.09967,
+    52.34893,
+    50.09967
+],
+  "geometry": {"coordinates":[52.34893,50.09967],"type":"Point"}
+}

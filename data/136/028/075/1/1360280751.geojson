@@ -1,0 +1,71 @@
+{
+  "id": 1360280751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.26667,47.9,54.26667,47.9",
+    "geom:latitude":47.9,
+    "geom:longitude":54.26667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhanterek",
+    "gn:country_code":"KZ",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607603,
+    "gn:latitude":47.9,
+    "gn:longitude":54.26667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Zhanterek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhan-Terek",
+        "Zhanterek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607603
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a81153024cb084a5601b46f6230ca3ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785453,
+            "locality_id":1360280751,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1360280751,
+    "wof:lastmodified":1537659342,
+    "wof:name":"Zhanterek",
+    "wof:parent_id":1108785453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.26667,
+    47.9,
+    54.26667,
+    47.9
+],
+  "geometry": {"coordinates":[54.26667,47.9],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242751061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.13513,48.80658,80.13513,48.80658",
+    "geom:latitude":48.80658,
+    "geom:longitude":80.13513,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Baybol",
+    "gn:country_code":"KZ",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11514778,
+    "gn:latitude":48.80658,
+    "gn:longitude":80.13513,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Baybol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0431\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11514778
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"365e9ed53549601ea5cd934125d644d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785727,
+            "locality_id":1242751061,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1242751061,
+    "wof:lastmodified":1537660183,
+    "wof:name":"Baybol",
+    "wof:parent_id":1108785727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.13513,
+    48.80658,
+    80.13513,
+    48.80658
+],
+  "geometry": {"coordinates":[80.13513,48.80658],"type":"Point"}
+}

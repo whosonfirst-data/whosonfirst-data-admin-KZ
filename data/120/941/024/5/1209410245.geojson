@@ -1,0 +1,70 @@
+{
+  "id": 1209410245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.91111,41.32,68.91111,41.32",
+    "geom:latitude":41.32,
+    "geom:longitude":68.91111,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pervoye Maya",
+    "gn:country_code":"KZ",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1536996,
+    "gn:latitude":41.32,
+    "gn:longitude":68.91111,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Pervoye Maya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shynaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u044b\u043d\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u0435 \u041c\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1536996
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ae125ead38ebc0e987e139ee627b1577",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209410245
+        }
+    ],
+    "wof:id":1209410245,
+    "wof:lastmodified":1537660009,
+    "wof:name":"Pervoye Maya",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.91111,
+    41.32,
+    68.91111,
+    41.32
+],
+  "geometry": {"coordinates":[68.91110999999999,41.32],"type":"Point"}
+}

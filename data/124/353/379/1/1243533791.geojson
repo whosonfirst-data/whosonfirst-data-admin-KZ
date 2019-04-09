@@ -1,0 +1,84 @@
+{
+  "id": 1243533791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.42051,53.43299,64.42051,53.43299",
+    "geom:latitude":53.43299,
+    "geom:longitude":64.42051,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Vorob'yov",
+    "gn:country_code":"KZ",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517404,
+    "gn:latitude":53.43299,
+    "gn:longitude":64.42051,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Vorob\u2019yov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vorob'y\u00ebvskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "Vorob\u2019yov"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u043e\u0440\u043e\u0431\u044c\u0451\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u0431\u044c\u0435\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_variant":[
+        "Vorob\u2019y\u00ebvskiy",
+        "Vorob\u2019\u00ebvskiy",
+        "\u0412\u043e\u0440\u043e\u0431\u044c\u0451\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517404
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"443ef1b3625b3a9e0dbc65c42511ced5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785531,
+            "locality_id":1243533791,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1243533791,
+    "wof:lastmodified":1537659519,
+    "wof:name":"Vorob'yov",
+    "wof:parent_id":1108785531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.42051,
+    53.43299,
+    64.42051,
+    53.43299
+],
+  "geometry": {"coordinates":[64.42050999999999,53.43299],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1259452717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.0465,53.77935,72.0465,53.77935",
+    "geom:latitude":53.77935,
+    "geom:longitude":72.0465,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Qarashilik",
+    "gn:country_code":"KZ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516881,
+    "gn:latitude":53.77935,
+    "gn:longitude":72.0465,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Qarashilik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarashilik"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0448\u0456\u043b\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u0414\u0432\u0430 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u0416\u0430\u043d\u0430\u0430\u0443\u043b\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Zhanaaul\u2019skiy",
+        "Otdeleniye Nomer Dva Sovkhoza Zhanaaul\u2019skiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516881
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"971284ba109f0935e06fc3d301cdc719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1259452717,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259452717,
+    "wof:lastmodified":1537659490,
+    "wof:name":"Qarashilik",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.0465,
+    53.77935,
+    72.0465,
+    53.77935
+],
+  "geometry": {"coordinates":[72.04649999999999,53.77935],"type":"Point"}
+}

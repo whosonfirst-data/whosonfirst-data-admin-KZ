@@ -1,0 +1,67 @@
+{
+  "id": 1293279329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.33333,46.66667,74.33333,46.66667",
+    "geom:latitude":46.66667,
+    "geom:longitude":74.33333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Targyz",
+    "gn:country_code":"KZ",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518451,
+    "gn:latitude":46.66667,
+    "gn:longitude":74.33333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Targyz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518451
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0554b82a18002220f5db0422a9a0cf71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1293279329,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1293279329,
+    "wof:lastmodified":1537083966,
+    "wof:name":"Targyz",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.33333,
+    46.66667,
+    74.33333,
+    46.66667
+],
+  "geometry": {"coordinates":[74.33333,46.66667],"type":"Point"}
+}

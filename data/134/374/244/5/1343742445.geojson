@@ -1,0 +1,71 @@
+{
+  "id": 1343742445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.1,48.76667,73.1,48.76667",
+    "geom:latitude":48.76667,
+    "geom:longitude":73.1,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Akmaya",
+    "gn:country_code":"KZ",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526747,
+    "gn:latitude":48.76667,
+    "gn:longitude":73.1,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Akmaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akmal",
+        "Akmaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526747
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2b2857309be4aadafe6c0c44df0d7c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1343742445,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1343742445,
+    "wof:lastmodified":1537659924,
+    "wof:name":"Akmaya",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.1,
+    48.76667,
+    73.1,
+    48.76667
+],
+  "geometry": {"coordinates":[73.09999999999999,48.76667],"type":"Point"}
+}

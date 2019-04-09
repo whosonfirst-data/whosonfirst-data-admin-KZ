@@ -1,0 +1,73 @@
+{
+  "id": 1260173123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.30575,49.7825,49.30575,49.7825",
+    "geom:latitude":49.7825,
+    "geom:longitude":49.30575,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Aygansha",
+    "gn:country_code":"KZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":856944,
+    "gn:latitude":49.7825,
+    "gn:longitude":49.30575,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Aygansha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aygansha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0433\u0430\u043d\u0448\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":856944
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a9840c7ac1ed59be915d1bdf61577b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1260173123,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1260173123,
+    "wof:lastmodified":1537659458,
+    "wof:name":"Aygansha",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.30575,
+    49.7825,
+    49.30575,
+    49.7825
+],
+  "geometry": {"coordinates":[49.30575,49.7825],"type":"Point"}
+}

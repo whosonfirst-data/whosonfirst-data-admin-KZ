@@ -1,0 +1,71 @@
+{
+  "id": 1327321849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.06667,52.78333,78.06667,52.78333",
+    "geom:latitude":52.78333,
+    "geom:longitude":78.06667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sinitsino",
+    "gn:country_code":"KZ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518966,
+    "gn:latitude":52.78333,
+    "gn:longitude":78.06667,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Sinitsino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinitsyno",
+        "Sinitsino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518966
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8dfe0b3d52696000e96f5ab095a50e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1327321849,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1327321849,
+    "wof:lastmodified":1537659584,
+    "wof:name":"Sinitsino",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.06667,
+    52.78333000000001,
+    78.06667,
+    52.78333000000001
+],
+  "geometry": {"coordinates":[78.06667,52.78333000000001],"type":"Point"}
+}

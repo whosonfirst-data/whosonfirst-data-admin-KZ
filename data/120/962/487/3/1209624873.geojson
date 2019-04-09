@@ -1,0 +1,76 @@
+{
+  "id": 1209624873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.16604,43.47821,80.16604,43.47821",
+    "geom:latitude":43.47821,
+    "geom:longitude":80.16604,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sungqar",
+    "gn:country_code":"KZ",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518999,
+    "gn:latitude":43.47821,
+    "gn:longitude":80.16604,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Sungqar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sungqar"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u04b1\u04a3\u049b\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u043d\u043a\u044b\u0440"
+    ],
+    "name:und_x_variant":[
+        "Zhungar",
+        "Shunkor",
+        "Shunkar",
+        "Shunkyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518999
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e369d46c52c1b2a230e701bd072e5fe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209624873
+        }
+    ],
+    "wof:id":1209624873,
+    "wof:lastmodified":1537659586,
+    "wof:name":"Sungqar",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.16604,
+    43.47821,
+    80.16604,
+    43.47821
+],
+  "geometry": {"coordinates":[80.16604,43.47821],"type":"Point"}
+}

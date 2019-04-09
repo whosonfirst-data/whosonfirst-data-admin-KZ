@@ -1,0 +1,78 @@
+{
+  "id": 1226830201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.48524,52.67111,76.48524,52.67111",
+    "geom:latitude":52.67111,
+    "geom:longitude":76.48524,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Krasnaya Polyana",
+    "gn:country_code":"KZ",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518076,
+    "gn:latitude":52.67111,
+    "gn:longitude":76.48524,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Krasnaya Polyana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Tomar",
+        "Tumar",
+        "Krasnaya Polyana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518076
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6f481751b3a10c3d1a42a6a6d020304f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785553,
+            "locality_id":1226830201,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1226830201,
+    "wof:lastmodified":1537659550,
+    "wof:name":"Krasnaya Polyana",
+    "wof:parent_id":1108785553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.48524,
+    52.67111,
+    76.48524,
+    52.67111
+],
+  "geometry": {"coordinates":[76.48524,52.67111],"type":"Point"}
+}

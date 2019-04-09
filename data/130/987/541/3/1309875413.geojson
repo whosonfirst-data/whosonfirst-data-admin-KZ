@@ -1,0 +1,82 @@
+{
+  "id": 1309875413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.42176,54.55193,70.42176,54.55193",
+    "geom:latitude":54.55193,
+    "geom:longitude":70.42176,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Pulemetovka",
+    "gn:country_code":"KZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519974,
+    "gn:latitude":54.55193,
+    "gn:longitude":70.42176,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Pulem\u00ebtovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pulem\u00ebtovka"
+    ],
+    "name:kaz_x_preferred":[
+        "P\u016blemyotovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u0443\u043b\u0435\u043c\u0451\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043b\u0435\u043c\u0435\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pulem\u00ebtovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519974
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"14d9cdcfe7d6bcd9fcc63f441b433c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1309875413,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1309875413,
+    "wof:lastmodified":1537659628,
+    "wof:name":"Pulemetovka",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.42175999999998,
+    54.55193000000001,
+    70.42175999999998,
+    54.55193000000001
+],
+  "geometry": {"coordinates":[70.42175999999998,54.55193000000001],"type":"Point"}
+}

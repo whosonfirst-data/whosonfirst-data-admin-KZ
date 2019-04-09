@@ -1,0 +1,61 @@
+{
+  "id": 1209247697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.23333,49.88333,57.23333,49.88333",
+    "geom:latitude":49.88333,
+    "geom:longitude":57.23333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Suk-Su",
+    "gn:country_code":"KZ",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608166,
+    "gn:latitude":49.88333,
+    "gn:longitude":57.23333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Suk-Su",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608166
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"965efaa25932f1951329ec9bf26ca303",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209247697
+        }
+    ],
+    "wof:id":1209247697,
+    "wof:lastmodified":1536293107,
+    "wof:name":"Suk-Su",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.23333,
+    49.88333,
+    57.23333,
+    49.88333
+],
+  "geometry": {"coordinates":[57.23333,49.88333],"type":"Point"}
+}

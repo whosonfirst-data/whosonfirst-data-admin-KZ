@@ -1,0 +1,67 @@
+{
+  "id": 1327251691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.01667,42.96667,68.01667,42.96667",
+    "geom:latitude":42.96667,
+    "geom:longitude":68.01667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ovtsevod",
+    "gn:country_code":"KZ",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520293,
+    "gn:latitude":42.96667,
+    "gn:longitude":68.01667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Ovtsevod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520293
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"87dbff6093c667ec9fb16e9cee4ca2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785593,
+            "locality_id":1327251691,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1327251691,
+    "wof:lastmodified":1536942303,
+    "wof:name":"Ovtsevod",
+    "wof:parent_id":1108785593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.01666999999999,
+    42.96667,
+    68.01666999999999,
+    42.96667
+],
+  "geometry": {"coordinates":[68.01666999999999,42.96667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226326359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.17624,40.82383,68.17624,40.82383",
+    "geom:latitude":40.82383,
+    "geom:longitude":68.17624,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Brigada Nomer Tri Otdeleniya Nomer Pyat' Sovkhoza Imeni Sorokoletiya Uzbekskoy Sovetskoy Sotsialistkoy Respubliky",
+    "gn:country_code":"KZ",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10956147,
+    "gn:latitude":40.82383,
+    "gn:longitude":68.17624,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Brigada Nomer Tri Otdeleniya Nomer Pyat\u2019 Sovkhoza Imeni Sorokoletiya Uzbekskoy Sovetskoy Sotsialistkoy Respubliky",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Brigada Nomer Tri Otdeleniya Nomer Pyat\u2019 Sovkhoza Imeni Sorokoletiya Uzbekskoy Sovetskoy Sotsialistkoy Respubliky"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0440\u0438\u0433\u0430\u0434\u0430 \u041d\u043e\u043c\u0435\u0440 \u0422\u0440\u0438 \u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u041d\u043e\u043c\u0435\u0440 \u041f\u044f\u0442\u044c \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u0418\u043c\u0435\u043d\u0438 \u0421\u043e\u0440\u043e\u043a\u043e\u043b\u0435\u0442\u0438\u044f \u0423\u0437\u0431\u0435\u043a\u0441\u043e\u0439 \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u043e\u0439 \u0421\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u043a\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956147
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d54b899318564a87924708b06e5cce2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1226326359,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226326359,
+    "wof:lastmodified":1537660080,
+    "wof:name":"Brigada Nomer Tri Otdeleniya Nomer Pyat' Sovkhoza Imeni Sorokoletiya Uzbekskoy Sovetskoy Sotsialistkoy Respubliky",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.17624,
+    40.82383,
+    68.17624,
+    40.82383
+],
+  "geometry": {"coordinates":[68.17624000000001,40.82383],"type":"Point"}
+}

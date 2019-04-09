@@ -1,0 +1,76 @@
+{
+  "id": 1243085975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.31527,50.18348,65.31527,50.18348",
+    "geom:latitude":50.18348,
+    "geom:longitude":65.31527,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kogalykol'",
+    "gn:country_code":"KZ",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530336,
+    "gn:latitude":50.18348,
+    "gn:longitude":65.31527,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kogalykol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kogalykol'"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0433\u0430\u043b\u044b-\u041a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Kogalykol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530336
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"687a5df17fb19c7f06f7e121df36d821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1243085975,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1243085975,
+    "wof:lastmodified":1537659936,
+    "wof:name":"Kogalykol'",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.31527,
+    50.18348,
+    65.31527,
+    50.18348
+],
+  "geometry": {"coordinates":[65.31527,50.18348],"type":"Point"}
+}

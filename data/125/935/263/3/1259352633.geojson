@@ -1,0 +1,79 @@
+{
+  "id": 1259352633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.6348,54.58606,66.6348,54.58606",
+    "geom:latitude":54.58606,
+    "geom:longitude":66.6348,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Svetloye",
+    "gn:country_code":"KZ",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530781,
+    "gn:latitude":54.58606,
+    "gn:longitude":66.6348,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Svetloye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Svetloye"
+    ],
+    "name:kaz_x_preferred":[
+        "Svetloe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0432\u0435\u0442\u043b\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u043b\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530781
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"30101a8753fc2e6d3dd7465241e76bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1259352633,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259352633,
+    "wof:lastmodified":1537659945,
+    "wof:name":"Svetloye",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.6348,
+    54.58606,
+    66.6348,
+    54.58606
+],
+  "geometry": {"coordinates":[66.6348,54.58606],"type":"Point"}
+}

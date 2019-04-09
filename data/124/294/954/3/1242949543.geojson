@@ -1,0 +1,83 @@
+{
+  "id": 1242949543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.74122,53.77678,65.74122,53.77678",
+    "geom:latitude":53.77678,
+    "geom:longitude":65.74122,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Urozhaynyy",
+    "gn:country_code":"KZ",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517701,
+    "gn:latitude":53.77678,
+    "gn:longitude":65.74122,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Urozhaynyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Urozhaynyy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u016arozhaynyy"
+    ],
+    "name:kaz_x_variant":[
+        "\u0423\u0440\u043e\u0436\u0430\u0439\u043d\u044b\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u043e\u0436\u0430\u0439\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Imeni Chekhova",
+        "Urozhaynyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517701
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"140e1e286c3e6569c27af9cb89b35469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785569,
+            "locality_id":1242949543,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1242949543,
+    "wof:lastmodified":1537659535,
+    "wof:name":"Urozhaynyy",
+    "wof:parent_id":1108785569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.74122,
+    53.77678,
+    65.74122,
+    53.77678
+],
+  "geometry": {"coordinates":[65.74122,53.77678],"type":"Point"}
+}

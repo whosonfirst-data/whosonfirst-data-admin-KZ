@@ -1,0 +1,77 @@
+{
+  "id": 1310020711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.86335,53.29007,63.86335,53.29007",
+    "geom:latitude":53.29007,
+    "geom:longitude":63.86335,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Malakanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521214,
+    "gn:latitude":53.29007,
+    "gn:longitude":63.86335,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Malakanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malakanovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043a\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Maslakanovka",
+        "Malakanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521214
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"eb01585a0fa4cddfbc9dfca647fe8fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1310020711,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310020711,
+    "wof:lastmodified":1537659702,
+    "wof:name":"Malakanovka",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.86335,
+    53.29006999999999,
+    63.86335,
+    53.29006999999999
+],
+  "geometry": {"coordinates":[63.86335,53.29006999999999],"type":"Point"}
+}

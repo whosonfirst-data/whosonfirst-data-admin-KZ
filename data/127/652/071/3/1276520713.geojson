@@ -1,0 +1,73 @@
+{
+  "id": 1276520713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.73333,47.08333,79.73333,47.08333",
+    "geom:latitude":47.08333,
+    "geom:longitude":79.73333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhuzaghash",
+    "gn:country_code":"KZ",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516478,
+    "gn:latitude":47.08333,
+    "gn:longitude":79.73333,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Zhuzaghash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhuzaghash"
+    ],
+    "name:und_x_variant":[
+        "Zhuz-Agach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516478
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"761262fd017a9e05f62bb742b27b536e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785459,
+            "locality_id":1276520713,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276520713,
+    "wof:lastmodified":1537659472,
+    "wof:name":"Zhuzaghash",
+    "wof:parent_id":1108785459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.73333000000002,
+    47.08333,
+    79.73333000000002,
+    47.08333
+],
+  "geometry": {"coordinates":[79.73333000000002,47.08333],"type":"Point"}
+}

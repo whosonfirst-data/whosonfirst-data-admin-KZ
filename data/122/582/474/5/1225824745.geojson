@@ -1,0 +1,79 @@
+{
+  "id": 1225824745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.46127,52.84113,62.46127,52.84113",
+    "geom:latitude":52.84113,
+    "geom:longitude":62.46127,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Orenburgskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520377,
+    "gn:latitude":52.84113,
+    "gn:longitude":62.46127,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Orenburgskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Orenburgskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "Orenb\u016brgsk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520377
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7244f545a99c6b5a90d4ca95e070d21f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785535,
+            "locality_id":1225824745,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1225824745,
+    "wof:lastmodified":1537659653,
+    "wof:name":"Orenburgskiy",
+    "wof:parent_id":1108785535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.46126999999999,
+    52.84113000000001,
+    62.46126999999999,
+    52.84113000000001
+],
+  "geometry": {"coordinates":[62.46126999999999,52.84113000000001],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1360067497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.21575,54.56556,70.21575,54.56556",
+    "geom:latitude":54.56556,
+    "geom:longitude":70.21575,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Molodyozhnoe",
+    "gn:country_code":"KZ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520875,
+    "gn:latitude":54.56556,
+    "gn:longitude":70.21575,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Molodyozhnoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Molodezhnoe"
+    ],
+    "name:kaz_x_preferred":[
+        "Molodyozhnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u043e\u043b\u043e\u0434\u0451\u0436\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u043e\u0434\u0435\u0436\u043d\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "Molod\u00ebzhnoye"
+    ],
+    "name:und_x_variant":[
+        "Abeken\u2019",
+        "Molodezhnoye",
+        "Molod\u00ebzhnyy",
+        "Molodezhnoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520875
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"899ecb4eb1c7be16b58220d6e86bc379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1360067497,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1360067497,
+    "wof:lastmodified":1537659685,
+    "wof:name":"Molodyozhnoe",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.21575,
+    54.56556,
+    70.21575,
+    54.56556
+],
+  "geometry": {"coordinates":[70.21575,54.56556],"type":"Point"}
+}

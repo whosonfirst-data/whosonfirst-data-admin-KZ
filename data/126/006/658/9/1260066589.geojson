@@ -1,0 +1,70 @@
+{
+  "id": 1260066589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.89643,54.61912,65.89643,54.61912",
+    "geom:latitude":54.61912,
+    "geom:longitude":65.89643,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Komendantskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11416867,
+    "gn:latitude":54.61912,
+    "gn:longitude":65.89643,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Komendantskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0435\u043d\u0434\u0430\u043d\u0442\u0441\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11416867
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6a04ef4eb8f9ca2b29044768ead774e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1260066589,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1260066589,
+    "wof:lastmodified":1537660144,
+    "wof:name":"Komendantskoye",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.89643000000001,
+    54.61912,
+    65.89643000000001,
+    54.61912
+],
+  "geometry": {"coordinates":[65.89643000000001,54.61912],"type":"Point"}
+}

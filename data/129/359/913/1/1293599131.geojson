@@ -1,0 +1,67 @@
+{
+  "id": 1293599131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.88333,49.8,82.88333,49.8",
+    "geom:latitude":49.8,
+    "geom:longitude":82.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Surovo",
+    "gn:country_code":"KZ",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518704,
+    "gn:latitude":49.8,
+    "gn:longitude":82.88333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Surovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518704
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"31ce4516c32ede20d01890a0044726b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785475,
+            "locality_id":1293599131,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293599131,
+    "wof:lastmodified":1536624088,
+    "wof:name":"Surovo",
+    "wof:parent_id":1108785475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.88333,
+    49.8,
+    82.88333,
+    49.8
+],
+  "geometry": {"coordinates":[82.88333,49.8],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344140299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.18766,43.78972,67.18766,43.78972",
+    "geom:latitude":43.78972,
+    "geom:longitude":67.18766,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Politotdel",
+    "gn:country_code":"KZ",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529712,
+    "gn:latitude":43.78972,
+    "gn:longitude":67.18766,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Politotdel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Pol\u012btotdel"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u043e\u043b\u0438\u0442\u043e\u0442\u0434\u0435\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529712
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ae8d8451a6bd412dbb745358a335d5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1344140299,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1344140299,
+    "wof:lastmodified":1537659933,
+    "wof:name":"Politotdel",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.18766,
+    43.78972,
+    67.18766,
+    43.78972
+],
+  "geometry": {"coordinates":[67.18765999999999,43.78972],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243255211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.83358,49.70757,53.83358,49.70757",
+    "geom:latitude":49.70757,
+    "geom:longitude":53.83358,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Karakol",
+    "gn:country_code":"KZ",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609621,
+    "gn:latitude":49.70757,
+    "gn:longitude":53.83358,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Karakol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karakol"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u043e\u043b"
+    ],
+    "name:und_x_variant":[
+        "Karagul\u2019",
+        "Karakol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609621
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3d7dfffa3eee1d5876e368c88963bcbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785493,
+            "locality_id":1243255211,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1243255211,
+    "wof:lastmodified":1537659417,
+    "wof:name":"Karakol",
+    "wof:parent_id":1108785493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.83358000000001,
+    49.70757,
+    53.83358000000001,
+    49.70757
+],
+  "geometry": {"coordinates":[53.83358000000001,49.70757],"type":"Point"}
+}

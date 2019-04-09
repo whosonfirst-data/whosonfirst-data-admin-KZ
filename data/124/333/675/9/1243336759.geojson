@@ -1,0 +1,78 @@
+{
+  "id": 1243336759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.66773,51.11209,78.66773,51.11209",
+    "geom:latitude":51.11209,
+    "geom:longitude":78.66773,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Yesenbay",
+    "gn:country_code":"KZ",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517164,
+    "gn:latitude":51.11209,
+    "gn:longitude":78.66773,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Yesenbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yesimbay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0441\u0435\u043d\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Yesembay",
+        "Yesimbay",
+        "Yesenbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517164
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b9d24db6185159833b68ffe321eaa2fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785639,
+            "locality_id":1243336759,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243336759,
+    "wof:lastmodified":1537659503,
+    "wof:name":"Yesenbay",
+    "wof:parent_id":1108785639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.66773,
+    51.11209,
+    78.66773,
+    51.11209
+],
+  "geometry": {"coordinates":[78.66773000000001,51.11209],"type":"Point"}
+}

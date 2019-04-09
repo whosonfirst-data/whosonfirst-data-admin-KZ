@@ -1,0 +1,85 @@
+{
+  "id": 1343763843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.02503,53.33814,69.02503,53.33814",
+    "geom:latitude":53.33814,
+    "geom:longitude":69.02503,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Simferopol'skoye",
+    "gn:country_code":"KZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518969,
+    "gn:latitude":53.33814,
+    "gn:longitude":69.02503,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Simferopol\u2019skoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Simferopol'skoye"
+    ],
+    "name:kaz_x_preferred":[
+        "S\u012bmferopol\u2019skoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "Simferopol\u2019skoye"
+    ],
+    "name:und_x_variant":[
+        "Simferopol\u2019skiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518969
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"468af5c842ff7b8eec88706dabdb6a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1343763843,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343763843,
+    "wof:lastmodified":1537659585,
+    "wof:name":"Simferopol'skoye",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.02503,
+    53.33814,
+    69.02503,
+    53.33814
+],
+  "geometry": {"coordinates":[69.02503,53.33814],"type":"Point"}
+}

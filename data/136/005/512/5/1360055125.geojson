@@ -1,0 +1,76 @@
+{
+  "id": 1360055125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.88688,54.94277,69.88688,54.94277",
+    "geom:latitude":54.94277,
+    "geom:longitude":69.88688,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Novyy Byt",
+    "gn:country_code":"KZ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530602,
+    "gn:latitude":54.94277,
+    "gn:longitude":69.88688,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Novyy Byt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novyy Byt"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0411\u044b\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0411\u044b\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530602
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1c9b39c2b46346b8d6eefa499165393f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1360055125,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1360055125,
+    "wof:lastmodified":1537659940,
+    "wof:name":"Novyy Byt",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.88688,
+    54.94277,
+    69.88688,
+    54.94277
+],
+  "geometry": {"coordinates":[69.88688,54.94277],"type":"Point"}
+}

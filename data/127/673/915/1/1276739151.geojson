@@ -1,0 +1,81 @@
+{
+  "id": 1276739151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.83906,43.06777,70.83906,43.06777",
+    "geom:latitude":43.06777,
+    "geom:longitude":70.83906,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kumsuat",
+    "gn:country_code":"KZ",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521817,
+    "gn:latitude":43.06777,
+    "gn:longitude":70.83906,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Kumsuat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qums\u016bat"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u04b1\u043c\u0441\u0443\u0430\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c\u0441\u0443\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "Kum-Suvat",
+        "Kum-Suzat",
+        "Kumsuat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521817
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"70066aecf0838b17eadb3c2d88153862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785603,
+            "locality_id":1276739151,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1276739151,
+    "wof:lastmodified":1537659729,
+    "wof:name":"Kumsuat",
+    "wof:parent_id":1108785603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.83906,
+    43.06777,
+    70.83906,
+    43.06777
+],
+  "geometry": {"coordinates":[70.83906,43.06777],"type":"Point"}
+}

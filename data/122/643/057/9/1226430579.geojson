@@ -1,0 +1,82 @@
+{
+  "id": 1226430579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.1561,53.63232,75.1561,53.63232",
+    "geom:latitude":53.63232,
+    "geom:longitude":75.1561,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bashmachnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525718,
+    "gn:latitude":53.63232,
+    "gn:longitude":75.1561,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Bashmachnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bashmachnoe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0448\u043c\u0430\u0447\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448\u043c\u0430\u0447\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Bashmachnyy",
+        "Bashmachnoye",
+        "Bashmachny",
+        "Bashmachnoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525718
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"693eb5e7571cf577eb91c65ff5078e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1226430579,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1226430579,
+    "wof:lastmodified":1537659888,
+    "wof:name":"Bashmachnoye",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.1561,
+    53.63231999999999,
+    75.1561,
+    53.63231999999999
+],
+  "geometry": {"coordinates":[75.1561,53.63231999999999],"type":"Point"}
+}

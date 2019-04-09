@@ -1,0 +1,76 @@
+{
+  "id": 1310488707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.48671,48.57313,75.48671,48.57313",
+    "geom:latitude":48.57313,
+    "geom:longitude":75.48671,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Akzharyk",
+    "gn:country_code":"KZ",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526526,
+    "gn:latitude":48.57313,
+    "gn:longitude":75.48671,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Akzharyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0410\u049b\u0436\u0430\u0440\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0436\u0430\u0440\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Aqzharyq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526526
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b84f42e64b2492e6c613d5409b93c0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1310488707,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1310488707,
+    "wof:lastmodified":1537659916,
+    "wof:name":"Akzharyk",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.48671,
+    48.57313,
+    75.48671,
+    48.57313
+],
+  "geometry": {"coordinates":[75.48671,48.57313],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243347149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.7774,41.18161,68.7774,41.18161",
+    "geom:latitude":41.18161,
+    "geom:longitude":68.7774,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Uchastok Imeni Gor'kogo",
+    "gn:country_code":"KZ",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10956196,
+    "gn:latitude":41.18161,
+    "gn:longitude":68.7774,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Uchastok Imeni Gor\u2019kogo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Uchastok Imeni Gor\u2019kogo"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u0447\u0430\u0441\u0442\u043e\u043a \u0418\u043c\u0435\u043d\u0438 \u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956196
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"860bdb60a25474eca53625510e61e1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1243347149,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243347149,
+    "wof:lastmodified":1537660082,
+    "wof:name":"Uchastok Imeni Gor'kogo",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.7774,
+    41.18161,
+    68.7774,
+    41.18161
+],
+  "geometry": {"coordinates":[68.7774,41.18161],"type":"Point"}
+}

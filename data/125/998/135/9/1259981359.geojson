@@ -1,0 +1,74 @@
+{
+  "id": 1259981359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65199,51.74148,71.65199,51.74148",
+    "geom:latitude":51.74148,
+    "geom:longitude":71.65199,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novoselovka",
+    "gn:country_code":"KZ",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520550,
+    "gn:latitude":51.74148,
+    "gn:longitude":71.65199,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Novoselovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Novoselovka"
+    ],
+    "name:und_x_variant":[
+        "Pervomayskiy",
+        "Novosel\u2019skoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520550
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"412541a096299807966c30b5254ec88d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785437,
+            "locality_id":1259981359,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259981359,
+    "wof:lastmodified":1537659664,
+    "wof:name":"Novoselovka",
+    "wof:parent_id":1108785437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65199,
+    51.74148,
+    71.65199,
+    51.74148
+],
+  "geometry": {"coordinates":[71.65199,51.74148],"type":"Point"}
+}

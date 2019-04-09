@@ -1,0 +1,73 @@
+{
+  "id": 1343776921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.40392,50.11828,65.40392,50.11828",
+    "geom:latitude":50.11828,
+    "geom:longitude":65.40392,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Baydaulet",
+    "gn:country_code":"KZ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530339,
+    "gn:latitude":50.11828,
+    "gn:longitude":65.40392,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Baydaulet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baydaulet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0434\u0430\u0443\u043b\u0435\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530339
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"989f0789de34fb41076fbca568d0c214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1343776921,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343776921,
+    "wof:lastmodified":1537659936,
+    "wof:name":"Baydaulet",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.40392,
+    50.11828,
+    65.40392,
+    50.11828
+],
+  "geometry": {"coordinates":[65.40392,50.11828],"type":"Point"}
+}

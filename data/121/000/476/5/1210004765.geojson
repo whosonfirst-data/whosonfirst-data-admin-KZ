@@ -1,0 +1,74 @@
+{
+  "id": 1210004765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.14832,53.6247,77.14832,53.6247",
+    "geom:latitude":53.6247,
+    "geom:longitude":77.14832,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pokrovka",
+    "gn:country_code":"KZ",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520096,
+    "gn:latitude":53.6247,
+    "gn:longitude":77.14832,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Pokrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043a\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pokrovskiy",
+        "Pokrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520096
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5116ec9f207f4c627a8684596b1b1440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785557,
+            "locality_id":1210004765,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1210004765,
+    "wof:lastmodified":1537659637,
+    "wof:name":"Pokrovka",
+    "wof:parent_id":1108785557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.14832,
+    53.6247,
+    77.14832,
+    53.6247
+],
+  "geometry": {"coordinates":[77.14832,53.6247],"type":"Point"}
+}

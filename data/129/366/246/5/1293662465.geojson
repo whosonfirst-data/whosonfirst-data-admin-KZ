@@ -1,0 +1,73 @@
+{
+  "id": 1293662465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.08946,47.28077,84.08946,47.28077",
+    "geom:latitude":47.28077,
+    "geom:longitude":84.08946,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Saryoleng",
+    "gn:country_code":"KZ",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519583,
+    "gn:latitude":47.28077,
+    "gn:longitude":84.08946,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sary\u00f6leng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarulen",
+        "Saryolen",
+        "Saryulen",
+        "Sary\u00f6leng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519583
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5c7d42d8ad7305657f2dc5529d5bfbf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785469,
+            "locality_id":1293662465,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293662465,
+    "wof:lastmodified":1537659610,
+    "wof:name":"Saryoleng",
+    "wof:parent_id":1108785469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.08946,
+    47.28077,
+    84.08946,
+    47.28077
+],
+  "geometry": {"coordinates":[84.08946,47.28077],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343829455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.46411,43.24959,73.46411,43.24959",
+    "geom:latitude":43.24959,
+    "geom:longitude":73.46411,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Leninzholy",
+    "gn:country_code":"KZ",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521344,
+    "gn:latitude":43.24959,
+    "gn:longitude":73.46411,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Leninzholy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Len\u012bn Zholy"
+    ],
+    "name:kaz_x_variant":[
+        "\u041b\u0435\u043d\u0438\u043d \u0416\u043e\u043b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u0436\u043e\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Leninzhol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521344
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b0a1a2f7a76d42ecec43053f50de5c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785319,
+            "locality_id":1343829455,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1343829455,
+    "wof:lastmodified":1537659710,
+    "wof:name":"Leninzholy",
+    "wof:parent_id":1108785319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.46410999999998,
+    43.24959000000001,
+    73.46410999999998,
+    43.24959000000001
+],
+  "geometry": {"coordinates":[73.46410999999998,43.24959000000001],"type":"Point"}
+}

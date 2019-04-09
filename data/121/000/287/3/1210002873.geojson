@@ -1,0 +1,80 @@
+{
+  "id": 1210002873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.52557,52.86222,61.52557,52.86222",
+    "geom:latitude":52.86222,
+    "geom:longitude":61.52557,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ayatskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525973,
+    "gn:latitude":52.86222,
+    "gn:longitude":61.52557,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ayatskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ayatskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u00d6yet"
+    ],
+    "name:kaz_x_variant":[
+        "\u00c4yet",
+        "\u04d8\u0439\u0435\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u044f\u0442\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525973
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3a3e5d13ed35050fd29ad4d5903785fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785661,
+            "locality_id":1210002873,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1210002873,
+    "wof:lastmodified":1537659898,
+    "wof:name":"Ayatskiy",
+    "wof:parent_id":1108785661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.52557,
+    52.86221999999999,
+    61.52557,
+    52.86221999999999
+],
+  "geometry": {"coordinates":[61.52557,52.86221999999999],"type":"Point"}
+}

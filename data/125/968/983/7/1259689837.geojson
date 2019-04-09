@@ -1,0 +1,71 @@
+{
+  "id": 1259689837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.35743,48.79624,54.35743,48.79624",
+    "geom:latitude":48.79624,
+    "geom:longitude":54.35743,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tamdykol'",
+    "gn:country_code":"KZ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608096,
+    "gn:latitude":48.79624,
+    "gn:longitude":54.35743,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tamdykol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamdy-Kul\u2019",
+        "Tamdykol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608096
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"514ca34496185709b0abb8097a85c84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785401,
+            "locality_id":1259689837,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1259689837,
+    "wof:lastmodified":1537659359,
+    "wof:name":"Tamdykol'",
+    "wof:parent_id":1108785401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.35743000000001,
+    48.79624,
+    54.35743000000001,
+    48.79624
+],
+  "geometry": {"coordinates":[54.35743000000001,48.79624],"type":"Point"}
+}

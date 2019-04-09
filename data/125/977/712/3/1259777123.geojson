@@ -1,0 +1,76 @@
+{
+  "id": 1259777123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.31793,41.5991,67.31793,41.5991",
+    "geom:latitude":41.5991,
+    "geom:longitude":67.31793,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nalibay",
+    "gn:country_code":"KZ",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535866,
+    "gn:latitude":41.5991,
+    "gn:longitude":67.31793,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Nalibay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "N\u00e4libay"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u04d9\u043b\u0456\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043b\u0438\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535866
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3c19740b51f7735963bae308b9858a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785365,
+            "locality_id":1259777123,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1259777123,
+    "wof:lastmodified":1537660003,
+    "wof:name":"Nalibay",
+    "wof:parent_id":1108785365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.31793,
+    41.5991,
+    67.31793,
+    41.5991
+],
+  "geometry": {"coordinates":[67.31793,41.5991],"type":"Point"}
+}

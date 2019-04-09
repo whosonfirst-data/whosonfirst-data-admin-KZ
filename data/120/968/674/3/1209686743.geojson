@@ -1,0 +1,61 @@
+{
+  "id": 1209686743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.39722,44.74444,65.39722,44.74444",
+    "geom:latitude":44.74444,
+    "geom:longitude":65.39722,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Otdeleniye Besaryk",
+    "gn:country_code":"KZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535036,
+    "gn:latitude":44.74444,
+    "gn:longitude":65.39722,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Otdeleniye Besaryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535036
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ab2b63f895582bb76e3a0f2b23cb114d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209686743
+        }
+    ],
+    "wof:id":1209686743,
+    "wof:lastmodified":1536279384,
+    "wof:name":"Otdeleniye Besaryk",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.39721999999999,
+    44.74444,
+    65.39721999999999,
+    44.74444
+],
+  "geometry": {"coordinates":[65.39721999999999,44.74444],"type":"Point"}
+}

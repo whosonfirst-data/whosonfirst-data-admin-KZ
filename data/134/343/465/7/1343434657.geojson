@@ -1,0 +1,70 @@
+{
+  "id": 1343434657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.78934,43.73768,67.78934,43.73768",
+    "geom:latitude":43.73768,
+    "geom:longitude":67.78934,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Baygabyl",
+    "gn:country_code":"KZ",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529734,
+    "gn:latitude":43.73768,
+    "gn:longitude":67.78934,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Baygabyl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0433\u0430\u0431\u044b\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529734
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b713f72bf4559c65331c41cf18131b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1343434657,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1343434657,
+    "wof:lastmodified":1537659934,
+    "wof:name":"Baygabyl",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.78934,
+    43.73768,
+    67.78934,
+    43.73768
+],
+  "geometry": {"coordinates":[67.78934,43.73768],"type":"Point"}
+}

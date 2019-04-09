@@ -1,0 +1,67 @@
+{
+  "id": 1310623235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.93333,46.65,48.93333,46.65",
+    "geom:latitude":46.65,
+    "geom:longitude":48.93333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tartay",
+    "gn:country_code":"KZ",
+    "gn:dem":-28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608083,
+    "gn:latitude":46.65,
+    "gn:longitude":48.93333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Tartay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608083
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0274e71aa7963768d4ef9a39c71fede3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1310623235,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1310623235,
+    "wof:lastmodified":1536746902,
+    "wof:name":"Tartay",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.93333,
+    46.65,
+    48.93333,
+    46.65
+],
+  "geometry": {"coordinates":[48.93333,46.65],"type":"Point"}
+}

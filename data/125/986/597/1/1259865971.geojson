@@ -1,0 +1,82 @@
+{
+  "id": 1259865971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.17228,53.79396,62.17228,53.79396",
+    "geom:latitude":53.79396,
+    "geom:longitude":62.17228,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Verenka",
+    "gn:country_code":"KZ",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517482,
+    "gn:latitude":53.79396,
+    "gn:longitude":62.17228,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Verenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Verinskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "Verenka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u0435\u0440\u0435\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Verinskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517482
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0b255965b45d0cb1eb4095933a0064f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785333,
+            "locality_id":1259865971,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1259865971,
+    "wof:lastmodified":1537659525,
+    "wof:name":"Verenka",
+    "wof:parent_id":1108785333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.17228000000001,
+    53.79396,
+    62.17228000000001,
+    53.79396
+],
+  "geometry": {"coordinates":[62.17228000000001,53.79396],"type":"Point"}
+}

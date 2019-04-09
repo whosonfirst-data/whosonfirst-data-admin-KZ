@@ -1,0 +1,81 @@
+{
+  "id": 1243344595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.16365,52.361,75.16365,52.361",
+    "geom:latitude":52.361,
+    "geom:longitude":75.16365,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Baskamys",
+    "gn:country_code":"KZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525715,
+    "gn:latitude":52.361,
+    "gn:longitude":75.16365,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Baskamys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Basqamys"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0441\u049b\u0430\u043c\u044b\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u043a\u0430\u043c\u044b\u0441"
+    ],
+    "name:und_x_variant":[
+        "Boskamys",
+        "Baskamys",
+        "Basqamys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525715
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"293f76b6af00e454ceeea4004579d168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785733,
+            "locality_id":1243344595,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1243344595,
+    "wof:lastmodified":1537659888,
+    "wof:name":"Baskamys",
+    "wof:parent_id":1108785733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.16365,
+    52.361,
+    75.16365,
+    52.361
+],
+  "geometry": {"coordinates":[75.16365,52.361],"type":"Point"}
+}

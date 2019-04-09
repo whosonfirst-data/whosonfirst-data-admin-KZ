@@ -1,0 +1,67 @@
+{
+  "id": 1260094787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.3,49.58333,47.3,49.58333",
+    "geom:latitude":49.58333,
+    "geom:longitude":47.3,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bulat",
+    "gn:country_code":"KZ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610187,
+    "gn:latitude":49.58333,
+    "gn:longitude":47.3,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Bulat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610187
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8e3df91350ab1f088ad4f442f5b8bb24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785327,
+            "locality_id":1260094787,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1260094787,
+    "wof:lastmodified":1536971342,
+    "wof:name":"Bulat",
+    "wof:parent_id":1108785327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.3,
+    49.58333,
+    47.3,
+    49.58333
+],
+  "geometry": {"coordinates":[47.3,49.58333],"type":"Point"}
+}

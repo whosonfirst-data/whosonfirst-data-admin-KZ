@@ -1,0 +1,70 @@
+{
+  "id": 1276675781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.1155,43.50049,77.1155,43.50049",
+    "geom:latitude":43.50049,
+    "geom:longitude":77.1155,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dalakaynar",
+    "gn:country_code":"KZ",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10310705,
+    "gn:latitude":43.50049,
+    "gn:longitude":77.1155,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Dalakaynar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043b\u0430\u043a\u0430\u0439\u043d\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10310705
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a83b76f42e45e622790f60552fb55460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785421,
+            "locality_id":1276675781,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1276675781,
+    "wof:lastmodified":1537660047,
+    "wof:name":"Dalakaynar",
+    "wof:parent_id":1108785421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.1155,
+    43.50049,
+    77.1155,
+    43.50049
+],
+  "geometry": {"coordinates":[77.1155,43.50049],"type":"Point"}
+}

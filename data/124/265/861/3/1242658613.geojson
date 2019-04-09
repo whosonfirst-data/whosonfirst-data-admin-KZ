@@ -1,0 +1,71 @@
+{
+  "id": 1242658613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.7,51.06667,77.7,51.06667",
+    "geom:latitude":51.06667,
+    "geom:longitude":77.7,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Semipalatinskaya",
+    "gn:country_code":"KZ",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519415,
+    "gn:latitude":51.06667,
+    "gn:longitude":77.7,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Semipalatinskaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pavlodarskaya",
+        "Semipalatinskaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519415
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b8dcd69c14793b22e3866e321015dbe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1242658613,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1242658613,
+    "wof:lastmodified":1537659606,
+    "wof:name":"Semipalatinskaya",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.7,
+    51.06667,
+    77.7,
+    51.06667
+],
+  "geometry": {"coordinates":[77.7,51.06667],"type":"Point"}
+}

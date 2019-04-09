@@ -1,0 +1,82 @@
+{
+  "id": 1326999749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.55855,53.28971,67.55855,53.28971",
+    "geom:latitude":53.28971,
+    "geom:longitude":67.55855,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Grachyovka",
+    "gn:country_code":"KZ",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524186,
+    "gn:latitude":53.28971,
+    "gn:longitude":67.55855,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Grachyovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Grachevka"
+    ],
+    "name:kaz_x_preferred":[
+        "Grachyovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0413\u0440\u0430\u0447\u0451\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0447\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Grachevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524186
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"108cb9d920abeb84f184c9f224bea430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1326999749,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1326999749,
+    "wof:lastmodified":1537659824,
+    "wof:name":"Grachyovka",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.55855,
+    53.28971,
+    67.55855,
+    53.28971
+],
+  "geometry": {"coordinates":[67.55855,53.28971],"type":"Point"}
+}

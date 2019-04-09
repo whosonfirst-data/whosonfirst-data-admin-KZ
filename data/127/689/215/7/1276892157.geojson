@@ -1,0 +1,67 @@
+{
+  "id": 1276892157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.24713,50.36791,52.24713,50.36791",
+    "geom:latitude":50.36791,
+    "geom:longitude":52.24713,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tasoba",
+    "gn:country_code":"KZ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608061,
+    "gn:latitude":50.36791,
+    "gn:longitude":52.24713,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tasoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608061
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e52389dfa5a9f8b9925eb779f88dc1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785495,
+            "locality_id":1276892157,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1276892157,
+    "wof:lastmodified":1537023650,
+    "wof:name":"Tasoba",
+    "wof:parent_id":1108785495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.24713,
+    50.36791,
+    52.24713,
+    50.36791
+],
+  "geometry": {"coordinates":[52.24713,50.36791],"type":"Point"}
+}

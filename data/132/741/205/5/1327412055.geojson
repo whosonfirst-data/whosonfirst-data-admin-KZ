@@ -1,0 +1,80 @@
+{
+  "id": 1327412055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.85964,52.39133,76.85964,52.39133",
+    "geom:latitude":52.39133,
+    "geom:longitude":76.85964,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pavlodarskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520237,
+    "gn:latitude":52.39133,
+    "gn:longitude":76.85964,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Pavlodarskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pavlodarskoe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pavlodarskiy",
+        "Pavlodarskoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520237
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3d49ef47a4f6a66b03f0b77380c2d462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785561,
+            "locality_id":1327412055,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1327412055,
+    "wof:lastmodified":1537659646,
+    "wof:name":"Pavlodarskoye",
+    "wof:parent_id":1108785561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.85964,
+    52.39133,
+    76.85964,
+    52.39133
+],
+  "geometry": {"coordinates":[76.85964,52.39133],"type":"Point"}
+}

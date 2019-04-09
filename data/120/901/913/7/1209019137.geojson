@@ -1,0 +1,67 @@
+{
+  "id": 1209019137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.97296,50.46429,65.97296,50.46429",
+    "geom:latitude":50.46429,
+    "geom:longitude":65.97296,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tasty",
+    "gn:country_code":"KZ",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518380,
+    "gn:latitude":50.46429,
+    "gn:longitude":65.97296,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tasty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tasty"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0441\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518380
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"47fe175580a7713b3a4abb4d6a8433e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209019137
+        }
+    ],
+    "wof:id":1209019137,
+    "wof:lastmodified":1537659561,
+    "wof:name":"Tasty",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.97296,
+    50.46429000000001,
+    65.97296,
+    50.46429000000001
+],
+  "geometry": {"coordinates":[65.97296,50.46429000000001],"type":"Point"}
+}

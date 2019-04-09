@@ -1,0 +1,80 @@
+{
+  "id": 1277150071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.72462,49.13898,83.72462,49.13898",
+    "geom:latitude":49.13898,
+    "geom:longitude":83.72462,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Palattsy",
+    "gn:country_code":"KZ",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520257,
+    "gn:latitude":49.13898,
+    "gn:longitude":83.72462,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Palattsy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Palattsy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0441\u0447\u0430\u043d\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0430\u043b\u0430\u0442\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Peschanka",
+        "Palattsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520257
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"21eea9b7707d56428e7319a2f16d8fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1277150071,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1277150071,
+    "wof:lastmodified":1537659647,
+    "wof:name":"Palattsy",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.72462,
+    49.13898,
+    83.72462,
+    49.13898
+],
+  "geometry": {"coordinates":[83.72462,49.13898],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259801693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.66667,48.76667,50.66667,48.76667",
+    "geom:latitude":48.76667,
+    "geom:longitude":50.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Oktyabr'",
+    "gn:country_code":"KZ",
+    "gn:dem":-11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608680,
+    "gn:latitude":48.76667,
+    "gn:longitude":50.66667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Oktyabr\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608680
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"15fc5bbdf2c4ad9fc1add18a597d7c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1259801693,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1259801693,
+    "wof:lastmodified":1536896858,
+    "wof:name":"Oktyabr'",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.66667,
+    48.76667,
+    50.66667,
+    48.76667
+],
+  "geometry": {"coordinates":[50.66667,48.76667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242756755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.72504,44.68886,64.72504,44.68886",
+    "geom:latitude":44.68886,
+    "geom:longitude":64.72504,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zhangadariya",
+    "gn:country_code":"KZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516872,
+    "gn:latitude":44.68886,
+    "gn:longitude":64.72504,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Zhangadar\u012bya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhana-Dar\u2019ya",
+        "Zhanadar\u2019ya",
+        "Zhandar\u2019ya",
+        "Zhangadar\u012bya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516872
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5941d42ce7378afa88d67010180746c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785673,
+            "locality_id":1242756755,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1242756755,
+    "wof:lastmodified":1537659490,
+    "wof:name":"Zhangadariya",
+    "wof:parent_id":1108785673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.72504,
+    44.68886,
+    64.72504,
+    44.68886
+],
+  "geometry": {"coordinates":[64.72504000000001,44.68886],"type":"Point"}
+}

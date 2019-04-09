@@ -1,0 +1,82 @@
+{
+  "id": 1260081901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.46256,52.80552,70.46256,52.80552",
+    "geom:latitude":52.80552,
+    "geom:longitude":70.46256,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Uyumshil",
+    "gn:country_code":"KZ",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525569,
+    "gn:latitude":52.80552,
+    "gn:longitude":70.46256,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Uyumshil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Uyymshyl"
+    ],
+    "name:kaz_x_variant":[
+        "\u04b0\u0439\u044b\u043c\u0448\u044b\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u044e\u043c\u0448\u0438\u043b"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0437\u0430\u0440\u0431\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bazarbek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525569
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"03406d5bc052bc088d3e3aa237e060e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1260081901,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1260081901,
+    "wof:lastmodified":1537659882,
+    "wof:name":"Uyumshil",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.46256,
+    52.80552,
+    70.46256,
+    52.80552
+],
+  "geometry": {"coordinates":[70.46256,52.80552],"type":"Point"}
+}

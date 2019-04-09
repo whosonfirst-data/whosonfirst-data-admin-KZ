@@ -1,0 +1,67 @@
+{
+  "id": 1226660905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.61667,50.51667,52.61667,50.51667",
+    "geom:latitude":50.51667,
+    "geom:longitude":52.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aral-Tyube",
+    "gn:country_code":"KZ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610595,
+    "gn:latitude":50.51667,
+    "gn:longitude":52.61667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Aral-Tyube",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610595
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"02f0559b98a15810286068becbbd5800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785495,
+            "locality_id":1226660905,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226660905,
+    "wof:lastmodified":1536836486,
+    "wof:name":"Aral-Tyube",
+    "wof:parent_id":1108785495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.61666999999999,
+    50.51667,
+    52.61666999999999,
+    50.51667
+],
+  "geometry": {"coordinates":[52.61666999999999,50.51667],"type":"Point"}
+}

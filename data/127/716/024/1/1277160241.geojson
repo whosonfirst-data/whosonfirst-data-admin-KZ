@@ -1,0 +1,79 @@
+{
+  "id": 1277160241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.65955,48.80913,85.65955,48.80913",
+    "geom:latitude":48.80913,
+    "geom:longitude":85.65955,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Yelovka",
+    "gn:country_code":"KZ",
+    "gn:dem":1459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534495,
+    "gn:latitude":48.80913,
+    "gn:longitude":85.65955,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Yelovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yelovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Qaraghaylybulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0493\u0430\u0439\u043b\u044b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534495
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4c9f50513f4af0f93395ea1ecfd1b3a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1277160241,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1277160241,
+    "wof:lastmodified":1537659982,
+    "wof:name":"Yelovka",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.65955,
+    48.80913,
+    85.65955,
+    48.80913
+],
+  "geometry": {"coordinates":[85.65955,48.80913],"type":"Point"}
+}

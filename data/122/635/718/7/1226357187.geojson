@@ -1,0 +1,67 @@
+{
+  "id": 1226357187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.93333,51.65,76.93333,51.65",
+    "geom:latitude":51.65,
+    "geom:longitude":76.93333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Narshu-Kunya",
+    "gn:country_code":"KZ",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520755,
+    "gn:latitude":51.65,
+    "gn:longitude":76.93333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Narshu-Kunya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520755
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"819dcf343f988193734f9e3f0724da55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1226357187,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1226357187,
+    "wof:lastmodified":1536773581,
+    "wof:name":"Narshu-Kunya",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.93333,
+    51.65,
+    76.93333,
+    51.65
+],
+  "geometry": {"coordinates":[76.93333,51.65],"type":"Point"}
+}

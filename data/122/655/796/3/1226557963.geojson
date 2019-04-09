@@ -1,0 +1,67 @@
+{
+  "id": 1226557963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.84729,49.12013,83.84729,49.12013",
+    "geom:latitude":49.12013,
+    "geom:longitude":83.84729,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Asha",
+    "gn:country_code":"KZ",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526147,
+    "gn:latitude":49.12013,
+    "gn:longitude":83.84729,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Asha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526147
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"42ca1966d0c7bb175a82c62dd0a1f3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1226557963,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226557963,
+    "wof:lastmodified":1536979815,
+    "wof:name":"Asha",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.84729,
+    49.12013,
+    83.84729,
+    49.12013
+],
+  "geometry": {"coordinates":[83.84729,49.12013],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1225818593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.73245,48.33116,84.73245,48.33116",
+    "geom:latitude":48.33116,
+    "geom:longitude":84.73245,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Severnyy Bukombay",
+    "gn:country_code":"KZ",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11438608,
+    "gn:latitude":48.33116,
+    "gn:longitude":84.73245,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Severnyy Bukombay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Teriskey B\u00f6kenbay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0435\u0440\u0456\u0441\u043a\u0435\u0439 \u0411\u04e9\u043a\u0435\u043d\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0411\u0443\u043a\u043e\u043c\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11438608
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"621c529ee96e2640548f2b4eeb71d9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1225818593,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1225818593,
+    "wof:lastmodified":1537660152,
+    "wof:name":"Severnyy Bukombay",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.73245,
+    48.33116,
+    84.73245,
+    48.33116
+],
+  "geometry": {"coordinates":[84.73245,48.33116],"type":"Point"}
+}

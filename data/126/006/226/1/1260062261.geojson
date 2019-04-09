@@ -1,0 +1,82 @@
+{
+  "id": 1260062261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.99206,53.92354,67.99206,53.92354",
+    "geom:latitude":53.92354,
+    "geom:longitude":67.99206,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ivano-Petrovka",
+    "gn:country_code":"KZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523708,
+    "gn:latitude":53.92354,
+    "gn:longitude":67.99206,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Ivano-Petrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ivano-Petrovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e-\u041f\u0435\u0442\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:kaz_x_variant":[
+        "Ivano-Petrovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e-\u041f\u0435\u0442\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ivanovo-Petrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523708
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"00cc6918fcad0d34f6aaf7f68a81e6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785563,
+            "locality_id":1260062261,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1260062261,
+    "wof:lastmodified":1537659804,
+    "wof:name":"Ivano-Petrovka",
+    "wof:parent_id":1108785563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.99206,
+    53.92354,
+    67.99206,
+    53.92354
+],
+  "geometry": {"coordinates":[67.99206,53.92354],"type":"Point"}
+}

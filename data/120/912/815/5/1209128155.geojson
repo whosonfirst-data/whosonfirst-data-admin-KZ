@@ -1,0 +1,71 @@
+{
+  "id": 1209128155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.05,47.33333,49.05,47.33333",
+    "geom:latitude":47.33333,
+    "geom:longitude":49.05,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Koshalak",
+    "gn:country_code":"KZ",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609239,
+    "gn:latitude":47.33333,
+    "gn:longitude":49.05,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Koshalak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koshalak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0448\u0430\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kashalakty",
+        "Koshalak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609239
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ef1b967c0265c012269f877d0ec330b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209128155
+        }
+    ],
+    "wof:id":1209128155,
+    "wof:lastmodified":1537659404,
+    "wof:name":"Koshalak",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.05,
+    47.33333,
+    49.05,
+    47.33333
+],
+  "geometry": {"coordinates":[49.05,47.33333],"type":"Point"}
+}

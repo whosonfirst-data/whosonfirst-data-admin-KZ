@@ -1,0 +1,84 @@
+{
+  "id": 1344126567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.81523,53.52727,67.81523,53.52727",
+    "geom:latitude":53.52727,
+    "geom:longitude":67.81523,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sulukol'",
+    "gn:country_code":"KZ",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532187,
+    "gn:latitude":53.52727,
+    "gn:longitude":67.81523,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Sulukol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sulukol'"
+    ],
+    "name:kaz_x_preferred":[
+        "Sulyk\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u04b1\u043b\u044b\u043a\u04e9\u043b",
+        "Sul\u016bk\u00f6l",
+        "\u0421\u04b1\u043b\u0443\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043b\u0443\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Sulukol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532187
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1525199cbcc43a9eaa8b3037f2f49603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1344126567,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1344126567,
+    "wof:lastmodified":1537659961,
+    "wof:name":"Sulukol'",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.81523,
+    53.52727,
+    67.81523,
+    53.52727
+],
+  "geometry": {"coordinates":[67.81523,53.52727],"type":"Point"}
+}

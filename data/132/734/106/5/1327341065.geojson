@@ -1,0 +1,86 @@
+{
+  "id": 1327341065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.08668,52.7848,70.08668,52.7848",
+    "geom:latitude":52.7848,
+    "geom:longitude":70.08668,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kurnekty",
+    "gn:country_code":"KZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522243,
+    "gn:latitude":52.7848,
+    "gn:longitude":70.08668,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Kurnekty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Korpekty"
+    ],
+    "name:kaz_x_preferred":[
+        "K\u00f6rnekti"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u04e9\u0440\u043d\u0435\u043a\u0442\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u0435\u043a\u0442\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u0440\u043d\u0435\u043a\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Korpekty",
+        "Kurnekty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522243
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2dd1b7cf85763ebc1661621f4f409ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785629,
+            "locality_id":1327341065,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327341065,
+    "wof:lastmodified":1537659749,
+    "wof:name":"Kurnekty",
+    "wof:parent_id":1108785629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.08668,
+    52.7848,
+    70.08668,
+    52.7848
+],
+  "geometry": {"coordinates":[70.08668,52.7848],"type":"Point"}
+}

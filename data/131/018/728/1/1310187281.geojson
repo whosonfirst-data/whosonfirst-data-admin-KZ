@@ -1,0 +1,76 @@
+{
+  "id": 1310187281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.71464,53.61747,67.71464,53.61747",
+    "geom:latitude":53.61747,
+    "geom:longitude":67.71464,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nezhdanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532176,
+    "gn:latitude":53.61747,
+    "gn:longitude":67.71464,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Nezhdanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nezhdanovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0435\u0436\u0434\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0436\u0434\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532176
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b275c3148bd49a9b9f5daed71ba0c139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1310187281,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310187281,
+    "wof:lastmodified":1537659960,
+    "wof:name":"Nezhdanovka",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.71464,
+    53.61747,
+    67.71464,
+    53.61747
+],
+  "geometry": {"coordinates":[67.71464,53.61747],"type":"Point"}
+}

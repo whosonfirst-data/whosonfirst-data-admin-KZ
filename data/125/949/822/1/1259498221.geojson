@@ -1,0 +1,67 @@
+{
+  "id": 1259498221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.3,50.91667,74.3,50.91667",
+    "geom:latitude":50.91667,
+    "geom:longitude":74.3,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Agyrek",
+    "gn:country_code":"KZ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526924,
+    "gn:latitude":50.91667,
+    "gn:longitude":74.3,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Agyrek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526924
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2b1f67467c2ee05b172ad2632338e6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1259498221,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259498221,
+    "wof:lastmodified":1536836499,
+    "wof:name":"Agyrek",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.3,
+    50.91667,
+    74.3,
+    50.91667
+],
+  "geometry": {"coordinates":[74.3,50.91667],"type":"Point"}
+}

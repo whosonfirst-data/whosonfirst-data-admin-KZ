@@ -1,0 +1,77 @@
+{
+  "id": 1259781221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.98333,47.73333,53.98333,47.73333",
+    "geom:latitude":47.73333,
+    "geom:longitude":53.98333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kenbay",
+    "gn:country_code":"KZ",
+    "gn:dem":-12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609445,
+    "gn:latitude":47.73333,
+    "gn:longitude":53.98333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kenbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kenbay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kimbay",
+        "Kenbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609445
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"785b13593c6e1c8896b17ad01f7800be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785453,
+            "locality_id":1259781221,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1259781221,
+    "wof:lastmodified":1537659412,
+    "wof:name":"Kenbay",
+    "wof:parent_id":1108785453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.98333,
+    47.73333,
+    53.98333,
+    47.73333
+],
+  "geometry": {"coordinates":[53.98333,47.73333],"type":"Point"}
+}

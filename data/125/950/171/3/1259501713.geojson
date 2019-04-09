@@ -1,0 +1,67 @@
+{
+  "id": 1259501713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.85,51.95,68.85,51.95",
+    "geom:latitude":51.95,
+    "geom:longitude":68.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Krasnosel'skiy",
+    "gn:country_code":"KZ",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522012,
+    "gn:latitude":51.95,
+    "gn:longitude":68.85,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Krasnosel\u2019skiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522012
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"36f0ab5e6e416cc3ceb1e541acbdb332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785387,
+            "locality_id":1259501713,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259501713,
+    "wof:lastmodified":1536831594,
+    "wof:name":"Krasnosel'skiy",
+    "wof:parent_id":1108785387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.85,
+    51.95,
+    68.85,
+    51.95
+],
+  "geometry": {"coordinates":[68.84999999999999,51.95],"type":"Point"}
+}

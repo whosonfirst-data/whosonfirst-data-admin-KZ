@@ -1,0 +1,79 @@
+{
+  "id": 1242563923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.14183,53.91657,61.14183,53.91657",
+    "geom:latitude":53.91657,
+    "geom:longitude":61.14183,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Zhambyl",
+    "gn:country_code":"KZ",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1541113,
+    "gn:latitude":53.91657,
+    "gn:longitude":61.14183,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Zhambyl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhambyl"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0430\u043c\u0431\u044b\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0431\u0443\u043b"
+    ],
+    "name:und_x_variant":[
+        "Dzhambul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1541113
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"588d828ef1927000f57916fa3afa5433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785333,
+            "locality_id":1242563923,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1242563923,
+    "wof:lastmodified":1537660034,
+    "wof:name":"Zhambyl",
+    "wof:parent_id":1108785333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.14183000000001,
+    53.91656999999999,
+    61.14183000000001,
+    53.91656999999999
+],
+  "geometry": {"coordinates":[61.14183000000001,53.91656999999999],"type":"Point"}
+}

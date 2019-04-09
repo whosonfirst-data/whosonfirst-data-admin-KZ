@@ -1,0 +1,76 @@
+{
+  "id": 1226563493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.95381,49.45211,52.95381,49.45211",
+    "geom:latitude":49.45211,
+    "geom:longitude":52.95381,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Batpakkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607825,
+    "gn:latitude":49.45211,
+    "gn:longitude":52.95381,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Batpakkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Batpaqk\u00f6l"
+    ],
+    "name:rus_x_preferred":[
+        "Batpakkol\u2019"
+    ],
+    "name:und_x_variant":[
+        "Ushana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607825
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1e69e65c3ea8ab09c3fc4bcab354b1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785493,
+            "locality_id":1226563493,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226563493,
+    "wof:lastmodified":1537659352,
+    "wof:name":"Batpakkol'",
+    "wof:parent_id":1108785493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.95381,
+    49.45211,
+    52.95381,
+    49.45211
+],
+  "geometry": {"coordinates":[52.95381,49.45211],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1309913257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.21086,52.5946,71.21086,52.5946",
+    "geom:latitude":52.5946,
+    "geom:longitude":71.21086,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mamay",
+    "gn:country_code":"KZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537941,
+    "gn:latitude":52.5946,
+    "gn:longitude":71.21086,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Mamay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mamay"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043c\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043c\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537941
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9216092112ac31ed08d92be89b26bcd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1309913257,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1309913257,
+    "wof:lastmodified":1537660019,
+    "wof:name":"Mamay",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.21086,
+    52.5946,
+    71.21086,
+    52.5946
+],
+  "geometry": {"coordinates":[71.21086,52.5946],"type":"Point"}
+}

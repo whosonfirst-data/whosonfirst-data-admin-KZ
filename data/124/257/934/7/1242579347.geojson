@@ -1,0 +1,70 @@
+{
+  "id": 1242579347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.1,51.33958,71.1,51.33958",
+    "geom:latitude":51.33958,
+    "geom:longitude":71.1,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Farforovyy",
+    "gn:country_code":"KZ",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1539205,
+    "gn:latitude":51.33958,
+    "gn:longitude":71.1,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Farforovyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Farforovyy Zavod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1539205
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2aab4f0bd47000d47827828e6d61502e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785625,
+            "locality_id":1242579347,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1242579347,
+    "wof:lastmodified":1537660025,
+    "wof:name":"Farforovyy",
+    "wof:parent_id":1108785625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.1,
+    51.33958,
+    71.1,
+    51.33958
+],
+  "geometry": {"coordinates":[71.09999999999999,51.33958],"type":"Point"}
+}

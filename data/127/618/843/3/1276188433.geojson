@@ -1,0 +1,72 @@
+{
+  "id": 1276188433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.51,44.74222,71.51,44.74222",
+    "geom:latitude":44.74222,
+    "geom:longitude":71.51,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kishi Qamqaly",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537855,
+    "gn:latitude":44.74222,
+    "gn:longitude":71.51,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kishi Qamqaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malyye Kamkaly",
+        "Kishi Qamqaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537855
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0d2ef85b34eae0b0de0ef50904cbabab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785485,
+            "locality_id":1276188433,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1276188433,
+    "wof:lastmodified":1537660018,
+    "wof:name":"Kishi Qamqaly",
+    "wof:parent_id":1108785485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.51,
+    44.74222,
+    71.51,
+    44.74222
+],
+  "geometry": {"coordinates":[71.51000000000001,44.74222],"type":"Point"}
+}

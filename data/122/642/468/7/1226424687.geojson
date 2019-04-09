@@ -1,0 +1,70 @@
+{
+  "id": 1226424687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.55827,54.27515,67.55827,54.27515",
+    "geom:latitude":54.27515,
+    "geom:longitude":67.55827,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Talaspay",
+    "gn:country_code":"KZ",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530915,
+    "gn:latitude":54.27515,
+    "gn:longitude":67.55827,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Talaspay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0430\u0441\u043f\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530915
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"da5b94b862e690456cda24214f28debe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1226424687,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226424687,
+    "wof:lastmodified":1537659947,
+    "wof:name":"Talaspay",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.55827,
+    54.27515,
+    67.55827,
+    54.27515
+],
+  "geometry": {"coordinates":[67.55826999999999,54.27515],"type":"Point"}
+}

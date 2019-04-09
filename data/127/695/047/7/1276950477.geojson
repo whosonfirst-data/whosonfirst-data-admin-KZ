@@ -1,0 +1,85 @@
+{
+  "id": 1276950477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.70456,52.50944,66.70456,52.50944",
+    "geom:latitude":52.50944,
+    "geom:longitude":66.70456,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zharkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516739,
+    "gn:latitude":52.50944,
+    "gn:longitude":66.70456,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Zharkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zharkol'"
+    ],
+    "name:kaz_x_preferred":[
+        "Zhark\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u0440\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0440\u043a\u043e\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "Zharkol\u2019"
+    ],
+    "name:und_x_variant":[
+        "Zharkul\u2019skiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516739
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c799fdba9b7ff6c884a3fcdbcfd02f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1276950477,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276950477,
+    "wof:lastmodified":1537659482,
+    "wof:name":"Zharkol'",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.70456,
+    52.50944000000001,
+    66.70456,
+    52.50944000000001
+],
+  "geometry": {"coordinates":[66.70456,52.50944000000001],"type":"Point"}
+}

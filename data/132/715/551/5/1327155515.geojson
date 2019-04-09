@@ -1,0 +1,78 @@
+{
+  "id": 1327155515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.8029,49.91512,52.8029,49.91512",
+    "geom:latitude":49.91512,
+    "geom:longitude":52.8029,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Akoba",
+    "gn:country_code":"KZ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":828412,
+    "gn:latitude":49.91512,
+    "gn:longitude":52.8029,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Akoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akoba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043e\u0431\u0430"
+    ],
+    "name:und_x_variant":[
+        "Shigankol\u2019",
+        "Shygankol\u2019",
+        "Akoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":828412
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8d12e93e6d81aa3b3b23b88f8a0f707d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785495,
+            "locality_id":1327155515,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1327155515,
+    "wof:lastmodified":1537659456,
+    "wof:name":"Akoba",
+    "wof:parent_id":1108785495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.8029,
+    49.91512,
+    52.8029,
+    49.91512
+],
+  "geometry": {"coordinates":[52.8029,49.91512],"type":"Point"}
+}

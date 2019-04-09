@@ -1,0 +1,88 @@
+{
+  "id": 1259769631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.65067,52.13719,65.65067,52.13719",
+    "geom:latitude":52.13719,
+    "geom:longitude":65.65067,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Shalghysh",
+    "gn:country_code":"KZ",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537906,
+    "gn:latitude":52.13719,
+    "gn:longitude":65.65067,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Shalghysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chelgashi"
+    ],
+    "name:kaz_x_preferred":[
+        "Sholaqasha"
+    ],
+    "name:kaz_x_variant":[
+        "Shalghysh",
+        "\u0428\u0430\u043b\u0493\u044b\u0448",
+        "\u0428\u043e\u043b\u0430\u049b\u0430\u0448\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043b\u0433\u0430\u0448\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0435\u043b\u0433\u0430\u0449\u0438"
+    ],
+    "name:und_x_variant":[
+        "Chelgashi",
+        "Chelgashchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537906
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"39743b834ac2e47349bd85b0677e34c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1259769631,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1259769631,
+    "wof:lastmodified":1537660018,
+    "wof:name":"Shalghysh",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.65066999999999,
+    52.13719,
+    65.65066999999999,
+    52.13719
+],
+  "geometry": {"coordinates":[65.65066999999999,52.13719],"type":"Point"}
+}

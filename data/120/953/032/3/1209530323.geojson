@@ -1,0 +1,61 @@
+{
+  "id": 1209530323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.16667,49.8,50.16667,49.8",
+    "geom:latitude":49.8,
+    "geom:longitude":50.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lashka-Masyanov",
+    "gn:country_code":"KZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608959,
+    "gn:latitude":49.8,
+    "gn:longitude":50.16667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Lashka-Masyanov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608959
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5fc2a40f2dc8a66fbac276e540097b82",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209530323
+        }
+    ],
+    "wof:id":1209530323,
+    "wof:lastmodified":1536284301,
+    "wof:name":"Lashka-Masyanov",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.16667,
+    49.8,
+    50.16667,
+    49.8
+],
+  "geometry": {"coordinates":[50.16667,49.8],"type":"Point"}
+}

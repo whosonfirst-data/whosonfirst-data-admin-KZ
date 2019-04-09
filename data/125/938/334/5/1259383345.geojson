@@ -1,0 +1,78 @@
+{
+  "id": 1259383345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.26667,50.8,58.26667,50.8",
+    "geom:latitude":50.8,
+    "geom:longitude":58.26667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Preobrazhenskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608578,
+    "gn:latitude":50.8,
+    "gn:longitude":58.26667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Preobrazhenskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Preobrazhenskiy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Preobrazhensk",
+        "Preobrazhenskaya",
+        "Preobrazhenskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608578
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b9d05add3bffa0dbf8c257c057848f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785697,
+            "locality_id":1259383345,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1259383345,
+    "wof:lastmodified":1537659378,
+    "wof:name":"Preobrazhenskiy",
+    "wof:parent_id":1108785697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.26667,
+    50.8,
+    58.26667,
+    50.8
+],
+  "geometry": {"coordinates":[58.26667,50.8],"type":"Point"}
+}

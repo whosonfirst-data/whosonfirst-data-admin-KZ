@@ -1,0 +1,76 @@
+{
+  "id": 1309886933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.5769,50.7727,76.5769,50.7727",
+    "geom:latitude":50.7727,
+    "geom:longitude":76.5769,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Akshaman",
+    "gn:country_code":"KZ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11414800,
+    "gn:latitude":50.7727,
+    "gn:longitude":76.5769,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Akshaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqsh\u012bman"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0448\u0438\u043c\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0448\u0430\u043c\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11414800
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"15b5cf91f4827f3d6797a913d504b1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1309886933,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1309886933,
+    "wof:lastmodified":1537660142,
+    "wof:name":"Akshaman",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.5769,
+    50.7727,
+    76.5769,
+    50.7727
+],
+  "geometry": {"coordinates":[76.57689999999999,50.7727],"type":"Point"}
+}

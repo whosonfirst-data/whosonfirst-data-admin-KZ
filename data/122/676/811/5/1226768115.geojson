@@ -1,0 +1,70 @@
+{
+  "id": 1226768115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.67046,42.11835,69.67046,42.11835",
+    "geom:latitude":42.11835,
+    "geom:longitude":69.67046,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhararyk",
+    "gn:country_code":"KZ",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11120507,
+    "gn:latitude":42.11835,
+    "gn:longitude":69.67046,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Zhararyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0440\u0430\u0440\u044b\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11120507
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5d664ca456c17f7f44f3d26be7018526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785369,
+            "locality_id":1226768115,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226768115,
+    "wof:lastmodified":1537660115,
+    "wof:name":"Zhararyk",
+    "wof:parent_id":1108785369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.67045999999999,
+    42.11835,
+    69.67045999999999,
+    42.11835
+],
+  "geometry": {"coordinates":[69.67045999999999,42.11835],"type":"Point"}
+}

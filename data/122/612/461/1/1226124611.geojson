@@ -1,0 +1,83 @@
+{
+  "id": 1226124611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.08083,53.53764,67.08083,53.53764",
+    "geom:latitude":53.53764,
+    "geom:longitude":67.08083,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Oktyabr'skoye",
+    "gn:country_code":"KZ",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520430,
+    "gn:latitude":53.53764,
+    "gn:longitude":67.08083,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Oktyabr\u2019skoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Oktyabr\u2019skoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "Oktyabr\u2019skoye"
+    ],
+    "name:rus_x_variant":[
+        "Sovkhoz Oktyabr\u2019skiy",
+        "Oktyabr\u2019skiy"
+    ],
+    "name:und_x_variant":[
+        "Oktyabr\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520430
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f9914a1433c3d83472e7eb3c0fec250b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1226124611,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226124611,
+    "wof:lastmodified":1537659656,
+    "wof:name":"Oktyabr'skoye",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.08083,
+    53.53764,
+    67.08083,
+    53.53764
+],
+  "geometry": {"coordinates":[67.08083000000001,53.53764],"type":"Point"}
+}

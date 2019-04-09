@@ -1,0 +1,79 @@
+{
+  "id": 1242750453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.40591,54.14576,68.40591,54.14576",
+    "geom:latitude":54.14576,
+    "geom:longitude":68.40591,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dvinsk",
+    "gn:country_code":"KZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531007,
+    "gn:latitude":54.14576,
+    "gn:longitude":68.40591,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Dvinsk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dvinsk"
+    ],
+    "name:kaz_x_preferred":[
+        "Dv\u012bnsk"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u0432\u0438\u043d\u0441\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0432\u0438\u043d\u0441\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531007
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7b602f18f92ece5f7fd4e588f4135078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785563,
+            "locality_id":1242750453,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1242750453,
+    "wof:lastmodified":1537659951,
+    "wof:name":"Dvinsk",
+    "wof:parent_id":1108785563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.40590999999999,
+    54.14576,
+    68.40590999999999,
+    54.14576
+],
+  "geometry": {"coordinates":[68.40590999999999,54.14576],"type":"Point"}
+}

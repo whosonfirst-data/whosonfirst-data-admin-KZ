@@ -1,0 +1,67 @@
+{
+  "id": 1327343707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.53333,50.33333,65.53333,50.33333",
+    "geom:latitude":50.33333,
+    "geom:longitude":65.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aksuat",
+    "gn:country_code":"KZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526645,
+    "gn:latitude":50.33333,
+    "gn:longitude":65.53333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Aksuat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526645
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ce31f1264dbfac5ad75b6ff00c0a59f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1327343707,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1327343707,
+    "wof:lastmodified":1536808443,
+    "wof:name":"Aksuat",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.53333,
+    50.33333,
+    65.53333,
+    50.33333
+],
+  "geometry": {"coordinates":[65.53333000000001,50.33333],"type":"Point"}
+}

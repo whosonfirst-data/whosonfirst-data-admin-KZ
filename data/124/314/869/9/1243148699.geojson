@@ -1,0 +1,73 @@
+{
+  "id": 1243148699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.55579,53.31472,62.55579,53.31472",
+    "geom:latitude":53.31472,
+    "geom:longitude":62.55579,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sarzhau",
+    "gn:country_code":"KZ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11417049,
+    "gn:latitude":53.31472,
+    "gn:longitude":62.55579,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Sarzha\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sarzha\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0430\u0440\u0436\u0430\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11417049
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c3dec8a1063cfed7da216fc4572ab569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1243148699,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1243148699,
+    "wof:lastmodified":1537660146,
+    "wof:name":"Sarzhau",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.55579,
+    53.31472,
+    62.55579,
+    53.31472
+],
+  "geometry": {"coordinates":[62.55579,53.31472],"type":"Point"}
+}

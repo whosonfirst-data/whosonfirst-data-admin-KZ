@@ -1,0 +1,70 @@
+{
+  "id": 1242696013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.06667,51.85,79.06667,51.85",
+    "geom:latitude":51.85,
+    "geom:longitude":79.06667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Put' k Sotsializmu",
+    "gn:country_code":"KZ",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519958,
+    "gn:latitude":51.85,
+    "gn:longitude":79.06667,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Put\u2019 k Sotsializmu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Put\u2019 k Sotsializmu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519958
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d46e4af5f2f0b9011cd8cefb4372bd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785559,
+            "locality_id":1242696013,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1242696013,
+    "wof:lastmodified":1537659626,
+    "wof:name":"Put' k Sotsializmu",
+    "wof:parent_id":1108785559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.06667,
+    51.85,
+    79.06667,
+    51.85
+],
+  "geometry": {"coordinates":[79.06667,51.85],"type":"Point"}
+}

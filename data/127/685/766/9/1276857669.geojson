@@ -1,0 +1,70 @@
+{
+  "id": 1276857669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.20268,53.01735,61.20268,53.01735",
+    "geom:latitude":53.01735,
+    "geom:longitude":61.20268,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Prirechnyy",
+    "gn:country_code":"KZ",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1541066,
+    "gn:latitude":53.01735,
+    "gn:longitude":61.20268,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Prirechnyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0440\u0435\u0447\u043d\u044b\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1541066
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9f8ae3511ba5298f7bb464b93312da1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785661,
+            "locality_id":1276857669,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1276857669,
+    "wof:lastmodified":1537660033,
+    "wof:name":"Prirechnyy",
+    "wof:parent_id":1108785661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.20268000000001,
+    53.01735,
+    61.20268000000001,
+    53.01735
+],
+  "geometry": {"coordinates":[61.20268000000001,53.01735],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1243073951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.11957,49.95533,60.11957,49.95533",
+    "geom:latitude":49.95533,
+    "geom:longitude":60.11957,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Qarabutaq",
+    "gn:country_code":"KZ",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519943,
+    "gn:latitude":49.95533,
+    "gn:longitude":60.11957,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Qarabutaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qarabutaq"
+    ],
+    "name:kaz_x_preferred":[
+        "Qarabutaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0431\u04b1\u0442\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0443\u0442\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Karabutak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519943
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3b1fc6a9bba7eae8ba7c52478105a441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1243073951,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1243073951,
+    "wof:lastmodified":1537659625,
+    "wof:name":"Qarabutaq",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.11957,
+    49.95533,
+    60.11957,
+    49.95533
+],
+  "geometry": {"coordinates":[60.11957,49.95533],"type":"Point"}
+}

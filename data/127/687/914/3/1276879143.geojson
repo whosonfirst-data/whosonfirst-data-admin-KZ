@@ -1,0 +1,67 @@
+{
+  "id": 1276879143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.33294,48.94267,54.33294,48.94267",
+    "geom:latitude":48.94267,
+    "geom:longitude":54.33294,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kumaksay",
+    "gn:country_code":"KZ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609115,
+    "gn:latitude":48.94267,
+    "gn:longitude":54.33294,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kumaksay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609115
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"36702879e757eaa3cc2fcd567fb19777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785401,
+            "locality_id":1276879143,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1276879143,
+    "wof:lastmodified":1537040352,
+    "wof:name":"Kumaksay",
+    "wof:parent_id":1108785401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.33294,
+    48.94267,
+    54.33294,
+    48.94267
+],
+  "geometry": {"coordinates":[54.33294,48.94267],"type":"Point"}
+}

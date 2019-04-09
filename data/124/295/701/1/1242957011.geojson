@@ -1,0 +1,67 @@
+{
+  "id": 1242957011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.73333,41.51667,68.73333,41.51667",
+    "geom:latitude":41.51667,
+    "geom:longitude":68.73333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Saryk-Pin",
+    "gn:country_code":"KZ",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519605,
+    "gn:latitude":41.51667,
+    "gn:longitude":68.73333,
+    "gn:modification_date":"1998-05-21",
+    "gn:name":"Saryk-Pin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519605
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a9d6564dfdcd2fc5f4db0086eb64cbfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1242957011,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1242957011,
+    "wof:lastmodified":1537013546,
+    "wof:name":"Saryk-Pin",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.73333000000001,
+    41.51667,
+    68.73333000000001,
+    41.51667
+],
+  "geometry": {"coordinates":[68.73333000000001,41.51667],"type":"Point"}
+}

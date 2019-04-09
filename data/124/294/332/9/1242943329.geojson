@@ -1,0 +1,80 @@
+{
+  "id": 1242943329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.0803,49.8942,84.0803,49.8942",
+    "geom:latitude":49.8942,
+    "geom:longitude":84.0803,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kutikha",
+    "gn:country_code":"KZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521657,
+    "gn:latitude":49.8942,
+    "gn:longitude":84.0803,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kutikha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K\u016bt\u012bkha"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0443\u0442\u0438\u0445\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0442\u0438\u0445\u0430"
+    ],
+    "name:und_x_variant":[
+        "K\u016bt\u012bkha",
+        "Kutikha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521657
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"df082829aba431dfe98b78d06cb3f268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1242943329,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1242943329,
+    "wof:lastmodified":1537659725,
+    "wof:name":"Kutikha",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.0803,
+    49.8942,
+    84.0803,
+    49.8942
+],
+  "geometry": {"coordinates":[84.08029999999999,49.8942],"type":"Point"}
+}

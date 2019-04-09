@@ -1,0 +1,81 @@
+{
+  "id": 1226456729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.00417,43.38083,77.00417,43.38083",
+    "geom:latitude":43.38083,
+    "geom:longitude":77.00417,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Al'merek",
+    "gn:country_code":"KZ",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":1539935,
+    "gn:latitude":43.38083,
+    "gn:longitude":77.00417,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Al\u2019merek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Brigada Nomer Dvenadtsat\u2019 Kolkhoza Luch Vostoka"
+    ],
+    "name:rus_x_variant":[
+        "Al\u2019merek",
+        "\u0410\u043b\u044c\u043c\u0435\u0440\u0435\u043a",
+        "\u0411\u0440\u0438\u0433\u0430\u0434\u0430 \u041d\u043e\u043c\u0435\u0440 \u0414\u0432\u0435\u043d\u0430\u0434\u0446\u0430\u0442\u044c \u041a\u043e\u043b\u0445\u043e\u0437\u0430 \u041b\u0443\u0447 \u0412\u043e\u0441\u0442\u043e\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Brigada Dvenadtsataya Luch Vostoka",
+        "Gagarina",
+        "Gagarino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672937,
+        1108785435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1539935,
+        "wk:page":"Gagarino"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c0a817a3b4c40ee10cee94f6d39bad2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785435,
+            "locality_id":1226456729,
+            "region_id":85672937
+        }
+    ],
+    "wof:id":1226456729,
+    "wof:lastmodified":1537660028,
+    "wof:name":"Al'merek",
+    "wof:parent_id":1108785435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.00417,
+    43.38083,
+    77.00417,
+    43.38083
+],
+  "geometry": {"coordinates":[77.00417,43.38083],"type":"Point"}
+}

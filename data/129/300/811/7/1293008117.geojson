@@ -1,0 +1,75 @@
+{
+  "id": 1293008117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.67085,51.9606,72.67085,51.9606",
+    "geom:latitude":51.9606,
+    "geom:longitude":72.67085,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baysary",
+    "gn:country_code":"KZ",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525596,
+    "gn:latitude":51.9606,
+    "gn:longitude":72.67085,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Baysary",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0439\u0441\u0430\u0440\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ozero Baysary",
+        "Baysora",
+        "Baysary"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525596
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6ceb4f7772008d2a3440f1749406740a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1293008117,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293008117,
+    "wof:lastmodified":1537659883,
+    "wof:name":"Baysary",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.67085,
+    51.9606,
+    72.67085,
+    51.9606
+],
+  "geometry": {"coordinates":[72.67085,51.9606],"type":"Point"}
+}

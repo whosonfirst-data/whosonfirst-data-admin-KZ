@@ -1,0 +1,67 @@
+{
+  "id": 1225828591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.05444,44.69417,66.05444,44.69417",
+    "geom:latitude":44.69417,
+    "geom:longitude":66.05444,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kabylbau",
+    "gn:country_code":"KZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523668,
+    "gn:latitude":44.69417,
+    "gn:longitude":66.05444,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kabylbau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523668
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a0a1160a268167481db902cbc3a1cbbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785675,
+            "locality_id":1225828591,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1225828591,
+    "wof:lastmodified":1537036842,
+    "wof:name":"Kabylbau",
+    "wof:parent_id":1108785675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.05444,
+    44.69417,
+    66.05444,
+    44.69417
+],
+  "geometry": {"coordinates":[66.05444,44.69417],"type":"Point"}
+}

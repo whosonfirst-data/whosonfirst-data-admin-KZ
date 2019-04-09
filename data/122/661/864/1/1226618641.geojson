@@ -1,0 +1,79 @@
+{
+  "id": 1226618641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.31587,52.88067,67.31587,52.88067",
+    "geom:latitude":52.88067,
+    "geom:longitude":67.31587,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sarybulak",
+    "gn:country_code":"KZ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519647,
+    "gn:latitude":52.88067,
+    "gn:longitude":67.31587,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Sarybulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sarybulak"
+    ],
+    "name:kaz_x_preferred":[
+        "Sarybulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0430\u0440\u044b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519647
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"085eeb1e3df7b0700261e7c47eba7b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1226618641,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226618641,
+    "wof:lastmodified":1537659611,
+    "wof:name":"Sarybulak",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.31586999999999,
+    52.88067,
+    67.31586999999999,
+    52.88067
+],
+  "geometry": {"coordinates":[67.31586999999999,52.88067],"type":"Point"}
+}

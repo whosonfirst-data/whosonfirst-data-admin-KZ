@@ -1,0 +1,87 @@
+{
+  "id": 1276839555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.7526,52.43089,66.7526,52.43089",
+    "geom:latitude":52.43089,
+    "geom:longitude":66.7526,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zhdanovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516648,
+    "gn:latitude":52.43089,
+    "gn:longitude":66.7526,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Zhdanovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sh\u00f6ptik\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u04e9\u043f\u0442\u0456\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Shoptikol\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u043e\u043f\u0442\u0438\u043a\u043e\u043b\u044c",
+        "Sheptykul\u2019skiy",
+        "Sheptykol\u2019skiy",
+        "\u0416\u0434\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Imeni Zhdanova",
+        "Zhdanovskiy",
+        "Zhdanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516648
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e7cc88dd24cbca6434c27633b245d002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1276839555,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276839555,
+    "wof:lastmodified":1537659479,
+    "wof:name":"Zhdanovskiy",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.7526,
+    52.43089000000001,
+    66.7526,
+    52.43089000000001
+],
+  "geometry": {"coordinates":[66.7526,52.43089000000001],"type":"Point"}
+}

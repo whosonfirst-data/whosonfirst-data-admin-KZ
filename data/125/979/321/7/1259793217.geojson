@@ -1,0 +1,79 @@
+{
+  "id": 1259793217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.20702,43.12295,79.20702,43.12295",
+    "geom:latitude":43.12295,
+    "geom:longitude":79.20702,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Temirlik",
+    "gn:country_code":"KZ",
+    "gn:dem":1879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507895,
+    "gn:latitude":43.12295,
+    "gn:longitude":79.20702,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Temirlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Temirlik"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0435\u043c\u0456\u0440\u043b\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043d\u0438\u0439 \u0422\u0435\u043c\u0435\u0440\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Verkhniy Temerlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507895
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dbaf49cda67903457e41df2d446959bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1259793217,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1259793217,
+    "wof:lastmodified":1537660174,
+    "wof:name":"Temirlik",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.20702,
+    43.12295,
+    79.20702,
+    43.12295
+],
+  "geometry": {"coordinates":[79.20702,43.12295],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293791293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.71158,53.29517,69.71158,53.29517",
+    "geom:latitude":53.29517,
+    "geom:longitude":69.71158,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kazakhstan",
+    "gn:country_code":"KZ",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535635,
+    "gn:latitude":53.29517,
+    "gn:longitude":69.71158,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Kazakhstan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kazakhstan"
+    ],
+    "name:kaz_x_preferred":[
+        "Qazaqstan"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535635
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"55cbb1281660c70345765ec782ccc3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1293791293,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293791293,
+    "wof:lastmodified":1537659998,
+    "wof:name":"Kazakhstan",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.71158,
+    53.29517,
+    69.71158,
+    53.29517
+],
+  "geometry": {"coordinates":[69.71158,53.29517],"type":"Point"}
+}

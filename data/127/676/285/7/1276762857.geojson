@@ -1,0 +1,67 @@
+{
+  "id": 1276762857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.66667,50.36667,59.66667,50.36667",
+    "geom:latitude":50.36667,
+    "geom:longitude":59.66667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kuduksay",
+    "gn:country_code":"KZ",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609144,
+    "gn:latitude":50.36667,
+    "gn:longitude":59.66667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kuduksay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609144
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"55a686e96c34345da859dac59769360a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785523,
+            "locality_id":1276762857,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1276762857,
+    "wof:lastmodified":1536700580,
+    "wof:name":"Kuduksay",
+    "wof:parent_id":1108785523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.66667,
+    50.36667,
+    59.66667,
+    50.36667
+],
+  "geometry": {"coordinates":[59.66667,50.36667],"type":"Point"}
+}

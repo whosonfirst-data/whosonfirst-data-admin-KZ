@@ -1,0 +1,76 @@
+{
+  "id": 1226633273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.73104,48.14269,76.73104,48.14269",
+    "geom:latitude":48.14269,
+    "geom:longitude":76.73104,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Shubartau",
+    "gn:country_code":"KZ",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11494112,
+    "gn:latitude":48.14269,
+    "gn:longitude":76.73104,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Shubartau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shubarta\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u04b1\u0431\u0430\u0440\u0442\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0431\u0430\u0440\u0442\u0430\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11494112
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dd52c7e90feb08cd1015a2481a9378d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1226633273,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226633273,
+    "wof:lastmodified":1537660167,
+    "wof:name":"Shubartau",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.73104000000002,
+    48.14269,
+    76.73104000000002,
+    48.14269
+],
+  "geometry": {"coordinates":[76.73104000000002,48.14269],"type":"Point"}
+}

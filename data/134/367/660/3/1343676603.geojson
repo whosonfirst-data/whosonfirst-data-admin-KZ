@@ -1,0 +1,67 @@
+{
+  "id": 1343676603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.83333,50.33333,50.83333,50.33333",
+    "geom:latitude":50.33333,
+    "geom:longitude":50.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ivanov",
+    "gn:country_code":"KZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609760,
+    "gn:latitude":50.33333,
+    "gn:longitude":50.83333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Ivanov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609760
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"07a69cee8cdb760fe041f2f7ec43db02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1343676603,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1343676603,
+    "wof:lastmodified":1536932450,
+    "wof:name":"Ivanov",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.83333,
+    50.33333,
+    50.83333,
+    50.33333
+],
+  "geometry": {"coordinates":[50.83333,50.33333],"type":"Point"}
+}

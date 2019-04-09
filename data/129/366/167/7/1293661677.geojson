@@ -1,0 +1,70 @@
+{
+  "id": 1293661677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.3518,53.81438,66.3518,53.81438",
+    "geom:latitude":53.81438,
+    "geom:longitude":66.3518,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mokhovoye",
+    "gn:country_code":"KZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532111,
+    "gn:latitude":53.81438,
+    "gn:longitude":66.3518,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Mokhovoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0445\u043e\u0432\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532111
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ac020f297bb7b10222ae0c049c4b913c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785689,
+            "locality_id":1293661677,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293661677,
+    "wof:lastmodified":1537659957,
+    "wof:name":"Mokhovoye",
+    "wof:parent_id":1108785689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.3518,
+    53.81438000000001,
+    66.3518,
+    53.81438000000001
+],
+  "geometry": {"coordinates":[66.3518,53.81438000000001],"type":"Point"}
+}

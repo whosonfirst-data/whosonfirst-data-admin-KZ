@@ -1,0 +1,80 @@
+{
+  "id": 1293472747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.32281,49.81794,84.32281,49.81794",
+    "geom:latitude":49.81794,
+    "geom:longitude":84.32281,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lesnaya Pristin'",
+    "gn:country_code":"KZ",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521328,
+    "gn:latitude":49.81794,
+    "gn:longitude":84.32281,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Lesnaya Pristin\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lesnaya Pristan'"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0441\u043d\u0430\u044f-\u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "Lesnaya Pristin\u2019",
+        "\u041b\u0435\u0441\u043d\u0430\u044f \u041f\u0440\u0438\u0441\u0442\u0438\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Lesnaya Pristan\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521328
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9a0b44961b779977fc8182c394d267ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1293472747,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293472747,
+    "wof:lastmodified":1537659709,
+    "wof:name":"Lesnaya Pristin'",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.32281,
+    49.81794,
+    84.32281,
+    49.81794
+],
+  "geometry": {"coordinates":[84.32281,49.81794],"type":"Point"}
+}

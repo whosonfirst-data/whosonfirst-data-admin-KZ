@@ -1,0 +1,80 @@
+{
+  "id": 1259361323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.66529,51.35224,77.66529,51.35224",
+    "geom:latitude":51.35224,
+    "geom:longitude":77.66529,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kyzyloktyabr'",
+    "gn:country_code":"KZ",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521498,
+    "gn:latitude":51.35224,
+    "gn:longitude":77.66529,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kyzyloktyabr\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyzyl-Oktyabr\u2019"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b-\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u043e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:und_x_variant":[
+        "Kyzyloktyabr\u2019",
+        "Qyzyl Oktyabr\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521498
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3c8f02a9d749ca065d0d2b6e740392d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1259361323,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259361323,
+    "wof:lastmodified":1537659719,
+    "wof:name":"Kyzyloktyabr'",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.66529,
+    51.35224,
+    77.66529,
+    51.35224
+],
+  "geometry": {"coordinates":[77.66529,51.35224],"type":"Point"}
+}

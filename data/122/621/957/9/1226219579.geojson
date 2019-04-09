@@ -1,0 +1,67 @@
+{
+  "id": 1226219579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.01667,49.83333,73.01667,49.83333",
+    "geom:latitude":49.83333,
+    "geom:longitude":73.01667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zapadnyy",
+    "gn:country_code":"KZ",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517097,
+    "gn:latitude":49.83333,
+    "gn:longitude":73.01667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Zapadnyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517097
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f0e951b34b2f277d03c38a22695e1394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1226219579,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226219579,
+    "wof:lastmodified":1536971053,
+    "wof:name":"Zapadnyy",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.01666999999998,
+    49.83333,
+    73.01666999999998,
+    49.83333
+],
+  "geometry": {"coordinates":[73.01666999999998,49.83333],"type":"Point"}
+}

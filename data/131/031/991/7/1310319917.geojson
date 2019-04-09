@@ -1,0 +1,71 @@
+{
+  "id": 1310319917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.17362,50.9475,71.17362,50.9475",
+    "geom:latitude":50.9475,
+    "geom:longitude":71.17362,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Shenet",
+    "gn:country_code":"KZ",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519221,
+    "gn:latitude":50.9475,
+    "gn:longitude":71.17362,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Shenet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shinet",
+        "Shenet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519221
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"67b682b0121c9418821d03d264df76e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785625,
+            "locality_id":1310319917,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310319917,
+    "wof:lastmodified":1537659597,
+    "wof:name":"Shenet",
+    "wof:parent_id":1108785625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.17362,
+    50.9475,
+    71.17362,
+    50.9475
+],
+  "geometry": {"coordinates":[71.17362,50.9475],"type":"Point"}
+}

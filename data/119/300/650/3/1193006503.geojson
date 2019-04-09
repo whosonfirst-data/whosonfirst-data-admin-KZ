@@ -1,0 +1,73 @@
+{
+  "id": 1193006503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.62251,52.18265,76.62251,52.18265",
+    "geom:latitude":52.18265,
+    "geom:longitude":76.62251,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sputnik",
+    "gn:country_code":"KZ",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8530632,
+    "gn:latitude":52.18265,
+    "gn:longitude":76.62251,
+    "gn:modification_date":"2015-10-06",
+    "gn:name":"Sputnik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sp\u016btn\u012bk"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u043f\u0443\u0442\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8530632
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3d066e152e165d456b36a8974ba6ded6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785551,
+            "locality_id":1193006503,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1193006503,
+    "wof:lastmodified":1537660044,
+    "wof:name":"Sputnik",
+    "wof:parent_id":1108785551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.62250999999998,
+    52.18265,
+    76.62250999999998,
+    52.18265
+],
+  "geometry": {"coordinates":[76.62250999999998,52.18265],"type":"Point"}
+}

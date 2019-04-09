@@ -1,0 +1,76 @@
+{
+  "id": 1243155899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.48267,43.49946,68.48267,43.49946",
+    "geom:latitude":43.49946,
+    "geom:longitude":68.48267,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Burgen",
+    "gn:country_code":"KZ",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8062192,
+    "gn:latitude":43.49946,
+    "gn:longitude":68.48267,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Burgen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "B\u00fcrgem"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u04af\u0440\u0433\u0435\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u0433\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8062192
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"525c6be924d11596df05d719c5f17e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1243155899,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243155899,
+    "wof:lastmodified":1537660036,
+    "wof:name":"Burgen",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.48267,
+    43.49946,
+    68.48267,
+    43.49946
+],
+  "geometry": {"coordinates":[68.48267,43.49946],"type":"Point"}
+}

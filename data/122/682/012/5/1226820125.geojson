@@ -1,0 +1,67 @@
+{
+  "id": 1226820125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.26667,46.63333,62.26667,46.63333",
+    "geom:latitude":46.63333,
+    "geom:longitude":62.26667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sorbulak",
+    "gn:country_code":"KZ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518880,
+    "gn:latitude":46.63333,
+    "gn:longitude":62.26667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sorbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518880
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"61c1468cd826b8026e3350a9c20eaf19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785633,
+            "locality_id":1226820125,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1226820125,
+    "wof:lastmodified":1536605532,
+    "wof:name":"Sorbulak",
+    "wof:parent_id":1108785633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.26667,
+    46.63333,
+    62.26667,
+    46.63333
+],
+  "geometry": {"coordinates":[62.26667,46.63333],"type":"Point"}
+}

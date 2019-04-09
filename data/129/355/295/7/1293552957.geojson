@@ -1,0 +1,85 @@
+{
+  "id": 1293552957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.72182,43.12553,70.72182,43.12553",
+    "geom:latitude":43.12553,
+    "geom:longitude":70.72182,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Zhangaotkel",
+    "gn:country_code":"KZ",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516807,
+    "gn:latitude":43.12553,
+    "gn:longitude":70.72182,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Zhanga\u00f6tkel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhanga\u00f6tkel"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430\u04e9\u0442\u043a\u0435\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Zhanatkol\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0416\u0430\u043d\u0430\u0442\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Dzhana-Utku",
+        "Dzhana-Utkul\u2019",
+        "Jana-Utkul\u2019",
+        "Zhana-Utkul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516807
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c66a591434cab04dce818d5a0db4781d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785737,
+            "locality_id":1293552957,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1293552957,
+    "wof:lastmodified":1537659484,
+    "wof:name":"Zhangaotkel",
+    "wof:parent_id":1108785737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.72182,
+    43.12553,
+    70.72182,
+    43.12553
+],
+  "geometry": {"coordinates":[70.72181999999999,43.12553],"type":"Point"}
+}

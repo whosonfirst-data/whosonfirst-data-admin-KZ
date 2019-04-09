@@ -1,0 +1,67 @@
+{
+  "id": 1226664217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.13333,50.86667,81.13333,50.86667",
+    "geom:latitude":50.86667,
+    "geom:longitude":81.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pavlovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520229,
+    "gn:latitude":50.86667,
+    "gn:longitude":81.13333,
+    "gn:modification_date":"1996-04-17",
+    "gn:name":"Pavlovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520229
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"578a5b4d6be849b64dd201f812099518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1226664217,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226664217,
+    "wof:lastmodified":1536831876,
+    "wof:name":"Pavlovskiy",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.13333,
+    50.86667,
+    81.13333,
+    50.86667
+],
+  "geometry": {"coordinates":[81.13333,50.86667],"type":"Point"}
+}

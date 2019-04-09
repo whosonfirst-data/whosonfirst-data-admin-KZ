@@ -1,0 +1,73 @@
+{
+  "id": 1343342723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.5682,52.88267,75.5682,52.88267",
+    "geom:latitude":52.88267,
+    "geom:longitude":75.5682,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Terenkuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535362,
+    "gn:latitude":52.88267,
+    "gn:longitude":75.5682,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Terenkuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Terenkuduk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u043d\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535362
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"87c5295a3f306fee05df442121e580ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785553,
+            "locality_id":1343342723,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343342723,
+    "wof:lastmodified":1537659990,
+    "wof:name":"Terenkuduk",
+    "wof:parent_id":1108785553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.5682,
+    52.88267,
+    75.5682,
+    52.88267
+],
+  "geometry": {"coordinates":[75.5682,52.88267],"type":"Point"}
+}

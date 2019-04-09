@@ -1,0 +1,70 @@
+{
+  "id": 1343539669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.13498,50.16491,75.13498,50.16491",
+    "geom:latitude":50.16491,
+    "geom:longitude":75.13498,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nizhniy Podkhoz",
+    "gn:country_code":"KZ",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454321,
+    "gn:latitude":50.16491,
+    "gn:longitude":75.13498,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Nizhniy Podkhoz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0438\u0439 \u041f\u043e\u0434\u0445\u043e\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454321
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a5bd566792358b5aadf52374bcfd45c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1343539669,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343539669,
+    "wof:lastmodified":1537660156,
+    "wof:name":"Nizhniy Podkhoz",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.13498,
+    50.16491,
+    75.13498,
+    50.16491
+],
+  "geometry": {"coordinates":[75.13498,50.16491],"type":"Point"}
+}

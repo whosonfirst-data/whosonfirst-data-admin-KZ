@@ -1,0 +1,70 @@
+{
+  "id": 1310282243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.52377,49.95382,72.52377,49.95382",
+    "geom:latitude":49.95382,
+    "geom:longitude":72.52377,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Molodetskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520882,
+    "gn:latitude":49.95382,
+    "gn:longitude":72.52377,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Molodetskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u043e\u0434\u0435\u0446\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520882
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9eea0a3a7c57ddfda7fd086e1472cc3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1310282243,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1310282243,
+    "wof:lastmodified":1537659686,
+    "wof:name":"Molodetskoye",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.52377,
+    49.95382,
+    72.52377,
+    49.95382
+],
+  "geometry": {"coordinates":[72.52377,49.95382],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293083207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.40531,53.94985,71.40531,53.94985",
+    "geom:latitude":53.94985,
+    "geom:longitude":71.40531,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bostandyk",
+    "gn:country_code":"KZ",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525097,
+    "gn:latitude":53.94985,
+    "gn:longitude":71.40531,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Bostandyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bostandyq"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0441\u0442\u0430\u043d\u0434\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0441\u0442\u0430\u043d\u0434\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bostandyq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525097
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e70f5bc89f38a2808c9a6d1f5bebd989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1293083207,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293083207,
+    "wof:lastmodified":1537659861,
+    "wof:name":"Bostandyk",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.40531,
+    53.94985,
+    71.40531,
+    53.94985
+],
+  "geometry": {"coordinates":[71.40531,53.94985],"type":"Point"}
+}

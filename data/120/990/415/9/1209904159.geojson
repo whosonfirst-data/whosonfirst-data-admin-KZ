@@ -1,0 +1,73 @@
+{
+  "id": 1209904159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.1891,50.42602,76.1891,50.42602",
+    "geom:latitude":50.42602,
+    "geom:longitude":76.1891,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Novyy Zhosaly",
+    "gn:country_code":"KZ",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516520,
+    "gn:latitude":50.42602,
+    "gn:longitude":76.1891,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Novyy Zhosaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0416\u043e\u0441\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Zhosalinskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516520
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9628e6b70165727d5d8cbb3ab12c9e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1209904159,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1209904159,
+    "wof:lastmodified":1537659474,
+    "wof:name":"Novyy Zhosaly",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.1891,
+    50.42602,
+    76.1891,
+    50.42602
+],
+  "geometry": {"coordinates":[76.1891,50.42602],"type":"Point"}
+}

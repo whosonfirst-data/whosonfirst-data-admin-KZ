@@ -1,0 +1,73 @@
+{
+  "id": 1193115431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.61965,50.34902,76.61965,50.34902",
+    "geom:latitude":50.34902,
+    "geom:longitude":76.61965,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Babaly",
+    "gn:country_code":"KZ",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247207,
+    "gn:latitude":50.34902,
+    "gn:longitude":76.61965,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Babaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Babaly"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u0431\u0430\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247207
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9263123c3cb9be53e873d115c40d61ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1193115431,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1193115431,
+    "wof:lastmodified":1537660129,
+    "wof:name":"Babaly",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.61965,
+    50.34902,
+    76.61965,
+    50.34902
+],
+  "geometry": {"coordinates":[76.61964999999999,50.34902],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1343437513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.79463,52.48266,61.79463,52.48266",
+    "geom:latitude":52.48266,
+    "geom:longitude":61.79463,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Alshanov",
+    "gn:country_code":"KZ",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520407,
+    "gn:latitude":52.48266,
+    "gn:longitude":61.79463,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Alshanov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ol'shanskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "Alshanov"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u043b\u0448\u0430\u043d\u043e\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u044c\u0448\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043b\u0447\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ol\u2019shanskiy",
+        "Alchanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520407
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3ea491444a4dfd02b3a1f94bd194642f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785661,
+            "locality_id":1343437513,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343437513,
+    "wof:lastmodified":1537659654,
+    "wof:name":"Alshanov",
+    "wof:parent_id":1108785661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.79463000000001,
+    52.48266,
+    61.79463000000001,
+    52.48266
+],
+  "geometry": {"coordinates":[61.79463000000001,52.48266],"type":"Point"}
+}

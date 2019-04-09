@@ -1,0 +1,80 @@
+{
+  "id": 1360073341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.67333,50.55551,74.67333,50.55551",
+    "geom:latitude":50.55551,
+    "geom:longitude":74.67333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Karaashchi",
+    "gn:country_code":"KZ",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523202,
+    "gn:latitude":50.55551,
+    "gn:longitude":74.67333,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Karaashchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaraashchy"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0430\u0449\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0430\u0449\u0438"
+    ],
+    "name:und_x_variant":[
+        "Karashchi",
+        "Karaashchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523202
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b1a0842970469f1376e9b9945481415f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1360073341,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1360073341,
+    "wof:lastmodified":1537659787,
+    "wof:name":"Karaashchi",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.67333,
+    50.55551,
+    74.67333,
+    50.55551
+],
+  "geometry": {"coordinates":[74.67333000000001,50.55551],"type":"Point"}
+}

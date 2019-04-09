@@ -1,0 +1,70 @@
+{
+  "id": 1344229529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.49514,53.98159,70.49514,53.98159",
+    "geom:latitude":53.98159,
+    "geom:longitude":70.49514,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Plotina",
+    "gn:country_code":"KZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532403,
+    "gn:latitude":53.98159,
+    "gn:longitude":70.49514,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Plotina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u043e\u0442\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532403
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"68403804abaea48b9154cbaa284b1fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1344229529,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1344229529,
+    "wof:lastmodified":1537659967,
+    "wof:name":"Plotina",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.49514,
+    53.98159,
+    70.49514,
+    53.98159
+],
+  "geometry": {"coordinates":[70.49514000000001,53.98159],"type":"Point"}
+}

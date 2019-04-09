@@ -1,0 +1,73 @@
+{
+  "id": 1293108215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.75,45.46667,79.75,45.46667",
+    "geom:latitude":45.46667,
+    "geom:longitude":79.75,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Enbek",
+    "gn:country_code":"KZ",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524111,
+    "gn:latitude":45.46667,
+    "gn:longitude":79.75,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Enbek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Enbek"
+    ],
+    "name:und_x_variant":[
+        "Imeni Amangel\u2019dy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524111
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c7be786d90987ee05b78108f2f458775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785407,
+            "locality_id":1293108215,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293108215,
+    "wof:lastmodified":1537659819,
+    "wof:name":"Enbek",
+    "wof:parent_id":1108785407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.75,
+    45.46667,
+    79.75,
+    45.46667
+],
+  "geometry": {"coordinates":[79.75,45.46667],"type":"Point"}
+}

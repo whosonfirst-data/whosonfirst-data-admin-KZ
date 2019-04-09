@@ -1,0 +1,73 @@
+{
+  "id": 1293753941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.6104,47.48235,85.6104,47.48235",
+    "geom:latitude":47.48235,
+    "geom:longitude":85.6104,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mayqapshaghay",
+    "gn:country_code":"KZ",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521044,
+    "gn:latitude":47.48235,
+    "gn:longitude":85.6104,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mayqapshaghay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "May-Kapchegay",
+        "Maikapchugai",
+        "Maykapchigay",
+        "Mayqapshaghay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521044
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"eab3edd10f709618fa0230e558e97987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785311,
+            "locality_id":1293753941,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293753941,
+    "wof:lastmodified":1537659695,
+    "wof:name":"Mayqapshaghay",
+    "wof:parent_id":1108785311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.6104,
+    47.48235,
+    85.6104,
+    47.48235
+],
+  "geometry": {"coordinates":[85.6104,47.48235],"type":"Point"}
+}

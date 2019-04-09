@@ -1,0 +1,61 @@
+{
+  "id": 1209525443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.23333,51.35,68.23333,51.35",
+    "geom:latitude":51.35,
+    "geom:longitude":68.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Atbasarskiy Vtoroy",
+    "gn:country_code":"KZ",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526031,
+    "gn:latitude":51.35,
+    "gn:longitude":68.23333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Atbasarskiy Vtoroy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526031
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bc7ba0c9d81177c9540b1d2d17946d99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209525443
+        }
+    ],
+    "wof:id":1209525443,
+    "wof:lastmodified":1536284445,
+    "wof:name":"Atbasarskiy Vtoroy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.23333000000001,
+    51.35,
+    68.23333000000001,
+    51.35
+],
+  "geometry": {"coordinates":[68.23333000000001,51.35],"type":"Point"}
+}

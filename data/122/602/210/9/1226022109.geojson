@@ -1,0 +1,73 @@
+{
+  "id": 1226022109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.10351,50.6583,73.10351,50.6583",
+    "geom:latitude":50.6583,
+    "geom:longitude":73.10351,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kreshchyonovka",
+    "gn:country_code":"KZ",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11175171,
+    "gn:latitude":50.6583,
+    "gn:longitude":73.10351,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Kreshchyonovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kreshchyonovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0440\u0435\u0449\u0451\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11175171
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3d97cbf5a156585a4fd244f9862210b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1226022109,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226022109,
+    "wof:lastmodified":1537660126,
+    "wof:name":"Kreshchyonovka",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.10351,
+    50.6583,
+    73.10351,
+    50.6583
+],
+  "geometry": {"coordinates":[73.10351,50.6583],"type":"Point"}
+}

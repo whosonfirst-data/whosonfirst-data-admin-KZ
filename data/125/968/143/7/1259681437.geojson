@@ -1,0 +1,67 @@
+{
+  "id": 1259681437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.75,46.8,51.75,46.8",
+    "geom:latitude":46.8,
+    "geom:longitude":51.75,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Malyy Peshnoy",
+    "gn:country_code":"KZ",
+    "gn:dem":-29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608897,
+    "gn:latitude":46.8,
+    "gn:longitude":51.75,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Malyy Peshnoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608897
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"56cb6ca9d721040db26ce36d586138f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785451,
+            "locality_id":1259681437,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1259681437,
+    "wof:lastmodified":1537067066,
+    "wof:name":"Malyy Peshnoy",
+    "wof:parent_id":1108785451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.75,
+    46.8,
+    51.75,
+    46.8
+],
+  "geometry": {"coordinates":[51.75,46.8],"type":"Point"}
+}

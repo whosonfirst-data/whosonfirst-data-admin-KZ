@@ -1,0 +1,77 @@
+{
+  "id": 1293784433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.08333,50.83333,58.08333,50.83333",
+    "geom:latitude":50.83333,
+    "geom:longitude":58.08333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aytpayka",
+    "gn:country_code":"KZ",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610488,
+    "gn:latitude":50.83333,
+    "gn:longitude":58.08333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Aytpayka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aytpayka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0442\u043f\u0430\u0439\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Aytpayskiy",
+        "Aytpayka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610488
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"60fc43b96d8ec18b9bb7c00d82781d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785697,
+            "locality_id":1293784433,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293784433,
+    "wof:lastmodified":1537659445,
+    "wof:name":"Aytpayka",
+    "wof:parent_id":1108785697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.08333,
+    50.83333,
+    58.08333,
+    50.83333
+],
+  "geometry": {"coordinates":[58.08333,50.83333],"type":"Point"}
+}

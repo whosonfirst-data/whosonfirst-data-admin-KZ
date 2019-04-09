@@ -1,0 +1,71 @@
+{
+  "id": 1209687329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.73239,42.96173,72.73239,42.96173",
+    "geom:latitude":42.96173,
+    "geom:longitude":72.73239,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Poselok",
+    "gn:country_code":"KZ",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068898,
+    "gn:latitude":42.96173,
+    "gn:longitude":72.73239,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Poselok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0451\u043b\u043e\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u043e\u0441\u0435\u043b\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok",
+        "Poselok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068898
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b70c32272fc2c804f157477b56548b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209687329
+        }
+    ],
+    "wof:id":1209687329,
+    "wof:lastmodified":1537660038,
+    "wof:name":"Poselok",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.73239000000002,
+    42.96173,
+    72.73239000000002,
+    42.96173
+],
+  "geometry": {"coordinates":[72.73239000000002,42.96173],"type":"Point"}
+}

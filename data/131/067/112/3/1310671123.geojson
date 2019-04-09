@@ -1,0 +1,75 @@
+{
+  "id": 1310671123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.89196,47.14488,81.89196,47.14488",
+    "geom:latitude":47.14488,
+    "geom:longitude":81.89196,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Irinovskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523780,
+    "gn:latitude":47.14488,
+    "gn:longitude":81.89196,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Irinovskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "K\u00f6k\u00f6zek"
+    ],
+    "name:und_x_variant":[
+        "Ipinovskoye",
+        "Irinovskoye",
+        "Irinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523780
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"31d7e415a6ccc2517dbd69f6c160f14a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1310671123,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310671123,
+    "wof:lastmodified":1537659806,
+    "wof:name":"Irinovskoye",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.89196,
+    47.14488,
+    81.89196,
+    47.14488
+],
+  "geometry": {"coordinates":[81.89196,47.14488],"type":"Point"}
+}

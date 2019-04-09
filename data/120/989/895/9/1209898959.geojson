@@ -1,0 +1,77 @@
+{
+  "id": 1209898959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.60816,50.05132,81.60816,50.05132",
+    "geom:latitude":50.05132,
+    "geom:longitude":81.60816,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mitrofanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520911,
+    "gn:latitude":50.05132,
+    "gn:longitude":81.60816,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"M\u012btrofanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "M\u012btrofanovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0442\u0440\u043e\u0444\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mitrofanovskoye",
+        "M\u012btrofanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520911
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f687f906760fb09fde4933502a2c2666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785473,
+            "locality_id":1209898959,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1209898959,
+    "wof:lastmodified":1537659687,
+    "wof:name":"Mitrofanovka",
+    "wof:parent_id":1108785473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.60816,
+    50.05132,
+    81.60816,
+    50.05132
+],
+  "geometry": {"coordinates":[81.60816,50.05132],"type":"Point"}
+}

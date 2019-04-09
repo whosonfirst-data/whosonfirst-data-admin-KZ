@@ -1,0 +1,79 @@
+{
+  "id": 1344238117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.87121,50.68561,75.87121,50.68561",
+    "geom:latitude":50.68561,
+    "geom:longitude":75.87121,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zhapalaq",
+    "gn:country_code":"KZ",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11175503,
+    "gn:latitude":50.68561,
+    "gn:longitude":75.87121,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Zhapalaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhapalaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u043f\u0430\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043f\u0430\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zhapalak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11175503
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4796d5f299eaf0b7bc57d1ead1209750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1344238117,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1344238117,
+    "wof:lastmodified":1537660128,
+    "wof:name":"Zhapalaq",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.87120999999998,
+    50.68561,
+    75.87120999999998,
+    50.68561
+],
+  "geometry": {"coordinates":[75.87120999999998,50.68561],"type":"Point"}
+}

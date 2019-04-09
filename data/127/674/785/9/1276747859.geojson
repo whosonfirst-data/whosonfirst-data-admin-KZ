@@ -1,0 +1,79 @@
+{
+  "id": 1276747859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.32611,43.69861,51.32611,43.69861",
+    "geom:latitude":43.69861,
+    "geom:longitude":51.32611,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mangyshlak",
+    "gn:country_code":"KZ",
+    "gn:dem":-6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608880,
+    "gn:latitude":43.69861,
+    "gn:longitude":51.32611,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Mangyshlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mangghyshlaq"
+    ],
+    "name:kaz_x_preferred":[
+        "Manghyshlaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0433\u044b\u0448\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Mangghyshlaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608880
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c7d62fb8cf0a8174ebd70d497aab3bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785381,
+            "locality_id":1276747859,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1276747859,
+    "wof:lastmodified":1537659391,
+    "wof:name":"Mangyshlak",
+    "wof:parent_id":1108785381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.32611,
+    43.69861,
+    51.32611,
+    43.69861
+],
+  "geometry": {"coordinates":[51.32611,43.69861],"type":"Point"}
+}

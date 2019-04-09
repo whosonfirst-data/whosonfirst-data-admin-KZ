@@ -1,0 +1,73 @@
+{
+  "id": 1277059191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.06919,49.21628,85.06919,49.21628",
+    "geom:latitude":49.21628,
+    "geom:longitude":85.06919,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Soldatovo",
+    "gn:country_code":"KZ",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518909,
+    "gn:latitude":49.21628,
+    "gn:longitude":85.06919,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Soldatovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Soldatovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u0434\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518909
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"84879b1ffca6e2dc93dbcf29dff2a4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1277059191,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1277059191,
+    "wof:lastmodified":1537659581,
+    "wof:name":"Soldatovo",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.06919,
+    49.21628,
+    85.06919,
+    49.21628
+],
+  "geometry": {"coordinates":[85.06919000000001,49.21628],"type":"Point"}
+}

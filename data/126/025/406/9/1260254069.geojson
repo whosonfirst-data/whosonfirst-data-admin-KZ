@@ -1,0 +1,76 @@
+{
+  "id": 1260254069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.83848,43.10063,74.83848,43.10063",
+    "geom:latitude":43.10063,
+    "geom:longitude":74.83848,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sarybastau",
+    "gn:country_code":"KZ",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8219977,
+    "gn:latitude":43.10063,
+    "gn:longitude":74.83848,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Sarybastau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sharbaqty"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0430\u0440\u0431\u0430\u049b\u0442\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0431\u0430\u0441\u0442\u0430\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8219977
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"be8a38ea4c64a698b4ff1a8445291490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785317,
+            "locality_id":1260254069,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1260254069,
+    "wof:lastmodified":1537660040,
+    "wof:name":"Sarybastau",
+    "wof:parent_id":1108785317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.83848,
+    43.10063,
+    74.83848,
+    43.10063
+],
+  "geometry": {"coordinates":[74.83848,43.10063],"type":"Point"}
+}

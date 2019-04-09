@@ -1,0 +1,67 @@
+{
+  "id": 1243478499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.25,50.93333,58.25,50.93333",
+    "geom:latitude":50.93333,
+    "geom:longitude":58.25,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bogunbay",
+    "gn:country_code":"KZ",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610253,
+    "gn:latitude":50.93333,
+    "gn:longitude":58.25,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Bogunbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610253
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2536d76ce55ba946f7f0cc4b0ca57c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785697,
+            "locality_id":1243478499,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1243478499,
+    "wof:lastmodified":1536759483,
+    "wof:name":"Bogunbay",
+    "wof:parent_id":1108785697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.25,
+    50.93333,
+    58.25,
+    50.93333
+],
+  "geometry": {"coordinates":[58.25,50.93333],"type":"Point"}
+}

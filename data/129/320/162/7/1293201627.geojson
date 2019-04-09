@@ -1,0 +1,77 @@
+{
+  "id": 1293201627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.21939,50.46968,61.21939,50.46968",
+    "geom:latitude":50.46968,
+    "geom:longitude":61.21939,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kumkuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521825,
+    "gn:latitude":50.46968,
+    "gn:longitude":61.21939,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kumkuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qumqudyq"
+    ],
+    "name:kaz_x_preferred":[
+        "Qumqudyq"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521825,
+        "wk:page":"Kumkuduk"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e2c3a72f1d1ef06450c3c7ed75a89378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1293201627,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293201627,
+    "wof:lastmodified":1537659729,
+    "wof:name":"Kumkuduk",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.21939,
+    50.46968,
+    61.21939,
+    50.46968
+],
+  "geometry": {"coordinates":[61.21939,50.46968],"type":"Point"}
+}

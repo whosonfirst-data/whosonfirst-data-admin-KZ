@@ -1,0 +1,67 @@
+{
+  "id": 1193026125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.24345,50.92233,71.24345,50.92233",
+    "geom:latitude":50.92233,
+    "geom:longitude":71.24345,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aganas",
+    "gn:country_code":"KZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526937,
+    "gn:latitude":50.92233,
+    "gn:longitude":71.24345,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Aganas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526937
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"403bcd49593ed8e9e9f4f05d5d824a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785625,
+            "locality_id":1193026125,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1193026125,
+    "wof:lastmodified":1536367682,
+    "wof:name":"Aganas",
+    "wof:parent_id":1108785625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.24345,
+    50.92233,
+    71.24345,
+    50.92233
+],
+  "geometry": {"coordinates":[71.24345,50.92233],"type":"Point"}
+}

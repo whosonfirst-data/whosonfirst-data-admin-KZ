@@ -1,0 +1,82 @@
+{
+  "id": 1259552995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.76671,54.36904,69.76671,54.36904",
+    "geom:latitude":54.36904,
+    "geom:longitude":69.76671,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Cherkasskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524845,
+    "gn:latitude":54.36904,
+    "gn:longitude":69.76671,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Cherkasskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cherkasskoe"
+    ],
+    "name:kaz_x_preferred":[
+        "Cherkasskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0427\u0435\u0440\u043a\u0430\u0441\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043a\u0430\u0441\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Cherkasskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524845
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b737297bae31261d62e9da900e7f40a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785685,
+            "locality_id":1259552995,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259552995,
+    "wof:lastmodified":1537659852,
+    "wof:name":"Cherkasskoye",
+    "wof:parent_id":1108785685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.76671,
+    54.36904000000001,
+    69.76671,
+    54.36904000000001
+],
+  "geometry": {"coordinates":[69.76671,54.36904000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343869835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.11419,52.60585,72.11419,52.60585",
+    "geom:latitude":52.60585,
+    "geom:longitude":72.11419,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Politekhnik",
+    "gn:country_code":"KZ",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10837937,
+    "gn:latitude":52.60585,
+    "gn:longitude":72.11419,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Politekhnik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Pol\u012btekhn\u012bk"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u043e\u043b\u0438\u0442\u0435\u0445\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10837937
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"19d7dcc8291400cfb513d79b34afcc9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1343869835,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343869835,
+    "wof:lastmodified":1537660063,
+    "wof:name":"Politekhnik",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.11419000000002,
+    52.60585,
+    72.11419000000002,
+    52.60585
+],
+  "geometry": {"coordinates":[72.11419000000002,52.60585],"type":"Point"}
+}

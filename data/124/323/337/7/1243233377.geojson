@@ -1,0 +1,84 @@
+{
+  "id": 1243233377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.43879,53.61269,66.43879,53.61269",
+    "geom:latitude":53.61269,
+    "geom:longitude":66.43879,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dzerzhinskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524486,
+    "gn:latitude":53.61269,
+    "gn:longitude":66.43879,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Dzerzhinskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dzerzh\u012bnsk\u012by"
+    ],
+    "name:kaz_x_preferred":[
+        "Dzerzh\u012bnskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Aksuatskiy",
+        "Dzerzhinskoye",
+        "Dzerzh\u012bnsk\u012by"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524486
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"625112a5e48ffa8eefa7d9b2c9d8c0d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785689,
+            "locality_id":1243233377,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243233377,
+    "wof:lastmodified":1537659836,
+    "wof:name":"Dzerzhinskoye",
+    "wof:parent_id":1108785689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.43879,
+    53.61269,
+    66.43879,
+    53.61269
+],
+  "geometry": {"coordinates":[66.43879,53.61269],"type":"Point"}
+}

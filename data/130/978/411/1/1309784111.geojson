@@ -1,0 +1,77 @@
+{
+  "id": 1309784111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.76675,51.961,76.76675,51.961",
+    "geom:latitude":51.961,
+    "geom:longitude":76.76675,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yevgen'yevka",
+    "gn:country_code":"KZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517144,
+    "gn:latitude":51.961,
+    "gn:longitude":76.76675,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Yevgen\u2019yevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Evgen\u2019evka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yevgenevka",
+        "Yevgen\u2019yevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517144
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"11c6c0db190149921b30cbc269ad1222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785551,
+            "locality_id":1309784111,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1309784111,
+    "wof:lastmodified":1537659502,
+    "wof:name":"Yevgen'yevka",
+    "wof:parent_id":1108785551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.76675,
+    51.96100000000001,
+    76.76675,
+    51.96100000000001
+],
+  "geometry": {"coordinates":[76.76675,51.96100000000001],"type":"Point"}
+}

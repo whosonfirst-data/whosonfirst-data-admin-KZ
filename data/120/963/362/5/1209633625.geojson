@@ -1,0 +1,61 @@
+{
+  "id": 1209633625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.15,48.86667,49.15,48.86667",
+    "geom:latitude":48.86667,
+    "geom:longitude":49.15,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Uyaly",
+    "gn:country_code":"KZ",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607799,
+    "gn:latitude":48.86667,
+    "gn:longitude":49.15,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Uyaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607799
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b8ccaf6a3ae3a306014e5591038bcad8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209633625
+        }
+    ],
+    "wof:id":1209633625,
+    "wof:lastmodified":1536281111,
+    "wof:name":"Uyaly",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.15,
+    48.86667,
+    49.15,
+    48.86667
+],
+  "geometry": {"coordinates":[49.15,48.86667],"type":"Point"}
+}

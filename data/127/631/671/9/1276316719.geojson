@@ -1,0 +1,73 @@
+{
+  "id": 1276316719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.27523,42.78281,71.27523,42.78281",
+    "geom:latitude":42.78281,
+    "geom:longitude":71.27523,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chal'dala",
+    "gn:country_code":"KZ",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11119012,
+    "gn:latitude":42.78281,
+    "gn:longitude":71.27523,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Chal\u2019dala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Chal\u2019dala"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0430\u043b\u044c\u0434\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11119012
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cfc103ebb86f1145f732ab392efc1402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785487,
+            "locality_id":1276316719,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1276316719,
+    "wof:lastmodified":1537660105,
+    "wof:name":"Chal'dala",
+    "wof:parent_id":1108785487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.27523000000002,
+    42.78281,
+    71.27523000000002,
+    42.78281
+],
+  "geometry": {"coordinates":[71.27523000000002,42.78281],"type":"Point"}
+}

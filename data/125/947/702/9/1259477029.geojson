@@ -1,0 +1,73 @@
+{
+  "id": 1259477029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.2044,40.73108,68.2044,40.73108",
+    "geom:latitude":40.73108,
+    "geom:longitude":68.2044,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kommunizm",
+    "gn:country_code":"KZ",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956119,
+    "gn:latitude":40.73108,
+    "gn:longitude":68.2044,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Kommunizm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u043c\u0443\u043d\u0438\u0437\u043c"
+    ],
+    "name:uzb_x_preferred":[
+        "Jenis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956119
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7bb372fdd715f12ea612e1cddcd3d152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1259477029,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1259477029,
+    "wof:lastmodified":1537660079,
+    "wof:name":"Kommunizm",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.2044,
+    40.73108,
+    68.2044,
+    40.73108
+],
+  "geometry": {"coordinates":[68.20440000000001,40.73108],"type":"Point"}
+}

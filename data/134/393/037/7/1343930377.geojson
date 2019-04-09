@@ -1,0 +1,73 @@
+{
+  "id": 1343930377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.10229,52.78325,73.10229,52.78325",
+    "geom:latitude":52.78325,
+    "geom:longitude":73.10229,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zhuantobe",
+    "gn:country_code":"KZ",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1533689,
+    "gn:latitude":52.78325,
+    "gn:longitude":73.10229,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Zhuantobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Zhuantobe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u0430\u043d\u0442\u043e\u0431\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533689
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9789d423673d3e71abf031ad1892829f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785367,
+            "locality_id":1343930377,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343930377,
+    "wof:lastmodified":1537659979,
+    "wof:name":"Zhuantobe",
+    "wof:parent_id":1108785367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.10229,
+    52.78325,
+    73.10229,
+    52.78325
+],
+  "geometry": {"coordinates":[73.10229,52.78325],"type":"Point"}
+}

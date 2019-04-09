@@ -1,0 +1,73 @@
+{
+  "id": 1293090115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.91778,41.41278,68.91778,41.41278",
+    "geom:latitude":41.41278,
+    "geom:longitude":68.91778,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Karakalpak",
+    "gn:country_code":"KZ",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523371,
+    "gn:latitude":41.41278,
+    "gn:longitude":68.91778,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Karakalpak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u0430\u043b\u043f\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Pyatnadtsatiletiye Kazakhstana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523371
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e6b8b7743b838d9f4f8d10b8f7d2e6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1293090115,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293090115,
+    "wof:lastmodified":1537659792,
+    "wof:name":"Karakalpak",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.91778000000001,
+    41.41278,
+    68.91778000000001,
+    41.41278
+],
+  "geometry": {"coordinates":[68.91778000000001,41.41278],"type":"Point"}
+}

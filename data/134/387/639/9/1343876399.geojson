@@ -1,0 +1,67 @@
+{
+  "id": 1343876399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.3,48.88333,79.3,48.88333",
+    "geom:latitude":48.88333,
+    "geom:longitude":79.3,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kan-Chingiz",
+    "gn:country_code":"KZ",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523532,
+    "gn:latitude":48.88333,
+    "gn:longitude":79.3,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kan-Chingiz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523532
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"28d39d70aa2c6be98a3907d26cbb8082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785727,
+            "locality_id":1343876399,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343876399,
+    "wof:lastmodified":1536642889,
+    "wof:name":"Kan-Chingiz",
+    "wof:parent_id":1108785727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.3,
+    48.88333,
+    79.3,
+    48.88333
+],
+  "geometry": {"coordinates":[79.3,48.88333],"type":"Point"}
+}

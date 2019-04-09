@@ -1,0 +1,76 @@
+{
+  "id": 1277046565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.43524,43.12439,71.43524,43.12439",
+    "geom:latitude":43.12439,
+    "geom:longitude":71.43524,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Akkiya",
+    "gn:country_code":"KZ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11118806,
+    "gn:latitude":43.12439,
+    "gn:longitude":71.43524,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Akkiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqq\u012bya"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u049b\u0438\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043a\u0438\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11118806
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dd042e1181294c61c79594b8e2ea2c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785487,
+            "locality_id":1277046565,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1277046565,
+    "wof:lastmodified":1537660099,
+    "wof:name":"Akkiya",
+    "wof:parent_id":1108785487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.43524000000002,
+    43.12439000000001,
+    71.43524000000002,
+    43.12439000000001
+],
+  "geometry": {"coordinates":[71.43524000000002,43.12439000000001],"type":"Point"}
+}

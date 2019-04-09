@@ -1,0 +1,83 @@
+{
+  "id": 1276526045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.51417,53.34167,76.51417,53.34167",
+    "geom:latitude":53.34167,
+    "geom:longitude":76.51417,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Timofeyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518158,
+    "gn:latitude":53.34167,
+    "gn:longitude":76.51417,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Timofeyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Timofeyevka"
+    ],
+    "name:kaz_x_preferred":[
+        "T\u012bmofeevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0438\u043c\u043e\u0444\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043c\u043e\u0444\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Timofeyevskoye",
+        "Timofeyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518158
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"19d9a446f1945820b103d536f33005cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785557,
+            "locality_id":1276526045,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1276526045,
+    "wof:lastmodified":1537659553,
+    "wof:name":"Timofeyevka",
+    "wof:parent_id":1108785557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.51417,
+    53.34166999999999,
+    76.51417,
+    53.34166999999999
+],
+  "geometry": {"coordinates":[76.51416999999999,53.34166999999999],"type":"Point"}
+}

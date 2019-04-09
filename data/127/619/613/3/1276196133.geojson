@@ -1,0 +1,83 @@
+{
+  "id": 1276196133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.0413,48.66592,84.0413,48.66592",
+    "geom:latitude":48.66592,
+    "geom:longitude":84.0413,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Terektibulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518214,
+    "gn:latitude":48.66592,
+    "gn:longitude":84.0413,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Terektibulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Terektybulak"
+    ],
+    "name:kaz_x_preferred":[
+        "Terektibulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0435\u0440\u0435\u043a\u0442\u0456\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u043a\u0442\u0438\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Terektybulak",
+        "Terektibulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518214
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"91af142da523dbfd8c97f9462d3abd87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1276196133,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276196133,
+    "wof:lastmodified":1537659555,
+    "wof:name":"Terektibulaq",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.0413,
+    48.66592,
+    84.0413,
+    48.66592
+],
+  "geometry": {"coordinates":[84.04130000000001,48.66592],"type":"Point"}
+}

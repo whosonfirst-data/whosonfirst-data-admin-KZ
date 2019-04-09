@@ -1,0 +1,77 @@
+{
+  "id": 1243068179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.59036,48.53459,55.59036,48.53459",
+    "geom:latitude":48.53459,
+    "geom:longitude":55.59036,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zharly",
+    "gn:country_code":"KZ",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607593,
+    "gn:latitude":48.53459,
+    "gn:longitude":55.59036,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zharly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zharly"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0440\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Dzharly",
+        "Zharly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607593
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8968fea6fcec7dadbfa9f4eb86b5b080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785399,
+            "locality_id":1243068179,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1243068179,
+    "wof:lastmodified":1537659342,
+    "wof:name":"Zharly",
+    "wof:parent_id":1108785399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.59036,
+    48.53459,
+    55.59036,
+    48.53459
+],
+  "geometry": {"coordinates":[55.59036,48.53459],"type":"Point"}
+}

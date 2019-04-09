@@ -1,0 +1,79 @@
+{
+  "id": 1293562371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.17372,49.70574,84.17372,49.70574",
+    "geom:latitude":49.70574,
+    "geom:longitude":84.17372,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Vostochnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534581,
+    "gn:latitude":49.70574,
+    "gn:longitude":84.17372,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Vostochnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vostochnoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Vostochnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534581
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"85930469f2635bcc1dbe7514026d8543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1293562371,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293562371,
+    "wof:lastmodified":1537659983,
+    "wof:name":"Vostochnoye",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.17371999999997,
+    49.70574000000001,
+    84.17371999999997,
+    49.70574000000001
+],
+  "geometry": {"coordinates":[84.17371999999997,49.70574000000001],"type":"Point"}
+}

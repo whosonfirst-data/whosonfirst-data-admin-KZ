@@ -1,0 +1,79 @@
+{
+  "id": 1243333865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.55043,48.60062,79.55043,48.60062",
+    "geom:latitude":48.60062,
+    "geom:longitude":79.55043,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mengdeke",
+    "gn:country_code":"KZ",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527404,
+    "gn:latitude":48.60062,
+    "gn:longitude":79.55043,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Mengdeke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Mengdeke"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0435\u04a3\u0434\u0435\u043a\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043d\u0434\u0435\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mendeke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527404
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5c5b405819025f58a973ae9da4a712ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785727,
+            "locality_id":1243333865,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243333865,
+    "wof:lastmodified":1537660188,
+    "wof:name":"Mengdeke",
+    "wof:parent_id":1108785727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.55043,
+    48.60062,
+    79.55043,
+    48.60062
+],
+  "geometry": {"coordinates":[79.55043000000001,48.60062],"type":"Point"}
+}

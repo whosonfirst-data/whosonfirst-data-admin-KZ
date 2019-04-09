@@ -1,0 +1,84 @@
+{
+  "id": 1309706323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.50351,41.97467,69.50351,41.97467",
+    "geom:latitude":41.97467,
+    "geom:longitude":69.50351,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qazyqurt",
+    "gn:country_code":"KZ",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521625,
+    "gn:latitude":41.97467,
+    "gn:longitude":69.50351,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Qazyqurt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qazyqurt"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0437\u044b\u049b\u04b1\u0440\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0432\u0445\u043e\u0437 \u041a\u0443\u044e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kuyuk",
+        "Otdeleniye Nomer 1 (Odin) Sovkhoza Kuyuk",
+        "Otdeleniye Nomer 1 Sovkhoza Kuyuk",
+        "Otdeleniye Nomer Odin Sovkhoza Kuyuk",
+        "Kazgurt",
+        "Sovkhoz Kuyuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521625
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4840a42512af0b4d9caa1b8798614f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1309706323,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1309706323,
+    "wof:lastmodified":1537659723,
+    "wof:name":"Qazyqurt",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.50350999999999,
+    41.97467,
+    69.50350999999999,
+    41.97467
+],
+  "geometry": {"coordinates":[69.50350999999999,41.97467],"type":"Point"}
+}

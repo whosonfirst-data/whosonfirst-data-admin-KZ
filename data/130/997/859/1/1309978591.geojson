@@ -1,0 +1,73 @@
+{
+  "id": 1309978591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.58351,52.64378,66.58351,52.64378",
+    "geom:latitude":52.64378,
+    "geom:longitude":66.58351,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ponomarevka",
+    "gn:country_code":"KZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147690,
+    "gn:latitude":52.64378,
+    "gn:longitude":66.58351,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Ponomar\u00ebvka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ponomar\u00ebvka"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u043e\u043d\u043e\u043c\u0430\u0440\u0451\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147690
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c4a6cbca665bda2f59279b68c1ca689c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1309978591,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1309978591,
+    "wof:lastmodified":1537660123,
+    "wof:name":"Ponomarevka",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.58351,
+    52.64378000000001,
+    66.58351,
+    52.64378000000001
+],
+  "geometry": {"coordinates":[66.58351,52.64378000000001],"type":"Point"}
+}

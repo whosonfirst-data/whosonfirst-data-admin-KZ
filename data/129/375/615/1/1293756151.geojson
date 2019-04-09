@@ -1,0 +1,79 @@
+{
+  "id": 1293756151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.07366,54.74077,69.07366,54.74077",
+    "geom:latitude":54.74077,
+    "geom:longitude":69.07366,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Elitnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530644,
+    "gn:latitude":54.74077,
+    "gn:longitude":69.07366,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Elitnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Elitnoye"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0116l\u012btnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u042d\u043b\u0438\u0442\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u0438\u0442\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530644
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9b677a21f372b82ac2b2c9ca5f423eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1293756151,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293756151,
+    "wof:lastmodified":1537659941,
+    "wof:name":"Elitnoye",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.07366,
+    54.74077,
+    69.07366,
+    54.74077
+],
+  "geometry": {"coordinates":[69.07366,54.74077],"type":"Point"}
+}

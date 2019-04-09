@@ -1,0 +1,72 @@
+{
+  "id": 1327437489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.08333,50.36667,61.08333,50.36667",
+    "geom:latitude":50.36667,
+    "geom:longitude":61.08333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yeltai",
+    "gn:country_code":"KZ",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517255,
+    "gn:latitude":50.36667,
+    "gn:longitude":61.08333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Yeltai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eltay",
+        "Yeltay",
+        "Yeltai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517255
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bf1450b434c8b93bac3bad44535051c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1327437489,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1327437489,
+    "wof:lastmodified":1537659508,
+    "wof:name":"Yeltai",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.08333,
+    50.36667,
+    61.08333,
+    50.36667
+],
+  "geometry": {"coordinates":[61.08333,50.36667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344175037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.56667,47.9,83.56667,47.9",
+    "geom:latitude":47.9,
+    "geom:longitude":83.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ortakzhol",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520341,
+    "gn:latitude":47.9,
+    "gn:longitude":83.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ortakzhol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ortashil",
+        "Ortakhzhol",
+        "Ortakzhol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520341
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e905fef34fa12617f8beb7d9d55a1b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785469,
+            "locality_id":1344175037,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1344175037,
+    "wof:lastmodified":1537659651,
+    "wof:name":"Ortakzhol",
+    "wof:parent_id":1108785469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.56667,
+    47.9,
+    83.56667,
+    47.9
+],
+  "geometry": {"coordinates":[83.56667,47.9],"type":"Point"}
+}

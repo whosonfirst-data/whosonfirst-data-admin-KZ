@@ -1,0 +1,77 @@
+{
+  "id": 1226429587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.41897,49.89289,72.41897,49.89289",
+    "geom:latitude":49.89289,
+    "geom:longitude":72.41897,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Aktobe",
+    "gn:country_code":"KZ",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526578,
+    "gn:latitude":49.89289,
+    "gn:longitude":72.41897,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Aktobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0410\u049b\u0442\u04e9\u0431\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0442\u043e\u0431\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ak-Tyube",
+        "Aqt\u00f6be"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526578
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"59f8bdd40ecd4670e4f15681fa38d4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1226429587,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226429587,
+    "wof:lastmodified":1537659919,
+    "wof:name":"Aktobe",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.41897,
+    49.89289,
+    72.41897,
+    49.89289
+],
+  "geometry": {"coordinates":[72.41897,49.89289],"type":"Point"}
+}

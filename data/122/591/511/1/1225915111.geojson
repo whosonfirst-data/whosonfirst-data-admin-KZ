@@ -1,0 +1,86 @@
+{
+  "id": 1225915111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.44881,43.93939,67.44881,43.93939",
+    "geom:latitude":43.93939,
+    "geom:longitude":67.44881,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Uchastok Lenina",
+    "gn:country_code":"KZ",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516861,
+    "gn:latitude":43.93939,
+    "gn:longitude":67.44881,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Uchastok Lenina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Len\u012bno"
+    ],
+    "name:kaz_x_variant":[
+        "\u041b\u0435\u043d\u0438\u043d\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0447\u0430\u0441\u0442\u043e\u043a \u041b\u0435\u043d\u0438\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0441\u0430\u0440\u0441\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zhanakurylys",
+        "As-Arsyk",
+        "Zhanakurilys",
+        "Uchastok Lenina",
+        "Asarsyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516861
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1516363bdeccd2436527900d269f3b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1225915111,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1225915111,
+    "wof:lastmodified":1537659489,
+    "wof:name":"Uchastok Lenina",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.44881,
+    43.93939,
+    67.44881,
+    43.93939
+],
+  "geometry": {"coordinates":[67.44880999999999,43.93939],"type":"Point"}
+}

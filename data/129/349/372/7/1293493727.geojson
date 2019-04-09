@@ -1,0 +1,67 @@
+{
+  "id": 1293493727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.85,50.05,61.85,50.05",
+    "geom:latitude":50.05,
+    "geom:longitude":61.85,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Malyzhuban",
+    "gn:country_code":"KZ",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521157,
+    "gn:latitude":50.05,
+    "gn:longitude":61.85,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Malyzhuban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521157
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1ecc4886d3431935c77cad88a3b8ca9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1293493727,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293493727,
+    "wof:lastmodified":1536778525,
+    "wof:name":"Malyzhuban",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.85,
+    50.05,
+    61.85,
+    50.05
+],
+  "geometry": {"coordinates":[61.85,50.05],"type":"Point"}
+}

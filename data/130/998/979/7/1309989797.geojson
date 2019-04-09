@@ -1,0 +1,73 @@
+{
+  "id": 1309989797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.77241,41.50217,68.77241,41.50217",
+    "geom:latitude":41.50217,
+    "geom:longitude":68.77241,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sarysu",
+    "gn:country_code":"KZ",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1536988,
+    "gn:latitude":41.50217,
+    "gn:longitude":68.77241,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Sarysu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sarys\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0430\u0440\u044b\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1536988
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9a97370c865ffbf960045b6e89146d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1309989797,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1309989797,
+    "wof:lastmodified":1537660009,
+    "wof:name":"Sarysu",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.77241,
+    41.50217,
+    68.77241,
+    41.50217
+],
+  "geometry": {"coordinates":[68.77240999999999,41.50217],"type":"Point"}
+}

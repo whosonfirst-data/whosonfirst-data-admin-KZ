@@ -1,0 +1,81 @@
+{
+  "id": 1277055521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.40669,53.71683,64.40669,53.71683",
+    "geom:latitude":53.71683,
+    "geom:longitude":64.40669,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nikitinka",
+    "gn:country_code":"KZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520708,
+    "gn:latitude":53.71683,
+    "gn:longitude":64.40669,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Nikitinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nikitinka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0438\u043a\u0438\u0442\u0438\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u0438\u0442\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Nikitinskiy",
+        "Nikitinskoye",
+        "Nikitinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520708
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0f82a3b600d71c037475cd806420531d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785385,
+            "locality_id":1277055521,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1277055521,
+    "wof:lastmodified":1537659677,
+    "wof:name":"Nikitinka",
+    "wof:parent_id":1108785385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.40669,
+    53.71683,
+    64.40669,
+    53.71683
+],
+  "geometry": {"coordinates":[64.40669,53.71683],"type":"Point"}
+}

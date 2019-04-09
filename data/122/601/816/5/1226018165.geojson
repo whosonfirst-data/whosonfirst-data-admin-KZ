@@ -1,0 +1,87 @@
+{
+  "id": 1226018165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.96901,48.59828,85.96901,48.59828",
+    "geom:latitude":48.59828,
+    "geom:longitude":85.96901,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Akzhaylau",
+    "gn:country_code":"KZ",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517630,
+    "gn:latitude":48.59828,
+    "gn:longitude":85.96901,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Akzhaylau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u016aspenka"
+    ],
+    "name:kaz_x_preferred":[
+        "Aqzhayla\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0436\u0430\u0439\u043b\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u043f\u0435\u043d\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043a\u0436\u0430\u0439\u043b\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "\u016aspenka",
+        "Akzhaylau",
+        "Uspenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517630
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f8988cecaa6842eb4719a08a9a7e8ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1226018165,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226018165,
+    "wof:lastmodified":1537659532,
+    "wof:name":"Akzhaylau",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.96901,
+    48.59828,
+    85.96901,
+    48.59828
+],
+  "geometry": {"coordinates":[85.96901,48.59828],"type":"Point"}
+}

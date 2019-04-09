@@ -1,0 +1,70 @@
+{
+  "id": 1243340831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.03542,48.02039,72.03542,48.02039",
+    "geom:latitude":48.02039,
+    "geom:longitude":72.03542,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kyzyltau Vtoroy",
+    "gn:country_code":"KZ",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504300,
+    "gn:latitude":48.02039,
+    "gn:longitude":72.03542,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kyzyltau Vtoroy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0442\u0430\u0443 \u0412\u0442\u043e\u0440\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504300
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e19cc4e5c48be6529177fefd5fc92c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1243340831,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1243340831,
+    "wof:lastmodified":1537660168,
+    "wof:name":"Kyzyltau Vtoroy",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.03542,
+    48.02039,
+    72.03542,
+    48.02039
+],
+  "geometry": {"coordinates":[72.03542,48.02039],"type":"Point"}
+}

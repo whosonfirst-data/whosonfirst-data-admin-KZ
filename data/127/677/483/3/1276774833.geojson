@@ -1,0 +1,72 @@
+{
+  "id": 1276774833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.4599,51.9087,71.4599,51.9087",
+    "geom:latitude":51.9087,
+    "geom:longitude":71.4599,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kurylys",
+    "gn:country_code":"KZ",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523687,
+    "gn:latitude":51.9087,
+    "gn:longitude":71.4599,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kurylys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Izmaylovskoye",
+        "Izmaylovka",
+        "Kurylys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523687
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2f6d139c4b2dffd0c6be9c2350319e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1276774833,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1276774833,
+    "wof:lastmodified":1537659803,
+    "wof:name":"Kurylys",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.4599,
+    51.9087,
+    71.4599,
+    51.9087
+],
+  "geometry": {"coordinates":[71.4599,51.9087],"type":"Point"}
+}

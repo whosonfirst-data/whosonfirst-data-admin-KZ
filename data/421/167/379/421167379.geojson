@@ -1,0 +1,117 @@
+{
+  "id": 421167379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.53333,40.66667,68.53333,40.66667",
+    "geom:latitude":40.66667,
+    "geom:longitude":68.53333,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Slawjanka"
+    ],
+    "name:est_x_preferred":[
+        "Slavjanka"
+    ],
+    "name:fin_x_preferred":[
+        "Slavjanka"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056c\u0561\u057e\u0575\u0561\u0576\u056f\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Slavjanka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30e9\u30f4\u30e3\u30f3\u30ab"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u044b\u0440\u0437\u0430\u043a\u0435\u043d\u0442"
+    ],
+    "name:nno_x_preferred":[
+        "Slavjanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u044f\u043d\u043a\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Slavyanka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u043e\u0432'\u044f\u043d\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Slavyanskoye"
+    ],
+    "name:uzb_x_preferred":[
+        "Mirzakent"
+    ],
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1518945,
+    "qs:gn_pop":9752,
+    "qs:name":"Slavyanka",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Ongtustik Qazaqstan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":133202,
+    "qs:woe_adm0":23424871,
+    "qs:woe_id":2262062,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518945,
+        "gp:id":2262062,
+        "qs:id":133202
+    },
+    "wof:country":"KZ",
+    "wof:created":1459008729,
+    "wof:geomhash":"7967f76aac1712fbaea36788d7d0a40c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421167379,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":421167379,
+    "wof:lastmodified":1527716156,
+    "wof:name":"Slavyanka",
+    "wof:parent_id":85672927,
+    "wof:placetype":"locality",
+    "wof:population":9752,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.53333,
+    40.66667,
+    68.53333,
+    40.66667
+],
+  "geometry": {"coordinates":[68.53333000000001,40.66667],"type":"Point"}
+}

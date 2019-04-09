@@ -1,0 +1,73 @@
+{
+  "id": 1344031085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.00235,47.15569,81.00235,47.15569",
+    "geom:latitude":47.15569,
+    "geom:longitude":81.00235,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qyzylzhuldyz",
+    "gn:country_code":"KZ",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521414,
+    "gn:latitude":47.15569,
+    "gn:longitude":81.00235,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Qyzylzhuldyz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyzylzhuldyz"
+    ],
+    "name:und_x_variant":[
+        "Kyzylzhuldyz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521414
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"53f309e63fc0992497daedf296b7516a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1344031085,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1344031085,
+    "wof:lastmodified":1537659714,
+    "wof:name":"Qyzylzhuldyz",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.00235,
+    47.15569,
+    81.00235,
+    47.15569
+],
+  "geometry": {"coordinates":[81.00235000000001,47.15569],"type":"Point"}
+}

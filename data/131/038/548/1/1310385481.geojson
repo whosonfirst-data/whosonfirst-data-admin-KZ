@@ -1,0 +1,79 @@
+{
+  "id": 1310385481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.17238,48.59302,69.17238,48.59302",
+    "geom:latitude":48.59302,
+    "geom:longitude":69.17238,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sarybulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871070,
+    "gn:latitude":48.59302,
+    "gn:longitude":69.17238,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Sarybulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sarybulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0430\u0440\u044b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Sarybulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871070
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e974704297c47e08c6f23023474c8b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785515,
+            "locality_id":1310385481,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1310385481,
+    "wof:lastmodified":1537660072,
+    "wof:name":"Sarybulaq",
+    "wof:parent_id":1108785515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.17238,
+    48.59302,
+    69.17238,
+    48.59302
+],
+  "geometry": {"coordinates":[69.17238,48.59302],"type":"Point"}
+}

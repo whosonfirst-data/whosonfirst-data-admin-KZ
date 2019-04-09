@@ -1,0 +1,78 @@
+{
+  "id": 1310286135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.9861,51.30394,77.9861,51.30394",
+    "geom:latitude":51.30394,
+    "geom:longitude":77.9861,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Podpusk",
+    "gn:country_code":"KZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520111,
+    "gn:latitude":51.30394,
+    "gn:longitude":77.9861,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Podpusk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0434\u043f\u0443\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Podpusknoy",
+        "Podpusknoye",
+        "Podpusinoi",
+        "Podpusinol",
+        "Podp\u016bsk",
+        "Podpusk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520111
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7609cfcbefef8b07fad7fb1faf711f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785559,
+            "locality_id":1310286135,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310286135,
+    "wof:lastmodified":1537659638,
+    "wof:name":"Podpusk",
+    "wof:parent_id":1108785559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.9861,
+    51.30394,
+    77.9861,
+    51.30394
+],
+  "geometry": {"coordinates":[77.98609999999999,51.30394],"type":"Point"}
+}

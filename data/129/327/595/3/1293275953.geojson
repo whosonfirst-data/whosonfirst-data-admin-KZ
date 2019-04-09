@@ -1,0 +1,78 @@
+{
+  "id": 1293275953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.34485,43.51273,68.34485,43.51273",
+    "geom:latitude":43.51273,
+    "geom:longitude":68.34485,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Atabay",
+    "gn:country_code":"KZ",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526052,
+    "gn:latitude":43.51273,
+    "gn:longitude":68.34485,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Atabay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u0440\u043d\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0430\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Karnak",
+        "Karpak",
+        "Qarnaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526052
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d45f2dcea015cac9b9fa510e8025d66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1293275953,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293275953,
+    "wof:lastmodified":1537659900,
+    "wof:name":"Atabay",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.34485,
+    43.51273,
+    68.34485,
+    43.51273
+],
+  "geometry": {"coordinates":[68.34484999999999,43.51273],"type":"Point"}
+}

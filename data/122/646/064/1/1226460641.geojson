@@ -1,0 +1,67 @@
+{
+  "id": 1226460641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.90667,48.86917,46.90667,48.86917",
+    "geom:latitude":48.86917,
+    "geom:longitude":46.90667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kalkhan-Kul'",
+    "gn:country_code":"KZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609734,
+    "gn:latitude":48.86917,
+    "gn:longitude":46.90667,
+    "gn:modification_date":"1995-09-28",
+    "gn:name":"Kalkhan-Kul\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609734
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b6fed294f690f38ce24d0d5e3ca7c8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785701,
+            "locality_id":1226460641,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226460641,
+    "wof:lastmodified":1536621965,
+    "wof:name":"Kalkhan-Kul'",
+    "wof:parent_id":1108785701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.90667,
+    48.86917,
+    46.90667,
+    48.86917
+],
+  "geometry": {"coordinates":[46.90667,48.86917],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242897621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.89409,48.60533,57.89409,48.60533",
+    "geom:latitude":48.60533,
+    "geom:longitude":57.89409,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Novaya Baza",
+    "gn:country_code":"KZ",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863526,
+    "gn:latitude":48.60533,
+    "gn:longitude":57.89409,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Novaya Baza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novaya Baza"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0411\u0430\u0437\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863526
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bb19c715a8a806caeb02c421b5188b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785725,
+            "locality_id":1242897621,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1242897621,
+    "wof:lastmodified":1537659460,
+    "wof:name":"Novaya Baza",
+    "wof:parent_id":1108785725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.89409000000001,
+    48.60533,
+    57.89409000000001,
+    48.60533
+],
+  "geometry": {"coordinates":[57.89409000000001,48.60533],"type":"Point"}
+}

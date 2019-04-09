@@ -1,0 +1,76 @@
+{
+  "id": 1309785289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.31752,53.67279,62.31752,53.67279",
+    "geom:latitude":53.67279,
+    "geom:longitude":62.31752,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Poltavka",
+    "gn:country_code":"KZ",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520085,
+    "gn:latitude":53.67279,
+    "gn:longitude":62.31752,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Poltavka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Poltavka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043b\u0442\u0430\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0442\u0430\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520085
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7c4b38e471731ae65332edddf907ff4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785333,
+            "locality_id":1309785289,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1309785289,
+    "wof:lastmodified":1537659636,
+    "wof:name":"Poltavka",
+    "wof:parent_id":1108785333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.31752,
+    53.67279,
+    62.31752,
+    53.67279
+],
+  "geometry": {"coordinates":[62.31752,53.67279],"type":"Point"}
+}

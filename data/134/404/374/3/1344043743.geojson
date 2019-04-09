@@ -1,0 +1,81 @@
+{
+  "id": 1344043743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.85362,53.41742,63.85362,53.41742",
+    "geom:latitude":53.41742,
+    "geom:longitude":63.85362,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Davydenovka",
+    "gn:country_code":"KZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524625,
+    "gn:latitude":53.41742,
+    "gn:longitude":63.85362,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Davydenovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Davydenovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0430\u0432\u044b\u0434\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0432\u044b\u0434\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Davydenovskiy",
+        "Davydovka",
+        "Davydenovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524625
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"935be5257a159e51d00011b6899eca53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1344043743,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1344043743,
+    "wof:lastmodified":1537659844,
+    "wof:name":"Davydenovka",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.85361999999999,
+    53.41741999999999,
+    63.85361999999999,
+    53.41741999999999
+],
+  "geometry": {"coordinates":[63.85361999999999,53.41741999999999],"type":"Point"}
+}

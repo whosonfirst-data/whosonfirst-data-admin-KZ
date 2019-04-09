@@ -1,0 +1,76 @@
+{
+  "id": 1209284135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.54386,54.62758,69.54386,54.62758",
+    "geom:latitude":54.62758,
+    "geom:longitude":69.54386,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Grigor'yevka",
+    "gn:country_code":"KZ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524178,
+    "gn:latitude":54.62758,
+    "gn:longitude":69.54386,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Grigor\u2019yevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Grigor'yevka"
+    ],
+    "name:kaz_x_preferred":[
+        "Gr\u012bgor\u2019evka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0413\u0440\u0438\u0433\u043e\u0440\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0433\u043e\u0440\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "Grigor\u2019yevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524178
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b72f0a5454c894a3253c4eb24bf52ec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209284135
+        }
+    ],
+    "wof:id":1209284135,
+    "wof:lastmodified":1537659823,
+    "wof:name":"Grigor'yevka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.54386,
+    54.62758,
+    69.54386,
+    54.62758
+],
+  "geometry": {"coordinates":[69.54386,54.62758],"type":"Point"}
+}

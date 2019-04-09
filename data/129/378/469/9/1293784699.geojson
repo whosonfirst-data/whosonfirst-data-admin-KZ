@@ -1,0 +1,67 @@
+{
+  "id": 1293784699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.56667,50.26667,55.56667,50.26667",
+    "geom:latitude":50.26667,
+    "geom:longitude":55.56667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Imeni Voroshilova",
+    "gn:country_code":"KZ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609802,
+    "gn:latitude":50.26667,
+    "gn:longitude":55.56667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Imeni Voroshilova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609802
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"00503ccaed022fa3cccef8a5e419746f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785491,
+            "locality_id":1293784699,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293784699,
+    "wof:lastmodified":1536854482,
+    "wof:name":"Imeni Voroshilova",
+    "wof:parent_id":1108785491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.56667,
+    50.26667,
+    55.56667,
+    50.26667
+],
+  "geometry": {"coordinates":[55.56667,50.26667],"type":"Point"}
+}

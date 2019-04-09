@@ -1,0 +1,64 @@
+{
+  "id": 1209496301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.70843,53.58825,76.70843,53.58825",
+    "geom:latitude":53.58825,
+    "geom:longitude":76.70843,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bekmurat",
+    "gn:country_code":"KZ",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533167,
+    "gn:latitude":53.58825,
+    "gn:longitude":76.70843,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Bekmurat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043a\u043c\u0443\u0440\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533167
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a65b3bea784a61c52adffcf4804998bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209496301
+        }
+    ],
+    "wof:id":1209496301,
+    "wof:lastmodified":1537659976,
+    "wof:name":"Bekmurat",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.70843,
+    53.58825,
+    76.70843,
+    53.58825
+],
+  "geometry": {"coordinates":[76.70843000000001,53.58825],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310281509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.95083,53.79708,61.95083,53.79708",
+    "geom:latitude":53.79708,
+    "geom:longitude":61.95083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yelshanka",
+    "gn:country_code":"KZ",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507415,
+    "gn:latitude":53.79708,
+    "gn:longitude":61.95083,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yelshanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "El\u2019shansk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u043b\u044c\u0448\u0430\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u0448\u0430\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507415
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2a95054b12261d0aa1857f38890669f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785333,
+            "locality_id":1310281509,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310281509,
+    "wof:lastmodified":1537660169,
+    "wof:name":"Yelshanka",
+    "wof:parent_id":1108785333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.95083,
+    53.79708,
+    61.95083,
+    53.79708
+],
+  "geometry": {"coordinates":[61.95083,53.79708],"type":"Point"}
+}

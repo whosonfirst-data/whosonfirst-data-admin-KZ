@@ -1,0 +1,72 @@
+{
+  "id": 1343763825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.16043,50.99862,68.16043,50.99862",
+    "geom:latitude":50.99862,
+    "geom:longitude":68.16043,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sochinskoe",
+    "gn:country_code":"KZ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518928,
+    "gn:latitude":50.99862,
+    "gn:longitude":68.16043,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Soch\u012bnskoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sochinskoye",
+        "Sochinskiy",
+        "Soch\u012bnskoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518928
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"58d9209e0453c013477a1d4ab66986a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785387,
+            "locality_id":1343763825,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343763825,
+    "wof:lastmodified":1537659582,
+    "wof:name":"Sochinskoe",
+    "wof:parent_id":1108785387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.16043,
+    50.99862,
+    68.16043,
+    50.99862
+],
+  "geometry": {"coordinates":[68.16043000000001,50.99862],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293099717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.16667,51.08333,57.16667,51.08333",
+    "geom:latitude":51.08333,
+    "geom:longitude":57.16667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kushukbay",
+    "gn:country_code":"KZ",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609063,
+    "gn:latitude":51.08333,
+    "gn:longitude":57.16667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kushukbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuchukbay",
+        "Kushukbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609063
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8fd3a1cfb9aac0a92fd71e07eb36d4cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785323,
+            "locality_id":1293099717,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293099717,
+    "wof:lastmodified":1537659398,
+    "wof:name":"Kushukbay",
+    "wof:parent_id":1108785323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.16667,
+    51.08333,
+    57.16667,
+    51.08333
+],
+  "geometry": {"coordinates":[57.16667,51.08333],"type":"Point"}
+}

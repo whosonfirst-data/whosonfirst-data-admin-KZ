@@ -1,0 +1,88 @@
+{
+  "id": 1225833281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.43045,53.21357,75.43045,53.21357",
+    "geom:latitude":53.21357,
+    "geom:longitude":75.43045,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Karakuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524598,
+    "gn:latitude":53.21357,
+    "gn:longitude":75.43045,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Karakuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karakuduk"
+    ],
+    "name:kaz_x_preferred":[
+        "Qaraqudyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u049b\u04b1\u0434\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u043e\u0434\u044b\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "Qazak SSR On Zhyldyghy Atyndaghy",
+        "Desyat\u2019 Let Kazakhstana",
+        "Imeni Desyati Letiya Kazakhstanskoy SSR",
+        "Karakuduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524598
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0b2a512d09ddc3446cefc3120141778e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1225833281,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1225833281,
+    "wof:lastmodified":1537659843,
+    "wof:name":"Karakuduk",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.43045,
+    53.21357,
+    75.43045,
+    53.21357
+],
+  "geometry": {"coordinates":[75.43044999999999,53.21357],"type":"Point"}
+}

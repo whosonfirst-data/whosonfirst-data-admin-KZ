@@ -1,0 +1,67 @@
+{
+  "id": 1193034217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.71667,49.6,51.71667,49.6",
+    "geom:latitude":49.6,
+    "geom:longitude":51.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bikskul'",
+    "gn:country_code":"KZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610289,
+    "gn:latitude":49.6,
+    "gn:longitude":51.71667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Bikskul\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610289
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"80425cfcdc556766ecb9e40d7ba630fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1193034217,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1193034217,
+    "wof:lastmodified":1536382782,
+    "wof:name":"Bikskul'",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.71667,
+    49.6,
+    51.71667,
+    49.6
+],
+  "geometry": {"coordinates":[51.71667,49.6],"type":"Point"}
+}

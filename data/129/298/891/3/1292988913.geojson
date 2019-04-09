@@ -1,0 +1,79 @@
+{
+  "id": 1292988913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.1783,53.95171,76.1783,53.95171",
+    "geom:latitude":53.95171,
+    "geom:longitude":76.1783,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zhanabirlik",
+    "gn:country_code":"KZ",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533107,
+    "gn:latitude":53.95171,
+    "gn:longitude":76.1783,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Zhanabirlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhanabirlik"
+    ],
+    "name:kaz_x_preferred":[
+        "Zhangabirlik"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430\u0431\u0456\u0440\u043b\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0431\u0438\u0440\u043b\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533107
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"236306d39aaa9990f8088afce360e74c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785349,
+            "locality_id":1292988913,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1292988913,
+    "wof:lastmodified":1537659975,
+    "wof:name":"Zhanabirlik",
+    "wof:parent_id":1108785349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.1783,
+    53.95171,
+    76.1783,
+    53.95171
+],
+  "geometry": {"coordinates":[76.17829999999999,53.95171],"type":"Point"}
+}

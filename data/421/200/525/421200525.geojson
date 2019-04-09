@@ -1,0 +1,86 @@
+{
+  "id": 421200525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.28992,51.07854,51.28992,51.07854",
+    "geom:latitude":51.07854,
+    "geom:longitude":51.28992,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Kr\u016bgloozernoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u0433\u043b\u043e\u043e\u0437\u0435\u0440\u043d\u043e\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Krugloozernoye"
+    ],
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":609167,
+    "qs:gn_pop":2977,
+    "qs:name":"Krugloozernyy",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Batys Qazaqstan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1308252,
+    "qs:woe_adm0":23424871,
+    "qs:woe_id":2264594,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609167,
+        "gp:id":2264594,
+        "qs:id":1308252
+    },
+    "wof:country":"KZ",
+    "wof:created":1459010028,
+    "wof:geomhash":"ec1f828faed678fb8a90b8c5f7026d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421200525,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":421200525,
+    "wof:lastmodified":1505340769,
+    "wof:name":"Krugloozernyy",
+    "wof:parent_id":85672893,
+    "wof:placetype":"locality",
+    "wof:population":2977,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.28992,
+    51.07854,
+    51.28992,
+    51.07854
+],
+  "geometry": {"coordinates":[51.28992,51.07854],"type":"Point"}
+}

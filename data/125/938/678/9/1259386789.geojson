@@ -1,0 +1,81 @@
+{
+  "id": 1259386789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.47154,44.43047,77.47154,44.43047",
+    "geom:latitude":44.43047,
+    "geom:longitude":77.47154,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sarybulak",
+    "gn:country_code":"KZ",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519633,
+    "gn:latitude":44.43047,
+    "gn:longitude":77.47154,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Sarybulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sarybulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0430\u0440\u044b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Karagash",
+        "Sarybulakskiy",
+        "Sarybulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519633
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"16e6a4cb013795afc13767f73217639d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785423,
+            "locality_id":1259386789,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1259386789,
+    "wof:lastmodified":1537659611,
+    "wof:name":"Sarybulak",
+    "wof:parent_id":1108785423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.47154,
+    44.43047,
+    77.47154,
+    44.43047
+],
+  "geometry": {"coordinates":[77.47154,44.43047],"type":"Point"}
+}

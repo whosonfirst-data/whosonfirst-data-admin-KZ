@@ -1,0 +1,67 @@
+{
+  "id": 1259698287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.63333,51.73333,76.63333,51.73333",
+    "geom:latitude":51.73333,
+    "geom:longitude":76.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bes-Terek",
+    "gn:country_code":"KZ",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525379,
+    "gn:latitude":51.73333,
+    "gn:longitude":76.63333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Bes-Terek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525379
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b2eaa300d2e294de106d158508811150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785551,
+            "locality_id":1259698287,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259698287,
+    "wof:lastmodified":1537043814,
+    "wof:name":"Bes-Terek",
+    "wof:parent_id":1108785551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.63333,
+    51.73333,
+    76.63333,
+    51.73333
+],
+  "geometry": {"coordinates":[76.63333,51.73333],"type":"Point"}
+}

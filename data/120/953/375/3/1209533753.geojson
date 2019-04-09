@@ -1,0 +1,61 @@
+{
+  "id": 1209533753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.9,51.55,51.9,51.55",
+    "geom:latitude":51.55,
+    "geom:longitude":51.9,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Savichev",
+    "gn:country_code":"KZ",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608418,
+    "gn:latitude":51.55,
+    "gn:longitude":51.9,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Savichev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608418
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ef7dbe37932c04986ef3ca2a744559be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209533753
+        }
+    ],
+    "wof:id":1209533753,
+    "wof:lastmodified":1536284204,
+    "wof:name":"Savichev",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.9,
+    51.55,
+    51.9,
+    51.55
+],
+  "geometry": {"coordinates":[51.9,51.55],"type":"Point"}
+}

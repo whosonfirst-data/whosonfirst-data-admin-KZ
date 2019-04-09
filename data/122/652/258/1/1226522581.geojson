@@ -1,0 +1,72 @@
+{
+  "id": 1226522581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.76667,50.8,73.76667,50.8",
+    "geom:latitude":50.8,
+    "geom:longitude":73.76667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Abdem",
+    "gn:country_code":"KZ",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526964,
+    "gn:latitude":50.8,
+    "gn:longitude":73.76667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Abdem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abdem Omar",
+        "Abdyem",
+        "Abdem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526964
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d991d5c4dc224ba034b05ae27176da31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1226522581,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226522581,
+    "wof:lastmodified":1537659931,
+    "wof:name":"Abdem",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.76666999999998,
+    50.8,
+    73.76666999999998,
+    50.8
+],
+  "geometry": {"coordinates":[73.76666999999998,50.8],"type":"Point"}
+}

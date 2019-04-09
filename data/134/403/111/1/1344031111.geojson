@@ -1,0 +1,73 @@
+{
+  "id": 1344031111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.40357,50.37599,80.40357,50.37599",
+    "geom:latitude":50.37599,
+    "geom:longitude":80.40357,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Babinskiy Kar'yer",
+    "gn:country_code":"KZ",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1483532,
+    "gn:latitude":50.37599,
+    "gn:longitude":80.40357,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Babinskiy Kar\u2019yer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Babinskiy Kar\u2019yer"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u041a\u0430\u0440\u044c\u0435\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1483532
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5900660d5e8e607ec97ea5b83af978cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1344031111,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1344031111,
+    "wof:lastmodified":1537659462,
+    "wof:name":"Babinskiy Kar'yer",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.40357,
+    50.37599,
+    80.40357,
+    50.37599
+],
+  "geometry": {"coordinates":[80.40357,50.37599],"type":"Point"}
+}

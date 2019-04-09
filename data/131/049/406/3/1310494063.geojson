@@ -1,0 +1,67 @@
+{
+  "id": 1310494063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.98333,46.58333,48.98333,46.58333",
+    "geom:latitude":46.58333,
+    "geom:longitude":48.98333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sennoy",
+    "gn:country_code":"KZ",
+    "gn:dem":-27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608389,
+    "gn:latitude":46.58333,
+    "gn:longitude":48.98333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Sennoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608389
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c017305a90a2d70e32010e98e8bcd4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1310494063,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1310494063,
+    "wof:lastmodified":1536934183,
+    "wof:name":"Sennoy",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.98333,
+    46.58333,
+    48.98333,
+    46.58333
+],
+  "geometry": {"coordinates":[48.98333,46.58333],"type":"Point"}
+}

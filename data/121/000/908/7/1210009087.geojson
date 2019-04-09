@@ -1,0 +1,80 @@
+{
+  "id": 1210009087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.68236,46.56457,48.68236,46.56457",
+    "geom:latitude":46.56457,
+    "geom:longitude":48.68236,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gangyushkino",
+    "gn:country_code":"KZ",
+    "gn:dem":-27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":453608,
+    "gn:latitude":46.56457,
+    "gn:longitude":48.68236,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Gangyushk\u012bno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gangyushk\u012bno"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0441\u0442\u0430\u043b\u0430\u043f"
+    ],
+    "name:und_x_variant":[
+        "Zhastalap",
+        "Dzhas-Talap",
+        "Dzhas Talal",
+        "Ganyushkinotobe",
+        "Gangyushk\u012bno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":453608
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9584c5b8254232f99b6ef1982ef5c67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1210009087,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1210009087,
+    "wof:lastmodified":1537659336,
+    "wof:name":"Gangyushkino",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.68236,
+    46.56457,
+    48.68236,
+    46.56457
+],
+  "geometry": {"coordinates":[48.68236,46.56457],"type":"Point"}
+}

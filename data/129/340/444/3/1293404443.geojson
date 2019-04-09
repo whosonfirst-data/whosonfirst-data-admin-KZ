@@ -1,0 +1,71 @@
+{
+  "id": 1293404443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.83058,50.60403,70.83058,50.60403",
+    "geom:latitude":50.60403,
+    "geom:longitude":70.83058,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kairly",
+    "gn:country_code":"KZ",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523649,
+    "gn:latitude":50.60403,
+    "gn:longitude":70.83058,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kairly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kayrly",
+        "Kairly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523649
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6779efba379163f710cff791217a3bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785625,
+            "locality_id":1293404443,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293404443,
+    "wof:lastmodified":1537659802,
+    "wof:name":"Kairly",
+    "wof:parent_id":1108785625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.83058,
+    50.60403,
+    70.83058,
+    50.60403
+],
+  "geometry": {"coordinates":[70.83058,50.60403],"type":"Point"}
+}

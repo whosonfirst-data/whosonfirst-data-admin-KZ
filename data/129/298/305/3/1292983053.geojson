@@ -1,0 +1,79 @@
+{
+  "id": 1292983053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.49397,52.58388,67.49397,52.58388",
+    "geom:latitude":52.58388,
+    "geom:longitude":67.49397,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Litvinovka",
+    "gn:country_code":"KZ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521312,
+    "gn:latitude":52.58388,
+    "gn:longitude":67.49397,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Litvinovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Litvinovka"
+    ],
+    "name:kaz_x_preferred":[
+        "L\u012btv\u012bnovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041b\u0438\u0442\u0432\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u0432\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521312
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c1d1b02bf85205f4beeb1a81dd29a9c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1292983053,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1292983053,
+    "wof:lastmodified":1537659708,
+    "wof:name":"Litvinovka",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.49396999999999,
+    52.58388000000001,
+    67.49396999999999,
+    52.58388000000001
+],
+  "geometry": {"coordinates":[67.49396999999999,52.58388000000001],"type":"Point"}
+}

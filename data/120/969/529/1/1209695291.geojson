@@ -1,0 +1,64 @@
+{
+  "id": 1209695291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.65162,54.23691,63.65162,54.23691",
+    "geom:latitude":54.23691,
+    "geom:longitude":63.65162,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kamenka",
+    "gn:country_code":"KZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540465,
+    "gn:latitude":54.23691,
+    "gn:longitude":63.65162,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kamenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540465
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ff63d1b23f8046c8cb97c35aa3487923",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209695291
+        }
+    ],
+    "wof:id":1209695291,
+    "wof:lastmodified":1537660032,
+    "wof:name":"Kamenka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.65162,
+    54.23691,
+    63.65162,
+    54.23691
+],
+  "geometry": {"coordinates":[63.65162,54.23691],"type":"Point"}
+}

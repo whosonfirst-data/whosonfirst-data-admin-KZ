@@ -1,0 +1,76 @@
+{
+  "id": 1310293165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.69153,51.7371,77.69153,51.7371",
+    "geom:latitude":51.7371,
+    "geom:longitude":77.69153,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dameli",
+    "gn:country_code":"KZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413823,
+    "gn:latitude":51.7371,
+    "gn:longitude":77.69153,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Dameli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "D\u00e4meli"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u04d9\u043c\u0435\u043b\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043c\u0435\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413823
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5ab975ed37e7691a45f0a4ca0d82fe73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785559,
+            "locality_id":1310293165,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310293165,
+    "wof:lastmodified":1537660140,
+    "wof:name":"Dameli",
+    "wof:parent_id":1108785559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.69153,
+    51.7371,
+    77.69153,
+    51.7371
+],
+  "geometry": {"coordinates":[77.69153,51.7371],"type":"Point"}
+}

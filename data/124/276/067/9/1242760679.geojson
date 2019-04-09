@@ -1,0 +1,70 @@
+{
+  "id": 1242760679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.72762,50.70524,78.72762,50.70524",
+    "geom:latitude":50.70524,
+    "geom:longitude":78.72762,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Aktobe",
+    "gn:country_code":"KZ",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449708,
+    "gn:latitude":50.70524,
+    "gn:longitude":78.72762,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Aktobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0442\u043e\u0431\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449708
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7c6dba0ee0af187c9e47589c2b2688fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785639,
+            "locality_id":1242760679,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1242760679,
+    "wof:lastmodified":1537660152,
+    "wof:name":"Aktobe",
+    "wof:parent_id":1108785639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.72762,
+    50.70524,
+    78.72762,
+    50.70524
+],
+  "geometry": {"coordinates":[78.72762,50.70524],"type":"Point"}
+}

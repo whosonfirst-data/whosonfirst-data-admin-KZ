@@ -1,0 +1,73 @@
+{
+  "id": 1327217251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.67981,45.91995,61.67981,45.91995",
+    "geom:latitude":45.91995,
+    "geom:longitude":61.67981,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Shomishkol",
+    "gn:country_code":"KZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519069,
+    "gn:latitude":45.91995,
+    "gn:longitude":61.67981,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sh\u00f6mishk\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shomshikol\u2019",
+        "Shamyshkol\u2019",
+        "Shomyshkol\u2019",
+        "Sh\u00f6mishk\u00f6l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519069
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8f890f04bfce5b03a707c441ea6b9d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785633,
+            "locality_id":1327217251,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1327217251,
+    "wof:lastmodified":1537659589,
+    "wof:name":"Shomishkol",
+    "wof:parent_id":1108785633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.67981,
+    45.91995,
+    61.67981,
+    45.91995
+],
+  "geometry": {"coordinates":[61.67981,45.91995],"type":"Point"}
+}

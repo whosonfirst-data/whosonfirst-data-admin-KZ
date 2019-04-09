@@ -1,0 +1,79 @@
+{
+  "id": 1343736001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65529,43.031,71.65529,43.031",
+    "geom:latitude":43.031,
+    "geom:longitude":71.65529,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zhibek Zholy",
+    "gn:country_code":"KZ",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11118834,
+    "gn:latitude":43.031,
+    "gn:longitude":71.65529,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Zhibek Zholy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhibek Zholy"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0456\u0431\u0435\u043a \u0416\u043e\u043b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Korolevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11118834
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"489f2c20d5d1b8daa724b3c9160c3e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785487,
+            "locality_id":1343736001,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1343736001,
+    "wof:lastmodified":1537660102,
+    "wof:name":"Zhibek Zholy",
+    "wof:parent_id":1108785487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65529000000002,
+    43.03100000000001,
+    71.65529000000002,
+    43.03100000000001
+],
+  "geometry": {"coordinates":[71.65529000000002,43.03100000000001],"type":"Point"}
+}

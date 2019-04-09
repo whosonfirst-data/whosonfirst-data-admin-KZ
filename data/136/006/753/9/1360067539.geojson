@@ -1,0 +1,79 @@
+{
+  "id": 1360067539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.64654,54.44796,68.64654,54.44796",
+    "geom:latitude":54.44796,
+    "geom:longitude":68.64654,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Semipalatnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530974,
+    "gn:latitude":54.44796,
+    "gn:longitude":68.64654,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Semipalatnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Semipalatnoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Sem\u012bpalatnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0435\u043c\u0438\u043f\u0430\u043b\u0430\u0442\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u043f\u0430\u043b\u0430\u0442\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530974
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"becc62969a47886fe1b1e9e7678edf85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1360067539,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1360067539,
+    "wof:lastmodified":1537659949,
+    "wof:name":"Semipalatnoye",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.64654,
+    54.44796,
+    68.64654,
+    54.44796
+],
+  "geometry": {"coordinates":[68.64654,54.44796],"type":"Point"}
+}

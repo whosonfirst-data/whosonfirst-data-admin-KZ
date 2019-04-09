@@ -1,0 +1,77 @@
+{
+  "id": 1310019647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.63099,43.19839,76.63099,43.19839",
+    "geom:latitude":43.19839,
+    "geom:longitude":76.63099,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qaskeleng",
+    "gn:country_code":"KZ",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519931,
+    "gn:latitude":43.19839,
+    "gn:longitude":76.63099,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Qaskeleng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kaskelen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u0441\u043a\u0435\u043b\u0435\u04a3"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u043a\u0435\u043b\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519931,
+        "wk:page":"Kaskelen"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f5cb25a3c9e68c8f524bd1cecc9743ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785419,
+            "locality_id":1310019647,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1310019647,
+    "wof:lastmodified":1537659625,
+    "wof:name":"Qaskeleng",
+    "wof:parent_id":1108785419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.63099,
+    43.19839,
+    76.63099,
+    43.19839
+],
+  "geometry": {"coordinates":[76.63099,43.19839],"type":"Point"}
+}

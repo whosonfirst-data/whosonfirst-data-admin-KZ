@@ -1,0 +1,77 @@
+{
+  "id": 1344271837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.11191,50.4209,52.11191,50.4209",
+    "geom:latitude":50.4209,
+    "geom:longitude":52.11191,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sasykkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608427,
+    "gn:latitude":50.4209,
+    "gn:longitude":52.11191,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sasykkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sasykkol'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0441\u044b\u043a\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Sasyk-Kul\u2019",
+        "Sasykkol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608427
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b8589b3d7ac0184af289689aa580eca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785495,
+            "locality_id":1344271837,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1344271837,
+    "wof:lastmodified":1537659371,
+    "wof:name":"Sasykkol'",
+    "wof:parent_id":1108785495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.11191,
+    50.4209,
+    52.11191,
+    50.4209
+],
+  "geometry": {"coordinates":[52.11191,50.4209],"type":"Point"}
+}

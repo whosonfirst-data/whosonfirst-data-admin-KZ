@@ -1,0 +1,72 @@
+{
+  "id": 1192991533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.73512,46.65629,82.73512,46.65629",
+    "geom:latitude":46.65629,
+    "geom:longitude":82.73512,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Baqty",
+    "gn:country_code":"KZ",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525842,
+    "gn:latitude":46.65629,
+    "gn:longitude":82.73512,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Baqty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakhty",
+        "Bakht\u00f6",
+        "Baqty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525842
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3ac5a089ec73431bb70baee1369d89e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1192991533,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1192991533,
+    "wof:lastmodified":1537659892,
+    "wof:name":"Baqty",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.73512,
+    46.65629000000001,
+    82.73512,
+    46.65629000000001
+],
+  "geometry": {"coordinates":[82.73511999999999,46.65629000000001],"type":"Point"}
+}

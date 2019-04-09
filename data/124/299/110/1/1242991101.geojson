@@ -1,0 +1,73 @@
+{
+  "id": 1242991101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.78067,43.27575,67.78067,43.27575",
+    "geom:latitude":43.27575,
+    "geom:longitude":67.78067,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kumkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11118781,
+    "gn:latitude":43.27575,
+    "gn:longitude":67.78067,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Kumkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kumkol\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u043c\u043a\u043e\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11118781
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9a3fbdf2d49df668737bda36efca7205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1242991101,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1242991101,
+    "wof:lastmodified":1537660099,
+    "wof:name":"Kumkol'",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.78067,
+    43.27575,
+    67.78067,
+    43.27575
+],
+  "geometry": {"coordinates":[67.78067,43.27575],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226425253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.55553,48.87657,82.55553,48.87657",
+    "geom:latitude":48.87657,
+    "geom:longitude":82.55553,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Malyy Bukon'",
+    "gn:country_code":"KZ",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521169,
+    "gn:latitude":48.87657,
+    "gn:longitude":82.55553,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Malyy Bukon\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kishi B\u00f6ken"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0456\u0448\u0456 \u0411\u04e9\u043a\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "Malyy Bukon\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u043b\u044b\u0439 \u0411\u0443\u043a\u043e\u043d\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521169
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b446fda40f5fa1511b12f9f4aff8a580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1226425253,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226425253,
+    "wof:lastmodified":1537659699,
+    "wof:name":"Malyy Bukon'",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.55553,
+    48.87657,
+    82.55553,
+    48.87657
+],
+  "geometry": {"coordinates":[82.55553,48.87657],"type":"Point"}
+}

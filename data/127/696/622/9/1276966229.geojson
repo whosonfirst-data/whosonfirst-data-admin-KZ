@@ -1,0 +1,79 @@
+{
+  "id": 1276966229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.06348,49.47289,77.06348,49.47289",
+    "geom:latitude":49.47289,
+    "geom:longitude":77.06348,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kiikkoshkan",
+    "gn:country_code":"KZ",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522667,
+    "gn:latitude":49.47289,
+    "gn:longitude":77.06348,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kiikkoshkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041a\u0438\u0456\u043a\u049b\u0430\u0448\u049b\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0438\u043a\u043a\u043e\u0448\u043a\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kol\u2019shik",
+        "Kiikkashkan",
+        "K\u012bikqashqan",
+        "Kiikkoshkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522667
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"274273982b3da4856c5d5b6cd17392d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1276966229,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1276966229,
+    "wof:lastmodified":1537659767,
+    "wof:name":"Kiikkoshkan",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.06348,
+    49.47289,
+    77.06348,
+    49.47289
+],
+  "geometry": {"coordinates":[77.06348,49.47289],"type":"Point"}
+}

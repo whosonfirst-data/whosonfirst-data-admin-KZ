@@ -1,0 +1,76 @@
+{
+  "id": 1327138303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.63402,44.40239,77.63402,44.40239",
+    "geom:latitude":44.40239,
+    "geom:longitude":77.63402,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kazansu",
+    "gn:country_code":"KZ",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055368,
+    "gn:latitude":44.40239,
+    "gn:longitude":77.63402,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Kazansu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qazans\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0437\u0430\u043d\u0441\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043d\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055368
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b2c2576a4d13e033b2f5fae5ee4c844c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785423,
+            "locality_id":1327138303,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1327138303,
+    "wof:lastmodified":1537660092,
+    "wof:name":"Kazansu",
+    "wof:parent_id":1108785423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.63401999999998,
+    44.40239,
+    77.63401999999998,
+    44.40239
+],
+  "geometry": {"coordinates":[77.63401999999998,44.40239],"type":"Point"}
+}

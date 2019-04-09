@@ -1,0 +1,70 @@
+{
+  "id": 1343344423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.11574,51.20832,81.11574,51.20832",
+    "geom:latitude":51.20832,
+    "geom:longitude":81.11574,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Post Desyatyy Kilometr",
+    "gn:country_code":"KZ",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11509646,
+    "gn:latitude":51.20832,
+    "gn:longitude":81.11574,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Post Desyatyy Kilometr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Barnaul",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0442 \u0414\u0435\u0441\u044f\u0442\u044b\u0439 \u041a\u0438\u043b\u043e\u043c\u0435\u0442\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11509646
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bf1966d7c58cf73d2a99a45d8ad1c907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1343344423,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343344423,
+    "wof:lastmodified":1537660177,
+    "wof:name":"Post Desyatyy Kilometr",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.11574,
+    51.20832,
+    81.11574,
+    51.20832
+],
+  "geometry": {"coordinates":[81.11574,51.20832],"type":"Point"}
+}

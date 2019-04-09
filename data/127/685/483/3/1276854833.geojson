@@ -1,0 +1,77 @@
+{
+  "id": 1276854833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.53451,40.78001,68.53451,40.78001",
+    "geom:latitude":40.78001,
+    "geom:longitude":68.53451,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sotskurylys",
+    "gn:country_code":"KZ",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529781,
+    "gn:latitude":40.78001,
+    "gn:longitude":68.53451,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Sotskurylys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0446\u043a\u0443\u0440\u044b\u043b\u044b\u0441"
+    ],
+    "name:und_x_variant":[
+        "Sotskurlys",
+        "Sotskurylys"
+    ],
+    "name:uzb_x_preferred":[
+        "Tabisti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529781
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2d3bcc79a69e1c1310ec4ee422007652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1276854833,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276854833,
+    "wof:lastmodified":1537659934,
+    "wof:name":"Sotskurylys",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.53451,
+    40.78001,
+    68.53451,
+    40.78001
+],
+  "geometry": {"coordinates":[68.53451,40.78001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344264655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.04981,50.78054,70.04981,50.78054",
+    "geom:latitude":50.78054,
+    "geom:longitude":70.04981,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Qumkol",
+    "gn:country_code":"KZ",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521830,
+    "gn:latitude":50.78054,
+    "gn:longitude":70.04981,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Qumk\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kumkol\u2019",
+        "Qumk\u00f6l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521830
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"628f576fdf5f2c0700de20051545c27b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785395,
+            "locality_id":1344264655,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1344264655,
+    "wof:lastmodified":1537659729,
+    "wof:name":"Qumkol",
+    "wof:parent_id":1108785395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.04981,
+    50.78054,
+    70.04981,
+    50.78054
+],
+  "geometry": {"coordinates":[70.04980999999999,50.78054],"type":"Point"}
+}

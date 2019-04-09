@@ -1,0 +1,70 @@
+{
+  "id": 1343647943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.54309,52.31182,63.54309,52.31182",
+    "geom:latitude":52.31182,
+    "geom:longitude":63.54309,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Lesnichestvo",
+    "gn:country_code":"KZ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11421776,
+    "gn:latitude":52.31182,
+    "gn:longitude":63.54309,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Lesnichestvo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0441\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11421776
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"31d5c53859cbf8a8fa0e4a87035281e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785659,
+            "locality_id":1343647943,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343647943,
+    "wof:lastmodified":1537660150,
+    "wof:name":"Lesnichestvo",
+    "wof:parent_id":1108785659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.54309,
+    52.31182,
+    63.54309,
+    52.31182
+],
+  "geometry": {"coordinates":[63.54309,52.31182],"type":"Point"}
+}

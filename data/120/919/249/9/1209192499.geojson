@@ -1,0 +1,67 @@
+{
+  "id": 1209192499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.21797,51.32782,77.21797,51.32782",
+    "geom:latitude":51.32782,
+    "geom:longitude":77.21797,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zimovka Tarakty",
+    "gn:country_code":"KZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518469,
+    "gn:latitude":51.32782,
+    "gn:longitude":77.21797,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Zimovka Tarakty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u043c\u043e\u0432\u043a\u0430 \u0422\u0430\u0440\u0430\u043a\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Tarakty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518469
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"58522b3e6c7b6670a1712c311d852b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209192499
+        }
+    ],
+    "wof:id":1209192499,
+    "wof:lastmodified":1537659564,
+    "wof:name":"Zimovka Tarakty",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.21797,
+    51.32782,
+    77.21797,
+    51.32782
+],
+  "geometry": {"coordinates":[77.21796999999999,51.32782],"type":"Point"}
+}

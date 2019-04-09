@@ -1,0 +1,73 @@
+{
+  "id": 1360094873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03333,49.76667,48.03333,49.76667",
+    "geom:latitude":49.76667,
+    "geom:longitude":48.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhakpas",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607674,
+    "gn:latitude":49.76667,
+    "gn:longitude":48.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zhakpas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bis-Uba",
+        "Zhaklas",
+        "Zhakpas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607674
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"246e7a2baff4c461ddc499cf63108258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1360094873,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1360094873,
+    "wof:lastmodified":1537659345,
+    "wof:name":"Zhakpas",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03333,
+    49.76667,
+    48.03333,
+    49.76667
+],
+  "geometry": {"coordinates":[48.03333,49.76667],"type":"Point"}
+}

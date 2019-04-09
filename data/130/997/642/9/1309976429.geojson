@@ -1,0 +1,79 @@
+{
+  "id": 1309976429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.95602,48.67782,82.95602,48.67782",
+    "geom:latitude":48.67782,
+    "geom:longitude":82.95602,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Shughylbay",
+    "gn:country_code":"KZ",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527250,
+    "gn:latitude":48.67782,
+    "gn:longitude":82.95602,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Shughylbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shughylbay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u04b1\u0493\u044b\u043b\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "Chugul\u2019bay"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0443\u0433\u0443\u043b\u044c\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527250
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"49524c024163a81b543296f142ab9123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1309976429,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1309976429,
+    "wof:lastmodified":1537660187,
+    "wof:name":"Shughylbay",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.95602,
+    48.67782,
+    82.95602,
+    48.67782
+],
+  "geometry": {"coordinates":[82.95602,48.67782],"type":"Point"}
+}

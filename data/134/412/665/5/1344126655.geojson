@@ -1,0 +1,76 @@
+{
+  "id": 1344126655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.79696,54.52733,70.79696,54.52733",
+    "geom:latitude":54.52733,
+    "geom:longitude":70.79696,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bastomar",
+    "gn:country_code":"KZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531113,
+    "gn:latitude":54.52733,
+    "gn:longitude":70.79696,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Bastomar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bastomar"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0441\u0442\u043e\u043c\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u0442\u043e\u043c\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531113
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bfeff40b6c42c403b572147cb9cd3a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1344126655,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1344126655,
+    "wof:lastmodified":1537659954,
+    "wof:name":"Bastomar",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.79696,
+    54.52733000000001,
+    70.79696,
+    54.52733000000001
+],
+  "geometry": {"coordinates":[70.79696,54.52733000000001],"type":"Point"}
+}

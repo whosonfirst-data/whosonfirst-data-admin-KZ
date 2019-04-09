@@ -1,0 +1,72 @@
+{
+  "id": 1276128565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.6,50.38333,65.6,50.38333",
+    "geom:latitude":50.38333,
+    "geom:longitude":65.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koen-Tyubek",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522558,
+    "gn:latitude":50.38333,
+    "gn:longitude":65.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Koen-Tyubek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koyan-Tubek",
+        "Koen-Tyubek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522558
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2715cfc6675bb2abd47b790e3d7eec86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1276128565,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1276128565,
+    "wof:lastmodified":1537659763,
+    "wof:name":"Koen-Tyubek",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.6,
+    50.38333,
+    65.6,
+    50.38333
+],
+  "geometry": {"coordinates":[65.59999999999999,50.38333],"type":"Point"}
+}

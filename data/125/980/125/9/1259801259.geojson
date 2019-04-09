@@ -1,0 +1,73 @@
+{
+  "id": 1259801259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.11844,43.06615,79.11844,43.06615",
+    "geom:latitude":43.06615,
+    "geom:longitude":79.11844,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhalauly",
+    "gn:country_code":"KZ",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507820,
+    "gn:latitude":43.06615,
+    "gn:longitude":79.11844,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Zhalauly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhala\u016bly"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u043b\u0430\u0443\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507820
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9d4edbede073896b0148a9d455471343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1259801259,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1259801259,
+    "wof:lastmodified":1537660173,
+    "wof:name":"Zhalauly",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.11844,
+    43.06615,
+    79.11844,
+    43.06615
+],
+  "geometry": {"coordinates":[79.11844000000001,43.06615],"type":"Point"}
+}

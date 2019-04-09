@@ -1,0 +1,87 @@
+{
+  "id": 1260050253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.69755,48.7829,82.69755,48.7829",
+    "geom:latitude":48.7829,
+    "geom:longitude":82.69755,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ulken Boken",
+    "gn:country_code":"KZ",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525215,
+    "gn:latitude":48.7829,
+    "gn:longitude":82.69755,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"\u00dclken B\u00f6ken",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00dclken B\u00f6ken"
+    ],
+    "name:kaz_x_preferred":[
+        "\u04ae\u043b\u043a\u0435\u043d \u0411\u04e9\u043a\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b.\u0411\u0443\u043a\u043e\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "Bol\u2019shoy Bukon\u2019",
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0411\u0443\u043a\u043e\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shaya Bukon\u2019",
+        "Bol\u2019shoy Boken",
+        "Bukon\u2019",
+        "Bol\u2019shaya Boken\u2019",
+        "\u00dclken B\u00f6ken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525215
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f4b24cc14ccfb59da4531c39f8cb59fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1260050253,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1260050253,
+    "wof:lastmodified":1537659866,
+    "wof:name":"Ulken Boken",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.69755,
+    48.7829,
+    82.69755,
+    48.7829
+],
+  "geometry": {"coordinates":[82.69755000000001,48.7829],"type":"Point"}
+}

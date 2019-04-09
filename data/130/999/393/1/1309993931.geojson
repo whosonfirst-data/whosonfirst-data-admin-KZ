@@ -1,0 +1,78 @@
+{
+  "id": 1309993931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.85068,53.233,77.85068,53.233",
+    "geom:latitude":53.233,
+    "geom:longitude":77.85068,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yekaterinoslavka",
+    "gn:country_code":"KZ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517279,
+    "gn:latitude":53.233,
+    "gn:longitude":77.85068,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Yekaterinoslavka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Ekater\u012bnoslavka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u043e\u0441\u043b\u0430\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yekaterinoslavskoye",
+        "Yekaterinoslavskiy",
+        "Yekaterinoslavka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517279
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"84d0b2c69cf4cfa5b243b93ceeeaf97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785351,
+            "locality_id":1309993931,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1309993931,
+    "wof:lastmodified":1537659510,
+    "wof:name":"Yekaterinoslavka",
+    "wof:parent_id":1108785351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.85068000000003,
+    53.233,
+    77.85068000000003,
+    53.233
+],
+  "geometry": {"coordinates":[77.85068000000003,53.233],"type":"Point"}
+}

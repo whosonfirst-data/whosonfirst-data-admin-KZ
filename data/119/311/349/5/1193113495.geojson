@@ -1,0 +1,70 @@
+{
+  "id": 1193113495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.55277,43.06162,73.55277,43.06162",
+    "geom:latitude":43.06162,
+    "geom:longitude":73.55277,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kayyndysay",
+    "gn:country_code":"KZ",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8220789,
+    "gn:latitude":43.06162,
+    "gn:longitude":73.55277,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Kayyndysay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u044b\u043d\u0434\u044b\u0441\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8220789
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0fbf96ec3e5f346d1ffb3ffb1f565e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785319,
+            "locality_id":1193113495,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1193113495,
+    "wof:lastmodified":1537660041,
+    "wof:name":"Kayyndysay",
+    "wof:parent_id":1108785319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.55277,
+    43.06162,
+    73.55277,
+    43.06162
+],
+  "geometry": {"coordinates":[73.55277,43.06162],"type":"Point"}
+}

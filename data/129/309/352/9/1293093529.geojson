@@ -1,0 +1,73 @@
+{
+  "id": 1293093529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.98333,47.1,50.98333,47.1",
+    "geom:latitude":47.1,
+    "geom:longitude":50.98333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Shilik",
+    "gn:country_code":"KZ",
+    "gn:dem":-28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608314,
+    "gn:latitude":47.1,
+    "gn:longitude":50.98333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Shilik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shilik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043b\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608314
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"516169aa5c58d5e9de63a626a7c5a6de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785449,
+            "locality_id":1293093529,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1293093529,
+    "wof:lastmodified":1537659367,
+    "wof:name":"Shilik",
+    "wof:parent_id":1108785449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.98333,
+    47.1,
+    50.98333,
+    47.1
+],
+  "geometry": {"coordinates":[50.98333,47.1],"type":"Point"}
+}

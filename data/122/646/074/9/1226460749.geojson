@@ -1,0 +1,67 @@
+{
+  "id": 1226460749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.2,43.45,78.2,43.45",
+    "geom:latitude":43.45,
+    "geom:longitude":78.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aul Dosmambet",
+    "gn:country_code":"KZ",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526013,
+    "gn:latitude":43.45,
+    "gn:longitude":78.2,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Aul Dosmambet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526013
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a9ea2392802f17c5baa4a7d6f16a16a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1226460749,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1226460749,
+    "wof:lastmodified":1536621804,
+    "wof:name":"Aul Dosmambet",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.2,
+    43.45,
+    78.2,
+    43.45
+],
+  "geometry": {"coordinates":[78.2,43.45],"type":"Point"}
+}

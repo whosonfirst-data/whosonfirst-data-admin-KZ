@@ -1,0 +1,72 @@
+{
+  "id": 1343766115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.75231,44.15965,78.75231,44.15965",
+    "geom:latitude":44.15965,
+    "geom:longitude":78.75231,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kalinino",
+    "gn:country_code":"KZ",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524027,
+    "gn:latitude":44.15965,
+    "gn:longitude":78.75231,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kal\u012bn\u012bno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imeni Kalinina",
+        "Kal\u012bn\u012bno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524027,
+        "wk:page":"Kalinino%2C_Kazakhstan"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ae563d036bc1f728a1b7fdf297cce37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785423,
+            "locality_id":1343766115,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1343766115,
+    "wof:lastmodified":1537659815,
+    "wof:name":"Kalinino",
+    "wof:parent_id":1108785423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.75231,
+    44.15965,
+    78.75231,
+    44.15965
+],
+  "geometry": {"coordinates":[78.75230999999999,44.15965],"type":"Point"}
+}

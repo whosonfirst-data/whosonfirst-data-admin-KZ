@@ -1,0 +1,81 @@
+{
+  "id": 1242846903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.73142,54.46314,70.73142,54.46314",
+    "geom:latitude":54.46314,
+    "geom:longitude":70.73142,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Uzunkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517515,
+    "gn:latitude":54.46314,
+    "gn:longitude":70.73142,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Uzunkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uzynk\u00f6l"
+    ],
+    "name:kaz_x_preferred":[
+        "\u04b0\u0437\u044b\u043d\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u0443\u043d\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Uzunkol\u2019",
+        "Uzynkol\u2019skiy",
+        "Uzynk\u00f6l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517515
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f42a777cd0b8b5cca1809c28b881016a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1242846903,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1242846903,
+    "wof:lastmodified":1537659528,
+    "wof:name":"Uzunkol'",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.73142,
+    54.46314,
+    70.73142,
+    54.46314
+],
+  "geometry": {"coordinates":[70.73142,54.46314],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293756735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.73333,47.36667,79.73333,47.36667",
+    "geom:latitude":47.36667,
+    "geom:longitude":79.73333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tarlauly",
+    "gn:country_code":"KZ",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518448,
+    "gn:latitude":47.36667,
+    "gn:longitude":79.73333,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Tarlauly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Tarlauly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518448
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ec9dc97fe5ce027f164ddaa79df4ee8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785459,
+            "locality_id":1293756735,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293756735,
+    "wof:lastmodified":1537659563,
+    "wof:name":"Tarlauly",
+    "wof:parent_id":1108785459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.73333000000002,
+    47.36667,
+    79.73333000000002,
+    47.36667
+],
+  "geometry": {"coordinates":[79.73333000000002,47.36667],"type":"Point"}
+}

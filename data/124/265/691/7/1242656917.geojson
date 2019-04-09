@@ -1,0 +1,83 @@
+{
+  "id": 1242656917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.19101,51.86259,65.19101,51.86259",
+    "geom:latitude":51.86259,
+    "geom:longitude":65.19101,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Terekti",
+    "gn:country_code":"KZ",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517448,
+    "gn:latitude":51.86259,
+    "gn:longitude":65.19101,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Terekti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "V\u012bl'yamsk\u012by"
+    ],
+    "name:kaz_x_preferred":[
+        "Terekti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f\u043c\u0441\u0430"
+    ],
+    "name:und_x_variant":[
+        "Imeni Vil\u2019yamsa",
+        "Vil\u2019yamsskiy",
+        "V\u012bl\u2019yams Atyndaghy",
+        "Vil\u2019yamsa",
+        "V\u012bl\u2019yamsk\u012by"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517448
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5b0fc8f5bc43eecab46fbb66cec7ce35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1242656917,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1242656917,
+    "wof:lastmodified":1537659523,
+    "wof:name":"Terekti",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.19100999999999,
+    51.86259,
+    65.19100999999999,
+    51.86259
+],
+  "geometry": {"coordinates":[65.19100999999999,51.86259],"type":"Point"}
+}

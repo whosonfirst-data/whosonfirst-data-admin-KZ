@@ -1,0 +1,79 @@
+{
+  "id": 1310574413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8653,50.32327,80.8653,50.32327",
+    "geom:latitude":50.32327,
+    "geom:longitude":80.8653,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bulak",
+    "gn:country_code":"KZ",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525024,
+    "gn:latitude":50.32327,
+    "gn:longitude":80.8653,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bulak"
+    ],
+    "name:kaz_x_preferred":[
+        "Bulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525024
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7cebb1ae48ae02c08280ed6e8a6e4eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1310574413,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310574413,
+    "wof:lastmodified":1537659858,
+    "wof:name":"Bulak",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8653,
+    50.32327,
+    80.8653,
+    50.32327
+],
+  "geometry": {"coordinates":[80.8653,50.32327],"type":"Point"}
+}

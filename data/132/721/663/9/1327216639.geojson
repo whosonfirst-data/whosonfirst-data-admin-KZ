@@ -1,0 +1,73 @@
+{
+  "id": 1327216639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.08767,48.80847,85.08767,48.80847",
+    "geom:latitude":48.80847,
+    "geom:longitude":85.08767,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sarytau",
+    "gn:country_code":"KZ",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11438227,
+    "gn:latitude":48.80847,
+    "gn:longitude":85.08767,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Saryta\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Saryta\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0430\u0440\u044b\u0442\u0430\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11438227
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8c1d4a15b3a932f30fae07a4392e5123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1327216639,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327216639,
+    "wof:lastmodified":1537660151,
+    "wof:name":"Sarytau",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.08766999999997,
+    48.80847,
+    85.08766999999997,
+    48.80847
+],
+  "geometry": {"coordinates":[85.08766999999997,48.80847],"type":"Point"}
+}

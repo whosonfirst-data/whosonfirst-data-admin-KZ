@@ -1,0 +1,73 @@
+{
+  "id": 1293853535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.08818,54.82052,69.08818,54.82052",
+    "geom:latitude":54.82052,
+    "geom:longitude":69.08818,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Pribrezhnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530628,
+    "gn:latitude":54.82052,
+    "gn:longitude":69.08818,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Pribrezhnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Pr\u012bbrezhnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u0440\u0438\u0431\u0440\u0435\u0436\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530628
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2b68ee9355aa0546ad72936414f7738a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1293853535,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293853535,
+    "wof:lastmodified":1537659941,
+    "wof:name":"Pribrezhnoye",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.08818000000001,
+    54.82052,
+    69.08818000000001,
+    54.82052
+],
+  "geometry": {"coordinates":[69.08818000000001,54.82052],"type":"Point"}
+}

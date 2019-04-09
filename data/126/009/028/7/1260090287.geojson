@@ -1,0 +1,77 @@
+{
+  "id": 1260090287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.58336,53.93494,67.58336,53.93494",
+    "geom:latitude":53.93494,
+    "geom:longitude":67.58336,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lenin",
+    "gn:country_code":"KZ",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532167,
+    "gn:latitude":53.93494,
+    "gn:longitude":67.58336,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Len\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Len\u012bn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Lenino",
+        "Len\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532167
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1e2f040219de0798f58ca9a31480906b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1260090287,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1260090287,
+    "wof:lastmodified":1537659960,
+    "wof:name":"Lenin",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.58336,
+    53.93494000000001,
+    67.58336,
+    53.93494000000001
+],
+  "geometry": {"coordinates":[67.58336,53.93494000000001],"type":"Point"}
+}

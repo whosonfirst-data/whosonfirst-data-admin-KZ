@@ -1,0 +1,71 @@
+{
+  "id": 1276851111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.01667,48.8,75.01667,48.8",
+    "geom:latitude":48.8,
+    "geom:longitude":75.01667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bogoslovskiy Rudnik",
+    "gn:country_code":"KZ",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525231,
+    "gn:latitude":48.8,
+    "gn:longitude":75.01667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Bogoslovskiy Rudnik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bogoslovskiy",
+        "Bogoslovskiy Rudnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525231
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"00d09e16695ed5e1f862889c34e24f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1276851111,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1276851111,
+    "wof:lastmodified":1537659866,
+    "wof:name":"Bogoslovskiy Rudnik",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.01666999999998,
+    48.8,
+    75.01666999999998,
+    48.8
+],
+  "geometry": {"coordinates":[75.01666999999998,48.8],"type":"Point"}
+}

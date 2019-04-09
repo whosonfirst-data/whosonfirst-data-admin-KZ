@@ -1,0 +1,88 @@
+{
+  "id": 1226215813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.06374,49.0337,80.06374,49.0337",
+    "geom:latitude":49.0337,
+    "geom:longitude":80.06374,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Arkat",
+    "gn:country_code":"KZ",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516850,
+    "gn:latitude":49.0337,
+    "gn:longitude":80.06374,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Arkat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Arqaty"
+    ],
+    "name:kaz_x_preferred":[
+        "Arkhat"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0440\u0445\u0430\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043a\u0430\u0442"
+    ],
+    "name:rus_x_variant":[
+        "\u0416\u0430\u043d\u0430\u043d\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Zhananur",
+        "Razvaliny Arkat",
+        "Arkat",
+        "Arqaty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516850
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2d151c62694cf87a8ecf9aca2ec10145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785727,
+            "locality_id":1226215813,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226215813,
+    "wof:lastmodified":1537659488,
+    "wof:name":"Arkat",
+    "wof:parent_id":1108785727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.06374,
+    49.0337,
+    80.06374,
+    49.0337
+],
+  "geometry": {"coordinates":[80.06374,49.0337],"type":"Point"}
+}

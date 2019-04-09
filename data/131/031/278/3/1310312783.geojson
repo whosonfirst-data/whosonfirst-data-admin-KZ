@@ -1,0 +1,73 @@
+{
+  "id": 1310312783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.67398,52.17539,68.67398,52.17539",
+    "geom:latitude":52.17539,
+    "geom:longitude":68.67398,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Arbuzinka",
+    "gn:country_code":"KZ",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149491,
+    "gn:latitude":52.17539,
+    "gn:longitude":68.67398,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Arbuzinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Arb\u016bz\u012bnka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0440\u0431\u0443\u0437\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149491
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"06195c64e046258819407b5795116e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785397,
+            "locality_id":1310312783,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310312783,
+    "wof:lastmodified":1537660123,
+    "wof:name":"Arbuzinka",
+    "wof:parent_id":1108785397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.67398,
+    52.17539,
+    68.67398,
+    52.17539
+],
+  "geometry": {"coordinates":[68.67398,52.17539],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1209898329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.41234,53.37643,67.41234,53.37643",
+    "geom:latitude":53.37643,
+    "geom:longitude":67.41234,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Prekrasnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520059,
+    "gn:latitude":53.37643,
+    "gn:longitude":67.41234,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Prekrasnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Prekrasnoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Prekrasnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520059
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1bca57a94f879ede587dd55654f89324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1209898329,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1209898329,
+    "wof:lastmodified":1537659634,
+    "wof:name":"Prekrasnoye",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.41234,
+    53.37643000000001,
+    67.41234,
+    53.37643000000001
+],
+  "geometry": {"coordinates":[67.41234,53.37643000000001],"type":"Point"}
+}

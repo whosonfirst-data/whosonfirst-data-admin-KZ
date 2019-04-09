@@ -1,0 +1,70 @@
+{
+  "id": 1293113173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3,50.33333,80.3,50.33333",
+    "geom:latitude":50.33333,
+    "geom:longitude":80.3,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pes'yany Dal'niye",
+    "gn:country_code":"KZ",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520174,
+    "gn:latitude":50.33333,
+    "gn:longitude":80.3,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Pes\u2019yany Dal\u2019niye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Pes\u2019yany Dal\u2019niye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520174
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"31791d601ec94bce6f4b03e8dd4cb4f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1293113173,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293113173,
+    "wof:lastmodified":1537659642,
+    "wof:name":"Pes'yany Dal'niye",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3,
+    50.33333,
+    80.3,
+    50.33333
+],
+  "geometry": {"coordinates":[80.3,50.33333],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209809193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06625,40.8472,68.06625,40.8472",
+    "geom:latitude":40.8472,
+    "geom:longitude":68.06625,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kuybyshevo",
+    "gn:country_code":"KZ",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535820,
+    "gn:latitude":40.8472,
+    "gn:longitude":68.06625,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kuybyshevo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "T\u00fcrkebay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u04af\u0440\u043a\u0435\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0439\u0431\u044b\u0448\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535820
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b6e2fa69fa301e5cd084d0a61ac9082f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1209809193,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1209809193,
+    "wof:lastmodified":1537660003,
+    "wof:name":"Kuybyshevo",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06625,
+    40.8472,
+    68.06625,
+    40.8472
+],
+  "geometry": {"coordinates":[68.06625,40.8472],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226021267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.62797,52.86874,63.62797,52.86874",
+    "geom:latitude":52.86874,
+    "geom:longitude":63.62797,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Polovnikovka",
+    "gn:country_code":"KZ",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520087,
+    "gn:latitude":52.86874,
+    "gn:longitude":63.62797,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Polovnikovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Polovnikovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u0432\u043d\u0438\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Polovnikovskiy",
+        "Polovinkovskiy",
+        "Polovnikovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520087
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d0419a3317190fbba671f29a9b6714f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1226021267,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226021267,
+    "wof:lastmodified":1537659636,
+    "wof:name":"Polovnikovka",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.62797,
+    52.86874,
+    63.62797,
+    52.86874
+],
+  "geometry": {"coordinates":[63.62797,52.86874],"type":"Point"}
+}

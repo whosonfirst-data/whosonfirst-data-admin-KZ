@@ -1,0 +1,80 @@
+{
+  "id": 1343442155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.98914,50.79395,74.98914,50.79395",
+    "geom:latitude":50.79395,
+    "geom:longitude":74.98914,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kokdombak",
+    "gn:country_code":"KZ",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522530,
+    "gn:latitude":50.79395,
+    "gn:longitude":74.98914,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kokdombak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "K\u00f6kdombaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u04e9\u043a\u0434\u043e\u043c\u0431\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0434\u043e\u043c\u0431\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kokdambak",
+        "Kokdombak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522530
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"be080174a1fc7f847ffc0daaed94e556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1343442155,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343442155,
+    "wof:lastmodified":1537659762,
+    "wof:name":"Kokdombak",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.98914,
+    50.79395,
+    74.98914,
+    50.79395
+],
+  "geometry": {"coordinates":[74.98914000000001,50.79395],"type":"Point"}
+}

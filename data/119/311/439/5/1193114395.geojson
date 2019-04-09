@@ -1,0 +1,70 @@
+{
+  "id": 1193114395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.99147,48.15625,73.99147,48.15625",
+    "geom:latitude":48.15625,
+    "geom:longitude":73.99147,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kuzekadyr",
+    "gn:country_code":"KZ",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521618,
+    "gn:latitude":48.15625,
+    "gn:longitude":73.99147,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kuzekadyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0437\u0435\u043a\u0430\u0434\u044b\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521618
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"789c1828b6b80a6a98132eb48aeb7950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1193114395,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1193114395,
+    "wof:lastmodified":1537659723,
+    "wof:name":"Kuzekadyr",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.99146999999998,
+    48.15625,
+    73.99146999999998,
+    48.15625
+],
+  "geometry": {"coordinates":[73.99146999999998,48.15625],"type":"Point"}
+}

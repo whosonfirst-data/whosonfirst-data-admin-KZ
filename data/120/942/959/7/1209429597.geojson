@@ -1,0 +1,61 @@
+{
+  "id": 1209429597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.37539,51.92128,66.37539,51.92128",
+    "geom:latitude":51.92128,
+    "geom:longitude":66.37539,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Krasivinskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522051,
+    "gn:latitude":51.92128,
+    "gn:longitude":66.37539,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Krasivinskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522051
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f9cf061d47fbeafa15e4b83c17db0c52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209429597
+        }
+    ],
+    "wof:id":1209429597,
+    "wof:lastmodified":1536287275,
+    "wof:name":"Krasivinskiy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.37539,
+    51.92128,
+    66.37539,
+    51.92128
+],
+  "geometry": {"coordinates":[66.37539,51.92128],"type":"Point"}
+}

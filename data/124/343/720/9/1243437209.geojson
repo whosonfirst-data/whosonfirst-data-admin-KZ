@@ -1,0 +1,77 @@
+{
+  "id": 1243437209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.94765,48.76289,81.94765,48.76289",
+    "geom:latitude":48.76289,
+    "geom:longitude":81.94765,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Petropavlovka",
+    "gn:country_code":"KZ",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520169,
+    "gn:latitude":48.76289,
+    "gn:longitude":81.94765,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Petropavlovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Petropavlovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Petropavlovskiy",
+        "Petropavlovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520169
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"da7bf755ad1b6b3db2a781590d42ce18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1243437209,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243437209,
+    "wof:lastmodified":1537659641,
+    "wof:name":"Petropavlovka",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.94765,
+    48.76289000000001,
+    81.94765,
+    48.76289000000001
+],
+  "geometry": {"coordinates":[81.94765,48.76289000000001],"type":"Point"}
+}

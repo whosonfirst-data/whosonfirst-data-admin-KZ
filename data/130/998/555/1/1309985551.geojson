@@ -1,0 +1,79 @@
+{
+  "id": 1309985551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.76555,51.3348,64.76555,51.3348",
+    "geom:latitude":51.3348,
+    "geom:longitude":64.76555,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Qozha",
+    "gn:country_code":"KZ",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520593,
+    "gn:latitude":51.3348,
+    "gn:longitude":64.76555,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Qozha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qozha"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u041d\u0430\u0443\u0440\u0437\u0443\u043c\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Imeni Voroshilova",
+        "Novonaurzumskiy",
+        "Na\u016brzym",
+        "Qozha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520593
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"70862877fa704ad5b89e8473f0f5d3e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785513,
+            "locality_id":1309985551,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1309985551,
+    "wof:lastmodified":1537659668,
+    "wof:name":"Qozha",
+    "wof:parent_id":1108785513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.76555,
+    51.3348,
+    64.76555,
+    51.3348
+],
+  "geometry": {"coordinates":[64.76555,51.3348],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1243151481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.66638,52.29294,62.66638,52.29294",
+    "geom:latitude":52.29294,
+    "geom:longitude":62.66638,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kayyndykol'",
+    "gn:country_code":"KZ",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523652,
+    "gn:latitude":52.29294,
+    "gn:longitude":62.66638,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Kayyndykol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kayyndykol'"
+    ],
+    "name:kaz_x_preferred":[
+        "Qayyndyk\u00f6l"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0438\u043d\u0434\u044b\u043a\u043e\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "Kayyndykol\u2019"
+    ],
+    "name:und_x_variant":[
+        "Kaindykol\u2019",
+        "Imeni Belinskogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523652
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f0a42e252c688e7a4d2a651ff1b402cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785535,
+            "locality_id":1243151481,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1243151481,
+    "wof:lastmodified":1537659802,
+    "wof:name":"Kayyndykol'",
+    "wof:parent_id":1108785535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.66638,
+    52.29294,
+    62.66638,
+    52.29294
+],
+  "geometry": {"coordinates":[62.66638,52.29294],"type":"Point"}
+}

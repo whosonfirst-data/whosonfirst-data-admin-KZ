@@ -1,0 +1,89 @@
+{
+  "id": 890431269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.10861,43.49111,52.10861,43.49111",
+    "geom:latitude":43.49111,
+    "geom:longitude":52.10861,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":4085,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u043d\u0430\u0439\u0448\u0439"
+    ],
+    "name:dut_x_preferred":[
+        "Munajsji"
+    ],
+    "name:eng_x_preferred":[
+        "Munayshy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u04b1\u043d\u0430\u0439\u0448\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043d\u0430\u0439\u0448\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Munajsji"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0430\u0439\u0448\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Munayshi"
+    ],
+    "qs:name":"Munayshy",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608778,
+        "gp:id":12514531,
+        "qs:id":275118,
+        "wd:id":"Q12555151"
+    },
+    "wof:country":"KZ",
+    "wof:created":1469051885,
+    "wof:geomhash":"2ab4a04e86f675e700eb8ad37cee1da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890431269,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":890431269,
+    "wof:lastmodified":1514469727,
+    "wof:name":"Munayshy",
+    "wof:parent_id":85672923,
+    "wof:placetype":"locality",
+    "wof:population":4085,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.10861,
+    43.49111,
+    52.10861,
+    43.49111
+],
+  "geometry": {"coordinates":[52.10861,43.49111],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225962433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.48889,43.27139,75.48889,43.27139",
+    "geom:latitude":43.27139,
+    "geom:longitude":75.48889,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Akterek",
+    "gn:country_code":"KZ",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526593,
+    "gn:latitude":43.27139,
+    "gn:longitude":75.48889,
+    "gn:modification_date":"1994-03-31",
+    "gn:name":"Akterek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526593
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c79fd87fdc6d8174f073361780e7cd4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1225962433,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1225962433,
+    "wof:lastmodified":1536844152,
+    "wof:name":"Akterek",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.48889,
+    43.27139,
+    75.48889,
+    43.27139
+],
+  "geometry": {"coordinates":[75.48889,43.27139],"type":"Point"}
+}

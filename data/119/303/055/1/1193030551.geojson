@@ -1,0 +1,67 @@
+{
+  "id": 1193030551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.13333,49.75,53.13333,49.75",
+    "geom:latitude":49.75,
+    "geom:longitude":53.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Orbisan-Agach",
+    "gn:country_code":"KZ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608667,
+    "gn:latitude":49.75,
+    "gn:longitude":53.13333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Orbisan-Agach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608667
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"65e25e0654cd9fd002455bb83c2dffa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785493,
+            "locality_id":1193030551,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1193030551,
+    "wof:lastmodified":1536364551,
+    "wof:name":"Orbisan-Agach",
+    "wof:parent_id":1108785493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.13333000000001,
+    49.75,
+    53.13333000000001,
+    49.75
+],
+  "geometry": {"coordinates":[53.13333000000001,49.75],"type":"Point"}
+}

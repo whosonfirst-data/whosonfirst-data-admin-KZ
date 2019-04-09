@@ -1,0 +1,67 @@
+{
+  "id": 1343757877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25,41.55,69.25,41.55",
+    "geom:latitude":41.55,
+    "geom:longitude":69.25,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chit-Bulak",
+    "gn:country_code":"KZ",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524758,
+    "gn:latitude":41.55,
+    "gn:longitude":69.25,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Chit-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524758
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0379a2d38c157e276818cd7b968c64b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1343757877,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1343757877,
+    "wof:lastmodified":1536813996,
+    "wof:name":"Chit-Bulak",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25,
+    41.55,
+    69.25,
+    41.55
+],
+  "geometry": {"coordinates":[69.25,41.55],"type":"Point"}
+}

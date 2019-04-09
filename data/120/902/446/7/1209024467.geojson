@@ -1,0 +1,73 @@
+{
+  "id": 1209024467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.95533,42.99125,69.95533,42.99125",
+    "geom:latitude":42.99125,
+    "geom:longitude":69.95533,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qyzyl Oktyabr'",
+    "gn:country_code":"KZ",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641327,
+    "gn:latitude":42.99125,
+    "gn:longitude":69.95533,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Qyzyl Oktyabr\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyzyl Oktyabr\u2019"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b \u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "Kyzyloktyabr\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u044b\u0437\u044b\u043b\u043e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641327
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"502f60a803b26403831cdcf9071d0e4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209024467
+        }
+    ],
+    "wof:id":1209024467,
+    "wof:lastmodified":1537660056,
+    "wof:name":"Qyzyl Oktyabr'",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.95533,
+    42.99125,
+    69.95533,
+    42.99125
+],
+  "geometry": {"coordinates":[69.95533,42.99125],"type":"Point"}
+}

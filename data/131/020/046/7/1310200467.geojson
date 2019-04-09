@@ -1,0 +1,70 @@
+{
+  "id": 1310200467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.43764,43.44946,68.43764,43.44946",
+    "geom:latitude":43.44946,
+    "geom:longitude":68.43764,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kushata",
+    "gn:country_code":"KZ",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8062193,
+    "gn:latitude":43.44946,
+    "gn:longitude":68.43764,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Kushata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0448\u0430\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8062193
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"700c9aa464848890f69376821899620c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1310200467,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1310200467,
+    "wof:lastmodified":1537660036,
+    "wof:name":"Kushata",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.43764,
+    43.44946,
+    68.43764,
+    43.44946
+],
+  "geometry": {"coordinates":[68.43764,43.44946],"type":"Point"}
+}

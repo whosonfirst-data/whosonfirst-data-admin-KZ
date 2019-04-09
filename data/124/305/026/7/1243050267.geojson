@@ -1,0 +1,79 @@
+{
+  "id": 1243050267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.33984,54.77667,67.33984,54.77667",
+    "geom:latitude":54.77667,
+    "geom:longitude":67.33984,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zheleznoye",
+    "gn:country_code":"KZ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516627,
+    "gn:latitude":54.77667,
+    "gn:longitude":67.33984,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Zheleznoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zheleznoe"
+    ],
+    "name:kaz_x_preferred":[
+        "Zheleznoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516627
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"387d45dc0c438bc3a18deda988134d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1243050267,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243050267,
+    "wof:lastmodified":1537659478,
+    "wof:name":"Zheleznoye",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.33984,
+    54.77667,
+    67.33984,
+    54.77667
+],
+  "geometry": {"coordinates":[67.33984,54.77667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1260303395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.59128,43.196,80.59128,43.196",
+    "geom:latitude":43.196,
+    "geom:longitude":80.59128,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Oyqaraghay",
+    "gn:country_code":"KZ",
+    "gn:dem":2588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11522538,
+    "gn:latitude":43.196,
+    "gn:longitude":80.59128,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Oyqaraghay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Oyqaraghay"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u0439\u049b\u0430\u0440\u0430\u0493\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0439\u043a\u0430\u0440\u0430\u0433\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Oykaragay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11522538
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fe47943ad381f1aed7aae792752f213b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1260303395,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1260303395,
+    "wof:lastmodified":1537660184,
+    "wof:name":"Oyqaraghay",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.59128,
+    43.19600000000001,
+    80.59128,
+    43.19600000000001
+],
+  "geometry": {"coordinates":[80.59128,43.19600000000001],"type":"Point"}
+}

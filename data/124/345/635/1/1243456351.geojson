@@ -1,0 +1,79 @@
+{
+  "id": 1243456351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.77394,52.54715,70.77394,52.54715",
+    "geom:latitude":52.54715,
+    "geom:longitude":70.77394,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zauralovka",
+    "gn:country_code":"KZ",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517071,
+    "gn:latitude":52.54715,
+    "gn:longitude":70.77394,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Zauralovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zauralovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Za\u016bralovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0417\u0430\u0443\u0440\u0430\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0443\u0440\u0430\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517071
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"80b3fc1bef8d7261701022681c646d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1243456351,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1243456351,
+    "wof:lastmodified":1537659497,
+    "wof:name":"Zauralovka",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.77394,
+    52.54715,
+    70.77394,
+    52.54715
+],
+  "geometry": {"coordinates":[70.77394,52.54715],"type":"Point"}
+}

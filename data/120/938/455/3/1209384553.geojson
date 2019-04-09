@@ -1,0 +1,64 @@
+{
+  "id": 1209384553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.42399,54.38495,68.42399,54.38495",
+    "geom:latitude":54.38495,
+    "geom:longitude":68.42399,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Polyakovka",
+    "gn:country_code":"KZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530981,
+    "gn:latitude":54.38495,
+    "gn:longitude":68.42399,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Polyakovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530981
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"870e0fe6baf91e2a12a758cc71bb626c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209384553
+        }
+    ],
+    "wof:id":1209384553,
+    "wof:lastmodified":1537659949,
+    "wof:name":"Polyakovka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.42399,
+    54.38495,
+    68.42399,
+    54.38495
+],
+  "geometry": {"coordinates":[68.42399,54.38495],"type":"Point"}
+}

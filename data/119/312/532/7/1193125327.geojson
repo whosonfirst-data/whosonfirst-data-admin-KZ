@@ -1,0 +1,75 @@
+{
+  "id": 1193125327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.54698,51.43201,77.54698,51.43201",
+    "geom:latitude":51.43201,
+    "geom:longitude":77.54698,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kirovo",
+    "gn:country_code":"KZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523975,
+    "gn:latitude":51.43201,
+    "gn:longitude":77.54698,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kirovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041a\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Imeni Kirova",
+        "K\u012brovo",
+        "Kirovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523975
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"90c3d1ac1b4463cd659beb3e59b33ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1193125327,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1193125327,
+    "wof:lastmodified":1537659814,
+    "wof:name":"Kirovo",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.54698,
+    51.43201,
+    77.54698,
+    51.43201
+],
+  "geometry": {"coordinates":[77.54698,51.43201],"type":"Point"}
+}

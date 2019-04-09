@@ -1,0 +1,83 @@
+{
+  "id": 1343938945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.61365,52.89288,77.61365,52.89288",
+    "geom:latitude":52.89288,
+    "geom:longitude":77.61365,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Obraztsovka",
+    "gn:country_code":"KZ",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520483,
+    "gn:latitude":52.89288,
+    "gn:longitude":77.61365,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Obraztsovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Obraztsovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Ovraztsovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u0432\u0440\u0430\u0437\u0446\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0440\u0430\u0437\u0446\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Obraztsovo",
+        "Obraztsovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520483
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b884602e82af731f09baecda3bc20351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785351,
+            "locality_id":1343938945,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343938945,
+    "wof:lastmodified":1537659660,
+    "wof:name":"Obraztsovka",
+    "wof:parent_id":1108785351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.61365,
+    52.89288000000001,
+    77.61365,
+    52.89288000000001
+],
+  "geometry": {"coordinates":[77.61365000000001,52.89288000000001],"type":"Point"}
+}

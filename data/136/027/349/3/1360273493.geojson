@@ -1,0 +1,70 @@
+{
+  "id": 1360273493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.51375,52.52023,75.51375,52.52023",
+    "geom:latitude":52.52023,
+    "geom:longitude":75.51375,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Taskuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11112015,
+    "gn:latitude":52.52023,
+    "gn:longitude":75.51375,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Taskuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0441\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11112015
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"eff9c94e40c1f65a9ab2e787e4b58723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785553,
+            "locality_id":1360273493,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1360273493,
+    "wof:lastmodified":1537660095,
+    "wof:name":"Taskuduk",
+    "wof:parent_id":1108785553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.51375,
+    52.52023000000001,
+    75.51375,
+    52.52023000000001
+],
+  "geometry": {"coordinates":[75.51375,52.52023000000001],"type":"Point"}
+}

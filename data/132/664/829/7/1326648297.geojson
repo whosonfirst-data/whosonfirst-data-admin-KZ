@@ -1,0 +1,67 @@
+{
+  "id": 1326648297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.91661,51.90402,66.91661,51.90402",
+    "geom:latitude":51.90402,
+    "geom:longitude":66.91661,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kumay",
+    "gn:country_code":"KZ",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521851,
+    "gn:latitude":51.90402,
+    "gn:longitude":66.91661,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kumay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521851
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8ca50ca1c242288545a639946ad8e525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785621,
+            "locality_id":1326648297,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1326648297,
+    "wof:lastmodified":1536815936,
+    "wof:name":"Kumay",
+    "wof:parent_id":1108785621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.91660999999999,
+    51.90402,
+    66.91660999999999,
+    51.90402
+],
+  "geometry": {"coordinates":[66.91660999999999,51.90402],"type":"Point"}
+}

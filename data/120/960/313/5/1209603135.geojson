@@ -1,0 +1,61 @@
+{
+  "id": 1209603135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.06667,53.05,78.06667,53.05",
+    "geom:latitude":53.05,
+    "geom:longitude":78.06667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ostrovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520305,
+    "gn:latitude":53.05,
+    "gn:longitude":78.06667,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Ostrovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520305
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4ba8545b722e0654304a4245c24b567e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209603135
+        }
+    ],
+    "wof:id":1209603135,
+    "wof:lastmodified":1536282100,
+    "wof:name":"Ostrovskiy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.06667,
+    53.05,
+    78.06667,
+    53.05
+],
+  "geometry": {"coordinates":[78.06667,53.05],"type":"Point"}
+}

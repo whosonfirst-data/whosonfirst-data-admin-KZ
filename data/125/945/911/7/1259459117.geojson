@@ -1,0 +1,67 @@
+{
+  "id": 1259459117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.93333,43.11667,72.93333,43.11667",
+    "geom:latitude":43.11667,
+    "geom:longitude":72.93333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bektimis",
+    "gn:country_code":"KZ",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525535,
+    "gn:latitude":43.11667,
+    "gn:longitude":72.93333,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Bektimis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525535
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0bd9ef9d259c2829dc45d08356956c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785489,
+            "locality_id":1259459117,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1259459117,
+    "wof:lastmodified":1536893581,
+    "wof:name":"Bektimis",
+    "wof:parent_id":1108785489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.93333,
+    43.11667,
+    72.93333,
+    43.11667
+],
+  "geometry": {"coordinates":[72.93333,43.11667],"type":"Point"}
+}

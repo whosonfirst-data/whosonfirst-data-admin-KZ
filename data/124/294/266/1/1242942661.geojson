@@ -1,0 +1,79 @@
+{
+  "id": 1242942661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.71537,53.7945,69.71537,53.7945",
+    "geom:latitude":53.7945,
+    "geom:longitude":69.71537,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Novoprirechnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520565,
+    "gn:latitude":53.7945,
+    "gn:longitude":69.71537,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Novoprirechnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novoprirechnoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Novopr\u012brechnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u043e\u043f\u0440\u0438\u0440\u0435\u0447\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u0440\u0438\u0440\u0435\u0447\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520565
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9af33e547a3dbb31ac6d410bcbae71ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1242942661,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1242942661,
+    "wof:lastmodified":1537659665,
+    "wof:name":"Novoprirechnoye",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.71537,
+    53.7945,
+    69.71537,
+    53.7945
+],
+  "geometry": {"coordinates":[69.71536999999999,53.7945],"type":"Point"}
+}

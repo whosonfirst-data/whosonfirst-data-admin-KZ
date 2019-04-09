@@ -1,0 +1,83 @@
+{
+  "id": 1242689413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.06208,52.07417,66.06208,52.07417",
+    "geom:latitude":52.07417,
+    "geom:longitude":66.06208,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhanyspay",
+    "gn:country_code":"KZ",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516764,
+    "gn:latitude":52.07417,
+    "gn:longitude":66.06208,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Zhanyspay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhanyspay"
+    ],
+    "name:kaz_x_preferred":[
+        "Zhanysbay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u043d\u044b\u0441\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u044b\u0441\u043f\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Dzhanyspay",
+        "Zhanyspay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516764
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"94c495d83bd23e8e152e757ee75f41a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785621,
+            "locality_id":1242689413,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1242689413,
+    "wof:lastmodified":1537659483,
+    "wof:name":"Zhanyspay",
+    "wof:parent_id":1108785621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.06208000000001,
+    52.07417,
+    66.06208000000001,
+    52.07417
+],
+  "geometry": {"coordinates":[66.06208000000001,52.07417],"type":"Point"}
+}

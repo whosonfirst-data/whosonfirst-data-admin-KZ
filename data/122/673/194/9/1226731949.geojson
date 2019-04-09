@@ -1,0 +1,77 @@
+{
+  "id": 1226731949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.94229,54.10357,67.94229,54.10357",
+    "geom:latitude":54.10357,
+    "geom:longitude":67.94229,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ondiris",
+    "gn:country_code":"KZ",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519767,
+    "gn:latitude":54.10357,
+    "gn:longitude":67.94229,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Ondiris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043d\u0434\u0438\u0440\u0438\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0430\u043c\u0430\u043c\u0431\u0435\u0442"
+    ],
+    "name:und_x_variant":[
+        "Samambet",
+        "Ondiris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519767
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0467615e499971fa8453fba594850ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785563,
+            "locality_id":1226731949,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226731949,
+    "wof:lastmodified":1537659615,
+    "wof:name":"Ondiris",
+    "wof:parent_id":1108785563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.94229,
+    54.10357,
+    67.94229,
+    54.10357
+],
+  "geometry": {"coordinates":[67.94229,54.10357],"type":"Point"}
+}

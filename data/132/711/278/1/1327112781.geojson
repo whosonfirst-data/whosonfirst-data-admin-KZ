@@ -1,0 +1,71 @@
+{
+  "id": 1327112781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.05,52.45,78.05,52.45",
+    "geom:latitude":52.45,
+    "geom:longitude":78.05,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mironovka",
+    "gn:country_code":"KZ",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520915,
+    "gn:latitude":52.45,
+    "gn:longitude":78.05,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Mironovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mironovo",
+        "Mironovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520915
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"79f01c757effa81b3a089a40de1775e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1327112781,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1327112781,
+    "wof:lastmodified":1537659687,
+    "wof:name":"Mironovka",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.05,
+    52.45,
+    78.05,
+    52.45
+],
+  "geometry": {"coordinates":[78.05,52.45],"type":"Point"}
+}

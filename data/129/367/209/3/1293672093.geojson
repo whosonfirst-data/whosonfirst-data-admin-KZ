@@ -1,0 +1,79 @@
+{
+  "id": 1293672093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.91241,47.63177,82.91241,47.63177",
+    "geom:latitude":47.63177,
+    "geom:longitude":82.91241,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kumkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521833,
+    "gn:latitude":47.63177,
+    "gn:longitude":82.91241,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kumkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qumk\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u04b1\u043c\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Kumkol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521833
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8636b2e309a126f5df9c4c937ce0afab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785469,
+            "locality_id":1293672093,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293672093,
+    "wof:lastmodified":1537659730,
+    "wof:name":"Kumkol'",
+    "wof:parent_id":1108785469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.91241,
+    47.63177,
+    82.91241,
+    47.63177
+],
+  "geometry": {"coordinates":[82.91240999999999,47.63177],"type":"Point"}
+}

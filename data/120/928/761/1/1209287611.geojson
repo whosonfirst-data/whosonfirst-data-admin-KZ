@@ -1,0 +1,71 @@
+{
+  "id": 1209287611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.44457,49.63535,81.44457,49.63535",
+    "geom:latitude":49.63535,
+    "geom:longitude":81.44457,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chernigovka",
+    "gn:country_code":"KZ",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524838,
+    "gn:latitude":49.63535,
+    "gn:longitude":81.44457,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Chernigovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Chern\u012bgovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chernigovskoye",
+        "Chernigovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524838
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1ebf196c521ab808f67aad2a97a3713f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209287611
+        }
+    ],
+    "wof:id":1209287611,
+    "wof:lastmodified":1537659852,
+    "wof:name":"Chernigovka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.44457,
+    49.63535,
+    81.44457,
+    49.63535
+],
+  "geometry": {"coordinates":[81.44457,49.63535],"type":"Point"}
+}

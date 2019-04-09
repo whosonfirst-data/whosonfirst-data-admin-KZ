@@ -1,0 +1,73 @@
+{
+  "id": 1225954149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.65,49.58333,78.65,49.58333",
+    "geom:latitude":49.58333,
+    "geom:longitude":78.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sarzhal",
+    "gn:country_code":"KZ",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519521,
+    "gn:latitude":49.58333,
+    "gn:longitude":78.65,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sarzhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sarzhal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0436\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519521
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1a0e6bdaab0775e7758e89752648e321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1225954149,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1225954149,
+    "wof:lastmodified":1537659609,
+    "wof:name":"Sarzhal",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.65,
+    49.58333,
+    78.65,
+    49.58333
+],
+  "geometry": {"coordinates":[78.65000000000001,49.58333],"type":"Point"}
+}

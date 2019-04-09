@@ -1,0 +1,73 @@
+{
+  "id": 1193116625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.52158,52.85011,61.52158,52.85011",
+    "geom:latitude":52.85011,
+    "geom:longitude":61.52158,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Frunzenskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8477379,
+    "gn:latitude":52.85011,
+    "gn:longitude":61.52158,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Frunzenskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Fr\u016bnzenskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0424\u0440\u0443\u043d\u0437\u0435\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8477379
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e76ee9d0276a13e378165250f8223271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785661,
+            "locality_id":1193116625,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1193116625,
+    "wof:lastmodified":1537660043,
+    "wof:name":"Frunzenskoye",
+    "wof:parent_id":1108785661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.52158000000001,
+    52.85011,
+    61.52158000000001,
+    52.85011
+],
+  "geometry": {"coordinates":[61.52158000000001,52.85011],"type":"Point"}
+}

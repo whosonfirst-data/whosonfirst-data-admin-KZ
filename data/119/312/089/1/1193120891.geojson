@@ -1,0 +1,73 @@
+{
+  "id": 1193120891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.29212,40.72685,68.29212,40.72685",
+    "geom:latitude":40.72685,
+    "geom:longitude":68.29212,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tretiy Internatsional",
+    "gn:country_code":"KZ",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956122,
+    "gn:latitude":40.72685,
+    "gn:longitude":68.29212,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Tretiy Internatsional",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u0442\u0438\u0439 \u0418\u043d\u0442\u0435\u0440\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b"
+    ],
+    "name:uzb_x_preferred":[
+        "Besketik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956122
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7e0971e83c0f1cde63911570fd033618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1193120891,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1193120891,
+    "wof:lastmodified":1537660079,
+    "wof:name":"Tretiy Internatsional",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.29212,
+    40.72685,
+    68.29212,
+    40.72685
+],
+  "geometry": {"coordinates":[68.29212,40.72685],"type":"Point"}
+}

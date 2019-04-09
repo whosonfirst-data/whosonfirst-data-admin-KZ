@@ -1,0 +1,67 @@
+{
+  "id": 1343571379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.71667,47.01667,81.71667,47.01667",
+    "geom:latitude":47.01667,
+    "geom:longitude":81.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zavety Il'icha",
+    "gn:country_code":"KZ",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517068,
+    "gn:latitude":47.01667,
+    "gn:longitude":81.71667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Zavety Il\u2019icha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517068
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6c6b10021796fde6f8381ab2faa22037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1343571379,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343571379,
+    "wof:lastmodified":1537080475,
+    "wof:name":"Zavety Il'icha",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.71667,
+    47.01667,
+    81.71667,
+    47.01667
+],
+  "geometry": {"coordinates":[81.71666999999999,47.01667],"type":"Point"}
+}

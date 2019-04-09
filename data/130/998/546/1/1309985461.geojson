@@ -1,0 +1,70 @@
+{
+  "id": 1309985461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.51518,52.12935,60.51518,52.12935",
+    "geom:latitude":52.12935,
+    "geom:longitude":60.51518,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sarysay",
+    "gn:country_code":"KZ",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11422652,
+    "gn:latitude":52.12935,
+    "gn:longitude":60.51518,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Sarysay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0441\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11422652
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"880e34a419c53482770cf9e94bb7e87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785525,
+            "locality_id":1309985461,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1309985461,
+    "wof:lastmodified":1537660150,
+    "wof:name":"Sarysay",
+    "wof:parent_id":1108785525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.51518000000001,
+    52.12935,
+    60.51518000000001,
+    52.12935
+],
+  "geometry": {"coordinates":[60.51518000000001,52.12935],"type":"Point"}
+}

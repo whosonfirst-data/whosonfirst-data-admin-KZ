@@ -1,0 +1,80 @@
+{
+  "id": 1243038305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.63083,48.54896,79.63083,48.54896",
+    "geom:latitude":48.54896,
+    "geom:longitude":79.63083,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhurekadyr",
+    "gn:country_code":"KZ",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516488,
+    "gn:latitude":48.54896,
+    "gn:longitude":79.63083,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Zhurekadyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zh\u00fcrekadyr"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u04af\u0440\u0435\u043a\u0430\u0434\u044b\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u0440\u0435\u043a\u0430\u0434\u044b\u0440"
+    ],
+    "name:und_x_variant":[
+        "Zh\u00fcrekadyr",
+        "Zhurekadyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516488
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"40001e489c2cd68a0ce5a7dd818dab87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785727,
+            "locality_id":1243038305,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243038305,
+    "wof:lastmodified":1537659472,
+    "wof:name":"Zhurekadyr",
+    "wof:parent_id":1108785727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.63083,
+    48.54896,
+    79.63083,
+    48.54896
+],
+  "geometry": {"coordinates":[79.63083,48.54896],"type":"Point"}
+}

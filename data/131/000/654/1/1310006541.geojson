@@ -1,0 +1,76 @@
+{
+  "id": 1310006541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.30433,51.13618,58.30433,51.13618",
+    "geom:latitude":51.13618,
+    "geom:longitude":58.30433,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kyzylsay",
+    "gn:country_code":"KZ",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863489,
+    "gn:latitude":51.13618,
+    "gn:longitude":58.30433,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Kyzylsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyzylsay"
+    ],
+    "name:kaz_x_preferred":[
+        "Qyzylsay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0441\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863489
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"25a39ce2bdf7e01fdbc262b9d3baf244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785697,
+            "locality_id":1310006541,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1310006541,
+    "wof:lastmodified":1537659460,
+    "wof:name":"Kyzylsay",
+    "wof:parent_id":1108785697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.30433000000001,
+    51.13618,
+    58.30433000000001,
+    51.13618
+],
+  "geometry": {"coordinates":[58.30433000000001,51.13618],"type":"Point"}
+}

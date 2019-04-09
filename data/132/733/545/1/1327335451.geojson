@@ -1,0 +1,83 @@
+{
+  "id": 1327335451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.95217,52.90779,68.95217,52.90779",
+    "geom:latitude":52.90779,
+    "geom:longitude":68.95217,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Podlesnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520117,
+    "gn:latitude":52.90779,
+    "gn:longitude":68.95217,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Podlesnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Podlesnoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Podlesnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u043e\u0434\u043b\u0435\u0441\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u043b\u0435\u0441\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Podgornoye",
+        "Podlesnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520117
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5fddcc3c00bb69669c0dd4fe3a6b265c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1327335451,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327335451,
+    "wof:lastmodified":1537659639,
+    "wof:name":"Podlesnoye",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.95217,
+    52.90779000000001,
+    68.95217,
+    52.90779000000001
+],
+  "geometry": {"coordinates":[68.95217,52.90779000000001],"type":"Point"}
+}

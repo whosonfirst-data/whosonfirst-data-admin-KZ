@@ -1,0 +1,67 @@
+{
+  "id": 1226135199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.33333,47.46667,49.33333,47.46667",
+    "geom:latitude":47.46667,
+    "geom:longitude":49.33333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Imeni Chapayeva",
+    "gn:country_code":"KZ",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609842,
+    "gn:latitude":47.46667,
+    "gn:longitude":49.33333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Imeni Chapayeva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609842
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4dbd8067722358eec86f54a6dfc032ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1226135199,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1226135199,
+    "wof:lastmodified":1537089738,
+    "wof:name":"Imeni Chapayeva",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.33333,
+    47.46667,
+    49.33333,
+    47.46667
+],
+  "geometry": {"coordinates":[49.33333,47.46667],"type":"Point"}
+}

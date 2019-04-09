@@ -1,0 +1,78 @@
+{
+  "id": 1259784065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.51167,48.04417,62.51167,48.04417",
+    "geom:latitude":48.04417,
+    "geom:longitude":62.51167,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhaysangbay",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516652,
+    "gn:latitude":48.04417,
+    "gn:longitude":62.51167,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zhaysangbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhaysangbay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0439\u0441\u0430\u043d\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Zhaysanbay",
+        "Zhaysangbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516652
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"896708a07a48395ca049f8783df42e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785715,
+            "locality_id":1259784065,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1259784065,
+    "wof:lastmodified":1537659479,
+    "wof:name":"Zhaysangbay",
+    "wof:parent_id":1108785715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.51167,
+    48.04417,
+    62.51167,
+    48.04417
+],
+  "geometry": {"coordinates":[62.51167,48.04417],"type":"Point"}
+}

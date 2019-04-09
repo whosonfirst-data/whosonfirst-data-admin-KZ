@@ -1,0 +1,71 @@
+{
+  "id": 1310509079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.16936,51.44524,67.16936,51.44524",
+    "geom:latitude":51.44524,
+    "geom:longitude":67.16936,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Monastyrka",
+    "gn:country_code":"KZ",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520870,
+    "gn:latitude":51.44524,
+    "gn:longitude":67.16936,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Monastyrka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monastyrskoye",
+        "Monastyrka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520870
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"35d4919927a31c2cf904e4ad8a579fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785623,
+            "locality_id":1310509079,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310509079,
+    "wof:lastmodified":1537659684,
+    "wof:name":"Monastyrka",
+    "wof:parent_id":1108785623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.16936,
+    51.44524000000001,
+    67.16936,
+    51.44524000000001
+],
+  "geometry": {"coordinates":[67.16936,51.44524000000001],"type":"Point"}
+}

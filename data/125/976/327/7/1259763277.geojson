@@ -1,0 +1,79 @@
+{
+  "id": 1259763277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.734,48.85068,72.734,48.85068",
+    "geom:latitude":48.85068,
+    "geom:longitude":72.734,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Muqtar",
+    "gn:country_code":"KZ",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11408744,
+    "gn:latitude":48.85068,
+    "gn:longitude":72.734,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Muqtar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Muqtar"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u04b1\u049b\u0442\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0445\u0442\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Mukhtar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11408744
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"74a74ca7c4ef7ad1da87520f744b3cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1259763277,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1259763277,
+    "wof:lastmodified":1537660133,
+    "wof:name":"Muqtar",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.734,
+    48.85068,
+    72.734,
+    48.85068
+],
+  "geometry": {"coordinates":[72.73399999999999,48.85068],"type":"Point"}
+}

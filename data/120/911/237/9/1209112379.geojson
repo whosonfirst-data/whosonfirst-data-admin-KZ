@@ -1,0 +1,65 @@
+{
+  "id": 1209112379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.4,47.53333,59.4,47.53333",
+    "geom:latitude":47.53333,
+    "geom:longitude":59.4,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhanakanys",
+    "gn:country_code":"KZ",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607639,
+    "gn:latitude":47.53333,
+    "gn:longitude":59.4,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Zhanakanys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhanakonys",
+        "Zhanakanys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607639
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"95dcd459496938edbc135a23a0214163",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209112379
+        }
+    ],
+    "wof:id":1209112379,
+    "wof:lastmodified":1537659344,
+    "wof:name":"Zhanakanys",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.4,
+    47.53333,
+    59.4,
+    47.53333
+],
+  "geometry": {"coordinates":[59.4,47.53333],"type":"Point"}
+}

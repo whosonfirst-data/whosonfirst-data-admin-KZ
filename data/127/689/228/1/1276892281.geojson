@@ -1,0 +1,72 @@
+{
+  "id": 1276892281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.51742,50.28251,83.51742,50.28251",
+    "geom:latitude":50.28251,
+    "geom:longitude":83.51742,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gromotukha",
+    "gn:country_code":"KZ",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524172,
+    "gn:latitude":50.28251,
+    "gn:longitude":83.51742,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gromotukha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nizhne Gramatukha",
+        "Gromatukha",
+        "Gromotukha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524172
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"60e0f4028524c4084e2450b3f13273d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785719,
+            "locality_id":1276892281,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276892281,
+    "wof:lastmodified":1537659822,
+    "wof:name":"Gromotukha",
+    "wof:parent_id":1108785719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.51742,
+    50.28251,
+    83.51742,
+    50.28251
+],
+  "geometry": {"coordinates":[83.51742,50.28251],"type":"Point"}
+}

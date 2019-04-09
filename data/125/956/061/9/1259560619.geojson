@@ -1,0 +1,73 @@
+{
+  "id": 1259560619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.15111,50.151,76.15111,50.151",
+    "geom:latitude":50.151,
+    "geom:longitude":76.15111,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Qulbasy",
+    "gn:country_code":"KZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247219,
+    "gn:latitude":50.151,
+    "gn:longitude":76.15111,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Qulbasy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qulbasy"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u04b1\u043b\u0431\u0430\u0441\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247219
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"34bcdc46a9ed16105bc54194821ceee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1259560619,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1259560619,
+    "wof:lastmodified":1537660130,
+    "wof:name":"Qulbasy",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.15111,
+    50.151,
+    76.15111,
+    50.151
+],
+  "geometry": {"coordinates":[76.15111,50.151],"type":"Point"}
+}

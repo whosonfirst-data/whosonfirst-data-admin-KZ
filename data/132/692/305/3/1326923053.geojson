@@ -1,0 +1,67 @@
+{
+  "id": 1326923053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.53333,48.83333,53.53333,48.83333",
+    "geom:latitude":48.83333,
+    "geom:longitude":53.53333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kamokol'",
+    "gn:country_code":"KZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609716,
+    "gn:latitude":48.83333,
+    "gn:longitude":53.53333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kamokol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609716
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fa96abc56b4e05f62274ce896a9d8607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785453,
+            "locality_id":1326923053,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1326923053,
+    "wof:lastmodified":1536918621,
+    "wof:name":"Kamokol'",
+    "wof:parent_id":1108785453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.53333000000001,
+    48.83333,
+    53.53333000000001,
+    48.83333
+],
+  "geometry": {"coordinates":[53.53333000000001,48.83333],"type":"Point"}
+}

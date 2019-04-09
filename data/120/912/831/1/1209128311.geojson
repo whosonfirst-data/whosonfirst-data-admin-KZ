@@ -1,0 +1,66 @@
+{
+  "id": 1209128311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.0,48.46667,53.0,48.46667",
+    "geom:latitude":48.46667,
+    "geom:longitude":53.0,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kzyl-Kuga",
+    "gn:country_code":"KZ",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608965,
+    "gn:latitude":48.46667,
+    "gn:longitude":53.0,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kzyl-Kuga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kizyl-Kuga",
+        "Kyzyl-Kuga",
+        "Kzyl-Kuga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608965
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"45540abb416bbf1c4a3d75a1c4fd6877",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209128311
+        }
+    ],
+    "wof:id":1209128311,
+    "wof:lastmodified":1537659393,
+    "wof:name":"Kzyl-Kuga",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.0,
+    48.46667,
+    53.0,
+    48.46667
+],
+  "geometry": {"coordinates":[53.0,48.46667],"type":"Point"}
+}

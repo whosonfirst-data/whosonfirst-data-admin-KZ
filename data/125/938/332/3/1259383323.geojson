@@ -1,0 +1,73 @@
+{
+  "id": 1259383323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.2,50.53333,56.2,50.53333",
+    "geom:latitude":50.53333,
+    "geom:longitude":56.2,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gornovodskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609875,
+    "gn:latitude":50.53333,
+    "gn:longitude":56.2,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Gornovodskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gornovodskiy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e\u0432\u043e\u0434\u0441\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609875
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ffb5cc576c855683a12bfc809cc0a45d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785323,
+            "locality_id":1259383323,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1259383323,
+    "wof:lastmodified":1537659425,
+    "wof:name":"Gornovodskiy",
+    "wof:parent_id":1108785323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.2,
+    50.53333,
+    56.2,
+    50.53333
+],
+  "geometry": {"coordinates":[56.2,50.53333],"type":"Point"}
+}

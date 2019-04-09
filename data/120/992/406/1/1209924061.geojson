@@ -1,0 +1,67 @@
+{
+  "id": 1209924061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.23333,42.91667,79.23333,42.91667",
+    "geom:latitude":42.91667,
+    "geom:longitude":79.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sol'prom",
+    "gn:country_code":"KZ",
+    "gn:dem":1894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518894,
+    "gn:latitude":42.91667,
+    "gn:longitude":79.23333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Sol\u2019prom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518894
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0983eb1c44fcbd6f276d35505578aaaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1209924061,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1209924061,
+    "wof:lastmodified":1536395698,
+    "wof:name":"Sol'prom",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.23333000000002,
+    42.91667,
+    79.23333000000002,
+    42.91667
+],
+  "geometry": {"coordinates":[79.23333000000002,42.91667],"type":"Point"}
+}

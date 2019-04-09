@@ -1,0 +1,70 @@
+{
+  "id": 1343830435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.81383,54.88653,68.81383,54.88653",
+    "geom:latitude":54.88653,
+    "geom:longitude":68.81383,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kondratovka",
+    "gn:country_code":"KZ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530489,
+    "gn:latitude":54.88653,
+    "gn:longitude":68.81383,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kondratovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0434\u0440\u0430\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530489
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1c446689a6c04c4fe3e26c8e253fcf39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1343830435,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343830435,
+    "wof:lastmodified":1537659938,
+    "wof:name":"Kondratovka",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.81383000000001,
+    54.88653000000001,
+    68.81383000000001,
+    54.88653000000001
+],
+  "geometry": {"coordinates":[68.81383000000001,54.88653000000001],"type":"Point"}
+}

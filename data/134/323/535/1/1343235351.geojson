@@ -1,0 +1,76 @@
+{
+  "id": 1343235351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.21565,49.44532,81.21565,49.44532",
+    "geom:latitude":49.44532,
+    "geom:longitude":81.21565,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Suurly",
+    "gn:country_code":"KZ",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512650,
+    "gn:latitude":49.44532,
+    "gn:longitude":81.21565,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Suurly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "S\u016byrly"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0443\u044b\u0440\u043b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0443\u0440\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512650
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5231be5bfe0ec74b4de9865e8aaa1dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1343235351,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343235351,
+    "wof:lastmodified":1537660181,
+    "wof:name":"Suurly",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.21565,
+    49.44532,
+    81.21565,
+    49.44532
+],
+  "geometry": {"coordinates":[81.21565,49.44532],"type":"Point"}
+}

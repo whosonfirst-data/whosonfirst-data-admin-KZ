@@ -1,0 +1,79 @@
+{
+  "id": 1293386939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.32936,49.23912,48.32936,49.23912",
+    "geom:latitude":49.23912,
+    "geom:longitude":48.32936,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Saralzhin",
+    "gn:country_code":"KZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608482,
+    "gn:latitude":49.23912,
+    "gn:longitude":48.32936,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Saralzhin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saralzhin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u043b\u0436\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Imeni Kirova",
+        "Saranzhinkol\u2019",
+        "Saralzhinkol\u2019",
+        "Saralzhin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608482
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e20ba49b22d26259ff45990f38af5698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1293386939,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293386939,
+    "wof:lastmodified":1537659373,
+    "wof:name":"Saralzhin",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.32936,
+    49.23912,
+    48.32936,
+    49.23912
+],
+  "geometry": {"coordinates":[48.32936,49.23912],"type":"Point"}
+}

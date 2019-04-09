@@ -1,0 +1,80 @@
+{
+  "id": 1293671327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.94295,52.96278,71.94295,52.96278",
+    "geom:latitude":52.96278,
+    "geom:longitude":71.94295,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zolotaya Niva",
+    "gn:country_code":"KZ",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516449,
+    "gn:latitude":52.96278,
+    "gn:longitude":71.94295,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Zolotaya Niva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zolotaya N\u012bva"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u043e\u043b\u043e\u0442\u0430\u044f \u041d\u0438\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u043b\u043e\u0442\u0430\u044f \u041d\u0438\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zolotaya N\u012bva",
+        "Zolotaya Niva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516449
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6399250306ed53401e2b415515178fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785367,
+            "locality_id":1293671327,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293671327,
+    "wof:lastmodified":1537659470,
+    "wof:name":"Zolotaya Niva",
+    "wof:parent_id":1108785367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.94295,
+    52.96278,
+    71.94295,
+    52.96278
+],
+  "geometry": {"coordinates":[71.94295,52.96278],"type":"Point"}
+}

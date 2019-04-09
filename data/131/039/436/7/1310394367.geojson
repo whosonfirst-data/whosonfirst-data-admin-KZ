@@ -1,0 +1,70 @@
+{
+  "id": 1310394367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.15983,41.65513,69.15983,41.65513",
+    "geom:latitude":41.65513,
+    "geom:longitude":69.15983,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Beshkuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538036,
+    "gn:latitude":41.65513,
+    "gn:longitude":69.15983,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Beshkuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0448\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538036
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4d3c0c14a8c3ce6a232df9abe7c09d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1310394367,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1310394367,
+    "wof:lastmodified":1537660023,
+    "wof:name":"Beshkuduk",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.15983,
+    41.65513,
+    69.15983,
+    41.65513
+],
+  "geometry": {"coordinates":[69.15983,41.65513],"type":"Point"}
+}

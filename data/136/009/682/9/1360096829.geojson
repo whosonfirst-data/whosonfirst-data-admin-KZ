@@ -1,0 +1,73 @@
+{
+  "id": 1360096829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.11612,52.75574,69.11612,52.75574",
+    "geom:latitude":52.75574,
+    "geom:longitude":69.11612,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Viktorovka",
+    "gn:country_code":"KZ",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517450,
+    "gn:latitude":52.75574,
+    "gn:longitude":69.11612,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Viktorovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "V\u012bktorovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u0438\u043a\u0442\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517450
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b2a415060a3abe94d3bdbf48496246ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1360096829,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1360096829,
+    "wof:lastmodified":1537659523,
+    "wof:name":"Viktorovka",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.11612,
+    52.75574,
+    69.11612,
+    52.75574
+],
+  "geometry": {"coordinates":[69.11612,52.75574],"type":"Point"}
+}

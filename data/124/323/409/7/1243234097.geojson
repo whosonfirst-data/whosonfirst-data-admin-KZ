@@ -1,0 +1,84 @@
+{
+  "id": 1243234097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.31079,50.89317,78.31079,50.89317",
+    "geom:latitude":50.89317,
+    "geom:longitude":78.31079,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Semiyarka",
+    "gn:country_code":"KZ",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519411,
+    "gn:latitude":50.89317,
+    "gn:longitude":78.31079,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Semiyarka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sem\u012byarka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u044f\u0440\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u044f\u0440\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Semiyarskaya",
+        "Semiyarskoye",
+        "Semiyarsk",
+        "Semiyarskiy",
+        "Sem\u012byarka",
+        "Semiyarka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519411
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"085e14aebf1bbdae0078302cff825d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785639,
+            "locality_id":1243234097,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243234097,
+    "wof:lastmodified":1537659606,
+    "wof:name":"Semiyarka",
+    "wof:parent_id":1108785639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.31079,
+    50.89317,
+    78.31079,
+    50.89317
+],
+  "geometry": {"coordinates":[78.31079,50.89317],"type":"Point"}
+}

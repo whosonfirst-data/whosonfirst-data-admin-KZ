@@ -1,0 +1,68 @@
+{
+  "id": 1209112219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.30689,50.80415,58.30689,50.80415",
+    "geom:latitude":50.80415,
+    "geom:longitude":58.30689,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Grigor'yevka",
+    "gn:country_code":"KZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609867,
+    "gn:latitude":50.80415,
+    "gn:longitude":58.30689,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Grigor\u2019yevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Grigor\u2019yevka"
+    ],
+    "name:und_x_variant":[
+        "Gr\u012bgor\u2019evka",
+        "Grigor\u2019yevskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609867
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"180189b4f2e2e3ec3453926d83a5c03f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209112219
+        }
+    ],
+    "wof:id":1209112219,
+    "wof:lastmodified":1537659424,
+    "wof:name":"Grigor'yevka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.30689,
+    50.80415,
+    58.30689,
+    50.80415
+],
+  "geometry": {"coordinates":[58.30689,50.80415],"type":"Point"}
+}

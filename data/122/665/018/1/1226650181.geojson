@@ -1,0 +1,73 @@
+{
+  "id": 1226650181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.355,45.27806,79.355,45.27806",
+    "geom:latitude":45.27806,
+    "geom:longitude":79.355,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Arasan",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526229,
+    "gn:latitude":45.27806,
+    "gn:longitude":79.355,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Arasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arasanskiy",
+        "Arasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526229,
+        "wk:page":"Arasan%2C_Kazakhstan"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8e4fd5b71abc901e0109563766351c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785407,
+            "locality_id":1226650181,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1226650181,
+    "wof:lastmodified":1537659905,
+    "wof:name":"Arasan",
+    "wof:parent_id":1108785407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.355,
+    45.27806,
+    79.355,
+    45.27806
+],
+  "geometry": {"coordinates":[79.355,45.27806],"type":"Point"}
+}

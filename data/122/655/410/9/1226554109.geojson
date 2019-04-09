@@ -1,0 +1,81 @@
+{
+  "id": 1226554109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.03296,43.56321,77.03296,43.56321",
+    "geom:latitude":43.56321,
+    "geom:longitude":77.03296,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ali",
+    "gn:country_code":"KZ",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526408,
+    "gn:latitude":43.56321,
+    "gn:longitude":77.03296,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Ali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u00d6l\u012b"
+    ],
+    "name:kaz_x_variant":[
+        "\u04e8\u043b\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Aliy",
+        "Ali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526408,
+        "wk:page":"Ali%2C_Kazakhstan"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ad055df9efcc644dd901df43b9c9fb79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785433,
+            "locality_id":1226554109,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1226554109,
+    "wof:lastmodified":1537659912,
+    "wof:name":"Ali",
+    "wof:parent_id":1108785433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.03296,
+    43.56321,
+    77.03296,
+    43.56321
+],
+  "geometry": {"coordinates":[77.03296,43.56321],"type":"Point"}
+}

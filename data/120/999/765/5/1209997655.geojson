@@ -1,0 +1,78 @@
+{
+  "id": 1209997655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.55368,51.66898,77.55368,51.66898",
+    "geom:latitude":51.66898,
+    "geom:longitude":77.55368,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shamshi",
+    "gn:country_code":"KZ",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413816,
+    "gn:latitude":51.66898,
+    "gn:longitude":77.55368,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Shamshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sh\u00e4mshi"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u04d9\u043c\u0448\u0456",
+        "Shamshy",
+        "\u0428\u0430\u043c\u0448\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043c\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413816
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"88a22222744ec822862306ad14a111c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785559,
+            "locality_id":1209997655,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1209997655,
+    "wof:lastmodified":1537660140,
+    "wof:name":"Shamshi",
+    "wof:parent_id":1108785559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.55368,
+    51.66898,
+    77.55368,
+    51.66898
+],
+  "geometry": {"coordinates":[77.55368,51.66898],"type":"Point"}
+}

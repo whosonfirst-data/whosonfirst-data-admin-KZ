@@ -1,0 +1,70 @@
+{
+  "id": 1259660791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.00752,49.66581,73.00752,49.66581",
+    "geom:latitude":49.66581,
+    "geom:longitude":73.00752,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taldykuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1484165,
+    "gn:latitude":49.66581,
+    "gn:longitude":73.00752,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Taldykuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0434\u044b\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1484165
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0ea2a369bf2a26778ddd6f5426ed7c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1259660791,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1259660791,
+    "wof:lastmodified":1537659465,
+    "wof:name":"Taldykuduk",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.00752,
+    49.66581,
+    73.00752,
+    49.66581
+],
+  "geometry": {"coordinates":[73.00752,49.66581],"type":"Point"}
+}

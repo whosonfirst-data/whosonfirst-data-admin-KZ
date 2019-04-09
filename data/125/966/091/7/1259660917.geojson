@@ -1,0 +1,76 @@
+{
+  "id": 1259660917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.09274,50.47957,71.09274,50.47957",
+    "geom:latitude":50.47957,
+    "geom:longitude":71.09274,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Przheval'skoe",
+    "gn:country_code":"KZ",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523887,
+    "gn:latitude":50.47957,
+    "gn:longitude":71.09274,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Przheval\u2019skoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sovkhoz Imeni Przheval\u2019skogo",
+        "Kongansay",
+        "Imeni Przheval\u2019skogo",
+        "Przheval\u2019skoye",
+        "Kangansay",
+        "Kuygun-Say",
+        "Przheval\u2019skoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523887
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ca9697eea7dbf6ad1a51b6d0bb569bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785499,
+            "locality_id":1259660917,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1259660917,
+    "wof:lastmodified":1537659811,
+    "wof:name":"Przheval'skoe",
+    "wof:parent_id":1108785499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.09274,
+    50.47957,
+    71.09274,
+    50.47957
+],
+  "geometry": {"coordinates":[71.09274000000001,50.47957],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226056695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.5995,43.93358,77.5995,43.93358",
+    "geom:latitude":43.93358,
+    "geom:longitude":77.5995,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kerbulak",
+    "gn:country_code":"KZ",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529705,
+    "gn:latitude":43.93358,
+    "gn:longitude":77.5995,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kerbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kerbulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0435\u0440\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529705,
+        "wk:page":"Kerbulak"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2d622e87f2a01b49fc910b9a60a89974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785431,
+            "locality_id":1226056695,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1226056695,
+    "wof:lastmodified":1537659933,
+    "wof:name":"Kerbulak",
+    "wof:parent_id":1108785431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.5995,
+    43.93358,
+    77.5995,
+    43.93358
+],
+  "geometry": {"coordinates":[77.59950000000001,43.93358],"type":"Point"}
+}

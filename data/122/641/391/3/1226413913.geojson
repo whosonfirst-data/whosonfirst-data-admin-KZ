@@ -1,0 +1,80 @@
+{
+  "id": 1226413913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.32422,52.18547,62.32422,52.18547",
+    "geom:latitude":52.18547,
+    "geom:longitude":62.32422,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Karakol'",
+    "gn:country_code":"KZ",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522878,
+    "gn:latitude":52.18547,
+    "gn:longitude":62.32422,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Karakol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karakol'"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "Karakol\u2019"
+    ],
+    "name:und_x_variant":[
+        "Kayrachkol\u2019",
+        "Kayrankol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522878
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"132ccce228b516bbe464902607ecd82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785529,
+            "locality_id":1226413913,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226413913,
+    "wof:lastmodified":1537659777,
+    "wof:name":"Karakol'",
+    "wof:parent_id":1108785529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.32422,
+    52.18547,
+    62.32422,
+    52.18547
+],
+  "geometry": {"coordinates":[62.32422,52.18547],"type":"Point"}
+}

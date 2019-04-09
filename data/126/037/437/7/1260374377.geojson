@@ -1,0 +1,80 @@
+{
+  "id": 1260374377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.26845,40.99318,68.26845,40.99318",
+    "geom:latitude":40.99318,
+    "geom:longitude":68.26845,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Plodovinogradnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535811,
+    "gn:latitude":40.99318,
+    "gn:longitude":68.26845,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Plodovinogradnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Plodov\u012bnogradnoye"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u043b\u043e\u0434\u043e\u0432\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0432\u0445\u043e\u0437 \u0418\u043c\u0435\u043d\u0438 \u041a\u0438\u0440\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Imeni Kirova",
+        "Plodovinogradnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535811
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3960f3f87a9d9c65cbe6a954b334ff0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1260374377,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1260374377,
+    "wof:lastmodified":1537660002,
+    "wof:name":"Plodovinogradnoye",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.26845,
+    40.99318,
+    68.26845,
+    40.99318
+],
+  "geometry": {"coordinates":[68.26845,40.99318],"type":"Point"}
+}

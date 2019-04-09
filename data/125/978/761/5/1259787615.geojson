@@ -1,0 +1,81 @@
+{
+  "id": 1259787615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.03331,43.48455,77.03331,43.48455",
+    "geom:latitude":43.48455,
+    "geom:longitude":77.03331,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bayserke",
+    "gn:country_code":"KZ",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1539930,
+    "gn:latitude":43.48455,
+    "gn:longitude":77.03331,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Bayserke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Bayserke"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u0439\u0441\u0435\u0440\u043a\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dmitriyevka",
+        "Karasuk",
+        "Dm\u012btr\u012bevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1539930
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"29e2d1fb9bc9b6dabeda7af00273301c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785433,
+            "locality_id":1259787615,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1259787615,
+    "wof:lastmodified":1537660028,
+    "wof:name":"Bayserke",
+    "wof:parent_id":1108785433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.03331,
+    43.48455,
+    77.03331,
+    43.48455
+],
+  "geometry": {"coordinates":[77.03331,43.48455],"type":"Point"}
+}

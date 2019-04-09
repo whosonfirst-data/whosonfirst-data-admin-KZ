@@ -1,0 +1,71 @@
+{
+  "id": 1209076399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.06841,50.67192,82.06841,50.67192",
+    "geom:latitude":50.67192,
+    "geom:longitude":82.06841,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Medvedka",
+    "gn:country_code":"KZ",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520988,
+    "gn:latitude":50.67192,
+    "gn:longitude":82.06841,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Medvedka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Medvedka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0434\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Medvedikha",
+        "Medvedka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520988
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"15aeb84b0bc5c0d5a22bc6c182aa80c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209076399
+        }
+    ],
+    "wof:id":1209076399,
+    "wof:lastmodified":1537659692,
+    "wof:name":"Medvedka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.06841,
+    50.67192,
+    82.06841,
+    50.67192
+],
+  "geometry": {"coordinates":[82.06841,50.67192],"type":"Point"}
+}

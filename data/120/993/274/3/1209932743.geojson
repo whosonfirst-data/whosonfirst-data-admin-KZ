@@ -1,0 +1,71 @@
+{
+  "id": 1209932743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.13333,50.9,64.13333,50.9",
+    "geom:latitude":50.9,
+    "geom:longitude":64.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kyzyl-Bel'",
+    "gn:country_code":"KZ",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521551,
+    "gn:latitude":50.9,
+    "gn:longitude":64.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kyzyl-Bel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kzyl-Bel\u2019",
+        "Kyzyl-Bel\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521551
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8c333bc4b8d33541aa22edaf5959b30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1209932743,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1209932743,
+    "wof:lastmodified":1537659721,
+    "wof:name":"Kyzyl-Bel'",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.13333,
+    50.9,
+    64.13333,
+    50.9
+],
+  "geometry": {"coordinates":[64.13333,50.9],"type":"Point"}
+}

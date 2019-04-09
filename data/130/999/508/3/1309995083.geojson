@@ -1,0 +1,73 @@
+{
+  "id": 1309995083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.09068,41.4915,68.09068,41.4915",
+    "geom:latitude":41.4915,
+    "geom:longitude":68.09068,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tartogay",
+    "gn:country_code":"KZ",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532382,
+    "gn:latitude":41.4915,
+    "gn:longitude":68.09068,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Tartogay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0442\u043e\u0433\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Tartoghay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532382
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6a323a92ee6ba1e97543c0c4ec7d3385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1309995083,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1309995083,
+    "wof:lastmodified":1537659967,
+    "wof:name":"Tartogay",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.09068,
+    41.4915,
+    68.09068,
+    41.4915
+],
+  "geometry": {"coordinates":[68.09068000000001,41.4915],"type":"Point"}
+}

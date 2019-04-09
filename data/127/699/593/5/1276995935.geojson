@@ -1,0 +1,67 @@
+{
+  "id": 1276995935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.18333,51.35,52.18333,51.35",
+    "geom:latitude":51.35,
+    "geom:longitude":52.18333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhamanburlyu",
+    "gn:country_code":"KZ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607656,
+    "gn:latitude":51.35,
+    "gn:longitude":52.18333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Zhamanburlyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607656
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bdb8d934006670b5010b49994365f7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785731,
+            "locality_id":1276995935,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1276995935,
+    "wof:lastmodified":1536884900,
+    "wof:name":"Zhamanburlyu",
+    "wof:parent_id":1108785731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.18333,
+    51.35,
+    52.18333,
+    51.35
+],
+  "geometry": {"coordinates":[52.18333,51.35],"type":"Point"}
+}

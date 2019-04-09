@@ -1,0 +1,83 @@
+{
+  "id": 1259863257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.37501,41.65814,69.37501,41.65814",
+    "geom:latitude":41.65814,
+    "geom:longitude":69.37501,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Novostroyka",
+    "gn:country_code":"KZ",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526232,
+    "gn:latitude":41.65814,
+    "gn:longitude":69.37501,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Novostroyka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyzylq\u012bya"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u049b\u0438\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0442\u0440\u043e\u0439\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Aranchi-Besh-Sary",
+        "Kolkhoz Imeni Engel\u2019sa",
+        "Aranshi",
+        "Aranchi",
+        "Novostroyka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526232
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1763730e578e8c0033e747d39cdf10f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1259863257,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1259863257,
+    "wof:lastmodified":1537659905,
+    "wof:name":"Novostroyka",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.37501,
+    41.65814,
+    69.37501,
+    41.65814
+],
+  "geometry": {"coordinates":[69.37501,41.65814],"type":"Point"}
+}

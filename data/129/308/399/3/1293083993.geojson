@@ -1,0 +1,73 @@
+{
+  "id": 1293083993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.55,46.81667,79.55,46.81667",
+    "geom:latitude":46.81667,
+    "geom:longitude":79.55,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qaraqum",
+    "gn:country_code":"KZ",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523269,
+    "gn:latitude":46.81667,
+    "gn:longitude":79.55,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Qaraqum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaraqum"
+    ],
+    "name:und_x_variant":[
+        "Karakum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523269
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"55a9f27c995c0649273ad138bbce4ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785459,
+            "locality_id":1293083993,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293083993,
+    "wof:lastmodified":1537659789,
+    "wof:name":"Qaraqum",
+    "wof:parent_id":1108785459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.55,
+    46.81667,
+    79.55,
+    46.81667
+],
+  "geometry": {"coordinates":[79.55,46.81667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209694057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.5312,51.72181,77.5312,51.72181",
+    "geom:latitude":51.72181,
+    "geom:longitude":77.5312,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Chyornoe",
+    "gn:country_code":"KZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524819,
+    "gn:latitude":51.72181,
+    "gn:longitude":77.5312,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Chyornoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Chyornoe"
+    ],
+    "name:rus_x_preferred":[
+        "Ch\u00ebrnoye"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0451\u0440\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Cherny",
+        "Ch\u00ebrnyy",
+        "Ch\u00ebrnaya",
+        "Chyerniy",
+        "Chernyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524819
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"761b8e327549de08c6ed5be20e6d669e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209694057
+        }
+    ],
+    "wof:id":1209694057,
+    "wof:lastmodified":1537659850,
+    "wof:name":"Chyornoe",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.5312,
+    51.72181,
+    77.5312,
+    51.72181
+],
+  "geometry": {"coordinates":[77.5312,51.72181],"type":"Point"}
+}

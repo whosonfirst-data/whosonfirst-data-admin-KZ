@@ -1,0 +1,90 @@
+{
+  "id": 1259981679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.75549,52.77055,68.75549,52.77055",
+    "geom:latitude":52.77055,
+    "geom:longitude":68.75549,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novonikol'sk",
+    "gn:country_code":"KZ",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520583,
+    "gn:latitude":52.77055,
+    "gn:longitude":68.75549,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Novonikol\u2019sk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kumdykol'"
+    ],
+    "name:kaz_x_preferred":[
+        "Qumdyk\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u04b1\u043c\u0434\u044b\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043d\u0438\u043a\u043e\u043b\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u043c\u0434\u044b\u043a\u043e\u043b\u044c",
+        "Kumdykol\u2019",
+        "\u041d\u043e\u0432\u043e\u043d\u0438\u043a\u043e\u043b\u044c\u0441\u043a",
+        "\u041a\u0443\u043d\u0434\u044b\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Novonikol\u2019skoye",
+        "Kundykol\u2019",
+        "Novonikol\u2019sk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520583
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b144bc078f94f56950e1510c0f6cd006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785397,
+            "locality_id":1259981679,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259981679,
+    "wof:lastmodified":1537659667,
+    "wof:name":"Novonikol'sk",
+    "wof:parent_id":1108785397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.75549000000001,
+    52.77055,
+    68.75549000000001,
+    52.77055
+],
+  "geometry": {"coordinates":[68.75549000000001,52.77055],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1259560705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.89111,50.61868,72.89111,50.61868",
+    "geom:latitude":50.61868,
+    "geom:longitude":72.89111,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Pionerskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520144,
+    "gn:latitude":50.61868,
+    "gn:longitude":72.89111,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Pionerskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Pionerskoe"
+    ],
+    "name:kaz_x_variant":[
+        "P\u012bonerskoe",
+        "\u041f\u0438\u043e\u043d\u0435\u0440\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "P\u012bonerskoye"
+    ],
+    "name:und_x_variant":[
+        "Pionerskiy",
+        "P\u012boner",
+        "Pionerskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520144
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"62f59986a9bbd83060ff1435f9978e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1259560705,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1259560705,
+    "wof:lastmodified":1537659640,
+    "wof:name":"Pionerskoye",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.89111,
+    50.61868,
+    72.89111,
+    50.61868
+],
+  "geometry": {"coordinates":[72.89111,50.61868],"type":"Point"}
+}

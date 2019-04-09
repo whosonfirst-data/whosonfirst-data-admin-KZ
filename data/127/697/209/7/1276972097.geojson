@@ -1,0 +1,76 @@
+{
+  "id": 1276972097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.54068,46.76982,54.54068,46.76982",
+    "geom:latitude":46.76982,
+    "geom:longitude":54.54068,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Munayly",
+    "gn:country_code":"KZ",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608779,
+    "gn:latitude":46.76982,
+    "gn:longitude":54.54068,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Munayly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Munayly"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u04b1\u043d\u0430\u0439\u043b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043d\u0430\u0439\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608779
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b40235b5643fe51ab4445e37e5c9e107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785637,
+            "locality_id":1276972097,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1276972097,
+    "wof:lastmodified":1537659388,
+    "wof:name":"Munayly",
+    "wof:parent_id":1108785637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.54068,
+    46.76982,
+    54.54068,
+    46.76982
+],
+  "geometry": {"coordinates":[54.54068,46.76982],"type":"Point"}
+}

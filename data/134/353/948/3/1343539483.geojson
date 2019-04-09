@@ -1,0 +1,83 @@
+{
+  "id": 1343539483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.65164,52.749,76.65164,52.749",
+    "geom:latitude":52.749,
+    "geom:longitude":76.65164,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Chernoretskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524829,
+    "gn:latitude":52.749,
+    "gn:longitude":76.65164,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Chernoretskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chernoretskoe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u0440\u0435\u0446\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u0440\u0435\u0446\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Chernoretsk",
+        "Chernoretskiy",
+        "Chernorechenskiy",
+        "Chernoretskoye",
+        "Chernoretskoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524829
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1e5056b56b11a0e0c3350523a7197934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785561,
+            "locality_id":1343539483,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343539483,
+    "wof:lastmodified":1537659851,
+    "wof:name":"Chernoretskoye",
+    "wof:parent_id":1108785561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.65164,
+    52.749,
+    76.65164,
+    52.749
+],
+  "geometry": {"coordinates":[76.65164,52.749],"type":"Point"}
+}

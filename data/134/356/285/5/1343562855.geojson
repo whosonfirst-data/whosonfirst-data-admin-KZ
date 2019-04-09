@@ -1,0 +1,77 @@
+{
+  "id": 1343562855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.33596,51.69615,72.33596,51.69615",
+    "geom:latitude":51.69615,
+    "geom:longitude":72.33596,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Timofeyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518160,
+    "gn:latitude":51.69615,
+    "gn:longitude":72.33596,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Timofeyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "T\u012bmofeevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0438\u043c\u043e\u0444\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kryk-Kuduk",
+        "Timofeyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518160
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"34abf7a3f80a0aa746c615b04d5dc4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1343562855,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343562855,
+    "wof:lastmodified":1537659553,
+    "wof:name":"Timofeyevka",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.33596,
+    51.69615,
+    72.33596,
+    51.69615
+],
+  "geometry": {"coordinates":[72.33596,51.69615],"type":"Point"}
+}

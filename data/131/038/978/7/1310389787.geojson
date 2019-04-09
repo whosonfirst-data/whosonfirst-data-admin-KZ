@@ -1,0 +1,79 @@
+{
+  "id": 1310389787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.90366,45.35205,51.90366,45.35205",
+    "geom:latitude":45.35205,
+    "geom:longitude":51.90366,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qalamqas",
+    "gn:country_code":"KZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10940897,
+    "gn:latitude":45.35205,
+    "gn:longitude":51.90366,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Qalamqas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qalamqas"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u043b\u0430\u043c\u049b\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u043c\u043a\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Kalamkas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10940897
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4a07cc56ba38566009325c5b90d1b3b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785543,
+            "locality_id":1310389787,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1310389787,
+    "wof:lastmodified":1537660075,
+    "wof:name":"Qalamqas",
+    "wof:parent_id":1108785543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.90366,
+    45.35205,
+    51.90366,
+    45.35205
+],
+  "geometry": {"coordinates":[51.90366,45.35205],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1327315935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.47591,53.60914,71.47591,53.60914",
+    "geom:latitude":53.60914,
+    "geom:longitude":71.47591,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kuybyshevskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521637,
+    "gn:latitude":53.60914,
+    "gn:longitude":71.47591,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Kuybyshevskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K\u016bybyshevskoe"
+    ],
+    "name:kaz_x_preferred":[
+        "D\u00e4\u016bit"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u04d9\u0443\u0456\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0439\u0431\u044b\u0448\u0435\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kuybyshevskiy",
+        "K\u016bybyshevskoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521637
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4afb88530c63cba3ab4b708b43379f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1327315935,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1327315935,
+    "wof:lastmodified":1537659724,
+    "wof:name":"Kuybyshevskoye",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.47591,
+    53.60914,
+    71.47591,
+    53.60914
+],
+  "geometry": {"coordinates":[71.47591,53.60914],"type":"Point"}
+}

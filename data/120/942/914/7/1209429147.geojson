@@ -1,0 +1,61 @@
+{
+  "id": 1209429147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.66667,45.91667,75.66667,45.91667",
+    "geom:latitude":45.91667,
+    "geom:longitude":75.66667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kak Taylyak-Dyuzgun",
+    "gn:country_code":"KZ",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523639,
+    "gn:latitude":45.91667,
+    "gn:longitude":75.66667,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Kak Taylyak-Dyuzgun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523639
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3f50d3df33de6d34e75d870dc4da22dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209429147
+        }
+    ],
+    "wof:id":1209429147,
+    "wof:lastmodified":1536287287,
+    "wof:name":"Kak Taylyak-Dyuzgun",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.66667,
+    45.91667,
+    75.66667,
+    45.91667
+],
+  "geometry": {"coordinates":[75.66667,45.91667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276750841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.04759,49.51887,75.04759,49.51887",
+    "geom:latitude":49.51887,
+    "geom:longitude":75.04759,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kalinino",
+    "gn:country_code":"KZ",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11408099,
+    "gn:latitude":49.51887,
+    "gn:longitude":75.04759,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Kalinino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kal\u012bn\u012bno"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11408099
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"62edd12c81dc82041905746c0a19d13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1276750841,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1276750841,
+    "wof:lastmodified":1537660132,
+    "wof:name":"Kalinino",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.04759,
+    49.51887,
+    75.04759,
+    49.51887
+],
+  "geometry": {"coordinates":[75.04759,49.51887],"type":"Point"}
+}

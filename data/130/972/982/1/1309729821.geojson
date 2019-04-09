@@ -1,0 +1,76 @@
+{
+  "id": 1309729821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.6824,43.052,79.6824,43.052",
+    "geom:latitude":43.052,
+    "geom:longitude":79.6824,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Komirshi",
+    "gn:country_code":"KZ",
+    "gn:dem":1914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522372,
+    "gn:latitude":43.052,
+    "gn:longitude":79.6824,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Komirshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "K\u00f6mirshi"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u04e9\u043c\u0456\u0440\u0448\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0438\u0440\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522372
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"736485867ea2216999161ac4965b3db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1309729821,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1309729821,
+    "wof:lastmodified":1537659756,
+    "wof:name":"Komirshi",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.6824,
+    43.052,
+    79.6824,
+    43.052
+],
+  "geometry": {"coordinates":[79.6824,43.052],"type":"Point"}
+}

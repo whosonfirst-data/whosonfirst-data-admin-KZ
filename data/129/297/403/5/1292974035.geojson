@@ -1,0 +1,73 @@
+{
+  "id": 1292974035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.71417,48.08389,82.71417,48.08389",
+    "geom:latitude":48.08389,
+    "geom:longitude":82.71417,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhantekey",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516771,
+    "gn:latitude":48.08389,
+    "gn:longitude":82.71417,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Zhantekey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhantikey",
+        "Zhantekey",
+        "Yernazar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516771
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ceb3f43d5ad96f5253e91d62e6a0ee85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785469,
+            "locality_id":1292974035,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1292974035,
+    "wof:lastmodified":1537659483,
+    "wof:name":"Zhantekey",
+    "wof:parent_id":1108785469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.71417,
+    48.08389,
+    82.71417,
+    48.08389
+],
+  "geometry": {"coordinates":[82.71417,48.08389],"type":"Point"}
+}

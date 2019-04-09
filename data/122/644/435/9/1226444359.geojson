@@ -1,0 +1,72 @@
+{
+  "id": 1226444359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.69606,50.99266,68.69606,50.99266",
+    "geom:latitude":50.99266,
+    "geom:longitude":68.69606,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ladyzhenka",
+    "gn:country_code":"KZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521399,
+    "gn:latitude":50.99266,
+    "gn:longitude":68.69606,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ladyzhenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ladyzhenskoye",
+        "Ladyzhenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521399,
+        "wk:page":"Ladyzhenka"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bb2ac9083debb36b7aae8ce1e3e9c312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785387,
+            "locality_id":1226444359,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226444359,
+    "wof:lastmodified":1537659713,
+    "wof:name":"Ladyzhenka",
+    "wof:parent_id":1108785387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.69606,
+    50.99266,
+    68.69606,
+    50.99266
+],
+  "geometry": {"coordinates":[68.69606,50.99266],"type":"Point"}
+}

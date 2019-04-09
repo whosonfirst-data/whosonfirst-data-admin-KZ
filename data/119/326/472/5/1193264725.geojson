@@ -1,0 +1,83 @@
+{
+  "id": 1193264725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.93372,53.52459,65.93372,53.52459",
+    "geom:latitude":53.52459,
+    "geom:longitude":65.93372,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Vesyolyy Podol",
+    "gn:country_code":"KZ",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517454,
+    "gn:latitude":53.52459,
+    "gn:longitude":65.93372,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Vesyolyy Podol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Veselyy Podol"
+    ],
+    "name:kaz_x_preferred":[
+        "Veselyy Podol"
+    ],
+    "name:kaz_x_variant":[
+        "Vesyolyy Podol",
+        "\u0412\u0435\u0441\u0451\u043b\u044b\u0439 \u041f\u043e\u0434\u043e\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Ves\u00eblyy Podol"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0435\u0441\u0435\u043b\u044b\u0439 \u041f\u043e\u0434\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517454
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f3509418c72f9afc7c8a14f5cc21cec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785569,
+            "locality_id":1193264725,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1193264725,
+    "wof:lastmodified":1537659523,
+    "wof:name":"Vesyolyy Podol",
+    "wof:parent_id":1108785569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.93372,
+    53.52459,
+    65.93372,
+    53.52459
+],
+  "geometry": {"coordinates":[65.93371999999999,53.52459],"type":"Point"}
+}

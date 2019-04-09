@@ -1,0 +1,73 @@
+{
+  "id": 1260091679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.37018,53.2088,71.37018,53.2088",
+    "geom:latitude":53.2088,
+    "geom:longitude":71.37018,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Belaghash",
+    "gn:country_code":"KZ",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11146417,
+    "gn:latitude":53.2088,
+    "gn:longitude":71.37018,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Belaghash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Belaghash"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u043b\u0430\u0493\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11146417
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a36e1df4d6d36bbc46c6ed23ae0093e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1260091679,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1260091679,
+    "wof:lastmodified":1537660122,
+    "wof:name":"Belaghash",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.37018,
+    53.2088,
+    71.37018,
+    53.2088
+],
+  "geometry": {"coordinates":[71.37018,53.2088],"type":"Point"}
+}

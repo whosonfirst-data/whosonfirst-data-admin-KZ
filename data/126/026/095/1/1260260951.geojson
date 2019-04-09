@@ -1,0 +1,79 @@
+{
+  "id": 1260260951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.80678,53.0632,75.80678,53.0632",
+    "geom:latitude":53.0632,
+    "geom:longitude":75.80678,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kayran",
+    "gn:country_code":"KZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535337,
+    "gn:latitude":53.0632,
+    "gn:longitude":75.80678,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Kayran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kayran"
+    ],
+    "name:kaz_x_preferred":[
+        "Qayran"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0439\u0440\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u0440\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535337
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a645f2c79a0223223afed6d18608d8f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785553,
+            "locality_id":1260260951,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1260260951,
+    "wof:lastmodified":1537659990,
+    "wof:name":"Kayran",
+    "wof:parent_id":1108785553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.80678,
+    53.0632,
+    75.80678,
+    53.0632
+],
+  "geometry": {"coordinates":[75.80678,53.0632],"type":"Point"}
+}

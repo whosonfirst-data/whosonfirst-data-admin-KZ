@@ -1,0 +1,78 @@
+{
+  "id": 1209195691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.21635,51.66885,78.21635,51.66885",
+    "geom:latitude":51.66885,
+    "geom:longitude":78.21635,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kyzyltuz",
+    "gn:country_code":"KZ",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521441,
+    "gn:latitude":51.66885,
+    "gn:longitude":78.21635,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kyzyltuz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyzyltuz"
+    ],
+    "name:kaz_x_preferred":[
+        "Qyzyltuz"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u0442\u04b1\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0442\u0443\u0437"
+    ],
+    "name:und_x_variant":[
+        "Korseney",
+        "Kerseney",
+        "Kyzyltuz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521441
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fdcd170d437d2f81b86714b855f97af0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209195691
+        }
+    ],
+    "wof:id":1209195691,
+    "wof:lastmodified":1537659715,
+    "wof:name":"Kyzyltuz",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.21635,
+    51.66885,
+    78.21635,
+    51.66885
+],
+  "geometry": {"coordinates":[78.21635000000001,51.66885],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1344168775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.69727,52.33907,67.69727,52.33907",
+    "geom:latitude":52.33907,
+    "geom:longitude":67.69727,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bekbas",
+    "gn:country_code":"KZ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11134809,
+    "gn:latitude":52.33907,
+    "gn:longitude":67.69727,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Bekbas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Bekbas"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u043a\u0431\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043a\u043f\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Bekpas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11134809
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"71812dd6301dced796f3aaf56ba60d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785623,
+            "locality_id":1344168775,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1344168775,
+    "wof:lastmodified":1537660116,
+    "wof:name":"Bekbas",
+    "wof:parent_id":1108785623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.69726999999999,
+    52.33907,
+    67.69726999999999,
+    52.33907
+],
+  "geometry": {"coordinates":[67.69726999999999,52.33907],"type":"Point"}
+}

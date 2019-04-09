@@ -1,0 +1,61 @@
+{
+  "id": 1209201769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.45662,49.47908,67.45662,49.47908",
+    "geom:latitude":49.47908,
+    "geom:longitude":67.45662,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sarytogan",
+    "gn:country_code":"KZ",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532212,
+    "gn:latitude":49.47908,
+    "gn:longitude":67.45662,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Sarytogan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532212
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e1655757e51e11173e48b9d977287ca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209201769
+        }
+    ],
+    "wof:id":1209201769,
+    "wof:lastmodified":1536294585,
+    "wof:name":"Sarytogan",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.45662,
+    49.47908,
+    67.45662,
+    49.47908
+],
+  "geometry": {"coordinates":[67.45662,49.47908],"type":"Point"}
+}

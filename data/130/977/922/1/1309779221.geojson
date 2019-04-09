@@ -1,0 +1,86 @@
+{
+  "id": 1309779221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.87135,48.91533,80.87135,48.91533",
+    "geom:latitude":48.91533,
+    "geom:longitude":80.87135,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qyzylzhuldyz",
+    "gn:country_code":"KZ",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521412,
+    "gn:latitude":48.91533,
+    "gn:longitude":80.87135,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Qyzylzhuldyz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyzylzhuldyz"
+    ],
+    "name:kaz_x_preferred":[
+        "Qyzylzhuldyz"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u0436\u04b1\u043b\u0434\u044b\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043f\u0436\u0443\u043b\u0434\u044b\u0437"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0416\u0443\u043b\u0434\u044b\u0437"
+    ],
+    "name:und_x_variant":[
+        "Kyzylzhuldyz",
+        "Kyzyl-Zhuldyz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521412
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6cd9f68b71c2808e567676e17ad8d266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1309779221,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1309779221,
+    "wof:lastmodified":1537659714,
+    "wof:name":"Qyzylzhuldyz",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.87135,
+    48.91533,
+    80.87135,
+    48.91533
+],
+  "geometry": {"coordinates":[80.87135000000001,48.91533],"type":"Point"}
+}

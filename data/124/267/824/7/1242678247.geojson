@@ -1,0 +1,67 @@
+{
+  "id": 1242678247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.05,48.2,60.05,48.2",
+    "geom:latitude":48.2,
+    "geom:longitude":60.05,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bes-Tyube",
+    "gn:country_code":"KZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525372,
+    "gn:latitude":48.2,
+    "gn:longitude":60.05,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Bes-Tyube",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525372
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"80a8362fa9dc7aa5c7b8bd5c0a0d69d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785541,
+            "locality_id":1242678247,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1242678247,
+    "wof:lastmodified":1536919426,
+    "wof:name":"Bes-Tyube",
+    "wof:parent_id":1108785541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.05,
+    48.2,
+    60.05,
+    48.2
+],
+  "geometry": {"coordinates":[60.05,48.2],"type":"Point"}
+}

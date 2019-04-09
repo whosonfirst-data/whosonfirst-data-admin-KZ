@@ -1,0 +1,79 @@
+{
+  "id": 1293666223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.2308,48.33109,74.2308,48.33109",
+    "geom:latitude":48.33109,
+    "geom:longitude":74.2308,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Qaraghayly",
+    "gn:country_code":"KZ",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11493452,
+    "gn:latitude":48.33109,
+    "gn:longitude":74.2308,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Qaraghayly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaraghayly"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0493\u0430\u0439\u043b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0433\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kargaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11493452
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ffed450305e5985cdaecc3a1156a1d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1293666223,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1293666223,
+    "wof:lastmodified":1537660166,
+    "wof:name":"Qaraghayly",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.2308,
+    48.33109,
+    74.2308,
+    48.33109
+],
+  "geometry": {"coordinates":[74.2308,48.33109],"type":"Point"}
+}

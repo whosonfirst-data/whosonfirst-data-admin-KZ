@@ -1,0 +1,61 @@
+{
+  "id": 1209233059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.33892,51.26933,52.33892,51.26933",
+    "geom:latitude":51.26933,
+    "geom:longitude":52.33892,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tuksay",
+    "gn:country_code":"KZ",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607941,
+    "gn:latitude":51.26933,
+    "gn:longitude":52.33892,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tuksay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607941
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9fa315de0e690293f1448bcc48314c74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209233059
+        }
+    ],
+    "wof:id":1209233059,
+    "wof:lastmodified":1536293576,
+    "wof:name":"Tuksay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.33892,
+    51.26933,
+    52.33892,
+    51.26933
+],
+  "geometry": {"coordinates":[52.33892,51.26933],"type":"Point"}
+}

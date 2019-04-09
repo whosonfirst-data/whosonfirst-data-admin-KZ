@@ -1,0 +1,77 @@
+{
+  "id": 1226236883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.0966,51.00852,53.0966,51.00852",
+    "geom:latitude":51.00852,
+    "geom:longitude":53.0966,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zhanakonys",
+    "gn:country_code":"KZ",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607638,
+    "gn:latitude":51.00852,
+    "gn:longitude":53.0966,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Zhanakonys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhanakonys"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u043a\u043e\u043d\u044b\u0441"
+    ],
+    "name:und_x_variant":[
+        "Zhanakonus",
+        "Zhanakonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607638
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"09ba97dc454ce52da9ef28d4af504401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785325,
+            "locality_id":1226236883,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226236883,
+    "wof:lastmodified":1537659344,
+    "wof:name":"Zhanakonys",
+    "wof:parent_id":1108785325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.0966,
+    51.00852,
+    53.0966,
+    51.00852
+],
+  "geometry": {"coordinates":[53.0966,51.00852],"type":"Point"}
+}

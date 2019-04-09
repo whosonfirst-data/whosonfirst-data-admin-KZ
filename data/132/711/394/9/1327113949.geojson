@@ -1,0 +1,80 @@
+{
+  "id": 1327113949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.42024,53.33484,63.42024,53.33484",
+    "geom:latitude":53.33484,
+    "geom:longitude":63.42024,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ryazanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519830,
+    "gn:latitude":53.33484,
+    "gn:longitude":63.42024,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Ryazanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ryazanovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u044f\u0437\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044f\u0437\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ryazantsevskiy",
+        "Ryazanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519830
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dca5e6b2256fc2f23c10b2ba60eb6611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1327113949,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1327113949,
+    "wof:lastmodified":1537659619,
+    "wof:name":"Ryazanovka",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.42024,
+    53.33484,
+    63.42024,
+    53.33484
+],
+  "geometry": {"coordinates":[63.42024,53.33484],"type":"Point"}
+}

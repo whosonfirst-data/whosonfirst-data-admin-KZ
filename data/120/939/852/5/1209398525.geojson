@@ -1,0 +1,61 @@
+{
+  "id": 1209398525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.76667,41.35,68.76667,41.35",
+    "geom:latitude":41.35,
+    "geom:longitude":68.76667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kindzhi-Kul'",
+    "gn:country_code":"KZ",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522654,
+    "gn:latitude":41.35,
+    "gn:longitude":68.76667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Kindzhi-Kul'",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522654
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b351928156fe6f85d870fd829de61606",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209398525
+        }
+    ],
+    "wof:id":1209398525,
+    "wof:lastmodified":1536288222,
+    "wof:name":"Kindzhi-Kul'",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.76666999999999,
+    41.35,
+    68.76666999999999,
+    41.35
+],
+  "geometry": {"coordinates":[68.76666999999999,41.35],"type":"Point"}
+}

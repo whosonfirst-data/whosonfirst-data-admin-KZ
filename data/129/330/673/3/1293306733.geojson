@@ -1,0 +1,79 @@
+{
+  "id": 1293306733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.60994,43.36817,79.60994,43.36817",
+    "geom:latitude":43.36817,
+    "geom:longitude":79.60994,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bol'shoy Aksu",
+    "gn:country_code":"KZ",
+    "gn:dem":1324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525187,
+    "gn:latitude":43.36817,
+    "gn:longitude":79.60994,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Bol\u2019shoy Aksu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u00dclken Aqs\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u04ae\u043b\u043a\u0435\u043d \u0410\u049b\u0441\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0410\u043a\u0441\u0443"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shoy Aksu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525187
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2f6efca48c555876194077f6d1365782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785425,
+            "locality_id":1293306733,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293306733,
+    "wof:lastmodified":1537659864,
+    "wof:name":"Bol'shoy Aksu",
+    "wof:parent_id":1108785425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.60994000000002,
+    43.36817,
+    79.60994000000002,
+    43.36817
+],
+  "geometry": {"coordinates":[79.60994000000002,43.36817],"type":"Point"}
+}

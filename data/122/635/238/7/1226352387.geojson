@@ -1,0 +1,67 @@
+{
+  "id": 1226352387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.88528,48.79333,46.88528,48.79333",
+    "geom:latitude":48.79333,
+    "geom:longitude":46.88528,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aksayev",
+    "gn:country_code":"KZ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":796668,
+    "gn:latitude":48.79333,
+    "gn:longitude":46.88528,
+    "gn:modification_date":"1995-09-28",
+    "gn:name":"Aksayev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":796668
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"50561e19bd5ae2730e3afae36283089a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785701,
+            "locality_id":1226352387,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226352387,
+    "wof:lastmodified":1536780317,
+    "wof:name":"Aksayev",
+    "wof:parent_id":1108785701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.88528,
+    48.79333,
+    46.88528,
+    48.79333
+],
+  "geometry": {"coordinates":[46.88528,48.79333],"type":"Point"}
+}

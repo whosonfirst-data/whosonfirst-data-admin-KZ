@@ -1,0 +1,72 @@
+{
+  "id": 1327048277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.35,51.55,78.35,51.55",
+    "geom:latitude":51.55,
+    "geom:longitude":78.35,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Arik",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526214,
+    "gn:latitude":51.55,
+    "gn:longitude":78.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Arik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aryn",
+        "Arik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526214
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3c2a1dc519fe6ce7be741089f87cc7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785559,
+            "locality_id":1327048277,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1327048277,
+    "wof:lastmodified":1537659904,
+    "wof:name":"Arik",
+    "wof:parent_id":1108785559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.35,
+    51.55,
+    78.35,
+    51.55
+],
+  "geometry": {"coordinates":[78.34999999999999,51.55],"type":"Point"}
+}

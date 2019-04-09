@@ -1,0 +1,61 @@
+{
+  "id": 1209525617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.43333,50.65,49.43333,50.65",
+    "geom:latitude":50.65,
+    "geom:longitude":49.43333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bazy",
+    "gn:country_code":"KZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610367,
+    "gn:latitude":50.65,
+    "gn:longitude":49.43333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Bazy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610367
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fabd364f2c323b438863796924303f73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209525617
+        }
+    ],
+    "wof:id":1209525617,
+    "wof:lastmodified":1536284440,
+    "wof:name":"Bazy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.43333,
+    50.65,
+    49.43333,
+    50.65
+],
+  "geometry": {"coordinates":[49.43333,50.65],"type":"Point"}
+}

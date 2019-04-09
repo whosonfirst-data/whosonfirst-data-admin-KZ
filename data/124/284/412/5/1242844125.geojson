@@ -1,0 +1,80 @@
+{
+  "id": 1242844125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.19791,53.47672,73.19791,53.47672",
+    "geom:latitude":53.47672,
+    "geom:longitude":73.19791,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kokterek",
+    "gn:country_code":"KZ",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522440,
+    "gn:latitude":53.47672,
+    "gn:longitude":73.19791,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Kokterek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K\u00f6kterek"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u04e9\u043a\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "K\u00f6kterek",
+        "Kokterek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522440
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9e75c32cb8bba042c2cb47d8af0411a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785367,
+            "locality_id":1242844125,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1242844125,
+    "wof:lastmodified":1537659759,
+    "wof:name":"Kokterek",
+    "wof:parent_id":1108785367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.19791,
+    53.47671999999999,
+    73.19791,
+    53.47671999999999
+],
+  "geometry": {"coordinates":[73.19790999999999,53.47671999999999],"type":"Point"}
+}

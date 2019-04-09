@@ -1,0 +1,84 @@
+{
+  "id": 1226616191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.4469,49.40424,81.4469,49.40424",
+    "geom:latitude":49.40424,
+    "geom:longitude":81.4469,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Birlik",
+    "gn:country_code":"KZ",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517360,
+    "gn:latitude":49.40424,
+    "gn:longitude":81.4469,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Birlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Voznesenskoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Birlik"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0456\u0440\u043b\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Voznesenka",
+        "Voznesenskoye",
+        "Voznesenovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517360
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"949db8e4e8f2cfe9ac256acddbb963fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1226616191,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226616191,
+    "wof:lastmodified":1537659515,
+    "wof:name":"Birlik",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.4469,
+    49.40424,
+    81.4469,
+    49.40424
+],
+  "geometry": {"coordinates":[81.4469,49.40424],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260383915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1,48.0,48.1,48.0",
+    "geom:latitude":48.0,
+    "geom:longitude":48.1,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Alatay",
+    "gn:country_code":"KZ",
+    "gn:dem":-10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610674,
+    "gn:latitude":48.0,
+    "gn:longitude":48.1,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Alatay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610674
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"266b4f1713cac1cc3d23a83e80ece75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1260383915,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1260383915,
+    "wof:lastmodified":1537071374,
+    "wof:name":"Alatay",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1,
+    48.0,
+    48.1,
+    48.0
+],
+  "geometry": {"coordinates":[48.1,48.0],"type":"Point"}
+}

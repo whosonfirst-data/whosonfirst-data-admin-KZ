@@ -1,0 +1,73 @@
+{
+  "id": 1310509081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.35116,52.11619,72.35116,52.11619",
+    "geom:latitude":52.11619,
+    "geom:longitude":72.35116,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Seleta",
+    "gn:country_code":"KZ",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10838475,
+    "gn:latitude":52.11619,
+    "gn:longitude":72.35116,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Seleta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Seleta"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0435\u043b\u0435\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10838475
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b341b7258ed690917b0901bee9da8b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1310509081,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310509081,
+    "wof:lastmodified":1537660064,
+    "wof:name":"Seleta",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.35116,
+    52.11619,
+    72.35116,
+    52.11619
+],
+  "geometry": {"coordinates":[72.35115999999999,52.11619],"type":"Point"}
+}

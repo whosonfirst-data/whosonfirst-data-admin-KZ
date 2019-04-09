@@ -1,0 +1,67 @@
+{
+  "id": 1259989609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.4,50.73333,72.4,50.73333",
+    "geom:latitude":50.73333,
+    "geom:longitude":72.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Krasno-Pavlovka",
+    "gn:country_code":"KZ",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522014,
+    "gn:latitude":50.73333,
+    "gn:longitude":72.4,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Krasno-Pavlovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522014
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"be1358e8633a13e3761f8587c40894b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785443,
+            "locality_id":1259989609,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259989609,
+    "wof:lastmodified":1536624262,
+    "wof:name":"Krasno-Pavlovka",
+    "wof:parent_id":1108785443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.4,
+    50.73333,
+    72.4,
+    50.73333
+],
+  "geometry": {"coordinates":[72.40000000000001,50.73333],"type":"Point"}
+}

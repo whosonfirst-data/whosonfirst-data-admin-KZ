@@ -1,0 +1,67 @@
+{
+  "id": 1343641575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.6,49.3,69.6,49.3",
+    "geom:latitude":49.3,
+    "geom:longitude":69.6,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Aydagarly",
+    "gn:country_code":"KZ",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525963,
+    "gn:latitude":49.3,
+    "gn:longitude":69.6,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Aydagarly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525963
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"322a90a87508767fbe75fd05915da16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785499,
+            "locality_id":1343641575,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1343641575,
+    "wof:lastmodified":1536981646,
+    "wof:name":"Aydagarly",
+    "wof:parent_id":1108785499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.6,
+    49.3,
+    69.6,
+    49.3
+],
+  "geometry": {"coordinates":[69.59999999999999,49.3],"type":"Point"}
+}

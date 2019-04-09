@@ -1,0 +1,79 @@
+{
+  "id": 1343663697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.89782,52.67907,71.89782,52.67907",
+    "geom:latitude":52.67907,
+    "geom:longitude":71.89782,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhambay",
+    "gn:country_code":"KZ",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11146373,
+    "gn:latitude":52.67907,
+    "gn:longitude":71.89782,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Zhambay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhambay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u043c\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u043c\u043e\u0432\u043a\u0430 \u0416\u0435\u043c\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Zimovka Zhembay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11146373
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7f8089f5516548c61c9b561a7f849461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1343663697,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343663697,
+    "wof:lastmodified":1537660121,
+    "wof:name":"Zhambay",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.89782,
+    52.67907,
+    71.89782,
+    52.67907
+],
+  "geometry": {"coordinates":[71.89782,52.67907],"type":"Point"}
+}

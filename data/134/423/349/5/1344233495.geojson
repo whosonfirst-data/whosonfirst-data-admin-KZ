@@ -1,0 +1,82 @@
+{
+  "id": 1344233495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.41754,53.80662,65.41754,53.80662",
+    "geom:latitude":53.80662,
+    "geom:longitude":65.41754,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Voskresenovka",
+    "gn:country_code":"KZ",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517388,
+    "gn:latitude":53.80662,
+    "gn:longitude":65.41754,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Voskresenovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Voskresenka"
+    ],
+    "name:kaz_x_preferred":[
+        "Voskresenovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Voskresenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517388
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9f920abc103bfb6c337ec052edfa6425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1344233495,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1344233495,
+    "wof:lastmodified":1537659517,
+    "wof:name":"Voskresenovka",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.41754,
+    53.80662,
+    65.41754,
+    53.80662
+],
+  "geometry": {"coordinates":[65.41754,53.80662],"type":"Point"}
+}

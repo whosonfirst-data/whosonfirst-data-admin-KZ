@@ -1,0 +1,85 @@
+{
+  "id": 1276962789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.36083,40.70475,68.36083,40.70475",
+    "geom:latitude":40.70475,
+    "geom:longitude":68.36083,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sovetabad",
+    "gn:country_code":"KZ",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519962,
+    "gn:latitude":40.70475,
+    "gn:longitude":68.36083,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Sovetabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sovetabad"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u043e\u0432\u0435\u0442\u0430\u0431\u0430\u0434"
+    ],
+    "name:rus_x_preferred":[
+        "Uchastok Nomer Dva Kolkhoza Put\u2019 K Kommunizmu"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u0447\u0430\u0441\u0442\u043e\u043a \u041d\u043e\u043c\u0435\u0440 \u0414\u0432\u0430 \u041a\u043e\u043b\u0445\u043e\u0437\u0430 \u041f\u0443\u0442\u044c \u041a \u041a\u043e\u043c\u043c\u0443\u043d\u0438\u0437\u043c\u0443"
+    ],
+    "name:und_x_variant":[
+        "Put\u2019 k Kommunizmu"
+    ],
+    "name:uzb_x_preferred":[
+        "Guliston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519962
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"67545f94ed4b7062abfe676bfb255d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1276962789,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276962789,
+    "wof:lastmodified":1537659627,
+    "wof:name":"Sovetabad",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.36083,
+    40.70475,
+    68.36083,
+    40.70475
+],
+  "geometry": {"coordinates":[68.36083000000001,40.70475],"type":"Point"}
+}

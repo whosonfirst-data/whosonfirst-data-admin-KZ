@@ -1,0 +1,73 @@
+{
+  "id": 1276860365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.53467,40.74864,68.53467,40.74864",
+    "geom:latitude":40.74864,
+    "geom:longitude":68.53467,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Erkinabad",
+    "gn:country_code":"KZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956135,
+    "gn:latitude":40.74864,
+    "gn:longitude":68.53467,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Erkinabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042d\u0440\u043a\u0438\u043d\u0430\u0431\u0430\u0434"
+    ],
+    "name:uzb_x_preferred":[
+        "Yerkikobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956135
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ad5d256652d0faf6d7f53fe2f3421574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1276860365,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276860365,
+    "wof:lastmodified":1537660080,
+    "wof:name":"Erkinabad",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.53466999999999,
+    40.74864,
+    68.53466999999999,
+    40.74864
+],
+  "geometry": {"coordinates":[68.53466999999999,40.74864],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226348471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.41434,50.56752,54.41434,50.56752",
+    "geom:latitude":50.56752,
+    "geom:longitude":54.41434,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Otradnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608652,
+    "gn:latitude":50.56752,
+    "gn:longitude":54.41434,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Otradnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Otradnoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0440\u0430\u0434\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Otradnyy",
+        "Otradnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608652
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ed449031c8b84204a2dfd29557d4b264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785711,
+            "locality_id":1226348471,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226348471,
+    "wof:lastmodified":1537659381,
+    "wof:name":"Otradnoye",
+    "wof:parent_id":1108785711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.41434,
+    50.56752,
+    54.41434,
+    50.56752
+],
+  "geometry": {"coordinates":[54.41434,50.56752],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1243346419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.68503,48.50834,82.68503,48.50834",
+    "geom:latitude":48.50834,
+    "geom:longitude":82.68503,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tasbulak",
+    "gn:country_code":"KZ",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520001,
+    "gn:latitude":48.50834,
+    "gn:longitude":82.68503,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Tasb\u016blak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Prokhladnoe"
+    ],
+    "name:kaz_x_preferred":[
+        "Tasb\u016blak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0445\u043b\u0430\u0434\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Prokhladnyy",
+        "Prokhladnoye",
+        "Prokhladny",
+        "Prokhladnoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520001
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3801909de3c7ea8524c2f166f8a9ea31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1243346419,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243346419,
+    "wof:lastmodified":1537659630,
+    "wof:name":"Tasbulak",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.68503,
+    48.50834,
+    82.68503,
+    48.50834
+],
+  "geometry": {"coordinates":[82.68503,48.50834],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226426161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.53333,41.9,69.53333,41.9",
+    "geom:latitude":41.9,
+    "geom:longitude":69.53333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Altyn-Aryk",
+    "gn:country_code":"KZ",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526359,
+    "gn:latitude":41.9,
+    "gn:longitude":69.53333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Altyn-Aryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526359
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"733c7920a0a1b41f4ada37e8d9d51db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1226426161,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226426161,
+    "wof:lastmodified":1536673691,
+    "wof:name":"Altyn-Aryk",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.53333,
+    41.9,
+    69.53333,
+    41.9
+],
+  "geometry": {"coordinates":[69.53333000000001,41.9],"type":"Point"}
+}

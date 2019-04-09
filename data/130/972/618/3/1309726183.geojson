@@ -1,0 +1,67 @@
+{
+  "id": 1309726183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.72064,44.27214,76.72064,44.27214",
+    "geom:latitude":44.27214,
+    "geom:longitude":76.72064,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kazaqstan",
+    "gn:country_code":"KZ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8569288,
+    "gn:latitude":44.27214,
+    "gn:longitude":76.72064,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Kazaqstan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8569288
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2769f9a01860b1ad0935aa2e26f20878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785433,
+            "locality_id":1309726183,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1309726183,
+    "wof:lastmodified":1537043980,
+    "wof:name":"Kazaqstan",
+    "wof:parent_id":1108785433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.72064,
+    44.27214,
+    76.72064,
+    44.27214
+],
+  "geometry": {"coordinates":[76.72064,44.27214],"type":"Point"}
+}

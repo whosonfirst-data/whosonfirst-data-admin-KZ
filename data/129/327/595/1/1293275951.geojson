@@ -1,0 +1,71 @@
+{
+  "id": 1293275951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.2,42.28333,68.2,42.28333",
+    "geom:latitude":42.28333,
+    "geom:longitude":68.2,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Takhr-Kul'",
+    "gn:country_code":"KZ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518618,
+    "gn:latitude":42.28333,
+    "gn:longitude":68.2,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Takhr-Kul\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takar Kul",
+        "Takhr-Kul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518618
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"901bb58b482c6a35933ad6be1de235c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785581,
+            "locality_id":1293275951,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293275951,
+    "wof:lastmodified":1537659567,
+    "wof:name":"Takhr-Kul'",
+    "wof:parent_id":1108785581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.2,
+    42.28333,
+    68.2,
+    42.28333
+],
+  "geometry": {"coordinates":[68.2,42.28333],"type":"Point"}
+}

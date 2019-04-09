@@ -1,0 +1,67 @@
+{
+  "id": 1243568947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.61667,48.65,79.61667,48.65",
+    "geom:latitude":48.65,
+    "geom:longitude":79.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhanayenbek",
+    "gn:country_code":"KZ",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516801,
+    "gn:latitude":48.65,
+    "gn:longitude":79.61667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Zhanayenbek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516801
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"600adb586807ecf19505fe958cd7d3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785727,
+            "locality_id":1243568947,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243568947,
+    "wof:lastmodified":1536627150,
+    "wof:name":"Zhanayenbek",
+    "wof:parent_id":1108785727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.61667,
+    48.65,
+    79.61667,
+    48.65
+],
+  "geometry": {"coordinates":[79.61667,48.65],"type":"Point"}
+}

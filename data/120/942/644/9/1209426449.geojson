@@ -1,0 +1,78 @@
+{
+  "id": 1209426449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.08236,52.59885,70.08236,52.59885",
+    "geom:latitude":52.59885,
+    "geom:longitude":70.08236,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kindikqaraghay",
+    "gn:country_code":"KZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522660,
+    "gn:latitude":52.59885,
+    "gn:longitude":70.08236,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Kindikqaraghay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kindykkaragay"
+    ],
+    "name:kaz_x_preferred":[
+        "Kindikqaraghay"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0456\u043d\u0434\u0456\u043a\u049b\u0430\u0440\u0430\u0493\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u0434\u0438\u043a\u043a\u0430\u0440\u0430\u0433\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kyndyk-Karagay",
+        "Kindykkaragay",
+        "Kindikkaragay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522660
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6c82a3241792507c19089869514d4243",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209426449
+        }
+    ],
+    "wof:id":1209426449,
+    "wof:lastmodified":1537659767,
+    "wof:name":"Kindikqaraghay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.08236,
+    52.59885,
+    70.08236,
+    52.59885
+],
+  "geometry": {"coordinates":[70.08235999999999,52.59885],"type":"Point"}
+}

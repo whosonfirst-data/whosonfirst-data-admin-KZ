@@ -1,0 +1,83 @@
+{
+  "id": 1326707599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.96231,48.01765,75.96231,48.01765",
+    "geom:latitude":48.01765,
+    "geom:longitude":75.96231,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Aqshkol",
+    "gn:country_code":"KZ",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11411667,
+    "gn:latitude":48.01765,
+    "gn:longitude":75.96231,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Aqshkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqshkol"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0448\u043a\u043e\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0448\u043a\u043e\u043b"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Akshkol",
+        "Tan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11411667
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"39e843eade4a5ddaaf3f1d5e6633ab92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1326707599,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1326707599,
+    "wof:lastmodified":1537660137,
+    "wof:name":"Aqshkol",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.96231,
+    48.01765,
+    75.96231,
+    48.01765
+],
+  "geometry": {"coordinates":[75.96231,48.01765],"type":"Point"}
+}

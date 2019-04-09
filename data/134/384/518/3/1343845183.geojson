@@ -1,0 +1,70 @@
+{
+  "id": 1343845183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.57485,49.88654,72.57485,49.88654",
+    "geom:latitude":49.88654,
+    "geom:longitude":72.57485,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Asyl",
+    "gn:country_code":"KZ",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475881,
+    "gn:latitude":49.88654,
+    "gn:longitude":72.57485,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Asyl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u044b\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475881
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"298d4210eb80bdc7e8dde954d1e05a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1343845183,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1343845183,
+    "wof:lastmodified":1537660158,
+    "wof:name":"Asyl",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.57485,
+    49.88654,
+    72.57485,
+    49.88654
+],
+  "geometry": {"coordinates":[72.57485,49.88654],"type":"Point"}
+}

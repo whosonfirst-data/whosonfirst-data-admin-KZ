@@ -1,0 +1,79 @@
+{
+  "id": 1276312417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.0906,52.40491,64.0906,52.40491",
+    "geom:latitude":52.40491,
+    "geom:longitude":64.0906,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Amanqaraghay",
+    "gn:country_code":"KZ",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526325,
+    "gn:latitude":52.40491,
+    "gn:longitude":64.0906,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Amanqaraghay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amankaragay"
+    ],
+    "name:kaz_x_preferred":[
+        "Amanqaraghay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0430\u043d\u043a\u0430\u0440\u0430\u0433\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Amankaragay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526325
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"056d98ce63c2f367966eae13546d6476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785659,
+            "locality_id":1276312417,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1276312417,
+    "wof:lastmodified":1537659909,
+    "wof:name":"Amanqaraghay",
+    "wof:parent_id":1108785659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.0906,
+    52.40491,
+    64.0906,
+    52.40491
+],
+  "geometry": {"coordinates":[64.09059999999999,52.40491],"type":"Point"}
+}

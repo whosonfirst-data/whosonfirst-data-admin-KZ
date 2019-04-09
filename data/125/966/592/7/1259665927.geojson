@@ -1,0 +1,76 @@
+{
+  "id": 1259665927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.3382,53.9278,70.3382,53.9278",
+    "geom:latitude":53.9278,
+    "geom:longitude":70.3382,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dashkovo-Nikolayevka",
+    "gn:country_code":"KZ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532404,
+    "gn:latitude":53.9278,
+    "gn:longitude":70.3382,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Dashkovo-Nikolayevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Dashko-N\u012bkolaevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u0430\u0448\u043a\u043e-\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0448\u043a\u043e\u0432\u043e-\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532404
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f96c8187f6bf61ef8e6091569e78f59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1259665927,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259665927,
+    "wof:lastmodified":1537659967,
+    "wof:name":"Dashkovo-Nikolayevka",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.3382,
+    53.9278,
+    70.3382,
+    53.9278
+],
+  "geometry": {"coordinates":[70.3382,53.9278],"type":"Point"}
+}

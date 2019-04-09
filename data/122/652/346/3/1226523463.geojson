@@ -1,0 +1,80 @@
+{
+  "id": 1226523463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.01923,52.50909,75.01923,52.50909",
+    "geom:latitude":52.50909,
+    "geom:longitude":75.01923,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shuga",
+    "gn:country_code":"KZ",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519016,
+    "gn:latitude":52.50909,
+    "gn:longitude":75.01923,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Shuga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shuga"
+    ],
+    "name:kaz_x_preferred":[
+        "Sh\u016bga"
+    ],
+    "name:kaz_x_variant":[
+        "Shugha",
+        "\u0428\u04b1\u0493\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0433\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519016
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"df2667a9134e9a43f41044167af46a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785733,
+            "locality_id":1226523463,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1226523463,
+    "wof:lastmodified":1537659587,
+    "wof:name":"Shuga",
+    "wof:parent_id":1108785733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.01923000000002,
+    52.50909,
+    75.01923000000002,
+    52.50909
+],
+  "geometry": {"coordinates":[75.01923000000002,52.50909],"type":"Point"}
+}

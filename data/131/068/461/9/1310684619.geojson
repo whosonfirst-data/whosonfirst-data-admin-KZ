@@ -1,0 +1,70 @@
+{
+  "id": 1310684619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.42146,45.67069,63.42146,45.67069",
+    "geom:latitude":45.67069,
+    "geom:longitude":63.42146,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yelshibay",
+    "gn:country_code":"KZ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11402599,
+    "gn:latitude":45.67069,
+    "gn:longitude":63.42146,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Yelshibay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u0448\u0438\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402599
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dfcf10875e450feacfe485d7c3e19724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785695,
+            "locality_id":1310684619,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1310684619,
+    "wof:lastmodified":1537660131,
+    "wof:name":"Yelshibay",
+    "wof:parent_id":1108785695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.42146,
+    45.67069,
+    63.42146,
+    45.67069
+],
+  "geometry": {"coordinates":[63.42146,45.67069],"type":"Point"}
+}

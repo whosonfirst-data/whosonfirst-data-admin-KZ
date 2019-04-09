@@ -1,0 +1,77 @@
+{
+  "id": 1243436503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.34208,52.73482,68.34208,52.73482",
+    "geom:latitude":52.73482,
+    "geom:longitude":68.34208,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Altynbulak",
+    "gn:country_code":"KZ",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535485,
+    "gn:latitude":52.73482,
+    "gn:longitude":68.34208,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Altynbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Altynbulak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0442\u044b\u043d\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zagotskot",
+        "Altynbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535485
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"286e79a7ca23047ffeba2111acbf4e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1243436503,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243436503,
+    "wof:lastmodified":1537659995,
+    "wof:name":"Altynbulak",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.34208000000001,
+    52.73481999999999,
+    68.34208000000001,
+    52.73481999999999
+],
+  "geometry": {"coordinates":[68.34208000000001,52.73481999999999],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1310673257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.47168,54.32643,69.47168,54.32643",
+    "geom:latitude":54.32643,
+    "geom:longitude":69.47168,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Amankeldi",
+    "gn:country_code":"KZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526331,
+    "gn:latitude":54.32643,
+    "gn:longitude":69.47168,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Amankeldi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amangel'dy"
+    ],
+    "name:kaz_x_preferred":[
+        "Amankeldi"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u043c\u0430\u043d\u043a\u0435\u043b\u0434\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u044c\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Amangel\u2019dy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526331
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d475f856a35ac0175a572116104f662f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785685,
+            "locality_id":1310673257,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310673257,
+    "wof:lastmodified":1537659909,
+    "wof:name":"Amankeldi",
+    "wof:parent_id":1108785685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.47168,
+    54.32643,
+    69.47168,
+    54.32643
+],
+  "geometry": {"coordinates":[69.47168000000001,54.32643],"type":"Point"}
+}

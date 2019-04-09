@@ -1,0 +1,70 @@
+{
+  "id": 1276962807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.43532,40.81811,68.43532,40.81811",
+    "geom:latitude":40.81811,
+    "geom:longitude":68.43532,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Otdeleniye Imeni Sorokaletiya Oktyabrya",
+    "gn:country_code":"KZ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10956179,
+    "gn:latitude":40.81811,
+    "gn:longitude":68.43532,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Otdeleniye Imeni Sorokaletiya Oktyabrya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0418\u043c\u0435\u043d\u0438 \u0421\u043e\u0440\u043e\u043a\u0430\u043b\u0435\u0442\u0438\u044f \u041e\u043a\u0442\u044f\u0431\u0440\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956179
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1a006f0addf3a0b7d8b739716413c38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1276962807,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276962807,
+    "wof:lastmodified":1537660081,
+    "wof:name":"Otdeleniye Imeni Sorokaletiya Oktyabrya",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.43531999999999,
+    40.81811,
+    68.43531999999999,
+    40.81811
+],
+  "geometry": {"coordinates":[68.43531999999999,40.81811],"type":"Point"}
+}

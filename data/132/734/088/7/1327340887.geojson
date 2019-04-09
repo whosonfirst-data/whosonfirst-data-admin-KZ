@@ -1,0 +1,70 @@
+{
+  "id": 1327340887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.1629,52.45121,69.1629,52.45121",
+    "geom:latitude":52.45121,
+    "geom:longitude":69.1629,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novodobrinka",
+    "gn:country_code":"KZ",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520629,
+    "gn:latitude":52.45121,
+    "gn:longitude":69.1629,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Novodobrinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0434\u043e\u0431\u0440\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520629
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"108474011c1355b711012a2f3e4ac662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785397,
+            "locality_id":1327340887,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327340887,
+    "wof:lastmodified":1537659671,
+    "wof:name":"Novodobrinka",
+    "wof:parent_id":1108785397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.1629,
+    52.45121,
+    69.1629,
+    52.45121
+],
+  "geometry": {"coordinates":[69.16289999999999,52.45121],"type":"Point"}
+}

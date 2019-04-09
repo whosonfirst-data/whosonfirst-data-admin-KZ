@@ -1,0 +1,82 @@
+{
+  "id": 1242758987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.30529,51.84178,74.30529,51.84178",
+    "geom:latitude":51.84178,
+    "geom:longitude":74.30529,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bozshakol",
+    "gn:country_code":"KZ",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525075,
+    "gn:latitude":51.84178,
+    "gn:longitude":74.30529,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bozshak\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0437\u0448\u0430\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Bozshakol\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u0437\u0448\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Bosche-Kul",
+        "Bozshakul\u2019",
+        "Boshekul",
+        "Bozshak\u00f6l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525075
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"395aea93f7505984ef693fa9a97cb96d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785733,
+            "locality_id":1242758987,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1242758987,
+    "wof:lastmodified":1537659860,
+    "wof:name":"Bozshakol",
+    "wof:parent_id":1108785733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.30529,
+    51.84178,
+    74.30529,
+    51.84178
+],
+  "geometry": {"coordinates":[74.30529,51.84178],"type":"Point"}
+}

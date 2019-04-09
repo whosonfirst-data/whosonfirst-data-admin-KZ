@@ -1,0 +1,79 @@
+{
+  "id": 1209807265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.79826,50.8742,52.79826,50.8742",
+    "geom:latitude":50.8742,
+    "geom:longitude":52.79826,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kirovo",
+    "gn:country_code":"KZ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610197,
+    "gn:latitude":50.8742,
+    "gn:longitude":52.79826,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kirovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kirovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Budennovskiy",
+        "Budenovskiy",
+        "Bud\u00ebnnovka",
+        "Kirovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610197
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3b8f953a4823ecd77674913a9de4fb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785325,
+            "locality_id":1209807265,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1209807265,
+    "wof:lastmodified":1537659433,
+    "wof:name":"Kirovo",
+    "wof:parent_id":1108785325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.79826,
+    50.8742,
+    52.79826,
+    50.8742
+],
+  "geometry": {"coordinates":[52.79826,50.8742],"type":"Point"}
+}

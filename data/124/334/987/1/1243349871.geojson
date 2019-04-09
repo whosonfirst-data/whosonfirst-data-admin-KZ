@@ -1,0 +1,73 @@
+{
+  "id": 1243349871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.28465,53.09705,64.28465,53.09705",
+    "geom:latitude":53.09705,
+    "geom:longitude":64.28465,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Malaya Churakovka",
+    "gn:country_code":"KZ",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11508374,
+    "gn:latitude":53.09705,
+    "gn:longitude":64.28465,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Malaya Churakovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Malaya Ch\u016brakovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0430\u043b\u0430\u044f \u0427\u0443\u0440\u0430\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11508374
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a07e176c6b3bf3780de298605858112d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785531,
+            "locality_id":1243349871,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1243349871,
+    "wof:lastmodified":1537660176,
+    "wof:name":"Malaya Churakovka",
+    "wof:parent_id":1108785531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.28465,
+    53.09705,
+    64.28465,
+    53.09705
+],
+  "geometry": {"coordinates":[64.28465,53.09705],"type":"Point"}
+}

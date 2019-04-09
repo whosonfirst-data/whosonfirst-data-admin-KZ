@@ -1,0 +1,67 @@
+{
+  "id": 1293108581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.05,51.6,62.05,51.6",
+    "geom:latitude":51.6,
+    "geom:longitude":62.05,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sakharovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519783,
+    "gn:latitude":51.6,
+    "gn:longitude":62.05,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Sakharovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519783
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"efca5af295b0d9509ef6af290f41f7a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785529,
+            "locality_id":1293108581,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293108581,
+    "wof:lastmodified":1536835216,
+    "wof:name":"Sakharovskiy",
+    "wof:parent_id":1108785529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.05,
+    51.6,
+    62.05,
+    51.6
+],
+  "geometry": {"coordinates":[62.05,51.6],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1259461151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.30427,52.32529,77.30427,52.32529",
+    "geom:latitude":52.32529,
+    "geom:longitude":77.30427,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shaqat",
+    "gn:country_code":"KZ",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519116,
+    "gn:latitude":52.32529,
+    "gn:longitude":77.30427,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Shaqat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shokat"
+    ],
+    "name:kaz_x_preferred":[
+        "Shaqat"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0430\u049b\u0430\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043a\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "Chakat",
+        "Chekat",
+        "Shokat",
+        "Shakat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519116
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5029a8083c34bf9c1993a53a69d1bd85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785561,
+            "locality_id":1259461151,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259461151,
+    "wof:lastmodified":1537659592,
+    "wof:name":"Shaqat",
+    "wof:parent_id":1108785561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.30426999999997,
+    52.32529,
+    77.30426999999997,
+    52.32529
+],
+  "geometry": {"coordinates":[77.30426999999997,52.32529],"type":"Point"}
+}

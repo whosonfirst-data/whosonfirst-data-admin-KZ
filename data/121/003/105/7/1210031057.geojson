@@ -1,0 +1,73 @@
+{
+  "id": 1210031057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.5,54.6,66.5,54.6",
+    "geom:latitude":54.6,
+    "geom:longitude":66.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Budennoye",
+    "gn:country_code":"KZ",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525056,
+    "gn:latitude":54.6,
+    "gn:longitude":66.5,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Budennoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Budennoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0435\u043d\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525056
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"af793cdc2c186c12c1cb58f53db22508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1210031057,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1210031057,
+    "wof:lastmodified":1537659859,
+    "wof:name":"Budennoye",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.5,
+    54.6,
+    66.5,
+    54.6
+],
+  "geometry": {"coordinates":[66.5,54.6],"type":"Point"}
+}

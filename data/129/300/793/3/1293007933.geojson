@@ -1,0 +1,84 @@
+{
+  "id": 1293007933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.36755,53.44375,69.36755,53.44375",
+    "geom:latitude":53.44375,
+    "geom:longitude":69.36755,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vasil'kovka",
+    "gn:country_code":"KZ",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517496,
+    "gn:latitude":53.44375,
+    "gn:longitude":69.36755,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Vasil\u2019kovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vasil'kovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Vas\u012bl\u2019kovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u0430\u0441\u0438\u043b\u044c\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b\u044c\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vasil\u2019yevka",
+        "Vasil\u2019yevskoye",
+        "Vasil\u2019kovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517496
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4722963a936dd5fe0924995dddea3e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1293007933,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293007933,
+    "wof:lastmodified":1537659526,
+    "wof:name":"Vasil'kovka",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.36755,
+    53.44375,
+    69.36755,
+    53.44375
+],
+  "geometry": {"coordinates":[69.36754999999999,53.44375],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243345661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.49434,55.13291,70.49434,55.13291",
+    "geom:latitude":55.13291,
+    "geom:longitude":70.49434,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Voskresenka",
+    "gn:country_code":"KZ",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517387,
+    "gn:latitude":55.13291,
+    "gn:longitude":70.49434,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Voskresenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Voskresenskiy",
+        "Voskresenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517387
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5b006c8714711cd992e486fe3cf783ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1243345661,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243345661,
+    "wof:lastmodified":1537659517,
+    "wof:name":"Voskresenka",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.49434000000002,
+    55.13291,
+    70.49434000000002,
+    55.13291
+],
+  "geometry": {"coordinates":[70.49434000000002,55.13291],"type":"Point"}
+}

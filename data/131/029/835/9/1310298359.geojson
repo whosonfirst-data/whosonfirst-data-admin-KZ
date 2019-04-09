@@ -1,0 +1,71 @@
+{
+  "id": 1310298359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.01667,48.0,48.01667,48.0",
+    "geom:latitude":48.0,
+    "geom:longitude":48.01667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Aytkaly",
+    "gn:country_code":"KZ",
+    "gn:dem":-10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610490,
+    "gn:latitude":48.0,
+    "gn:longitude":48.01667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Aytkaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aytkali",
+        "Aytkaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610490
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ef6a42bde14a216ad7599774f443490a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1310298359,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1310298359,
+    "wof:lastmodified":1537659445,
+    "wof:name":"Aytkaly",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.01667,
+    48.0,
+    48.01667,
+    48.0
+],
+  "geometry": {"coordinates":[48.01667,48.0],"type":"Point"}
+}

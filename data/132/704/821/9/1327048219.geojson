@@ -1,0 +1,77 @@
+{
+  "id": 1327048219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.60744,50.26221,79.60744,50.26221",
+    "geom:latitude":50.26221,
+    "geom:longitude":79.60744,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Svobodnyy",
+    "gn:country_code":"KZ",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518664,
+    "gn:latitude":50.26221,
+    "gn:longitude":79.60744,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Svobodnyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Svobodnyy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Svobodny",
+        "Svobodnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518664
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6aaaad9210175fc874609f2e355095c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1327048219,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327048219,
+    "wof:lastmodified":1537659569,
+    "wof:name":"Svobodnyy",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.60744,
+    50.26221,
+    79.60744,
+    50.26221
+],
+  "geometry": {"coordinates":[79.60744,50.26221],"type":"Point"}
+}

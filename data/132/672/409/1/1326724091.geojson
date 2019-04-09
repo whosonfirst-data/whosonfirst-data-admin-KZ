@@ -1,0 +1,73 @@
+{
+  "id": 1326724091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.37849,42.94074,67.37849,42.94074",
+    "geom:latitude":42.94074,
+    "geom:longitude":67.37849,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhauqashty",
+    "gn:country_code":"KZ",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11118591,
+    "gn:latitude":42.94074,
+    "gn:longitude":67.37849,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Zha\u016bqashty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zha\u016bqashty"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u0443\u049b\u0430\u0448\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11118591
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b58d5c34853f2ec7afb82db4aaa45d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785593,
+            "locality_id":1326724091,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1326724091,
+    "wof:lastmodified":1537660098,
+    "wof:name":"Zhauqashty",
+    "wof:parent_id":1108785593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.37849,
+    42.94074000000001,
+    67.37849,
+    42.94074000000001
+],
+  "geometry": {"coordinates":[67.37849,42.94074000000001],"type":"Point"}
+}

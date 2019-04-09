@@ -1,0 +1,71 @@
+{
+  "id": 1327037591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.69877,51.9461,67.69877,51.9461",
+    "geom:latitude":51.9461,
+    "geom:longitude":67.69877,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tarasovka",
+    "gn:country_code":"KZ",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518459,
+    "gn:latitude":51.9461,
+    "gn:longitude":67.69877,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tarasovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarasovskoye",
+        "Tarasovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518459
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"28864b2af6d6470018a857845de7da95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785623,
+            "locality_id":1327037591,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327037591,
+    "wof:lastmodified":1537659563,
+    "wof:name":"Tarasovka",
+    "wof:parent_id":1108785623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.69877,
+    51.9461,
+    67.69877,
+    51.9461
+],
+  "geometry": {"coordinates":[67.69877,51.9461],"type":"Point"}
+}

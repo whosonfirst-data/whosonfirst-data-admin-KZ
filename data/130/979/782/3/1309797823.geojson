@@ -1,0 +1,76 @@
+{
+  "id": 1309797823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.18026,49.65533,53.18026,49.65533",
+    "geom:latitude":49.65533,
+    "geom:longitude":53.18026,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sonaly",
+    "gn:country_code":"KZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608214,
+    "gn:latitude":49.65533,
+    "gn:longitude":53.18026,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sonaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sonaly"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043d\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Akmeshit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608214
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ca776d2f3a0321a81f527efe33ede36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785493,
+            "locality_id":1309797823,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1309797823,
+    "wof:lastmodified":1537659364,
+    "wof:name":"Sonaly",
+    "wof:parent_id":1108785493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.18026,
+    49.65533,
+    53.18026,
+    49.65533
+],
+  "geometry": {"coordinates":[53.18026,49.65533],"type":"Point"}
+}

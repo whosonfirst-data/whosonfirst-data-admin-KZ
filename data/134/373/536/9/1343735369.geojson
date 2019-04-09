@@ -1,0 +1,78 @@
+{
+  "id": 1343735369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.60401,47.82151,82.60401,47.82151",
+    "geom:latitude":47.82151,
+    "geom:longitude":82.60401,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kokzhyra",
+    "gn:country_code":"KZ",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522412,
+    "gn:latitude":47.82151,
+    "gn:longitude":82.60401,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kokzhyra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041a\u04e9\u043a\u0436\u044b\u0440\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0436\u044b\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kokzhira",
+        "K\u00f6kzhyra",
+        "Kokzhyra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522412
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9d6306aa542327490c741835c35fe2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785469,
+            "locality_id":1343735369,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343735369,
+    "wof:lastmodified":1537659759,
+    "wof:name":"Kokzhyra",
+    "wof:parent_id":1108785469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.60401,
+    47.82151,
+    82.60401,
+    47.82151
+],
+  "geometry": {"coordinates":[82.60401,47.82151],"type":"Point"}
+}

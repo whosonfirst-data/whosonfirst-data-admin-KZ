@@ -1,0 +1,72 @@
+{
+  "id": 1276980775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.9,49.86667,54.9,49.86667",
+    "geom:latitude":49.86667,
+    "geom:longitude":54.9,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kandyk",
+    "gn:country_code":"KZ",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609701,
+    "gn:latitude":49.86667,
+    "gn:longitude":54.9,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kandyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kindyk",
+        "Sandyk",
+        "Kandyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609701
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f04bc284fdadd36a548364b4abb0c8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785491,
+            "locality_id":1276980775,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1276980775,
+    "wof:lastmodified":1537659420,
+    "wof:name":"Kandyk",
+    "wof:parent_id":1108785491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.9,
+    49.86667,
+    54.9,
+    49.86667
+],
+  "geometry": {"coordinates":[54.9,49.86667],"type":"Point"}
+}

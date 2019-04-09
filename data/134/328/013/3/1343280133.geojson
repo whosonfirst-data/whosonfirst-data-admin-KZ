@@ -1,0 +1,67 @@
+{
+  "id": 1343280133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.13333,48.58333,49.13333,48.58333",
+    "geom:latitude":48.58333,
+    "geom:longitude":49.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aykynkum",
+    "gn:country_code":"KZ",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610501,
+    "gn:latitude":48.58333,
+    "gn:longitude":49.13333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Aykynkum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610501
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"948c7c6cd3c354157a8004fa309196f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1343280133,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1343280133,
+    "wof:lastmodified":1537005784,
+    "wof:name":"Aykynkum",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.13333,
+    48.58333,
+    49.13333,
+    48.58333
+],
+  "geometry": {"coordinates":[49.13333,48.58333],"type":"Point"}
+}

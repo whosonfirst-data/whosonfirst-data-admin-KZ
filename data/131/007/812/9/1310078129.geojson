@@ -1,0 +1,83 @@
+{
+  "id": 1310078129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.63277,52.83945,67.63277,52.83945",
+    "geom:latitude":52.83945,
+    "geom:longitude":67.63277,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Malosergeyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521182,
+    "gn:latitude":52.83945,
+    "gn:longitude":67.63277,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Malosergeyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malosergeyevka"
+    ],
+    "name:kaz_x_preferred":[
+        "Malosergeevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0430\u043b\u043e\u0441\u0435\u0440\u0433\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0441\u0435\u0440\u0433\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yermolovka",
+        "Malosergeyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521182
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"17b629e4624447a8dca942b5f358fc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1310078129,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310078129,
+    "wof:lastmodified":1537659700,
+    "wof:name":"Malosergeyevka",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.63277,
+    52.83945,
+    67.63277,
+    52.83945
+],
+  "geometry": {"coordinates":[67.63276999999999,52.83945],"type":"Point"}
+}

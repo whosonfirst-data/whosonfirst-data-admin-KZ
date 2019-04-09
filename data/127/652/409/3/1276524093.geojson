@@ -1,0 +1,76 @@
+{
+  "id": 1276524093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.49188,43.08747,72.49188,43.08747",
+    "geom:latitude":43.08747,
+    "geom:longitude":72.49188,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Abulkair",
+    "gn:country_code":"KZ",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11010440,
+    "gn:latitude":43.08747,
+    "gn:longitude":72.49188,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Abulkair",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u00c4bilqayyr"
+    ],
+    "name:kaz_x_variant":[
+        "\u04d8\u0431\u0456\u043b\u049b\u0430\u0439\u044b\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0443\u043b\u043a\u0430\u0438\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11010440
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b9797dab50c8b141bba2707940b9de96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785489,
+            "locality_id":1276524093,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1276524093,
+    "wof:lastmodified":1537660088,
+    "wof:name":"Abulkair",
+    "wof:parent_id":1108785489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.49188000000002,
+    43.08747,
+    72.49188000000002,
+    43.08747
+],
+  "geometry": {"coordinates":[72.49188000000002,43.08747],"type":"Point"}
+}

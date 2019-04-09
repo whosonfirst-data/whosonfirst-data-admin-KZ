@@ -1,0 +1,70 @@
+{
+  "id": 1209201743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.74942,49.71417,76.74942,49.71417",
+    "geom:latitude":49.71417,
+    "geom:longitude":76.74942,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Karatau",
+    "gn:country_code":"KZ",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492120,
+    "gn:latitude":49.71417,
+    "gn:longitude":76.74942,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Karatau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarata\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0442\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0442\u0430\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492120
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"63058e8478d409a9de9a22385dda2924",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209201743
+        }
+    ],
+    "wof:id":1209201743,
+    "wof:lastmodified":1537660163,
+    "wof:name":"Karatau",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.74942,
+    49.71417,
+    76.74942,
+    49.71417
+],
+  "geometry": {"coordinates":[76.74942,49.71417],"type":"Point"}
+}

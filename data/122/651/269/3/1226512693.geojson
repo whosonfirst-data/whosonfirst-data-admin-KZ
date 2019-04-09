@@ -1,0 +1,76 @@
+{
+  "id": 1226512693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.29281,48.20767,81.29281,48.20767",
+    "geom:latitude":48.20767,
+    "geom:longitude":81.29281,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Shubartas",
+    "gn:country_code":"KZ",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527600,
+    "gn:latitude":48.20767,
+    "gn:longitude":81.29281,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Shubartas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shubartas"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u04b1\u0431\u0430\u0440\u0442\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0431\u0430\u0440\u0442\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527600
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ac246f8e50dace6c870b280280854711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785459,
+            "locality_id":1226512693,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226512693,
+    "wof:lastmodified":1537660189,
+    "wof:name":"Shubartas",
+    "wof:parent_id":1108785459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.29281,
+    48.20767,
+    81.29281,
+    48.20767
+],
+  "geometry": {"coordinates":[81.29281,48.20767],"type":"Point"}
+}

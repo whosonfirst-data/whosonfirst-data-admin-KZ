@@ -1,0 +1,79 @@
+{
+  "id": 1226028541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.54446,40.87253,68.54446,40.87253",
+    "geom:latitude":40.87253,
+    "geom:longitude":68.54446,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bogara",
+    "gn:country_code":"KZ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956213,
+    "gn:latitude":40.87253,
+    "gn:longitude":68.54446,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Bogara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0430\u0440\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u0447\u0430\u0441\u0442\u043e\u043a \u041d\u043e\u043c\u0435\u0440 \u0422\u0440\u0438 \u041a\u043e\u043b\u0445\u043e\u0437\u0430 \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "Uchastok Nomer Tri Kolkhoza Leningrad"
+    ],
+    "name:uzb_x_preferred":[
+        "Jambil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956213
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"48be4aa6d368ba23464c5738ca353263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1226028541,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226028541,
+    "wof:lastmodified":1537660082,
+    "wof:name":"Bogara",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.54446,
+    40.87253,
+    68.54446,
+    40.87253
+],
+  "geometry": {"coordinates":[68.54446,40.87253],"type":"Point"}
+}

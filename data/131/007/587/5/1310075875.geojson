@@ -1,0 +1,79 @@
+{
+  "id": 1310075875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.20512,49.22462,86.20512,49.22462",
+    "geom:latitude":49.22462,
+    "geom:longitude":86.20512,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qayyngdy",
+    "gn:country_code":"KZ",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525450,
+    "gn:latitude":49.22462,
+    "gn:longitude":86.20512,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Qayyngdy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qayyngdy"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0439\u044b\u04a3\u0434\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "Ber\u00ebzovka"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u0440\u0451\u0437\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525450
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1ff598fdef0f4cf3c20218979f999f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1310075875,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310075875,
+    "wof:lastmodified":1537659876,
+    "wof:name":"Qayyngdy",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.20512,
+    49.22462,
+    86.20512,
+    49.22462
+],
+  "geometry": {"coordinates":[86.20511999999999,49.22462],"type":"Point"}
+}

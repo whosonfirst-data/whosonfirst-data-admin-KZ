@@ -1,0 +1,73 @@
+{
+  "id": 1259702089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.43917,49.96441,82.43917,49.96441",
+    "geom:latitude":49.96441,
+    "geom:longitude":82.43917,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gerasimovka",
+    "gn:country_code":"KZ",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524239,
+    "gn:latitude":49.96441,
+    "gn:longitude":82.43917,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gerasimovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gerasimovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u0430\u0441\u0438\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524239
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0aad174c86fbc51f6857e1ef97a478d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785473,
+            "locality_id":1259702089,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259702089,
+    "wof:lastmodified":1537659827,
+    "wof:name":"Gerasimovka",
+    "wof:parent_id":1108785473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.43916999999998,
+    49.96441,
+    82.43916999999998,
+    49.96441
+],
+  "geometry": {"coordinates":[82.43916999999998,49.96441],"type":"Point"}
+}

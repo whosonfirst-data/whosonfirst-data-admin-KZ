@@ -1,0 +1,86 @@
+{
+  "id": 1243526961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.16459,54.20851,67.16459,54.20851",
+    "geom:latitude":54.20851,
+    "geom:longitude":67.16459,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Boluan",
+    "gn:country_code":"KZ",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525785,
+    "gn:latitude":54.20851,
+    "gn:longitude":67.16459,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Boluan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Boluan"
+    ],
+    "name:kaz_x_preferred":[
+        "Bal\u016ban"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u043b\u0443\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0443\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u0443\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Baluan",
+        "Boluan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525785
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1f397bada6b1f9adae241473f851a87a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1243526961,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243526961,
+    "wof:lastmodified":1537659891,
+    "wof:name":"Boluan",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.16459,
+    54.20851,
+    67.16459,
+    54.20851
+],
+  "geometry": {"coordinates":[67.16459,54.20851],"type":"Point"}
+}

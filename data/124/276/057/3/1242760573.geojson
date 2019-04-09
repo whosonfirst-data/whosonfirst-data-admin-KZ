@@ -1,0 +1,74 @@
+{
+  "id": 1242760573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.0552,49.6868,84.0552,49.6868",
+    "geom:latitude":49.6868,
+    "geom:longitude":84.0552,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chapayevo",
+    "gn:country_code":"KZ",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524894,
+    "gn:latitude":49.6868,
+    "gn:longitude":84.0552,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Chapayevo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043f\u0430\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Chapayevskiy",
+        "Chapayevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524894
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ae8f1c0bea005bf9ee2c51d4d1dd49ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1242760573,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1242760573,
+    "wof:lastmodified":1537659854,
+    "wof:name":"Chapayevo",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.0552,
+    49.6868,
+    84.0552,
+    49.6868
+],
+  "geometry": {"coordinates":[84.0552,49.6868],"type":"Point"}
+}

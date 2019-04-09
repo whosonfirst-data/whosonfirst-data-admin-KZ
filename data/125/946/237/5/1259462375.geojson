@@ -1,0 +1,70 @@
+{
+  "id": 1259462375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.57579,52.82583,62.57579,52.82583",
+    "geom:latitude":52.82583,
+    "geom:longitude":62.57579,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ayatskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11508004,
+    "gn:latitude":52.82583,
+    "gn:longitude":62.57579,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ayatskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u044f\u0442\u0441\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11508004
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6de8b74e4484b0843385e9d655ad5960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785535,
+            "locality_id":1259462375,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1259462375,
+    "wof:lastmodified":1537660175,
+    "wof:name":"Ayatskoye",
+    "wof:parent_id":1108785535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.57579000000001,
+    52.82583,
+    62.57579000000001,
+    52.82583
+],
+  "geometry": {"coordinates":[62.57579000000001,52.82583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209232877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.5163,50.028,83.5163,50.028",
+    "geom:latitude":50.028,
+    "geom:longitude":83.5163,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yerofeyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517183,
+    "gn:latitude":50.028,
+    "gn:longitude":83.5163,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Yerofeyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yerofeyevka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0440\u043e\u0444\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517183
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4fef7a50272116b3ddbaafdd13012265",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209232877
+        }
+    ],
+    "wof:id":1209232877,
+    "wof:lastmodified":1537659504,
+    "wof:name":"Yerofeyevka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.5163,
+    50.028,
+    83.5163,
+    50.028
+],
+  "geometry": {"coordinates":[83.5163,50.028],"type":"Point"}
+}

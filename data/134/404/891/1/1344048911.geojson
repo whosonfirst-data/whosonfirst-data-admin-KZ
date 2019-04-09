@@ -1,0 +1,78 @@
+{
+  "id": 1344048911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.93754,51.17165,53.93754,51.17165",
+    "geom:latitude":51.17165,
+    "geom:longitude":53.93754,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shoktybay",
+    "gn:country_code":"KZ",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607622,
+    "gn:latitude":51.17165,
+    "gn:longitude":53.93754,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Shoktybay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shoktybay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043a\u0442\u044b\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Zhanaturmys",
+        "Zhanaturmus",
+        "Shoktybay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607622
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a018de20a588d03f26b555081725e976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785711,
+            "locality_id":1344048911,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1344048911,
+    "wof:lastmodified":1537659343,
+    "wof:name":"Shoktybay",
+    "wof:parent_id":1108785711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.93754000000001,
+    51.17165,
+    53.93754000000001,
+    51.17165
+],
+  "geometry": {"coordinates":[53.93754000000001,51.17165],"type":"Point"}
+}

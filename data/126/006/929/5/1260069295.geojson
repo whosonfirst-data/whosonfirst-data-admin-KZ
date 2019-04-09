@@ -1,0 +1,76 @@
+{
+  "id": 1260069295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.37555,42.2505,69.37555,42.2505",
+    "geom:latitude":42.2505,
+    "geom:longitude":69.37555,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Uchastok Aykol'",
+    "gn:country_code":"KZ",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525932,
+    "gn:latitude":42.2505,
+    "gn:longitude":69.37555,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Uchastok Aykol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Uchastok Aykol\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u0447\u0430\u0441\u0442\u043e\u043a \u0410\u0439\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Aykol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525932
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bc32c29288c1269f5e28ff73bb83cf7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785607,
+            "locality_id":1260069295,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1260069295,
+    "wof:lastmodified":1537659897,
+    "wof:name":"Uchastok Aykol'",
+    "wof:parent_id":1108785607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.37555,
+    42.2505,
+    69.37555,
+    42.2505
+],
+  "geometry": {"coordinates":[69.37555,42.2505],"type":"Point"}
+}

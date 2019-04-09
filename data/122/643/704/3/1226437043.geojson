@@ -1,0 +1,79 @@
+{
+  "id": 1226437043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.95512,49.04895,49.95512,49.04895",
+    "geom:latitude":49.04895,
+    "geom:longitude":49.95512,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Leninskoe",
+    "gn:country_code":"KZ",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608947,
+    "gn:latitude":49.04895,
+    "gn:longitude":49.95512,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Len\u012bnskoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Len\u012bnskoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mashteksay",
+        "Masteksay",
+        "Leninskoye",
+        "Len\u012bnskoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608947
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b7e8b2474815d835e0a8713dda8ab6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1226437043,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226437043,
+    "wof:lastmodified":1537659393,
+    "wof:name":"Leninskoe",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.95512,
+    49.04895,
+    49.95512,
+    49.04895
+],
+  "geometry": {"coordinates":[49.95512,49.04895],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310478841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.27126,50.41049,73.27126,50.41049",
+    "geom:latitude":50.41049,
+    "geom:longitude":73.27126,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Pervomayskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11452042,
+    "gn:latitude":50.41049,
+    "gn:longitude":73.27126,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Pervomayskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11452042
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4840f35cc0d16165ceb81cc3b5f0c64c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1310478841,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1310478841,
+    "wof:lastmodified":1537660153,
+    "wof:name":"Pervomayskoye",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.27126,
+    50.41049,
+    73.27126,
+    50.41049
+],
+  "geometry": {"coordinates":[73.27126,50.41049],"type":"Point"}
+}

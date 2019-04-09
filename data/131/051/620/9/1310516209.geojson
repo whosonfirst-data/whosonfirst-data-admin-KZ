@@ -1,0 +1,67 @@
+{
+  "id": 1310516209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.31667,48.56667,83.31667,48.56667",
+    "geom:latitude":48.56667,
+    "geom:longitude":83.31667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mechet'",
+    "gn:country_code":"KZ",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520994,
+    "gn:latitude":48.56667,
+    "gn:longitude":83.31667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Mechet\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520994
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2eff758c40eb71462732015403817ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1310516209,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310516209,
+    "wof:lastmodified":1536901441,
+    "wof:name":"Mechet'",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.31667,
+    48.56667,
+    83.31667,
+    48.56667
+],
+  "geometry": {"coordinates":[83.31667,48.56667],"type":"Point"}
+}

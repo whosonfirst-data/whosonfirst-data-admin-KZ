@@ -1,0 +1,71 @@
+{
+  "id": 1343369129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.55,50.4,51.55,50.4",
+    "geom:latitude":50.4,
+    "geom:longitude":51.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tos'-Kuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607964,
+    "gn:latitude":50.4,
+    "gn:longitude":51.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tos\u2019-Kuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tas Kuduk",
+        "Tos\u2019-Kuduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607964
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"22ec22f7bf13510bc2effe4ee42f08c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785731,
+            "locality_id":1343369129,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1343369129,
+    "wof:lastmodified":1537659355,
+    "wof:name":"Tos'-Kuduk",
+    "wof:parent_id":1108785731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.55,
+    50.4,
+    51.55,
+    50.4
+],
+  "geometry": {"coordinates":[51.55,50.4],"type":"Point"}
+}

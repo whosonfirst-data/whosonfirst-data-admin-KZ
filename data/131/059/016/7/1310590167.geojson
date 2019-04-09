@@ -1,0 +1,76 @@
+{
+  "id": 1310590167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.91731,42.44158,69.91731,42.44158",
+    "geom:latitude":42.44158,
+    "geom:longitude":69.91731,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sikhym",
+    "gn:country_code":"KZ",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11120299,
+    "gn:latitude":42.44158,
+    "gn:longitude":69.91731,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Sikhym",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0445\u044b\u043c"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0438\u0440\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Birlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11120299
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d6a34e654f053ec44e24cddbd5d03854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785595,
+            "locality_id":1310590167,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1310590167,
+    "wof:lastmodified":1537660109,
+    "wof:name":"Sikhym",
+    "wof:parent_id":1108785595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.91731,
+    42.44158,
+    69.91731,
+    42.44158
+],
+  "geometry": {"coordinates":[69.91731,42.44158],"type":"Point"}
+}

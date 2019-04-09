@@ -1,0 +1,70 @@
+{
+  "id": 1276411155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.81785,43.30197,67.81785,43.30197",
+    "geom:latitude":43.30197,
+    "geom:longitude":67.81785,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Koktal",
+    "gn:country_code":"KZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11118789,
+    "gn:latitude":43.30197,
+    "gn:longitude":67.81785,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Koktal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0442\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11118789
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1c654bd634a6df9250eb079bd7bfeec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1276411155,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276411155,
+    "wof:lastmodified":1537660099,
+    "wof:name":"Koktal",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.81785,
+    43.30197,
+    67.81785,
+    43.30197
+],
+  "geometry": {"coordinates":[67.81785000000001,43.30197],"type":"Point"}
+}

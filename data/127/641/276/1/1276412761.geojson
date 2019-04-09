@@ -1,0 +1,83 @@
+{
+  "id": 1276412761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.07587,54.14382,70.07587,54.14382",
+    "geom:latitude":54.14382,
+    "geom:longitude":70.07587,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kantemirovskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523510,
+    "gn:latitude":54.14382,
+    "gn:longitude":70.07587,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Kantemirovskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kantemirovskoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Kantem\u012brovskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0430\u043d\u0442\u0435\u043c\u0438\u0440\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0442\u0435\u043c\u0438\u0440\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kantemirovets",
+        "Kantemirovskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523510
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9f1013ff4ebc675f2f1879324fcabb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1276412761,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276412761,
+    "wof:lastmodified":1537659796,
+    "wof:name":"Kantemirovskoye",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.07587,
+    54.14382,
+    70.07587,
+    54.14382
+],
+  "geometry": {"coordinates":[70.07586999999999,54.14382],"type":"Point"}
+}

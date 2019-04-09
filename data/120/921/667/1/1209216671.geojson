@@ -1,0 +1,61 @@
+{
+  "id": 1209216671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96614,51.798,68.96614,51.798",
+    "geom:latitude":51.798,
+    "geom:longitude":68.96614,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Adyr",
+    "gn:country_code":"KZ",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526947,
+    "gn:latitude":51.798,
+    "gn:longitude":68.96614,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Adyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526947
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"64c478f504a5958ccecf154a0e8ca7f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209216671
+        }
+    ],
+    "wof:id":1209216671,
+    "wof:lastmodified":1536294108,
+    "wof:name":"Adyr",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96614,
+    51.798,
+    68.96614,
+    51.798
+],
+  "geometry": {"coordinates":[68.96614,51.798],"type":"Point"}
+}

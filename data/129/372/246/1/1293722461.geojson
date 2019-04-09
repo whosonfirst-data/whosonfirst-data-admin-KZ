@@ -1,0 +1,67 @@
+{
+  "id": 1293722461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.06667,51.01667,57.06667,51.01667",
+    "geom:latitude":51.01667,
+    "geom:longitude":57.06667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mak-Bal-Say",
+    "gn:country_code":"KZ",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608918,
+    "gn:latitude":51.01667,
+    "gn:longitude":57.06667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Mak-Bal-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608918
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f9c80b39bfd160979099ab9b86f35055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785323,
+            "locality_id":1293722461,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293722461,
+    "wof:lastmodified":1536946139,
+    "wof:name":"Mak-Bal-Say",
+    "wof:parent_id":1108785323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.06667,
+    51.01667,
+    57.06667,
+    51.01667
+],
+  "geometry": {"coordinates":[57.06667,51.01667],"type":"Point"}
+}

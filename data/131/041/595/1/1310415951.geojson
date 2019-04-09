@@ -1,0 +1,67 @@
+{
+  "id": 1310415951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.9,52.06667,72.9,52.06667",
+    "geom:latitude":52.06667,
+    "geom:longitude":72.9,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Shaytankarasu",
+    "gn:country_code":"KZ",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519254,
+    "gn:latitude":52.06667,
+    "gn:longitude":72.9,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Shaytankarasu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519254
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"148422410c500dde02069662cdcdeaf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1310415951,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310415951,
+    "wof:lastmodified":1537044301,
+    "wof:name":"Shaytankarasu",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.9,
+    52.06667,
+    72.9,
+    52.06667
+],
+  "geometry": {"coordinates":[72.90000000000001,52.06667],"type":"Point"}
+}

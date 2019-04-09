@@ -1,0 +1,67 @@
+{
+  "id": 1259798399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.35327,49.30827,53.35327,49.30827",
+    "geom:latitude":49.30827,
+    "geom:longitude":53.35327,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kurman-Kuzha",
+    "gn:country_code":"KZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609075,
+    "gn:latitude":49.30827,
+    "gn:longitude":53.35327,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kurman-Kuzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609075
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6cbda3ea7cfb8c5f54d06a85ccd37366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785493,
+            "locality_id":1259798399,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1259798399,
+    "wof:lastmodified":1536901711,
+    "wof:name":"Kurman-Kuzha",
+    "wof:parent_id":1108785493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.35327,
+    49.30827,
+    53.35327,
+    49.30827
+],
+  "geometry": {"coordinates":[53.35327,49.30827],"type":"Point"}
+}

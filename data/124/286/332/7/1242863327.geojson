@@ -1,0 +1,76 @@
+{
+  "id": 1242863327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.45197,42.69332,68.45197,42.69332",
+    "geom:latitude":42.69332,
+    "geom:longitude":68.45197,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Il'ich",
+    "gn:country_code":"KZ",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10490397,
+    "gn:latitude":42.69332,
+    "gn:longitude":68.45197,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"\u012al\u2019\u012bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u012al\u2019\u012bch"
+    ],
+    "name:kaz_x_variant":[
+        "\u0418\u043b\u044c\u0438\u0447"
+    ],
+    "name:rus_x_preferred":[
+        "Il\u2019ich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10490397
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d9cbda5e6e14ecb2b3bad2ba9b874cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785593,
+            "locality_id":1242863327,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1242863327,
+    "wof:lastmodified":1537660054,
+    "wof:name":"Il'ich",
+    "wof:parent_id":1108785593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.45196999999999,
+    42.69332,
+    68.45196999999999,
+    42.69332
+],
+  "geometry": {"coordinates":[68.45196999999999,42.69332],"type":"Point"}
+}

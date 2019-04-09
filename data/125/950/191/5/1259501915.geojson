@@ -1,0 +1,78 @@
+{
+  "id": 1259501915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.00693,50.05308,81.00693,50.05308",
+    "geom:latitude":50.05308,
+    "geom:longitude":81.00693,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kyzylshilik",
+    "gn:country_code":"KZ",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521487,
+    "gn:latitude":50.05308,
+    "gn:longitude":81.00693,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kyzylshilik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyzylshilik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0427\u0438\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kizyl-Chilik",
+        "Kzyl-Shilik",
+        "Kyzylshilik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521487
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f4bc8bc60d206b5409581983db516c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1259501915,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259501915,
+    "wof:lastmodified":1537659718,
+    "wof:name":"Kyzylshilik",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.00693000000003,
+    50.05308,
+    81.00693000000003,
+    50.05308
+],
+  "geometry": {"coordinates":[81.00693000000003,50.05308],"type":"Point"}
+}

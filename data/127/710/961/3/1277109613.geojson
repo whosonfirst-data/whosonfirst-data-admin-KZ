@@ -1,0 +1,76 @@
+{
+  "id": 1277109613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.0391,50.10313,61.0391,50.10313",
+    "geom:latitude":50.10313,
+    "geom:longitude":61.0391,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sarat",
+    "gn:country_code":"KZ",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519722,
+    "gn:latitude":50.10313,
+    "gn:longitude":61.0391,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sarat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sarat"
+    ],
+    "name:kaz_x_preferred":[
+        "Saryat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519722
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"49ccf8a0589518987d31efe7ccb7e4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1277109613,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1277109613,
+    "wof:lastmodified":1537659614,
+    "wof:name":"Sarat",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.0391,
+    50.10313,
+    61.0391,
+    50.10313
+],
+  "geometry": {"coordinates":[61.0391,50.10313],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360003569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.05169,44.89209,78.05169,44.89209",
+    "geom:latitude":44.89209,
+    "geom:longitude":78.05169,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bostagan",
+    "gn:country_code":"KZ",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525697,
+    "gn:latitude":44.89209,
+    "gn:longitude":78.05169,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Bostagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Bostagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525697
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fc7b6a96c21d75874ec96e787699c7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785405,
+            "locality_id":1360003569,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1360003569,
+    "wof:lastmodified":1537659887,
+    "wof:name":"Bostagan",
+    "wof:parent_id":1108785405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.05169000000002,
+    44.89209,
+    78.05169000000002,
+    44.89209
+],
+  "geometry": {"coordinates":[78.05169000000002,44.89209],"type":"Point"}
+}

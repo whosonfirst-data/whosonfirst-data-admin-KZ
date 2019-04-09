@@ -1,0 +1,67 @@
+{
+  "id": 1209523009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.55862,53.33111,71.55862,53.33111",
+    "geom:latitude":53.33111,
+    "geom:longitude":71.55862,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dal'niy",
+    "gn:country_code":"KZ",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11146360,
+    "gn:latitude":53.33111,
+    "gn:longitude":71.55862,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Dal\u2019n\u012by",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Dal\u2019n\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u0430\u043b\u044c\u043d\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11146360
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"131b6448b4070611aae1be061fe71b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209523009
+        }
+    ],
+    "wof:id":1209523009,
+    "wof:lastmodified":1537660121,
+    "wof:name":"Dal'niy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.55861999999998,
+    53.33111,
+    71.55861999999998,
+    53.33111
+],
+  "geometry": {"coordinates":[71.55861999999998,53.33111],"type":"Point"}
+}

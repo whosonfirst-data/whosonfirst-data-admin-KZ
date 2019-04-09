@@ -1,0 +1,71 @@
+{
+  "id": 1276744289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.18333,52.03333,77.18333,52.03333",
+    "geom:latitude":52.03333,
+    "geom:longitude":77.18333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gavrilovka",
+    "gn:country_code":"KZ",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524250,
+    "gn:latitude":52.03333,
+    "gn:longitude":77.18333,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Gavrilovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gavrilovskiy",
+        "Gavrilovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524250
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"34e420565d922d5e63bb230284a3be36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785561,
+            "locality_id":1276744289,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1276744289,
+    "wof:lastmodified":1537659828,
+    "wof:name":"Gavrilovka",
+    "wof:parent_id":1108785561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.18333,
+    52.03333,
+    77.18333,
+    52.03333
+],
+  "geometry": {"coordinates":[77.18333,52.03333],"type":"Point"}
+}

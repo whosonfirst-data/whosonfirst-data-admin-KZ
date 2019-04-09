@@ -1,0 +1,71 @@
+{
+  "id": 1225854785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.14381,50.88181,53.14381,50.88181",
+    "geom:latitude":50.88181,
+    "geom:longitude":53.14381,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nekhvoroshchanka",
+    "gn:country_code":"KZ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608752,
+    "gn:latitude":50.88181,
+    "gn:longitude":53.14381,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Nekhvoroshchanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noforeshchanskiy",
+        "Nekhvoroshchanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608752
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d59c428502616b24c76596e1cd26d597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785325,
+            "locality_id":1225854785,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1225854785,
+    "wof:lastmodified":1537659387,
+    "wof:name":"Nekhvoroshchanka",
+    "wof:parent_id":1108785325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.14381,
+    50.88181,
+    53.14381,
+    50.88181
+],
+  "geometry": {"coordinates":[53.14381,50.88181],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276450103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.41992,51.93824,70.41992,51.93824",
+    "geom:latitude":51.93824,
+    "geom:longitude":70.41992,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Uryupinka",
+    "gn:country_code":"KZ",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517682,
+    "gn:latitude":51.93824,
+    "gn:longitude":70.41992,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Uryupinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u016aryup\u012bnka"
+    ],
+    "name:und_x_variant":[
+        "Uryupinskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517682
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f6adec811206c4f4adef9ba526e4c1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1276450103,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1276450103,
+    "wof:lastmodified":1537659534,
+    "wof:name":"Uryupinka",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.41991999999998,
+    51.93824,
+    70.41991999999998,
+    51.93824
+],
+  "geometry": {"coordinates":[70.41991999999998,51.93824],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209429533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.89563,52.88153,62.89563,52.88153",
+    "geom:latitude":52.88153,
+    "geom:longitude":62.89563,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yelizavetinka",
+    "gn:country_code":"KZ",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517257,
+    "gn:latitude":52.88153,
+    "gn:longitude":62.89563,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Yelizavetinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yelizavetinskiy",
+        "Yelizavetinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517257
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bd09bf26cc89d820790f01c8c436a2b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209429533
+        }
+    ],
+    "wof:id":1209429533,
+    "wof:lastmodified":1537659509,
+    "wof:name":"Yelizavetinka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.89563,
+    52.88153000000001,
+    62.89563,
+    52.88153000000001
+],
+  "geometry": {"coordinates":[62.89563,52.88153000000001],"type":"Point"}
+}

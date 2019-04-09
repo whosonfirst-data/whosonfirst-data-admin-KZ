@@ -1,0 +1,67 @@
+{
+  "id": 1276466241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.55111,47.79583,47.55111,47.79583",
+    "geom:latitude":47.79583,
+    "geom:longitude":47.55111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Komrakta",
+    "gn:country_code":"KZ",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609318,
+    "gn:latitude":47.79583,
+    "gn:longitude":47.55111,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Komrakta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609318
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7c7ec996135146712c25701a466e099f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1276466241,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1276466241,
+    "wof:lastmodified":1537094588,
+    "wof:name":"Komrakta",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.55111,
+    47.79583,
+    47.55111,
+    47.79583
+],
+  "geometry": {"coordinates":[47.55111,47.79583],"type":"Point"}
+}

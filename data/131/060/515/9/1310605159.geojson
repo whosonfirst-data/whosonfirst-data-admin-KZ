@@ -1,0 +1,70 @@
+{
+  "id": 1310605159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.46406,43.48318,77.46406,43.48318",
+    "geom:latitude":43.48318,
+    "geom:longitude":77.46406,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yenbek",
+    "gn:country_code":"KZ",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10310672,
+    "gn:latitude":43.48318,
+    "gn:longitude":77.46406,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Yenbek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0415\u043d\u0431\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10310672
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c7cf405ca309719b794a30046a56f0e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1310605159,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1310605159,
+    "wof:lastmodified":1537660046,
+    "wof:name":"Yenbek",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.46406,
+    43.48318,
+    77.46406,
+    43.48318
+],
+  "geometry": {"coordinates":[77.46406,43.48318],"type":"Point"}
+}

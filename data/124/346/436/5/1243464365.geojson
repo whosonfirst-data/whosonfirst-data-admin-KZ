@@ -1,0 +1,67 @@
+{
+  "id": 1243464365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.1,51.63333,77.1,51.63333",
+    "geom:latitude":51.63333,
+    "geom:longitude":77.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Karagandy",
+    "gn:country_code":"KZ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523397,
+    "gn:latitude":51.63333,
+    "gn:longitude":77.1,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Karagandy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523397
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b4adb8a3d661c7fd28dcc3f309380c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1243464365,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1243464365,
+    "wof:lastmodified":1536780119,
+    "wof:name":"Karagandy",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.1,
+    51.63333,
+    77.1,
+    51.63333
+],
+  "geometry": {"coordinates":[77.09999999999999,51.63333],"type":"Point"}
+}

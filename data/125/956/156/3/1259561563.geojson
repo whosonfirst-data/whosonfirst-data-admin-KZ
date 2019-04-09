@@ -1,0 +1,73 @@
+{
+  "id": 1259561563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.3755,53.78516,76.3755,53.78516",
+    "geom:latitude":53.78516,
+    "geom:longitude":76.3755,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Osenniy",
+    "gn:country_code":"KZ",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10816715,
+    "gn:latitude":53.78516,
+    "gn:longitude":76.3755,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Osenniy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Osenn\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u0441\u0435\u043d\u043d\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10816715
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"90529c6269fc9bf7f7b2d02d89657c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785349,
+            "locality_id":1259561563,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259561563,
+    "wof:lastmodified":1537660062,
+    "wof:name":"Osenniy",
+    "wof:parent_id":1108785349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.3755,
+    53.78516,
+    76.3755,
+    53.78516
+],
+  "geometry": {"coordinates":[76.3755,53.78516],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1343733837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.84656,43.13058,74.84656,43.13058",
+    "geom:latitude":43.13058,
+    "geom:longitude":74.84656,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Rgayty",
+    "gn:country_code":"KZ",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519107,
+    "gn:latitude":43.13058,
+    "gn:longitude":74.84656,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Rgayty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Yrghayty"
+    ],
+    "name:kaz_x_variant":[
+        "\u042b\u0440\u0493\u0430\u0439\u0442\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0433\u0430\u0439\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Chokpor",
+        "Shokpar",
+        "Chokpar",
+        "Shoqpar",
+        "Rgayty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519107
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ce1abb2f277858657c65b35761a492f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785317,
+            "locality_id":1343733837,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1343733837,
+    "wof:lastmodified":1537659591,
+    "wof:name":"Rgayty",
+    "wof:parent_id":1108785317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.84656,
+    43.13058,
+    74.84656,
+    43.13058
+],
+  "geometry": {"coordinates":[74.84656,43.13058],"type":"Point"}
+}

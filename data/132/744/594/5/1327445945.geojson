@@ -1,0 +1,78 @@
+{
+  "id": 1327445945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.7,53.8,62.7,53.8",
+    "geom:latitude":53.8,
+    "geom:longitude":62.7,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Khvorostyanka",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522676,
+    "gn:latitude":53.8,
+    "gn:longitude":62.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khvorostyanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khvorostyanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0432\u043e\u0440\u043e\u0441\u0442\u044f\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khvorostanka",
+        "Khvorostyanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522676
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"adabce6570804720d2cecaddebea4ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1327445945,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1327445945,
+    "wof:lastmodified":1537659768,
+    "wof:name":"Khvorostyanka",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.7,
+    53.8,
+    62.7,
+    53.8
+],
+  "geometry": {"coordinates":[62.7,53.8],"type":"Point"}
+}

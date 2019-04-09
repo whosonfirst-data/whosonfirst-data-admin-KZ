@@ -1,0 +1,79 @@
+{
+  "id": 1276653775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.40418,49.77893,51.40418,49.77893",
+    "geom:latitude":49.77893,
+    "geom:longitude":51.40418,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Karsha",
+    "gn:country_code":"KZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609512,
+    "gn:latitude":49.77893,
+    "gn:longitude":51.40418,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Karsha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karsha"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Karshinski",
+        "Karshinskiy",
+        "Karsha",
+        "Karshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609512
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"033ae1814b842be3bbdec399d4fc9efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1276653775,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1276653775,
+    "wof:lastmodified":1537659414,
+    "wof:name":"Karsha",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.40418,
+    49.77893,
+    51.40418,
+    49.77893
+],
+  "geometry": {"coordinates":[51.40418,49.77893],"type":"Point"}
+}

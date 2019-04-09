@@ -1,0 +1,70 @@
+{
+  "id": 1209739487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.44107,49.85097,62.44107,49.85097",
+    "geom:latitude":49.85097,
+    "geom:longitude":62.44107,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aqqaban",
+    "gn:country_code":"KZ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526815,
+    "gn:latitude":49.85097,
+    "gn:longitude":62.44107,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Aqqaban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akkabak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526815
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1abcb013e95920a4489af3a1876cf0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1209739487,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1209739487,
+    "wof:lastmodified":1537659926,
+    "wof:name":"Aqqaban",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.44107,
+    49.85097,
+    62.44107,
+    49.85097
+],
+  "geometry": {"coordinates":[62.44107,49.85097],"type":"Point"}
+}

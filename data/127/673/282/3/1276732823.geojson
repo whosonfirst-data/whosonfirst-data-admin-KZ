@@ -1,0 +1,70 @@
+{
+  "id": 1276732823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.93177,49.04333,78.93177,49.04333",
+    "geom:latitude":49.04333,
+    "geom:longitude":78.93177,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bozkoy",
+    "gn:country_code":"KZ",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11514474,
+    "gn:latitude":49.04333,
+    "gn:longitude":78.93177,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Bozkoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0437\u043a\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11514474
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0c835b02be7b50318ec36fd276208d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785727,
+            "locality_id":1276732823,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276732823,
+    "wof:lastmodified":1537660182,
+    "wof:name":"Bozkoy",
+    "wof:parent_id":1108785727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.93177,
+    49.04333,
+    78.93177,
+    49.04333
+],
+  "geometry": {"coordinates":[78.93177,49.04333],"type":"Point"}
+}

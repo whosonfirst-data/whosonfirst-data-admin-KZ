@@ -1,0 +1,73 @@
+{
+  "id": 1309716131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.24152,45.65025,80.24152,45.65025",
+    "geom:latitude":45.65025,
+    "geom:longitude":80.24152,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qoylyq",
+    "gn:country_code":"KZ",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526285,
+    "gn:latitude":45.65025,
+    "gn:longitude":80.24152,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Qoylyq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antonovka",
+        "Koylyk",
+        "Antonovskoye",
+        "Qoylyq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526285
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"42eff1890091e926311680c79a21de41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785417,
+            "locality_id":1309716131,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1309716131,
+    "wof:lastmodified":1537659907,
+    "wof:name":"Qoylyq",
+    "wof:parent_id":1108785417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.24152,
+    45.65025,
+    80.24152,
+    45.65025
+],
+  "geometry": {"coordinates":[80.24151999999999,45.65025],"type":"Point"}
+}

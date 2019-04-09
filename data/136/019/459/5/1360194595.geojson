@@ -1,0 +1,71 @@
+{
+  "id": 1360194595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.99067,47.62334,84.99067,47.62334",
+    "geom:latitude":47.62334,
+    "geom:longitude":84.99067,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dairovo",
+    "gn:country_code":"KZ",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524673,
+    "gn:latitude":47.62334,
+    "gn:longitude":84.99067,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dairovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayrovo",
+        "Dairovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524673
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c1fc834faa60bc753961f73d36ccf048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785311,
+            "locality_id":1360194595,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1360194595,
+    "wof:lastmodified":1537659846,
+    "wof:name":"Dairovo",
+    "wof:parent_id":1108785311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.99067,
+    47.62334,
+    84.99067,
+    47.62334
+],
+  "geometry": {"coordinates":[84.99066999999999,47.62334],"type":"Point"}
+}

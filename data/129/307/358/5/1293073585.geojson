@@ -1,0 +1,84 @@
+{
+  "id": 1293073585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.36379,53.67997,66.36379,53.67997",
+    "geom:latitude":53.67997,
+    "geom:longitude":66.36379,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Moskvoretskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520853,
+    "gn:latitude":53.67997,
+    "gn:longitude":66.36379,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Moskvoretskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moskvoretskoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Moskvoretskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0446\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0446\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Komsomol\u2019skiy",
+        "Moskvoretskiy",
+        "Moskvoretskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520853
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"92af60a35de9b62e31f42a70473e9d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785689,
+            "locality_id":1293073585,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293073585,
+    "wof:lastmodified":1537659683,
+    "wof:name":"Moskvoretskoye",
+    "wof:parent_id":1108785689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.36379000000001,
+    53.67997,
+    66.36379000000001,
+    53.67997
+],
+  "geometry": {"coordinates":[66.36379000000001,53.67997],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209018323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.00608,43.55443,78.00608,43.55443",
+    "geom:latitude":43.55443,
+    "geom:longitude":78.00608,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qaraturyq",
+    "gn:country_code":"KZ",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523065,
+    "gn:latitude":43.55443,
+    "gn:longitude":78.00608,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Qaraturyq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaraturyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0442\u04b1\u0440\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0442\u0443\u0440\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "Karaturuk",
+        "Kara-Turuk",
+        "Razvaliny Karaturuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523065
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2fd43a58980a4ffb57383ce485ee7c0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209018323
+        }
+    ],
+    "wof:id":1209018323,
+    "wof:lastmodified":1537659782,
+    "wof:name":"Qaraturyq",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.00608000000003,
+    43.55443,
+    78.00608000000003,
+    43.55443
+],
+  "geometry": {"coordinates":[78.00608000000003,43.55443],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193267155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.98333,41.91667,69.98333,41.91667",
+    "geom:latitude":41.91667,
+    "geom:longitude":69.98333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhanadzhir",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516869,
+    "gn:latitude":41.91667,
+    "gn:longitude":69.98333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Zhanadzhir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhanadzhegir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516869
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a6bdf763f721823c4e3cefdf5d3bec58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1193267155,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1193267155,
+    "wof:lastmodified":1537659489,
+    "wof:name":"Zhanadzhir",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.98333000000001,
+    41.91667,
+    69.98333000000001,
+    41.91667
+],
+  "geometry": {"coordinates":[69.98333000000001,41.91667],"type":"Point"}
+}

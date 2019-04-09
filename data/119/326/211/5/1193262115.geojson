@@ -1,0 +1,70 @@
+{
+  "id": 1193262115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.58808,41.74443,69.58808,41.74443",
+    "geom:latitude":41.74443,
+    "geom:longitude":69.58808,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhankurgan",
+    "gn:country_code":"KZ",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955629,
+    "gn:latitude":41.74443,
+    "gn:longitude":69.58808,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Zhankurgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u043a\u0443\u0440\u0433\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955629
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d0a14a4f21e2915e12c8f1b770c6650f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1193262115,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1193262115,
+    "wof:lastmodified":1537660076,
+    "wof:name":"Zhankurgan",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.58808,
+    41.74443,
+    69.58808,
+    41.74443
+],
+  "geometry": {"coordinates":[69.58808000000001,41.74443],"type":"Point"}
+}

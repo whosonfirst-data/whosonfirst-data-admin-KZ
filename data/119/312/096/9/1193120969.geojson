@@ -1,0 +1,76 @@
+{
+  "id": 1193120969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.96987,42.3086,69.96987,42.3086",
+    "geom:latitude":42.3086,
+    "geom:longitude":69.96987,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Karamurt",
+    "gn:country_code":"KZ",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523247,
+    "gn:latitude":42.3086,
+    "gn:longitude":69.96987,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Karamurt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u0440\u0430\u043c\u04b1\u0440\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043c\u0443\u0440\u0442"
+    ],
+    "name:und_x_variant":[
+        "Qaramurt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523247
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0a85d9f1e84df208319e42d0b360683e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785595,
+            "locality_id":1193120969,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1193120969,
+    "wof:lastmodified":1537659788,
+    "wof:name":"Karamurt",
+    "wof:parent_id":1108785595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.96987,
+    42.3086,
+    69.96987,
+    42.3086
+],
+  "geometry": {"coordinates":[69.96987,42.3086],"type":"Point"}
+}

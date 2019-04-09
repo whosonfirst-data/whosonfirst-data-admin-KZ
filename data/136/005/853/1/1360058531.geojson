@@ -1,0 +1,79 @@
+{
+  "id": 1360058531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.80169,48.75673,82.80169,48.75673",
+    "geom:latitude":48.75673,
+    "geom:longitude":82.80169,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qyzylzhuldyz",
+    "gn:country_code":"KZ",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527247,
+    "gn:latitude":48.75673,
+    "gn:longitude":82.80169,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Qyzylzhuldyz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyzylzhuldyz"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u0436\u04b1\u043b\u0434\u044b\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0436\u0443\u043b\u0434\u044b\u0437"
+    ],
+    "name:und_x_variant":[
+        "Kyzylzhuldyz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527247
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"efa48757e1903d2c2f838b39215976ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1360058531,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1360058531,
+    "wof:lastmodified":1537660186,
+    "wof:name":"Qyzylzhuldyz",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.80169000000002,
+    48.75673,
+    82.80169000000002,
+    48.75673
+],
+  "geometry": {"coordinates":[82.80169000000002,48.75673],"type":"Point"}
+}

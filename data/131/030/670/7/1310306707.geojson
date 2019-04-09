@@ -1,0 +1,70 @@
+{
+  "id": 1310306707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.34229,51.4907,70.34229,51.4907",
+    "geom:latitude":51.4907,
+    "geom:longitude":70.34229,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Karaadyr",
+    "gn:country_code":"KZ",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523490,
+    "gn:latitude":51.4907,
+    "gn:longitude":70.34229,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Karaadyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaraadyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523490
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cfbf649830536d820817c5c5d49a6630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785391,
+            "locality_id":1310306707,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310306707,
+    "wof:lastmodified":1537659795,
+    "wof:name":"Karaadyr",
+    "wof:parent_id":1108785391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.34229,
+    51.4907,
+    70.34229,
+    51.4907
+],
+  "geometry": {"coordinates":[70.34229000000001,51.4907],"type":"Point"}
+}

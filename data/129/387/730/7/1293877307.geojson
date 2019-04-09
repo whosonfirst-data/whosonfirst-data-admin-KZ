@@ -1,0 +1,85 @@
+{
+  "id": 1293877307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.22086,41.00265,68.22086,41.00265",
+    "geom:latitude":41.00265,
+    "geom:longitude":68.22086,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yenbekshi",
+    "gn:country_code":"KZ",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521234,
+    "gn:latitude":41.00265,
+    "gn:longitude":68.22086,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Yenbekshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyzylqum"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u049b\u04b1\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043d\u0431\u0435\u043a\u0448\u0438"
+    ],
+    "name:rus_x_variant":[
+        "Sovkhoz Imeni Dvadtsatogo Parts\u201dyezda",
+        "\u0421\u043e\u0432\u0445\u043e\u0437 \u0418\u043c\u0435\u043d\u0438 \u0414\u0432\u0430\u0434\u0446\u0430\u0442\u043e\u0433\u043e \u041f\u0430\u0440\u0442\u0441\u044a\u0435\u0437\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Makhtaly",
+        "Sovkhoz Imeni Dvadtsatyy Part\u201dsyezda",
+        "Yenbekshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521234
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e90dbee0213b7e3dde46351a82f3ee5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1293877307,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293877307,
+    "wof:lastmodified":1537659703,
+    "wof:name":"Yenbekshi",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.22086,
+    41.00265,
+    68.22086,
+    41.00265
+],
+  "geometry": {"coordinates":[68.22086,41.00265],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193007943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.7,43.95,51.7,43.95",
+    "geom:latitude":43.95,
+    "geom:longitude":51.7,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Koylyus",
+    "gn:country_code":"KZ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609200,
+    "gn:latitude":43.95,
+    "gn:longitude":51.7,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Koylyus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609200
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c37a4b5becb7eef77d067ba5e723e7f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785337,
+            "locality_id":1193007943,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1193007943,
+    "wof:lastmodified":1536364623,
+    "wof:name":"Koylyus",
+    "wof:parent_id":1108785337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.7,
+    43.95,
+    51.7,
+    43.95
+],
+  "geometry": {"coordinates":[51.7,43.95],"type":"Point"}
+}

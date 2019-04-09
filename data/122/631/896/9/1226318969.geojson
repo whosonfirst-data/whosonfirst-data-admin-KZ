@@ -1,0 +1,79 @@
+{
+  "id": 1226318969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.47262,43.38107,71.47262,43.38107",
+    "geom:latitude":43.38107,
+    "geom:longitude":71.47262,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sarybulak",
+    "gn:country_code":"KZ",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519670,
+    "gn:latitude":43.38107,
+    "gn:longitude":71.47262,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Sarybulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Aul Nomer Tridtsat\u2019 Sed\u2019moy",
+        "Sarybarak",
+        "Sarybulak",
+        "Sarybulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519670
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5440c41fef11d5212c5cf44b2e397d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785487,
+            "locality_id":1226318969,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1226318969,
+    "wof:lastmodified":1537659612,
+    "wof:name":"Sarybulak",
+    "wof:parent_id":1108785487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.47261999999998,
+    43.38107,
+    71.47261999999998,
+    43.38107
+],
+  "geometry": {"coordinates":[71.47261999999998,43.38107],"type":"Point"}
+}

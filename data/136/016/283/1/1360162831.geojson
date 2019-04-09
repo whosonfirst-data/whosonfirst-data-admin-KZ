@@ -1,0 +1,77 @@
+{
+  "id": 1360162831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.09511,50.36066,75.09511,50.36066",
+    "geom:latitude":50.36066,
+    "geom:longitude":75.09511,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Muryntal",
+    "gn:country_code":"KZ",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520815,
+    "gn:latitude":50.36066,
+    "gn:longitude":75.09511,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Muryntal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041c\u04b1\u0440\u044b\u043d\u0442\u0430\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u044b\u043d\u0442\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Muruntal",
+        "Muryntal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520815
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ce58618a9ca750450a65b50a0aa53725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1360162831,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1360162831,
+    "wof:lastmodified":1537659682,
+    "wof:name":"Muryntal",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.09510999999998,
+    50.36066,
+    75.09510999999998,
+    50.36066
+],
+  "geometry": {"coordinates":[75.09510999999998,50.36066],"type":"Point"}
+}

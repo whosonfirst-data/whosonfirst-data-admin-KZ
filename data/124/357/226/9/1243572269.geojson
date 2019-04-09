@@ -1,0 +1,72 @@
+{
+  "id": 1243572269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.15,49.2,84.15,49.2",
+    "geom:latitude":49.2,
+    "geom:longitude":84.15,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Trushnikovo",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518011,
+    "gn:latitude":49.2,
+    "gn:longitude":84.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Trushnikovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trushnikova",
+        "Trushnikovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518011
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f5ad6cb1d8dc8f632c5680b0e56cbf9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1243572269,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243572269,
+    "wof:lastmodified":1537659546,
+    "wof:name":"Trushnikovo",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.15,
+    49.2,
+    84.15,
+    49.2
+],
+  "geometry": {"coordinates":[84.15000000000001,49.2],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259660977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.7276,49.74718,71.7276,49.74718",
+    "geom:latitude":49.74718,
+    "geom:longitude":71.7276,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zakharovka",
+    "gn:country_code":"KZ",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517106,
+    "gn:latitude":49.74718,
+    "gn:longitude":71.7276,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zakharovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zakharovskoye",
+        "Zakharovskiy",
+        "Zakharovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517106
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ccf3a992a3d19d670fc3d801d10fbdc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785499,
+            "locality_id":1259660977,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1259660977,
+    "wof:lastmodified":1537659500,
+    "wof:name":"Zakharovka",
+    "wof:parent_id":1108785499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.7276,
+    49.74718,
+    71.7276,
+    49.74718
+],
+  "geometry": {"coordinates":[71.7276,49.74718],"type":"Point"}
+}

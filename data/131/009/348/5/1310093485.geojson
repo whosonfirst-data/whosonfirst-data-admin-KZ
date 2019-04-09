@@ -1,0 +1,73 @@
+{
+  "id": 1310093485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.71923,51.48461,77.71923,51.48461",
+    "geom:latitude":51.48461,
+    "geom:longitude":77.71923,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shirokoye",
+    "gn:country_code":"KZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413835,
+    "gn:latitude":51.48461,
+    "gn:longitude":77.71923,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Shirokoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sh\u012brokoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0438\u0440\u043e\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413835
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"de65ef375dda152b12bf7bc8c5501b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785559,
+            "locality_id":1310093485,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310093485,
+    "wof:lastmodified":1537660140,
+    "wof:name":"Shirokoye",
+    "wof:parent_id":1108785559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.71923000000002,
+    51.48461,
+    77.71923000000002,
+    51.48461
+],
+  "geometry": {"coordinates":[77.71923000000002,51.48461],"type":"Point"}
+}

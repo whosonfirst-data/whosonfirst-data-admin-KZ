@@ -1,0 +1,76 @@
+{
+  "id": 1276457551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.22474,43.68054,78.22474,43.68054",
+    "geom:latitude":43.68054,
+    "geom:longitude":78.22474,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kulikovka",
+    "gn:country_code":"KZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521872,
+    "gn:latitude":43.68054,
+    "gn:longitude":78.22474,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kulikovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sarybulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0430\u0440\u044b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0438\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521872
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5d30501e9d5d7a8a0fdc8035554ea957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1276457551,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1276457551,
+    "wof:lastmodified":1537659731,
+    "wof:name":"Kulikovka",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.22474,
+    43.68054,
+    78.22474,
+    43.68054
+],
+  "geometry": {"coordinates":[78.22474,43.68054],"type":"Point"}
+}

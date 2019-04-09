@@ -1,0 +1,77 @@
+{
+  "id": 1343771967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.74507,49.98449,80.74507,49.98449",
+    "geom:latitude":49.98449,
+    "geom:longitude":80.74507,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Karpovka",
+    "gn:country_code":"KZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522987,
+    "gn:latitude":49.98449,
+    "gn:longitude":80.74507,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Karpovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karpovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043f\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Karpovskoye",
+        "Karpovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522987
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4dd1464aedd4dec1869441dc664e8081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1343771967,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343771967,
+    "wof:lastmodified":1537659780,
+    "wof:name":"Karpovka",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.74507,
+    49.98449,
+    80.74507,
+    49.98449
+],
+  "geometry": {"coordinates":[80.74507,49.98449],"type":"Point"}
+}

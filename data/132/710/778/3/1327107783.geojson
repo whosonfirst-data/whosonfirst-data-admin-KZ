@@ -1,0 +1,72 @@
+{
+  "id": 1327107783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.86253,47.42939,83.86253,47.42939",
+    "geom:latitude":47.42939,
+    "geom:longitude":83.86253,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mangyraq",
+    "gn:country_code":"KZ",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521135,
+    "gn:latitude":47.42939,
+    "gn:longitude":83.86253,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mangyraq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pokrovka",
+        "Manyrak",
+        "Mangyraq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521135
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0189fd95a7e12a84f67a2c940103c08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785469,
+            "locality_id":1327107783,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327107783,
+    "wof:lastmodified":1537659698,
+    "wof:name":"Mangyraq",
+    "wof:parent_id":1108785469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.86253,
+    47.42939000000001,
+    83.86253,
+    47.42939000000001
+],
+  "geometry": {"coordinates":[83.86253000000001,47.42939000000001],"type":"Point"}
+}

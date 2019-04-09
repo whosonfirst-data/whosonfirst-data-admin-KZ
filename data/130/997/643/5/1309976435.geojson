@@ -1,0 +1,76 @@
+{
+  "id": 1309976435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.51717,49.53505,85.51717,49.53505",
+    "geom:latitude":49.53505,
+    "geom:longitude":85.51717,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sovkhoz Verkhniy Katunskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534737,
+    "gn:latitude":49.53505,
+    "gn:longitude":85.51717,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Sovkhoz Verkhniy Katunskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Verkh-Kat\u016bn\u2019"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u0435\u0440\u0445-\u041a\u0430\u0442\u0443\u043d\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0432\u0445\u043e\u0437 \u0412\u0435\u0440\u0445\u043d\u0438\u0439 \u041a\u0430\u0442\u0443\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534737
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2161529927f72f6cd89bee1e88590b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1309976435,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1309976435,
+    "wof:lastmodified":1537659985,
+    "wof:name":"Sovkhoz Verkhniy Katunskiy",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.51717,
+    49.53505,
+    85.51717,
+    49.53505
+],
+  "geometry": {"coordinates":[85.51716999999999,49.53505],"type":"Point"}
+}

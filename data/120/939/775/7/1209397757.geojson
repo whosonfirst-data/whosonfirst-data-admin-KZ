@@ -1,0 +1,71 @@
+{
+  "id": 1209397757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.13582,50.02679,79.13582,50.02679",
+    "geom:latitude":50.02679,
+    "geom:longitude":79.13582,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sarapan",
+    "gn:country_code":"KZ",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525574,
+    "gn:latitude":50.02679,
+    "gn:longitude":79.13582,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sarapan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sarapan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0436\u0443\u043c\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Bayzhumash",
+        "Sarapan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525574
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"13705d5b97fbdf9f004d04490713830d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209397757
+        }
+    ],
+    "wof:id":1209397757,
+    "wof:lastmodified":1537659882,
+    "wof:name":"Sarapan",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.13582,
+    50.02679000000001,
+    79.13582,
+    50.02679000000001
+],
+  "geometry": {"coordinates":[79.13582,50.02679000000001],"type":"Point"}
+}

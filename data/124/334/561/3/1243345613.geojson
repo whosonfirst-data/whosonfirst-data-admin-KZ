@@ -1,0 +1,70 @@
+{
+  "id": 1243345613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.58759,54.3819,68.58759,54.3819",
+    "geom:latitude":54.3819,
+    "geom:longitude":68.58759,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Lugovoye",
+    "gn:country_code":"KZ",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530978,
+    "gn:latitude":54.3819,
+    "gn:longitude":68.58759,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Lugovoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0433\u043e\u0432\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530978
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0fbdced411af08aed852273c64581a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785563,
+            "locality_id":1243345613,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243345613,
+    "wof:lastmodified":1537659949,
+    "wof:name":"Lugovoye",
+    "wof:parent_id":1108785563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.58759,
+    54.3819,
+    68.58759,
+    54.3819
+],
+  "geometry": {"coordinates":[68.58759000000001,54.3819],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259754203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.71667,45.85,61.71667,45.85",
+    "geom:latitude":45.85,
+    "geom:longitude":61.71667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Akzhana",
+    "gn:country_code":"KZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526544,
+    "gn:latitude":45.85,
+    "gn:longitude":61.71667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Akzhana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ak-Dzhana",
+        "Akzhana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526544
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"88da80adc2872c483d4207b65aaed0aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785633,
+            "locality_id":1259754203,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1259754203,
+    "wof:lastmodified":1537659917,
+    "wof:name":"Akzhana",
+    "wof:parent_id":1108785633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.71666999999999,
+    45.85,
+    61.71666999999999,
+    45.85
+],
+  "geometry": {"coordinates":[61.71666999999999,45.85],"type":"Point"}
+}

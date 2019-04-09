@@ -1,0 +1,67 @@
+{
+  "id": 1360199247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.71667,45.41667,79.71667,45.41667",
+    "geom:latitude":45.41667,
+    "geom:longitude":79.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Inbek",
+    "gn:country_code":"KZ",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523813,
+    "gn:latitude":45.41667,
+    "gn:longitude":79.71667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Inbek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523813
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"18affc1db2cf1c8dd7e86c37a03fddb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785407,
+            "locality_id":1360199247,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1360199247,
+    "wof:lastmodified":1536781397,
+    "wof:name":"Inbek",
+    "wof:parent_id":1108785407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.71667,
+    45.41667,
+    79.71667,
+    45.41667
+],
+  "geometry": {"coordinates":[79.71666999999999,45.41667],"type":"Point"}
+}

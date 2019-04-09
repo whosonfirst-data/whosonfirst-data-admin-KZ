@@ -1,0 +1,73 @@
+{
+  "id": 1293171143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.52959,48.19225,77.52959,48.19225",
+    "geom:latitude":48.19225,
+    "geom:longitude":77.52959,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Komsomol'skaya Molodezhnaya Ovtsevodcheskaya Brigada Saryarka",
+    "gn:country_code":"KZ",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11412604,
+    "gn:latitude":48.19225,
+    "gn:longitude":77.52959,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Komsomol\u2019skaya Molod\u00ebzhnaya Ovtsevodcheskaya Brigada Saryarka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Komsomol\u2019skaya Molod\u00ebzhnaya Ovtsevodcheskaya Brigada Saryarka"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a\u0430\u044f \u041c\u043e\u043b\u043e\u0434\u0451\u0436\u043d\u0430\u044f \u041e\u0432\u0446\u0435\u0432\u043e\u0434\u0447\u0435\u0441\u043a\u0430\u044f \u0411\u0440\u0438\u0433\u0430\u0434\u0430 \u0421\u0430\u0440\u044b\u0430\u0440\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11412604
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"26ddfbd3763c725f26a3026760d683d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785459,
+            "locality_id":1293171143,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293171143,
+    "wof:lastmodified":1537660138,
+    "wof:name":"Komsomol'skaya Molodezhnaya Ovtsevodcheskaya Brigada Saryarka",
+    "wof:parent_id":1108785459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.52959,
+    48.19225,
+    77.52959,
+    48.19225
+],
+  "geometry": {"coordinates":[77.52959,48.19225],"type":"Point"}
+}

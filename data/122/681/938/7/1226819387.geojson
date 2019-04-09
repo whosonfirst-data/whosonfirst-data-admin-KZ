@@ -1,0 +1,70 @@
+{
+  "id": 1226819387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.96074,48.30623,84.96074,48.30623",
+    "geom:latitude":48.30623,
+    "geom:longitude":84.96074,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Orgymbay",
+    "gn:country_code":"KZ",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11438512,
+    "gn:latitude":48.30623,
+    "gn:longitude":84.96074,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Orgymbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0433\u044b\u043c\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11438512
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f92e9971c013a086ed236c47ec299466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1226819387,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226819387,
+    "wof:lastmodified":1537660151,
+    "wof:name":"Orgymbay",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.96074,
+    48.30623,
+    84.96074,
+    48.30623
+],
+  "geometry": {"coordinates":[84.96074,48.30623],"type":"Point"}
+}

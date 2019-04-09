@@ -1,0 +1,85 @@
+{
+  "id": 1326606421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.26586,53.16151,66.26586,53.16151",
+    "geom:latitude":53.16151,
+    "geom:longitude":66.26586,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Leningradskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521377,
+    "gn:latitude":53.16151,
+    "gn:longitude":66.26586,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Leningradskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Leningradskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "Len\u012bngradsk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Pregradny",
+        "Pregradnyy",
+        "Leningradskiy",
+        "Sovkhoz Leningradskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521377
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1e240746c325dc63df3145e06980f3e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785569,
+            "locality_id":1326606421,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1326606421,
+    "wof:lastmodified":1537659712,
+    "wof:name":"Leningradskiy",
+    "wof:parent_id":1108785569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.26586,
+    53.16151,
+    66.26586,
+    53.16151
+],
+  "geometry": {"coordinates":[66.26586,53.16151],"type":"Point"}
+}

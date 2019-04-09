@@ -1,0 +1,70 @@
+{
+  "id": 1360273517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.38333,50.65,74.38333,50.65",
+    "geom:latitude":50.65,
+    "geom:longitude":74.38333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Besnen'",
+    "gn:country_code":"KZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525395,
+    "gn:latitude":50.65,
+    "gn:longitude":74.38333,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Besnen\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Besnen\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525395
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"86c249473ba13a15b1fec92464ba4980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1360273517,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1360273517,
+    "wof:lastmodified":1537659873,
+    "wof:name":"Besnen'",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.38333,
+    50.65,
+    74.38333,
+    50.65
+],
+  "geometry": {"coordinates":[74.38333,50.65],"type":"Point"}
+}

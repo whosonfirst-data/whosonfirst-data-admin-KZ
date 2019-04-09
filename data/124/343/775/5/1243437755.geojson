@@ -1,0 +1,71 @@
+{
+  "id": 1243437755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.26667,44.03333,67.26667,44.03333",
+    "geom:latitude":44.03333,
+    "geom:longitude":67.26667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Myrzatay",
+    "gn:country_code":"KZ",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520774,
+    "gn:latitude":44.03333,
+    "gn:longitude":67.26667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Myrzatay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Murzatay",
+        "Myrzatay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520774
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dc93a3ff8a445452f43851cae29abe9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1243437755,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1243437755,
+    "wof:lastmodified":1537659681,
+    "wof:name":"Myrzatay",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.26666999999999,
+    44.03333,
+    67.26666999999999,
+    44.03333
+],
+  "geometry": {"coordinates":[67.26666999999999,44.03333],"type":"Point"}
+}

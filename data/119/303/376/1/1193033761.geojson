@@ -1,0 +1,76 @@
+{
+  "id": 1193033761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.96497,43.47428,76.96497,43.47428",
+    "geom:latitude":43.47428,
+    "geom:longitude":76.96497,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhanatalap",
+    "gn:country_code":"KZ",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1539954,
+    "gn:latitude":43.47428,
+    "gn:longitude":76.96497,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Zhanatalap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhangatalap"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430\u0442\u0430\u043b\u0430\u043f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0442\u0430\u043b\u0430\u043f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1539954
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d2825dd3f55aeba3908b3b02bbceb16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785433,
+            "locality_id":1193033761,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1193033761,
+    "wof:lastmodified":1537660030,
+    "wof:name":"Zhanatalap",
+    "wof:parent_id":1108785433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.96497,
+    43.47428,
+    76.96497,
+    43.47428
+],
+  "geometry": {"coordinates":[76.96496999999999,43.47428],"type":"Point"}
+}

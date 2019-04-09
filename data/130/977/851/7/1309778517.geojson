@@ -1,0 +1,79 @@
+{
+  "id": 1309778517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.8965,53.97879,72.8965,53.97879",
+    "geom:latitude":53.97879,
+    "geom:longitude":72.8965,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Undiris",
+    "gn:country_code":"KZ",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532735,
+    "gn:latitude":53.97879,
+    "gn:longitude":72.8965,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Undiris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Undiris"
+    ],
+    "name:kaz_x_preferred":[
+        "\u00d6ndiris"
+    ],
+    "name:kaz_x_variant":[
+        "\u04e8\u043d\u0434\u0456\u0440\u0456\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u0434\u0438\u0440\u0438\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532735
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"95107d366259ea39e2865fd1e7ddc77d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785367,
+            "locality_id":1309778517,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1309778517,
+    "wof:lastmodified":1537659971,
+    "wof:name":"Undiris",
+    "wof:parent_id":1108785367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.8965,
+    53.97879,
+    72.8965,
+    53.97879
+],
+  "geometry": {"coordinates":[72.8965,53.97879],"type":"Point"}
+}

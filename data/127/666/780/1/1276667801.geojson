@@ -1,0 +1,84 @@
+{
+  "id": 1276667801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.42847,52.56092,67.42847,52.56092",
+    "geom:latitude":52.56092,
+    "geom:longitude":67.42847,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Salkynkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519772,
+    "gn:latitude":52.56092,
+    "gn:longitude":67.42847,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Salkynkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Salkynkol'"
+    ],
+    "name:kaz_x_preferred":[
+        "Salqynk\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0430\u043b\u049b\u044b\u043d\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u043a\u044b\u043d\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Salkynkul\u2019skiy",
+        "Salkynkul\u2019",
+        "Salkynkol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519772
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bb9cc78bd5b27486d6f356a36b53475e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1276667801,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276667801,
+    "wof:lastmodified":1537659615,
+    "wof:name":"Salkynkol'",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.42846999999999,
+    52.56092,
+    67.42846999999999,
+    52.56092
+],
+  "geometry": {"coordinates":[67.42846999999999,52.56092],"type":"Point"}
+}

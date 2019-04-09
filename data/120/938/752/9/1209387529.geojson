@@ -1,0 +1,74 @@
+{
+  "id": 1209387529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.72276,54.35067,67.72276,54.35067",
+    "geom:latitude":54.35067,
+    "geom:longitude":67.72276,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Spasovka",
+    "gn:country_code":"KZ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518820,
+    "gn:latitude":54.35067,
+    "gn:longitude":67.72276,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Spasovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Spasovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043f\u0430\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u0430\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Spasskoye",
+        "Spasovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518820
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7ae7c7e8fdca6d020bec9adcd5aecc16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209387529
+        }
+    ],
+    "wof:id":1209387529,
+    "wof:lastmodified":1537659577,
+    "wof:name":"Spasovka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.72276,
+    54.35067,
+    67.72276,
+    54.35067
+],
+  "geometry": {"coordinates":[67.72275999999999,54.35067],"type":"Point"}
+}

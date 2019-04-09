@@ -1,0 +1,67 @@
+{
+  "id": 1260300093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.05,48.45,48.05,48.45",
+    "geom:latitude":48.45,
+    "geom:longitude":48.05,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tovatse",
+    "gn:country_code":"KZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607961,
+    "gn:latitude":48.45,
+    "gn:longitude":48.05,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Tovatse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607961
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9070213d10bc27dc58d324d404101d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785701,
+            "locality_id":1260300093,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1260300093,
+    "wof:lastmodified":1536689654,
+    "wof:name":"Tovatse",
+    "wof:parent_id":1108785701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.05,
+    48.45,
+    48.05,
+    48.45
+],
+  "geometry": {"coordinates":[48.05,48.45],"type":"Point"}
+}

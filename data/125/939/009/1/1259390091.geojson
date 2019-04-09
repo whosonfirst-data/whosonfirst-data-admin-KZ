@@ -1,0 +1,67 @@
+{
+  "id": 1259390091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.92384,51.81341,67.92384,51.81341",
+    "geom:latitude":51.81341,
+    "geom:longitude":67.92384,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Belovodskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525487,
+    "gn:latitude":51.81341,
+    "gn:longitude":67.92384,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Belovodskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525487
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1545b8d2afbc5a1389c4fea7614642cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785623,
+            "locality_id":1259390091,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259390091,
+    "wof:lastmodified":1536991854,
+    "wof:name":"Belovodskoye",
+    "wof:parent_id":1108785623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.92384,
+    51.81341,
+    67.92384,
+    51.81341
+],
+  "geometry": {"coordinates":[67.92384,51.81341],"type":"Point"}
+}

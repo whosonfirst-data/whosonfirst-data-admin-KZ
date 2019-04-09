@@ -1,0 +1,73 @@
+{
+  "id": 1343543981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.15194,49.68556,84.15194,49.68556",
+    "geom:latitude":49.68556,
+    "geom:longitude":84.15194,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Altynsay",
+    "gn:country_code":"KZ",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534584,
+    "gn:latitude":49.68556,
+    "gn:longitude":84.15194,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Altynsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Altynsay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u043b\u0442\u044b\u043d\u0441\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534584
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f2339f548a58f177f60260a420fecde7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1343543981,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343543981,
+    "wof:lastmodified":1537659983,
+    "wof:name":"Altynsay",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.15194,
+    49.68556,
+    84.15194,
+    49.68556
+],
+  "geometry": {"coordinates":[84.15194,49.68556],"type":"Point"}
+}

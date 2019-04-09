@@ -1,0 +1,67 @@
+{
+  "id": 1242570119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.83333,47.43333,51.83333,47.43333",
+    "geom:latitude":47.43333,
+    "geom:longitude":51.83333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kurzhum",
+    "gn:country_code":"KZ",
+    "gn:dem":-26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609072,
+    "gn:latitude":47.43333,
+    "gn:longitude":51.83333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kurzhum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609072
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e6cd8e7e8e1403cd55c1b0e0073b3c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785457,
+            "locality_id":1242570119,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1242570119,
+    "wof:lastmodified":1537071377,
+    "wof:name":"Kurzhum",
+    "wof:parent_id":1108785457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.83333,
+    47.43333,
+    51.83333,
+    47.43333
+],
+  "geometry": {"coordinates":[51.83333,47.43333],"type":"Point"}
+}

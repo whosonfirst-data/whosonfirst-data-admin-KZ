@@ -1,0 +1,67 @@
+{
+  "id": 1193277517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.96667,51.86667,72.96667,51.86667",
+    "geom:latitude":51.86667,
+    "geom:longitude":72.96667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Aytmaambetov",
+    "gn:country_code":"KZ",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525904,
+    "gn:latitude":51.86667,
+    "gn:longitude":72.96667,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Aytmaambetov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525904
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"994cd1d0885eeb0736492565be1e780c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1193277517,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1193277517,
+    "wof:lastmodified":1536364945,
+    "wof:name":"Aytmaambetov",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.96667,
+    51.86667,
+    72.96667,
+    51.86667
+],
+  "geometry": {"coordinates":[72.96666999999999,51.86667],"type":"Point"}
+}

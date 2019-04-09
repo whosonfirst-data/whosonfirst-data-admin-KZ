@@ -1,0 +1,79 @@
+{
+  "id": 1293777777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.21504,41.26976,67.21504,41.26976",
+    "geom:latitude":41.26976,
+    "geom:longitude":67.21504,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qalpaqcay",
+    "gn:country_code":"KZ",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11133371,
+    "gn:latitude":41.26976,
+    "gn:longitude":67.21504,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Qalpaqcay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qalpaqcay"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u043b\u043f\u0430\u049b\u0441\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u043c\u0430 \u041d\u043e\u043c\u0435\u0440 \u0414\u0432\u0430 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u041a\u043e\u0433\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ferma Nomer Dva Sovkhoza Kogaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11133371
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3285e31d5059523a02f9d5da328a4244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785365,
+            "locality_id":1293777777,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293777777,
+    "wof:lastmodified":1537660116,
+    "wof:name":"Qalpaqcay",
+    "wof:parent_id":1108785365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.21504,
+    41.26976,
+    67.21504,
+    41.26976
+],
+  "geometry": {"coordinates":[67.21504,41.26976],"type":"Point"}
+}

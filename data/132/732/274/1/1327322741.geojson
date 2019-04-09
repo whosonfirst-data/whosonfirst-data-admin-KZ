@@ -1,0 +1,84 @@
+{
+  "id": 1327322741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.95954,43.24554,67.95954,43.24554",
+    "geom:latitude":43.24554,
+    "geom:longitude":67.95954,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nurtas",
+    "gn:country_code":"KZ",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524106,
+    "gn:latitude":43.24554,
+    "gn:longitude":67.95954,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Nurtas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Nurtas"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u04b1\u0440\u0442\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "Amangel\u2019dy"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u044c\u0434\u044b",
+        "Zhail\u2019ma",
+        "\u0416\u0430\u0438\u043b\u044c\u043c\u0430"
+    ],
+    "name:und_x_variant":[
+        "Imeni Andreyeva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524106
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6bc0412cc50af4a35a513a941349a80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1327322741,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1327322741,
+    "wof:lastmodified":1537659819,
+    "wof:name":"Nurtas",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.95954,
+    43.24554000000001,
+    67.95954,
+    43.24554000000001
+],
+  "geometry": {"coordinates":[67.95954,43.24554000000001],"type":"Point"}
+}

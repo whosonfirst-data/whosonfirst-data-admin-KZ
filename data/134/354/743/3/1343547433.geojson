@@ -1,0 +1,80 @@
+{
+  "id": 1343547433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.69412,51.54137,63.69412,51.54137",
+    "geom:latitude":51.54137,
+    "geom:longitude":63.69412,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Olendi",
+    "gn:country_code":"KZ",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1536008,
+    "gn:latitude":51.54137,
+    "gn:longitude":63.69412,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"\u00d6lendi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00d6lengti"
+    ],
+    "name:kaz_x_preferred":[
+        "\u00d6lendi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u0435\u043d\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ulendy",
+        "\u00d6lengti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1536008
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b2dc577523627c52d9043e5f7eead4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785513,
+            "locality_id":1343547433,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343547433,
+    "wof:lastmodified":1537660005,
+    "wof:name":"Olendi",
+    "wof:parent_id":1108785513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.69412,
+    51.54137,
+    63.69412,
+    51.54137
+],
+  "geometry": {"coordinates":[63.69412,51.54137],"type":"Point"}
+}

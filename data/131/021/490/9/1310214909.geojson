@@ -1,0 +1,77 @@
+{
+  "id": 1310214909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.31433,51.88238,63.31433,51.88238",
+    "geom:latitude":51.88238,
+    "geom:longitude":63.31433,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kosagal",
+    "gn:country_code":"KZ",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522218,
+    "gn:latitude":51.88238,
+    "gn:longitude":63.31433,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kosagal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kosagal"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0430\u0433\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Kosagaya",
+        "Kosagal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522218
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"86b03513db9c797b4d212fcc114401ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785659,
+            "locality_id":1310214909,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310214909,
+    "wof:lastmodified":1537659748,
+    "wof:name":"Kosagal",
+    "wof:parent_id":1108785659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.31433000000001,
+    51.88238,
+    63.31433000000001,
+    51.88238
+],
+  "geometry": {"coordinates":[63.31433000000001,51.88238],"type":"Point"}
+}

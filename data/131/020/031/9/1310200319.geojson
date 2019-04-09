@@ -1,0 +1,76 @@
+{
+  "id": 1310200319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.5833,42.74881,69.5833,42.74881",
+    "geom:latitude":42.74881,
+    "geom:longitude":69.5833,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zarechnoe",
+    "gn:country_code":"KZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641318,
+    "gn:latitude":42.74881,
+    "gn:longitude":69.5833,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Zarechnoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zarechnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0417\u0430\u0440\u0435\u0447\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zarechnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641318
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9afb7926d371b78568a3849c497627f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785589,
+            "locality_id":1310200319,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1310200319,
+    "wof:lastmodified":1537660055,
+    "wof:name":"Zarechnoe",
+    "wof:parent_id":1108785589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.5833,
+    42.74881,
+    69.5833,
+    42.74881
+],
+  "geometry": {"coordinates":[69.58329999999999,42.74881],"type":"Point"}
+}

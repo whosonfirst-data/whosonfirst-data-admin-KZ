@@ -1,0 +1,77 @@
+{
+  "id": 1259756369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.09777,50.71151,81.09777,50.71151",
+    "geom:latitude":50.71151,
+    "geom:longitude":81.09777,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Razdol'noye",
+    "gn:country_code":"KZ",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519890,
+    "gn:latitude":50.71151,
+    "gn:longitude":81.09777,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Razdol\u2019noye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Razdol\u2019noe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0420\u0430\u0437\u0434\u043e\u043b\u044c\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Razdol\u2019nyy",
+        "Razdol\u2019noye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519890
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"72dbec2f7beb0a16d2aab5aa2e8c8c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1259756369,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259756369,
+    "wof:lastmodified":1537659623,
+    "wof:name":"Razdol'noye",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.09777,
+    50.71151,
+    81.09777,
+    50.71151
+],
+  "geometry": {"coordinates":[81.09777,50.71151],"type":"Point"}
+}

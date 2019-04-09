@@ -1,0 +1,73 @@
+{
+  "id": 1209993677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.04022,49.80742,73.04022,49.80742",
+    "geom:latitude":49.80742,
+    "geom:longitude":73.04022,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhanga Ozen",
+    "gn:country_code":"KZ",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247724,
+    "gn:latitude":49.80742,
+    "gn:longitude":73.04022,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Zhanga \u00d6zen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhanga \u00d6zen"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430 \u04e8\u0437\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247724
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b8024363a0c44d493b6d5f0266538eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1209993677,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1209993677,
+    "wof:lastmodified":1537660131,
+    "wof:name":"Zhanga Ozen",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.04021999999998,
+    49.80742,
+    73.04021999999998,
+    49.80742
+],
+  "geometry": {"coordinates":[73.04021999999998,49.80742],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293210183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.26459,43.60346,75.26459,43.60346",
+    "geom:latitude":43.60346,
+    "geom:longitude":75.26459,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Matebulak",
+    "gn:country_code":"KZ",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11028885,
+    "gn:latitude":43.60346,
+    "gn:longitude":75.26459,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Matebulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0435\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11028885
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"06fc4d54b6122710e4cd7bb6688d1a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1293210183,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293210183,
+    "wof:lastmodified":1537660091,
+    "wof:name":"Matebulak",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.26459,
+    43.60346,
+    75.26459,
+    43.60346
+],
+  "geometry": {"coordinates":[75.26459,43.60346],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293488557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.87405,49.90621,59.87405,49.90621",
+    "geom:latitude":49.90621,
+    "geom:longitude":59.87405,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Uymola",
+    "gn:country_code":"KZ",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470749,
+    "gn:latitude":49.90621,
+    "gn:longitude":59.87405,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Uymola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470749
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8db085e54541419a909bc6e3da0d6caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1293488557,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293488557,
+    "wof:lastmodified":1536786000,
+    "wof:name":"Uymola",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.87405,
+    49.90621,
+    59.87405,
+    49.90621
+],
+  "geometry": {"coordinates":[59.87405,49.90621],"type":"Point"}
+}

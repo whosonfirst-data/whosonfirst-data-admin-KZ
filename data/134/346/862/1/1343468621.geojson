@@ -1,0 +1,67 @@
+{
+  "id": 1343468621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.7,48.4,78.7,48.4",
+    "geom:latitude":48.4,
+    "geom:longitude":78.7,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Imeni Molotova",
+    "gn:country_code":"KZ",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523903,
+    "gn:latitude":48.4,
+    "gn:longitude":78.7,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Imeni Molotova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523903
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"22c37ba83c99e257de1c23c4df31ae20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785459,
+            "locality_id":1343468621,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343468621,
+    "wof:lastmodified":1536734422,
+    "wof:name":"Imeni Molotova",
+    "wof:parent_id":1108785459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.7,
+    48.4,
+    78.7,
+    48.4
+],
+  "geometry": {"coordinates":[78.7,48.4],"type":"Point"}
+}

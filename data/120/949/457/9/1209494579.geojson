@@ -1,0 +1,70 @@
+{
+  "id": 1209494579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.91883,53.9377,61.91883,53.9377",
+    "geom:latitude":53.9377,
+    "geom:longitude":61.91883,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Fadeevka",
+    "gn:country_code":"KZ",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11506746,
+    "gn:latitude":53.9377,
+    "gn:longitude":61.91883,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Fadeevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Fadeevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0424\u0430\u0434\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Fadeyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11506746
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"469d0d0f54ef6329ded1d80594bc1b17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209494579
+        }
+    ],
+    "wof:id":1209494579,
+    "wof:lastmodified":1537660168,
+    "wof:name":"Fadeevka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.91883000000001,
+    53.9377,
+    61.91883000000001,
+    53.9377
+],
+  "geometry": {"coordinates":[61.91883000000001,53.9377],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309719513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.15,53.0,70.15,53.0",
+    "geom:latitude":53.0,
+    "geom:longitude":70.15,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Uchitel'",
+    "gn:country_code":"KZ",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517833,
+    "gn:latitude":53.0,
+    "gn:longitude":70.15,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Uchitel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Uchitel\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517833
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f76c8ff15d853b738b561b08d7ea7a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785629,
+            "locality_id":1309719513,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1309719513,
+    "wof:lastmodified":1537659540,
+    "wof:name":"Uchitel'",
+    "wof:parent_id":1108785629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.15,
+    53.0,
+    70.15,
+    53.0
+],
+  "geometry": {"coordinates":[70.15000000000001,53.0],"type":"Point"}
+}

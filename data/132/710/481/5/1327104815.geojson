@@ -1,0 +1,74 @@
+{
+  "id": 1327104815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.39378,47.024,81.39378,47.024",
+    "geom:latitude":47.024,
+    "geom:longitude":81.39378,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhogharghy-Eginsu",
+    "gn:country_code":"KZ",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8561311,
+    "gn:latitude":47.024,
+    "gn:longitude":81.39378,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Zhogharghy-Egins\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhogharghy-Egins\u016b"
+    ],
+    "name:und_x_variant":[
+        "Imeni Pevogo Maya",
+        "Yeginsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561311
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"22d64a7a641bf9808a34c09b36d0950e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1327104815,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327104815,
+    "wof:lastmodified":1537660044,
+    "wof:name":"Zhogharghy-Eginsu",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.39378,
+    47.024,
+    81.39378,
+    47.024
+],
+  "geometry": {"coordinates":[81.39378000000001,47.024],"type":"Point"}
+}

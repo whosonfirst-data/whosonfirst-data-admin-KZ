@@ -1,0 +1,73 @@
+{
+  "id": 1259356155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.70788,48.83301,82.70788,48.83301",
+    "geom:latitude":48.83301,
+    "geom:longitude":82.70788,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chernoyarka",
+    "gn:country_code":"KZ",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527242,
+    "gn:latitude":48.83301,
+    "gn:longitude":82.70788,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Chernoyarka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Chernoyarka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0427\u0435\u0440\u043d\u043e\u044f\u0440\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527242
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9325964b8e0b6042ddc7e8a9d3e29fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1259356155,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259356155,
+    "wof:lastmodified":1537660186,
+    "wof:name":"Chernoyarka",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.70788,
+    48.83301,
+    82.70788,
+    48.83301
+],
+  "geometry": {"coordinates":[82.70788,48.83301],"type":"Point"}
+}

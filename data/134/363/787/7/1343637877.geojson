@@ -1,0 +1,73 @@
+{
+  "id": 1343637877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.93632,53.26997,64.93632,53.26997",
+    "geom:latitude":53.26997,
+    "geom:longitude":64.93632,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Zhanasu",
+    "gn:country_code":"KZ",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11508322,
+    "gn:latitude":53.26997,
+    "gn:longitude":64.93632,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Zhanasu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhanas\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u043d\u0430\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11508322
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"559b37c401787fb750ca1447a8147dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785531,
+            "locality_id":1343637877,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343637877,
+    "wof:lastmodified":1537660175,
+    "wof:name":"Zhanasu",
+    "wof:parent_id":1108785531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.93632,
+    53.26997,
+    64.93632,
+    53.26997
+],
+  "geometry": {"coordinates":[64.93631999999999,53.26997],"type":"Point"}
+}

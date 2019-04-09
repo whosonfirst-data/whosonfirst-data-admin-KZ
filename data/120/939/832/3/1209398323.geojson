@@ -1,0 +1,73 @@
+{
+  "id": 1209398323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.2,43.49916,67.2,43.49916",
+    "geom:latitude":43.49916,
+    "geom:longitude":67.2,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Apanqaq",
+    "gn:country_code":"KZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10876332,
+    "gn:latitude":43.49916,
+    "gn:longitude":67.2,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Apanqaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Apanqaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u043f\u0430\u043d\u049b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043f\u0430\u043d\u043a\u0430\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Apankalak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10876332
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6033a230343c933fdd763cbbbf9213bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209398323
+        }
+    ],
+    "wof:id":1209398323,
+    "wof:lastmodified":1537660073,
+    "wof:name":"Apanqaq",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.2,
+    43.49916,
+    67.2,
+    43.49916
+],
+  "geometry": {"coordinates":[67.2,43.49916],"type":"Point"}
+}

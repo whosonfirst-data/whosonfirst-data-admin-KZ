@@ -1,0 +1,67 @@
+{
+  "id": 1260205773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.26667,48.03333,47.26667,48.03333",
+    "geom:latitude":48.03333,
+    "geom:longitude":47.26667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kuyandy",
+    "gn:country_code":"KZ",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":609053,
+    "gn:latitude":48.03333,
+    "gn:longitude":47.26667,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Kuyandy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609053
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f0d61c655c18f56502ef4cc86ce9dd0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1260205773,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1260205773,
+    "wof:lastmodified":1536816693,
+    "wof:name":"Kuyandy",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.26667,
+    48.03333,
+    47.26667,
+    48.03333
+],
+  "geometry": {"coordinates":[47.26667,48.03333],"type":"Point"}
+}

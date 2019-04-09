@@ -1,0 +1,70 @@
+{
+  "id": 1259771573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.7364,52.18536,77.7364,52.18536",
+    "geom:latitude":52.18536,
+    "geom:longitude":77.7364,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bezvodnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10801729,
+    "gn:latitude":52.18536,
+    "gn:longitude":77.7364,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Bezvodnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0437\u0432\u043e\u0434\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10801729
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0ea7c1ea22e9a7954ac0fd976e59bddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785561,
+            "locality_id":1259771573,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259771573,
+    "wof:lastmodified":1537660060,
+    "wof:name":"Bezvodnoye",
+    "wof:parent_id":1108785561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.7364,
+    52.18536,
+    77.7364,
+    52.18536
+],
+  "geometry": {"coordinates":[77.7364,52.18536],"type":"Point"}
+}

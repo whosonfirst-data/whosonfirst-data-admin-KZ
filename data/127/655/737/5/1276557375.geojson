@@ -1,0 +1,75 @@
+{
+  "id": 1276557375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.24606,43.02672,79.24606,43.02672",
+    "geom:latitude":43.02672,
+    "geom:longitude":79.24606,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Oktyabr'",
+    "gn:country_code":"KZ",
+    "gn:dem":1824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507884,
+    "gn:latitude":43.02672,
+    "gn:longitude":79.24606,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Oktyabr\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Oktyabr\u2019"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c",
+        "T\u00fcmenbay",
+        "\u0422\u04af\u043c\u0435\u043d\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507884
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"67e9b9247edd811910506e2db11b6ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1276557375,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1276557375,
+    "wof:lastmodified":1537660174,
+    "wof:name":"Oktyabr'",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.24606,
+    43.02672000000001,
+    79.24606,
+    43.02672000000001
+],
+  "geometry": {"coordinates":[79.24606,43.02672000000001],"type":"Point"}
+}

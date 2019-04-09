@@ -1,0 +1,73 @@
+{
+  "id": 1209107829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.95257,52.2487,68.95257,52.2487",
+    "geom:latitude":52.2487,
+    "geom:longitude":68.95257,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Doroginka",
+    "gn:country_code":"KZ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524553,
+    "gn:latitude":52.2487,
+    "gn:longitude":68.95257,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Doroginka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Doroginka"
+    ],
+    "name:kaz_x_preferred":[
+        "Dorog\u012bnka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u043e\u0440\u043e\u0433\u0438\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0440\u043e\u0433\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524553
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b8c67840f9020e964d373647eec9be0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209107829
+        }
+    ],
+    "wof:id":1209107829,
+    "wof:lastmodified":1537659839,
+    "wof:name":"Doroginka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.95257,
+    52.2487,
+    68.95257,
+    52.2487
+],
+  "geometry": {"coordinates":[68.95256999999999,52.2487],"type":"Point"}
+}

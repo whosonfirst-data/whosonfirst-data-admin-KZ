@@ -1,0 +1,76 @@
+{
+  "id": 1360274329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.98887,41.91234,67.98887,41.91234",
+    "geom:latitude":41.91234,
+    "geom:longitude":67.98887,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kyzylkum",
+    "gn:country_code":"KZ",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537089,
+    "gn:latitude":41.91234,
+    "gn:longitude":67.98887,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kyzylkum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u049a\u044b\u0437\u044b\u043b\u049b\u04b1\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u043a\u0443\u043c"
+    ],
+    "name:und_x_variant":[
+        "Qyzylqum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537089
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4bbe076f16b2490400afd6536ed53cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785365,
+            "locality_id":1360274329,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1360274329,
+    "wof:lastmodified":1537660010,
+    "wof:name":"Kyzylkum",
+    "wof:parent_id":1108785365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.98886999999999,
+    41.91234,
+    67.98886999999999,
+    41.91234
+],
+  "geometry": {"coordinates":[67.98886999999999,41.91234],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259561521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.76911,50.79429,76.76911,50.79429",
+    "geom:latitude":50.79429,
+    "geom:longitude":76.76911,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sadyk-Makysh",
+    "gn:country_code":"KZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519485,
+    "gn:latitude":50.79429,
+    "gn:longitude":76.76911,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Sadyk-Makysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0434\u044b\u043a-\u041c\u0430\u043a\u044b\u0448"
+    ],
+    "name:und_x_variant":[
+        "Satek-Makysh",
+        "Satykmakysh",
+        "Sadyk-Makysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519485
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dd71ae2135adf62abb37ad06b99fa100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1259561521,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259561521,
+    "wof:lastmodified":1537659608,
+    "wof:name":"Sadyk-Makysh",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.76911,
+    50.79429,
+    76.76911,
+    50.79429
+],
+  "geometry": {"coordinates":[76.76911,50.79429],"type":"Point"}
+}

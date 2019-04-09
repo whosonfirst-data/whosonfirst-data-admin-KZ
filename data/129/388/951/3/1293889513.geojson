@@ -1,0 +1,76 @@
+{
+  "id": 1293889513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.10058,48.14069,55.10058,48.14069",
+    "geom:latitude":48.14069,
+    "geom:longitude":55.10058,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kopa",
+    "gn:country_code":"KZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863476,
+    "gn:latitude":48.14069,
+    "gn:longitude":55.10058,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kopa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kopa"
+    ],
+    "name:kaz_x_preferred":[
+        "Qopa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863476
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"27478ddb07615f03c7daf328974eebb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785399,
+            "locality_id":1293889513,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293889513,
+    "wof:lastmodified":1537659459,
+    "wof:name":"Kopa",
+    "wof:parent_id":1108785399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.10058000000001,
+    48.14069,
+    55.10058000000001,
+    48.14069
+],
+  "geometry": {"coordinates":[55.10058000000001,48.14069],"type":"Point"}
+}

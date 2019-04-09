@@ -1,0 +1,78 @@
+{
+  "id": 1226066453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.06293,51.52649,52.06293,51.52649",
+    "geom:latitude":51.52649,
+    "geom:longitude":52.06293,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khamino",
+    "gn:country_code":"KZ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609424,
+    "gn:latitude":51.52649,
+    "gn:longitude":52.06293,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Khamino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khamino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043c\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Khamin",
+        "Khalin",
+        "Khamino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609424
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"951c0799f8db46a9b42b829d64865be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785331,
+            "locality_id":1226066453,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226066453,
+    "wof:lastmodified":1537659411,
+    "wof:name":"Khamino",
+    "wof:parent_id":1108785331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.06293,
+    51.52649,
+    52.06293,
+    51.52649
+],
+  "geometry": {"coordinates":[52.06293,51.52649],"type":"Point"}
+}

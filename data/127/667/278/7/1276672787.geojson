@@ -1,0 +1,72 @@
+{
+  "id": 1276672787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.28333,50.4,51.28333,50.4",
+    "geom:latitude":50.4,
+    "geom:longitude":51.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Taskoshe",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608072,
+    "gn:latitude":50.4,
+    "gn:longitude":51.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Taskoshe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imeni Chapayeva",
+        "Taskoshe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608072
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c7dfc9391ad6e80cb931b55325697e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785731,
+            "locality_id":1276672787,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1276672787,
+    "wof:lastmodified":1537659358,
+    "wof:name":"Taskoshe",
+    "wof:parent_id":1108785731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.28333,
+    50.4,
+    51.28333,
+    50.4
+],
+  "geometry": {"coordinates":[51.28333,50.4],"type":"Point"}
+}

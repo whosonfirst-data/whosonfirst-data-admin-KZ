@@ -1,0 +1,67 @@
+{
+  "id": 1327313299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.23472,49.95694,64.23472,49.95694",
+    "geom:latitude":49.95694,
+    "geom:longitude":64.23472,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Aralkum",
+    "gn:country_code":"KZ",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538162,
+    "gn:latitude":49.95694,
+    "gn:longitude":64.23472,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Aralkum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538162
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"78995d09f60dcc857c10df259f2eb07a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1327313299,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1327313299,
+    "wof:lastmodified":1536851774,
+    "wof:name":"Aralkum",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.23472,
+    49.95694,
+    64.23472,
+    49.95694
+],
+  "geometry": {"coordinates":[64.23472,49.95694],"type":"Point"}
+}

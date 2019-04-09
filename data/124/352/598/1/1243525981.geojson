@@ -1,0 +1,80 @@
+{
+  "id": 1243525981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.30137,51.10065,65.30137,51.10065",
+    "geom:latitude":51.10065,
+    "geom:longitude":65.30137,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Aqsay",
+    "gn:country_code":"KZ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526708,
+    "gn:latitude":51.10065,
+    "gn:longitude":65.30137,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Aqsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aqsay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Buyrektal\u2019skiy",
+        "Aksay",
+        "Buyrektal",
+        "Byuyrektal",
+        "Aqsay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526708
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ab72ecb0228a93dfea017a72a7d279ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1243525981,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1243525981,
+    "wof:lastmodified":1537659923,
+    "wof:name":"Aqsay",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.30136999999999,
+    51.10065,
+    65.30136999999999,
+    51.10065
+],
+  "geometry": {"coordinates":[65.30136999999999,51.10065],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326813119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.79397,48.81622,80.79397,48.81622",
+    "geom:latitude":48.81622,
+    "geom:longitude":80.79397,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Narbota",
+    "gn:country_code":"KZ",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11514540,
+    "gn:latitude":48.81622,
+    "gn:longitude":80.79397,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Narbota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Narbota"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u0430\u0440\u0431\u043e\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11514540
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"03a4794a612abbf4e4554e298ca31a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1326813119,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1326813119,
+    "wof:lastmodified":1537660182,
+    "wof:name":"Narbota",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.79397,
+    48.81622,
+    80.79397,
+    48.81622
+],
+  "geometry": {"coordinates":[80.79397,48.81622],"type":"Point"}
+}

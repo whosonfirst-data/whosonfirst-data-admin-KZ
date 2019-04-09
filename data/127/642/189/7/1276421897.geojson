@@ -1,0 +1,79 @@
+{
+  "id": 1276421897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.57939,52.21133,74.57939,52.21133",
+    "geom:latitude":52.21133,
+    "geom:longitude":74.57939,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Taldyqamys",
+    "gn:country_code":"KZ",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10839358,
+    "gn:latitude":52.21133,
+    "gn:longitude":74.57939,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Taldyqamys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Taldyqamys"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0430\u043b\u0434\u044b\u049b\u0430\u043c\u044b\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0434\u044b\u043a\u0430\u043c\u044b\u0441"
+    ],
+    "name:und_x_variant":[
+        "Taldykamys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10839358
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c89279ce7d3246c99f4a13da8ad040b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785733,
+            "locality_id":1276421897,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1276421897,
+    "wof:lastmodified":1537660064,
+    "wof:name":"Taldyqamys",
+    "wof:parent_id":1108785733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.57939,
+    52.21133,
+    74.57939,
+    52.21133
+],
+  "geometry": {"coordinates":[74.57939,52.21133],"type":"Point"}
+}

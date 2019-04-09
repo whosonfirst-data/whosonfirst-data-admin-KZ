@@ -1,0 +1,81 @@
+{
+  "id": 1276540599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.81667,48.73333,51.81667,48.73333",
+    "geom:latitude":48.73333,
+    "geom:longitude":51.81667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khar'kino",
+    "gn:country_code":"KZ",
+    "gn:dem":-10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609415,
+    "gn:latitude":48.73333,
+    "gn:longitude":51.81667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Khar\u2019k\u012bno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khar'kin"
+    ],
+    "name:kaz_x_preferred":[
+        "Khar\u2019k\u012bno"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u044c\u043a\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kharkinski",
+        "Khar\u2019kinskiy",
+        "Khar\u2019kin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609415
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c40165960cee0ab7f1f04e39476910a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1276540599,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1276540599,
+    "wof:lastmodified":1537659411,
+    "wof:name":"Khar'kino",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.81667,
+    48.73333,
+    51.81667,
+    48.73333
+],
+  "geometry": {"coordinates":[51.81667,48.73333],"type":"Point"}
+}

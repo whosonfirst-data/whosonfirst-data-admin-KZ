@@ -1,0 +1,64 @@
+{
+  "id": 1209309585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.85874,42.56572,69.85874,42.56572",
+    "geom:latitude":42.56572,
+    "geom:longitude":69.85874,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kyzylbastau",
+    "gn:country_code":"KZ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521553,
+    "gn:latitude":42.56572,
+    "gn:longitude":69.85874,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Kyzylbastau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0431\u0430\u0441\u0442\u0430\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521553
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2d870077919c1017eee7d8fed6d4050e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209309585
+        }
+    ],
+    "wof:id":1209309585,
+    "wof:lastmodified":1537659721,
+    "wof:name":"Kyzylbastau",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.85874,
+    42.56572,
+    69.85874,
+    42.56572
+],
+  "geometry": {"coordinates":[69.85874,42.56572],"type":"Point"}
+}

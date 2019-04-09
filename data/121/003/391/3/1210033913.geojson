@@ -1,0 +1,79 @@
+{
+  "id": 1210033913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.47504,43.41495,77.47504,43.41495",
+    "geom:latitude":43.41495,
+    "geom:longitude":77.47504,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aymen",
+    "gn:country_code":"KZ",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10310694,
+    "gn:latitude":43.41495,
+    "gn:longitude":77.47504,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Aymen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aymen"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0439\u043c\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u0427\u0435\u0442\u044b\u0440\u0435 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u0418\u0441\u0441\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Otdeleniye Nomer Chetyre Sovkhoza Issyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10310694
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e85886e518086fe28818c3c80e01cac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1210033913,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1210033913,
+    "wof:lastmodified":1537660047,
+    "wof:name":"Aymen",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.47504,
+    43.41495,
+    77.47504,
+    43.41495
+],
+  "geometry": {"coordinates":[77.47504000000001,43.41495],"type":"Point"}
+}

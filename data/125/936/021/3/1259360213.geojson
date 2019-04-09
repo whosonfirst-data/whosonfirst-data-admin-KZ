@@ -1,0 +1,70 @@
+{
+  "id": 1259360213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.56985,48.50164,73.56985,48.50164",
+    "geom:latitude":48.50164,
+    "geom:longitude":73.56985,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Baynazar",
+    "gn:country_code":"KZ",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11436680,
+    "gn:latitude":48.50164,
+    "gn:longitude":73.56985,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Baynazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u043d\u0430\u0437\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11436680
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7487895d6348623d533a332a30d84679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1259360213,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1259360213,
+    "wof:lastmodified":1537660150,
+    "wof:name":"Baynazar",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.56985,
+    48.50164,
+    73.56985,
+    48.50164
+],
+  "geometry": {"coordinates":[73.56985,48.50164],"type":"Point"}
+}

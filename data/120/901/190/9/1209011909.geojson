@@ -1,0 +1,77 @@
+{
+  "id": 1209011909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.00225,53.2756,71.00225,53.2756",
+    "geom:latitude":53.2756,
+    "geom:longitude":71.00225,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhanalyk",
+    "gn:country_code":"KZ",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516855,
+    "gn:latitude":53.2756,
+    "gn:longitude":71.00225,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Zhanalyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhanalyk"
+    ],
+    "name:kaz_x_preferred":[
+        "Zhangalyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430\u043b\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u043b\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zhana-Aul",
+        "Zhanalyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516855
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f1b40971eef4edad67cc969aa7157157",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209011909
+        }
+    ],
+    "wof:id":1209011909,
+    "wof:lastmodified":1537659489,
+    "wof:name":"Zhanalyk",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.00225,
+    53.2756,
+    71.00225,
+    53.2756
+],
+  "geometry": {"coordinates":[71.00225,53.2756],"type":"Point"}
+}

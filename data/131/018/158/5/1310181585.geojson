@@ -1,0 +1,76 @@
+{
+  "id": 1310181585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.59386,52.38832,62.59386,52.38832",
+    "geom:latitude":52.38832,
+    "geom:longitude":62.59386,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Zhambaskol'",
+    "gn:country_code":"KZ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516908,
+    "gn:latitude":52.38832,
+    "gn:longitude":62.59386,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Zhambaskol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhambaskol'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043c\u0431\u0430\u0441\u043a\u043e\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "Zhambaskol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516908
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"59fa072c2b9b551a4cc02f8e76614fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785535,
+            "locality_id":1310181585,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310181585,
+    "wof:lastmodified":1537659492,
+    "wof:name":"Zhambaskol'",
+    "wof:parent_id":1108785535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.59386,
+    52.38832,
+    62.59386,
+    52.38832
+],
+  "geometry": {"coordinates":[62.59386,52.38832],"type":"Point"}
+}

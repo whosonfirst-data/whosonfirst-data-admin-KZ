@@ -1,0 +1,84 @@
+{
+  "id": 1243548241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.52544,43.19126,68.52544,43.19126",
+    "geom:latitude":43.19126,
+    "geom:longitude":68.52544,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Staroikan",
+    "gn:country_code":"KZ",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518792,
+    "gn:latitude":43.19126,
+    "gn:longitude":68.52544,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Staroikan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Eski \u012akan"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u0441\u043a\u0456 \u0418\u043a\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u0438\u043a\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ikan",
+        "Yeskiakan",
+        "Eskiikan",
+        "Yeskiikan",
+        "Staryy Ikan",
+        "Staroikan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518792
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"767b496f7b38fd79aa5bb00dd7838105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1243548241,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243548241,
+    "wof:lastmodified":1537659575,
+    "wof:name":"Staroikan",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.52544,
+    43.19126,
+    68.52544,
+    43.19126
+],
+  "geometry": {"coordinates":[68.52544,43.19126],"type":"Point"}
+}

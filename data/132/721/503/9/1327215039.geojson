@@ -1,0 +1,79 @@
+{
+  "id": 1327215039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.46604,53.20411,74.46604,53.20411",
+    "geom:latitude":53.20411,
+    "geom:longitude":74.46604,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kyzylsaray",
+    "gn:country_code":"KZ",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533738,
+    "gn:latitude":53.20411,
+    "gn:longitude":74.46604,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Kyzylsaray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyzylsaray"
+    ],
+    "name:kaz_x_preferred":[
+        "Qyzylsaray"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u0441\u0430\u0440\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0441\u0430\u0440\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533738
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"01f8ba9de3390e8147e1e45252d02314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1327215039,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1327215039,
+    "wof:lastmodified":1537659979,
+    "wof:name":"Kyzylsaray",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.46604,
+    53.20411,
+    74.46604,
+    53.20411
+],
+  "geometry": {"coordinates":[74.46604000000001,53.20411],"type":"Point"}
+}

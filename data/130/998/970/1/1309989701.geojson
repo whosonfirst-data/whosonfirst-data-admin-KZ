@@ -1,0 +1,73 @@
+{
+  "id": 1309989701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.34096,41.63635,68.34096,41.63635",
+    "geom:latitude":41.63635,
+    "geom:longitude":68.34096,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tenteksay",
+    "gn:country_code":"KZ",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532516,
+    "gn:latitude":41.63635,
+    "gn:longitude":68.34096,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Tenteksay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Tenteksay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0435\u043d\u0442\u0435\u043a\u0441\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532516
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1ca563418cb6c084813f7683949024bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1309989701,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1309989701,
+    "wof:lastmodified":1537659969,
+    "wof:name":"Tenteksay",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.34096,
+    41.63635,
+    68.34096,
+    41.63635
+],
+  "geometry": {"coordinates":[68.34096,41.63635],"type":"Point"}
+}

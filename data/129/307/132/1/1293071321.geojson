@@ -1,0 +1,76 @@
+{
+  "id": 1293071321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.84722,49.43424,84.84722,49.43424",
+    "geom:latitude":49.43424,
+    "geom:longitude":84.84722,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ognevo",
+    "gn:country_code":"KZ",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520473,
+    "gn:latitude":49.43424,
+    "gn:longitude":84.84722,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ognevo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ognevo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0433\u043d\u0435\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0433\u043d\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520473
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"71c106db43ad9496e6b5eaaea18af5cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1293071321,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293071321,
+    "wof:lastmodified":1537659659,
+    "wof:name":"Ognevo",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.84722,
+    49.43424,
+    84.84722,
+    49.43424
+],
+  "geometry": {"coordinates":[84.84721999999999,49.43424],"type":"Point"}
+}

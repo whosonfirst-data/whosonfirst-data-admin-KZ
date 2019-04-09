@@ -1,0 +1,82 @@
+{
+  "id": 1276301913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.56103,52.83662,66.56103,52.83662",
+    "geom:latitude":52.83662,
+    "geom:longitude":66.56103,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Stavropolka",
+    "gn:country_code":"KZ",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518787,
+    "gn:latitude":52.83662,
+    "gn:longitude":66.56103,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Stavropolka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Stavropolka"
+    ],
+    "name:kaz_x_preferred":[
+        "Stavropolka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Stavropol\u2019skoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518787
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4eaa1cf7932db4630403aea92125b3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1276301913,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276301913,
+    "wof:lastmodified":1537659575,
+    "wof:name":"Stavropolka",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.56103,
+    52.83662,
+    66.56103,
+    52.83662
+],
+  "geometry": {"coordinates":[66.56103,52.83662],"type":"Point"}
+}

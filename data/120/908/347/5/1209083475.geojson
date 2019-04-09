@@ -1,0 +1,76 @@
+{
+  "id": 1209083475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.97945,48.836,72.97945,48.836",
+    "geom:latitude":48.836,
+    "geom:longitude":72.97945,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Unrek",
+    "gn:country_code":"KZ",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520390,
+    "gn:latitude":48.836,
+    "gn:longitude":72.97945,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Unrek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u00d6nirek"
+    ],
+    "name:kaz_x_variant":[
+        "\u00d6ngirek",
+        "\u04e8\u04a3\u0456\u0440\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u0440\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Onirek",
+        "Ornek",
+        "Unrek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520390
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6bc3b1dc5a508d32ab31921223336693",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209083475
+        }
+    ],
+    "wof:id":1209083475,
+    "wof:lastmodified":1537659653,
+    "wof:name":"Unrek",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.97945,
+    48.83600000000001,
+    72.97945,
+    48.83600000000001
+],
+  "geometry": {"coordinates":[72.97945,48.83600000000001],"type":"Point"}
+}

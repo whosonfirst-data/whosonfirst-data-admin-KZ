@@ -1,0 +1,67 @@
+{
+  "id": 1242585231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.0,52.16667,72.0,52.16667",
+    "geom:latitude":52.16667,
+    "geom:longitude":72.0,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Akaral",
+    "gn:country_code":"KZ",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526908,
+    "gn:latitude":52.16667,
+    "gn:longitude":72.0,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Akaral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526908
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"145726d707c7e94185e6bc656bd0e026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1242585231,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1242585231,
+    "wof:lastmodified":1537050451,
+    "wof:name":"Akaral",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.0,
+    52.16667,
+    72.0,
+    52.16667
+],
+  "geometry": {"coordinates":[72.0,52.16667],"type":"Point"}
+}

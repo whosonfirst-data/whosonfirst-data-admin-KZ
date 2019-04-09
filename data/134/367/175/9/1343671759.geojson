@@ -1,0 +1,70 @@
+{
+  "id": 1343671759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.75,50.4,75.75,50.4",
+    "geom:latitude":50.4,
+    "geom:longitude":75.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Shomankol'",
+    "gn:country_code":"KZ",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519071,
+    "gn:latitude":50.4,
+    "gn:longitude":75.75,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Shomankol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Shomankol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519071
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"87c39b77f77903cd873b012c527dc151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1343671759,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343671759,
+    "wof:lastmodified":1537659589,
+    "wof:name":"Shomankol'",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.75,
+    50.4,
+    75.75,
+    50.4
+],
+  "geometry": {"coordinates":[75.75,50.4],"type":"Point"}
+}

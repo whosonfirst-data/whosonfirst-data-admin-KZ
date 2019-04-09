@@ -1,0 +1,79 @@
+{
+  "id": 1293897535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.68689,44.27851,77.68689,44.27851",
+    "geom:latitude":44.27851,
+    "geom:longitude":77.68689,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Malaysary",
+    "gn:country_code":"KZ",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8569287,
+    "gn:latitude":44.27851,
+    "gn:longitude":77.68689,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Malaysary",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Malaysary"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0430\u043b\u0430\u0439\u0441\u0430\u0440\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0439-\u0421\u0430\u0440\u044b"
+    ],
+    "name:und_x_variant":[
+        "Malay-Sary"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8569287
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ea400b0c4ebd6d1ba443914a0c2830fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785423,
+            "locality_id":1293897535,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293897535,
+    "wof:lastmodified":1537660045,
+    "wof:name":"Malaysary",
+    "wof:parent_id":1108785423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.68689,
+    44.27851,
+    77.68689,
+    44.27851
+],
+  "geometry": {"coordinates":[77.68689000000001,44.27851],"type":"Point"}
+}

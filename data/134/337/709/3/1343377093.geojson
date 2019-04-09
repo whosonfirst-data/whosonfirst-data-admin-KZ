@@ -1,0 +1,71 @@
+{
+  "id": 1343377093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.23599,47.6238,85.23599,47.6238",
+    "geom:latitude":47.6238,
+    "geom:longitude":85.23599,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ul'kekaratal",
+    "gn:country_code":"KZ",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517791,
+    "gn:latitude":47.6238,
+    "gn:longitude":85.23599,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ul\u2019kekaratal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ul\u2019ken-Karatal",
+        "Ul\u2019kekaratal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517791
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9d223ca237ed8a1a685df5f00fb9cc71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785311,
+            "locality_id":1343377093,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343377093,
+    "wof:lastmodified":1537659538,
+    "wof:name":"Ul'kekaratal",
+    "wof:parent_id":1108785311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.23599,
+    47.6238,
+    85.23599,
+    47.6238
+],
+  "geometry": {"coordinates":[85.23599,47.6238],"type":"Point"}
+}

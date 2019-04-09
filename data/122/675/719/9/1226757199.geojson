@@ -1,0 +1,73 @@
+{
+  "id": 1226757199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.21805,44.18861,80.21805,44.18861",
+    "geom:latitude":44.18861,
+    "geom:longitude":80.21805,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nizhniy Pendzhim",
+    "gn:country_code":"KZ",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520673,
+    "gn:latitude":44.18861,
+    "gn:longitude":80.21805,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Nizhniy Pendzhim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0438\u0439 \u041f\u0435\u043d\u0434\u0436\u0438\u043c"
+    ],
+    "name:und_x_variant":[
+        "Nizhniy Penzhim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520673
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ad41310743eb04998e33b2aca9d404d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785409,
+            "locality_id":1226757199,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1226757199,
+    "wof:lastmodified":1537659674,
+    "wof:name":"Nizhniy Pendzhim",
+    "wof:parent_id":1108785409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.21805,
+    44.18861,
+    80.21805,
+    44.18861
+],
+  "geometry": {"coordinates":[80.21805000000001,44.18861],"type":"Point"}
+}

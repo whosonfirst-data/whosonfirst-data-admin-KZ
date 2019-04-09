@@ -1,0 +1,79 @@
+{
+  "id": 1242956845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.39092,42.7856,68.39092,42.7856",
+    "geom:latitude":42.7856,
+    "geom:longitude":68.39092,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Arys",
+    "gn:country_code":"KZ",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526169,
+    "gn:latitude":42.7856,
+    "gn:longitude":68.39092,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Arys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Arys"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0440\u044b\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "Arys\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0440\u044b\u0441\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526169
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"62e002690e27f1feb6b75305af5a343d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785593,
+            "locality_id":1242956845,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1242956845,
+    "wof:lastmodified":1537659902,
+    "wof:name":"Arys",
+    "wof:parent_id":1108785593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.39092,
+    42.7856,
+    68.39092,
+    42.7856
+],
+  "geometry": {"coordinates":[68.39091999999999,42.7856],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293275119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.83609,49.49328,82.83609,49.49328",
+    "geom:latitude":49.49328,
+    "geom:longitude":82.83609,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Targhyn",
+    "gn:country_code":"KZ",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518452,
+    "gn:latitude":49.49328,
+    "gn:longitude":82.83609,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Targhyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Targhyn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0433\u044b\u043d"
+    ],
+    "name:und_x_variant":[
+        "Targan",
+        "Targyn",
+        "Targhyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518452
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"eac811780b462539a53c732ea619b643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785473,
+            "locality_id":1293275119,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293275119,
+    "wof:lastmodified":1537659563,
+    "wof:name":"Targhyn",
+    "wof:parent_id":1108785473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.83609,
+    49.49328,
+    82.83609,
+    49.49328
+],
+  "geometry": {"coordinates":[82.83609,49.49328],"type":"Point"}
+}

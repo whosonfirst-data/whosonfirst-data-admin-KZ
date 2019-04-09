@@ -1,0 +1,80 @@
+{
+  "id": 1344040429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.221,49.10765,80.221,49.10765",
+    "geom:latitude":49.10765,
+    "geom:longitude":80.221,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qopa",
+    "gn:country_code":"KZ",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522280,
+    "gn:latitude":49.10765,
+    "gn:longitude":80.221,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Qopa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qopa"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u043f\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u043c\u043e\u0432\u043a\u0430 \u041a\u043e\u043f\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zimovka Kopa",
+        "Kopa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522280
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c0c01b5b203671dfdb7442f0a1884ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785727,
+            "locality_id":1344040429,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1344040429,
+    "wof:lastmodified":1537659751,
+    "wof:name":"Qopa",
+    "wof:parent_id":1108785727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.221,
+    49.10765,
+    80.221,
+    49.10765
+],
+  "geometry": {"coordinates":[80.221,49.10765],"type":"Point"}
+}

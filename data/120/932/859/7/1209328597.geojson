@@ -1,0 +1,73 @@
+{
+  "id": 1209328597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.33074,45.42716,80.33074,45.42716",
+    "geom:latitude":45.42716,
+    "geom:longitude":80.33074,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Topolyovka",
+    "gn:country_code":"KZ",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518068,
+    "gn:latitude":45.42716,
+    "gn:longitude":80.33074,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Topolyovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Topolyovka"
+    ],
+    "name:und_x_variant":[
+        "Topol\u2019ny",
+        "Topol\u2019nyy",
+        "Topolevskoye",
+        "Topol\u2019naya",
+        "Topolni",
+        "Topoln\u00f6y",
+        "Topol\u00ebvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518068
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c44626e386846d82d6c710734de97ddd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209328597
+        }
+    ],
+    "wof:id":1209328597,
+    "wof:lastmodified":1537659550,
+    "wof:name":"Topolyovka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.33074,
+    45.42716,
+    80.33074,
+    45.42716
+],
+  "geometry": {"coordinates":[80.33074000000001,45.42716],"type":"Point"}
+}

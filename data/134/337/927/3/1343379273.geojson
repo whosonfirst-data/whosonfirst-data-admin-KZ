@@ -1,0 +1,73 @@
+{
+  "id": 1343379273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.99944,40.85338,67.99944,40.85338",
+    "geom:latitude":40.85338,
+    "geom:longitude":67.99944,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qoghaly",
+    "gn:country_code":"KZ",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955997,
+    "gn:latitude":40.85338,
+    "gn:longitude":67.99944,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Qoghaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qoghaly"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u0493\u0430\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955997
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f61b9d3c0e392f62e7a4973928d90e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1343379273,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1343379273,
+    "wof:lastmodified":1537660077,
+    "wof:name":"Qoghaly",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.99944,
+    40.85338,
+    67.99944,
+    40.85338
+],
+  "geometry": {"coordinates":[67.99944000000001,40.85338],"type":"Point"}
+}

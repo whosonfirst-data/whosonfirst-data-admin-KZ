@@ -1,0 +1,73 @@
+{
+  "id": 1293802311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.48333,50.37944,65.48333,50.37944",
+    "geom:latitude":50.37944,
+    "geom:longitude":65.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Makhat",
+    "gn:country_code":"KZ",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530745,
+    "gn:latitude":50.37944,
+    "gn:longitude":65.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Makhat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makhat"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530745
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0b1d4712b004d3341d9f7b55c56d75af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1293802311,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293802311,
+    "wof:lastmodified":1537659944,
+    "wof:name":"Makhat",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.48333000000001,
+    50.37944,
+    65.48333000000001,
+    50.37944
+],
+  "geometry": {"coordinates":[65.48333000000001,50.37944],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259857607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.52813,51.4573,77.52813,51.4573",
+    "geom:latitude":51.4573,
+    "geom:longitude":77.52813,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zhaltyr",
+    "gn:country_code":"KZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516966,
+    "gn:latitude":51.4573,
+    "gn:longitude":77.52813,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Zhaltyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhaltyr"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u043b\u0442\u044b\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516966
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a949d3959a8b78c65d1c2068babdf153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1259857607,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259857607,
+    "wof:lastmodified":1537659493,
+    "wof:name":"Zhaltyr",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.52813,
+    51.4573,
+    77.52813,
+    51.4573
+],
+  "geometry": {"coordinates":[77.52813,51.4573],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1309701273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.94843,42.92973,68.94843,42.92973",
+    "geom:latitude":42.92973,
+    "geom:longitude":68.94843,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tortkol",
+    "gn:country_code":"KZ",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518059,
+    "gn:latitude":42.92973,
+    "gn:longitude":68.94843,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"T\u00f6rtk\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0422\u04e9\u0440\u0442\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Tortkol\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u043e\u0440\u0442\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Tortkoll\u2019",
+        "Tortkul\u2019",
+        "T\u00f6rtk\u00f6l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518059
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4a17d7611fa6f5e72805a2074961cf13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785587,
+            "locality_id":1309701273,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1309701273,
+    "wof:lastmodified":1537659550,
+    "wof:name":"Tortkol",
+    "wof:parent_id":1108785587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.94843,
+    42.92973,
+    68.94843,
+    42.92973
+],
+  "geometry": {"coordinates":[68.94843,42.92973],"type":"Point"}
+}

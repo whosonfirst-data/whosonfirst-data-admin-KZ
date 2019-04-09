@@ -1,0 +1,74 @@
+{
+  "id": 1243037585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.06263,52.79075,67.06263,52.79075",
+    "geom:latitude":52.79075,
+    "geom:longitude":67.06263,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Saradyr",
+    "gn:country_code":"KZ",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519678,
+    "gn:latitude":52.79075,
+    "gn:longitude":67.06263,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Saradyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0434\u044b\u0440"
+    ],
+    "name:und_x_variant":[
+        "Saryadyr",
+        "Saradyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519678
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"65d3f1cc019a200723635c38907d9a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1243037585,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243037585,
+    "wof:lastmodified":1537659613,
+    "wof:name":"Saradyr",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.06263,
+    52.79075,
+    67.06263,
+    52.79075
+],
+  "geometry": {"coordinates":[67.06263,52.79075],"type":"Point"}
+}

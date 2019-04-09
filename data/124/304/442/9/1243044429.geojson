@@ -1,0 +1,79 @@
+{
+  "id": 1243044429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.07536,54.05003,65.07536,54.05003",
+    "geom:latitude":54.05003,
+    "geom:longitude":65.07536,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yershovka",
+    "gn:country_code":"KZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517181,
+    "gn:latitude":54.05003,
+    "gn:longitude":65.07536,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Yershovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ershovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Ershovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u0440\u0448\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0440\u0448\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517181
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cfe53c73346f1eea3ec099d105464127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1243044429,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1243044429,
+    "wof:lastmodified":1537659504,
+    "wof:name":"Yershovka",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.07536,
+    54.05003000000001,
+    65.07536,
+    54.05003000000001
+],
+  "geometry": {"coordinates":[65.07536,54.05003000000001],"type":"Point"}
+}

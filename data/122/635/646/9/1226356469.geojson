@@ -1,0 +1,80 @@
+{
+  "id": 1226356469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.95683,43.43728,76.95683,43.43728",
+    "geom:latitude":43.43728,
+    "geom:longitude":76.95683,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhanadaur",
+    "gn:country_code":"KZ",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516870,
+    "gn:latitude":43.43728,
+    "gn:longitude":76.95683,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Zhanadaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhangad\u00e4\u016bir"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430\u0434\u04d9\u0443i\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0434\u0430\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Zhanadauyr",
+        "Zhanadaur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516870
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"016a59833a46ebe21deee567beae7a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785433,
+            "locality_id":1226356469,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1226356469,
+    "wof:lastmodified":1537659489,
+    "wof:name":"Zhanadaur",
+    "wof:parent_id":1108785433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.95683000000002,
+    43.43728,
+    76.95683000000002,
+    43.43728
+],
+  "geometry": {"coordinates":[76.95683000000002,43.43728],"type":"Point"}
+}

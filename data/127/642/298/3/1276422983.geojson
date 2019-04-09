@@ -1,0 +1,70 @@
+{
+  "id": 1276422983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.24877,53.54306,70.24877,53.54306",
+    "geom:latitude":53.54306,
+    "geom:longitude":70.24877,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zhanatlek",
+    "gn:country_code":"KZ",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532396,
+    "gn:latitude":53.54306,
+    "gn:longitude":70.24877,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Zhanatlek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0442\u043b\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532396
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"42729e2a6a25414b16e30637ff3df7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1276422983,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276422983,
+    "wof:lastmodified":1537659967,
+    "wof:name":"Zhanatlek",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.24877,
+    53.54306,
+    70.24877,
+    53.54306
+],
+  "geometry": {"coordinates":[70.24876999999999,53.54306],"type":"Point"}
+}

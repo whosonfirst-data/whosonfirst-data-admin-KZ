@@ -1,0 +1,73 @@
+{
+  "id": 1344146703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.46528,44.15111,52.46528,44.15111",
+    "geom:latitude":44.15111,
+    "geom:longitude":52.46528,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zharmysh",
+    "gn:country_code":"KZ",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607590,
+    "gn:latitude":44.15111,
+    "gn:longitude":52.46528,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zharmysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zharmysh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0440\u043c\u044b\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607590
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9f76c507c259f27bd5de7f01afda3268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785543,
+            "locality_id":1344146703,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1344146703,
+    "wof:lastmodified":1537659341,
+    "wof:name":"Zharmysh",
+    "wof:parent_id":1108785543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.46528000000001,
+    44.15111,
+    52.46528000000001,
+    44.15111
+],
+  "geometry": {"coordinates":[52.46528000000001,44.15111],"type":"Point"}
+}

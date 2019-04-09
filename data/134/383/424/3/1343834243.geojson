@@ -1,0 +1,76 @@
+{
+  "id": 1343834243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.12734,43.17066,72.12734,43.17066",
+    "geom:latitude":43.17066,
+    "geom:longitude":72.12734,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kosapan",
+    "gn:country_code":"KZ",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537989,
+    "gn:latitude":43.17066,
+    "gn:longitude":72.12734,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Kosapan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0441\u0430\u043f\u0430\u043d"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u0441\u0430\u043f\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Qosapan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537989
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"64fd5f9206086ce7909264f0c7a67a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785489,
+            "locality_id":1343834243,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1343834243,
+    "wof:lastmodified":1537660021,
+    "wof:name":"Kosapan",
+    "wof:parent_id":1108785489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.12734,
+    43.17066,
+    72.12734,
+    43.17066
+],
+  "geometry": {"coordinates":[72.12734,43.17066],"type":"Point"}
+}

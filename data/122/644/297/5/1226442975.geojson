@@ -1,0 +1,71 @@
+{
+  "id": 1226442975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.63333,48.73333,60.63333,48.73333",
+    "geom:latitude":48.73333,
+    "geom:longitude":60.63333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Teren-Uzyakskaya",
+    "gn:country_code":"KZ",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518198,
+    "gn:latitude":48.73333,
+    "gn:longitude":60.63333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Teren-Uzyakskaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terek-Uzyakskaya",
+        "Teren-Uzyakskaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518198
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f25e473e4b7ec41b0b3dec8f04bf2c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785715,
+            "locality_id":1226442975,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1226442975,
+    "wof:lastmodified":1537659555,
+    "wof:name":"Teren-Uzyakskaya",
+    "wof:parent_id":1108785715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.63333000000001,
+    48.73333,
+    60.63333000000001,
+    48.73333
+],
+  "geometry": {"coordinates":[60.63333000000001,48.73333],"type":"Point"}
+}

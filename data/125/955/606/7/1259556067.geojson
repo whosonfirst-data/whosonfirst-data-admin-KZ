@@ -1,0 +1,73 @@
+{
+  "id": 1259556067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.70725,53.55716,70.70725,53.55716",
+    "geom:latitude":53.55716,
+    "geom:longitude":70.70725,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tselinnoe",
+    "gn:country_code":"KZ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944692,
+    "gn:latitude":53.55716,
+    "gn:longitude":70.70725,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Tsel\u012bnnoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Tsel\u012bnnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0426\u0435\u043b\u0438\u043d\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944692
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5dca199f476180374d94bbabf1260952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1259556067,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259556067,
+    "wof:lastmodified":1537660075,
+    "wof:name":"Tselinnoe",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.70725,
+    53.55716,
+    70.70725,
+    53.55716
+],
+  "geometry": {"coordinates":[70.70725,53.55716],"type":"Point"}
+}

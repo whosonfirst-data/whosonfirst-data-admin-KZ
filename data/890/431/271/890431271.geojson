@@ -1,0 +1,63 @@
+{
+  "id": 890431271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.26667,46.6,49.26667,46.6",
+    "geom:latitude":46.6,
+    "geom:longitude":49.26667,
+    "gn:country":"KZ",
+    "gn:fcode":"PPLX",
+    "gn:pop":8387,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Maloye Ganyushkino",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608901,
+        "qs:id":275119
+    },
+    "wof:country":"KZ",
+    "wof:created":1469051885,
+    "wof:geomhash":"65f52da3652151851d92101efd97530f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "neighbourhood_id":890431271,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":890431271,
+    "wof:lastmodified":1505343523,
+    "wof:name":"Maloye Ganyushkino",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":8387,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.26667,
+    46.6,
+    49.26667,
+    46.6
+],
+  "geometry": {"coordinates":[49.26667,46.6],"type":"Point"}
+}

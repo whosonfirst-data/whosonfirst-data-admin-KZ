@@ -1,0 +1,81 @@
+{
+  "id": 1209904297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.41813,52.90727,77.41813,52.90727",
+    "geom:latitude":52.90727,
+    "geom:longitude":77.41813,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Uspenka",
+    "gn:country_code":"KZ",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517628,
+    "gn:latitude":52.90727,
+    "gn:longitude":77.41813,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Uspenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u016aspenka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0423\u0441\u043f\u0435\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u043f\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Uspenskoye",
+        "\u016aspenka",
+        "Uspenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517628
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5a63bb1e7a722ed75aa8bdc6f39b81c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785351,
+            "locality_id":1209904297,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1209904297,
+    "wof:lastmodified":1537659532,
+    "wof:name":"Uspenka",
+    "wof:parent_id":1108785351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.41813,
+    52.90727,
+    77.41813,
+    52.90727
+],
+  "geometry": {"coordinates":[77.41813,52.90727],"type":"Point"}
+}

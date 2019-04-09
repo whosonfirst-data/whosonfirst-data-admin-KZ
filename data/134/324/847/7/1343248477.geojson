@@ -1,0 +1,77 @@
+{
+  "id": 1343248477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.52957,51.92926,61.52957,51.92926",
+    "geom:latitude":51.92926,
+    "geom:longitude":61.52957,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Prirechnyy",
+    "gn:country_code":"KZ",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520016,
+    "gn:latitude":51.92926,
+    "gn:longitude":61.52957,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Pr\u012brechnyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pr\u012brechnyy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0440\u0435\u0447\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Krasnoarmeyskiy",
+        "Pr\u012brechnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520016
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"22d7c890f7dd18ba48ec486083055d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785525,
+            "locality_id":1343248477,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343248477,
+    "wof:lastmodified":1537659631,
+    "wof:name":"Prirechnyy",
+    "wof:parent_id":1108785525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.52956999999999,
+    51.92926,
+    61.52956999999999,
+    51.92926
+],
+  "geometry": {"coordinates":[61.52956999999999,51.92926],"type":"Point"}
+}

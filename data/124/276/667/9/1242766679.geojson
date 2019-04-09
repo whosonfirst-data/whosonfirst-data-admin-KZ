@@ -1,0 +1,77 @@
+{
+  "id": 1242766679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.21667,42.15,68.21667,42.15",
+    "geom:latitude":42.15,
+    "geom:longitude":68.21667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ferma Nomer Dva Gosplemzavoda Zadar'inskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517114,
+    "gn:latitude":42.15,
+    "gn:longitude":68.21667,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Ferma Nomer Dva Gosplemzavoda Zadar\u2019inskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ferma Nomer Dva Gosplemzavoda Zadar\u2019inskiy"
+    ],
+    "name:rus_x_variant":[
+        "\u0424\u0435\u0440\u043c\u0430 \u041d\u043e\u043c\u0435\u0440 \u0414\u0432\u0430 \u0413\u043e\u0441\u043f\u043b\u0435\u043c\u0437\u0430\u0432\u043e\u0434\u0430 \u0417\u0430\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Zadar\u2019inskiy",
+        "Zadar\u2019ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517114
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cf124c280e36c750acf7365bb4fcc642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785581,
+            "locality_id":1242766679,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1242766679,
+    "wof:lastmodified":1537659500,
+    "wof:name":"Ferma Nomer Dva Gosplemzavoda Zadar'inskiy",
+    "wof:parent_id":1108785581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.21667,
+    42.15,
+    68.21667,
+    42.15
+],
+  "geometry": {"coordinates":[68.21666999999999,42.15],"type":"Point"}
+}

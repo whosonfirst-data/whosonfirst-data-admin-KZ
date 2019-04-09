@@ -1,0 +1,85 @@
+{
+  "id": 1310177737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.1537,54.63096,69.1537,54.63096",
+    "geom:latitude":54.63096,
+    "geom:longitude":69.1537,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Chapayevo",
+    "gn:country_code":"KZ",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531021,
+    "gn:latitude":54.63096,
+    "gn:longitude":69.1537,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Chapayevo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chapayevo"
+    ],
+    "name:kaz_x_preferred":[
+        "Chapaevo"
+    ],
+    "name:kaz_x_variant":[
+        "\u0427\u0430\u043f\u0430\u0435\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043f\u0430\u0435\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0442\u0440\u0430\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Batraki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531021
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d7e430810a03cbeb046f94b1baf9ea01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1310177737,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310177737,
+    "wof:lastmodified":1537659951,
+    "wof:name":"Chapayevo",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.1537,
+    54.63096,
+    69.1537,
+    54.63096
+],
+  "geometry": {"coordinates":[69.1537,54.63096],"type":"Point"}
+}

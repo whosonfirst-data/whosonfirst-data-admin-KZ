@@ -1,0 +1,73 @@
+{
+  "id": 1310129995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.43333,48.98333,62.43333,48.98333",
+    "geom:latitude":48.98333,
+    "geom:longitude":62.43333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mamor",
+    "gn:country_code":"KZ",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521150,
+    "gn:latitude":48.98333,
+    "gn:longitude":62.43333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Mamor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mamor"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043c\u044b\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521150
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"446392ed5cc96c4218a76c5ef8898229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785715,
+            "locality_id":1310129995,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1310129995,
+    "wof:lastmodified":1537659698,
+    "wof:name":"Mamor",
+    "wof:parent_id":1108785715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.43333000000001,
+    48.98333,
+    62.43333000000001,
+    48.98333
+],
+  "geometry": {"coordinates":[62.43333000000001,48.98333],"type":"Point"}
+}

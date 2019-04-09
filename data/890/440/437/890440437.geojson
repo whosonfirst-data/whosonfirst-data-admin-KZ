@@ -1,0 +1,67 @@
+{
+  "id": 890440437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.20629,47.72521,84.20629,47.72521",
+    "geom:latitude":47.72521,
+    "geom:longitude":84.20629,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":6696,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Tarbagatay"
+    ],
+    "qs:name":"T\u016bghyl",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520025,
+        "gp:id":12514364,
+        "qs:id":133245
+    },
+    "wof:country":"KZ",
+    "wof:created":1469052275,
+    "wof:geomhash":"c66f57255228bd1139b6730cf7d4dada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890440437,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":890440437,
+    "wof:lastmodified":1505343576,
+    "wof:name":"T\u016bghyl",
+    "wof:parent_id":85672915,
+    "wof:placetype":"locality",
+    "wof:population":6696,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.20629,
+    47.72521,
+    84.20629,
+    47.72521
+],
+  "geometry": {"coordinates":[84.20629,47.72521],"type":"Point"}
+}

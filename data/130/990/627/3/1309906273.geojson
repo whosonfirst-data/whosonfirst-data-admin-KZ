@@ -1,0 +1,80 @@
+{
+  "id": 1309906273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.59725,50.16315,54.59725,50.16315",
+    "geom:latitude":50.16315,
+    "geom:longitude":54.59725,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Novonadezhdinka",
+    "gn:country_code":"KZ",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608714,
+    "gn:latitude":50.16315,
+    "gn:longitude":54.59725,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Novonadezhdinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novonadezhdinka"
+    ],
+    "name:kaz_x_preferred":[
+        "Novonadezhd\u012bnka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043d\u0430\u0434\u0435\u0436\u0434\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novonadezhdinskiy",
+        "Novonadezhdinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608714
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"acac023b33f7a0f2b59acdbf426a94a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785491,
+            "locality_id":1309906273,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1309906273,
+    "wof:lastmodified":1537659384,
+    "wof:name":"Novonadezhdinka",
+    "wof:parent_id":1108785491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.59725,
+    50.16315,
+    54.59725,
+    50.16315
+],
+  "geometry": {"coordinates":[54.59725,50.16315],"type":"Point"}
+}

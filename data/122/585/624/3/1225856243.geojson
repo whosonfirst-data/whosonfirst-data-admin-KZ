@@ -1,0 +1,71 @@
+{
+  "id": 1225856243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.049,51.78758,67.049,51.78758",
+    "geom:latitude":51.78758,
+    "geom:longitude":67.049,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chapaevskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537923,
+    "gn:latitude":51.78758,
+    "gn:longitude":67.049,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Chapaevsk\u012by",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chapayevskiy",
+        "Chapaevsk\u012by"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537923
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9396375a0916dc94bda01d57e5e6b1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785623,
+            "locality_id":1225856243,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1225856243,
+    "wof:lastmodified":1537660019,
+    "wof:name":"Chapaevskiy",
+    "wof:parent_id":1108785623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.04899999999999,
+    51.78758,
+    67.04899999999999,
+    51.78758
+],
+  "geometry": {"coordinates":[67.04899999999999,51.78758],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260177159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.95,44.2,67.95,44.2",
+    "geom:latitude":44.2,
+    "geom:longitude":67.95,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kyzylbayrak",
+    "gn:country_code":"KZ",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521552,
+    "gn:latitude":44.2,
+    "gn:longitude":67.95,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kyzylbayrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyzylbayran",
+        "Kyzylbayrak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521552
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e49e690ba3b3bb45c5f3a8454617377d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785599,
+            "locality_id":1260177159,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1260177159,
+    "wof:lastmodified":1537659721,
+    "wof:name":"Kyzylbayrak",
+    "wof:parent_id":1108785599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.95,
+    44.2,
+    67.95,
+    44.2
+],
+  "geometry": {"coordinates":[67.95,44.2],"type":"Point"}
+}

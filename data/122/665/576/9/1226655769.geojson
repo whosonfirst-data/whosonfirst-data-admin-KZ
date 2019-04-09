@@ -1,0 +1,76 @@
+{
+  "id": 1226655769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.03972,48.93611,47.03972,48.93611",
+    "geom:latitude":48.93611,
+    "geom:longitude":47.03972,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sartol'gen",
+    "gn:country_code":"KZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":796688,
+    "gn:latitude":48.93611,
+    "gn:longitude":47.03972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sartol\u2019gen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sartol'gen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0442\u043e\u043b\u044c\u0433\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Sartol\u2019gen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":796688
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"150ebb5fde86fb4819e29705159336e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785701,
+            "locality_id":1226655769,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226655769,
+    "wof:lastmodified":1537659455,
+    "wof:name":"Sartol'gen",
+    "wof:parent_id":1108785701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.03972,
+    48.93611,
+    47.03972,
+    48.93611
+],
+  "geometry": {"coordinates":[47.03972,48.93611],"type":"Point"}
+}

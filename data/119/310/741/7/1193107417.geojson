@@ -1,0 +1,70 @@
+{
+  "id": 1193107417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.2561,50.37107,80.2561,50.37107",
+    "geom:latitude":50.37107,
+    "geom:longitude":80.2561,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhelomanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1483526,
+    "gn:latitude":50.37107,
+    "gn:longitude":80.2561,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Zhelomanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u043b\u043e\u043c\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1483526
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"89d387519ae8b03646491b850521c63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1193107417,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1193107417,
+    "wof:lastmodified":1537659462,
+    "wof:name":"Zhelomanovka",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.2561,
+    50.37107,
+    80.2561,
+    50.37107
+],
+  "geometry": {"coordinates":[80.2561,50.37107],"type":"Point"}
+}

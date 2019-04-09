@@ -1,0 +1,82 @@
+{
+  "id": 1292910941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.28252,52.44443,68.28252,52.44443",
+    "geom:latitude":52.44443,
+    "geom:longitude":68.28252,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novokronshtadskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520602,
+    "gn:latitude":52.44443,
+    "gn:longitude":68.28252,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Novokronshtadskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novokronshtadskoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Novokronshtadka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u043e\u043a\u0440\u043e\u043d\u0448\u0442\u0430\u0434\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043a\u0440\u043e\u043d\u0448\u0442\u0430\u0434\u0442\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u043e\u043a\u0440\u043e\u043d\u0448\u0442\u0430\u0434\u0441\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520602
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"11ada767a2ac589e3c30daaf63663d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785397,
+            "locality_id":1292910941,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1292910941,
+    "wof:lastmodified":1537659669,
+    "wof:name":"Novokronshtadskoye",
+    "wof:parent_id":1108785397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.28251999999999,
+    52.44443,
+    68.28251999999999,
+    52.44443
+],
+  "geometry": {"coordinates":[68.28251999999999,52.44443],"type":"Point"}
+}

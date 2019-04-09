@@ -1,0 +1,71 @@
+{
+  "id": 1209092591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.01919,50.61605,63.01919,50.61605",
+    "geom:latitude":50.61605,
+    "geom:longitude":63.01919,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Aqzhar",
+    "gn:country_code":"KZ",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526535,
+    "gn:latitude":50.61605,
+    "gn:longitude":63.01919,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Aqzhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aqzhar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0436\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Akzhar",
+        "Aqzhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526535
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"20cfdb41aadf8477c4e3dc852e343dd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209092591
+        }
+    ],
+    "wof:id":1209092591,
+    "wof:lastmodified":1537659917,
+    "wof:name":"Aqzhar",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.01919,
+    50.61605,
+    63.01919,
+    50.61605
+],
+  "geometry": {"coordinates":[63.01919,50.61605],"type":"Point"}
+}

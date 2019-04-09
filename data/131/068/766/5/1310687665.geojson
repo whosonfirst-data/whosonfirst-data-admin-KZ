@@ -1,0 +1,85 @@
+{
+  "id": 1310687665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.91392,51.79623,60.91392,51.79623",
+    "geom:latitude":51.79623,
+    "geom:longitude":60.91392,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Muktikol",
+    "gn:country_code":"KZ",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520791,
+    "gn:latitude":51.79623,
+    "gn:longitude":60.91392,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Muktik\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Muktikol'"
+    ],
+    "name:kaz_x_preferred":[
+        "Muktik\u00f6l"
+    ],
+    "name:rus_x_preferred":[
+        "Myktykol\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0443\u043a\u0442\u0438\u043a\u043e\u043b\u044c",
+        "Muktikol\u2019"
+    ],
+    "name:und_x_variant":[
+        "Maktykul\u2019skiy",
+        "Myktykol\u2019skiy",
+        "Myuktykol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520791
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9d67cb41cf887ea529180a529d5610ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785525,
+            "locality_id":1310687665,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310687665,
+    "wof:lastmodified":1537659681,
+    "wof:name":"Muktikol",
+    "wof:parent_id":1108785525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.91392,
+    51.79623,
+    60.91392,
+    51.79623
+],
+  "geometry": {"coordinates":[60.91392,51.79623],"type":"Point"}
+}

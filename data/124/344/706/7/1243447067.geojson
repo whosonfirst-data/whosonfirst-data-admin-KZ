@@ -1,0 +1,71 @@
+{
+  "id": 1243447067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64583,46.61306,48.64583,46.61306",
+    "geom:latitude":46.61306,
+    "geom:longitude":48.64583,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"L'dobaza",
+    "gn:country_code":"KZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":453619,
+    "gn:latitude":46.61306,
+    "gn:longitude":48.64583,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u2019dobaza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zimnik",
+        "L\u2019dobaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":453619
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3410076cef8d50dcfbf8d98e970f094e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1243447067,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1243447067,
+    "wof:lastmodified":1537659336,
+    "wof:name":"L'dobaza",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64583,
+    46.61306,
+    48.64583,
+    46.61306
+],
+  "geometry": {"coordinates":[48.64583,46.61306],"type":"Point"}
+}

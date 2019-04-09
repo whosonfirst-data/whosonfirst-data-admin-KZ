@@ -1,0 +1,76 @@
+{
+  "id": 1327041609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.54263,52.23579,68.54263,52.23579",
+    "geom:latitude":52.23579,
+    "geom:longitude":68.54263,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novyy Gorodok",
+    "gn:country_code":"KZ",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520518,
+    "gn:latitude":52.23579,
+    "gn:longitude":68.54263,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Novyy Gorodok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novyy Gorodok"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0413\u043e\u0440\u043e\u0434\u043e\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432.\u0412\u043e\u0440\u043e\u0434\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520518
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"07392aa2de3a4ed320d00dede94b8e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785397,
+            "locality_id":1327041609,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327041609,
+    "wof:lastmodified":1537659661,
+    "wof:name":"Novyy Gorodok",
+    "wof:parent_id":1108785397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.54263,
+    52.23579,
+    68.54263,
+    52.23579
+],
+  "geometry": {"coordinates":[68.54263,52.23579],"type":"Point"}
+}

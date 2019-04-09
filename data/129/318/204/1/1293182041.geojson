@@ -1,0 +1,70 @@
+{
+  "id": 1293182041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.72403,52.46395,77.72403,52.46395",
+    "geom:latitude":52.46395,
+    "geom:longitude":77.72403,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tselinnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10801721,
+    "gn:latitude":52.46395,
+    "gn:longitude":77.72403,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Tselinnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u043b\u0438\u043d\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10801721
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c2a874944e45ba470f7989e7da50055b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785561,
+            "locality_id":1293182041,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1293182041,
+    "wof:lastmodified":1537660060,
+    "wof:name":"Tselinnoye",
+    "wof:parent_id":1108785561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.72403,
+    52.46395,
+    77.72403,
+    52.46395
+],
+  "geometry": {"coordinates":[77.72403,52.46395],"type":"Point"}
+}

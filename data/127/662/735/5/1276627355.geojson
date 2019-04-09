@@ -1,0 +1,73 @@
+{
+  "id": 1276627355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.55043,55.08591,70.55043,55.08591",
+    "geom:latitude":55.08591,
+    "geom:longitude":70.55043,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Vasil'yevka",
+    "gn:country_code":"KZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530682,
+    "gn:latitude":55.08591,
+    "gn:longitude":70.55043,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Vasil\u2019yevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Vasil\u2019yevka"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530682
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6b61dd0af1f5835924dcdf3274f5d993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1276627355,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276627355,
+    "wof:lastmodified":1537659942,
+    "wof:name":"Vasil'yevka",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.55043,
+    55.08591,
+    70.55043,
+    55.08591
+],
+  "geometry": {"coordinates":[70.55043000000001,55.08591],"type":"Point"}
+}

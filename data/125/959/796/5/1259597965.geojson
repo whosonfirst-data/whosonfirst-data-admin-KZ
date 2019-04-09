@@ -1,0 +1,67 @@
+{
+  "id": 1259597965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.73333,50.83333,67.73333,50.83333",
+    "geom:latitude":50.83333,
+    "geom:longitude":67.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tere-Akkanskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518233,
+    "gn:latitude":50.83333,
+    "gn:longitude":67.73333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Tere-Akkanskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518233
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a2b2216a118aff3b68c86fdf50facb0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785497,
+            "locality_id":1259597965,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259597965,
+    "wof:lastmodified":1536694056,
+    "wof:name":"Tere-Akkanskiy",
+    "wof:parent_id":1108785497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.73333000000001,
+    50.83333,
+    67.73333000000001,
+    50.83333
+],
+  "geometry": {"coordinates":[67.73333000000001,50.83333],"type":"Point"}
+}

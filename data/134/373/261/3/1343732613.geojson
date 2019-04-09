@@ -1,0 +1,76 @@
+{
+  "id": 1343732613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.26534,50.81163,81.26534,50.81163",
+    "geom:latitude":50.81163,
+    "geom:longitude":81.26534,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Andronovka",
+    "gn:country_code":"KZ",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534958,
+    "gn:latitude":50.81163,
+    "gn:longitude":81.26534,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Andronovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Andronovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534958
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c57a4c0e744c3a45bc687f74cd24447a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1343732613,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343732613,
+    "wof:lastmodified":1537659987,
+    "wof:name":"Andronovka",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.26534000000002,
+    50.81163,
+    81.26534000000002,
+    50.81163
+],
+  "geometry": {"coordinates":[81.26534000000002,50.81163],"type":"Point"}
+}

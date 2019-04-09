@@ -1,0 +1,79 @@
+{
+  "id": 1242783931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.32415,50.3215,57.32415,50.3215",
+    "geom:latitude":50.3215,
+    "geom:longitude":57.32415,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Qarghaly",
+    "gn:country_code":"KZ",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":828326,
+    "gn:latitude":50.3215,
+    "gn:longitude":57.32415,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Qarghaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qarghaly"
+    ],
+    "name:kaz_x_preferred":[
+        "Qarghaly"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0433\u0430\u043b\u0438\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kargalinskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":828326
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c1c71d0a1abd570133105115c6f4efbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785631,
+            "locality_id":1242783931,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1242783931,
+    "wof:lastmodified":1537659455,
+    "wof:name":"Qarghaly",
+    "wof:parent_id":1108785631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.32415,
+    50.3215,
+    57.32415,
+    50.3215
+],
+  "geometry": {"coordinates":[57.32415,50.3215],"type":"Point"}
+}

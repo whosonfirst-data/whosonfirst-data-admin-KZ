@@ -1,0 +1,96 @@
+{
+  "id": 421178029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.4598,54.34786,68.4598,54.34786",
+    "geom:latitude":54.34786,
+    "geom:longitude":68.4598,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Yavlenka"
+    ],
+    "name:eng_x_preferred":[
+        "Yavlenka"
+    ],
+    "name:kaz_x_preferred":[
+        "Yavlenka"
+    ],
+    "name:kaz_x_variant":[
+        "\u042f\u0432\u043b\u0435\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0432\u043b\u0435\u043d\u043a\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Yavlenka"
+    ],
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1517305,
+    "qs:gn_pop":4945,
+    "qs:name":"Yavlenka",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Soltustik Qazaqstan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":276607,
+    "qs:woe_adm0":23424871,
+    "qs:woe_id":2265024,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517305,
+        "gp:id":2265024,
+        "qs:id":276607,
+        "wd:id":"Q41215"
+    },
+    "wof:country":"KZ",
+    "wof:created":1459009168,
+    "wof:geomhash":"bff7d7bdcac4410117b2577da1654774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421178029,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":421178029,
+    "wof:lastmodified":1514469980,
+    "wof:name":"Yavlenka",
+    "wof:parent_id":85672907,
+    "wof:placetype":"locality",
+    "wof:population":4945,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.4598,
+    54.34786,
+    68.4598,
+    54.34786
+],
+  "geometry": {"coordinates":[68.4598,54.34786],"type":"Point"}
+}

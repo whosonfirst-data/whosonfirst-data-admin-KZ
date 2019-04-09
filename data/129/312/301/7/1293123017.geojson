@@ -1,0 +1,82 @@
+{
+  "id": 1293123017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.00605,47.22374,51.00605,47.22374",
+    "geom:latitude":47.22374,
+    "geom:longitude":51.00605,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Akkystau",
+    "gn:country_code":"KZ",
+    "gn:dem":-26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610743,
+    "gn:latitude":47.22374,
+    "gn:longitude":51.00605,
+    "gn:modification_date":"2018-07-27",
+    "gn:name":"Akkystau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aqqystau"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u049b\u049b\u044b\u0441\u0442\u0430\u0443"
+    ],
+    "name:kaz_x_variant":[
+        "Aqqysta\u016b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043a\u044b\u0441\u0442\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Akkstau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610743
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4ded29b791c4c8da475a1b97a32ac7d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785449,
+            "locality_id":1293123017,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1293123017,
+    "wof:lastmodified":1537659453,
+    "wof:name":"Akkystau",
+    "wof:parent_id":1108785449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.00605,
+    47.22374,
+    51.00605,
+    47.22374
+],
+  "geometry": {"coordinates":[51.00605,47.22374],"type":"Point"}
+}

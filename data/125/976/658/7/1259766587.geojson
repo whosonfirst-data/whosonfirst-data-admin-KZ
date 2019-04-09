@@ -1,0 +1,78 @@
+{
+  "id": 1259766587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.77965,43.68343,67.77965,43.68343",
+    "geom:latitude":43.68343,
+    "geom:longitude":67.77965,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kenges",
+    "gn:country_code":"KZ",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522778,
+    "gn:latitude":43.68343,
+    "gn:longitude":67.77965,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kenges",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041a\u0435\u04a3\u0435\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0435\u0441"
+    ],
+    "name:und_x_variant":[
+        "Imeni Voroshilova",
+        "Kenes",
+        "Kenges"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522778
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"59a4959501f5b54466152cf6c4acc866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1259766587,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1259766587,
+    "wof:lastmodified":1537659773,
+    "wof:name":"Kenges",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.77965,
+    43.68343,
+    67.77965,
+    43.68343
+],
+  "geometry": {"coordinates":[67.77965,43.68343],"type":"Point"}
+}

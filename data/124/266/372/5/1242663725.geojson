@@ -1,0 +1,82 @@
+{
+  "id": 1242663725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.24662,54.27052,65.24662,54.27052",
+    "geom:latitude":54.27052,
+    "geom:longitude":65.24662,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ksen'yevka",
+    "gn:country_code":"KZ",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521944,
+    "gn:latitude":54.27052,
+    "gn:longitude":65.24662,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ksen\u2019yevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ksen'yevka"
+    ],
+    "name:kaz_x_preferred":[
+        "Ksen\u2019evka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0441\u0435\u043d\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0441\u0435\u043d\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "Ksen\u2019yevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521944
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"00566d1246313f8c5b0a868bcec99af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1242663725,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1242663725,
+    "wof:lastmodified":1537659733,
+    "wof:name":"Ksen'yevka",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.24662,
+    54.27052,
+    65.24662,
+    54.27052
+],
+  "geometry": {"coordinates":[65.24661999999999,54.27052],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890418099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.5775,43.52639,68.5775,43.52639",
+    "geom:latitude":43.52639,
+    "geom:longitude":68.5775,
+    "gn:country":"KZ",
+    "gn:fcode":"PPLX",
+    "gn:pop":10186,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u043d\u0442\u0430\u0493\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0442\u0430\u0433\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Kantagi"
+    ],
+    "qs:name":"Khantaghy",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523512,
+        "qs:id":1031780
+    },
+    "wof:country":"KZ",
+    "wof:created":1469051234,
+    "wof:geomhash":"d5a590ab0629bdae5ee2e12634aa4348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "neighbourhood_id":890418099,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":890418099,
+    "wof:lastmodified":1505343442,
+    "wof:name":"Khantaghy",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":10186,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.5775,
+    43.52639,
+    68.5775,
+    43.52639
+],
+  "geometry": {"coordinates":[68.5775,43.52639],"type":"Point"}
+}

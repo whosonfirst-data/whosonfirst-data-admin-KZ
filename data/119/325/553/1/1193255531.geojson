@@ -1,0 +1,67 @@
+{
+  "id": 1193255531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.4,49.16667,75.4,49.16667",
+    "geom:latitude":49.16667,
+    "geom:longitude":75.4,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bidaik",
+    "gn:country_code":"KZ",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525353,
+    "gn:latitude":49.16667,
+    "gn:longitude":75.4,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Bidaik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525353
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6fa01f0d2107e931e1439dc6dc0ebd2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1193255531,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1193255531,
+    "wof:lastmodified":1536364590,
+    "wof:name":"Bidaik",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.4,
+    49.16667,
+    75.4,
+    49.16667
+],
+  "geometry": {"coordinates":[75.40000000000001,49.16667],"type":"Point"}
+}

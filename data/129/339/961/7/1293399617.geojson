@@ -1,0 +1,77 @@
+{
+  "id": 1293399617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.19418,43.6877,77.19418,43.6877",
+    "geom:latitude":43.6877,
+    "geom:longitude":77.19418,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nura",
+    "gn:country_code":"KZ",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520460,
+    "gn:latitude":43.6877,
+    "gn:longitude":77.19418,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Nura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Oktyabr\u2019"
+    ],
+    "name:kaz_x_variant":[
+        "Nura",
+        "\u041d\u04b1\u0440\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520460
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7eac9d46c9e25e371c8df445929e7aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785421,
+            "locality_id":1293399617,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293399617,
+    "wof:lastmodified":1537659658,
+    "wof:name":"Nura",
+    "wof:parent_id":1108785421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.19418,
+    43.6877,
+    77.19418,
+    43.6877
+],
+  "geometry": {"coordinates":[77.19418,43.6877],"type":"Point"}
+}

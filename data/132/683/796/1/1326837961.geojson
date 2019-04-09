@@ -1,0 +1,70 @@
+{
+  "id": 1326837961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.16449,51.6287,73.16449,51.6287",
+    "geom:latitude":51.6287,
+    "geom:longitude":73.16449,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sotsial",
+    "gn:country_code":"KZ",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413195,
+    "gn:latitude":51.6287,
+    "gn:longitude":73.16449,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Sotsial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0446\u0438\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413195
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"334774c9beb5db1aa0db0e301893dd4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1326837961,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1326837961,
+    "wof:lastmodified":1537660138,
+    "wof:name":"Sotsial",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.16449,
+    51.6287,
+    73.16449,
+    51.6287
+],
+  "geometry": {"coordinates":[73.16449,51.6287],"type":"Point"}
+}

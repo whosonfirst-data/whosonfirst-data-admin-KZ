@@ -1,0 +1,73 @@
+{
+  "id": 1259874015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.47135,49.72536,48.47135,49.72536",
+    "geom:latitude":49.72536,
+    "geom:longitude":48.47135,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sazandy",
+    "gn:country_code":"KZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":856924,
+    "gn:latitude":49.72536,
+    "gn:longitude":48.47135,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Sazandy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sazandy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0437\u0430\u043d\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":856924
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"84f991aedc968a38a0726eac8fa3265f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1259874015,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1259874015,
+    "wof:lastmodified":1537659458,
+    "wof:name":"Sazandy",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.47135,
+    49.72536,
+    48.47135,
+    49.72536
+],
+  "geometry": {"coordinates":[48.47135,49.72536],"type":"Point"}
+}

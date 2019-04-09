@@ -1,0 +1,74 @@
+{
+  "id": 1276136825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.14011,45.38394,80.14011,45.38394",
+    "geom:latitude":45.38394,
+    "geom:longitude":80.14011,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ekiasha",
+    "gn:country_code":"KZ",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520106,
+    "gn:latitude":45.38394,
+    "gn:longitude":80.14011,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ekiasha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yekiasha",
+        "Pokatilovka",
+        "Pokotilovka",
+        "Ekiasha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520106,
+        "wk:page":"Ekiasha"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"daa5559f6fd6b0d3b5ffe7e3cb3abfb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785417,
+            "locality_id":1276136825,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1276136825,
+    "wof:lastmodified":1537659637,
+    "wof:name":"Ekiasha",
+    "wof:parent_id":1108785417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.14010999999998,
+    45.38394,
+    80.14010999999998,
+    45.38394
+],
+  "geometry": {"coordinates":[80.14010999999998,45.38394],"type":"Point"}
+}

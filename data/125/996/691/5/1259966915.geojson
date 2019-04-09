@@ -1,0 +1,76 @@
+{
+  "id": 1259966915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.21535,50.11447,73.21535,50.11447",
+    "geom:latitude":50.11447,
+    "geom:longitude":73.21535,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Pervoye Maya",
+    "gn:country_code":"KZ",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11452100,
+    "gn:latitude":50.11447,
+    "gn:longitude":73.21535,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Pervoye Maya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Birinshi May"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0456\u0440\u0456\u043d\u0448\u0456 \u041c\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u0435 \u041c\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11452100
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1077ec5a4bce3fb6365fb43c44d6bca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1259966915,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1259966915,
+    "wof:lastmodified":1537660153,
+    "wof:name":"Pervoye Maya",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.21535,
+    50.11447,
+    73.21535,
+    50.11447
+],
+  "geometry": {"coordinates":[73.21535,50.11447],"type":"Point"}
+}

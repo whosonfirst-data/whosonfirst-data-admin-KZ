@@ -1,0 +1,72 @@
+{
+  "id": 1276354549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.96667,49.75,46.96667,49.75",
+    "geom:latitude":49.75,
+    "geom:longitude":46.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kukashev",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609137,
+    "gn:latitude":49.75,
+    "gn:longitude":46.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kukash\u00ebv",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khutor Kukashev",
+        "Kukash\u00ebv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609137
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"519b3a8a9e3248edf22d8a890c2bc3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785327,
+            "locality_id":1276354549,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1276354549,
+    "wof:lastmodified":1537659400,
+    "wof:name":"Kukashev",
+    "wof:parent_id":1108785327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.96667,
+    49.75,
+    46.96667,
+    49.75
+],
+  "geometry": {"coordinates":[46.96667,49.75],"type":"Point"}
+}

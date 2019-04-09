@@ -1,0 +1,113 @@
+{
+  "id": 421173993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.11667,44.16667,52.11667,44.16667",
+    "geom:latitude":44.16667,
+    "geom:longitude":52.11667,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0428\u0435\u0442\u043f\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Shetpe"
+    ],
+    "name:eng_x_preferred":[
+        "Shetpe"
+    ],
+    "name:kaa_x_preferred":[
+        "Shetpe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0435\u0442\u043f\u0435"
+    ],
+    "name:kir_x_preferred":[
+        "\u0428\u0435\u0442\u043f\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0442\u043f\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Sjetpe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u0442\u043f\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Shetpe"
+    ],
+    "name:war_x_preferred":[
+        "Shetpe"
+    ],
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":608324,
+    "qs:gn_pop":11836,
+    "qs:name":"Shetpe",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Mangghystau",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":645918,
+    "qs:woe_adm0":23424871,
+    "qs:woe_id":2264867,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608324,
+        "gp:id":2264867,
+        "qs:id":645918,
+        "wd:id":"Q4523462",
+        "wk:page":"Shetpe"
+    },
+    "wof:country":"KZ",
+    "wof:created":1459009016,
+    "wof:geomhash":"7281586f7adba1de51a59c771c782f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421173993,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":421173993,
+    "wof:lastmodified":1527716258,
+    "wof:name":"Shetpe",
+    "wof:parent_id":85672923,
+    "wof:placetype":"locality",
+    "wof:population":11836,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.11667,
+    44.16667,
+    52.11667,
+    44.16667
+],
+  "geometry": {"coordinates":[52.11667,44.16667],"type":"Point"}
+}

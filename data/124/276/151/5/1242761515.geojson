@@ -1,0 +1,80 @@
+{
+  "id": 1242761515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.9225,41.37889,68.9225,41.37889",
+    "geom:latitude":41.37889,
+    "geom:longitude":68.9225,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Amangeldi",
+    "gn:country_code":"KZ",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520956,
+    "gn:latitude":41.37889,
+    "gn:longitude":68.9225,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Amangeldi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Amangeldi"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u0434\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u044c\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Miam",
+        "Amangel\u2019dy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520956
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"60c18f5e59984588715ed357bf4ed877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1242761515,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1242761515,
+    "wof:lastmodified":1537659690,
+    "wof:name":"Amangeldi",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.9225,
+    41.37889000000001,
+    68.9225,
+    41.37889000000001
+],
+  "geometry": {"coordinates":[68.9225,41.37889000000001],"type":"Point"}
+}

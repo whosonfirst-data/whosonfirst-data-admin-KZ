@@ -1,0 +1,77 @@
+{
+  "id": 1343459657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.02713,50.50359,59.02713,50.50359",
+    "geom:latitude":50.50359,
+    "geom:longitude":59.02713,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Boget",
+    "gn:country_code":"KZ",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610256,
+    "gn:latitude":50.50359,
+    "gn:longitude":59.02713,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Boget",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Boget"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0435\u0442"
+    ],
+    "name:und_x_variant":[
+        "Buget",
+        "Boget"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610256
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"64238040132113d577dfffef0c13486f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785523,
+            "locality_id":1343459657,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1343459657,
+    "wof:lastmodified":1537659436,
+    "wof:name":"Boget",
+    "wof:parent_id":1108785523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.02713000000001,
+    50.50359,
+    59.02713000000001,
+    50.50359
+],
+  "geometry": {"coordinates":[59.02713000000001,50.50359],"type":"Point"}
+}

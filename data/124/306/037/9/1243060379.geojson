@@ -1,0 +1,77 @@
+{
+  "id": 1243060379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.91667,47.35,51.91667,47.35",
+    "geom:latitude":47.35,
+    "geom:longitude":51.91667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kyzylzhuldyz",
+    "gn:country_code":"KZ",
+    "gn:dem":-26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608971,
+    "gn:latitude":47.35,
+    "gn:longitude":51.91667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kyzylzhuldyz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyzylzhuldyz"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0436\u0443\u043b\u0434\u044b\u0437"
+    ],
+    "name:und_x_variant":[
+        "Kzyl-Zhuldyz",
+        "Kyzylzhuldyz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608971
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b965fdc69d1dc1c1bb34f52c6e47a638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785457,
+            "locality_id":1243060379,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1243060379,
+    "wof:lastmodified":1537659393,
+    "wof:name":"Kyzylzhuldyz",
+    "wof:parent_id":1108785457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.91667,
+    47.35,
+    51.91667,
+    47.35
+],
+  "geometry": {"coordinates":[51.91667,47.35],"type":"Point"}
+}

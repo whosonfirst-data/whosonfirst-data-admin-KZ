@@ -1,0 +1,77 @@
+{
+  "id": 1327012013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.62153,52.96114,66.62153,52.96114",
+    "geom:latitude":52.96114,
+    "geom:longitude":66.62153,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zapadnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517093,
+    "gn:latitude":52.96114,
+    "gn:longitude":66.62153,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Zapadnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zapadnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Zapadnyy",
+        "Zapadnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517093
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c881a00c2dab03d8eed45e58a76a776a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1327012013,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1327012013,
+    "wof:lastmodified":1537659499,
+    "wof:name":"Zapadnoye",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.62153,
+    52.96114,
+    66.62153,
+    52.96114
+],
+  "geometry": {"coordinates":[66.62153000000001,52.96114],"type":"Point"}
+}

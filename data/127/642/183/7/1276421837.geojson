@@ -1,0 +1,83 @@
+{
+  "id": 1276421837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.61337,52.97496,73.61337,52.97496",
+    "geom:latitude":52.97496,
+    "geom:longitude":73.61337,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Qazaqstannyng On Bes Zhyldyghy",
+    "gn:country_code":"KZ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516510,
+    "gn:latitude":52.97496,
+    "gn:longitude":73.61337,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Qazaqstannyng On Bes Zhyldyghy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qazaqstannyng On Bes Zhyldyghy"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d\u043d\u044b\u04a3 \u041e\u043d \u0411\u0435\u0441 \u0416\u044b\u043b\u0434\u044b\u0493\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "Pyatnadtsat\u2019 Let Kazakhstana"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u044f\u0442\u043d\u0430\u0434\u0446\u0430\u0442\u044c \u041b\u0435\u0442 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0430",
+        "\u0416\u0443\u0430\u043d\u0442\u043e\u0431\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zhuantobe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516510
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1da241fccb301cad1b024cd50c492fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785367,
+            "locality_id":1276421837,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276421837,
+    "wof:lastmodified":1537659474,
+    "wof:name":"Qazaqstannyng On Bes Zhyldyghy",
+    "wof:parent_id":1108785367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.61336999999997,
+    52.97496,
+    73.61336999999997,
+    52.97496
+],
+  "geometry": {"coordinates":[73.61336999999997,52.97496],"type":"Point"}
+}

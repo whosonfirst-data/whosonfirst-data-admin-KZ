@@ -1,0 +1,78 @@
+{
+  "id": 1343954725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.50456,44.29854,50.50456,44.29854",
+    "geom:latitude":44.29854,
+    "geom:longitude":50.50456,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qyzylozen",
+    "gn:country_code":"KZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608995,
+    "gn:latitude":44.29854,
+    "gn:longitude":50.50456,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Qyzyl\u00f6zen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qyzyl\u00f6zen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0423\u0437\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Kyzyl-Uzen\u2019",
+        "Kyzylozen",
+        "Qyzyl\u00f6zen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608995
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0bedcf60f9b4e4bffc7275be2832e40c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785341,
+            "locality_id":1343954725,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1343954725,
+    "wof:lastmodified":1537659395,
+    "wof:name":"Qyzylozen",
+    "wof:parent_id":1108785341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.50456,
+    44.29854,
+    50.50456,
+    44.29854
+],
+  "geometry": {"coordinates":[50.50456,44.29854],"type":"Point"}
+}

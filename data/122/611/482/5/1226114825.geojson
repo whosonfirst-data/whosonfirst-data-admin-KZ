@@ -1,0 +1,79 @@
+{
+  "id": 1226114825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.97143,53.63659,66.97143,53.63659",
+    "geom:latitude":53.63659,
+    "geom:longitude":66.97143,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tel'manovo",
+    "gn:country_code":"KZ",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532143,
+    "gn:latitude":53.63659,
+    "gn:longitude":66.97143,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Tel\u2019manovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tel'manovo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0435\u043b\u044c\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u044c\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Tel\u2019manovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532143
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c6d40e35d5274c9ebac7dce7ef03eda4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1226114825,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226114825,
+    "wof:lastmodified":1537659959,
+    "wof:name":"Tel'manovo",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.97143,
+    53.63659000000001,
+    66.97143,
+    53.63659000000001
+],
+  "geometry": {"coordinates":[66.97143,53.63659000000001],"type":"Point"}
+}

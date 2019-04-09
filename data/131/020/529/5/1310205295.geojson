@@ -1,0 +1,77 @@
+{
+  "id": 1310205295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.53333,49.18333,54.53333,49.18333",
+    "geom:latitude":49.18333,
+    "geom:longitude":54.53333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dubrov",
+    "gn:country_code":"KZ",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610017,
+    "gn:latitude":49.18333,
+    "gn:longitude":54.53333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Dubrov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dubrov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Dobrov",
+        "Dubrov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610017
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5bb01a4ee8bb35b6eaa1982cfd72c151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785401,
+            "locality_id":1310205295,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1310205295,
+    "wof:lastmodified":1537659428,
+    "wof:name":"Dubrov",
+    "wof:parent_id":1108785401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.53333000000001,
+    49.18333,
+    54.53333000000001,
+    49.18333
+],
+  "geometry": {"coordinates":[54.53333000000001,49.18333],"type":"Point"}
+}

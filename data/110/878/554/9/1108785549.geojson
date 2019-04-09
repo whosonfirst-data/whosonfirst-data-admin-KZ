@@ -1,0 +1,119 @@
+{
+  "id": 1108785549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001415,
+    "geom:area_square_m":12629342.876245,
+    "geom:bbox":"51.1095597955,43.7465485461,51.1459411267,43.8156426821",
+    "geom:latitude":43.784218,
+    "geom:longitude":51.127106,
+    "iso:country":"KZ",
+    "lbl:latitude":43.787672,
+    "lbl:longitude":51.123798,
+    "meso:adm1_loc":"\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "meso:delete_fla":"2",
+    "meso:dissme":"\u041c\u0443\u043d\u0430\u0439\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "meso:gadm_adm1":"Mangghystau",
+    "meso:gadm_adm2":"Aqtau",
+    "meso:gadm_alt":"Aqtau (Shevchenko)",
+    "meso:gadm_hasc":"KZ.MG.AQ",
+    "meso:gaul_adm1":"Mangistauskaya",
+    "meso:gaul_adm2":"Aqtau City area",
+    "meso:mps_x":51.123798,
+    "meso:mps_y":43.787672,
+    "meso:name_en":"Aqtau",
+    "meso:name_loc":"\u041c\u0443\u043d\u0430\u0439\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+    "meso:type_loc":"Maslikhat",
+    "mps:latitude":43.787672,
+    "mps:longitude":51.123798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u043d\u0430\u0439\u043b\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Aqtau"
+    ],
+    "name:fre_x_preferred":[
+        "district de Munaily"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03bf\u03c5\u03bd\u03b1\u0390\u03bb\u03b9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u04b1\u043d\u0430\u0439\u043b\u044b \u0430\u0443\u0434\u0430\u043d\u044b"
+    ],
+    "name:may_x_preferred":[
+        "Daerah Munaily"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043d\u0430\u0439\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0430\u0439\u043b\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "\u041c\u0443\u043d\u0430\u0439\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Munayli"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"1999-04-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"1999-04-01",
+    "statoids:capital":"",
+    "statoids:country":"KZ",
+    "statoids:hasc":"KZ.MG",
+    "statoids:name":"Aqtau",
+    "statoids:population":"160800",
+    "statoids:statoid":"KZ.MG.AQ",
+    "statoids:timezone":"5",
+    "statoids:type":"maslikhat",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"KZ.MG.AQ",
+        "wd:id":"Q720411"
+    },
+    "wof:country":"KZ",
+    "wof:created":1481838027,
+    "wof:geomhash":"311ed776b8e217e39d594af158e4ddc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785549,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1108785549,
+    "wof:lastmodified":1536615805,
+    "wof:name":"Aqtau",
+    "wof:parent_id":85672923,
+    "wof:placetype":"county",
+    "wof:placetype_local":"maslikhat",
+    "wof:population":160800,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:shortcode":"AQ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.10955979550795,
+    43.74654854611943,
+    51.14594112671207,
+    43.81564268211397
+],
+  "geometry": {"coordinates":[[[51.13535034162135,43.80976629671549],[51.13548280799937,43.79522467962798],[51.13600491478521,43.78899211556282],[51.13690684363188,43.78403178782165],[51.13744640497984,43.78048928297849],[51.1381480811426,43.77807533124633],[51.13939465360146,43.77521806447366],[51.14063942971659,43.77190791569168],[51.14123451181551,43.76913769819663],[51.14202400981546,43.76646385365494],[51.14311444966008,43.76326375363731],[51.14459230385393,43.75938241273377],[51.14594112671207,43.75547515056489],[51.14557641141196,43.75193096166729],[51.14388071001266,43.74946492402574],[51.14067211423203,43.74811708847291],[51.13721255107489,43.74730201911713],[51.13531784975269,43.74692528261828],[51.13405471553789,43.74667412495238],[51.13342314843049,43.74654854611943],[51.13202651533683,43.75007865619212],[51.13062988224317,43.75360876626479],[51.12843133664472,43.7581939816907],[51.12659416226778,43.76160090066374],[51.12486730927559,43.76505360967894],[51.12251985923265,43.76904221410275],[51.11912373674946,43.77400040992352],[51.1141360541841,43.77973142088373],[51.11105808194573,43.78418160868221],[51.11092643960595,43.78786898181313],[51.11110972741751,43.79179461330662],[51.11078784866868,43.79799746877652],[51.1097559618632,43.80495412087663],[51.10955979550795,43.80932909855525],[51.11187886401949,43.81276843748293],[51.11725854103223,43.81564268211397],[51.12457544200458,43.8150224073736],[51.13184353347458,43.81165848397384],[51.13535034162135,43.80976629671549]]],"type":"Polygon"}
+}

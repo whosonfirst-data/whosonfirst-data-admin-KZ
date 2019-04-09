@@ -1,0 +1,73 @@
+{
+  "id": 1242692251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.66667,46.65,79.66667,46.65",
+    "geom:latitude":46.65,
+    "geom:longitude":79.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Arganaty",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526220,
+    "gn:latitude":46.65,
+    "gn:longitude":79.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Arganaty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arganatinskiy",
+        "Arganat\u00f6",
+        "Arganaty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526220
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7d98d22505ff4030d7bf2ff91ab77872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785417,
+            "locality_id":1242692251,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1242692251,
+    "wof:lastmodified":1537659904,
+    "wof:name":"Arganaty",
+    "wof:parent_id":1108785417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.66667,
+    46.65,
+    79.66667,
+    46.65
+],
+  "geometry": {"coordinates":[79.66667,46.65],"type":"Point"}
+}

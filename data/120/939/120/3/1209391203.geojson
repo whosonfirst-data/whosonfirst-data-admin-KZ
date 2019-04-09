@@ -1,0 +1,79 @@
+{
+  "id": 1209391203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.3026,53.71732,61.3026,53.71732",
+    "geom:latitude":53.71732,
+    "geom:longitude":61.3026,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Boskol'",
+    "gn:country_code":"KZ",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525105,
+    "gn:latitude":53.71732,
+    "gn:longitude":61.3026,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Boskol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Boskol'"
+    ],
+    "name:kaz_x_preferred":[
+        "Bosk\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u043e\u0441\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0441\u043a\u043e\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "Boskol\u2019"
+    ],
+    "name:und_x_variant":[
+        "Buskul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525105
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7e09579057acae21bfb7e17b05a22c97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209391203
+        }
+    ],
+    "wof:id":1209391203,
+    "wof:lastmodified":1537659861,
+    "wof:name":"Boskol'",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.3026,
+    53.71732,
+    61.3026,
+    53.71732
+],
+  "geometry": {"coordinates":[61.3026,53.71732],"type":"Point"}
+}

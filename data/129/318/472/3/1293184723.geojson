@@ -1,0 +1,67 @@
+{
+  "id": 1293184723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.13333,42.65,70.13333,42.65",
+    "geom:latitude":42.65,
+    "geom:longitude":70.13333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shavrovka",
+    "gn:country_code":"KZ",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519255,
+    "gn:latitude":42.65,
+    "gn:longitude":70.13333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Shavrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519255
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9fa179481603a16ab0ebad08ef572a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785605,
+            "locality_id":1293184723,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293184723,
+    "wof:lastmodified":1536727001,
+    "wof:name":"Shavrovka",
+    "wof:parent_id":1108785605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.13333,
+    42.65,
+    70.13333,
+    42.65
+],
+  "geometry": {"coordinates":[70.13333,42.65],"type":"Point"}
+}

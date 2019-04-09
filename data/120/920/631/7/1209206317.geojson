@@ -1,0 +1,73 @@
+{
+  "id": 1209206317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.88704,49.70749,48.88704,49.70749",
+    "geom:latitude":49.70749,
+    "geom:longitude":48.88704,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Konys",
+    "gn:country_code":"KZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609292,
+    "gn:latitude":49.70749,
+    "gn:longitude":48.88704,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Konys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Konys"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u044b\u0441"
+    ],
+    "name:und_x_variant":[
+        "Konyrsay",
+        "Imeni Lenina",
+        "Konursay",
+        "Konys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609292
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5f5219e2f1f514b4e156fdad9abc731e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209206317
+        }
+    ],
+    "wof:id":1209206317,
+    "wof:lastmodified":1537659406,
+    "wof:name":"Konys",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.88704,
+    49.70749,
+    48.88704,
+    49.70749
+],
+  "geometry": {"coordinates":[48.88704,49.70749],"type":"Point"}
+}

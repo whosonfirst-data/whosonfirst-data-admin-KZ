@@ -1,0 +1,65 @@
+{
+  "id": 890435963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.2,46.53333,76.2,46.53333",
+    "geom:latitude":46.53333,
+    "geom:longitude":76.2,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":2672,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Karabas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523470,
+        "qs:id":1031778,
+        "wk:page":"Karabas"
+    },
+    "wof:country":"KZ",
+    "wof:created":1469052088,
+    "wof:geomhash":"74625e5e8889eeeb5599af61b08d4cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890435963,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":890435963,
+    "wof:lastmodified":1527793044,
+    "wof:name":"Karabas",
+    "wof:parent_id":85672921,
+    "wof:placetype":"locality",
+    "wof:population":2672,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.2,
+    46.53333,
+    76.2,
+    46.53333
+],
+  "geometry": {"coordinates":[76.2,46.53333],"type":"Point"}
+}

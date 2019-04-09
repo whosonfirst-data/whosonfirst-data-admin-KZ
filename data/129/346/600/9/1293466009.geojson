@@ -1,0 +1,73 @@
+{
+  "id": 1293466009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.76839,43.57818,73.76839,43.57818",
+    "geom:latitude":43.57818,
+    "geom:longitude":73.76839,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Zhaysan",
+    "gn:country_code":"KZ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10969015,
+    "gn:latitude":43.57818,
+    "gn:longitude":73.76839,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Zhaysan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhaysan"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u0439\u0441\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10969015
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d6312960b1d6ca02f6ba3f112e16df82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785707,
+            "locality_id":1293466009,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1293466009,
+    "wof:lastmodified":1537660084,
+    "wof:name":"Zhaysan",
+    "wof:parent_id":1108785707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.76839,
+    43.57818,
+    73.76839,
+    43.57818
+],
+  "geometry": {"coordinates":[73.76839,43.57818],"type":"Point"}
+}

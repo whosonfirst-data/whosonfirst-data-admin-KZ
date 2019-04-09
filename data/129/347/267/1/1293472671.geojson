@@ -1,0 +1,77 @@
+{
+  "id": 1293472671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.89165,49.82951,82.89165,49.82951",
+    "geom:latitude":49.82951,
+    "geom:longitude":82.89165,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Novotroitsk",
+    "gn:country_code":"KZ",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1484492,
+    "gn:latitude":49.82951,
+    "gn:longitude":82.89165,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Novotroitsk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novotroitsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0442\u0440\u043e\u0438\u0446\u043a"
+    ],
+    "name:und_x_variant":[
+        "Surovo",
+        "Novotroitsk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1484492
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fff9bfcc12206db838c908f8da8f54a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785475,
+            "locality_id":1293472671,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293472671,
+    "wof:lastmodified":1537659465,
+    "wof:name":"Novotroitsk",
+    "wof:parent_id":1108785475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.89165,
+    49.82951,
+    82.89165,
+    49.82951
+],
+  "geometry": {"coordinates":[82.89165,49.82951],"type":"Point"}
+}

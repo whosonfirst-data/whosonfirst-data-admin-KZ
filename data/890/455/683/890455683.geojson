@@ -1,0 +1,73 @@
+{
+  "id": 890455683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.83361,48.85611,46.83361,48.85611",
+    "geom:latitude":48.85611,
+    "geom:longitude":46.83361,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":4825,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saykhin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0439\u0445\u0438\u043d"
+    ],
+    "qs:name":"Saykhin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608413,
+        "gp:id":56125566,
+        "qs:id":550252,
+        "wd:id":"Q4405313",
+        "wk:page":"Saykyn"
+    },
+    "wof:country":"KZ",
+    "wof:created":1469052971,
+    "wof:geomhash":"7e730d21fe5e666ccecfda04ac8395fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890455683,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":890455683,
+    "wof:lastmodified":1527735397,
+    "wof:name":"Saykhin",
+    "wof:parent_id":85672893,
+    "wof:placetype":"locality",
+    "wof:population":4825,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.83361,
+    48.85611,
+    46.83361,
+    48.85611
+],
+  "geometry": {"coordinates":[46.83361,48.85611],"type":"Point"}
+}

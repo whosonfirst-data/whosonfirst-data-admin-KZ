@@ -1,0 +1,72 @@
+{
+  "id": 1193030465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.98333,49.25,51.98333,49.25",
+    "geom:latitude":49.25,
+    "geom:longitude":51.98333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Balnistobe",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610447,
+    "gn:latitude":49.25,
+    "gn:longitude":51.98333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Balnistobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balnis-Tyube",
+        "Balnistobe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610447
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e364a0f30702c45085beee8b98462be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1193030465,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1193030465,
+    "wof:lastmodified":1537659443,
+    "wof:name":"Balnistobe",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.98333,
+    49.25,
+    51.98333,
+    49.25
+],
+  "geometry": {"coordinates":[51.98333,49.25],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1209603363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.8335,52.72255,75.8335,52.72255",
+    "geom:latitude":52.72255,
+    "geom:longitude":75.8335,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Cheryomushka",
+    "gn:country_code":"KZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535369,
+    "gn:latitude":52.72255,
+    "gn:longitude":75.8335,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Cheryom\u016bshka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cheremushka"
+    ],
+    "name:kaz_x_preferred":[
+        "Cheryom\u016bshka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0427\u0435\u0440\u0451\u043c\u0443\u0448\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u043c\u0443\u0448\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "Cher\u00ebmushka"
+    ],
+    "name:und_x_variant":[
+        "Cheremushka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535369
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ef3bc1dbde9a4a990a85f3ce2a7ca0ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209603363
+        }
+    ],
+    "wof:id":1209603363,
+    "wof:lastmodified":1537659991,
+    "wof:name":"Cheryomushka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.8335,
+    52.72255,
+    75.8335,
+    52.72255
+],
+  "geometry": {"coordinates":[75.8335,52.72255],"type":"Point"}
+}

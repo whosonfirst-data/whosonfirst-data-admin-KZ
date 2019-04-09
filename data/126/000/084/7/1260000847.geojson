@@ -1,0 +1,77 @@
+{
+  "id": 1260000847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.78294,49.90054,49.78294,49.90054",
+    "geom:latitude":49.90054,
+    "geom:longitude":49.78294,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Malyy Taldykuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":856952,
+    "gn:latitude":49.90054,
+    "gn:longitude":49.78294,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Malyy Taldykuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malyy Taldykuduk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b.\u0422\u0430\u043b\u0434\u044b\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "Taldykuduk",
+        "Malyy Taldykuduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":856952
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f2a6bd4332f8f347a6876bf06d6c3d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1260000847,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1260000847,
+    "wof:lastmodified":1537659459,
+    "wof:name":"Malyy Taldykuduk",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.78294,
+    49.90054,
+    49.78294,
+    49.90054
+],
+  "geometry": {"coordinates":[49.78294,49.90054],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1310471473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.04453,52.90322,68.04453,52.90322",
+    "geom:latitude":52.90322,
+    "geom:longitude":68.04453,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tselinnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518008,
+    "gn:latitude":52.90322,
+    "gn:longitude":68.04453,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Tselinnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tselinnoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Tsel\u012bnnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0426\u0435\u043b\u0438\u043d\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u043b\u0438\u043d\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Yedrenka",
+        "Tselinnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518008
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"967279298c316ea5341e08f49fa8d870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1310471473,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310471473,
+    "wof:lastmodified":1537659546,
+    "wof:name":"Tselinnoye",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.04453000000001,
+    52.90322,
+    68.04453000000001,
+    52.90322
+],
+  "geometry": {"coordinates":[68.04453000000001,52.90322],"type":"Point"}
+}

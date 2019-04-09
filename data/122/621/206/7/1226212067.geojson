@@ -1,0 +1,77 @@
+{
+  "id": 1226212067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.51667,53.1,73.51667,53.1",
+    "geom:latitude":53.1,
+    "geom:longitude":73.51667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Alimsere",
+    "gn:country_code":"KZ",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526403,
+    "gn:latitude":53.1,
+    "gn:longitude":73.51667,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Alimsere",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Alimsere"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0441\u043a\u0430\u0439\u0440\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "Zhaskayrat",
+        "Alimsere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526403
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a5e79e8f5ccee88b19a33def53fe154a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785367,
+            "locality_id":1226212067,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226212067,
+    "wof:lastmodified":1537659912,
+    "wof:name":"Alimsere",
+    "wof:parent_id":1108785367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.51666999999998,
+    53.1,
+    73.51666999999998,
+    53.1
+],
+  "geometry": {"coordinates":[73.51666999999998,53.1],"type":"Point"}
+}

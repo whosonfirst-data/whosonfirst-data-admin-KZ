@@ -1,0 +1,79 @@
+{
+  "id": 1226425227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.43147,49.63128,84.43147,49.63128",
+    "geom:latitude":49.63128,
+    "geom:longitude":84.43147,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Novokrest'yanka",
+    "gn:country_code":"KZ",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534611,
+    "gn:latitude":49.63128,
+    "gn:longitude":84.43147,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Novokrest\u2019yanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novokrest'yanka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043a\u0440\u0435\u0441\u0442\u044c\u044f\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043a\u0440\u0435\u0441\u0442\u044c\u044f\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novokrest\u2019yanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534611
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3091626f48b3746087a606813fc79573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1226425227,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226425227,
+    "wof:lastmodified":1537659984,
+    "wof:name":"Novokrest'yanka",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.43146999999998,
+    49.63128,
+    84.43146999999998,
+    49.63128
+],
+  "geometry": {"coordinates":[84.43146999999998,49.63128],"type":"Point"}
+}

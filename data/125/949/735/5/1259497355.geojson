@@ -1,0 +1,79 @@
+{
+  "id": 1259497355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.69969,44.20671,77.69969,44.20671",
+    "geom:latitude":44.20671,
+    "geom:longitude":77.69969,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qarlyghash",
+    "gn:country_code":"KZ",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055358,
+    "gn:latitude":44.20671,
+    "gn:longitude":77.69969,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Qarlyghash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarlyghash"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u043b\u044b\u0493\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u044b\u0433\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Karlygash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055358
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"01153a74de53d20f051241f6f8703585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785423,
+            "locality_id":1259497355,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1259497355,
+    "wof:lastmodified":1537660092,
+    "wof:name":"Qarlyghash",
+    "wof:parent_id":1108785423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.69969,
+    44.20671,
+    77.69969,
+    44.20671
+],
+  "geometry": {"coordinates":[77.69969,44.20671],"type":"Point"}
+}

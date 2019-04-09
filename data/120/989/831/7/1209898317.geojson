@@ -1,0 +1,70 @@
+{
+  "id": 1209898317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.39142,54.45346,67.39142,54.45346",
+    "geom:latitude":54.45346,
+    "geom:longitude":67.39142,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Boyevik",
+    "gn:country_code":"KZ",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530899,
+    "gn:latitude":54.45346,
+    "gn:longitude":67.39142,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Boyevik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0435\u0432\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530899
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"55e7b553cdbaacd0851548b359c475bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1209898317,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1209898317,
+    "wof:lastmodified":1537659947,
+    "wof:name":"Boyevik",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.39142,
+    54.45346,
+    67.39142,
+    54.45346
+],
+  "geometry": {"coordinates":[67.39142,54.45346],"type":"Point"}
+}

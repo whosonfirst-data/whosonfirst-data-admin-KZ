@@ -1,0 +1,80 @@
+{
+  "id": 890422383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.59684,52.6612,66.59684,52.6612",
+    "geom:latitude":52.6612,
+    "geom:longitude":66.59684,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":950,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Volodarskoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Volodarskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u043e\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u043e\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Ponomar\u00ebvskiy"
+    ],
+    "qs:name":"Volodarskoye",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":101,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517411,
+        "qs:id":556498,
+        "wk:page":"Volodarsky"
+    },
+    "wof:country":"KZ",
+    "wof:created":1469051440,
+    "wof:geomhash":"a73ba82a6e7c96e004e6ec3caa4e907d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890422383,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":890422383,
+    "wof:lastmodified":1527727161,
+    "wof:name":"Volodarskoye",
+    "wof:parent_id":85672907,
+    "wof:placetype":"locality",
+    "wof:population":950,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.59684,
+    52.6612,
+    66.59684,
+    52.6612
+],
+  "geometry": {"coordinates":[66.59684,52.6612],"type":"Point"}
+}

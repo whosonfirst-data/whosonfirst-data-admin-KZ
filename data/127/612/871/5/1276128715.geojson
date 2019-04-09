@@ -1,0 +1,78 @@
+{
+  "id": 1276128715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.13333,49.6,50.13333,49.6",
+    "geom:latitude":49.6,
+    "geom:longitude":50.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mulda-Shegen",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608782,
+    "gn:latitude":49.6,
+    "gn:longitude":50.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mulda-Shegen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mulda-Shegen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u0434\u0430\u0448\u0435\u0433\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Mulda-Shigen",
+        "Mulda-Shegen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608782
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6b8dab3f56377caa69725209b5ad7fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1276128715,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1276128715,
+    "wof:lastmodified":1537659388,
+    "wof:name":"Mulda-Shegen",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.13333,
+    49.6,
+    50.13333,
+    49.6
+],
+  "geometry": {"coordinates":[50.13333,49.6],"type":"Point"}
+}

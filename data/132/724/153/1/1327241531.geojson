@@ -1,0 +1,73 @@
+{
+  "id": 1327241531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.37856,52.52262,62.37856,52.52262",
+    "geom:latitude":52.52262,
+    "geom:longitude":62.37856,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pridorozhnyy",
+    "gn:country_code":"KZ",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520044,
+    "gn:latitude":52.52262,
+    "gn:longitude":62.37856,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Pridorozhnyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pridorozhnyy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520044
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0cbde8e64a8dbdd5b8cd032dcd730a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785535,
+            "locality_id":1327241531,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1327241531,
+    "wof:lastmodified":1537659633,
+    "wof:name":"Pridorozhnyy",
+    "wof:parent_id":1108785535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.37856,
+    52.52262,
+    62.37856,
+    52.52262
+],
+  "geometry": {"coordinates":[62.37856,52.52262],"type":"Point"}
+}

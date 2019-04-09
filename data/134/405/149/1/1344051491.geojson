@@ -1,0 +1,67 @@
+{
+  "id": 1344051491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.58333,45.16667,52.58333,45.16667",
+    "geom:latitude":45.16667,
+    "geom:longitude":52.58333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Turum",
+    "gn:country_code":"KZ",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607918,
+    "gn:latitude":45.16667,
+    "gn:longitude":52.58333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Turum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607918
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"731bbb58a8af934e1195369ee7194674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785543,
+            "locality_id":1344051491,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1344051491,
+    "wof:lastmodified":1536888167,
+    "wof:name":"Turum",
+    "wof:parent_id":1108785543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.58333,
+    45.16667,
+    52.58333,
+    45.16667
+],
+  "geometry": {"coordinates":[52.58333,45.16667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 890449763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.327426,45.634026,63.327426,45.634026",
+    "geom:latitude":45.634026,
+    "geom:longitude":63.327426,
+    "gn:country":"KZ",
+    "gp:adm0":23424871,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Leninsk",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Qyzylorda",
+    "qs:photos":614,
+    "qs:photos_1k":124,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":614,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        102191581,
+        85632685,
+        874393555,
+        85681265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2259865,
+        "qs:id":1131068,
+        "wk:page":"Leninsk"
+    },
+    "wof:country":"KZ",
+    "wof:created":1469052708,
+    "wof:geomhash":"691d41ace944f293c54598f7516d7712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890449763,
+            "region_id":85672885
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "empire_id":874393555,
+            "locality_id":890449763,
+            "region_id":85681265
+        }
+    ],
+    "wof:id":890449763,
+    "wof:lastmodified":1527727154,
+    "wof:name":"Leninsk",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.327426,
+    45.634026,
+    63.327426,
+    45.634026
+],
+  "geometry": {"coordinates":[63.327426,45.634026],"type":"Point"}
+}

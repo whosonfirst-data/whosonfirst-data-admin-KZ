@@ -1,0 +1,76 @@
+{
+  "id": 1260262173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.94486,49.98365,63.94486,49.98365",
+    "geom:latitude":49.98365,
+    "geom:longitude":63.94486,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Taush",
+    "gn:country_code":"KZ",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518343,
+    "gn:latitude":49.98365,
+    "gn:longitude":63.94486,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Taush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "T\u00e4\u016bish"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0443\u0448"
+    ],
+    "name:und_x_variant":[
+        "T\u00e4\u016bish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518343
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dcea773db9275b06ce73b0684b1c7164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1260262173,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1260262173,
+    "wof:lastmodified":1537659560,
+    "wof:name":"Taush",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.94486,
+    49.98365,
+    63.94486,
+    49.98365
+],
+  "geometry": {"coordinates":[63.94486,49.98365],"type":"Point"}
+}

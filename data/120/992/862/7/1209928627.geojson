@@ -1,0 +1,67 @@
+{
+  "id": 1209928627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.7,43.45,77.7,43.45",
+    "geom:latitude":43.45,
+    "geom:longitude":77.7,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Enbekshikazakhsk",
+    "gn:country_code":"KZ",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7910311,
+    "gn:latitude":43.45,
+    "gn:longitude":77.7,
+    "gn:modification_date":"2011-07-21",
+    "gn:name":"Enbekshikazakhsk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7910311
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"66fe63f29f9ed86dfbfd91cd22839d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1209928627,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1209928627,
+    "wof:lastmodified":1536393741,
+    "wof:name":"Enbekshikazakhsk",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.7,
+    43.45,
+    77.7,
+    43.45
+],
+  "geometry": {"coordinates":[77.7,43.45],"type":"Point"}
+}

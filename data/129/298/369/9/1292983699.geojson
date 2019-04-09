@@ -1,0 +1,70 @@
+{
+  "id": 1292983699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.69585,49.20511,86.69585,49.20511",
+    "geom:latitude":49.20511,
+    "geom:longitude":86.69585,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kurtinskaya",
+    "gn:country_code":"KZ",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11453718,
+    "gn:latitude":49.20511,
+    "gn:longitude":86.69585,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Kurtinskaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0442\u0438\u043d\u0441\u043a\u0430\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11453718
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bd365d29927b1c421ec8bf266f07603c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1292983699,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1292983699,
+    "wof:lastmodified":1537660154,
+    "wof:name":"Kurtinskaya",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.69585,
+    49.20511,
+    86.69585,
+    49.20511
+],
+  "geometry": {"coordinates":[86.69584999999999,49.20511],"type":"Point"}
+}

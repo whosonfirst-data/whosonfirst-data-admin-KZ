@@ -1,0 +1,67 @@
+{
+  "id": 1276736401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.91667,45.01667,63.91667,45.01667",
+    "geom:latitude":45.01667,
+    "geom:longitude":63.91667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Imeni Karla Marksa",
+    "gn:country_code":"KZ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524005,
+    "gn:latitude":45.01667,
+    "gn:longitude":63.91667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Imeni Karla Marksa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524005
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"eea1a9e6373358ad3a8d4e0262d356d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785695,
+            "locality_id":1276736401,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1276736401,
+    "wof:lastmodified":1536735909,
+    "wof:name":"Imeni Karla Marksa",
+    "wof:parent_id":1108785695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.91667,
+    45.01667,
+    63.91667,
+    45.01667
+],
+  "geometry": {"coordinates":[63.91667,45.01667],"type":"Point"}
+}

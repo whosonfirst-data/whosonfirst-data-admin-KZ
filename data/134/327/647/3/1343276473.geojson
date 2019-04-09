@@ -1,0 +1,67 @@
+{
+  "id": 1343276473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.13716,51.92088,71.13716,51.92088",
+    "geom:latitude":51.92088,
+    "geom:longitude":71.13716,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Romadan",
+    "gn:country_code":"KZ",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519868,
+    "gn:latitude":51.92088,
+    "gn:longitude":71.13716,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Romadan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519868
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c899c00522ec22d8cbf7ef957b12f71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1343276473,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343276473,
+    "wof:lastmodified":1537011022,
+    "wof:name":"Romadan",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.13716,
+    51.92088,
+    71.13716,
+    51.92088
+],
+  "geometry": {"coordinates":[71.13715999999999,51.92088],"type":"Point"}
+}

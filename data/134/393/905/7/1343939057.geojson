@@ -1,0 +1,76 @@
+{
+  "id": 1343939057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.99702,51.00007,74.99702,51.00007",
+    "geom:latitude":51.00007,
+    "geom:longitude":74.99702,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Qarashoqy",
+    "gn:country_code":"KZ",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523189,
+    "gn:latitude":51.00007,
+    "gn:longitude":74.99702,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Qarashoqy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarashoqy"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0448\u043e\u049b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Karashoky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523189
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b57a9eaba04ea65d7fd73f16fa1843fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1343939057,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343939057,
+    "wof:lastmodified":1537659786,
+    "wof:name":"Qarashoqy",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.99701999999998,
+    51.00007,
+    74.99701999999998,
+    51.00007
+],
+  "geometry": {"coordinates":[74.99701999999998,51.00007],"type":"Point"}
+}

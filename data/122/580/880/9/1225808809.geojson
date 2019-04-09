@@ -1,0 +1,70 @@
+{
+  "id": 1225808809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.99351,43.10339,72.99351,43.10339",
+    "geom:latitude":43.10339,
+    "geom:longitude":72.99351,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kurazaty",
+    "gn:country_code":"KZ",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11010605,
+    "gn:latitude":43.10339,
+    "gn:longitude":72.99351,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Kurazaty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0430\u0437\u0430\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11010605
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2fdd6a7e6b01aae67f6768ad77662207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785489,
+            "locality_id":1225808809,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1225808809,
+    "wof:lastmodified":1537660090,
+    "wof:name":"Kurazaty",
+    "wof:parent_id":1108785489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.99351,
+    43.10339000000001,
+    72.99351,
+    43.10339000000001
+],
+  "geometry": {"coordinates":[72.99351,43.10339000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360157245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.47904,54.22976,67.47904,54.22976",
+    "geom:latitude":54.22976,
+    "geom:longitude":67.47904,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ortakol'",
+    "gn:country_code":"KZ",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530920,
+    "gn:latitude":54.22976,
+    "gn:longitude":67.47904,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Ortakol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ortakol\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u0440\u0442\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530920
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fe084503cbbc612b03665547781463f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1360157245,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1360157245,
+    "wof:lastmodified":1537659947,
+    "wof:name":"Ortakol'",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.47904,
+    54.22976,
+    67.47904,
+    54.22976
+],
+  "geometry": {"coordinates":[67.47904,54.22976],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293090815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.41667,44.35,50.41667,44.35",
+    "geom:latitude":44.35,
+    "geom:longitude":50.41667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aralda",
+    "gn:country_code":"KZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610607,
+    "gn:latitude":44.35,
+    "gn:longitude":50.41667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Aralda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610607
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"16d194d40f83007f3aad8be8535670a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785341,
+            "locality_id":1293090815,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1293090815,
+    "wof:lastmodified":1536860545,
+    "wof:name":"Aralda",
+    "wof:parent_id":1108785341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.41667,
+    44.35,
+    50.41667,
+    44.35
+],
+  "geometry": {"coordinates":[50.41667,44.35],"type":"Point"}
+}

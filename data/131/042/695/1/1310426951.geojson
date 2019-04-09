@@ -1,0 +1,73 @@
+{
+  "id": 1310426951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.91699,51.18789,52.91699,51.18789",
+    "geom:latitude":51.18789,
+    "geom:longitude":52.91699,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Araltal",
+    "gn:country_code":"KZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610601,
+    "gn:latitude":51.18789,
+    "gn:longitude":52.91699,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Araltal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Araltal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u043b\u0442\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610601
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1f5f0850b1ab61e82d9fe43732f9352d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785325,
+            "locality_id":1310426951,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1310426951,
+    "wof:lastmodified":1537659448,
+    "wof:name":"Araltal",
+    "wof:parent_id":1108785325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.91699000000001,
+    51.18789,
+    52.91699000000001,
+    51.18789
+],
+  "geometry": {"coordinates":[52.91699000000001,51.18789],"type":"Point"}
+}

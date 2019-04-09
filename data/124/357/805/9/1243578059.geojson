@@ -1,0 +1,77 @@
+{
+  "id": 1243578059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.25906,49.80649,57.25906,49.80649",
+    "geom:latitude":49.80649,
+    "geom:longitude":57.25906,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Novoukrainka",
+    "gn:country_code":"KZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608701,
+    "gn:latitude":49.80649,
+    "gn:longitude":57.25906,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Novoukrainka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novoukrainka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0443\u043a\u0440\u0430\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novoukrainskiy",
+        "Novoukrainka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608701
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aa6232aa333d24363ac8b28524a6f492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785521,
+            "locality_id":1243578059,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1243578059,
+    "wof:lastmodified":1537659384,
+    "wof:name":"Novoukrainka",
+    "wof:parent_id":1108785521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.25906,
+    49.80649,
+    57.25906,
+    49.80649
+],
+  "geometry": {"coordinates":[57.25906,49.80649],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243431551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.83333,50.58333,72.83333,50.58333",
+    "geom:latitude":50.58333,
+    "geom:longitude":72.83333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Internatsional'nyy",
+    "gn:country_code":"KZ",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523801,
+    "gn:latitude":50.58333,
+    "gn:longitude":72.83333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Internatsional\u2019nyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Internatsional\u2019naya",
+        "Internatsional\u2019nyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523801
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"268becd9881b1bfcfb0447886a23dcb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1243431551,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1243431551,
+    "wof:lastmodified":1537659807,
+    "wof:name":"Internatsional'nyy",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.83333,
+    50.58333,
+    72.83333,
+    50.58333
+],
+  "geometry": {"coordinates":[72.83333,50.58333],"type":"Point"}
+}

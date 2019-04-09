@@ -1,0 +1,71 @@
+{
+  "id": 1209095301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.87483,42.09328,69.87483,42.09328",
+    "geom:latitude":42.09328,
+    "geom:longitude":69.87483,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pervomayevka",
+    "gn:country_code":"KZ",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520212,
+    "gn:latitude":42.09328,
+    "gn:longitude":69.87483,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Pervomayevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dorofeyevka",
+        "Pervomayevka",
+        "Pervomayka",
+        "Pervomayskoye",
+        "Pervomaevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520212
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"74a52c956d219f10765d1a33df0f91be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209095301
+        }
+    ],
+    "wof:id":1209095301,
+    "wof:lastmodified":1537659644,
+    "wof:name":"Pervomayevka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.87483,
+    42.09328,
+    69.87483,
+    42.09328
+],
+  "geometry": {"coordinates":[69.87483,42.09328],"type":"Point"}
+}

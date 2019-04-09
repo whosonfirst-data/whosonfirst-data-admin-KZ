@@ -1,0 +1,82 @@
+{
+  "id": 1193241907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.90696,42.98272,74.90696,42.98272",
+    "geom:latitude":42.98272,
+    "geom:longitude":74.90696,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chernaya Rechka",
+    "gn:country_code":"KZ",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528552,
+    "gn:latitude":42.98272,
+    "gn:longitude":74.90696,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Ch\u00ebrnaya Rechka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Karas\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0430\u0440\u0430\u0441\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "Ch\u00ebrnaya Rechka"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0451\u0440\u043d\u0430\u044f \u0420\u0435\u0447\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chernorechenskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528552
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"09706fc1cc89022499b8fa354f7e38b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785317,
+            "locality_id":1193241907,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1193241907,
+    "wof:lastmodified":1537659932,
+    "wof:name":"Chernaya Rechka",
+    "wof:parent_id":1108785317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.90696,
+    42.98272,
+    74.90696,
+    42.98272
+],
+  "geometry": {"coordinates":[74.90696,42.98272],"type":"Point"}
+}

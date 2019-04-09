@@ -1,0 +1,79 @@
+{
+  "id": 1260290957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.03332,49.90261,59.03332,49.90261",
+    "geom:latitude":49.90261,
+    "geom:longitude":59.03332,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Amangel'dy",
+    "gn:country_code":"KZ",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610634,
+    "gn:latitude":49.90261,
+    "gn:longitude":59.03332,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Amangel\u2019dy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amangel'dy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u044c\u0434\u044b"
+    ],
+    "name:rus_x_variant":[
+        "Amangel\u2019dy"
+    ],
+    "name:und_x_variant":[
+        "Krasnyy Oktyabr\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610634
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8af745a7434a70215f74b927ed04b950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785523,
+            "locality_id":1260290957,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1260290957,
+    "wof:lastmodified":1537659449,
+    "wof:name":"Amangel'dy",
+    "wof:parent_id":1108785523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.03332,
+    49.90261,
+    59.03332,
+    49.90261
+],
+  "geometry": {"coordinates":[59.03332,49.90261],"type":"Point"}
+}

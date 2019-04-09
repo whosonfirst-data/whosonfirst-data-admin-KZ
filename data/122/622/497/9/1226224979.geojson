@@ -1,0 +1,70 @@
+{
+  "id": 1226224979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.06941,49.36999,85.06941,49.36999",
+    "geom:latitude":49.36999,
+    "geom:longitude":85.06941,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Akulovka",
+    "gn:country_code":"KZ",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534760,
+    "gn:latitude":49.36999,
+    "gn:longitude":85.06941,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Akulovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0443\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534760
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d843ea19298cb8fc27b51a1585e15188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1226224979,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226224979,
+    "wof:lastmodified":1537659986,
+    "wof:name":"Akulovka",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.06940999999998,
+    49.36999,
+    85.06940999999998,
+    49.36999
+],
+  "geometry": {"coordinates":[85.06940999999998,49.36999],"type":"Point"}
+}

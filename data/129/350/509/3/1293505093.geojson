@@ -1,0 +1,80 @@
+{
+  "id": 1293505093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.89797,42.79989,79.89797,42.79989",
+    "geom:latitude":42.79989,
+    "geom:longitude":79.89797,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kokpak",
+    "gn:country_code":"KZ",
+    "gn:dem":1838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522510,
+    "gn:latitude":42.79989,
+    "gn:longitude":79.89797,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Kokpak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaqpaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u049b\u043f\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u043f\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kakpak",
+        "Kokpak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522510
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b4f7e9ed3e1093fa4941ce340696e1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1293505093,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293505093,
+    "wof:lastmodified":1537659761,
+    "wof:name":"Kokpak",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.89797,
+    42.79989000000001,
+    79.89797,
+    42.79989000000001
+],
+  "geometry": {"coordinates":[79.89797,42.79989000000001],"type":"Point"}
+}

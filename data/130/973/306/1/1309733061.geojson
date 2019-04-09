@@ -1,0 +1,78 @@
+{
+  "id": 1309733061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.26111,49.15444,49.26111,49.15444",
+    "geom:latitude":49.15444,
+    "geom:longitude":49.26111,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baldyrgan",
+    "gn:country_code":"KZ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610242,
+    "gn:latitude":49.15444,
+    "gn:longitude":49.26111,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Baldyrgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baldyrgan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0434\u044b\u0440\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Yesendyk",
+        "Bol\u2019shevik",
+        "Baldyrgan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610242
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f743ce429929ddb7f22699704ce5582c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1309733061,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1309733061,
+    "wof:lastmodified":1537659435,
+    "wof:name":"Baldyrgan",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.26111,
+    49.15444,
+    49.26111,
+    49.15444
+],
+  "geometry": {"coordinates":[49.26111,49.15444],"type":"Point"}
+}

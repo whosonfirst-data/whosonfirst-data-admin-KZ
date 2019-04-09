@@ -1,0 +1,71 @@
+{
+  "id": 1277088449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.06111,43.40278,77.06111,43.40278",
+    "geom:latitude":43.40278,
+    "geom:longitude":77.06111,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nomer Dva Kolkhoza Kyzyltu Brigada",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526402,
+    "gn:latitude":43.40278,
+    "gn:longitude":77.06111,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Nomer Dva Kolkhoza Kyzyltu Brigada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alimzhanov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526402
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cdf42cee4e5a58d2698782b8a1ea4ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785421,
+            "locality_id":1277088449,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1277088449,
+    "wof:lastmodified":1537659912,
+    "wof:name":"Nomer Dva Kolkhoza Kyzyltu Brigada",
+    "wof:parent_id":1108785421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.06111,
+    43.40278,
+    77.06111,
+    43.40278
+],
+  "geometry": {"coordinates":[77.06111,43.40278],"type":"Point"}
+}

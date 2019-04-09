@@ -1,0 +1,84 @@
+{
+  "id": 1260059437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.66903,54.09908,63.66903,54.09908",
+    "geom:latitude":54.09908,
+    "geom:longitude":63.66903,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kareninka",
+    "gn:country_code":"KZ",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523016,
+    "gn:latitude":54.09908,
+    "gn:longitude":63.66903,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kareninka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kareninka"
+    ],
+    "name:kaz_x_preferred":[
+        "Karen\u012bnka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0430\u0440\u0435\u043d\u0438\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0435\u043d\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Karenenskiy",
+        "Kareninskiy",
+        "Kareninka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523016
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ca75079e9602c4048788b4da3f6efc9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785385,
+            "locality_id":1260059437,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1260059437,
+    "wof:lastmodified":1537659781,
+    "wof:name":"Kareninka",
+    "wof:parent_id":1108785385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.66903000000001,
+    54.09908000000001,
+    63.66903000000001,
+    54.09908000000001
+],
+  "geometry": {"coordinates":[63.66903000000001,54.09908000000001],"type":"Point"}
+}

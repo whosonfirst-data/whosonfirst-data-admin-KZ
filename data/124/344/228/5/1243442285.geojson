@@ -1,0 +1,73 @@
+{
+  "id": 1243442285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.09509,51.0473,74.09509,51.0473",
+    "geom:latitude":51.0473,
+    "geom:longitude":74.09509,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bol'shevik",
+    "gn:country_code":"KZ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11415296,
+    "gn:latitude":51.0473,
+    "gn:longitude":74.09509,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Bol\u2019shevik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bol\u2019shevik"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u0435\u0432\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11415296
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"18f78e325baaba8dfd3b2b9f4085e1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785733,
+            "locality_id":1243442285,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1243442285,
+    "wof:lastmodified":1537660142,
+    "wof:name":"Bol'shevik",
+    "wof:parent_id":1108785733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.09509,
+    51.0473,
+    74.09509,
+    51.0473
+],
+  "geometry": {"coordinates":[74.09509,51.0473],"type":"Point"}
+}

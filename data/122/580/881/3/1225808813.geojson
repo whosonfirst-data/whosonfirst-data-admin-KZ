@@ -1,0 +1,70 @@
+{
+  "id": 1225808813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.76345,43.5306,73.76345,43.5306",
+    "geom:latitude":43.5306,
+    "geom:longitude":73.76345,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kamshaly",
+    "gn:country_code":"KZ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10969018,
+    "gn:latitude":43.5306,
+    "gn:longitude":73.76345,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Kamshaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0448\u0430\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10969018
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4b00b0f4bdbc0d532a858d70ee7b0591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785707,
+            "locality_id":1225808813,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1225808813,
+    "wof:lastmodified":1537660084,
+    "wof:name":"Kamshaly",
+    "wof:parent_id":1108785707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.76345,
+    43.5306,
+    73.76345,
+    43.5306
+],
+  "geometry": {"coordinates":[73.76345000000001,43.5306],"type":"Point"}
+}

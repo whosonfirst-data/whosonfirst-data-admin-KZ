@@ -1,0 +1,73 @@
+{
+  "id": 1209191593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.56596,49.57192,76.56596,49.57192",
+    "geom:latitude":49.57192,
+    "geom:longitude":76.56596,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhylandy",
+    "gn:country_code":"KZ",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492150,
+    "gn:latitude":49.57192,
+    "gn:longitude":76.56596,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Zhylandy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhylandy"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u044b\u043b\u0430\u043d\u0434\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u043b\u0430\u043d\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Zhilandy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492150
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"92d087c83954baa0d5f95844de20e271",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209191593
+        }
+    ],
+    "wof:id":1209191593,
+    "wof:lastmodified":1537660163,
+    "wof:name":"Zhylandy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.56596,
+    49.57192,
+    76.56596,
+    49.57192
+],
+  "geometry": {"coordinates":[76.56596,49.57192],"type":"Point"}
+}

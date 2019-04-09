@@ -1,0 +1,79 @@
+{
+  "id": 1326508485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.46576,53.04331,77.46576,53.04331",
+    "geom:latitude":53.04331,
+    "geom:longitude":77.46576,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mayqamys",
+    "gn:country_code":"KZ",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11027516,
+    "gn:latitude":53.04331,
+    "gn:longitude":77.46576,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Mayqamys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Mayqamys"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0430\u0439\u049b\u0430\u043c\u044b\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u041c\u0430\u0439\u043a\u0430\u043c\u044b\u0441"
+    ],
+    "name:und_x_variant":[
+        "Razvaliny Maykamys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11027516
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e4a1d9c5c67ef70ee4acfd25da9d341f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785351,
+            "locality_id":1326508485,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1326508485,
+    "wof:lastmodified":1537660091,
+    "wof:name":"Mayqamys",
+    "wof:parent_id":1108785351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.46576,
+    53.04331,
+    77.46576,
+    53.04331
+],
+  "geometry": {"coordinates":[77.46576,53.04331],"type":"Point"}
+}

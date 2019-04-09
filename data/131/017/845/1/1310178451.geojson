@@ -1,0 +1,67 @@
+{
+  "id": 1310178451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2,50.0,81.2,50.0",
+    "geom:latitude":50.0,
+    "geom:longitude":81.2,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Muratovskaya",
+    "gn:country_code":"KZ",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520821,
+    "gn:latitude":50.0,
+    "gn:longitude":81.2,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Muratovskaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520821
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8c236611f6229045a39753147861943f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1310178451,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310178451,
+    "wof:lastmodified":1536891080,
+    "wof:name":"Muratovskaya",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2,
+    50.0,
+    81.2,
+    50.0
+],
+  "geometry": {"coordinates":[81.2,50.0],"type":"Point"}
+}

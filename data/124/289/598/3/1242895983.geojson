@@ -1,0 +1,67 @@
+{
+  "id": 1242895983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.21667,46.6,49.21667,46.6",
+    "geom:latitude":46.6,
+    "geom:longitude":49.21667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Urle",
+    "gn:country_code":"KZ",
+    "gn:dem":-29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607839,
+    "gn:latitude":46.6,
+    "gn:longitude":49.21667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Urle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607839
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0ba01662bdcc830c01d36a382250ce9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1242895983,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1242895983,
+    "wof:lastmodified":1536601938,
+    "wof:name":"Urle",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.21667,
+    46.6,
+    49.21667,
+    46.6
+],
+  "geometry": {"coordinates":[49.21667,46.6],"type":"Point"}
+}

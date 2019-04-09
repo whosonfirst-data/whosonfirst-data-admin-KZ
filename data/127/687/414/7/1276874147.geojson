@@ -1,0 +1,82 @@
+{
+  "id": 1276874147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.0233,52.97813,69.0233,52.97813",
+    "geom:latitude":52.97813,
+    "geom:longitude":69.0233,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Undiris",
+    "gn:country_code":"KZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535579,
+    "gn:latitude":52.97813,
+    "gn:longitude":69.0233,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Undiris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Undiris"
+    ],
+    "name:kaz_x_preferred":[
+        "\u00d6ndiris"
+    ],
+    "name:kaz_x_variant":[
+        "\u04e8\u043d\u0434\u0456\u0440\u0456\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043d\u0434\u0438\u0440\u0438\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u043d\u0434\u0438\u0440\u0438\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535579
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"91e3da81fcf56fbd668c395198842583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1276874147,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1276874147,
+    "wof:lastmodified":1537659997,
+    "wof:name":"Undiris",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.0233,
+    52.97813000000001,
+    69.0233,
+    52.97813000000001
+],
+  "geometry": {"coordinates":[69.02330000000001,52.97813000000001],"type":"Point"}
+}

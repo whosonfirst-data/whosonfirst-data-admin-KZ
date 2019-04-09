@@ -1,0 +1,73 @@
+{
+  "id": 1310274587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.17549,53.80773,72.17549,53.80773",
+    "geom:latitude":53.80773,
+    "geom:longitude":72.17549,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Khayrula",
+    "gn:country_code":"KZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532683,
+    "gn:latitude":53.80773,
+    "gn:longitude":72.17549,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Khayrula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0439\u0440\u0443\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zhayrula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532683
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cf7d70fd65c9b420c20af84b10f2d582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1310274587,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310274587,
+    "wof:lastmodified":1537659971,
+    "wof:name":"Khayrula",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.17549,
+    53.80773000000001,
+    72.17549,
+    53.80773000000001
+],
+  "geometry": {"coordinates":[72.17549,53.80773000000001],"type":"Point"}
+}

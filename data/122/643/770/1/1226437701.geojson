@@ -1,0 +1,70 @@
+{
+  "id": 1226437701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.35,40.86667,68.35,40.86667",
+    "geom:latitude":40.86667,
+    "geom:longitude":68.35,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Imeni Engel'sa",
+    "gn:country_code":"KZ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524054,
+    "gn:latitude":40.86667,
+    "gn:longitude":68.35,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Imeni Engel\u2019sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Imeni Engel\u2019sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524054
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"09a73fb64c02ad9e6185baa7d894882d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1226437701,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226437701,
+    "wof:lastmodified":1537659817,
+    "wof:name":"Imeni Engel'sa",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.35,
+    40.86667,
+    68.35,
+    40.86667
+],
+  "geometry": {"coordinates":[68.34999999999999,40.86667],"type":"Point"}
+}

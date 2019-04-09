@@ -1,0 +1,82 @@
+{
+  "id": 1343959769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.67587,52.86653,68.67587,52.86653",
+    "geom:latitude":52.86653,
+    "geom:longitude":68.67587,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ul'gili",
+    "gn:country_code":"KZ",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535495,
+    "gn:latitude":52.86653,
+    "gn:longitude":68.67587,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Ul\u2019gili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ul'gili"
+    ],
+    "name:kaz_x_preferred":[
+        "\u00dclgili"
+    ],
+    "name:kaz_x_variant":[
+        "\u04ae\u043b\u0433\u0456\u043b\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u044c\u0433\u0438\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ul\u2019gili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535495
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7aa176bd5aa27f99639f98129f1d9b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1343959769,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343959769,
+    "wof:lastmodified":1537659995,
+    "wof:name":"Ul'gili",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.67586999999999,
+    52.86653,
+    68.67586999999999,
+    52.86653
+],
+  "geometry": {"coordinates":[68.67586999999999,52.86653],"type":"Point"}
+}

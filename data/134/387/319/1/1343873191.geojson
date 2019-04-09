@@ -1,0 +1,67 @@
+{
+  "id": 1343873191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.5,50.75,51.5,50.75",
+    "geom:latitude":50.75,
+    "geom:longitude":51.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Komar-Mechet'",
+    "gn:country_code":"KZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609327,
+    "gn:latitude":50.75,
+    "gn:longitude":51.5,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Komar-Mechet\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609327
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6d30fc87317f28ca46e93274b3cc5bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785731,
+            "locality_id":1343873191,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1343873191,
+    "wof:lastmodified":1536647775,
+    "wof:name":"Komar-Mechet'",
+    "wof:parent_id":1108785731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.5,
+    50.75,
+    51.5,
+    50.75
+],
+  "geometry": {"coordinates":[51.5,50.75],"type":"Point"}
+}

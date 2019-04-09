@@ -1,0 +1,76 @@
+{
+  "id": 1310572783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.11904,42.96649,72.11904,42.96649",
+    "geom:latitude":42.96649,
+    "geom:longitude":72.11904,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Birles",
+    "gn:country_code":"KZ",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11010437,
+    "gn:latitude":42.96649,
+    "gn:longitude":72.11904,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Birles",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Birles"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0456\u0440\u043b\u0435\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0440\u043b\u0435\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11010437
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"489eb4e23c01c20f4ae32faa285d7069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785489,
+            "locality_id":1310572783,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1310572783,
+    "wof:lastmodified":1537660088,
+    "wof:name":"Birles",
+    "wof:parent_id":1108785489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.11904,
+    42.96649,
+    72.11904,
+    42.96649
+],
+  "geometry": {"coordinates":[72.11904,42.96649],"type":"Point"}
+}

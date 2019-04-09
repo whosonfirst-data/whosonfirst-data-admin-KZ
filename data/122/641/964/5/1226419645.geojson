@@ -1,0 +1,80 @@
+{
+  "id": 1226419645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.21124,48.45316,73.21124,48.45316",
+    "geom:latitude":48.45316,
+    "geom:longitude":73.21124,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kayrakty",
+    "gn:country_code":"KZ",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522886,
+    "gn:latitude":48.45316,
+    "gn:longitude":73.21124,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kayrakty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "T\u00f6mengi Qayraqty"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u04e9\u043c\u0435\u043d\u0433\u0456 \u049a\u0430\u0439\u0440\u0430\u049b\u0442\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u0440\u0430\u043a\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Koyrakty",
+        "Qayraqty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522886
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d10158d334cb5c97ceb238663dd94c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1226419645,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226419645,
+    "wof:lastmodified":1537659777,
+    "wof:name":"Kayrakty",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.21124,
+    48.45316,
+    73.21124,
+    48.45316
+],
+  "geometry": {"coordinates":[73.21124,48.45316],"type":"Point"}
+}

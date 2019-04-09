@@ -1,0 +1,76 @@
+{
+  "id": 1209999397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.11652,49.71497,82.11652,49.71497",
+    "geom:latitude":49.71497,
+    "geom:longitude":82.11652,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tukul'",
+    "gn:country_code":"KZ",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1483937,
+    "gn:latitude":49.71497,
+    "gn:longitude":82.11652,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tukul\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tukul'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Tukul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1483937
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"40dd6079da45897cf94448f97e9e718b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785473,
+            "locality_id":1209999397,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1209999397,
+    "wof:lastmodified":1537659463,
+    "wof:name":"Tukul'",
+    "wof:parent_id":1108785473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.11652,
+    49.71497,
+    82.11652,
+    49.71497
+],
+  "geometry": {"coordinates":[82.11651999999999,49.71497],"type":"Point"}
+}

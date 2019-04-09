@@ -1,0 +1,80 @@
+{
+  "id": 1293791215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.73229,51.63842,73.73229,51.63842",
+    "geom:latitude":51.63842,
+    "geom:longitude":73.73229,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ulenty",
+    "gn:country_code":"KZ",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517803,
+    "gn:latitude":51.63842,
+    "gn:longitude":73.73229,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ulenty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u00d6lengti"
+    ],
+    "name:kaz_x_variant":[
+        "\u04e8\u043b\u0435\u04a3\u0442\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u0435\u043d\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Ulentinskiy",
+        "Olentinskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517803
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"81398ab9ff9d3833a67bb8b8dc31f0cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1293791215,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293791215,
+    "wof:lastmodified":1537659540,
+    "wof:name":"Ulenty",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.73229,
+    51.63842,
+    73.73229,
+    51.63842
+],
+  "geometry": {"coordinates":[73.73229000000001,51.63842],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259756437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.67596,48.47611,85.67596,48.47611",
+    "geom:latitude":48.47611,
+    "geom:longitude":85.67596,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Vyselki Terekty",
+    "gn:country_code":"KZ",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10867374,
+    "gn:latitude":48.47611,
+    "gn:longitude":85.67596,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Vyselki Terekty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0441\u0435\u043b\u043a\u0438 \u0422\u0435\u0440\u0435\u043a\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10867374
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6b0d8330038b8d9d9da6f901b5a7a2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1259756437,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259756437,
+    "wof:lastmodified":1537660070,
+    "wof:name":"Vyselki Terekty",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.67596,
+    48.47611,
+    85.67596,
+    48.47611
+],
+  "geometry": {"coordinates":[85.67596,48.47611],"type":"Point"}
+}

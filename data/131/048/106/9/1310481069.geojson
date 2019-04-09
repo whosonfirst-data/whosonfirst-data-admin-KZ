@@ -1,0 +1,82 @@
+{
+  "id": 1310481069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.09978,52.93709,66.09978,52.93709",
+    "geom:latitude":52.93709,
+    "geom:longitude":66.09978,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Zapadnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535382,
+    "gn:latitude":52.93709,
+    "gn:longitude":66.09978,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Zapadnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zapadnyy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zapadnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535382
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2b2efdda3f526a1b0e1c19a25d0199b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1310481069,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310481069,
+    "wof:lastmodified":1537659991,
+    "wof:name":"Zapadnoye",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.09978000000001,
+    52.93709000000001,
+    66.09978000000001,
+    52.93709000000001
+],
+  "geometry": {"coordinates":[66.09978000000001,52.93709000000001],"type":"Point"}
+}

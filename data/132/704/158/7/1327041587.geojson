@@ -1,0 +1,79 @@
+{
+  "id": 1327041587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.02599,52.40153,70.02599,52.40153",
+    "geom:latitude":52.40153,
+    "geom:longitude":70.02599,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yergolka",
+    "gn:country_code":"KZ",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517211,
+    "gn:latitude":52.40153,
+    "gn:longitude":70.02599,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Yergolka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yergolka"
+    ],
+    "name:kaz_x_preferred":[
+        "Ergolka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u0440\u0433\u043e\u043b\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0440\u0433\u043e\u043b\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517211
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1a69015c55c846bd5fb0c253aca8afc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785389,
+            "locality_id":1327041587,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327041587,
+    "wof:lastmodified":1537659506,
+    "wof:name":"Yergolka",
+    "wof:parent_id":1108785389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.02599000000001,
+    52.40153,
+    70.02599000000001,
+    52.40153
+],
+  "geometry": {"coordinates":[70.02599000000001,52.40153],"type":"Point"}
+}

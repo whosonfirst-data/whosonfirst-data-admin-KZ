@@ -1,0 +1,73 @@
+{
+  "id": 1326648345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.83621,48.40134,82.83621,48.40134",
+    "geom:latitude":48.40134,
+    "geom:longitude":82.83621,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tassay",
+    "gn:country_code":"KZ",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518398,
+    "gn:latitude":48.40134,
+    "gn:longitude":82.83621,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Tassay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tassay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0441\u0441\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518398
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b4d938103842d9c2e6ee66ca41a01e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1326648345,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1326648345,
+    "wof:lastmodified":1537659561,
+    "wof:name":"Tassay",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.83621,
+    48.40134000000001,
+    82.83621,
+    48.40134000000001
+],
+  "geometry": {"coordinates":[82.83620999999999,48.40134000000001],"type":"Point"}
+}

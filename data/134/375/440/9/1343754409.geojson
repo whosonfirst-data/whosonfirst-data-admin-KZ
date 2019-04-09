@@ -1,0 +1,72 @@
+{
+  "id": 1343754409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.94722,46.48333,48.94722,46.48333",
+    "geom:latitude":46.48333,
+    "geom:longitude":48.94722,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bulgachnoye",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":-28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":453513,
+    "gn:latitude":46.48333,
+    "gn:longitude":48.94722,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bulgachnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulgachnyy",
+        "Bulgachnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":453513
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5a1b3ca84d0f7b9debe0a6536a71adbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1343754409,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1343754409,
+    "wof:lastmodified":1537659336,
+    "wof:name":"Bulgachnoye",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.94722,
+    46.48333,
+    48.94722,
+    46.48333
+],
+  "geometry": {"coordinates":[48.94722,46.48333],"type":"Point"}
+}

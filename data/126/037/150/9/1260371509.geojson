@@ -1,0 +1,77 @@
+{
+  "id": 1260371509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.46388,53.44997,75.46388,53.44997",
+    "geom:latitude":53.44997,
+    "geom:longitude":75.46388,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Moiseyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520893,
+    "gn:latitude":53.44997,
+    "gn:longitude":75.46388,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Moiseyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Mo\u012bseevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u043e\u0438\u0441\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Moiseyevo",
+        "Moiseyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520893
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"18991516ae9037ebc9c8c9d4e5d647d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1260371509,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1260371509,
+    "wof:lastmodified":1537659686,
+    "wof:name":"Moiseyevka",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.46388,
+    53.44996999999999,
+    75.46388,
+    53.44996999999999
+],
+  "geometry": {"coordinates":[75.46388,53.44996999999999],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293218779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.8,50.88333,51.8,50.88333",
+    "geom:latitude":50.88333,
+    "geom:longitude":51.8,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tasshegen",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608059,
+    "gn:latitude":50.88333,
+    "gn:longitude":51.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tasshegen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tasshegen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0441\u0430\u043d-\u0428\u0435\u0433\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Tas-Chigen\u2019",
+        "Tasshegen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608059
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f3a5a3095839332573aa2f9e9fa8bb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785731,
+            "locality_id":1293218779,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293218779,
+    "wof:lastmodified":1537659358,
+    "wof:name":"Tasshegen",
+    "wof:parent_id":1108785731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.8,
+    50.88333,
+    51.8,
+    50.88333
+],
+  "geometry": {"coordinates":[51.8,50.88333],"type":"Point"}
+}

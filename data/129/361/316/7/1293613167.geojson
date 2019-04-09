@@ -1,0 +1,77 @@
+{
+  "id": 1293613167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.50407,50.08302,55.50407,50.08302",
+    "geom:latitude":50.08302,
+    "geom:longitude":55.50407,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Voznesenovka",
+    "gn:country_code":"KZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607766,
+    "gn:latitude":50.08302,
+    "gn:longitude":55.50407,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Voznesenovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Voznesenovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Voznesenskiy",
+        "Voznesenovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607766
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"906a332561c182ba880e460907c76f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785491,
+            "locality_id":1293613167,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293613167,
+    "wof:lastmodified":1537659349,
+    "wof:name":"Voznesenovka",
+    "wof:parent_id":1108785491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.50407,
+    50.08302,
+    55.50407,
+    50.08302
+],
+  "geometry": {"coordinates":[55.50407,50.08302],"type":"Point"}
+}

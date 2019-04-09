@@ -1,0 +1,78 @@
+{
+  "id": 1193025983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.53333,50.11667,47.53333,50.11667",
+    "geom:latitude":50.11667,
+    "geom:longitude":47.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aydarly",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610508,
+    "gn:latitude":50.11667,
+    "gn:longitude":47.53333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Aydarly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aydarly"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0434\u0430\u0440\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Inderly",
+        "Aydarly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610508
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"957d1f8e0f1d4b3ac6c329ee1b136fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785327,
+            "locality_id":1193025983,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1193025983,
+    "wof:lastmodified":1537659445,
+    "wof:name":"Aydarly",
+    "wof:parent_id":1108785327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.53333,
+    50.11667,
+    47.53333,
+    50.11667
+],
+  "geometry": {"coordinates":[47.53333,50.11667],"type":"Point"}
+}

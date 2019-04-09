@@ -1,0 +1,73 @@
+{
+  "id": 1310473481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.81667,42.65,70.81667,42.65",
+    "geom:latitude":42.65,
+    "geom:longitude":70.81667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Novovoznesenka",
+    "gn:country_code":"KZ",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520523,
+    "gn:latitude":42.65,
+    "gn:longitude":70.81667,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Novovoznesenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0432\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novovoznesenovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520523
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cfd20ee62e311abe4f072f75ad22acf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785737,
+            "locality_id":1310473481,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1310473481,
+    "wof:lastmodified":1537659661,
+    "wof:name":"Novovoznesenka",
+    "wof:parent_id":1108785737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.81667,
+    42.65,
+    70.81667,
+    42.65
+],
+  "geometry": {"coordinates":[70.81667,42.65],"type":"Point"}
+}

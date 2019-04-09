@@ -1,0 +1,70 @@
+{
+  "id": 1293177369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.18929,54.03668,65.18929,54.03668",
+    "geom:latitude":54.03668,
+    "geom:longitude":65.18929,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Otnagash",
+    "gn:country_code":"KZ",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11416854,
+    "gn:latitude":54.03668,
+    "gn:longitude":65.18929,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Otnagash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u043d\u0430\u0433\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11416854
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5c9163429ee784280431729f35fdccd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1293177369,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293177369,
+    "wof:lastmodified":1537660144,
+    "wof:name":"Otnagash",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.18929,
+    54.03668,
+    65.18929,
+    54.03668
+],
+  "geometry": {"coordinates":[65.18929,54.03668],"type":"Point"}
+}

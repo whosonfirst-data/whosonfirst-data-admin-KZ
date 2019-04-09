@@ -1,0 +1,82 @@
+{
+  "id": 1343235247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.96376,49.38668,84.96376,49.38668",
+    "geom:latitude":49.38668,
+    "geom:longitude":84.96376,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ul'yanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517748,
+    "gn:latitude":49.38668,
+    "gn:longitude":84.96376,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ul\u2019yanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ul'yanovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u016al\u2019yanovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ul\u2019yanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517748
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5278b2970568b4169c3bcc85bb3fdf84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1343235247,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343235247,
+    "wof:lastmodified":1537659538,
+    "wof:name":"Ul'yanovka",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.96376,
+    49.38668,
+    84.96376,
+    49.38668
+],
+  "geometry": {"coordinates":[84.96375999999999,49.38668],"type":"Point"}
+}

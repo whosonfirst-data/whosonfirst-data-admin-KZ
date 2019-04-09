@@ -1,0 +1,70 @@
+{
+  "id": 1309777523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.9575,43.81471,73.9575,43.81471",
+    "geom:latitude":43.81471,
+    "geom:longitude":73.9575,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kok-Tobe",
+    "gn:country_code":"KZ",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10968989,
+    "gn:latitude":43.81471,
+    "gn:longitude":73.9575,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Kok-Tobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a-\u0422\u043e\u0431\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10968989
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b6dd6766d63643e0d90d8e66bf5d09ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785707,
+            "locality_id":1309777523,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1309777523,
+    "wof:lastmodified":1537660083,
+    "wof:name":"Kok-Tobe",
+    "wof:parent_id":1108785707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.9575,
+    43.81471,
+    73.9575,
+    43.81471
+],
+  "geometry": {"coordinates":[73.9575,43.81471],"type":"Point"}
+}

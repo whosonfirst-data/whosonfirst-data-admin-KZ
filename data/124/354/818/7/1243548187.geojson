@@ -1,0 +1,67 @@
+{
+  "id": 1243548187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.16667,44.06667,68.16667,44.06667",
+    "geom:latitude":44.06667,
+    "geom:longitude":68.16667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shaga",
+    "gn:country_code":"KZ",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519354,
+    "gn:latitude":44.06667,
+    "gn:longitude":68.16667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Shaga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519354
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"93b5882e23ff893757df7f34690b7f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785599,
+            "locality_id":1243548187,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243548187,
+    "wof:lastmodified":1536659050,
+    "wof:name":"Shaga",
+    "wof:parent_id":1108785599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.16667,
+    44.06667,
+    68.16667,
+    44.06667
+],
+  "geometry": {"coordinates":[68.16667,44.06667],"type":"Point"}
+}

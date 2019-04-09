@@ -1,0 +1,67 @@
+{
+  "id": 1293798525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.73333,51.2,69.73333,51.2",
+    "geom:latitude":51.2,
+    "geom:longitude":69.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhaldas",
+    "gn:country_code":"KZ",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516985,
+    "gn:latitude":51.2,
+    "gn:longitude":69.73333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Zhaldas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516985
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6884748ea00631e9925291e1d84a847f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785391,
+            "locality_id":1293798525,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293798525,
+    "wof:lastmodified":1536834641,
+    "wof:name":"Zhaldas",
+    "wof:parent_id":1108785391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.73333000000001,
+    51.2,
+    69.73333000000001,
+    51.2
+],
+  "geometry": {"coordinates":[69.73333000000001,51.2],"type":"Point"}
+}

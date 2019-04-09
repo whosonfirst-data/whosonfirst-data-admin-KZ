@@ -1,0 +1,79 @@
+{
+  "id": 1226157881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.56667,51.46667,50.56667,51.46667",
+    "geom:latitude":51.46667,
+    "geom:longitude":50.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Karpovo",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609513,
+    "gn:latitude":51.46667,
+    "gn:longitude":50.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Karpovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karpovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043f\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Karpov",
+        "Karpovskiy",
+        "Karpovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609513
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"500c8da484ff6ec70f1ec585f6b2c292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785331,
+            "locality_id":1226157881,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226157881,
+    "wof:lastmodified":1537659414,
+    "wof:name":"Karpovo",
+    "wof:parent_id":1108785331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.56667,
+    51.46667,
+    50.56667,
+    51.46667
+],
+  "geometry": {"coordinates":[50.56667,51.46667],"type":"Point"}
+}

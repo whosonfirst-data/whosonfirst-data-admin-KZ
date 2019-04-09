@@ -1,0 +1,64 @@
+{
+  "id": 1209198095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.29911,40.85454,68.29911,40.85454",
+    "geom:latitude":40.85454,
+    "geom:longitude":68.29911,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Otdeleniye Nomer Chetyre Sovkhoza Pobedy",
+    "gn:country_code":"KZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10956151,
+    "gn:latitude":40.85454,
+    "gn:longitude":68.29911,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Otdeleniye Nomer Chetyre Sovkhoza Pobedy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u0427\u0435\u0442\u044b\u0440\u0435 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u041f\u043e\u0431\u0435\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956151
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0536a53c7da4e3e8b4ab25c979872f5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209198095
+        }
+    ],
+    "wof:id":1209198095,
+    "wof:lastmodified":1537660080,
+    "wof:name":"Otdeleniye Nomer Chetyre Sovkhoza Pobedy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.29911,
+    40.85454,
+    68.29911,
+    40.85454
+],
+  "geometry": {"coordinates":[68.29911,40.85454],"type":"Point"}
+}

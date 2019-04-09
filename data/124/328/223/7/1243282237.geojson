@@ -1,0 +1,67 @@
+{
+  "id": 1243282237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.42851,50.96091,52.42851,50.96091",
+    "geom:latitude":50.96091,
+    "geom:longitude":52.42851,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Alekseyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610665,
+    "gn:latitude":50.96091,
+    "gn:longitude":52.42851,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Alekseyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610665
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"79b27b262c324ecf0432a55697e9abc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785731,
+            "locality_id":1243282237,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1243282237,
+    "wof:lastmodified":1537040541,
+    "wof:name":"Alekseyevka",
+    "wof:parent_id":1108785731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.42851,
+    50.96091,
+    52.42851,
+    50.96091
+],
+  "geometry": {"coordinates":[52.42851,50.96091],"type":"Point"}
+}

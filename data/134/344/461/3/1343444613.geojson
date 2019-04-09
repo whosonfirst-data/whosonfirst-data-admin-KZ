@@ -1,0 +1,72 @@
+{
+  "id": 1343444613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.27701,45.04125,65.27701,45.04125",
+    "geom:latitude":45.04125,
+    "geom:longitude":65.27701,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Qaraozeq",
+    "gn:country_code":"KZ",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523233,
+    "gn:latitude":45.04125,
+    "gn:longitude":65.27701,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Qara\u00f6zeq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karaozek",
+        "Kara-Uzyak",
+        "Qara\u00f6zeq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523233
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"edc98a293ab39d8faf63489b016174af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785677,
+            "locality_id":1343444613,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1343444613,
+    "wof:lastmodified":1537659787,
+    "wof:name":"Qaraozeq",
+    "wof:parent_id":1108785677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.27701,
+    45.04125,
+    65.27701,
+    45.04125
+],
+  "geometry": {"coordinates":[65.27701,45.04125],"type":"Point"}
+}

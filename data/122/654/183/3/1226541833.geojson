@@ -1,0 +1,72 @@
+{
+  "id": 1226541833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.06098,51.77573,71.06098,51.77573",
+    "geom:latitude":51.77573,
+    "geom:longitude":71.06098,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baryshevka",
+    "gn:country_code":"KZ",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525726,
+    "gn:latitude":51.77573,
+    "gn:longitude":71.06098,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Baryshevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barashevtsevo",
+        "Bapyshevka",
+        "Baryshevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525726
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f1008bc1b6470f39f001a7b9680b9358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785437,
+            "locality_id":1226541833,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226541833,
+    "wof:lastmodified":1537659888,
+    "wof:name":"Baryshevka",
+    "wof:parent_id":1108785437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.06098,
+    51.77573,
+    71.06098,
+    51.77573
+],
+  "geometry": {"coordinates":[71.06098,51.77573],"type":"Point"}
+}

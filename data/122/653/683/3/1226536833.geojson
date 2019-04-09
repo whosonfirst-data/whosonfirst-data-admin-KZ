@@ -1,0 +1,79 @@
+{
+  "id": 1226536833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.94259,49.30081,49.94259,49.30081",
+    "geom:latitude":49.30081,
+    "geom:longitude":49.94259,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tendik",
+    "gn:country_code":"KZ",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609046,
+    "gn:latitude":49.30081,
+    "gn:longitude":49.94259,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tendik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tendik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043d\u0434\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kuiryuk",
+        "Kuyryk",
+        "Kuyryuk",
+        "Tendik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609046
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"906c2037f0de315319104a669505b278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1226536833,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226536833,
+    "wof:lastmodified":1537659397,
+    "wof:name":"Tendik",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.94259,
+    49.30081,
+    49.94259,
+    49.30081
+],
+  "geometry": {"coordinates":[49.94259,49.30081],"type":"Point"}
+}

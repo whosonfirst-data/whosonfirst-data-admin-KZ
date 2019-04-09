@@ -1,0 +1,73 @@
+{
+  "id": 1343479169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.39457,41.22217,68.39457,41.22217",
+    "geom:latitude":41.22217,
+    "geom:longitude":68.39457,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Madeniyet",
+    "gn:country_code":"KZ",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538017,
+    "gn:latitude":41.22217,
+    "gn:longitude":68.39457,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"M\u00e4deniyet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "M\u00e4deniyet"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u04d9\u0434\u0435\u043d\u0438\u0435\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538017
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3984ec4622a8a19723e4200441d3d348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1343479169,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1343479169,
+    "wof:lastmodified":1537660022,
+    "wof:name":"Madeniyet",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.39457,
+    41.22217,
+    68.39457,
+    41.22217
+],
+  "geometry": {"coordinates":[68.39457,41.22217],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209491571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.17945,43.53238,74.17945,43.53238",
+    "geom:latitude":43.53238,
+    "geom:longitude":74.17945,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kopekbay",
+    "gn:country_code":"KZ",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10975170,
+    "gn:latitude":43.53238,
+    "gn:longitude":74.17945,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Kopekbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0435\u043a\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10975170
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c4bf63496e2690056c53107c62ab765f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209491571
+        }
+    ],
+    "wof:id":1209491571,
+    "wof:lastmodified":1537660086,
+    "wof:name":"Kopekbay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.17945,
+    43.53238,
+    74.17945,
+    43.53238
+],
+  "geometry": {"coordinates":[74.17945,43.53238],"type":"Point"}
+}

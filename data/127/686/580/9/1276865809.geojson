@@ -1,0 +1,70 @@
+{
+  "id": 1276865809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.88417,41.24006,67.88417,41.24006",
+    "geom:latitude":41.24006,
+    "geom:longitude":67.88417,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zimniy Sovkhoz Chardara",
+    "gn:country_code":"KZ",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":11133379,
+    "gn:latitude":41.24006,
+    "gn:longitude":67.88417,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Zimniy Sovkhoz Chardara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u043c\u043d\u0438\u0439 \u0421\u043e\u0432\u0445\u043e\u0437 \u0427\u0430\u0440\u0434\u0430\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11133379
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aba9c9e94915e2b30a6e3af2e22419b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785365,
+            "locality_id":1276865809,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276865809,
+    "wof:lastmodified":1537660116,
+    "wof:name":"Zimniy Sovkhoz Chardara",
+    "wof:parent_id":1108785365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.88417,
+    41.24006,
+    67.88417,
+    41.24006
+],
+  "geometry": {"coordinates":[67.88417,41.24006],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1327243053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.6798,52.18619,70.6798,52.18619",
+    "geom:latitude":52.18619,
+    "geom:longitude":70.6798,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ornek",
+    "gn:country_code":"KZ",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520359,
+    "gn:latitude":52.18619,
+    "gn:longitude":70.6798,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Ornek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ornek"
+    ],
+    "name:kaz_x_preferred":[
+        "\u00d6rnek"
+    ],
+    "name:kaz_x_variant":[
+        "\u04e8\u0440\u043d\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043d\u0435\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u0440\u0433\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sergeyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520359
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b18137d704010a853cdf08a297408043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1327243053,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327243053,
+    "wof:lastmodified":1537659651,
+    "wof:name":"Ornek",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.6798,
+    52.18619,
+    70.6798,
+    52.18619
+],
+  "geometry": {"coordinates":[70.6798,52.18619],"type":"Point"}
+}

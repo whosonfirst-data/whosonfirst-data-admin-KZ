@@ -1,0 +1,73 @@
+{
+  "id": 1259962715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.67389,49.21673,77.67389,49.21673",
+    "geom:latitude":49.21673,
+    "geom:longitude":77.67389,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tabeke",
+    "gn:country_code":"KZ",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507263,
+    "gn:latitude":49.21673,
+    "gn:longitude":77.67389,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tabeke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Tabeke"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0430\u0431\u0435\u043a\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507263
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"97b3fe41722df4c5d322a272aa01fb45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1259962715,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259962715,
+    "wof:lastmodified":1537660168,
+    "wof:name":"Tabeke",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.67389,
+    49.21673,
+    77.67389,
+    49.21673
+],
+  "geometry": {"coordinates":[77.67389,49.21673],"type":"Point"}
+}

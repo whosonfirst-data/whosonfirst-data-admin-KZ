@@ -1,0 +1,77 @@
+{
+  "id": 1309809809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.53333,50.33333,61.53333,50.33333",
+    "geom:latitude":50.33333,
+    "geom:longitude":61.53333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Karagay",
+    "gn:country_code":"KZ",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523388,
+    "gn:latitude":50.33333,
+    "gn:longitude":61.53333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Karagay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karagay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Karakoy",
+        "Karagay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523388
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d9a69cd3d8556f0ab5db07279f3a5ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1309809809,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1309809809,
+    "wof:lastmodified":1537659792,
+    "wof:name":"Karagay",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.53333000000001,
+    50.33333,
+    61.53333000000001,
+    50.33333
+],
+  "geometry": {"coordinates":[61.53333000000001,50.33333],"type":"Point"}
+}

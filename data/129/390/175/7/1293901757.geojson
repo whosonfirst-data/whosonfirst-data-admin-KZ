@@ -1,0 +1,67 @@
+{
+  "id": 1293901757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.93333,49.91667,80.93333,49.91667",
+    "geom:latitude":49.91667,
+    "geom:longitude":80.93333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Arkat",
+    "gn:country_code":"KZ",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526205,
+    "gn:latitude":49.91667,
+    "gn:longitude":80.93333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Arkat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526205
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"00de56cd5187ccdde4d30516f5b8c38f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1293901757,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293901757,
+    "wof:lastmodified":1536687056,
+    "wof:name":"Arkat",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.93333,
+    49.91667,
+    80.93333,
+    49.91667
+],
+  "geometry": {"coordinates":[80.93333,49.91667],"type":"Point"}
+}

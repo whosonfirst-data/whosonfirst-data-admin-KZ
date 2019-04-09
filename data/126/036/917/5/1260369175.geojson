@@ -1,0 +1,71 @@
+{
+  "id": 1260369175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.08333,45.1,64.08333,45.1",
+    "geom:latitude":45.1,
+    "geom:longitude":64.08333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Akbel'",
+    "gn:country_code":"KZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526880,
+    "gn:latitude":45.1,
+    "gn:longitude":64.08333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Akbel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mikobayagash",
+        "Akbel\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526880
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5b6534a73b00aaac5ba2a90fa0d81c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785695,
+            "locality_id":1260369175,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1260369175,
+    "wof:lastmodified":1537659928,
+    "wof:name":"Akbel'",
+    "wof:parent_id":1108785695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.08333,
+    45.1,
+    64.08333,
+    45.1
+],
+  "geometry": {"coordinates":[64.08333,45.1],"type":"Point"}
+}

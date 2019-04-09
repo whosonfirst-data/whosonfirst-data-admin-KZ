@@ -1,0 +1,67 @@
+{
+  "id": 1243006183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.1,50.16667,59.1,50.16667",
+    "geom:latitude":50.16667,
+    "geom:longitude":59.1,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tretiy Internatsional",
+    "gn:country_code":"KZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607956,
+    "gn:latitude":50.16667,
+    "gn:longitude":59.1,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tretiy Internatsional",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607956
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a6bd4d62c1a64cfc59f7c1fd8c9475fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785523,
+            "locality_id":1243006183,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1243006183,
+    "wof:lastmodified":1536943858,
+    "wof:name":"Tretiy Internatsional",
+    "wof:parent_id":1108785523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.1,
+    50.16667,
+    59.1,
+    50.16667
+],
+  "geometry": {"coordinates":[59.1,50.16667],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1260161197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.08649,49.78602,72.08649,49.78602",
+    "geom:latitude":49.78602,
+    "geom:longitude":72.08649,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Intymak",
+    "gn:country_code":"KZ",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524306,
+    "gn:latitude":49.78602,
+    "gn:longitude":72.08649,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Intymak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Yntymaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u042b\u043d\u0442\u044b\u043c\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0442\u044b\u043c\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Entamak",
+        "Entumak",
+        "Intymak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524306
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"384673294992d945327b814418a1b94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1260161197,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1260161197,
+    "wof:lastmodified":1537659831,
+    "wof:name":"Intymak",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.08649,
+    49.78602,
+    72.08649,
+    49.78602
+],
+  "geometry": {"coordinates":[72.08649,49.78602],"type":"Point"}
+}

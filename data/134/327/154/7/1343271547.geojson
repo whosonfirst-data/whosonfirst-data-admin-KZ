@@ -1,0 +1,70 @@
+{
+  "id": 1343271547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.34581,44.14573,80.34581,44.14573",
+    "geom:latitude":44.14573,
+    "geom:longitude":80.34581,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Intal",
+    "gn:country_code":"KZ",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11516795,
+    "gn:latitude":44.14573,
+    "gn:longitude":80.34581,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Intal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0442\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11516795
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ed637111c677998d2a0524bd0251422a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785409,
+            "locality_id":1343271547,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1343271547,
+    "wof:lastmodified":1537660184,
+    "wof:name":"Intal",
+    "wof:parent_id":1108785409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.34581,
+    44.14573,
+    80.34581,
+    44.14573
+],
+  "geometry": {"coordinates":[80.34581,44.14573],"type":"Point"}
+}

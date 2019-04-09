@@ -1,0 +1,77 @@
+{
+  "id": 1360079609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.17405,51.65602,52.17405,51.65602",
+    "geom:latitude":51.65602,
+    "geom:longitude":52.17405,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chesnokovo",
+    "gn:country_code":"KZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610100,
+    "gn:latitude":51.65602,
+    "gn:longitude":52.17405,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Chesnokovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chesnokovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0441\u043d\u043e\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Chesnokov",
+        "Chesnokovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610100
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"148fccffdb39519583d054cdf661c286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785331,
+            "locality_id":1360079609,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1360079609,
+    "wof:lastmodified":1537659430,
+    "wof:name":"Chesnokovo",
+    "wof:parent_id":1108785331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.17405,
+    51.65602,
+    52.17405,
+    51.65602
+],
+  "geometry": {"coordinates":[52.17405,51.65602],"type":"Point"}
+}

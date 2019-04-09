@@ -1,0 +1,73 @@
+{
+  "id": 1209196489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.53788,53.88811,69.53788,53.88811",
+    "geom:latitude":53.88811,
+    "geom:longitude":69.53788,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mnogotsvetnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520901,
+    "gn:latitude":53.88811,
+    "gn:longitude":69.53788,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Mnogotsvetnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mnogotsvetnoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Mnogotsvetnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u043d\u043e\u0433\u043e\u0446\u0432\u0435\u0442\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043d\u043e\u0433\u043e\u0446\u0432\u0435\u0442\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520901
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ce95dd552354ee828c1041aa8cb13270",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209196489
+        }
+    ],
+    "wof:id":1209196489,
+    "wof:lastmodified":1537659686,
+    "wof:name":"Mnogotsvetnoye",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.53788,
+    53.88811,
+    69.53788,
+    53.88811
+],
+  "geometry": {"coordinates":[69.53788,53.88811],"type":"Point"}
+}

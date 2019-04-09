@@ -1,0 +1,83 @@
+{
+  "id": 1192996425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.3338,52.64282,77.3338,52.64282",
+    "geom:latitude":52.64282,
+    "geom:longitude":77.3338,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Luganskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521296,
+    "gn:latitude":52.64282,
+    "gn:longitude":77.3338,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Luganskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lugansk"
+    ],
+    "name:kaz_x_preferred":[
+        "L\u016bganskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041b\u0443\u0433\u0430\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0433\u0430\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Lugansk",
+        "Luganskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521296
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"af03fc120492b32d16b0603d4524bc32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785561,
+            "locality_id":1192996425,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1192996425,
+    "wof:lastmodified":1537659707,
+    "wof:name":"Luganskoye",
+    "wof:parent_id":1108785561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.3338,
+    52.64281999999999,
+    77.3338,
+    52.64281999999999
+],
+  "geometry": {"coordinates":[77.3338,52.64281999999999],"type":"Point"}
+}

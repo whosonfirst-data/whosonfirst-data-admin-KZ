@@ -1,0 +1,67 @@
+{
+  "id": 1310124127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.21667,51.7,52.21667,51.7",
+    "geom:latitude":51.7,
+    "geom:longitude":52.21667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pobedimov",
+    "gn:country_code":"KZ",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608605,
+    "gn:latitude":51.7,
+    "gn:longitude":52.21667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Pobedimov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608605
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c5e28c89808930afa880e85c48cbc023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785331,
+            "locality_id":1310124127,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1310124127,
+    "wof:lastmodified":1536969319,
+    "wof:name":"Pobedimov",
+    "wof:parent_id":1108785331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.21667,
+    51.7,
+    52.21667,
+    51.7
+],
+  "geometry": {"coordinates":[52.21667,51.7],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343250993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.55151,41.49706,68.55151,41.49706",
+    "geom:latitude":41.49706,
+    "geom:longitude":68.55151,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yzaqudyq",
+    "gn:country_code":"KZ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538021,
+    "gn:latitude":41.49706,
+    "gn:longitude":68.55151,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Yzaqudyq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Yzaqudyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u042b\u0437\u0430\u049b\u04b1\u0434\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u0428\u0435\u0441\u0442\u044c \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u0414\u0430\u0440\u0431\u0430\u0437\u0430"
+    ],
+    "name:und_x_variant":[
+        "Otdeleniye Nomer Shest\u2019 Sovkhoza Darbaza",
+        "Yzakuduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538021
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e37e1661dc042050cc7a5accb545f9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1343250993,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1343250993,
+    "wof:lastmodified":1537660023,
+    "wof:name":"Yzaqudyq",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.55151,
+    41.49706,
+    68.55151,
+    41.49706
+],
+  "geometry": {"coordinates":[68.55150999999999,41.49706],"type":"Point"}
+}

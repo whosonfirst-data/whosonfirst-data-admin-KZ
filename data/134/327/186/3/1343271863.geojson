@@ -1,0 +1,67 @@
+{
+  "id": 1343271863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.35,51.4,51.35,51.4",
+    "geom:latitude":51.4,
+    "geom:longitude":51.35,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Petrov",
+    "gn:country_code":"KZ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608614,
+    "gn:latitude":51.4,
+    "gn:longitude":51.35,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Petrov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608614
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e6778d26795686f8ed0edccf7ba17101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785331,
+            "locality_id":1343271863,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1343271863,
+    "wof:lastmodified":1537017643,
+    "wof:name":"Petrov",
+    "wof:parent_id":1108785331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.35,
+    51.4,
+    51.35,
+    51.4
+],
+  "geometry": {"coordinates":[51.35,51.4],"type":"Point"}
+}

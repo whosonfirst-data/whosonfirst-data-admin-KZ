@@ -1,0 +1,67 @@
+{
+  "id": 1242888503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.37606,45.6473,80.37606,45.6473",
+    "geom:latitude":45.6473,
+    "geom:longitude":80.37606,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Petropavlovka",
+    "gn:country_code":"KZ",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520170,
+    "gn:latitude":45.6473,
+    "gn:longitude":80.37606,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Petropavlovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520170
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ab27c710da911c796418cddb4b55f9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785417,
+            "locality_id":1242888503,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1242888503,
+    "wof:lastmodified":1536613369,
+    "wof:name":"Petropavlovka",
+    "wof:parent_id":1108785417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.37606,
+    45.6473,
+    80.37606,
+    45.6473
+],
+  "geometry": {"coordinates":[80.37606,45.6473],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1310219911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8918,49.65283,80.8918,49.65283",
+    "geom:latitude":49.65283,
+    "geom:longitude":80.8918,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kezensu",
+    "gn:country_code":"KZ",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522718,
+    "gn:latitude":49.65283,
+    "gn:longitude":80.8918,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kezensu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kezensu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0437\u0435\u043d\u0441\u0443"
+    ],
+    "name:und_x_variant":[
+        "Kezek-Su",
+        "Kezensu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522718
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"79c3a6f149f0a063e2259bf797c47027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1310219911,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310219911,
+    "wof:lastmodified":1537659770,
+    "wof:name":"Kezensu",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8918,
+    49.65283,
+    80.8918,
+    49.65283
+],
+  "geometry": {"coordinates":[80.8918,49.65283],"type":"Point"}
+}

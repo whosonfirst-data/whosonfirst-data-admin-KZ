@@ -1,0 +1,77 @@
+{
+  "id": 1327243209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.43586,52.98923,69.43586,52.98923",
+    "geom:latitude":52.98923,
+    "geom:longitude":69.43586,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koysalgan",
+    "gn:country_code":"KZ",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522084,
+    "gn:latitude":52.98923,
+    "gn:longitude":69.43586,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Koysalgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0439\u0441\u0430\u043b\u0433\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u043c\u0435\u043d\u0438 \u041c\u0430\u043b\u0438\u043a\u0430 \u0413\u0430\u0431\u0434\u0443\u043b\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Imeni Malika Gabdulina",
+        "Koysalgan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522084
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8667c9cbd776891afe1faffa9982e0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1327243209,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327243209,
+    "wof:lastmodified":1537659742,
+    "wof:name":"Koysalgan",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.43585999999999,
+    52.98923000000001,
+    69.43585999999999,
+    52.98923000000001
+],
+  "geometry": {"coordinates":[69.43585999999999,52.98923000000001],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1259661979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.97597,51.94997,76.97597,51.94997",
+    "geom:latitude":51.94997,
+    "geom:longitude":76.97597,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Put' Il'icha",
+    "gn:country_code":"KZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519965,
+    "gn:latitude":51.94997,
+    "gn:longitude":76.97597,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Put\u2019 Il\u2019icha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "P\u016bt\u2019 \u012al\u2019\u012bcha"
+    ],
+    "name:ron_x_preferred":[
+        "Sovkhoz Put\u2019 Il\u2019icha"
+    ],
+    "name:rus_x_preferred":[
+        "Put\u2019 Il\u2019icha"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0443\u0442\u044c \u0418\u043b\u044c\u0438\u0447\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519965
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bef81418753bdacc0a1e106b334ea0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785551,
+            "locality_id":1259661979,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259661979,
+    "wof:lastmodified":1537659627,
+    "wof:name":"Put' Il'icha",
+    "wof:parent_id":1108785551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.97596999999998,
+    51.94997,
+    76.97596999999998,
+    51.94997
+],
+  "geometry": {"coordinates":[76.97596999999998,51.94997],"type":"Point"}
+}

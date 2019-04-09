@@ -1,0 +1,82 @@
+{
+  "id": 1293462311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.72294,55.05109,69.72294,55.05109",
+    "geom:latitude":55.05109,
+    "geom:longitude":69.72294,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bugrovoye",
+    "gn:country_code":"KZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525052,
+    "gn:latitude":55.05109,
+    "gn:longitude":69.72294,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Bugrovoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "B\u016bgrovoe"
+    ],
+    "name:kaz_x_preferred":[
+        "B\u016bgrovoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0443\u0433\u0440\u043e\u0432\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0433\u0440\u043e\u0432\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Bugrovskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525052
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8c9b44fcdcb58cb89cdafef9e05066c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1293462311,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293462311,
+    "wof:lastmodified":1537659859,
+    "wof:name":"Bugrovoye",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.72294000000001,
+    55.05109,
+    69.72294000000001,
+    55.05109
+],
+  "geometry": {"coordinates":[69.72294000000001,55.05109],"type":"Point"}
+}

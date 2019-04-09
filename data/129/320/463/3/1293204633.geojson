@@ -1,0 +1,70 @@
+{
+  "id": 1293204633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.75805,43.35985,76.75805,43.35985",
+    "geom:latitude":43.35985,
+    "geom:longitude":76.75805,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aksengir",
+    "gn:country_code":"KZ",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1539966,
+    "gn:latitude":43.35985,
+    "gn:longitude":76.75805,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Aksengir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0441\u0435\u043d\u0433\u0438\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1539966
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9505412f4c4b708723aa5df5c71e6eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785419,
+            "locality_id":1293204633,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293204633,
+    "wof:lastmodified":1537660030,
+    "wof:name":"Aksengir",
+    "wof:parent_id":1108785419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.75805,
+    43.35985,
+    76.75805,
+    43.35985
+],
+  "geometry": {"coordinates":[76.75805,43.35985],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343444837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.53661,40.89451,68.53661,40.89451",
+    "geom:latitude":40.89451,
+    "geom:longitude":68.53661,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tegistik",
+    "gn:country_code":"KZ",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518309,
+    "gn:latitude":40.89451,
+    "gn:longitude":68.53661,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Tegistik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Tegistik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518309
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4a4ca6d09189100dbf2185a8ef85ea5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1343444837,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1343444837,
+    "wof:lastmodified":1537659558,
+    "wof:name":"Tegistik",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.53661,
+    40.89451,
+    68.53661,
+    40.89451
+],
+  "geometry": {"coordinates":[68.53661,40.89451],"type":"Point"}
+}

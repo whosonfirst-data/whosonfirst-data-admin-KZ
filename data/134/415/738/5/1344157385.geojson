@@ -1,0 +1,71 @@
+{
+  "id": 1344157385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.83333,48.36667,61.83333,48.36667",
+    "geom:latitude":48.36667,
+    "geom:longitude":61.83333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kozhakol'",
+    "gn:country_code":"KZ",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522072,
+    "gn:latitude":48.36667,
+    "gn:longitude":61.83333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kozhakol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kozhakul\u2019",
+        "Kozhakol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522072
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3a79aa37c463f617fdcffc7ee435bb99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785715,
+            "locality_id":1344157385,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1344157385,
+    "wof:lastmodified":1537659741,
+    "wof:name":"Kozhakol'",
+    "wof:parent_id":1108785715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.83333,
+    48.36667,
+    61.83333,
+    48.36667
+],
+  "geometry": {"coordinates":[61.83333,48.36667],"type":"Point"}
+}

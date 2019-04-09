@@ -1,0 +1,73 @@
+{
+  "id": 1226768127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.13315,40.8659,68.13315,40.8659",
+    "geom:latitude":40.8659,
+    "geom:longitude":68.13315,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Brigada Nomer Vosem' Otdeleniya Nomer Odin Sovkhoza Imeni Sorokaletiya Uzbekskoy Sovetskoy Sotsialisticheskoy Respubliki",
+    "gn:country_code":"KZ",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10956106,
+    "gn:latitude":40.8659,
+    "gn:longitude":68.13315,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Brigada Nomer Vosem\u2019 Otdeleniya Nomer Odin Sovkhoza Imeni Sorokaletiya Uzbekskoy Sovetskoy Sotsialisticheskoy Respubliki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Brigada Nomer Vosem\u2019 Otdeleniya Nomer Odin Sovkhoza Imeni Sorokaletiya Uzbekskoy Sovetskoy Sotsialisticheskoy Respubliki"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0440\u0438\u0433\u0430\u0434\u0430 \u041d\u043e\u043c\u0435\u0440 \u0412\u043e\u0441\u0435\u043c\u044c \u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u041d\u043e\u043c\u0435\u0440 \u041e\u0434\u0438\u043d \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u0418\u043c\u0435\u043d\u0438 \u0421\u043e\u0440\u043e\u043a\u0430\u043b\u0435\u0442\u0438\u044f \u0423\u0437\u0431\u0435\u043a\u0441\u043a\u043e\u0439 \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u043e\u0439 \u0421\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956106
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"155bd7f34ff1f7d1b6ab3c6307891590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1226768127,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226768127,
+    "wof:lastmodified":1537660078,
+    "wof:name":"Brigada Nomer Vosem' Otdeleniya Nomer Odin Sovkhoza Imeni Sorokaletiya Uzbekskoy Sovetskoy Sotsialisticheskoy Respubliki",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.13315,
+    40.8659,
+    68.13315,
+    40.8659
+],
+  "geometry": {"coordinates":[68.13315,40.8659],"type":"Point"}
+}

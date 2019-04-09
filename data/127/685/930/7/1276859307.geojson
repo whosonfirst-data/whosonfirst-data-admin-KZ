@@ -1,0 +1,82 @@
+{
+  "id": 1276859307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.76833,53.32712,73.76833,53.32712",
+    "geom:latitude":53.32712,
+    "geom:longitude":73.76833,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zapadnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517095,
+    "gn:latitude":53.32712,
+    "gn:longitude":73.76833,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Zapadnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyzylqaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u049b\u0430\u049b",
+        "Zapadnoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zapadnyy",
+        "Sovkhoz Zapadnyy",
+        "Zapadnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517095
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c0df40c7e6db3f77a904da9ed156e842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1276859307,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1276859307,
+    "wof:lastmodified":1537659499,
+    "wof:name":"Zapadnoye",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.76833,
+    53.32712,
+    73.76833,
+    53.32712
+],
+  "geometry": {"coordinates":[73.76833000000001,53.32712],"type":"Point"}
+}

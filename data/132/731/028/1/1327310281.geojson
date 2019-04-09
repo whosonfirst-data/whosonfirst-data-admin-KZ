@@ -1,0 +1,83 @@
+{
+  "id": 1327310281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.74819,54.31579,64.74819,54.31579",
+    "geom:latitude":54.31579,
+    "geom:longitude":64.74819,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Obaghan",
+    "gn:country_code":"KZ",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540480,
+    "gn:latitude":54.31579,
+    "gn:longitude":64.74819,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Obaghan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Obaghan"
+    ],
+    "name:kaz_x_preferred":[
+        "Obaghan"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u0431\u0430\u0493\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0431\u0430\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ubagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540480,
+        "wk:page":"Ubagan_River"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c1421e1892b52d5852698e53062c3ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1327310281,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1327310281,
+    "wof:lastmodified":1537660032,
+    "wof:name":"Obaghan",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.74819000000001,
+    54.31579,
+    64.74819000000001,
+    54.31579
+],
+  "geometry": {"coordinates":[64.74819000000001,54.31579],"type":"Point"}
+}

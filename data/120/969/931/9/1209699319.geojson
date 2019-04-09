@@ -1,0 +1,70 @@
+{
+  "id": 1209699319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.9,46.36667,61.9,46.36667",
+    "geom:latitude":46.36667,
+    "geom:longitude":61.9,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kateksuat",
+    "gn:country_code":"KZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522929,
+    "gn:latitude":46.36667,
+    "gn:longitude":61.9,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kateksuat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Ketiks\u016bat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522929
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5bd238b8140980159e6a5b34e7d7e23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785633,
+            "locality_id":1209699319,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1209699319,
+    "wof:lastmodified":1537659778,
+    "wof:name":"Kateksuat",
+    "wof:parent_id":1108785633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.9,
+    46.36667,
+    61.9,
+    46.36667
+],
+  "geometry": {"coordinates":[61.9,46.36667],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1309882109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.61734,43.14214,74.61734,43.14214",
+    "geom:latitude":43.14214,
+    "geom:longitude":74.61734,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Stepnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518779,
+    "gn:latitude":43.14214,
+    "gn:longitude":74.61734,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Stepnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Stepnoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Stepnoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518779
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"82fcc5dbdab472a50d9b21e5a4c78983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785317,
+            "locality_id":1309882109,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1309882109,
+    "wof:lastmodified":1537659574,
+    "wof:name":"Stepnoye",
+    "wof:parent_id":1108785317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.61734,
+    43.14214000000001,
+    74.61734,
+    43.14214000000001
+],
+  "geometry": {"coordinates":[74.61734,43.14214000000001],"type":"Point"}
+}

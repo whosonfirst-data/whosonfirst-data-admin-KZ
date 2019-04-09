@@ -1,0 +1,80 @@
+{
+  "id": 1343333055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.38282,52.40543,64.38282,52.40543",
+    "geom:latitude":52.40543,
+    "geom:longitude":64.38282,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Chernigovka",
+    "gn:country_code":"KZ",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524836,
+    "gn:latitude":52.40543,
+    "gn:longitude":64.38282,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Chernigovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chernigovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Chern\u012bgovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chernigovskiy",
+        "Chernigovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524836
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"733d58db9d005ec15126d86004584ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785659,
+            "locality_id":1343333055,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343333055,
+    "wof:lastmodified":1537659851,
+    "wof:name":"Chernigovka",
+    "wof:parent_id":1108785659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.38282,
+    52.40543,
+    64.38282,
+    52.40543
+],
+  "geometry": {"coordinates":[64.38282,52.40543],"type":"Point"}
+}

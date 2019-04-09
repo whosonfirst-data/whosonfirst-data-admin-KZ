@@ -1,0 +1,73 @@
+{
+  "id": 1242897825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.2,50.65,55.2,50.65",
+    "geom:latitude":50.65,
+    "geom:longitude":55.2,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aksay",
+    "gn:country_code":"KZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610721,
+    "gn:latitude":50.65,
+    "gn:longitude":55.2,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Aksay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aksay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0441\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610721
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"39b52a1e6bfdb2430d0eb922eef98235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785491,
+            "locality_id":1242897825,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1242897825,
+    "wof:lastmodified":1537659452,
+    "wof:name":"Aksay",
+    "wof:parent_id":1108785491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.2,
+    50.65,
+    55.2,
+    50.65
+],
+  "geometry": {"coordinates":[55.2,50.65],"type":"Point"}
+}

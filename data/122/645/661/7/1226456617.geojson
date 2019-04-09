@@ -1,0 +1,72 @@
+{
+  "id": 1226456617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.02222,43.61333,77.02222,43.61333",
+    "geom:latitude":43.61333,
+    "geom:longitude":77.02222,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhanaarka",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1539952,
+    "gn:latitude":43.61333,
+    "gn:longitude":77.02222,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zhanaarka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhanaarna",
+        "Zhanaarka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1539952
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"345aedaa391eed3b7799fd09b2d98f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785433,
+            "locality_id":1226456617,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1226456617,
+    "wof:lastmodified":1537660030,
+    "wof:name":"Zhanaarka",
+    "wof:parent_id":1108785433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.02221999999998,
+    43.61333,
+    77.02221999999998,
+    43.61333
+],
+  "geometry": {"coordinates":[77.02221999999998,43.61333],"type":"Point"}
+}

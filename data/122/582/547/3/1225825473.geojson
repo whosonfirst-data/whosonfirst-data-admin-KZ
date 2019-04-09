@@ -1,0 +1,72 @@
+{
+  "id": 1225825473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.40833,49.53502,72.40833,49.53502",
+    "geom:latitude":49.53502,
+    "geom:longitude":72.40833,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kotyr",
+    "gn:country_code":"KZ",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522129,
+    "gn:latitude":49.53502,
+    "gn:longitude":72.40833,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kotyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotur",
+        "Kozha",
+        "Kotyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522129
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3fba162976adef9aa3923be1ba5495d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785649,
+            "locality_id":1225825473,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1225825473,
+    "wof:lastmodified":1537659744,
+    "wof:name":"Kotyr",
+    "wof:parent_id":1108785649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.40833,
+    49.53502,
+    72.40833,
+    49.53502
+],
+  "geometry": {"coordinates":[72.40833000000001,49.53502],"type":"Point"}
+}

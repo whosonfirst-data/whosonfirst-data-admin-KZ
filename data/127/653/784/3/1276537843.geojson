@@ -1,0 +1,79 @@
+{
+  "id": 1276537843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.98139,42.94509,69.98139,42.94509",
+    "geom:latitude":42.94509,
+    "geom:longitude":69.98139,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shuqyrshaq",
+    "gn:country_code":"KZ",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641328,
+    "gn:latitude":42.94509,
+    "gn:longitude":69.98139,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Shuqyrshaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shuqyrshaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u04b1\u049b\u044b\u0440\u0448\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u043a\u044b\u0440\u0448\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Shukyrshak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641328
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"127cb65df27933221abc554da2a5f0e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785583,
+            "locality_id":1276537843,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276537843,
+    "wof:lastmodified":1537660056,
+    "wof:name":"Shuqyrshaq",
+    "wof:parent_id":1108785583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.98139,
+    42.94509,
+    69.98139,
+    42.94509
+],
+  "geometry": {"coordinates":[69.98139,42.94509],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209302699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.07349,51.73301,78.07349,51.73301",
+    "geom:latitude":51.73301,
+    "geom:longitude":78.07349,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kazy",
+    "gn:country_code":"KZ",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522823,
+    "gn:latitude":51.73301,
+    "gn:longitude":78.07349,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kazy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kazy"
+    ],
+    "name:kaz_x_preferred":[
+        "Qazy"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0437\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kazynskiy",
+        "Kazy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522823
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ef9572d13c9ae79e6379afeee399dfe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209302699
+        }
+    ],
+    "wof:id":1209302699,
+    "wof:lastmodified":1537659774,
+    "wof:name":"Kazy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.07349,
+    51.73301,
+    78.07349,
+    51.73301
+],
+  "geometry": {"coordinates":[78.07349000000001,51.73301],"type":"Point"}
+}

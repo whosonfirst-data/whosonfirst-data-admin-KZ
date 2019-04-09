@@ -1,0 +1,77 @@
+{
+  "id": 1259698335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.70897,48.0858,82.70897,48.0858",
+    "geom:latitude":48.0858,
+    "geom:longitude":82.70897,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhantikey",
+    "gn:country_code":"KZ",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516769,
+    "gn:latitude":48.0858,
+    "gn:longitude":82.70897,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Zhantikey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhantikey"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0440\u043d\u0430\u0437\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Yernazar",
+        "Zhantikey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516769
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b16353c1af356bebe06d64d86b069f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785469,
+            "locality_id":1259698335,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259698335,
+    "wof:lastmodified":1537659483,
+    "wof:name":"Zhantikey",
+    "wof:parent_id":1108785469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.70897,
+    48.0858,
+    82.70897,
+    48.0858
+],
+  "geometry": {"coordinates":[82.70896999999999,48.0858],"type":"Point"}
+}

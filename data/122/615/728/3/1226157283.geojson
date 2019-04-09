@@ -1,0 +1,76 @@
+{
+  "id": 1226157283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.14314,44.20262,80.14314,44.20262",
+    "geom:latitude":44.20262,
+    "geom:longitude":80.14314,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Altyuy",
+    "gn:country_code":"KZ",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564535,
+    "gn:latitude":44.20262,
+    "gn:longitude":80.14314,
+    "gn:modification_date":"2017-04-08",
+    "gn:name":"Altyuy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Alty\u00fcy"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u043b\u0442\u044b\u04af\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0442\u044b\u0443\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564535
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bd2024b6689464ebcb1f6dc9309df564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785409,
+            "locality_id":1226157283,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1226157283,
+    "wof:lastmodified":1537660044,
+    "wof:name":"Altyuy",
+    "wof:parent_id":1108785409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.14314,
+    44.20262,
+    80.14314,
+    44.20262
+],
+  "geometry": {"coordinates":[80.14314,44.20262],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 421167355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.15264,45.84608,62.15264,45.84608",
+    "geom:latitude":45.84608,
+    "geom:longitude":62.15264,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Ayteke Bi"
+    ],
+    "name:eng_x_preferred":[
+        "Ayteke Bi"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03ca\u03c4\u03ad\u03ba\u03b5 \u039c\u03c0\u03b9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u04d8\u0439\u0442\u0435\u043a\u0435 \u0431\u0438 \u043a\u0435\u043d\u0442\u0456"
+    ],
+    "name:kaz_x_variant":[
+        "\u00c4yteke B\u012b"
+    ],
+    "name:lav_x_preferred":[
+        "Eitekebija"
+    ],
+    "name:pol_x_preferred":[
+        "\u00c4jteke Bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0442\u0435\u043a\u0435-\u0411\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ayteke Bi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u0442\u0435\u043a\u0435-\u0431\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Zhangaqazaly"
+    ],
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1516789,
+    "qs:gn_pop":35883,
+    "qs:name":"Ayteke Bi",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Qyzylorda",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":133130,
+    "qs:woe_adm0":23424871,
+    "qs:woe_id":2263840,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516789,
+        "gp:id":2263840,
+        "qs:id":133130,
+        "wd:id":"Q2380922",
+        "wk:page":"Ayteke Bi"
+    },
+    "wof:country":"KZ",
+    "wof:created":1459008728,
+    "wof:geomhash":"62f0b9de2219a0556319044cf3983965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421167355,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":421167355,
+    "wof:lastmodified":1553816355,
+    "wof:name":"Ayteke Bi",
+    "wof:parent_id":85672885,
+    "wof:placetype":"locality",
+    "wof:population":35883,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.15264,
+    45.84608,
+    62.15264,
+    45.84608
+],
+  "geometry": {"coordinates":[62.15264,45.84608],"type":"Point"}
+}

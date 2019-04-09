@@ -1,0 +1,87 @@
+{
+  "id": 1327316691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.35135,49.60976,84.35135,49.60976",
+    "geom:latitude":49.60976,
+    "geom:longitude":84.35135,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Solov'yovo",
+    "gn:country_code":"KZ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518895,
+    "gn:latitude":49.60976,
+    "gn:longitude":84.35135,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Solov\u2019yovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Solov'yevo"
+    ],
+    "name:kaz_x_preferred":[
+        "Solov\u2019yovo"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u043e\u043b\u043e\u0432\u044c\u0451\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u0432\u044c\u0435\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "Solov\u2019y\u00ebvo"
+    ],
+    "name:und_x_variant":[
+        "Solov\u2019yeva",
+        "Solov\u2019eva",
+        "Solov\u2019yevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518895
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b7713330c1dacd3532df289a494f45a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1327316691,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327316691,
+    "wof:lastmodified":1537659581,
+    "wof:name":"Solov'yovo",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.35135,
+    49.60976,
+    84.35135,
+    49.60976
+],
+  "geometry": {"coordinates":[84.35135,49.60976],"type":"Point"}
+}

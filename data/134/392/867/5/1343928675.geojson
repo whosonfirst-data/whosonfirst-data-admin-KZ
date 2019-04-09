@@ -1,0 +1,79 @@
+{
+  "id": 1343928675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.47313,43.51054,67.47313,43.51054",
+    "geom:latitude":43.51054,
+    "geom:longitude":67.47313,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Qazaqbay",
+    "gn:country_code":"KZ",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10876331,
+    "gn:latitude":43.51054,
+    "gn:longitude":67.47313,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Qazaqbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qazaqbay"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0437\u0430\u049b\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0445\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kazakhbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10876331
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"abc0576886b52387a5d307250ec0b03d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1343928675,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1343928675,
+    "wof:lastmodified":1537660073,
+    "wof:name":"Qazaqbay",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.47313,
+    43.51054,
+    67.47313,
+    43.51054
+],
+  "geometry": {"coordinates":[67.47313,43.51054],"type":"Point"}
+}

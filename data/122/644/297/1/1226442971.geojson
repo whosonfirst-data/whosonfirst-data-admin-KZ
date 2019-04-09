@@ -1,0 +1,67 @@
+{
+  "id": 1226442971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.65,51.08333,61.65,51.08333",
+    "geom:latitude":51.08333,
+    "geom:longitude":61.65,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bao-Kara-Su",
+    "gn:country_code":"KZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525769,
+    "gn:latitude":51.08333,
+    "gn:longitude":61.65,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Bao-Kara-Su",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525769
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9e67778c20307bcd19d1998e05f782ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1226442971,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1226442971,
+    "wof:lastmodified":1536649217,
+    "wof:name":"Bao-Kara-Su",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.65,
+    51.08333,
+    61.65,
+    51.08333
+],
+  "geometry": {"coordinates":[61.65,51.08333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209232911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.85,50.25,53.85,50.25",
+    "geom:latitude":50.25,
+    "geom:longitude":53.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kazgan",
+    "gn:country_code":"KZ",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609456,
+    "gn:latitude":50.25,
+    "gn:longitude":53.85,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kazgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609456
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8f5955c4e45bb17142b91d3435f39027",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209232911
+        }
+    ],
+    "wof:id":1209232911,
+    "wof:lastmodified":1536293581,
+    "wof:name":"Kazgan",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.85,
+    50.25,
+    53.85,
+    50.25
+],
+  "geometry": {"coordinates":[53.85,50.25],"type":"Point"}
+}

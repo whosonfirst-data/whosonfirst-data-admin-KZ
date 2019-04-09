@@ -1,0 +1,79 @@
+{
+  "id": 1243417839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.58357,43.7345,72.58357,43.7345",
+    "geom:latitude":43.7345,
+    "geom:longitude":72.58357,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Saryqoby",
+    "gn:country_code":"KZ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11518929,
+    "gn:latitude":43.7345,
+    "gn:longitude":72.58357,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Saryqoby",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Saryqoby"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0430\u0440\u044b\u049b\u043e\u0431\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u043a\u043e\u0431\u044b"
+    ],
+    "name:und_x_variant":[
+        "Sarykoby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11518929
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"592a99e4ba4a9b441a451b6535804081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785319,
+            "locality_id":1243417839,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1243417839,
+    "wof:lastmodified":1537660184,
+    "wof:name":"Saryqoby",
+    "wof:parent_id":1108785319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.58357,
+    43.7345,
+    72.58357,
+    43.7345
+],
+  "geometry": {"coordinates":[72.58356999999999,43.7345],"type":"Point"}
+}

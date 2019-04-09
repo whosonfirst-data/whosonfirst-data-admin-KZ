@@ -1,0 +1,65 @@
+{
+  "id": 1209024451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.25,43.53333,68.25,43.53333",
+    "geom:latitude":43.53333,
+    "geom:longitude":68.25,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shert",
+    "gn:country_code":"KZ",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519209,
+    "gn:latitude":43.53333,
+    "gn:longitude":68.25,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Shert",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sert",
+        "Shert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519209
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ae7409beec8f178144e18e2ed83d8a55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209024451
+        }
+    ],
+    "wof:id":1209024451,
+    "wof:lastmodified":1537659596,
+    "wof:name":"Shert",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.25,
+    43.53333,
+    68.25,
+    43.53333
+],
+  "geometry": {"coordinates":[68.25,43.53333],"type":"Point"}
+}

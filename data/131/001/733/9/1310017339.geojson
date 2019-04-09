@@ -1,0 +1,76 @@
+{
+  "id": 1310017339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.05428,52.51365,68.05428,52.51365",
+    "geom:latitude":52.51365,
+    "geom:longitude":68.05428,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Beryozovka",
+    "gn:country_code":"KZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149480,
+    "gn:latitude":52.51365,
+    "gn:longitude":68.05428,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Beryozovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Beryozovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u0440\u0451\u0437\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Ber\u00ebzovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149480
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6366e33874ab4c38e5c0325929b0e692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785397,
+            "locality_id":1310017339,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310017339,
+    "wof:lastmodified":1537660123,
+    "wof:name":"Beryozovka",
+    "wof:parent_id":1108785397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.05428,
+    52.51365,
+    68.05428,
+    52.51365
+],
+  "geometry": {"coordinates":[68.05428000000001,52.51365],"type":"Point"}
+}

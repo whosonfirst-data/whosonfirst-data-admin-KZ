@@ -1,0 +1,76 @@
+{
+  "id": 1276535653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.3552,48.26685,75.3552,48.26685",
+    "geom:latitude":48.26685,
+    "geom:longitude":75.3552,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Akshkol",
+    "gn:country_code":"KZ",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11411579,
+    "gn:latitude":48.26685,
+    "gn:longitude":75.3552,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Akshkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqshk\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0448\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0448\u043a\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11411579
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d4b8c0fedc86d6c011c0c56683b7a6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1276535653,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1276535653,
+    "wof:lastmodified":1537660136,
+    "wof:name":"Akshkol",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.3552,
+    48.26685,
+    75.3552,
+    48.26685
+],
+  "geometry": {"coordinates":[75.3552,48.26685],"type":"Point"}
+}

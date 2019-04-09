@@ -1,0 +1,74 @@
+{
+  "id": 1225933009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.89369,41.37266,68.89369,41.37266",
+    "geom:latitude":41.37266,
+    "geom:longitude":68.89369,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhetitobe",
+    "gn:country_code":"KZ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524383,
+    "gn:latitude":41.37266,
+    "gn:longitude":68.89369,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Zhetitobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u0442\u0438\u0442\u043e\u0431\u0435"
+    ],
+    "name:und_x_variant":[
+        "Dzhety-Tyube",
+        "Zhetitobe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524383
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"22386cd570cb739b1a312038587d82a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1225933009,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1225933009,
+    "wof:lastmodified":1537659832,
+    "wof:name":"Zhetitobe",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.89369,
+    41.37266,
+    68.89369,
+    41.37266
+],
+  "geometry": {"coordinates":[68.89369000000001,41.37266],"type":"Point"}
+}

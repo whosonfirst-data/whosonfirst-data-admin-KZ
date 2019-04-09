@@ -1,0 +1,76 @@
+{
+  "id": 1326724093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.18306,40.86072,68.18306,40.86072",
+    "geom:latitude":40.86072,
+    "geom:longitude":68.18306,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Karaozek",
+    "gn:country_code":"KZ",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535812,
+    "gn:latitude":40.86072,
+    "gn:longitude":68.18306,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Karaozek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qara\u00f6zek"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u04e9\u0437\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043e\u0437\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535812
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"149cfa509b09ea8b3b2d15bb0da36e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1326724093,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1326724093,
+    "wof:lastmodified":1537660002,
+    "wof:name":"Karaozek",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.18306,
+    40.86072,
+    68.18306,
+    40.86072
+],
+  "geometry": {"coordinates":[68.18306,40.86072],"type":"Point"}
+}

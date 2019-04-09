@@ -1,0 +1,78 @@
+{
+  "id": 1310522881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.05853,51.19653,50.05853,51.19653",
+    "geom:latitude":51.19653,
+    "geom:longitude":50.05853,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Semiglavyy Mar",
+    "gn:country_code":"KZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608393,
+    "gn:latitude":51.19653,
+    "gn:longitude":50.05853,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sem\u012bglavyy Mar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sem\u012bglavyy Mar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u0433\u043b\u0430\u0432\u044b\u0439_\u043c\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Semiglavy Mar",
+        "Semiglavi Mar",
+        "Sem\u012bglavyy Mar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608393
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"95f843f2d99ff8439b4209b9d68ff532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785329,
+            "locality_id":1310522881,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1310522881,
+    "wof:lastmodified":1537659370,
+    "wof:name":"Semiglavyy Mar",
+    "wof:parent_id":1108785329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.05853,
+    51.19653,
+    50.05853,
+    51.19653
+],
+  "geometry": {"coordinates":[50.05853,51.19653],"type":"Point"}
+}

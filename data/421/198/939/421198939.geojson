@@ -1,0 +1,89 @@
+{
+  "id": 421198939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.71392,51.42724,52.71392,51.42724",
+    "geom:latitude":51.42724,
+    "geom:longitude":52.71392,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "B\u00f6rili"
+    ],
+    "name:kaz_x_preferred":[
+        "B\u00f6rili"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u043b\u0438\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Burlin"
+    ],
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":610164,
+    "qs:gn_pop":3593,
+    "qs:name":"Kurlin",
+    "qs:name_adm0":"Russia",
+    "qs:name_adm1":"Orenburg Oblast",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":443441,
+    "qs:woe_adm0":23424936,
+    "qs:woe_id":2033149,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610164,
+        "gp:id":2033149,
+        "qs:id":443441
+    },
+    "wof:country":"KZ",
+    "wof:created":1459009966,
+    "wof:geomhash":"9aec85966b544754e9b953242da5fcca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421198939,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":421198939,
+    "wof:lastmodified":1505340760,
+    "wof:name":"Kurlin",
+    "wof:parent_id":85672893,
+    "wof:placetype":"locality",
+    "wof:population":3593,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.71392,
+    51.42724,
+    52.71392,
+    51.42724
+],
+  "geometry": {"coordinates":[52.71392,51.42724],"type":"Point"}
+}

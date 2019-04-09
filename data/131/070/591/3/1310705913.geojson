@@ -1,0 +1,83 @@
+{
+  "id": 1310705913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.30181,43.67805,77.30181,43.67805",
+    "geom:latitude":43.67805,
+    "geom:longitude":77.30181,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qaratoghan",
+    "gn:country_code":"KZ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524051,
+    "gn:latitude":43.67805,
+    "gn:longitude":77.30181,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Qaratoghan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaratoghan"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0442\u043e\u0493\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0442\u043e\u0433\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0440\u0438\u0433\u0430\u0434\u0430 \u041d\u043e\u043c\u0435\u0440 \u041e\u0434\u0438\u043d \u041a\u043e\u043b\u0445\u043e\u0437\u0430 \u0418\u043c\u0435\u043d\u0438 \u0424\u0440\u0443\u043d\u0437\u0435"
+    ],
+    "name:und_x_variant":[
+        "Karatogan",
+        "Brigada Nomer Odin Kolkhoza Imeni Frunze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524051
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2b22475ed69cef894192a8d08efc4443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785421,
+            "locality_id":1310705913,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1310705913,
+    "wof:lastmodified":1537659817,
+    "wof:name":"Qaratoghan",
+    "wof:parent_id":1108785421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.30181,
+    43.67805,
+    77.30181,
+    43.67805
+],
+  "geometry": {"coordinates":[77.30181,43.67805],"type":"Point"}
+}

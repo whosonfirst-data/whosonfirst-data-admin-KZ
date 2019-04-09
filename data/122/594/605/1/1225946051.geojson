@@ -1,0 +1,67 @@
+{
+  "id": 1225946051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.03346,51.18926,68.03346,51.18926",
+    "geom:latitude":51.18926,
+    "geom:longitude":68.03346,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kayrakty",
+    "gn:country_code":"KZ",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537311,
+    "gn:latitude":51.18926,
+    "gn:longitude":68.03346,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kayrakty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537311
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a6150cac5f94bd8550715e3df127839d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785387,
+            "locality_id":1225946051,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1225946051,
+    "wof:lastmodified":1536867691,
+    "wof:name":"Kayrakty",
+    "wof:parent_id":1108785387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.03345999999999,
+    51.18926,
+    68.03345999999999,
+    51.18926
+],
+  "geometry": {"coordinates":[68.03345999999999,51.18926],"type":"Point"}
+}

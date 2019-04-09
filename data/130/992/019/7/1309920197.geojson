@@ -1,0 +1,67 @@
+{
+  "id": 1309920197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.46337,45.61602,80.46337,45.61602",
+    "geom:latitude":45.61602,
+    "geom:longitude":80.46337,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sokolovka",
+    "gn:country_code":"KZ",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518919,
+    "gn:latitude":45.61602,
+    "gn:longitude":80.46337,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sokolovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518919
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"324d8a86b67cb1a60518be717ef52a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785417,
+            "locality_id":1309920197,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1309920197,
+    "wof:lastmodified":1536766502,
+    "wof:name":"Sokolovka",
+    "wof:parent_id":1108785417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.46337,
+    45.61602,
+    80.46337,
+    45.61602
+],
+  "geometry": {"coordinates":[80.46337,45.61602],"type":"Point"}
+}

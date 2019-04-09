@@ -1,0 +1,71 @@
+{
+  "id": 1360096511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.7108,51.60587,65.7108,51.60587",
+    "geom:latitude":51.60587,
+    "geom:longitude":65.7108,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Eyskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517142,
+    "gn:latitude":51.60587,
+    "gn:longitude":65.7108,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Eysk\u012by",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeyskiy",
+        "Eysk\u012by"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517142
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"620dbf25b86436c53e92282674e7fd89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785621,
+            "locality_id":1360096511,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1360096511,
+    "wof:lastmodified":1537659502,
+    "wof:name":"Eyskiy",
+    "wof:parent_id":1108785621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.7108,
+    51.60587,
+    65.7108,
+    51.60587
+],
+  "geometry": {"coordinates":[65.71080000000001,51.60587],"type":"Point"}
+}

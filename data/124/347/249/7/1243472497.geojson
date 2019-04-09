@@ -1,0 +1,72 @@
+{
+  "id": 1243472497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.46667,51.5,77.46667,51.5",
+    "geom:latitude":51.5,
+    "geom:longitude":77.46667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Shigan",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519172,
+    "gn:latitude":51.5,
+    "gn:longitude":77.46667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shigan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chigan",
+        "Shigan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519172
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"22ecaf3bf8802a4a367f199638968cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1243472497,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1243472497,
+    "wof:lastmodified":1537659595,
+    "wof:name":"Shigan",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.46667,
+    51.5,
+    77.46667,
+    51.5
+],
+  "geometry": {"coordinates":[77.46666999999999,51.5],"type":"Point"}
+}

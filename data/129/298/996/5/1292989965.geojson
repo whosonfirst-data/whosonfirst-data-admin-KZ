@@ -1,0 +1,70 @@
+{
+  "id": 1292989965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.29132,42.52181,70.29132,42.52181",
+    "geom:latitude":42.52181,
+    "geom:longitude":70.29132,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kyzylasker",
+    "gn:country_code":"KZ",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10842204,
+    "gn:latitude":42.52181,
+    "gn:longitude":70.29132,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Kyzylasker",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0430\u0441\u043a\u0435\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10842204
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"16e3c8dd9dd8e48d0b9752cbcc1377f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785605,
+            "locality_id":1292989965,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1292989965,
+    "wof:lastmodified":1537660067,
+    "wof:name":"Kyzylasker",
+    "wof:parent_id":1108785605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.29132,
+    42.52181,
+    70.29132,
+    42.52181
+],
+  "geometry": {"coordinates":[70.29132,42.52181],"type":"Point"}
+}

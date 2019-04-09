@@ -1,0 +1,67 @@
+{
+  "id": 1293705091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.95,48.88333,77.95,48.88333",
+    "geom:latitude":48.88333,
+    "geom:longitude":77.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bak-Bolat",
+    "gn:country_code":"KZ",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525845,
+    "gn:latitude":48.88333,
+    "gn:longitude":77.95,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Bak-Bolat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525845
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7f516024e0e45f5204f173ff09d6164b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1293705091,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293705091,
+    "wof:lastmodified":1536970361,
+    "wof:name":"Bak-Bolat",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.95,
+    48.88333,
+    77.95,
+    48.88333
+],
+  "geometry": {"coordinates":[77.95,48.88333],"type":"Point"}
+}

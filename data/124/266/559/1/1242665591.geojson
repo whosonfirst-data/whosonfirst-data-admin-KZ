@@ -1,0 +1,74 @@
+{
+  "id": 1242665591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.40738,52.11077,76.40738,52.11077",
+    "geom:latitude":52.11077,
+    "geom:longitude":76.40738,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pogranichnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520109,
+    "gn:latitude":52.11077,
+    "gn:longitude":76.40738,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Pogranichnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pogranichnik",
+        "Pogran\u012bchnoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520109
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6a2fddbf2dd8a9bf8009a6a74ebef12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785551,
+            "locality_id":1242665591,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1242665591,
+    "wof:lastmodified":1537659638,
+    "wof:name":"Pogranichnoye",
+    "wof:parent_id":1108785551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.40738,
+    52.11077,
+    76.40738,
+    52.11077
+],
+  "geometry": {"coordinates":[76.40738,52.11077],"type":"Point"}
+}

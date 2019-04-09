@@ -1,0 +1,80 @@
+{
+  "id": 1343479205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96859,42.88562,68.96859,42.88562",
+    "geom:latitude":42.88562,
+    "geom:longitude":68.96859,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kyzyltu",
+    "gn:country_code":"KZ",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521464,
+    "gn:latitude":42.88562,
+    "gn:longitude":68.96859,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Kyzyltu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Elshibek Batyr"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u043b\u0448\u0456\u0431\u0435\u043a \u0411\u0430\u0442\u044b\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0442\u0443"
+    ],
+    "name:und_x_variant":[
+        "Kok-Tyube",
+        "Kyzyltu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521464
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bb09502912e332675be497342fff13fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785587,
+            "locality_id":1343479205,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1343479205,
+    "wof:lastmodified":1537659717,
+    "wof:name":"Kyzyltu",
+    "wof:parent_id":1108785587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96859,
+    42.88562,
+    68.96859,
+    42.88562
+],
+  "geometry": {"coordinates":[68.96859000000001,42.88562],"type":"Point"}
+}

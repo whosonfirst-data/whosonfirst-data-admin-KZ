@@ -1,0 +1,73 @@
+{
+  "id": 1225913883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.712,52.83972,67.712,52.83972",
+    "geom:latitude":52.83972,
+    "geom:longitude":67.712,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Pron'kino",
+    "gn:country_code":"KZ",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519988,
+    "gn:latitude":52.83972,
+    "gn:longitude":67.712,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Pron\u2019kino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Pron\u2019kino"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0440\u043e\u043d\u044c\u043a\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519988
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"52846dce70646444d1703973ba16293f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1225913883,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1225913883,
+    "wof:lastmodified":1537659629,
+    "wof:name":"Pron'kino",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.712,
+    52.83971999999999,
+    67.712,
+    52.83971999999999
+],
+  "geometry": {"coordinates":[67.712,52.83971999999999],"type":"Point"}
+}

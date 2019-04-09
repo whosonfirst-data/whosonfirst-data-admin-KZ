@@ -1,0 +1,103 @@
+{
+  "id": 890451561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.86942,53.36871,62.86942,53.36871",
+    "geom:latitude":53.36871,
+    "geom:longitude":62.86942,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":10285,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Cachar"
+    ],
+    "name:dut_x_preferred":[
+        "Katschar"
+    ],
+    "name:eng_x_preferred":[
+        "Kachar"
+    ],
+    "name:fre_x_preferred":[
+        "Katschar"
+    ],
+    "name:ger_x_preferred":[
+        "Katschar"
+    ],
+    "name:ita_x_preferred":[
+        "Katschar"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u0448\u0430\u0440"
+    ],
+    "name:nob_x_preferred":[
+        "Cachar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0447\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Katschar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0447\u0430\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Qashar"
+    ],
+    "qs:name":"Kachar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":208,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519932,
+        "gp:id":29389363,
+        "qs:id":133229,
+        "wd:id":"Q963258",
+        "wk:page":"Kachar"
+    },
+    "wof:country":"KZ",
+    "wof:created":1469052785,
+    "wof:geomhash":"c20043872664a0310a6ad2cba085e5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890451561,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":890451561,
+    "wof:lastmodified":1527792936,
+    "wof:name":"Kachar",
+    "wof:parent_id":85672879,
+    "wof:placetype":"locality",
+    "wof:population":10285,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.86942,
+    53.36871,
+    62.86942,
+    53.36871
+],
+  "geometry": {"coordinates":[62.86942,53.36871],"type":"Point"}
+}

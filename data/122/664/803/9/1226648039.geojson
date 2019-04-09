@@ -1,0 +1,79 @@
+{
+  "id": 1226648039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07059,52.90966,71.07059,52.90966",
+    "geom:latitude":52.90966,
+    "geom:longitude":71.07059,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kengashchy",
+    "gn:country_code":"KZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11146364,
+    "gn:latitude":52.90966,
+    "gn:longitude":71.07059,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Kengashchy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kengashchy"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0435\u04a3\u0430\u0449\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0430\u0449\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kenashchy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11146364
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"27400dc8b9d9b22986807d487ecebbc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1226648039,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226648039,
+    "wof:lastmodified":1537660121,
+    "wof:name":"Kengashchy",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07059,
+    52.90966,
+    71.07059,
+    52.90966
+],
+  "geometry": {"coordinates":[71.07059,52.90966],"type":"Point"}
+}

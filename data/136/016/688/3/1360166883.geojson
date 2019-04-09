@@ -1,0 +1,83 @@
+{
+  "id": 1360166883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.42026,54.00447,68.42026,54.00447",
+    "geom:latitude":54.00447,
+    "geom:longitude":68.42026,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Korneyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522255,
+    "gn:latitude":54.00447,
+    "gn:longitude":68.42026,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Korneyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Korneyevka"
+    ],
+    "name:kaz_x_preferred":[
+        "Korneevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u043e\u0440\u043d\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kornevka",
+        "Korneyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522255
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a45dd60c0bbbd89d8c2dc5748e9dabd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785563,
+            "locality_id":1360166883,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1360166883,
+    "wof:lastmodified":1537659751,
+    "wof:name":"Korneyevka",
+    "wof:parent_id":1108785563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.42026,
+    54.00447,
+    68.42026,
+    54.00447
+],
+  "geometry": {"coordinates":[68.42026,54.00447],"type":"Point"}
+}

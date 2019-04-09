@@ -1,0 +1,70 @@
+{
+  "id": 1309695989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.94167,43.55664,68.94167,43.55664",
+    "geom:latitude":43.55664,
+    "geom:longitude":68.94167,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tadzhysaray",
+    "gn:country_code":"KZ",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055528,
+    "gn:latitude":43.55664,
+    "gn:longitude":68.94167,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Tadzhysaray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0434\u0436\u044b\u0441\u0430\u0440\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055528
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9b9dd0e03b574ceb93ce496e8e02f55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1309695989,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1309695989,
+    "wof:lastmodified":1537660094,
+    "wof:name":"Tadzhysaray",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.94167,
+    43.55664,
+    68.94167,
+    43.55664
+],
+  "geometry": {"coordinates":[68.94167,43.55664],"type":"Point"}
+}

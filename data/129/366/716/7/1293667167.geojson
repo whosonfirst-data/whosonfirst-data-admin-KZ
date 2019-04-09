@@ -1,0 +1,81 @@
+{
+  "id": 1293667167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.96402,52.79932,75.96402,52.79932",
+    "geom:latitude":52.79932,
+    "geom:longitude":75.96402,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Khar'kovka",
+    "gn:country_code":"KZ",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522713,
+    "gn:latitude":52.79932,
+    "gn:longitude":75.96402,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Khar\u2019kovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khar'kovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u0440\u044c\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u044c\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khar\u2019kovskoye",
+        "Khar\u2019kovskiy",
+        "Khar\u2019kovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522713
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a76a901ccbf8563d84bfdf0879e1e74d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785553,
+            "locality_id":1293667167,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1293667167,
+    "wof:lastmodified":1537659770,
+    "wof:name":"Khar'kovka",
+    "wof:parent_id":1108785553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.96401999999998,
+    52.79932,
+    75.96401999999998,
+    52.79932
+],
+  "geometry": {"coordinates":[75.96401999999998,52.79932],"type":"Point"}
+}

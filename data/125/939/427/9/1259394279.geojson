@@ -1,0 +1,67 @@
+{
+  "id": 1259394279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.48822,51.03677,66.48822,51.03677",
+    "geom:latitude":51.03677,
+    "geom:longitude":66.48822,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"L'vovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521281,
+    "gn:latitude":51.03677,
+    "gn:longitude":66.48822,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u2019vovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521281
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"850fd836422ffa875e8d3ad2ffaf6541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785497,
+            "locality_id":1259394279,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259394279,
+    "wof:lastmodified":1536985952,
+    "wof:name":"L'vovskiy",
+    "wof:parent_id":1108785497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.48822,
+    51.03677,
+    66.48822,
+    51.03677
+],
+  "geometry": {"coordinates":[66.48822,51.03677],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209539661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.05,49.35,57.05,49.35",
+    "geom:latitude":49.35,
+    "geom:longitude":57.05,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Temir",
+    "gn:country_code":"KZ",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608035,
+    "gn:latitude":49.35,
+    "gn:longitude":57.05,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Temir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Temir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043c\u0438\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608035
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"20bf5263db11eb256e4269e68fd8319d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209539661
+        }
+    ],
+    "wof:id":1209539661,
+    "wof:lastmodified":1537659357,
+    "wof:name":"Temir",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.05,
+    49.35,
+    57.05,
+    49.35
+],
+  "geometry": {"coordinates":[57.05,49.35],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326901949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.8,43.2,70.8,43.2",
+    "geom:latitude":43.2,
+    "geom:longitude":70.8,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Maytobe",
+    "gn:country_code":"KZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521001,
+    "gn:latitude":43.2,
+    "gn:longitude":70.8,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Maytobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akshuak",
+        "Maytobe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521001
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b6da8de6648a5f6f342e2b00db961aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785603,
+            "locality_id":1326901949,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1326901949,
+    "wof:lastmodified":1537659692,
+    "wof:name":"Maytobe",
+    "wof:parent_id":1108785603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.8,
+    43.2,
+    70.8,
+    43.2
+],
+  "geometry": {"coordinates":[70.8,43.2],"type":"Point"}
+}

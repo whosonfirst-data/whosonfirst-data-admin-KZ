@@ -1,0 +1,61 @@
+{
+  "id": 1209014563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.85,51.25,62.85,51.25",
+    "geom:latitude":51.25,
+    "geom:longitude":62.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Alasor",
+    "gn:country_code":"KZ",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526485,
+    "gn:latitude":51.25,
+    "gn:longitude":62.85,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Alasor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526485
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c5828d09406e03d0183a92355d8cf6c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209014563
+        }
+    ],
+    "wof:id":1209014563,
+    "wof:lastmodified":1536300337,
+    "wof:name":"Alasor",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.85,
+    51.25,
+    62.85,
+    51.25
+],
+  "geometry": {"coordinates":[62.85,51.25],"type":"Point"}
+}

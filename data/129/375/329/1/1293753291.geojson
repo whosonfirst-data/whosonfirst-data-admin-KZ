@@ -1,0 +1,76 @@
+{
+  "id": 1293753291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.04847,53.96702,69.04847,53.96702",
+    "geom:latitude":53.96702,
+    "geom:longitude":69.04847,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dobrozhanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532328,
+    "gn:latitude":53.96702,
+    "gn:longitude":69.04847,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Dobrozhanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dobrozhanovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0436\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0436\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532328
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2bc60149cccd9ed72aadfeeafdc64ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1293753291,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293753291,
+    "wof:lastmodified":1537659964,
+    "wof:name":"Dobrozhanovka",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.04847,
+    53.96702,
+    69.04847,
+    53.96702
+],
+  "geometry": {"coordinates":[69.04846999999999,53.96702],"type":"Point"}
+}

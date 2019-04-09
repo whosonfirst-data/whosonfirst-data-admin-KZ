@@ -1,0 +1,73 @@
+{
+  "id": 1343944131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.97742,54.40837,65.97742,54.40837",
+    "geom:latitude":54.40837,
+    "geom:longitude":65.97742,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kazanka",
+    "gn:country_code":"KZ",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522852,
+    "gn:latitude":54.40837,
+    "gn:longitude":65.97742,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kazanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kazanka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0430\u0437\u0430\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522852
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fd7ee299f49a44c24ff2c20f9780f46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1343944131,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343944131,
+    "wof:lastmodified":1537659776,
+    "wof:name":"Kazanka",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.97742,
+    54.40837,
+    65.97742,
+    54.40837
+],
+  "geometry": {"coordinates":[65.97742,54.40837],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209615807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.48501,50.66605,58.48501,50.66605",
+    "geom:latitude":50.66605,
+    "geom:longitude":58.48501,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Borodinovka",
+    "gn:country_code":"KZ",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610216,
+    "gn:latitude":50.66605,
+    "gn:longitude":58.48501,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Borodinovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Borodinovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610216
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ee3bd03c13c20383785d899d3009e075",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209615807
+        }
+    ],
+    "wof:id":1209615807,
+    "wof:lastmodified":1537659434,
+    "wof:name":"Borodinovka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.48501,
+    50.66605,
+    58.48501,
+    50.66605
+],
+  "geometry": {"coordinates":[58.48501,50.66605],"type":"Point"}
+}

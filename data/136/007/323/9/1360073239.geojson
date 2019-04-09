@@ -1,0 +1,75 @@
+{
+  "id": 1360073239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.7744,50.95739,75.7744,50.95739",
+    "geom:latitude":50.95739,
+    "geom:longitude":75.7744,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Karasor",
+    "gn:country_code":"KZ",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523185,
+    "gn:latitude":50.95739,
+    "gn:longitude":75.7744,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Karasor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0441\u043e\u0440"
+    ],
+    "name:und_x_variant":[
+        "Pik Kirasorskiy",
+        "Karasorskiy",
+        "Karasor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523185
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c8f4dc7aff81446e7ea5afcbeeb1cddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1360073239,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1360073239,
+    "wof:lastmodified":1537659785,
+    "wof:name":"Karasor",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.7744,
+    50.95739,
+    75.7744,
+    50.95739
+],
+  "geometry": {"coordinates":[75.7744,50.95739],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226254429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.09378,51.29032,72.09378,51.29032",
+    "geom:latitude":51.29032,
+    "geom:longitude":72.09378,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novovladimirovka",
+    "gn:country_code":"KZ",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520524,
+    "gn:latitude":51.29032,
+    "gn:longitude":72.09378,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Novovladimirovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Novovlad\u012bm\u012brovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0432\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novovladimirovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520524
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"02d1e5dc0e8a2d3864892f57b2049b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785443,
+            "locality_id":1226254429,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226254429,
+    "wof:lastmodified":1537659661,
+    "wof:name":"Novovladimirovka",
+    "wof:parent_id":1108785443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.09378000000002,
+    51.29032,
+    72.09378000000002,
+    51.29032
+],
+  "geometry": {"coordinates":[72.09378000000002,51.29032],"type":"Point"}
+}

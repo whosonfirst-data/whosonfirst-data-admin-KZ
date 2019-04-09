@@ -1,0 +1,81 @@
+{
+  "id": 1226632551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.95007,52.22484,61.95007,52.22484",
+    "geom:latitude":52.22484,
+    "geom:longitude":61.95007,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Chebendovka",
+    "gn:country_code":"KZ",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519238,
+    "gn:latitude":52.22484,
+    "gn:longitude":61.95007,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Chebendovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shybyndy"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u044b\u0431\u044b\u043d\u0434\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0431\u0435\u043d\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chebendovskiy",
+        "Shebendovskiy",
+        "Chebendovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519238
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4fb16ce5bab8222e6d50502bcab7d92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785661,
+            "locality_id":1226632551,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226632551,
+    "wof:lastmodified":1537659598,
+    "wof:name":"Chebendovka",
+    "wof:parent_id":1108785661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.95007,
+    52.22484,
+    61.95007,
+    52.22484
+],
+  "geometry": {"coordinates":[61.95007,52.22484],"type":"Point"}
+}

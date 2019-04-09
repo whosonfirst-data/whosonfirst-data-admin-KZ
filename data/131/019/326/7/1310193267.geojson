@@ -1,0 +1,71 @@
+{
+  "id": 1310193267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.35,52.51667,75.35,52.51667",
+    "geom:latitude":52.51667,
+    "geom:longitude":75.35,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shidertinskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519178,
+    "gn:latitude":52.51667,
+    "gn:longitude":75.35,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Shidertinskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shiderty",
+        "Shidertinskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519178
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d633d34a55f31b6ae2ecb6652b8cee59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785553,
+            "locality_id":1310193267,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310193267,
+    "wof:lastmodified":1537659595,
+    "wof:name":"Shidertinskiy",
+    "wof:parent_id":1108785553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.35,
+    52.51667,
+    75.35,
+    52.51667
+],
+  "geometry": {"coordinates":[75.34999999999999,52.51667],"type":"Point"}
+}

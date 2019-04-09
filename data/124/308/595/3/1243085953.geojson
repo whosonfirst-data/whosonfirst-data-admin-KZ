@@ -1,0 +1,67 @@
+{
+  "id": 1243085953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.62477,46.64108,77.62477,46.64108",
+    "geom:latitude":46.64108,
+    "geom:longitude":77.62477,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maykamys",
+    "gn:country_code":"KZ",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521046,
+    "gn:latitude":46.64108,
+    "gn:longitude":77.62477,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Maykamys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521046
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a25985c3446d8a5d71e98349d45db385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785417,
+            "locality_id":1243085953,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1243085953,
+    "wof:lastmodified":1536827231,
+    "wof:name":"Maykamys",
+    "wof:parent_id":1108785417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.62477,
+    46.64108,
+    77.62477,
+    46.64108
+],
+  "geometry": {"coordinates":[77.62477,46.64108],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293889809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.03333,49.36667,56.03333,49.36667",
+    "geom:latitude":49.36667,
+    "geom:longitude":56.03333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shiylitogay",
+    "gn:country_code":"KZ",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608301,
+    "gn:latitude":49.36667,
+    "gn:longitude":56.03333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Shiylitogay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shigirly-Togay",
+        "Shiylitogay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608301
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"43975360d1b89997e1246ef681470919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785705,
+            "locality_id":1293889809,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293889809,
+    "wof:lastmodified":1537659366,
+    "wof:name":"Shiylitogay",
+    "wof:parent_id":1108785705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.03333000000001,
+    49.36667,
+    56.03333000000001,
+    49.36667
+],
+  "geometry": {"coordinates":[56.03333000000001,49.36667],"type":"Point"}
+}

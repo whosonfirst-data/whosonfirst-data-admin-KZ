@@ -1,0 +1,74 @@
+{
+  "id": 1327031853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.07312,51.0038,72.07312,51.0038",
+    "geom:latitude":51.0038,
+    "geom:longitude":72.07312,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vyacheslavka",
+    "gn:country_code":"KZ",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517347,
+    "gn:latitude":51.0038,
+    "gn:longitude":72.07312,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Vyacheslavka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vyacheslavskoye",
+        "Vyacheslavka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517347
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e4d0f22a2855b0c2800504ce7deb066e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785443,
+            "locality_id":1327031853,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327031853,
+    "wof:lastmodified":1537659514,
+    "wof:name":"Vyacheslavka",
+    "wof:parent_id":1108785443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.07311999999997,
+    51.0038,
+    72.07311999999997,
+    51.0038
+],
+  "geometry": {"coordinates":[72.07311999999997,51.0038],"type":"Point"}
+}

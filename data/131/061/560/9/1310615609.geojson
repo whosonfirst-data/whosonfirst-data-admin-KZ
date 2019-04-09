@@ -1,0 +1,81 @@
+{
+  "id": 1310615609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.80708,54.9772,68.80708,54.9772",
+    "geom:latitude":54.9772,
+    "geom:longitude":68.80708,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Krasnoznamennoye",
+    "gn:country_code":"KZ",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522850,
+    "gn:latitude":54.9772,
+    "gn:longitude":68.80708,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Krasnoznam\u00ebnnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krasnoznamennoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0437\u043d\u0430\u043c\u0435\u043d\u043d\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "Krasnoznam\u00ebnnoye"
+    ],
+    "name:und_x_variant":[
+        "Mamlyutskiy",
+        "Kazanka",
+        "Sovkhoz Mamlyutskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522850
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"70402dc9c87ff004a77059436a2b3704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785359,
+            "locality_id":1310615609,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310615609,
+    "wof:lastmodified":1537659776,
+    "wof:name":"Krasnoznamennoye",
+    "wof:parent_id":1108785359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.80708,
+    54.9772,
+    68.80708,
+    54.9772
+],
+  "geometry": {"coordinates":[68.80708,54.9772],"type":"Point"}
+}

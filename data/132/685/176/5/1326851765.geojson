@@ -1,0 +1,73 @@
+{
+  "id": 1326851765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.30465,51.02466,53.30465,51.02466",
+    "geom:latitude":51.02466,
+    "geom:longitude":53.30465,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Akbulak",
+    "gn:country_code":"KZ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610780,
+    "gn:latitude":51.02466,
+    "gn:longitude":53.30465,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Akbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akbulak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610780
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f18fd521231d58e5f71105438295392c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785325,
+            "locality_id":1326851765,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1326851765,
+    "wof:lastmodified":1537659454,
+    "wof:name":"Akbulak",
+    "wof:parent_id":1108785325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.30465,
+    51.02466,
+    53.30465,
+    51.02466
+],
+  "geometry": {"coordinates":[53.30465,51.02466],"type":"Point"}
+}

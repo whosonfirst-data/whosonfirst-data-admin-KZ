@@ -1,0 +1,67 @@
+{
+  "id": 1310227323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.4,47.93333,51.4,47.93333",
+    "geom:latitude":47.93333,
+    "geom:longitude":51.4,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Baksayskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610455,
+    "gn:latitude":47.93333,
+    "gn:longitude":51.4,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Baksayskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610455
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d0ab4bd0d0e406eab56f919e21d872a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785445,
+            "locality_id":1310227323,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1310227323,
+    "wof:lastmodified":1536819952,
+    "wof:name":"Baksayskiy",
+    "wof:parent_id":1108785445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.4,
+    47.93333,
+    51.4,
+    47.93333
+],
+  "geometry": {"coordinates":[51.4,47.93333],"type":"Point"}
+}

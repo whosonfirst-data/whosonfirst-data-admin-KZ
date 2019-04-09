@@ -1,0 +1,61 @@
+{
+  "id": 1209433111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.13333,50.23333,49.13333,50.23333",
+    "geom:latitude":50.23333,
+    "geom:longitude":49.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Karanogay",
+    "gn:country_code":"KZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609590,
+    "gn:latitude":50.23333,
+    "gn:longitude":49.13333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Karanogay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609590
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5b5b62ae2a43e20f2fdfce879e7f76f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209433111
+        }
+    ],
+    "wof:id":1209433111,
+    "wof:lastmodified":1536287180,
+    "wof:name":"Karanogay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.13333,
+    50.23333,
+    49.13333,
+    50.23333
+],
+  "geometry": {"coordinates":[49.13333,50.23333],"type":"Point"}
+}

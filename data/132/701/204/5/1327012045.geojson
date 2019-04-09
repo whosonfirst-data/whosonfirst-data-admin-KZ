@@ -1,0 +1,70 @@
+{
+  "id": 1327012045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.72801,53.71415,66.72801,53.71415",
+    "geom:latitude":53.71415,
+    "geom:longitude":66.72801,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Studencheskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1532129,
+    "gn:latitude":53.71415,
+    "gn:longitude":66.72801,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Studencheskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u0447\u0435\u0441\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532129
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2b54b371bb4eb6dde9c5a029b6ce69b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785689,
+            "locality_id":1327012045,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1327012045,
+    "wof:lastmodified":1537659958,
+    "wof:name":"Studencheskoye",
+    "wof:parent_id":1108785689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.72801,
+    53.71415,
+    66.72801,
+    53.71415
+],
+  "geometry": {"coordinates":[66.72801,53.71415],"type":"Point"}
+}

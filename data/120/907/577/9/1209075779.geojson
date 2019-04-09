@@ -1,0 +1,68 @@
+{
+  "id": 1209075779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.05317,55.1461,70.05317,55.1461",
+    "geom:latitude":55.1461,
+    "geom:longitude":70.05317,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Leninka",
+    "gn:country_code":"KZ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521372,
+    "gn:latitude":55.1461,
+    "gn:longitude":70.05317,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Leninka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Leninskiy",
+        "Leninka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521372
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aba82233f4ac08281066710456e45331",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209075779
+        }
+    ],
+    "wof:id":1209075779,
+    "wof:lastmodified":1537659711,
+    "wof:name":"Leninka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.05317,
+    55.1461,
+    70.05317,
+    55.1461
+],
+  "geometry": {"coordinates":[70.05316999999999,55.1461],"type":"Point"}
+}

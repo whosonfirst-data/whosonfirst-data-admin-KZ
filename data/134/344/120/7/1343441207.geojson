@@ -1,0 +1,67 @@
+{
+  "id": 1343441207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.23333,50.08333,74.23333,50.08333",
+    "geom:latitude":50.08333,
+    "geom:longitude":74.23333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Voroshilovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517392,
+    "gn:latitude":50.08333,
+    "gn:longitude":74.23333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Voroshilovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517392
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8b208f4034ea005281d6740bf5e13840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1343441207,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1343441207,
+    "wof:lastmodified":1536774722,
+    "wof:name":"Voroshilovskiy",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.23333000000002,
+    50.08333,
+    74.23333000000002,
+    50.08333
+],
+  "geometry": {"coordinates":[74.23333000000002,50.08333],"type":"Point"}
+}

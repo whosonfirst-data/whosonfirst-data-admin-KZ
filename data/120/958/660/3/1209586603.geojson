@@ -1,0 +1,75 @@
+{
+  "id": 1209586603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.48992,42.82333,71.48992,42.82333",
+    "geom:latitude":42.82333,
+    "geom:longitude":71.48992,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Grodikovo",
+    "gn:country_code":"KZ",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524174,
+    "gn:latitude":42.82333,
+    "gn:longitude":71.48992,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Grodikovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Grod\u012bkov"
+    ],
+    "name:kaz_x_variant":[
+        "\u0413\u0440\u043e\u0434\u0438\u043a\u043e\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u0434\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Grodekovo",
+        "Grod\u012bkovo",
+        "Grodikovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524174
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f43a730ceeea54d093163f0f0b911fcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209586603
+        }
+    ],
+    "wof:id":1209586603,
+    "wof:lastmodified":1537659822,
+    "wof:name":"Grodikovo",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.48992,
+    42.82333,
+    71.48992,
+    42.82333
+],
+  "geometry": {"coordinates":[71.48992,42.82333],"type":"Point"}
+}

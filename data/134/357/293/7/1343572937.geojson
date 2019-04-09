@@ -1,0 +1,72 @@
+{
+  "id": 1343572937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.56892,51.58702,67.56892,51.58702",
+    "geom:latitude":51.58702,
+    "geom:longitude":67.56892,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Qima",
+    "gn:country_code":"KZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522601,
+    "gn:latitude":51.58702,
+    "gn:longitude":67.56892,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Q\u012bma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiyma",
+        "Niyma",
+        "Q\u012bma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522601
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0ce5beef67a0a33fa7592a6565b945a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785623,
+            "locality_id":1343572937,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343572937,
+    "wof:lastmodified":1537659765,
+    "wof:name":"Qima",
+    "wof:parent_id":1108785623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.56891999999999,
+    51.58702,
+    67.56891999999999,
+    51.58702
+],
+  "geometry": {"coordinates":[67.56891999999999,51.58702],"type":"Point"}
+}

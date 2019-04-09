@@ -1,0 +1,77 @@
+{
+  "id": 1326903539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.69459,48.22051,83.69459,48.22051",
+    "geom:latitude":48.22051,
+    "geom:longitude":83.69459,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Aqsuat",
+    "gn:country_code":"KZ",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526649,
+    "gn:latitude":48.22051,
+    "gn:longitude":83.69459,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Aqs\u016bat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aqs\u016bat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0441\u0443\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "Aksuat",
+        "Aqs\u016bat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526649
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1a5ae0cba3951aa3059c6879359ddf36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1326903539,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1326903539,
+    "wof:lastmodified":1537659921,
+    "wof:name":"Aqsuat",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.69459,
+    48.22051,
+    83.69459,
+    48.22051
+],
+  "geometry": {"coordinates":[83.69459000000001,48.22051],"type":"Point"}
+}

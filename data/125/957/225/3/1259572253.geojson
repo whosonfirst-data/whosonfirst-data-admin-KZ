@@ -1,0 +1,78 @@
+{
+  "id": 1259572253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.97926,41.39481,68.97926,41.39481",
+    "geom:latitude":41.39481,
+    "geom:longitude":68.97926,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zholbasshi",
+    "gn:country_code":"KZ",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526338,
+    "gn:latitude":41.39481,
+    "gn:longitude":68.97926,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Zholbasshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u043e\u043b\u0431\u0430\u0441\u0448\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u044c\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Amangel\u2019dy",
+        "Zholbasshi",
+        "Zholbasshy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526338
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0dd3768a525ab2632778a8afa5dd3e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1259572253,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1259572253,
+    "wof:lastmodified":1537659910,
+    "wof:name":"Zholbasshi",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.97926,
+    41.39481,
+    68.97926,
+    41.39481
+],
+  "geometry": {"coordinates":[68.97926,41.39481],"type":"Point"}
+}

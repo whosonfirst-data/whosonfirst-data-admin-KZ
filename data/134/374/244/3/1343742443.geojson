@@ -1,0 +1,67 @@
+{
+  "id": 1343742443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.78333,50.75,72.78333,50.75",
+    "geom:latitude":50.75,
+    "geom:longitude":72.78333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Krasnoarmeyskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522034,
+    "gn:latitude":50.75,
+    "gn:longitude":72.78333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Krasnoarmeyskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522034
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"21f44a72c136a65e1f45e1bfcd1ab9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1343742443,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1343742443,
+    "wof:lastmodified":1536835850,
+    "wof:name":"Krasnoarmeyskiy",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.78333,
+    50.75,
+    72.78333,
+    50.75
+],
+  "geometry": {"coordinates":[72.78333000000001,50.75],"type":"Point"}
+}

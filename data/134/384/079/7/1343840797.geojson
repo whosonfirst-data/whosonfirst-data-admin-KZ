@@ -1,0 +1,82 @@
+{
+  "id": 1343840797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.70117,48.77066,84.70117,48.77066",
+    "geom:latitude":48.77066,
+    "geom:longitude":84.70117,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Maraldy",
+    "gn:country_code":"KZ",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519550,
+    "gn:latitude":48.77066,
+    "gn:longitude":84.70117,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Maraldy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maraldy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u043b\u0434\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u043b\u0438\u0445\u0430"
+    ],
+    "name:und_x_variant":[
+        "Saryta\u016b",
+        "Maral\u012bkha",
+        "Maraldy",
+        "Maralikha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519550
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"707b8b4e7823cd187ffddc40dff4e8c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1343840797,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343840797,
+    "wof:lastmodified":1537659610,
+    "wof:name":"Maraldy",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.70116999999998,
+    48.77066,
+    84.70116999999998,
+    48.77066
+],
+  "geometry": {"coordinates":[84.70116999999998,48.77066],"type":"Point"}
+}

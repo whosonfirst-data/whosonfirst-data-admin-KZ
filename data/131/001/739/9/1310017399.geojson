@@ -1,0 +1,71 @@
+{
+  "id": 1310017399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.51433,51.69052,68.51433,51.69052",
+    "geom:latitude":51.69052,
+    "geom:longitude":68.51433,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Rodionovka",
+    "gn:country_code":"KZ",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519874,
+    "gn:latitude":51.69052,
+    "gn:longitude":68.51433,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Rodionovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rodionovskoye",
+        "Rodionovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519874
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"38b9b59b9a58495ba1efce7b3904f791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785387,
+            "locality_id":1310017399,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310017399,
+    "wof:lastmodified":1537659622,
+    "wof:name":"Rodionovka",
+    "wof:parent_id":1108785387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.51433,
+    51.69052,
+    68.51433,
+    51.69052
+],
+  "geometry": {"coordinates":[68.51433,51.69052],"type":"Point"}
+}

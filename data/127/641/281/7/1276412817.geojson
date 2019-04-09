@@ -1,0 +1,82 @@
+{
+  "id": 1276412817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.27398,54.12521,67.27398,54.12521",
+    "geom:latitude":54.12521,
+    "geom:longitude":67.27398,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Semipolka",
+    "gn:country_code":"KZ",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519413,
+    "gn:latitude":54.12521,
+    "gn:longitude":67.27398,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Semipolka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sem\u012bpolka"
+    ],
+    "name:kaz_x_preferred":[
+        "Sem\u012bpolka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0435\u043c\u0438\u043f\u043e\u043b\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u043f\u043e\u043b\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Semipol\u2019skoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519413
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1e0401c25fa9ed840569771a86650216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1276412817,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276412817,
+    "wof:lastmodified":1537659606,
+    "wof:name":"Semipolka",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.27398000000001,
+    54.12521,
+    67.27398000000001,
+    54.12521
+],
+  "geometry": {"coordinates":[67.27398000000001,54.12521],"type":"Point"}
+}

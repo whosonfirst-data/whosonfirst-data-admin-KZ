@@ -1,0 +1,61 @@
+{
+  "id": 1209324875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.48333,50.46667,70.48333,50.46667",
+    "geom:latitude":50.46667,
+    "geom:longitude":70.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Arykty Tretiy",
+    "gn:country_code":"KZ",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526171,
+    "gn:latitude":50.46667,
+    "gn:longitude":70.48333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Arykty Tretiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526171
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"903f72e6df13b8e14440c25b7c029540",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209324875
+        }
+    ],
+    "wof:id":1209324875,
+    "wof:lastmodified":1536290565,
+    "wof:name":"Arykty Tretiy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.48333000000002,
+    50.46667,
+    70.48333000000002,
+    50.46667
+],
+  "geometry": {"coordinates":[70.48333000000002,50.46667],"type":"Point"}
+}

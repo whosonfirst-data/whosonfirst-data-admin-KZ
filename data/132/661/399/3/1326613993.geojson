@@ -1,0 +1,79 @@
+{
+  "id": 1326613993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.00634,42.22656,69.00634,42.22656",
+    "geom:latitude":42.22656,
+    "geom:longitude":69.00634,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Toghansay",
+    "gn:country_code":"KZ",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11120483,
+    "gn:latitude":42.22656,
+    "gn:longitude":69.00634,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Toghansay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Toghansay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u043e\u0493\u0430\u043d\u0441\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0433\u0430\u043d\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Togansay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11120483
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2738ee165709e5246435f58e56ad7dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785581,
+            "locality_id":1326613993,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1326613993,
+    "wof:lastmodified":1537660115,
+    "wof:name":"Toghansay",
+    "wof:parent_id":1108785581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.00634000000001,
+    42.22656,
+    69.00634000000001,
+    42.22656
+],
+  "geometry": {"coordinates":[69.00634000000001,42.22656],"type":"Point"}
+}

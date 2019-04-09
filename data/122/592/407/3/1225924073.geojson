@@ -1,0 +1,77 @@
+{
+  "id": 1225924073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.88053,49.9828,72.88053,49.9828",
+    "geom:latitude":49.9828,
+    "geom:longitude":72.88053,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Saratovka",
+    "gn:country_code":"KZ",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519721,
+    "gn:latitude":49.9828,
+    "gn:longitude":72.88053,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Saratovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Saratovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Saratovskoye",
+        "Saratovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519721
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b40ec0d8c674b97e5517c67e018ab6b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1225924073,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1225924073,
+    "wof:lastmodified":1537659614,
+    "wof:name":"Saratovka",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.88053000000002,
+    49.9828,
+    72.88053000000002,
+    49.9828
+],
+  "geometry": {"coordinates":[72.88053000000002,49.9828],"type":"Point"}
+}

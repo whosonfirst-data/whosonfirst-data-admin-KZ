@@ -1,0 +1,73 @@
+{
+  "id": 1326506653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.76457,53.90785,61.76457,53.90785",
+    "geom:latitude":53.90785,
+    "geom:longitude":61.76457,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dal'niy",
+    "gn:country_code":"KZ",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507426,
+    "gn:latitude":53.90785,
+    "gn:longitude":61.76457,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Dal\u2019niy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dal\u2019niy"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0430\u043b\u044c\u043d\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507426
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b971d6650f3cae2d1571f0ca4335c6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785333,
+            "locality_id":1326506653,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1326506653,
+    "wof:lastmodified":1537660169,
+    "wof:name":"Dal'niy",
+    "wof:parent_id":1108785333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.76456999999999,
+    53.90785,
+    61.76456999999999,
+    53.90785
+],
+  "geometry": {"coordinates":[61.76456999999999,53.90785],"type":"Point"}
+}

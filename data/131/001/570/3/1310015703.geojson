@@ -1,0 +1,76 @@
+{
+  "id": 1310015703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.25,51.58333,51.25,51.58333",
+    "geom:latitude":51.58333,
+    "geom:longitude":51.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Astaf'yev",
+    "gn:country_code":"KZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610542,
+    "gn:latitude":51.58333,
+    "gn:longitude":51.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Astaf\u2019yev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Astaf'yev"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u0442\u0430\u0444\u044c\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Astaf\u2019yev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610542
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"90c710edffbe10c6b7ec0b15f32ef267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785331,
+            "locality_id":1310015703,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1310015703,
+    "wof:lastmodified":1537659446,
+    "wof:name":"Astaf'yev",
+    "wof:parent_id":1108785331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.25,
+    51.58333,
+    51.25,
+    51.58333
+],
+  "geometry": {"coordinates":[51.25,51.58333],"type":"Point"}
+}

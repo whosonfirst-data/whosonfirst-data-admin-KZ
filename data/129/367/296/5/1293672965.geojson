@@ -1,0 +1,75 @@
+{
+  "id": 1293672965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.255,41.43667,68.255,41.43667",
+    "geom:latitude":41.43667,
+    "geom:longitude":68.255,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bekbata",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532460,
+    "gn:latitude":41.43667,
+    "gn:longitude":68.255,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Bekbata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043a\u0431\u0430\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Imeni Dzhambula",
+        "Bekbata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532460
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2c521395982a854b8334d8069ef26122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1293672965,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293672965,
+    "wof:lastmodified":1537659968,
+    "wof:name":"Bekbata",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.255,
+    41.43667,
+    68.255,
+    41.43667
+],
+  "geometry": {"coordinates":[68.255,41.43667],"type":"Point"}
+}

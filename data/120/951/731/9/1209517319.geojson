@@ -1,0 +1,73 @@
+{
+  "id": 1209517319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.8513,52.18149,72.8513,52.18149",
+    "geom:latitude":52.18149,
+    "geom:longitude":72.8513,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tasqara",
+    "gn:country_code":"KZ",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10838464,
+    "gn:latitude":52.18149,
+    "gn:longitude":72.8513,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Tasqara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Tasqara"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0430\u0441\u049b\u0430\u0440\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0441\u043a\u0430\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Taskara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10838464
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d434208e642fba261d407a4d60ceeefd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209517319
+        }
+    ],
+    "wof:id":1209517319,
+    "wof:lastmodified":1537660063,
+    "wof:name":"Tasqara",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.8513,
+    52.18149,
+    72.8513,
+    52.18149
+],
+  "geometry": {"coordinates":[72.85129999999999,52.18149],"type":"Point"}
+}

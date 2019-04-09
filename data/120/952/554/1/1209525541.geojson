@@ -1,0 +1,66 @@
+{
+  "id": 1209525541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.82998,46.48545,80.82998,46.48545",
+    "geom:latitude":46.48545,
+    "geom:longitude":80.82998,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zharsuat",
+    "gn:country_code":"KZ",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516703,
+    "gn:latitude":46.48545,
+    "gn:longitude":80.82998,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zharsuat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itmen\u2019",
+        "Intymak",
+        "Zharsuat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516703
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"faef535fa3ab7e93b2257675411c0189",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209525541
+        }
+    ],
+    "wof:id":1209525541,
+    "wof:lastmodified":1537659481,
+    "wof:name":"Zharsuat",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.82998,
+    46.48545,
+    80.82998,
+    46.48545
+],
+  "geometry": {"coordinates":[80.82998000000001,46.48545],"type":"Point"}
+}

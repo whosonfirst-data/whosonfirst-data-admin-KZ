@@ -1,0 +1,73 @@
+{
+  "id": 1225852597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.4873,52.16465,71.4873,52.16465",
+    "geom:latitude":52.16465,
+    "geom:longitude":71.4873,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chernaya Pika",
+    "gn:country_code":"KZ",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11137867,
+    "gn:latitude":52.16465,
+    "gn:longitude":71.4873,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Ch\u00ebrnaya Pika",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ch\u00ebrnaya Pika"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0451\u0440\u043d\u0430\u044f \u041f\u0438\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11137867
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d1583d95ea7e826242a3095e3341b7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1225852597,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1225852597,
+    "wof:lastmodified":1537660118,
+    "wof:name":"Chernaya Pika",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.4873,
+    52.16465,
+    71.4873,
+    52.16465
+],
+  "geometry": {"coordinates":[71.4873,52.16465],"type":"Point"}
+}

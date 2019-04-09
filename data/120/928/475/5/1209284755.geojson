@@ -1,0 +1,67 @@
+{
+  "id": 1209284755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.1,46.75,82.1,46.75",
+    "geom:latitude":46.75,
+    "geom:longitude":82.1,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qaratal",
+    "gn:country_code":"KZ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523963,
+    "gn:latitude":46.75,
+    "gn:longitude":82.1,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Qaratal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaratal"
+    ],
+    "name:und_x_variant":[
+        "Imeni Krupskoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523963
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d513b6845fdc335ac7149c83f591bc47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209284755
+        }
+    ],
+    "wof:id":1209284755,
+    "wof:lastmodified":1537659813,
+    "wof:name":"Qaratal",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.1,
+    46.75,
+    82.1,
+    46.75
+],
+  "geometry": {"coordinates":[82.09999999999999,46.75],"type":"Point"}
+}

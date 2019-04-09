@@ -1,0 +1,67 @@
+{
+  "id": 1343345187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.21667,40.8,68.21667,40.8",
+    "geom:latitude":40.8,
+    "geom:longitude":68.21667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Karakoy",
+    "gn:country_code":"KZ",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523298,
+    "gn:latitude":40.8,
+    "gn:longitude":68.21667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Karakoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523298
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3277c068243075aada24010b04185a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1343345187,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1343345187,
+    "wof:lastmodified":1536913089,
+    "wof:name":"Karakoy",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.21667,
+    40.8,
+    68.21667,
+    40.8
+],
+  "geometry": {"coordinates":[68.21666999999999,40.8],"type":"Point"}
+}

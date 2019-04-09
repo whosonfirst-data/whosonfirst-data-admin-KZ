@@ -1,0 +1,79 @@
+{
+  "id": 1310484509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.32851,50.54289,81.32851,50.54289",
+    "geom:latitude":50.54289,
+    "geom:longitude":81.32851,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Novaya Shul'ba",
+    "gn:country_code":"KZ",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520656,
+    "gn:latitude":50.54289,
+    "gn:longitude":81.32851,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Novaya Sh\u016bl\u2019ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novaya Sh\u016bl'ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0428\u0443\u043b\u044c\u0431\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novo-Shul\u2019binskoye",
+        "Novo-Shul\u2019ba",
+        "Novo-Shul\u2019binka",
+        "Novaya Sh\u016bl\u2019ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520656
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ceed9fb67a9a865bd4b6ff73aad64ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1310484509,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310484509,
+    "wof:lastmodified":1537659673,
+    "wof:name":"Novaya Shul'ba",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.32851,
+    50.54289,
+    81.32851,
+    50.54289
+],
+  "geometry": {"coordinates":[81.32850999999999,50.54289],"type":"Point"}
+}

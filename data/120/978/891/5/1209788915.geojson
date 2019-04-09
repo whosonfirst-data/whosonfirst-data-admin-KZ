@@ -1,0 +1,80 @@
+{
+  "id": 1209788915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.95,47.56667,82.95,47.56667",
+    "geom:latitude":47.56667,
+    "geom:longitude":82.95,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qulbabas",
+    "gn:country_code":"KZ",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524023,
+    "gn:latitude":47.56667,
+    "gn:longitude":82.95,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Qulbabas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qulbabas"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u04b1\u043b\u0431\u0430\u0431\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0431\u0430\u0431\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Imeni Kalinina",
+        "Kulbabas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524023
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a94e7843d8f6961b1ac6371f3a6f3f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785469,
+            "locality_id":1209788915,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1209788915,
+    "wof:lastmodified":1537659815,
+    "wof:name":"Qulbabas",
+    "wof:parent_id":1108785469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.95,
+    47.56667,
+    82.95,
+    47.56667
+],
+  "geometry": {"coordinates":[82.95,47.56667],"type":"Point"}
+}

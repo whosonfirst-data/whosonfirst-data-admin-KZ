@@ -1,0 +1,79 @@
+{
+  "id": 1226626439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.43344,49.49273,72.43344,49.49273",
+    "geom:latitude":49.49273,
+    "geom:longitude":72.43344,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Qornaq",
+    "gn:country_code":"KZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475730,
+    "gn:latitude":49.49273,
+    "gn:longitude":72.43344,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Qornaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qornaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u0440\u043d\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kornak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475730
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ed2ee3a3367e4b3837efa9a45fe14b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785649,
+            "locality_id":1226626439,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226626439,
+    "wof:lastmodified":1537660156,
+    "wof:name":"Qornaq",
+    "wof:parent_id":1108785649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.43344,
+    49.49273,
+    72.43344,
+    49.49273
+],
+  "geometry": {"coordinates":[72.43344,49.49273],"type":"Point"}
+}

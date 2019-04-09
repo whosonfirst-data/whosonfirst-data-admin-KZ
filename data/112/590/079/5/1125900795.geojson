@@ -1,0 +1,78 @@
+{
+  "id": 1125900795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.3,48.16667,75.3,48.16667",
+    "geom:latitude":48.16667,
+    "geom:longitude":75.3,
+    "gn:gn_country":"KZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3741,
+    "gn:population":3741,
+    "iso:country":"KZ",
+    "lbl:latitude":48.16667,
+    "lbl:longitude":75.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"KZ",
+    "qs_pg:gn_country":"KZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1526573,
+    "qs_pg:gn_pop":3741,
+    "qs_pg:name":"Aktogay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":133410,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526573,
+        "qs_pg:id":133410
+    },
+    "wof:country":"KZ",
+    "wof:created":1497295793,
+    "wof:geomhash":"9025539c3e2033b17282713f43a3182b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1125900795,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1125900795,
+    "wof:lastmodified":1509399389,
+    "wof:name":"Aktogay",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:population":3741,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.3,
+    48.16667,
+    75.3,
+    48.16667
+],
+  "geometry": {"coordinates":[75.3,48.16667],"type":"Point"}
+}

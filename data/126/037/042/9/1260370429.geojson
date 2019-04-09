@@ -1,0 +1,70 @@
+{
+  "id": 1260370429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.14897,48.37037,73.14897,48.37037",
+    "geom:latitude":48.37037,
+    "geom:longitude":73.14897,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bidayyk",
+    "gn:country_code":"KZ",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11410804,
+    "gn:latitude":48.37037,
+    "gn:longitude":73.14897,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Bidayyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0434\u0430\u0439\u044b\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11410804
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"96f876f41536a70a67adcdd1f2b1e74c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1260370429,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1260370429,
+    "wof:lastmodified":1537660136,
+    "wof:name":"Bidayyk",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.14896999999998,
+    48.37037,
+    73.14896999999998,
+    48.37037
+],
+  "geometry": {"coordinates":[73.14896999999998,48.37037],"type":"Point"}
+}

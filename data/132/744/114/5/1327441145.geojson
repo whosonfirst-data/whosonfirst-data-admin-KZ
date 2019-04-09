@@ -1,0 +1,79 @@
+{
+  "id": 1327441145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.55495,44.30699,77.55495,44.30699",
+    "geom:latitude":44.30699,
+    "geom:longitude":77.55495,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qopaly",
+    "gn:country_code":"KZ",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055356,
+    "gn:latitude":44.30699,
+    "gn:longitude":77.55495,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Qopaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qopaly"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u043f\u0430\u043b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kopaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055356
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"94221dea46cd750f423fad079b411af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785423,
+            "locality_id":1327441145,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1327441145,
+    "wof:lastmodified":1537660092,
+    "wof:name":"Qopaly",
+    "wof:parent_id":1108785423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.55495,
+    44.30699,
+    77.55495,
+    44.30699
+],
+  "geometry": {"coordinates":[77.55495000000001,44.30699],"type":"Point"}
+}

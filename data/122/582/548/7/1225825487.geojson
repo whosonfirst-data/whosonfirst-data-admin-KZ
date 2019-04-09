@@ -1,0 +1,67 @@
+{
+  "id": 1225825487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.8,46.2,73.8,46.2",
+    "geom:latitude":46.2,
+    "geom:longitude":73.8,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Saryshagan",
+    "gn:country_code":"KZ",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519567,
+    "gn:latitude":46.2,
+    "gn:longitude":73.8,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Saryshagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519567
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b721ddf516ac0b0044b3b947ebf5dd1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1225825487,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1225825487,
+    "wof:lastmodified":1537041184,
+    "wof:name":"Saryshagan",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.8,
+    46.2,
+    73.8,
+    46.2
+],
+  "geometry": {"coordinates":[73.8,46.2],"type":"Point"}
+}

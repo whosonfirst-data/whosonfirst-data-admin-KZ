@@ -1,0 +1,80 @@
+{
+  "id": 1242858111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.88678,42.38358,69.88678,42.38358",
+    "geom:latitude":42.38358,
+    "geom:longitude":69.88678,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Samsonovka",
+    "gn:country_code":"KZ",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519749,
+    "gn:latitude":42.38358,
+    "gn:longitude":69.88678,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Samsonovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqbulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0441\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Samsonovo",
+        "Samsonovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519749
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2ff13d09966833360b612e4a52e92009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785595,
+            "locality_id":1242858111,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1242858111,
+    "wof:lastmodified":1537659615,
+    "wof:name":"Samsonovka",
+    "wof:parent_id":1108785595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.88678,
+    42.38358,
+    69.88678,
+    42.38358
+],
+  "geometry": {"coordinates":[69.88678,42.38358],"type":"Point"}
+}

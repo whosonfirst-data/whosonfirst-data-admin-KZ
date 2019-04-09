@@ -1,0 +1,79 @@
+{
+  "id": 1309719547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.34899,53.1485,69.34899,53.1485",
+    "geom:latitude":53.1485,
+    "geom:longitude":69.34899,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vodop'yanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535598,
+    "gn:latitude":53.1485,
+    "gn:longitude":69.34899,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Vodop\u2019yanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vodop'yanovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u043e\u0434\u043e\u043f\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0434\u043e\u043f\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vodop\u2019yanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535598
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e43fb6cf93a4e8b1b49f2ab31539c9be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1309719547,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1309719547,
+    "wof:lastmodified":1537659998,
+    "wof:name":"Vodop'yanovka",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.34899,
+    53.1485,
+    69.34899,
+    53.1485
+],
+  "geometry": {"coordinates":[69.34899,53.1485],"type":"Point"}
+}

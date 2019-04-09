@@ -1,0 +1,80 @@
+{
+  "id": 1259684337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.83201,50.84719,54.83201,50.84719",
+    "geom:latitude":50.84719,
+    "geom:longitude":54.83201,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhirenkopa",
+    "gn:country_code":"KZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607535,
+    "gn:latitude":50.84719,
+    "gn:longitude":54.83201,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Zhirenkopa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zh\u012brenqopa"
+    ],
+    "name:kaz_x_preferred":[
+        "Zh\u012brenqopa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u0440\u0435\u043d\u043a\u043e\u043f\u0430"
+    ],
+    "name:und_x_variant":[
+        "Koblanda",
+        "Zhiren\u2019kupa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607535
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e59ccd91abc2b994076dd2f13e20e381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785491,
+            "locality_id":1259684337,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1259684337,
+    "wof:lastmodified":1537659339,
+    "wof:name":"Zhirenkopa",
+    "wof:parent_id":1108785491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.83201,
+    50.84719000000001,
+    54.83201,
+    50.84719000000001
+],
+  "geometry": {"coordinates":[54.83201,50.84719000000001],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1326637561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.47442,51.43472,72.47442,51.43472",
+    "geom:latitude":51.43472,
+    "geom:longitude":72.47442,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shaqshabay",
+    "gn:country_code":"KZ",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140396,
+    "gn:latitude":51.43472,
+    "gn:longitude":72.47442,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Shaqshabay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shaqshabay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0430\u049b\u0448\u0430\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043a\u0448\u0430\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Shakshabay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140396
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d215d06ac88bdff99b93fad87ffa1285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1326637561,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1326637561,
+    "wof:lastmodified":1537660118,
+    "wof:name":"Shaqshabay",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.47442,
+    51.43472,
+    72.47442,
+    51.43472
+],
+  "geometry": {"coordinates":[72.47441999999999,51.43472],"type":"Point"}
+}

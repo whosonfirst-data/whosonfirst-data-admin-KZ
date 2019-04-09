@@ -1,0 +1,74 @@
+{
+  "id": 1310579315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.5875,52.94976,74.5875,52.94976",
+    "geom:latitude":52.94976,
+    "geom:longitude":74.5875,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Novoivanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520611,
+    "gn:latitude":52.94976,
+    "gn:longitude":74.5875,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Novoivanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0438\u0432\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novo-Ivanovskoye",
+        "Novoivanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520611
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"afa84410f481deba55990b8c7b279fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1310579315,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310579315,
+    "wof:lastmodified":1537659670,
+    "wof:name":"Novoivanovka",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.5875,
+    52.94976,
+    74.5875,
+    52.94976
+],
+  "geometry": {"coordinates":[74.58750000000001,52.94976],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343537627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.37797,43.22824,70.37797,43.22824",
+    "geom:latitude":43.22824,
+    "geom:longitude":70.37797,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Suleymensay",
+    "gn:country_code":"KZ",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518744,
+    "gn:latitude":43.22824,
+    "gn:longitude":70.37797,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Suleymensay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043b\u0435\u0439\u043c\u0435\u043d\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Suleyman-Say"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518744
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"41e51469651a7a9f8cf6f33e40afa81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785643,
+            "locality_id":1343537627,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1343537627,
+    "wof:lastmodified":1537659572,
+    "wof:name":"Suleymensay",
+    "wof:parent_id":1108785643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.37796999999998,
+    43.22824,
+    70.37796999999998,
+    43.22824
+],
+  "geometry": {"coordinates":[70.37796999999998,43.22824],"type":"Point"}
+}

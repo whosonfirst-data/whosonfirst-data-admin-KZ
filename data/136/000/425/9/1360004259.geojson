@@ -1,0 +1,73 @@
+{
+  "id": 1360004259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.45061,50.15939,65.45061,50.15939",
+    "geom:latitude":50.15939,
+    "geom:longitude":65.45061,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Akkisi",
+    "gn:country_code":"KZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530334,
+    "gn:latitude":50.15939,
+    "gn:longitude":65.45061,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Akkisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akkisi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043a\u0438\u0441\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530334
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7dc71d3ee57b736eef43d2e065101dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1360004259,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1360004259,
+    "wof:lastmodified":1537659936,
+    "wof:name":"Akkisi",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.45061,
+    50.15939,
+    65.45061,
+    50.15939
+],
+  "geometry": {"coordinates":[65.45061,50.15939],"type":"Point"}
+}

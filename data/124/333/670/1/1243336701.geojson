@@ -1,0 +1,70 @@
+{
+  "id": 1243336701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.98743,48.31662,79.98743,48.31662",
+    "geom:latitude":48.31662,
+    "geom:longitude":79.98743,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhangizsu",
+    "gn:country_code":"KZ",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527520,
+    "gn:latitude":48.31662,
+    "gn:longitude":79.98743,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Zhangizsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0433\u0438\u0437\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527520
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f326457a519ddf5ea954d66e594fc4f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785459,
+            "locality_id":1243336701,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243336701,
+    "wof:lastmodified":1537660188,
+    "wof:name":"Zhangizsu",
+    "wof:parent_id":1108785459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.98743,
+    48.31662,
+    79.98743,
+    48.31662
+],
+  "geometry": {"coordinates":[79.98743,48.31662],"type":"Point"}
+}

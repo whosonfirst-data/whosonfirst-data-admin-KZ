@@ -1,0 +1,79 @@
+{
+  "id": 1310573697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.39825,52.57465,66.39825,52.57465",
+    "geom:latitude":52.57465,
+    "geom:longitude":66.39825,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zhrakol",
+    "gn:country_code":"KZ",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147687,
+    "gn:latitude":52.57465,
+    "gn:longitude":66.39825,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Zhrak\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhrak\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u0440\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Zharkol\u2019skiy"
+    ],
+    "name:rus_x_variant":[
+        "\u0416\u0430\u0440\u043a\u043e\u043b\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147687
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b39fd60a7e0173bb68439e669001e2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1310573697,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310573697,
+    "wof:lastmodified":1537660122,
+    "wof:name":"Zhrakol",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.39825,
+    52.57465,
+    66.39825,
+    52.57465
+],
+  "geometry": {"coordinates":[66.39825,52.57465],"type":"Point"}
+}

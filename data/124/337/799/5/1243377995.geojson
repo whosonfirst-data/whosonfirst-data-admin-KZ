@@ -1,0 +1,73 @@
+{
+  "id": 1243377995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.96989,50.2217,81.96989,50.2217",
+    "geom:latitude":50.2217,
+    "geom:longitude":81.96989,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Barashki",
+    "gn:country_code":"KZ",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525751,
+    "gn:latitude":50.2217,
+    "gn:longitude":81.96989,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Barashki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Barashki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u0448\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525751
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"91c0ce82fa0adc4d906985acb0a6eea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785611,
+            "locality_id":1243377995,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243377995,
+    "wof:lastmodified":1537659890,
+    "wof:name":"Barashki",
+    "wof:parent_id":1108785611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.96989,
+    50.2217,
+    81.96989,
+    50.2217
+],
+  "geometry": {"coordinates":[81.96989000000001,50.2217],"type":"Point"}
+}

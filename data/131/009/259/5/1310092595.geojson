@@ -1,0 +1,70 @@
+{
+  "id": 1310092595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.43912,48.54334,70.43912,48.54334",
+    "geom:latitude":48.54334,
+    "geom:longitude":70.43912,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"189 Kilometr",
+    "gn:country_code":"KZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454021,
+    "gn:latitude":48.54334,
+    "gn:longitude":70.43912,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"189 Kilometr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "189 \u041a\u0438\u043b\u043e\u043c\u0435\u0442\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454021
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f5a9dc27be7136ced60d2fdc08cb01f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785597,
+            "locality_id":1310092595,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1310092595,
+    "wof:lastmodified":1537660155,
+    "wof:name":"189 Kilometr",
+    "wof:parent_id":1108785597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.43911999999997,
+    48.54334,
+    70.43911999999997,
+    48.54334
+],
+  "geometry": {"coordinates":[70.43911999999997,48.54334],"type":"Point"}
+}

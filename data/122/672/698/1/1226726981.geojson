@@ -1,0 +1,76 @@
+{
+  "id": 1226726981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.26015,49.86161,73.26015,49.86161",
+    "geom:latitude":49.86161,
+    "geom:longitude":73.26015,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zelyonaya Balka",
+    "gn:country_code":"KZ",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517054,
+    "gn:latitude":49.86161,
+    "gn:longitude":73.26015,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Zelyonaya Balka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zelyonaya Balka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0417\u0435\u043b\u0451\u043d\u0430\u044f \u0411\u0430\u043b\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Zel\u00ebnaya Balka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517054
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b0694b3b2f6ee5b1e1a1c39a01a9aa49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1226726981,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226726981,
+    "wof:lastmodified":1537659497,
+    "wof:name":"Zelyonaya Balka",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.26015,
+    49.86161,
+    73.26015,
+    49.86161
+],
+  "geometry": {"coordinates":[73.26015,49.86161],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243531655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.13998,48.18935,72.13998,48.18935",
+    "geom:latitude":48.18935,
+    "geom:longitude":72.13998,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Banditaul",
+    "gn:country_code":"KZ",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504233,
+    "gn:latitude":48.18935,
+    "gn:longitude":72.13998,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Banditaul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0438\u0442\u0430\u0443\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504233
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6c9168244d1594e6c1f5565498fd6feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1243531655,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1243531655,
+    "wof:lastmodified":1537660167,
+    "wof:name":"Banditaul",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.13998000000002,
+    48.18935,
+    72.13998000000002,
+    48.18935
+],
+  "geometry": {"coordinates":[72.13998000000002,48.18935],"type":"Point"}
+}

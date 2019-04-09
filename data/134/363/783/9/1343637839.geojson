@@ -1,0 +1,89 @@
+{
+  "id": 1343637839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.55779,52.11294,61.55779,52.11294",
+    "geom:latitude":52.11294,
+    "geom:longitude":61.55779,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tokhtarovo",
+    "gn:country_code":"KZ",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523841,
+    "gn:latitude":52.11294,
+    "gn:longitude":61.55779,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Tokhtarovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tokhtarovo"
+    ],
+    "name:kaz_x_preferred":[
+        "Toqtarov"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u043e\u049b\u0442\u0430\u0440\u043e\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u043e\u0445\u0442\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Imeni Tokhtarova",
+        "Maksimovka",
+        "Imeni Takhtarova",
+        "Takhtarovo",
+        "Tokhtarovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523841
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2230895b7eb9c1d5f9c9bc3078c26b12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785525,
+            "locality_id":1343637839,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343637839,
+    "wof:lastmodified":1537659809,
+    "wof:name":"Tokhtarovo",
+    "wof:parent_id":1108785525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.55779,
+    52.11294,
+    61.55779,
+    52.11294
+],
+  "geometry": {"coordinates":[61.55779,52.11294],"type":"Point"}
+}

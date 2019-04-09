@@ -1,0 +1,74 @@
+{
+  "id": 1293453341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.18596,43.36023,70.18596,43.36023",
+    "geom:latitude":43.36023,
+    "geom:longitude":70.18596,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bugun'",
+    "gn:country_code":"KZ",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516436,
+    "gn:latitude":43.36023,
+    "gn:longitude":70.18596,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Bugun\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0433\u0443\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Aksay",
+        "Bugun\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516436
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5a82efcd8c5c998a979729aa327bb765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785643,
+            "locality_id":1293453341,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1293453341,
+    "wof:lastmodified":1537659469,
+    "wof:name":"Bugun'",
+    "wof:parent_id":1108785643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.18596,
+    43.36023,
+    70.18596,
+    43.36023
+],
+  "geometry": {"coordinates":[70.18595999999999,43.36023],"type":"Point"}
+}

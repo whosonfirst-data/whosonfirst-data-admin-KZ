@@ -1,0 +1,76 @@
+{
+  "id": 1343860241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.76707,52.2451,68.76707,52.2451",
+    "geom:latitude":52.2451,
+    "geom:longitude":68.76707,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bogorodka",
+    "gn:country_code":"KZ",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525235,
+    "gn:latitude":52.2451,
+    "gn:longitude":68.76707,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Bogorodka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bogorodka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0440\u043e\u0434\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0440\u043e\u0434\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525235
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5f22a333b49feb930bd0e6c3f2bbb16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785397,
+            "locality_id":1343860241,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343860241,
+    "wof:lastmodified":1537659866,
+    "wof:name":"Bogorodka",
+    "wof:parent_id":1108785397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.76706999999999,
+    52.2451,
+    68.76706999999999,
+    52.2451
+],
+  "geometry": {"coordinates":[68.76706999999999,52.2451],"type":"Point"}
+}

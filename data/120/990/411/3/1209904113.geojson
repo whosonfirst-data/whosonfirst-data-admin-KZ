@@ -1,0 +1,70 @@
+{
+  "id": 1209904113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.16667,52.93333,76.16667,52.93333",
+    "geom:latitude":52.93333,
+    "geom:longitude":76.16667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Krasnoozerki",
+    "gn:country_code":"KZ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518031,
+    "gn:latitude":52.93333,
+    "gn:longitude":76.16667,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Krasnoozerki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trinadtsat\u2019 Let Oktyabrya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518031
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"26d88350e514f2cfab46ca53c345eafb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785553,
+            "locality_id":1209904113,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1209904113,
+    "wof:lastmodified":1537659548,
+    "wof:name":"Krasnoozerki",
+    "wof:parent_id":1108785553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.16667,
+    52.93333000000001,
+    76.16667,
+    52.93333000000001
+],
+  "geometry": {"coordinates":[76.16667,52.93333000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209918099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.56667,45.4,74.56667,45.4",
+    "geom:latitude":45.4,
+    "geom:longitude":74.56667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Orakbalga",
+    "gn:country_code":"KZ",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520386,
+    "gn:latitude":45.4,
+    "gn:longitude":74.56667,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Orakbalga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karatogan",
+        "Yekpyndy",
+        "Orakbalga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520386
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"22561050dfb4204e7ba70dbce64b2b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785403,
+            "locality_id":1209918099,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1209918099,
+    "wof:lastmodified":1537659653,
+    "wof:name":"Orakbalga",
+    "wof:parent_id":1108785403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.56667,
+    45.4,
+    74.56667,
+    45.4
+],
+  "geometry": {"coordinates":[74.56667,45.4],"type":"Point"}
+}

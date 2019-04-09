@@ -1,0 +1,79 @@
+{
+  "id": 1242656887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.23094,51.48706,65.23094,51.48706",
+    "geom:latitude":51.48706,
+    "geom:longitude":65.23094,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ushakovo",
+    "gn:country_code":"KZ",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523835,
+    "gn:latitude":51.48706,
+    "gn:longitude":65.23094,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u016ashakovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u016ashakovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0448\u0430\u043a\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Imeni Ushakova",
+        "Ushakova",
+        "\u016ashakov Atyndaghy",
+        "\u016ashakovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523835
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"09eb6002c7dd41550b7125b7aa42444e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1242656887,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1242656887,
+    "wof:lastmodified":1537659808,
+    "wof:name":"Ushakovo",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.23094,
+    51.48706,
+    65.23094,
+    51.48706
+],
+  "geometry": {"coordinates":[65.23094,51.48706],"type":"Point"}
+}

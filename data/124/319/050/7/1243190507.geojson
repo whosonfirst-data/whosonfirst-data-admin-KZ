@@ -1,0 +1,71 @@
+{
+  "id": 1243190507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25,51.61667,69.25,51.61667",
+    "geom:latitude":51.61667,
+    "geom:longitude":69.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kaksal'skoye",
+    "gn:country_code":"KZ",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523640,
+    "gn:latitude":51.61667,
+    "gn:longitude":69.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kaksal\u2019skoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaksalskoe",
+        "Kaksal\u2019skoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523640
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"69973ad0cfe1b58998f3e67107776646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785391,
+            "locality_id":1243190507,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1243190507,
+    "wof:lastmodified":1537659801,
+    "wof:name":"Kaksal'skoye",
+    "wof:parent_id":1108785391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25,
+    51.61667,
+    69.25,
+    51.61667
+],
+  "geometry": {"coordinates":[69.25,51.61667],"type":"Point"}
+}

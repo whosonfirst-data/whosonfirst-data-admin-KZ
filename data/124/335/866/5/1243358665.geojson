@@ -1,0 +1,67 @@
+{
+  "id": 1243358665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.61667,41.68333,69.61667,41.68333",
+    "geom:latitude":41.68333,
+    "geom:longitude":69.61667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dzhanabay",
+    "gn:country_code":"KZ",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524433,
+    "gn:latitude":41.68333,
+    "gn:longitude":69.61667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Dzhanabay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524433
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"884008ccacb5ce90a32cdfd13c62009f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1243358665,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243358665,
+    "wof:lastmodified":1536932912,
+    "wof:name":"Dzhanabay",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.61667,
+    41.68333,
+    69.61667,
+    41.68333
+],
+  "geometry": {"coordinates":[69.61667,41.68333],"type":"Point"}
+}

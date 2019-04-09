@@ -1,0 +1,79 @@
+{
+  "id": 1360065467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.65059,49.96675,76.65059,49.96675",
+    "geom:latitude":49.96675,
+    "geom:longitude":76.65059,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Shildebay",
+    "gn:country_code":"KZ",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247209,
+    "gn:latitude":49.96675,
+    "gn:longitude":76.65059,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Shildebay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shildebay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0456\u043b\u0434\u0435\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "Shel\u2019dybay"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0435\u043b\u044c\u0434\u044b\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247209
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"149eb6d367be61e1cb7f8c96aac2e2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1360065467,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1360065467,
+    "wof:lastmodified":1537660129,
+    "wof:name":"Shildebay",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.65059000000002,
+    49.96675,
+    76.65059000000002,
+    49.96675
+],
+  "geometry": {"coordinates":[76.65059000000002,49.96675],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260303707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.46667,50.6,83.46667,50.6",
+    "geom:latitude":50.6,
+    "geom:longitude":83.46667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Verkhne-Chesnokovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517479,
+    "gn:latitude":50.6,
+    "gn:longitude":83.46667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Verkhne-Chesnokovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517479
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5afc0c3415f32fde991f52043ae41636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785307,
+            "locality_id":1260303707,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1260303707,
+    "wof:lastmodified":1536684739,
+    "wof:name":"Verkhne-Chesnokovskiy",
+    "wof:parent_id":1108785307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.46667,
+    50.6,
+    83.46667,
+    50.6
+],
+  "geometry": {"coordinates":[83.46666999999999,50.6],"type":"Point"}
+}

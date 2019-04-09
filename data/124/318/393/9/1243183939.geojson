@@ -1,0 +1,67 @@
+{
+  "id": 1243183939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.41253,51.66712,70.41253,51.66712",
+    "geom:latitude":51.66712,
+    "geom:longitude":70.41253,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Andreyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526305,
+    "gn:latitude":51.66712,
+    "gn:longitude":70.41253,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Andreyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526305
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d0c9d9bccb22ad54109f7f886697ce42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785437,
+            "locality_id":1243183939,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1243183939,
+    "wof:lastmodified":1536686991,
+    "wof:name":"Andreyevka",
+    "wof:parent_id":1108785437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.41253,
+    51.66712,
+    70.41253,
+    51.66712
+],
+  "geometry": {"coordinates":[70.41253,51.66712],"type":"Point"}
+}

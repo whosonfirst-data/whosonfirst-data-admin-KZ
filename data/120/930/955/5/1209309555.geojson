@@ -1,0 +1,62 @@
+{
+  "id": 1209309555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.39927,42.48204,70.39927,42.48204",
+    "geom:latitude":42.48204,
+    "geom:longitude":70.39927,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1517878.0",
+    "gn:asciiname":"Maylikent",
+    "gn:country_code":"KZ",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521028,
+    "gn:latitude":42.48204,
+    "gn:longitude":70.39927,
+    "gn:modification_date":"2012-05-02",
+    "gn:name":"Maylikent",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521028
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"90ed144381edf810f7f7ea133ab554b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209309555
+        }
+    ],
+    "wof:id":1209309555,
+    "wof:lastmodified":1536291076,
+    "wof:name":"Maylikent",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.39927,
+    42.48204000000001,
+    70.39927,
+    42.48204000000001
+],
+  "geometry": {"coordinates":[70.39927,42.48204000000001],"type":"Point"}
+}

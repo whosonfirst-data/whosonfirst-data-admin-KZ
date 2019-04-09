@@ -1,0 +1,84 @@
+{
+  "id": 1226112647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.82679,50.05665,82.82679,50.05665",
+    "geom:latitude":50.05665,
+    "geom:longitude":82.82679,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Vinnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517447,
+    "gn:latitude":50.05665,
+    "gn:longitude":82.82679,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Vinnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vinnyy"
+    ],
+    "name:kaz_x_preferred":[
+        "V\u012bnnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u0438\u043d\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Tsybina",
+        "Vinnyy",
+        "Vinnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517447
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"701c82f172ab412b93049d9e1e669b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785307,
+            "locality_id":1226112647,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226112647,
+    "wof:lastmodified":1537659523,
+    "wof:name":"Vinnoye",
+    "wof:parent_id":1108785307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.82679,
+    50.05665,
+    82.82679,
+    50.05665
+],
+  "geometry": {"coordinates":[82.82679,50.05665],"type":"Point"}
+}

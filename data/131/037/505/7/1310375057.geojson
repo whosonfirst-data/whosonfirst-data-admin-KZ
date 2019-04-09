@@ -1,0 +1,83 @@
+{
+  "id": 1310375057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.67736,53.27817,67.67736,53.27817",
+    "geom:latitude":53.27817,
+    "geom:longitude":67.67736,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Vysokoye",
+    "gn:country_code":"KZ",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517342,
+    "gn:latitude":53.27817,
+    "gn:longitude":67.67736,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Vysokoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vysokoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Vysokoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u044b\u0441\u043e\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0441\u043e\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Shangal",
+        "Vysokoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517342
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9e2876943d808a06c9d8fa7fee63f2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1310375057,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310375057,
+    "wof:lastmodified":1537659513,
+    "wof:name":"Vysokoye",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.67736,
+    53.27817,
+    67.67736,
+    53.27817
+],
+  "geometry": {"coordinates":[67.67735999999999,53.27817],"type":"Point"}
+}

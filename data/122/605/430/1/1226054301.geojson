@@ -1,0 +1,84 @@
+{
+  "id": 1226054301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.90316,52.74229,68.90316,52.74229",
+    "geom:latitude":52.74229,
+    "geom:longitude":68.90316,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Aktas",
+    "gn:country_code":"KZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535526,
+    "gn:latitude":52.74229,
+    "gn:longitude":68.90316,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Aktas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Podzavodsk"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0434\u0437\u0430\u0432\u043e\u0434\u0441\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0437\u0430\u0432\u043e\u0434\u0441\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043a\u0442\u0430\u0441",
+        "\u041f\u043e\u0434\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Podzavodskoye",
+        "Podzavodsk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535526
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a7dd7a34a99d4cee200d46d910a609e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1226054301,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226054301,
+    "wof:lastmodified":1537659996,
+    "wof:name":"Aktas",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.90316,
+    52.74229,
+    68.90316,
+    52.74229
+],
+  "geometry": {"coordinates":[68.90316,52.74229],"type":"Point"}
+}

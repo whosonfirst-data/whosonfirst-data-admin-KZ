@@ -1,0 +1,67 @@
+{
+  "id": 1209215117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.5,49.98333,61.5,49.98333",
+    "geom:latitude":49.98333,
+    "geom:longitude":61.5,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tamabulak",
+    "gn:country_code":"KZ",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518508,
+    "gn:latitude":49.98333,
+    "gn:longitude":61.5,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tamabulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tamabulak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044b\u043c\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518508
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"619c1d9a32dca8581893bec446ec5dc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209215117
+        }
+    ],
+    "wof:id":1209215117,
+    "wof:lastmodified":1537659565,
+    "wof:name":"Tamabulak",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.5,
+    49.98333,
+    61.5,
+    49.98333
+],
+  "geometry": {"coordinates":[61.5,49.98333],"type":"Point"}
+}

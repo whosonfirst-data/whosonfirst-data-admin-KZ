@@ -1,0 +1,67 @@
+{
+  "id": 1293413929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.78333,49.8,54.78333,49.8",
+    "geom:latitude":49.8,
+    "geom:longitude":54.78333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tlencheyevskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607993,
+    "gn:latitude":49.8,
+    "gn:longitude":54.78333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tlencheyevskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607993
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"12da49816a76d4a8652bf002e6da8d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785491,
+            "locality_id":1293413929,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293413929,
+    "wof:lastmodified":1536892834,
+    "wof:name":"Tlencheyevskoye",
+    "wof:parent_id":1108785491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.78333000000001,
+    49.8,
+    54.78333000000001,
+    49.8
+],
+  "geometry": {"coordinates":[54.78333000000001,49.8],"type":"Point"}
+}

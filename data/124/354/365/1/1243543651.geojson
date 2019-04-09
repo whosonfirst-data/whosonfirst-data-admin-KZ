@@ -1,0 +1,67 @@
+{
+  "id": 1243543651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83333,41.21667,68.83333,41.21667",
+    "geom:latitude":41.21667,
+    "geom:longitude":68.83333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Besh-Kubur",
+    "gn:country_code":"KZ",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525412,
+    "gn:latitude":41.21667,
+    "gn:longitude":68.83333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Besh-Kubur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525412
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5803305469941c78d20892071afc91e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1243543651,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243543651,
+    "wof:lastmodified":1536665462,
+    "wof:name":"Besh-Kubur",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83333,
+    41.21667,
+    68.83333,
+    41.21667
+],
+  "geometry": {"coordinates":[68.83333,41.21667],"type":"Point"}
+}

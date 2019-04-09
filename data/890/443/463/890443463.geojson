@@ -1,0 +1,73 @@
+{
+  "id": 890443463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.24171,43.59786,51.24171,43.59786",
+    "geom:latitude":43.59786,
+    "geom:longitude":51.24171,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":1885,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00d6mirzaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043c\u0438\u0440\u0437\u0430\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Umirzak"
+    ],
+    "qs:name":"\u00d6mirzaq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":828390,
+        "gp:id":2255894,
+        "qs:id":1029188
+    },
+    "wof:country":"KZ",
+    "wof:created":1469052425,
+    "wof:geomhash":"4cd9e8a153d71ce36396ea3c797bbe0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890443463,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":890443463,
+    "wof:lastmodified":1505343594,
+    "wof:name":"\u00d6mirzaq",
+    "wof:parent_id":85672923,
+    "wof:placetype":"locality",
+    "wof:population":1885,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.24171,
+    43.59786,
+    51.24171,
+    43.59786
+],
+  "geometry": {"coordinates":[51.24171,43.59786],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309726695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.95,49.68333,49.95,49.68333",
+    "geom:latitude":49.68333,
+    "geom:longitude":49.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bol'shoy Alimbek",
+    "gn:country_code":"KZ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610238,
+    "gn:latitude":49.68333,
+    "gn:longitude":49.95,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Bol\u2019shoy Alimbek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610238
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"40fb57f46ce169160199d90730d96df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1309726695,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1309726695,
+    "wof:lastmodified":1537043276,
+    "wof:name":"Bol'shoy Alimbek",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.95,
+    49.68333,
+    49.95,
+    49.68333
+],
+  "geometry": {"coordinates":[49.95,49.68333],"type":"Point"}
+}

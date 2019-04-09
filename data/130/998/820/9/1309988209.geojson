@@ -1,0 +1,70 @@
+{
+  "id": 1309988209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.92666,54.88138,70.92666,54.88138",
+    "geom:latitude":54.88138,
+    "geom:longitude":70.92666,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Krasnyy",
+    "gn:country_code":"KZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530710,
+    "gn:latitude":54.88138,
+    "gn:longitude":70.92666,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Krasnyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530710
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"73c75af2b84e1b7e17731a2b812ca4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1309988209,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1309988209,
+    "wof:lastmodified":1537659944,
+    "wof:name":"Krasnyy",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.92666,
+    54.88138000000001,
+    70.92666,
+    54.88138000000001
+],
+  "geometry": {"coordinates":[70.92666,54.88138000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343285899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.16667,48.13333,57.16667,48.13333",
+    "geom:latitude":48.13333,
+    "geom:longitude":57.16667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kozha-Tugay",
+    "gn:country_code":"KZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609191,
+    "gn:latitude":48.13333,
+    "gn:longitude":57.16667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kozha-Tugay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609191
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f2e55504b31ebd293adcc9a4b41484b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785399,
+            "locality_id":1343285899,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1343285899,
+    "wof:lastmodified":1536997472,
+    "wof:name":"Kozha-Tugay",
+    "wof:parent_id":1108785399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.16667,
+    48.13333,
+    57.16667,
+    48.13333
+],
+  "geometry": {"coordinates":[57.16667,48.13333],"type":"Point"}
+}

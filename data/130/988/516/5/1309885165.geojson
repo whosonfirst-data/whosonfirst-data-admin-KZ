@@ -1,0 +1,67 @@
+{
+  "id": 1309885165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.25,49.83333,64.25,49.83333",
+    "geom:latitude":49.83333,
+    "geom:longitude":64.25,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Imeni Semnadtsatogo Sentyabrya",
+    "gn:country_code":"KZ",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523885,
+    "gn:latitude":49.83333,
+    "gn:longitude":64.25,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Imeni Semnadtsatogo Sentyabrya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523885
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8bae63cabe6fb0c454d5a06baa9fc22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1309885165,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1309885165,
+    "wof:lastmodified":1536816010,
+    "wof:name":"Imeni Semnadtsatogo Sentyabrya",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.25,
+    49.83333,
+    64.25,
+    49.83333
+],
+  "geometry": {"coordinates":[64.25,49.83333],"type":"Point"}
+}

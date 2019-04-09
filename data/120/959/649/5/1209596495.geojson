@@ -1,0 +1,67 @@
+{
+  "id": 1209596495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.10824,51.8431,77.10824,51.8431",
+    "geom:latitude":51.8431,
+    "geom:longitude":77.10824,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Smaghul",
+    "gn:country_code":"KZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413859,
+    "gn:latitude":51.8431,
+    "gn:longitude":77.10824,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Smaghul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Smaghul"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u043c\u0430\u0493\u04b1\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413859
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c7eb4b7eb76d4eab1844d7d97a2562e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209596495
+        }
+    ],
+    "wof:id":1209596495,
+    "wof:lastmodified":1537660141,
+    "wof:name":"Smaghul",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.10824000000002,
+    51.8431,
+    77.10824000000002,
+    51.8431
+],
+  "geometry": {"coordinates":[77.10824000000002,51.8431],"type":"Point"}
+}

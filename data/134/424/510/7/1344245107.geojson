@@ -1,0 +1,70 @@
+{
+  "id": 1344245107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.64068,51.51034,76.64068,51.51034",
+    "geom:latitude":51.51034,
+    "geom:longitude":76.64068,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pyatigornoye",
+    "gn:country_code":"KZ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483246,
+    "gn:latitude":51.51034,
+    "gn:longitude":76.64068,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pyatigornoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u044f\u0442\u0438\u0433\u043e\u0440\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483246
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"db1332b6da298b0793506656931c3227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1344245107,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1344245107,
+    "wof:lastmodified":1537660160,
+    "wof:name":"Pyatigornoye",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.64068,
+    51.51034,
+    76.64068,
+    51.51034
+],
+  "geometry": {"coordinates":[76.64068,51.51034],"type":"Point"}
+}

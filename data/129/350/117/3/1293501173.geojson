@@ -1,0 +1,71 @@
+{
+  "id": 1293501173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.83021,43.24708,76.83021,43.24708",
+    "geom:latitude":43.24708,
+    "geom:longitude":76.83021,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Akbulak",
+    "gn:country_code":"KZ",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1539903,
+    "gn:latitude":43.24708,
+    "gn:longitude":76.83021,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Akbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otdeleniye Pervoye Sovkhoza Aksay",
+        "Akbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672937,
+        1108785435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1539903
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5ece8d357d0693ee76bb69a8cabfc2b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785435,
+            "locality_id":1293501173,
+            "region_id":85672937
+        }
+    ],
+    "wof:id":1293501173,
+    "wof:lastmodified":1537660027,
+    "wof:name":"Akbulak",
+    "wof:parent_id":1108785435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.83021,
+    43.24708,
+    76.83021,
+    43.24708
+],
+  "geometry": {"coordinates":[76.83020999999999,43.24708],"type":"Point"}
+}

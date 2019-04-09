@@ -1,0 +1,79 @@
+{
+  "id": 1277158307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.68888,53.30584,74.68888,53.30584",
+    "geom:latitude":53.30584,
+    "geom:longitude":74.68888,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Suvorovo",
+    "gn:country_code":"KZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523861,
+    "gn:latitude":53.30584,
+    "gn:longitude":74.68888,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Suvorovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "S\u016bvorovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0432\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Imeni Suvorova",
+        "S\u016bvorovsk\u012by",
+        "S\u016bvorovo",
+        "Suvorovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523861
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4e2f7b4d019aa98ccf22b1e7a42cb3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1277158307,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1277158307,
+    "wof:lastmodified":1537659811,
+    "wof:name":"Suvorovo",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.68888000000003,
+    53.30584,
+    74.68888000000003,
+    53.30584
+],
+  "geometry": {"coordinates":[74.68888000000003,53.30584],"type":"Point"}
+}

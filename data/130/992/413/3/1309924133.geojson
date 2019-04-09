@@ -1,0 +1,71 @@
+{
+  "id": 1309924133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.51284,50.43667,53.51284,50.43667",
+    "geom:latitude":50.43667,
+    "geom:longitude":53.51284,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yenbekshi",
+    "gn:country_code":"KZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607728,
+    "gn:latitude":50.43667,
+    "gn:longitude":53.51284,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Yenbekshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enbekshi",
+        "Yenbekshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607728
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fad208b36b9712555f5875937e90a774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785495,
+            "locality_id":1309924133,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1309924133,
+    "wof:lastmodified":1537659348,
+    "wof:name":"Yenbekshi",
+    "wof:parent_id":1108785495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.51284,
+    50.43667,
+    53.51284,
+    50.43667
+],
+  "geometry": {"coordinates":[53.51284,50.43667],"type":"Point"}
+}

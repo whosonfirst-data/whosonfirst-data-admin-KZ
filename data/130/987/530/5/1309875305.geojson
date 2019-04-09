@@ -1,0 +1,79 @@
+{
+  "id": 1309875305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.78962,53.2705,67.78962,53.2705",
+    "geom:latitude":53.2705,
+    "geom:longitude":67.78962,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Shukurlyuk",
+    "gn:country_code":"KZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535428,
+    "gn:latitude":53.2705,
+    "gn:longitude":67.78962,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Shukurlyuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shukurlyuk"
+    ],
+    "name:kaz_x_preferred":[
+        "Sh\u00fckirlik"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u04af\u043a\u0456\u0440\u043b\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u043a\u0443\u0440\u043b\u044e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535428
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"959ebe97c05fedae378a6ac90b5f5f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1309875305,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1309875305,
+    "wof:lastmodified":1537659993,
+    "wof:name":"Shukurlyuk",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.78962,
+    53.2705,
+    67.78962,
+    53.2705
+],
+  "geometry": {"coordinates":[67.78962,53.2705],"type":"Point"}
+}

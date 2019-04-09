@@ -1,0 +1,73 @@
+{
+  "id": 1343245807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.91777,41.35797,68.91777,41.35797",
+    "geom:latitude":41.35797,
+    "geom:longitude":68.91777,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Otdeleniye Nomer Odin Sovkhoza Imeni Abaya",
+    "gn:country_code":"KZ",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1536995,
+    "gn:latitude":41.35797,
+    "gn:longitude":68.91777,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Otdeleniye Nomer Odin Sovkhoza Imeni Abaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u041e\u0434\u0438\u043d \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u0418\u043c\u0435\u043d\u0438 \u0410\u0431\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Akkurgan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1536995
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a4c2389cbca718aed42177996475142c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1343245807,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1343245807,
+    "wof:lastmodified":1537660009,
+    "wof:name":"Otdeleniye Nomer Odin Sovkhoza Imeni Abaya",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.91776999999999,
+    41.35797,
+    68.91776999999999,
+    41.35797
+],
+  "geometry": {"coordinates":[68.91776999999999,41.35797],"type":"Point"}
+}

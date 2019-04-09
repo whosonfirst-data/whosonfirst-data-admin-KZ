@@ -1,0 +1,80 @@
+{
+  "id": 1310474347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.50545,54.24313,66.50545,54.24313",
+    "geom:latitude":54.24313,
+    "geom:longitude":66.50545,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Oktyabr'",
+    "gn:country_code":"KZ",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520431,
+    "gn:latitude":54.24313,
+    "gn:longitude":66.50545,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Oktyabr\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oktyabr'"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:und_x_variant":[
+        "Oktyabr\u2019skiy",
+        "Oktyabr\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520431
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a3c927ded7728e89ab63ef2695c35dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1310474347,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310474347,
+    "wof:lastmodified":1537659656,
+    "wof:name":"Oktyabr'",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.50545,
+    54.24313000000001,
+    66.50545,
+    54.24313000000001
+],
+  "geometry": {"coordinates":[66.50545,54.24313000000001],"type":"Point"}
+}

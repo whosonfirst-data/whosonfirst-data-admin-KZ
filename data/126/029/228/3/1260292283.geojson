@@ -1,0 +1,70 @@
+{
+  "id": 1260292283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.58566,52.46274,71.58566,52.46274",
+    "geom:latitude":52.46274,
+    "geom:longitude":71.58566,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baskuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11137839,
+    "gn:latitude":52.46274,
+    "gn:longitude":71.58566,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Baskuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11137839
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"711ee3f71b77b3c213d9412089b941d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1260292283,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1260292283,
+    "wof:lastmodified":1537660118,
+    "wof:name":"Baskuduk",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.58566,
+    52.46274,
+    71.58566,
+    52.46274
+],
+  "geometry": {"coordinates":[71.58566,52.46274],"type":"Point"}
+}

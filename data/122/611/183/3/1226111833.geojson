@@ -1,0 +1,73 @@
+{
+  "id": 1226111833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.80289,52.3963,65.80289,52.3963",
+    "geom:latitude":52.3963,
+    "geom:longitude":65.80289,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Molodyozhnoe",
+    "gn:country_code":"KZ",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147688,
+    "gn:latitude":52.3963,
+    "gn:longitude":65.80289,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Molodyozhnoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Molodyozhnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u043e\u043b\u043e\u0434\u0451\u0436\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147688
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f15fa6395ff8f6eecbbc6502b806f7e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1226111833,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226111833,
+    "wof:lastmodified":1537660122,
+    "wof:name":"Molodyozhnoe",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.80289,
+    52.3963,
+    65.80289,
+    52.3963
+],
+  "geometry": {"coordinates":[65.80289,52.3963],"type":"Point"}
+}

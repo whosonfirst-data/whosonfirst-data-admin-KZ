@@ -1,0 +1,82 @@
+{
+  "id": 1259371131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.90114,53.51703,74.90114,53.51703",
+    "geom:latitude":53.51703,
+    "geom:longitude":74.90114,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Belovodsk",
+    "gn:country_code":"KZ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525486,
+    "gn:latitude":53.51703,
+    "gn:longitude":74.90114,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Belovodsk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Belovodskoe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0432\u043e\u0434\u0441\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0432\u043e\u0434\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Belovodskoye",
+        "Belovodsk",
+        "Belovodka",
+        "Belovodskoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525486
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bb54fa7ad4ec13d2cd6ebe2fdce2ec40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1259371131,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259371131,
+    "wof:lastmodified":1537659878,
+    "wof:name":"Belovodsk",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.90114,
+    53.51703000000001,
+    74.90114,
+    53.51703000000001
+],
+  "geometry": {"coordinates":[74.90114,53.51703000000001],"type":"Point"}
+}

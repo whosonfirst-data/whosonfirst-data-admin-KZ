@@ -1,0 +1,74 @@
+{
+  "id": 1225946009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.05919,50.93017,69.05919,50.93017",
+    "geom:latitude":50.93017,
+    "geom:longitude":69.05919,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhalmanqulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516975,
+    "gn:latitude":50.93017,
+    "gn:longitude":69.05919,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Zhalmanqulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhalmanqulaq"
+    ],
+    "name:und_x_variant":[
+        "Zhalmankulak",
+        "Zhalmangqulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516975
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"83660ffbc0c573450fac20f9c95c56b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785503,
+            "locality_id":1225946009,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1225946009,
+    "wof:lastmodified":1537659493,
+    "wof:name":"Zhalmanqulaq",
+    "wof:parent_id":1108785503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.05919,
+    50.93017,
+    69.05919,
+    50.93017
+],
+  "geometry": {"coordinates":[69.05919,50.93017],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1327406401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.17864,53.9886,71.17864,53.9886",
+    "geom:latitude":53.9886,
+    "geom:longitude":71.17864,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Baytus",
+    "gn:country_code":"KZ",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525587,
+    "gn:latitude":53.9886,
+    "gn:longitude":71.17864,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Baytus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baytus"
+    ],
+    "name:kaz_x_preferred":[
+        "Bayt\u00fcs"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u0439\u0442\u04af\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0442\u0443\u0441"
+    ],
+    "name:und_x_variant":[
+        "Baytas",
+        "Baytus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525587
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8a54135136bee9d734933a8ed1377f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1327406401,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1327406401,
+    "wof:lastmodified":1537659883,
+    "wof:name":"Baytus",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.17864,
+    53.9886,
+    71.17864,
+    53.9886
+],
+  "geometry": {"coordinates":[71.17864,53.9886],"type":"Point"}
+}

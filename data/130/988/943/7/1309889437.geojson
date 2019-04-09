@@ -1,0 +1,79 @@
+{
+  "id": 1309889437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.50318,43.44865,68.50318,43.44865",
+    "geom:latitude":43.44865,
+    "geom:longitude":68.50318,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qotyrbulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055419,
+    "gn:latitude":43.44865,
+    "gn:longitude":68.50318,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Qotyrbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qotyrbulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u0442\u044b\u0440\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u044b\u0440\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kotyrbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055419
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"de02136e1ec4072186af7cc388752d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1309889437,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1309889437,
+    "wof:lastmodified":1537660093,
+    "wof:name":"Qotyrbulaq",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.50318,
+    43.44865,
+    68.50318,
+    43.44865
+],
+  "geometry": {"coordinates":[68.50318,43.44865],"type":"Point"}
+}

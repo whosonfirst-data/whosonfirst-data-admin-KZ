@@ -1,0 +1,76 @@
+{
+  "id": 1343544943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.38095,43.40259,68.38095,43.40259",
+    "geom:latitude":43.40259,
+    "geom:longitude":68.38095,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Urangay",
+    "gn:country_code":"KZ",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517728,
+    "gn:latitude":43.40259,
+    "gn:longitude":68.38095,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Urangay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Uranghay"
+    ],
+    "name:kaz_x_variant":[
+        "\u04b0\u0440\u0430\u043d\u0493\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0430\u043d\u0433\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517728
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9114e2d2cc8a6039bdd7b71bd97f30a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1343544943,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1343544943,
+    "wof:lastmodified":1537659537,
+    "wof:name":"Urangay",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.38095,
+    43.40259,
+    68.38095,
+    43.40259
+],
+  "geometry": {"coordinates":[68.38095,43.40259],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276854937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.79583,41.37639,68.79583,41.37639",
+    "geom:latitude":41.37639,
+    "geom:longitude":68.79583,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Komintern",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525670,
+    "gn:latitude":41.37639,
+    "gn:longitude":68.79583,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Komintern",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kom\u012bntern"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u043e\u043c\u0438\u043d\u0442\u0435\u0440\u043d"
+    ],
+    "name:und_x_variant":[
+        "Batyr",
+        "Komintern"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525670
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6ca1dff2a4e02dd2d1cc45d9c7ed7ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1276854937,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276854937,
+    "wof:lastmodified":1537659886,
+    "wof:name":"Komintern",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.79583000000001,
+    41.37639,
+    68.79583000000001,
+    41.37639
+],
+  "geometry": {"coordinates":[68.79583000000001,41.37639],"type":"Point"}
+}

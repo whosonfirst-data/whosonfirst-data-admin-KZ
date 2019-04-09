@@ -1,0 +1,79 @@
+{
+  "id": 1226113851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.5191,42.87448,72.5191,42.87448",
+    "geom:latitude":42.87448,
+    "geom:longitude":72.5191,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kogershin",
+    "gn:country_code":"KZ",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068891,
+    "gn:latitude":42.87448,
+    "gn:longitude":72.5191,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Kogershin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "K\u00f6gershin"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u04e9\u0433\u0435\u0440\u0448\u0456\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0433\u0435\u0440\u0448\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Konezavod Nomer Devyanosto Sem\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068891
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5e861595ea2d6e856d47a1836d289064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785489,
+            "locality_id":1226113851,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1226113851,
+    "wof:lastmodified":1537660038,
+    "wof:name":"Kogershin",
+    "wof:parent_id":1108785489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.5191,
+    42.87448,
+    72.5191,
+    42.87448
+],
+  "geometry": {"coordinates":[72.51909999999999,42.87448],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276214755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.01667,53.06667,77.01667,53.06667",
+    "geom:latitude":53.06667,
+    "geom:longitude":77.01667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Karabura",
+    "gn:country_code":"KZ",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523428,
+    "gn:latitude":53.06667,
+    "gn:longitude":77.01667,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Karabura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523428
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"06d660005c7a459bebe3de66e3beedc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785351,
+            "locality_id":1276214755,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1276214755,
+    "wof:lastmodified":1536938723,
+    "wof:name":"Karabura",
+    "wof:parent_id":1108785351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.01666999999998,
+    53.06667,
+    77.01666999999998,
+    53.06667
+],
+  "geometry": {"coordinates":[77.01666999999998,53.06667],"type":"Point"}
+}

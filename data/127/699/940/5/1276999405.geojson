@@ -1,0 +1,82 @@
+{
+  "id": 1276999405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.35335,43.45307,80.35335,43.45307",
+    "geom:latitude":43.45307,
+    "geom:longitude":80.35335,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ketpen",
+    "gn:country_code":"KZ",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525170,
+    "gn:latitude":43.45307,
+    "gn:longitude":80.35335,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Ketpen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041a\u0435\u0442\u043f\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "Bol\u2019shoy Ketmen\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u041a\u0435\u0442\u043c\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Bolshoy Ketmen\u2019",
+        "Ketmen\u2019",
+        "Ketpen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525170,
+        "wk:page":"Ketpen"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e79573120f102fb6255ced7d8800a4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785425,
+            "locality_id":1276999405,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1276999405,
+    "wof:lastmodified":1537659863,
+    "wof:name":"Ketpen",
+    "wof:parent_id":1108785425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.35335,
+    43.45307,
+    80.35335,
+    43.45307
+],
+  "geometry": {"coordinates":[80.35335000000001,43.45307],"type":"Point"}
+}

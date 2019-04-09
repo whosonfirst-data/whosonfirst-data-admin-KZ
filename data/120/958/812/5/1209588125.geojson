@@ -1,0 +1,77 @@
+{
+  "id": 1209588125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.10762,53.88929,73.10762,53.88929",
+    "geom:latitude":53.88929,
+    "geom:longitude":73.10762,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dzhambul",
+    "gn:country_code":"KZ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518536,
+    "gn:latitude":53.88929,
+    "gn:longitude":73.10762,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Dzhambul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dzhambul"
+    ],
+    "name:kaz_x_preferred":[
+        "Zhambyl"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u043c\u0431\u044b\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0431\u0443\u043b"
+    ],
+    "name:und_x_variant":[
+        "Taldysay",
+        "Dzhambul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518536
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ea48d6360a292969f33d37b698265201",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209588125
+        }
+    ],
+    "wof:id":1209588125,
+    "wof:lastmodified":1537659565,
+    "wof:name":"Dzhambul",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.10762,
+    53.88929,
+    73.10762,
+    53.88929
+],
+  "geometry": {"coordinates":[73.10762,53.88929],"type":"Point"}
+}

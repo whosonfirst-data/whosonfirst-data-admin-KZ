@@ -1,0 +1,70 @@
+{
+  "id": 1243456185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.64226,52.0482,70.64226,52.0482",
+    "geom:latitude":52.0482,
+    "geom:longitude":70.64226,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Radovka",
+    "gn:country_code":"KZ",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149744,
+    "gn:latitude":52.0482,
+    "gn:longitude":70.64226,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Radovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149744
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ce610bb0dbe6c42311f0a8b921a26375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1243456185,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1243456185,
+    "wof:lastmodified":1537660125,
+    "wof:name":"Radovka",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.64226,
+    52.0482,
+    70.64226,
+    52.0482
+],
+  "geometry": {"coordinates":[70.64225999999999,52.0482],"type":"Point"}
+}

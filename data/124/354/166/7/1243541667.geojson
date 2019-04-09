@@ -1,0 +1,77 @@
+{
+  "id": 1243541667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07817,48.49935,71.07817,48.49935",
+    "geom:latitude":48.49935,
+    "geom:longitude":71.07817,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Atasu",
+    "gn:country_code":"KZ",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526043,
+    "gn:latitude":48.49935,
+    "gn:longitude":71.07817,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Atasu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Atas\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0442\u0430\u0441\u0443"
+    ],
+    "name:und_x_variant":[
+        "Stantsiya Atasu",
+        "Atasu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526043
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3ab5b37ad92933d777bbacf1ffa43104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785597,
+            "locality_id":1243541667,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1243541667,
+    "wof:lastmodified":1537659899,
+    "wof:name":"Atasu",
+    "wof:parent_id":1108785597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07817,
+    48.49935,
+    71.07817,
+    48.49935
+],
+  "geometry": {"coordinates":[71.07817,48.49935],"type":"Point"}
+}

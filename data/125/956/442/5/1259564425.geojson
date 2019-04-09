@@ -1,0 +1,73 @@
+{
+  "id": 1259564425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.4273,53.15185,76.4273,53.15185",
+    "geom:latitude":53.15185,
+    "geom:longitude":76.4273,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Baysmak",
+    "gn:country_code":"KZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535709,
+    "gn:latitude":53.15185,
+    "gn:longitude":76.4273,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Baysmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baysmak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0441\u043c\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535709
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8600c02bf1468e3692b7f1883c3f6421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785557,
+            "locality_id":1259564425,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259564425,
+    "wof:lastmodified":1537659999,
+    "wof:name":"Baysmak",
+    "wof:parent_id":1108785557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.4273,
+    53.15185,
+    76.4273,
+    53.15185
+],
+  "geometry": {"coordinates":[76.4273,53.15185],"type":"Point"}
+}

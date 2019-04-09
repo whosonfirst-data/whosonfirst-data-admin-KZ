@@ -1,0 +1,74 @@
+{
+  "id": 1310593819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.99444,46.48889,48.99444,46.48889",
+    "geom:latitude":46.48889,
+    "geom:longitude":48.99444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Utery",
+    "gn:country_code":"KZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607805,
+    "gn:latitude":46.48889,
+    "gn:longitude":48.99444,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Utery",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Utery"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0442\u0435\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607805,
+        "wk:page":"Utery"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4480563a0745e6512f2a20817617a009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1310593819,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1310593819,
+    "wof:lastmodified":1537659351,
+    "wof:name":"Utery",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.99444,
+    46.48889000000001,
+    48.99444,
+    46.48889000000001
+],
+  "geometry": {"coordinates":[48.99444,46.48889000000001],"type":"Point"}
+}

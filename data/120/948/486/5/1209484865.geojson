@@ -1,0 +1,77 @@
+{
+  "id": 1209484865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.31677,54.82016,68.31677,54.82016",
+    "geom:latitude":54.82016,
+    "geom:longitude":68.31677,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Stanovoye",
+    "gn:country_code":"KZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518807,
+    "gn:latitude":54.82016,
+    "gn:longitude":68.31677,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Stanovoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Stanovoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Stanovoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0442\u0430\u043d\u043e\u0432\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u043e\u0432\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Stanovskoye",
+        "Stanovoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518807
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dd875229df2036c42e0df03e79641823",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209484865
+        }
+    ],
+    "wof:id":1209484865,
+    "wof:lastmodified":1537659577,
+    "wof:name":"Stanovoye",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.31676999999999,
+    54.82016,
+    68.31676999999999,
+    54.82016
+],
+  "geometry": {"coordinates":[68.31676999999999,54.82016],"type":"Point"}
+}

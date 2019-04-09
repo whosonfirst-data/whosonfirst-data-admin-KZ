@@ -1,0 +1,79 @@
+{
+  "id": 1242844039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.24231,53.50294,67.24231,53.50294",
+    "geom:latitude":53.50294,
+    "geom:longitude":67.24231,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Afanas'yevka",
+    "gn:country_code":"KZ",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526945,
+    "gn:latitude":53.50294,
+    "gn:longitude":67.24231,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Afanas\u2019yevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Afanas'yevka"
+    ],
+    "name:kaz_x_preferred":[
+        "Afanas\u2019evka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "Afanas\u2019yevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526945
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"688e6cfe488df8a59bd0e632a5da98ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1242844039,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1242844039,
+    "wof:lastmodified":1537659930,
+    "wof:name":"Afanas'yevka",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.24231,
+    53.50294,
+    67.24231,
+    53.50294
+],
+  "geometry": {"coordinates":[67.24231,53.50294],"type":"Point"}
+}

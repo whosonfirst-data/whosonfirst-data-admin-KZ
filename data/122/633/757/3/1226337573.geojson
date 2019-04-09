@@ -1,0 +1,70 @@
+{
+  "id": 1226337573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06033,43.62377,68.06033,43.62377",
+    "geom:latitude":43.62377,
+    "geom:longitude":68.06033,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Igilik",
+    "gn:country_code":"KZ",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055434,
+    "gn:latitude":43.62377,
+    "gn:longitude":68.06033,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Igilik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0433\u0438\u043b\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055434
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bf62243c83f9820188ea427fc58f8811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785667,
+            "locality_id":1226337573,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1226337573,
+    "wof:lastmodified":1537660094,
+    "wof:name":"Igilik",
+    "wof:parent_id":1108785667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06033000000001,
+    43.62377,
+    68.06033000000001,
+    43.62377
+],
+  "geometry": {"coordinates":[68.06033000000001,43.62377],"type":"Point"}
+}

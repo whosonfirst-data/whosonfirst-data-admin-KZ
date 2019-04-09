@@ -1,0 +1,81 @@
+{
+  "id": 1310075279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.24501,53.45109,71.24501,53.45109",
+    "geom:latitude":53.45109,
+    "geom:longitude":71.24501,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Chistyakovskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524760,
+    "gn:latitude":53.45109,
+    "gn:longitude":71.24501,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Chistyakovskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Alqaterek"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u049b\u0430\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0441\u0442\u044f\u043a\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Alkaterek",
+        "Ch\u012bstyakovka",
+        "Alqaterek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524760
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"40b4837b2f6270f19000d9b8ec3e1c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1310075279,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310075279,
+    "wof:lastmodified":1537659848,
+    "wof:name":"Chistyakovskoye",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.24501,
+    53.45109,
+    71.24501,
+    53.45109
+],
+  "geometry": {"coordinates":[71.24500999999999,53.45109],"type":"Point"}
+}

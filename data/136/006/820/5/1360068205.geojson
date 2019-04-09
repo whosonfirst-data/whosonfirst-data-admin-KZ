@@ -1,0 +1,81 @@
+{
+  "id": 1360068205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.54266,50.87831,80.54266,50.87831",
+    "geom:latitude":50.87831,
+    "geom:longitude":80.54266,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Voznesenovka",
+    "gn:country_code":"KZ",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517367,
+    "gn:latitude":50.87831,
+    "gn:longitude":80.54266,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Voznesenovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Voznesenovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Voznesenka",
+        "Voznesenskiy",
+        "Voznesenovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517367
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"033a85a39d9cae0645484785505dbc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1360068205,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1360068205,
+    "wof:lastmodified":1537659515,
+    "wof:name":"Voznesenovka",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.54266,
+    50.87831,
+    80.54266,
+    50.87831
+],
+  "geometry": {"coordinates":[80.54266,50.87831],"type":"Point"}
+}

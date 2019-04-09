@@ -1,0 +1,85 @@
+{
+  "id": 1293182093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.35251,53.79201,76.35251,53.79201",
+    "geom:latitude":53.79201,
+    "geom:longitude":76.35251,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Veselaya Roshcha",
+    "gn:country_code":"KZ",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517465,
+    "gn:latitude":53.79201,
+    "gn:longitude":76.35251,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Veselaya Roshcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Veselaya Roshcha"
+    ],
+    "name:kaz_x_preferred":[
+        "Veselaya Roshcha"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u0435\u0441\u0435\u043b\u0430\u044f \u0420\u043e\u0449\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u0435\u043b\u0430\u044f \u0420\u043e\u0449\u0430"
+    ],
+    "name:rus_x_variant":[
+        "Ves\u00eblaya Roshcha"
+    ],
+    "name:und_x_variant":[
+        "Veselye-Roshchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517465
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3de2774a53d00422f8675d51ee7ab2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785349,
+            "locality_id":1293182093,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1293182093,
+    "wof:lastmodified":1537659524,
+    "wof:name":"Veselaya Roshcha",
+    "wof:parent_id":1108785349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.35251,
+    53.79201,
+    76.35251,
+    53.79201
+],
+  "geometry": {"coordinates":[76.35251,53.79201],"type":"Point"}
+}

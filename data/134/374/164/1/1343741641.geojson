@@ -1,0 +1,83 @@
+{
+  "id": 1343741641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.20717,52.46763,63.20717,52.46763",
+    "geom:latitude":52.46763,
+    "geom:longitude":63.20717,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Barsukovka",
+    "gn:country_code":"KZ",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525731,
+    "gn:latitude":52.46763,
+    "gn:longitude":63.20717,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Barsukovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Barsukovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Bars\u016bkovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u0440\u0441\u0443\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0441\u0443\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Barsukovskiy",
+        "Barsukovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525731
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"933d6fe733f03e668695092cc0f981c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785535,
+            "locality_id":1343741641,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343741641,
+    "wof:lastmodified":1537659889,
+    "wof:name":"Barsukovka",
+    "wof:parent_id":1108785535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.20717,
+    52.46763000000001,
+    63.20717,
+    52.46763000000001
+],
+  "geometry": {"coordinates":[63.20717,52.46763000000001],"type":"Point"}
+}

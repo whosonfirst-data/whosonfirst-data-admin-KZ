@@ -1,0 +1,73 @@
+{
+  "id": 1293411029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.37959,49.83582,52.37959,49.83582",
+    "geom:latitude":49.83582,
+    "geom:longitude":52.37959,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kyrymkozha",
+    "gn:country_code":"KZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":828411,
+    "gn:latitude":49.83582,
+    "gn:longitude":52.37959,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Kyrymkozha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyrymkozha"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0440\u044b\u043c\u043a\u043e\u0436\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":828411
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9a209c1ac578761b3852ab3b27a18760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785495,
+            "locality_id":1293411029,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293411029,
+    "wof:lastmodified":1537659456,
+    "wof:name":"Kyrymkozha",
+    "wof:parent_id":1108785495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.37959,
+    49.83582,
+    52.37959,
+    49.83582
+],
+  "geometry": {"coordinates":[52.37959,49.83582],"type":"Point"}
+}

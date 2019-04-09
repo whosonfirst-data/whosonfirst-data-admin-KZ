@@ -1,0 +1,70 @@
+{
+  "id": 1259465217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.63744,54.49477,66.63744,54.49477",
+    "geom:latitude":54.49477,
+    "geom:longitude":66.63744,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sabit",
+    "gn:country_code":"KZ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519815,
+    "gn:latitude":54.49477,
+    "gn:longitude":66.63744,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Sabit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0431\u0438\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519815
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"edef31588718f6933b73027f4960899b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1259465217,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259465217,
+    "wof:lastmodified":1537659617,
+    "wof:name":"Sabit",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.63744,
+    54.49477,
+    66.63744,
+    54.49477
+],
+  "geometry": {"coordinates":[66.63744,54.49477],"type":"Point"}
+}

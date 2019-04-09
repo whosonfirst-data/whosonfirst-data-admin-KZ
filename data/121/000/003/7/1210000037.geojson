@@ -1,0 +1,71 @@
+{
+  "id": 1210000037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.305,46.82583,62.305,46.82583",
+    "geom:latitude":46.82583,
+    "geom:longitude":62.305,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tokabay",
+    "gn:country_code":"KZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525738,
+    "gn:latitude":46.82583,
+    "gn:longitude":62.305,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tokabay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barshakum",
+        "Tokabay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525738
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"173dab5fa70652d6022fb23e1bb37090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785633,
+            "locality_id":1210000037,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1210000037,
+    "wof:lastmodified":1537659889,
+    "wof:name":"Tokabay",
+    "wof:parent_id":1108785633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.305,
+    46.82583,
+    62.305,
+    46.82583
+],
+  "geometry": {"coordinates":[62.305,46.82583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193040159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.65,46.61667,48.65,46.61667",
+    "geom:latitude":46.61667,
+    "geom:longitude":48.65,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kaptagay",
+    "gn:country_code":"KZ",
+    "gn:dem":-26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609691,
+    "gn:latitude":46.61667,
+    "gn:longitude":48.65,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Kaptagay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609691
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"000f02c589f4338ae40f18cc432a5978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1193040159,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1193040159,
+    "wof:lastmodified":1536376785,
+    "wof:name":"Kaptagay",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.65,
+    46.61667,
+    48.65,
+    46.61667
+],
+  "geometry": {"coordinates":[48.65,46.61667],"type":"Point"}
+}

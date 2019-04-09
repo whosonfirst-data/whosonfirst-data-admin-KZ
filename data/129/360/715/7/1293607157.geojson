@@ -1,0 +1,67 @@
+{
+  "id": 1293607157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.33333,46.31667,77.33333,46.31667",
+    "geom:latitude":46.31667,
+    "geom:longitude":77.33333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Imeni Vos'mogo Marta",
+    "gn:country_code":"KZ",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523823,
+    "gn:latitude":46.31667,
+    "gn:longitude":77.33333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Imeni Vos\u2019mogo Marta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523823
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"26814c52e9ee211ccf81f5cc389cd8fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785415,
+            "locality_id":1293607157,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293607157,
+    "wof:lastmodified":1536612099,
+    "wof:name":"Imeni Vos'mogo Marta",
+    "wof:parent_id":1108785415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.33333,
+    46.31667,
+    77.33333,
+    46.31667
+],
+  "geometry": {"coordinates":[77.33333,46.31667],"type":"Point"}
+}

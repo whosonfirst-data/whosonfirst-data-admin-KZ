@@ -1,0 +1,67 @@
+{
+  "id": 1293399751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.35594,50.22791,52.35594,50.22791",
+    "geom:latitude":50.22791,
+    "geom:longitude":52.35594,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kospa",
+    "gn:country_code":"KZ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609217,
+    "gn:latitude":50.22791,
+    "gn:longitude":52.35594,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kospa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609217
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"17fdec0c8566170c03505b271e5bcd55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785495,
+            "locality_id":1293399751,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293399751,
+    "wof:lastmodified":1536913846,
+    "wof:name":"Kospa",
+    "wof:parent_id":1108785495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.35594,
+    50.22791,
+    52.35594,
+    50.22791
+],
+  "geometry": {"coordinates":[52.35594,50.22791],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360072381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.25,47.83333,67.25,47.83333",
+    "geom:latitude":47.83333,
+    "geom:longitude":67.25,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tabul'dy",
+    "gn:country_code":"KZ",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518629,
+    "gn:latitude":47.83333,
+    "gn:longitude":67.25,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tabul\u2019dy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zimovki Tabul\u2019dy",
+        "Zimovka Tabul\u2019dy",
+        "Tabul\u2019dy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518629
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"feac0ab07e570c57ef57cd0f28bcc41b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785515,
+            "locality_id":1360072381,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1360072381,
+    "wof:lastmodified":1537659567,
+    "wof:name":"Tabul'dy",
+    "wof:parent_id":1108785515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.25,
+    47.83333,
+    67.25,
+    47.83333
+],
+  "geometry": {"coordinates":[67.25,47.83333],"type":"Point"}
+}

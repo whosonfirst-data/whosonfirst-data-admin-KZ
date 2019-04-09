@@ -1,0 +1,67 @@
+{
+  "id": 1276247285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.65,50.58333,50.65,50.58333",
+    "geom:latitude":50.58333,
+    "geom:longitude":50.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Malyy Gorbunov",
+    "gn:country_code":"KZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608898,
+    "gn:latitude":50.58333,
+    "gn:longitude":50.65,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Malyy Gorbunov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608898
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3973c2b5724607f95792cd914e44569e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1276247285,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1276247285,
+    "wof:lastmodified":1536893671,
+    "wof:name":"Malyy Gorbunov",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.65,
+    50.58333,
+    50.65,
+    50.58333
+],
+  "geometry": {"coordinates":[50.65,50.58333],"type":"Point"}
+}

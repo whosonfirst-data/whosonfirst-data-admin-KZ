@@ -1,0 +1,80 @@
+{
+  "id": 1242837931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.3039,43.21595,73.3039,43.21595",
+    "geom:latitude":43.21595,
+    "geom:longitude":73.3039,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tatti",
+    "gn:country_code":"KZ",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518359,
+    "gn:latitude":43.21595,
+    "gn:longitude":73.3039,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Tatti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0422\u04d9\u0442\u0442\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0442\u0442\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gatty",
+        "Tat\u2019ya",
+        "Tatty",
+        "T\u00e4tti",
+        "Tatti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518359
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9b95e5dc774c0b1863814ba856c6171c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785319,
+            "locality_id":1242837931,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1242837931,
+    "wof:lastmodified":1537659560,
+    "wof:name":"Tatti",
+    "wof:parent_id":1108785319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.3039,
+    43.21595,
+    73.3039,
+    43.21595
+],
+  "geometry": {"coordinates":[73.3039,43.21595],"type":"Point"}
+}

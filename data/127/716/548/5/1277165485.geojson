@@ -1,0 +1,82 @@
+{
+  "id": 1277165485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.89782,52.796,74.89782,52.796",
+    "geom:latitude":52.796,
+    "geom:longitude":74.89782,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Novoalekseyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520648,
+    "gn:latitude":52.796,
+    "gn:longitude":74.89782,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Novoalekseyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zholboldy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u043e\u043b\u0431\u043e\u043b\u0434\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0430\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novo-Alekseyevskiy",
+        "Novoalekseevka",
+        "Novoalekseyevka",
+        "Zholboldy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520648
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ee92377cd5cbbb16fe7065ec8faadb45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785553,
+            "locality_id":1277165485,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1277165485,
+    "wof:lastmodified":1537659672,
+    "wof:name":"Novoalekseyevka",
+    "wof:parent_id":1108785553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.89782,
+    52.79600000000001,
+    74.89782,
+    52.79600000000001
+],
+  "geometry": {"coordinates":[74.89782,52.79600000000001],"type":"Point"}
+}

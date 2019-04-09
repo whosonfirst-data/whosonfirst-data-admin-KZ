@@ -1,0 +1,71 @@
+{
+  "id": 1343763995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.28306,51.8756,72.28306,51.8756",
+    "geom:latitude":51.8756,
+    "geom:longitude":72.28306,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Netsvetayevka",
+    "gn:country_code":"KZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520716,
+    "gn:latitude":51.8756,
+    "gn:longitude":72.28306,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Netsvetayevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Netsvetayevskoye",
+        "Netsvetayevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520716
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6f2ede1e98658cae5772b9bf9cd7046a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1343763995,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343763995,
+    "wof:lastmodified":1537659678,
+    "wof:name":"Netsvetayevka",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.28305999999998,
+    51.8756,
+    72.28305999999998,
+    51.8756
+],
+  "geometry": {"coordinates":[72.28305999999998,51.8756],"type":"Point"}
+}

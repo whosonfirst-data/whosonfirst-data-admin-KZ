@@ -1,0 +1,74 @@
+{
+  "id": 1259756947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.19667,43.92889,67.19667,43.92889",
+    "geom:latitude":43.92889,
+    "geom:longitude":67.19667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Izgar",
+    "gn:country_code":"KZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529708,
+    "gn:latitude":43.92889,
+    "gn:longitude":67.19667,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Izgar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0433\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Ak-Dun",
+        "Izgar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529708
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bab4ed962742ed9afb99e49fbb30bf2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1259756947,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1259756947,
+    "wof:lastmodified":1537659933,
+    "wof:name":"Izgar",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.19667,
+    43.92889,
+    67.19667,
+    43.92889
+],
+  "geometry": {"coordinates":[67.19667,43.92889],"type":"Point"}
+}

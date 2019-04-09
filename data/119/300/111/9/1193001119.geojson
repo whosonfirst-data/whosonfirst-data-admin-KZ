@@ -1,0 +1,83 @@
+{
+  "id": 1193001119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.11481,50.6869,79.11481,50.6869",
+    "geom:latitude":50.6869,
+    "geom:longitude":79.11481,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mostik",
+    "gn:country_code":"KZ",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520852,
+    "gn:latitude":50.6869,
+    "gn:longitude":79.11481,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Mostik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mostik"
+    ],
+    "name:kaz_x_preferred":[
+        "Most\u012bk"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u043e\u0441\u0442\u0438\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Mostki",
+        "Mostik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520852
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c350c8dd76fc4273563215e2662c404c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785639,
+            "locality_id":1193001119,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1193001119,
+    "wof:lastmodified":1537659683,
+    "wof:name":"Mostik",
+    "wof:parent_id":1108785639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.11480999999998,
+    50.6869,
+    79.11480999999998,
+    50.6869
+],
+  "geometry": {"coordinates":[79.11480999999998,50.6869],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260272029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.68594,41.86212,69.68594,41.86212",
+    "geom:latitude":41.86212,
+    "geom:longitude":69.68594,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Altyntobe",
+    "gn:country_code":"KZ",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1536903,
+    "gn:latitude":41.86212,
+    "gn:longitude":69.68594,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Altyntobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Altynt\u00f6be"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u043b\u0442\u044b\u043d\u0442\u04e9\u0431\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0442\u044b\u043d\u0442\u043e\u0431\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1536903
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cab4a3c8b3d258b06d4e1a84309e8a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1260272029,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1260272029,
+    "wof:lastmodified":1537660006,
+    "wof:name":"Altyntobe",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.68594,
+    41.86212,
+    69.68594,
+    41.86212
+],
+  "geometry": {"coordinates":[69.68594,41.86212],"type":"Point"}
+}

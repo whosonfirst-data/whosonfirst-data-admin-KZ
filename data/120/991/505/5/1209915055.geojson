@@ -1,0 +1,84 @@
+{
+  "id": 1209915055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.62078,50.32268,59.62078,50.32268",
+    "geom:latitude":50.32268,
+    "geom:longitude":59.62078,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tasotkel",
+    "gn:country_code":"KZ",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608060,
+    "gn:latitude":50.32268,
+    "gn:longitude":59.62078,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tas\u00f6tkel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tasotkel'"
+    ],
+    "name:kaz_x_preferred":[
+        "Tas\u00f6tkel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0441\u043e\u0442\u043a\u0435\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "Tasotkel\u2019"
+    ],
+    "name:und_x_variant":[
+        "Tasotkol",
+        "Tasutkol\u2019",
+        "Tas-Utkul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608060
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"31cc15b1f2ebf93258aefee2b9a451cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785523,
+            "locality_id":1209915055,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1209915055,
+    "wof:lastmodified":1537659358,
+    "wof:name":"Tasotkel",
+    "wof:parent_id":1108785523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.62078,
+    50.32268,
+    59.62078,
+    50.32268
+],
+  "geometry": {"coordinates":[59.62078,50.32268],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226741629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.93094,49.79841,49.93094,49.79841",
+    "geom:latitude":49.79841,
+    "geom:longitude":49.93094,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Malyy Sarykuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608896,
+    "gn:latitude":49.79841,
+    "gn:longitude":49.93094,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Malyy Sarykuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608896
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fd69761881655435df134ba4775a8cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1226741629,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226741629,
+    "wof:lastmodified":1536721831,
+    "wof:name":"Malyy Sarykuduk",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.93094,
+    49.79841,
+    49.93094,
+    49.79841
+],
+  "geometry": {"coordinates":[49.93094,49.79841],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293673519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.03871,43.45522,53.03871,43.45522",
+    "geom:latitude":43.45522,
+    "geom:longitude":53.03871,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ozen",
+    "gn:country_code":"KZ",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607793,
+    "gn:latitude":43.45522,
+    "gn:longitude":53.03871,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"\u00d6zen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00d6zen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Uzen\u2019",
+        "\u00d6zen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607793
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"627aa7639d6ac5e6e53f9da02f494a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785363,
+            "locality_id":1293673519,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1293673519,
+    "wof:lastmodified":1537659351,
+    "wof:name":"Ozen",
+    "wof:parent_id":1108785363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.03871,
+    43.45522,
+    53.03871,
+    43.45522
+],
+  "geometry": {"coordinates":[53.03871,43.45522],"type":"Point"}
+}

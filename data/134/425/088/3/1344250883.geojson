@@ -1,0 +1,71 @@
+{
+  "id": 1344250883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.3,40.68333,68.3,40.68333",
+    "geom:latitude":40.68333,
+    "geom:longitude":68.3,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Imeni Abaya",
+    "gn:country_code":"KZ",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524121,
+    "gn:latitude":40.68333,
+    "gn:longitude":68.3,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Imeni Abaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imeni Shvernika",
+        "Imeni Abaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524121
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c271b7b50bd75a13e8c5d5931bea5f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1344250883,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1344250883,
+    "wof:lastmodified":1537659820,
+    "wof:name":"Imeni Abaya",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.3,
+    40.68333,
+    68.3,
+    40.68333
+],
+  "geometry": {"coordinates":[68.3,40.68333],"type":"Point"}
+}

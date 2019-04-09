@@ -1,0 +1,73 @@
+{
+  "id": 1343253675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.77716,49.15667,48.77716,49.15667",
+    "geom:latitude":49.15667,
+    "geom:longitude":48.77716,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kyzyloy",
+    "gn:country_code":"KZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":856912,
+    "gn:latitude":49.15667,
+    "gn:longitude":48.77716,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kyzyloy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyzyloy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":856912
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"849d80d9e4018ceddc30d430950e9fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785701,
+            "locality_id":1343253675,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1343253675,
+    "wof:lastmodified":1537659458,
+    "wof:name":"Kyzyloy",
+    "wof:parent_id":1108785701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.77716,
+    49.15667,
+    48.77716,
+    49.15667
+],
+  "geometry": {"coordinates":[48.77716,49.15667],"type":"Point"}
+}

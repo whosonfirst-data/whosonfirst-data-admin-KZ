@@ -1,0 +1,67 @@
+{
+  "id": 1293116755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.1,51.26667,67.1,51.26667",
+    "geom:latitude":51.26667,
+    "geom:longitude":67.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Besoba",
+    "gn:country_code":"KZ",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525393,
+    "gn:latitude":51.26667,
+    "gn:longitude":67.1,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Besoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525393
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5b1cdfa936a33c96b7f838490f176e25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785623,
+            "locality_id":1293116755,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293116755,
+    "wof:lastmodified":1536823674,
+    "wof:name":"Besoba",
+    "wof:parent_id":1108785623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.1,
+    51.26667,
+    67.1,
+    51.26667
+],
+  "geometry": {"coordinates":[67.09999999999999,51.26667],"type":"Point"}
+}

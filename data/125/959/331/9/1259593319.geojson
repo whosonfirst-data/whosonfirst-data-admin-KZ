@@ -1,0 +1,69 @@
+{
+  "id": 1259593319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.73333,51.2,79.73333,51.2",
+    "geom:latitude":51.2,
+    "geom:longitude":79.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Baraba",
+    "gn:country_code":"KZ",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525768,
+    "gn:latitude":51.2,
+    "gn:longitude":79.73333,
+    "gn:modification_date":"1996-04-17",
+    "gn:name":"Baraba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85687835,
+        102191581,
+        85632685,
+        874393555,
+        1108737147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525768
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"392f095d1c8301c8be104e5884f7fac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108737147,
+            "empire_id":874393555,
+            "locality_id":1259593319,
+            "region_id":85687835
+        }
+    ],
+    "wof:id":1259593319,
+    "wof:lastmodified":1536700814,
+    "wof:name":"Baraba",
+    "wof:parent_id":1108737147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.73333000000002,
+    51.2,
+    79.73333000000002,
+    51.2
+],
+  "geometry": {"coordinates":[79.73333000000002,51.2],"type":"Point"}
+}

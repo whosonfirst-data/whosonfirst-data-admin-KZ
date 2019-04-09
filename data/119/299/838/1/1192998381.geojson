@@ -1,0 +1,70 @@
+{
+  "id": 1192998381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.60891,47.73333,71.60891,47.73333",
+    "geom:latitude":47.73333,
+    "geom:longitude":71.60891,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ayshyrak",
+    "gn:country_code":"KZ",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553524,
+    "gn:latitude":47.73333,
+    "gn:longitude":71.60891,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ayshyrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Ayshyrak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553524
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"567f71e582e87aca6882c11dfb0f9744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785597,
+            "locality_id":1192998381,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1192998381,
+    "wof:lastmodified":1537660044,
+    "wof:name":"Ayshyrak",
+    "wof:parent_id":1108785597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.60891,
+    47.73333,
+    71.60891,
+    47.73333
+],
+  "geometry": {"coordinates":[71.60890999999999,47.73333],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1242781855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.24568,43.7409,78.24568,43.7409",
+    "geom:latitude":43.7409,
+    "geom:longitude":78.24568,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aqtoghan",
+    "gn:country_code":"KZ",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521416,
+    "gn:latitude":43.7409,
+    "gn:longitude":78.24568,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Aqtoghan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqtoghan"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0442\u043e\u0493\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0434\u0436\u0438\u0433\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kyzylzhigda",
+        "Kyzyl-Dzhigda",
+        "Kyzylzhide",
+        "Kyzyldzhigda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521416
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5b95df1c5a02d69f26b6a67ed134735b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1242781855,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1242781855,
+    "wof:lastmodified":1537659714,
+    "wof:name":"Aqtoghan",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.24568000000002,
+    43.7409,
+    78.24568000000002,
+    43.7409
+],
+  "geometry": {"coordinates":[78.24568000000002,43.7409],"type":"Point"}
+}

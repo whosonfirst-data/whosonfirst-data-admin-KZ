@@ -1,0 +1,76 @@
+{
+  "id": 1327321699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.00493,52.83091,78.00493,52.83091",
+    "geom:latitude":52.83091,
+    "geom:longitude":78.00493,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Raevka",
+    "gn:country_code":"KZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10803409,
+    "gn:latitude":52.83091,
+    "gn:longitude":78.00493,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Raevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Raevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0420\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Rayevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10803409
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6c44578e37d01e9bc081afc7202a1019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1327321699,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1327321699,
+    "wof:lastmodified":1537660061,
+    "wof:name":"Raevka",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.00493,
+    52.83091,
+    78.00493,
+    52.83091
+],
+  "geometry": {"coordinates":[78.00493,52.83091],"type":"Point"}
+}

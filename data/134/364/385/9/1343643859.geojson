@@ -1,0 +1,83 @@
+{
+  "id": 1343643859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.78605,54.11162,66.78605,54.11162",
+    "geom:latitude":54.11162,
+    "geom:longitude":66.78605,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Esperli",
+    "gn:country_code":"KZ",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524288,
+    "gn:latitude":54.11162,
+    "gn:longitude":66.78605,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Esperli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Esperly"
+    ],
+    "name:kaz_x_preferred":[
+        "Esperli"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u0441\u043f\u0435\u0440\u043b\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0441\u043f\u0435\u0440\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Esperly",
+        "Yesperly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524288
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ca3f399d0b84e9829c3dfaf70939f1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1343643859,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343643859,
+    "wof:lastmodified":1537659830,
+    "wof:name":"Esperli",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.78605,
+    54.11162,
+    66.78605,
+    54.11162
+],
+  "geometry": {"coordinates":[66.78605,54.11162],"type":"Point"}
+}

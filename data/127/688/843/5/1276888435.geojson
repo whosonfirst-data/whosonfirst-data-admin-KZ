@@ -1,0 +1,76 @@
+{
+  "id": 1276888435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.96667,51.01667,53.96667,51.01667",
+    "geom:latitude":51.01667,
+    "geom:longitude":53.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kyzylkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609004,
+    "gn:latitude":51.01667,
+    "gn:longitude":53.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kyzylkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyzylkol'"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Kyzylkol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609004
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"29212eaebbb0422893fc897650f44464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785711,
+            "locality_id":1276888435,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1276888435,
+    "wof:lastmodified":1537659395,
+    "wof:name":"Kyzylkol'",
+    "wof:parent_id":1108785711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.96666999999999,
+    51.01667,
+    53.96666999999999,
+    51.01667
+],
+  "geometry": {"coordinates":[53.96666999999999,51.01667],"type":"Point"}
+}

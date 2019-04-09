@@ -1,0 +1,76 @@
+{
+  "id": 1327111809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.91482,49.71588,74.91482,49.71588",
+    "geom:latitude":49.71588,
+    "geom:longitude":74.91482,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Novyy Put'",
+    "gn:country_code":"KZ",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537193,
+    "gn:latitude":49.71588,
+    "gn:longitude":74.91482,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Novyy Put\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Novyy P\u016bt\u2019"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u044b\u0439 \u041f\u0443\u0442\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "Novyy Put\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537193
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3839879f0f566c5e2509a03340bc6b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1327111809,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1327111809,
+    "wof:lastmodified":1537660013,
+    "wof:name":"Novyy Put'",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.91481999999998,
+    49.71588,
+    74.91481999999998,
+    49.71588
+],
+  "geometry": {"coordinates":[74.91481999999998,49.71588],"type":"Point"}
+}

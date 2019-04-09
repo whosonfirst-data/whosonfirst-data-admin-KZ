@@ -1,0 +1,72 @@
+{
+  "id": 1209284065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.55656,52.90592,67.55656,52.90592",
+    "geom:latitude":52.90592,
+    "geom:longitude":67.55656,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kalma-Kul'",
+    "gn:country_code":"KZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535423,
+    "gn:latitude":52.90592,
+    "gn:longitude":67.55656,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kalma-Kul\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u043c\u0430-\u041a\u0443\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u043e\u0431\u0440\u043e\u043c\u044b\u0441\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kolmakkol\u2019",
+        "Dobromyslovka",
+        "Kalma-Kul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535423
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"964426d66609df91269e67095d3f1100",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209284065
+        }
+    ],
+    "wof:id":1209284065,
+    "wof:lastmodified":1537659993,
+    "wof:name":"Kalma-Kul'",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.55656,
+    52.90592,
+    67.55656,
+    52.90592
+],
+  "geometry": {"coordinates":[67.55656,52.90592],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343530913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.67432,54.78331,69.67432,54.78331",
+    "geom:latitude":54.78331,
+    "geom:longitude":69.67432,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kamyshlovo",
+    "gn:country_code":"KZ",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523551,
+    "gn:latitude":54.78331,
+    "gn:longitude":69.67432,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kamyshlovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kamyshlovo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043c\u044b\u0448\u043b\u043e\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u044b\u0448\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kamyshlovskiy",
+        "Kamyshlovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523551
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4de7d9c4e69ba4145550c0906e73f5e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785685,
+            "locality_id":1343530913,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343530913,
+    "wof:lastmodified":1537659798,
+    "wof:name":"Kamyshlovo",
+    "wof:parent_id":1108785685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.67432,
+    54.78331,
+    69.67432,
+    54.78331
+],
+  "geometry": {"coordinates":[69.67431999999999,54.78331],"type":"Point"}
+}

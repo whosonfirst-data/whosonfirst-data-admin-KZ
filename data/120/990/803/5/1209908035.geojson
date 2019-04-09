@@ -1,0 +1,73 @@
+{
+  "id": 1209908035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.395,49.73868,53.395,49.73868",
+    "geom:latitude":49.73868,
+    "geom:longitude":53.395,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Besoba",
+    "gn:country_code":"KZ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610316,
+    "gn:latitude":49.73868,
+    "gn:longitude":53.395,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Besoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Besoba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u043e\u0431\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610316
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1330283ed06a1a107b987d1187e72135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785493,
+            "locality_id":1209908035,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1209908035,
+    "wof:lastmodified":1537659439,
+    "wof:name":"Besoba",
+    "wof:parent_id":1108785493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.395,
+    49.73868,
+    53.395,
+    49.73868
+],
+  "geometry": {"coordinates":[53.395,49.73868],"type":"Point"}
+}

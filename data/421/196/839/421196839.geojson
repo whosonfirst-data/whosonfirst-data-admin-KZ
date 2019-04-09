@@ -1,0 +1,77 @@
+{
+  "id": 421196839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.06667,49.76667,73.06667,49.76667",
+    "geom:latitude":49.76667,
+    "geom:longitude":73.06667,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":1517824,
+    "qs:gn_pop":0,
+    "qs:name":"Uglerazrez",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Qaraghandy",
+    "qs:photos":122,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":122,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894052,
+    "qs:woe_adm0":23424871,
+    "qs:woe_id":2262912,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        1108785651,
+        85672905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517824,
+        "gp:id":2262912,
+        "qs:id":894052
+    },
+    "wof:country":"KZ",
+    "wof:created":1459009894,
+    "wof:geomhash":"dfc9f18e2af92f8a5a5e906b07373c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":-1,
+            "neighbourhood_id":421196839,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":421196839,
+    "wof:lastmodified":1531858742,
+    "wof:name":"Uglerazrez",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.06667,
+    49.76667,
+    73.06667,
+    49.76667
+],
+  "geometry": {"coordinates":[73.06667,49.76667],"type":"Point"}
+}

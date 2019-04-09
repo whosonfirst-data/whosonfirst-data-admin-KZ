@@ -1,0 +1,70 @@
+{
+  "id": 1259858861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.20511,53.66089,61.20511,53.66089",
+    "geom:latitude":53.66089,
+    "geom:longitude":61.20511,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Isyan",
+    "gn:country_code":"KZ",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507437,
+    "gn:latitude":53.66089,
+    "gn:longitude":61.20511,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Isyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u044f\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507437
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f97604cb59075c0ceee02515ff59bd10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785333,
+            "locality_id":1259858861,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1259858861,
+    "wof:lastmodified":1537660169,
+    "wof:name":"Isyan",
+    "wof:parent_id":1108785333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.20511,
+    53.66089,
+    61.20511,
+    53.66089
+],
+  "geometry": {"coordinates":[61.20511,53.66089],"type":"Point"}
+}

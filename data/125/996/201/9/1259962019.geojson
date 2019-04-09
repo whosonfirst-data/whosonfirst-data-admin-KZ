@@ -1,0 +1,70 @@
+{
+  "id": 1259962019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.5743,54.90904,69.5743,54.90904",
+    "geom:latitude":54.90904,
+    "geom:longitude":69.5743,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yantseno",
+    "gn:country_code":"KZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530608,
+    "gn:latitude":54.90904,
+    "gn:longitude":69.5743,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Yantseno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u0446\u0435\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530608
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"144b61196dfda0688a688157300add8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1259962019,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259962019,
+    "wof:lastmodified":1537659940,
+    "wof:name":"Yantseno",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.5743,
+    54.90904000000001,
+    69.5743,
+    54.90904000000001
+],
+  "geometry": {"coordinates":[69.57429999999999,54.90904000000001],"type":"Point"}
+}

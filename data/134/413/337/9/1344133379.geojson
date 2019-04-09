@@ -1,0 +1,79 @@
+{
+  "id": 1344133379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.28083,49.33333,64.28083,49.33333",
+    "geom:latitude":49.33333,
+    "geom:longitude":64.28083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Aqqum",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518858,
+    "gn:latitude":49.33333,
+    "gn:longitude":64.28083,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Aqqum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aqqum"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0440\u0448\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sorsha",
+        "Akkum",
+        "Aqqum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518858
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"87a91ddfd33a48b6658b3f9717183d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1344133379,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1344133379,
+    "wof:lastmodified":1537659580,
+    "wof:name":"Aqqum",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.28083000000001,
+    49.33333,
+    64.28083000000001,
+    49.33333
+],
+  "geometry": {"coordinates":[64.28083000000001,49.33333],"type":"Point"}
+}

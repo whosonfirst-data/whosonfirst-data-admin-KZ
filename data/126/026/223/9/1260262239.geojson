@@ -1,0 +1,76 @@
+{
+  "id": 1260262239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.33266,53.90043,65.33266,53.90043",
+    "geom:latitude":53.90043,
+    "geom:longitude":65.33266,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pavlovka",
+    "gn:country_code":"KZ",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520231,
+    "gn:latitude":53.90043,
+    "gn:longitude":65.33266,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Pavlovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pavlovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520231
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ed65133f38d763df16536cdc3d2df500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1260262239,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1260262239,
+    "wof:lastmodified":1537659645,
+    "wof:name":"Pavlovka",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.33266,
+    53.90043000000001,
+    65.33266,
+    53.90043000000001
+],
+  "geometry": {"coordinates":[65.33266,53.90043000000001],"type":"Point"}
+}

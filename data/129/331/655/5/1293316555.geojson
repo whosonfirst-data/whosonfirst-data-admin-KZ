@@ -1,0 +1,71 @@
+{
+  "id": 1293316555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.56667,50.46667,58.56667,50.46667",
+    "geom:latitude":50.46667,
+    "geom:longitude":58.56667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shol'kuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608289,
+    "gn:latitude":50.46667,
+    "gn:longitude":58.56667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Shol\u2019kuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shul\u2019kuduk",
+        "Shol\u2019kuduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608289
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cb94df0f67678496bf324713ca953ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785523,
+            "locality_id":1293316555,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293316555,
+    "wof:lastmodified":1537659366,
+    "wof:name":"Shol'kuduk",
+    "wof:parent_id":1108785523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.56667,
+    50.46667,
+    58.56667,
+    50.46667
+],
+  "geometry": {"coordinates":[58.56667,50.46667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226222275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.23333,49.93333,71.23333,49.93333",
+    "geom:latitude":49.93333,
+    "geom:longitude":71.23333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Uru-Kara-Tomar",
+    "gn:country_code":"KZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517691,
+    "gn:latitude":49.93333,
+    "gn:longitude":71.23333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Uru-Kara-Tomar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517691
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b65a6093e32322ae298fa6b59779aaf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785499,
+            "locality_id":1226222275,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226222275,
+    "wof:lastmodified":1536967237,
+    "wof:name":"Uru-Kara-Tomar",
+    "wof:parent_id":1108785499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.23333000000002,
+    49.93333,
+    71.23333000000002,
+    49.93333
+],
+  "geometry": {"coordinates":[71.23333000000002,49.93333],"type":"Point"}
+}

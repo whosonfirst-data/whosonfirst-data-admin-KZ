@@ -1,0 +1,71 @@
+{
+  "id": 1326723077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.8,48.9,53.8,48.9",
+    "geom:latitude":48.9,
+    "geom:longitude":53.8,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Konstanu",
+    "gn:country_code":"KZ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609302,
+    "gn:latitude":48.9,
+    "gn:longitude":53.8,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Konstanu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konetanu",
+        "Konstanu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609302
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e32f21398cafd4b800b1f9ded88781da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785453,
+            "locality_id":1326723077,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1326723077,
+    "wof:lastmodified":1537659407,
+    "wof:name":"Konstanu",
+    "wof:parent_id":1108785453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.8,
+    48.9,
+    53.8,
+    48.9
+],
+  "geometry": {"coordinates":[53.8,48.9],"type":"Point"}
+}

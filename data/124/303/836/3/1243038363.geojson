@@ -1,0 +1,79 @@
+{
+  "id": 1243038363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.73538,50.84477,80.73538,50.84477",
+    "geom:latitude":50.84477,
+    "geom:longitude":80.73538,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bekovka",
+    "gn:country_code":"KZ",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534981,
+    "gn:latitude":50.84477,
+    "gn:longitude":80.73538,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Bekovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bekovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Bekov"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u043a\u043e\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534981
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"40df9e080b725cd47692b913dbfec66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1243038363,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243038363,
+    "wof:lastmodified":1537659989,
+    "wof:name":"Bekovka",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.73538,
+    50.84477,
+    80.73538,
+    50.84477
+],
+  "geometry": {"coordinates":[80.73538000000001,50.84477],"type":"Point"}
+}

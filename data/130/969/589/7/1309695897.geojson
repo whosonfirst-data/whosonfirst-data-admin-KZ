@@ -1,0 +1,81 @@
+{
+  "id": 1309695897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57339,43.95346,68.57339,43.95346",
+    "geom:latitude":43.95346,
+    "geom:longitude":68.57339,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qozmoldaq",
+    "gn:country_code":"KZ",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522159,
+    "gn:latitude":43.95346,
+    "gn:longitude":68.57339,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Qozmoldaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qozmoldaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u0437\u043c\u043e\u043b\u0434\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u043c\u043e\u043b\u0434\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kazy-Multak",
+        "Kosmoldyk",
+        "Kozmoldak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522159
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5bf914cd8de2e841771d53fb6617d84a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785599,
+            "locality_id":1309695897,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1309695897,
+    "wof:lastmodified":1537659746,
+    "wof:name":"Qozmoldaq",
+    "wof:parent_id":1108785599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57339,
+    43.95346,
+    68.57339,
+    43.95346
+],
+  "geometry": {"coordinates":[68.57339,43.95346],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293294495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.33593,51.93571,68.33593,51.93571",
+    "geom:latitude":51.93571,
+    "geom:longitude":68.33593,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Smirnovka",
+    "gn:country_code":"KZ",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518935,
+    "gn:latitude":51.93571,
+    "gn:longitude":68.33593,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Smirnovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518935
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"987a2ba70bb6368d28de28b88001966a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785387,
+            "locality_id":1293294495,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293294495,
+    "wof:lastmodified":1537062461,
+    "wof:name":"Smirnovka",
+    "wof:parent_id":1108785387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.33593,
+    51.93571,
+    68.33593,
+    51.93571
+],
+  "geometry": {"coordinates":[68.33593,51.93571],"type":"Point"}
+}

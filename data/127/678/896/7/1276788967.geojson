@@ -1,0 +1,76 @@
+{
+  "id": 1276788967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.66667,47.43333,53.66667,47.43333",
+    "geom:latitude":47.43333,
+    "geom:longitude":53.66667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bekbeke",
+    "gn:country_code":"KZ",
+    "gn:dem":-24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610360,
+    "gn:latitude":47.43333,
+    "gn:longitude":53.66667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Bekbeke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bekbeke"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043a\u0431\u0435\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Bekb\u012bke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610360
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"74704f8ea12b1eec33e909717c633bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785455,
+            "locality_id":1276788967,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1276788967,
+    "wof:lastmodified":1537659441,
+    "wof:name":"Bekbeke",
+    "wof:parent_id":1108785455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.66667,
+    47.43333,
+    53.66667,
+    47.43333
+],
+  "geometry": {"coordinates":[53.66667,47.43333],"type":"Point"}
+}

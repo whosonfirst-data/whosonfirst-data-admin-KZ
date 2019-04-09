@@ -1,0 +1,76 @@
+{
+  "id": 1343939923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.5062,53.10684,67.5062,53.10684",
+    "geom:latitude":53.10684,
+    "geom:longitude":67.5062,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bespalovka",
+    "gn:country_code":"KZ",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525392,
+    "gn:latitude":53.10684,
+    "gn:longitude":67.5062,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Bespalovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bespalovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525392
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dd2d76f17a38847984b9159e6af624a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1343939923,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343939923,
+    "wof:lastmodified":1537659873,
+    "wof:name":"Bespalovka",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.5062,
+    53.10684000000001,
+    67.5062,
+    53.10684000000001
+],
+  "geometry": {"coordinates":[67.50620000000001,53.10684000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293000989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.13333,50.11667,56.13333,50.11667",
+    "geom:latitude":50.11667,
+    "geom:longitude":56.13333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Koksay",
+    "gn:country_code":"KZ",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609351,
+    "gn:latitude":50.11667,
+    "gn:longitude":56.13333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Koksay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koksay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0441\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609351
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f7216ad0cdcfe9289faeae198bc4748b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785491,
+            "locality_id":1293000989,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293000989,
+    "wof:lastmodified":1537659409,
+    "wof:name":"Koksay",
+    "wof:parent_id":1108785491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.13333000000001,
+    50.11667,
+    56.13333000000001,
+    50.11667
+],
+  "geometry": {"coordinates":[56.13333000000001,50.11667],"type":"Point"}
+}

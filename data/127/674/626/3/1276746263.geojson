@@ -1,0 +1,79 @@
+{
+  "id": 1276746263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.07967,50.44129,80.07967,50.44129",
+    "geom:latitude":50.44129,
+    "geom:longitude":80.07967,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mukur",
+    "gn:country_code":"KZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520835,
+    "gn:latitude":50.44129,
+    "gn:longitude":80.07967,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Mukur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Muqyr"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u04b1\u049b\u044b\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043a\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Mukyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520835
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dab165d7b134572b289771ffc0f5478f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1276746263,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276746263,
+    "wof:lastmodified":1537659683,
+    "wof:name":"Mukur",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.07967,
+    50.44129,
+    80.07967,
+    50.44129
+],
+  "geometry": {"coordinates":[80.07966999999999,50.44129],"type":"Point"}
+}

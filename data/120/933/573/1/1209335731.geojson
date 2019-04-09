@@ -1,0 +1,67 @@
+{
+  "id": 1209335731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.41571,49.87508,53.41571,49.87508",
+    "geom:latitude":49.87508,
+    "geom:longitude":53.41571,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zhusandyoy",
+    "gn:country_code":"KZ",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607502,
+    "gn:latitude":49.87508,
+    "gn:longitude":53.41571,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Zhusandyoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhusandyoy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u0441\u0430\u043d\u0434\u044b\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607502
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"09d54df2e984d97c22600064a8eb8d52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209335731
+        }
+    ],
+    "wof:id":1209335731,
+    "wof:lastmodified":1537659337,
+    "wof:name":"Zhusandyoy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.41571,
+    49.87508,
+    53.41571,
+    49.87508
+],
+  "geometry": {"coordinates":[53.41571,49.87508],"type":"Point"}
+}

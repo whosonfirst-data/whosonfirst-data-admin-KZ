@@ -1,0 +1,79 @@
+{
+  "id": 1326834245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.49222,44.90889,78.49222,44.90889",
+    "geom:latitude":44.90889,
+    "geom:longitude":78.49222,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Karabulak",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522738,
+    "gn:latitude":44.90889,
+    "gn:longitude":78.49222,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Karabulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarabulaq"
+    ],
+    "name:und_x_variant":[
+        "Kara-Bulakskiy",
+        "Kirov",
+        "Karov",
+        "Kerbulaq",
+        "Karabulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522738,
+        "wk:page":"Karabulak%2C_Kazakhstan"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d1b97254911e4d4598be2001aad542a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785635,
+            "locality_id":1326834245,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1326834245,
+    "wof:lastmodified":1537659771,
+    "wof:name":"Karabulak",
+    "wof:parent_id":1108785635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.49221999999997,
+    44.90889,
+    78.49221999999997,
+    44.90889
+],
+  "geometry": {"coordinates":[78.49221999999997,44.90889],"type":"Point"}
+}

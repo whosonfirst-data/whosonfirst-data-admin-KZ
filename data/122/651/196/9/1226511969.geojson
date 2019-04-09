@@ -1,0 +1,73 @@
+{
+  "id": 1226511969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.17749,53.29534,68.17749,53.29534",
+    "geom:latitude":53.29534,
+    "geom:longitude":68.17749,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Trudovoy Krest'yanin",
+    "gn:country_code":"KZ",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535481,
+    "gn:latitude":53.29534,
+    "gn:longitude":68.17749,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Trudovoy Krest\u2019yanin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Trudovoy Krest\u2019yanin"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0440\u0443\u0434\u043e\u0432\u043e\u0439 \u041a\u0440\u0435\u0441\u0442\u044c\u044f\u043d\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535481
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7c66925e5ba84b876cf08fe385ada65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1226511969,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226511969,
+    "wof:lastmodified":1537659995,
+    "wof:name":"Trudovoy Krest'yanin",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.17749,
+    53.29534,
+    68.17749,
+    53.29534
+],
+  "geometry": {"coordinates":[68.17749000000001,53.29534],"type":"Point"}
+}

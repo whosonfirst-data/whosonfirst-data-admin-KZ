@@ -1,0 +1,79 @@
+{
+  "id": 1226014417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.40732,54.11368,67.40732,54.11368",
+    "geom:latitude":54.11368,
+    "geom:longitude":67.40732,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ostagan",
+    "gn:country_code":"KZ",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530933,
+    "gn:latitude":54.11368,
+    "gn:longitude":67.40732,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Ostagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ostagan"
+    ],
+    "name:kaz_x_preferred":[
+        "Ostaghan"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u0441\u0442\u0430\u0493\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0430\u0433\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530933
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8147f29957a14f8281a977f2a8fda0ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1226014417,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226014417,
+    "wof:lastmodified":1537659948,
+    "wof:name":"Ostagan",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.40732,
+    54.11368,
+    67.40732,
+    54.11368
+],
+  "geometry": {"coordinates":[67.40732,54.11368],"type":"Point"}
+}

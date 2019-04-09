@@ -1,0 +1,73 @@
+{
+  "id": 1309706363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.77389,42.52472,69.77389,42.52472",
+    "geom:latitude":42.52472,
+    "geom:longitude":69.77389,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Karabulak",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537832,
+    "gn:latitude":42.52472,
+    "gn:longitude":69.77389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Karabulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qarabulaq",
+        "Karabulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537832,
+        "wk:page":"Karabulak_%28South_Kazakhstan%29"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c9e843005d69b6364a695e79ddd72067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785595,
+            "locality_id":1309706363,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1309706363,
+    "wof:lastmodified":1537660017,
+    "wof:name":"Karabulak",
+    "wof:parent_id":1108785595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.77389000000001,
+    42.52472,
+    69.77389000000001,
+    42.52472
+],
+  "geometry": {"coordinates":[69.77389000000001,42.52472],"type":"Point"}
+}

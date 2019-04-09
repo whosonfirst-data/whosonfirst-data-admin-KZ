@@ -1,0 +1,83 @@
+{
+  "id": 1293489331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.08355,52.28294,70.08355,52.28294",
+    "geom:latitude":52.28294,
+    "geom:longitude":70.08355,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ivankovka",
+    "gn:country_code":"KZ",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523713,
+    "gn:latitude":52.28294,
+    "gn:longitude":70.08355,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Ivankovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ivanovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u012avankovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0418\u0432\u0430\u043d\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ivanovka",
+        "Ivankovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523713
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6b957713d43203fbc6ce41e274ddff84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785389,
+            "locality_id":1293489331,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293489331,
+    "wof:lastmodified":1537659805,
+    "wof:name":"Ivankovka",
+    "wof:parent_id":1108785389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.08355,
+    52.28294,
+    70.08355,
+    52.28294
+],
+  "geometry": {"coordinates":[70.08355,52.28294],"type":"Point"}
+}

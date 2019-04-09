@@ -1,0 +1,73 @@
+{
+  "id": 1226036623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.60678,49.2576,52.60678,49.2576",
+    "geom:latitude":49.2576,
+    "geom:longitude":52.60678,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zhamankuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":828404,
+    "gn:latitude":49.2576,
+    "gn:longitude":52.60678,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Zhamankuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhamankuduk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043c\u0430\u043d\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":828404
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f9fe53a1cc2a10c8d9111065c441a084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1226036623,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226036623,
+    "wof:lastmodified":1537659456,
+    "wof:name":"Zhamankuduk",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.60678000000001,
+    49.2576,
+    52.60678000000001,
+    49.2576
+],
+  "geometry": {"coordinates":[52.60678000000001,49.2576],"type":"Point"}
+}

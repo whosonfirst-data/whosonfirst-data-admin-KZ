@@ -1,0 +1,67 @@
+{
+  "id": 1260201245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.13333,49.93333,81.13333,49.93333",
+    "geom:latitude":49.93333,
+    "geom:longitude":81.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chernogorskaya",
+    "gn:country_code":"KZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524832,
+    "gn:latitude":49.93333,
+    "gn:longitude":81.13333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Chernogorskaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524832
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"154e749a731deb070082b10310b9d9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1260201245,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1260201245,
+    "wof:lastmodified":1536822702,
+    "wof:name":"Chernogorskaya",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.13333,
+    49.93333,
+    81.13333,
+    49.93333
+],
+  "geometry": {"coordinates":[81.13333,49.93333],"type":"Point"}
+}

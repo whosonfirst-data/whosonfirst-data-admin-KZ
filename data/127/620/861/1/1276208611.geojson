@@ -1,0 +1,85 @@
+{
+  "id": 1276208611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.58429,55.1585,68.58429,55.1585",
+    "geom:latitude":55.1585,
+    "geom:longitude":68.58429,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Studyonoe",
+    "gn:country_code":"KZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530473,
+    "gn:latitude":55.1585,
+    "gn:longitude":68.58429,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"St\u016bdyonoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Studenoye"
+    ],
+    "name:kaz_x_preferred":[
+        "St\u016bdyonoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0442\u0443\u0434\u0451\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "Stud\u00ebnoye"
+    ],
+    "name:und_x_variant":[
+        "Studenoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530473
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d3678c624f2477b87e36999e3a389cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785359,
+            "locality_id":1276208611,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276208611,
+    "wof:lastmodified":1537659938,
+    "wof:name":"Studyonoe",
+    "wof:parent_id":1108785359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.58429,
+    55.1585,
+    68.58429,
+    55.1585
+],
+  "geometry": {"coordinates":[68.58429,55.1585],"type":"Point"}
+}

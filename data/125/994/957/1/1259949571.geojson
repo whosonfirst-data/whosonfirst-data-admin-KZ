@@ -1,0 +1,83 @@
+{
+  "id": 1259949571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.98662,54.14049,66.98662,54.14049",
+    "geom:latitude":54.14049,
+    "geom:longitude":66.98662,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Suatkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518755,
+    "gn:latitude":54.14049,
+    "gn:longitude":66.98662,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Suatkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Suatkol'"
+    ],
+    "name:kaz_x_preferred":[
+        "S\u016batk\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0443\u0430\u0442\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0430\u0442\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Suat-Kul\u2019",
+        "Suatkol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518755
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c8dd8328f4ad10efdbcb79cac7df5421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1259949571,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259949571,
+    "wof:lastmodified":1537659572,
+    "wof:name":"Suatkol'",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.98662,
+    54.14049,
+    66.98662,
+    54.14049
+],
+  "geometry": {"coordinates":[66.98662,54.14049],"type":"Point"}
+}

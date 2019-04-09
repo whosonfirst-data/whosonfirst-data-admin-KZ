@@ -1,0 +1,79 @@
+{
+  "id": 1293072465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.56453,53.81901,65.56453,53.81901",
+    "geom:latitude":53.81901,
+    "geom:longitude":65.56453,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Uykesken",
+    "gn:country_code":"KZ",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517576,
+    "gn:latitude":53.81901,
+    "gn:longitude":65.56453,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Uykesken",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uykesken"
+    ],
+    "name:kaz_x_preferred":[
+        "\u00dcykesken"
+    ],
+    "name:kaz_x_variant":[
+        "\u04ae\u0439\u043a\u0435\u0441\u043a\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0439\u043a\u0435\u0441\u043a\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517576
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"58c7f4a427a1375602c81f321e74dca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1293072465,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293072465,
+    "wof:lastmodified":1537659529,
+    "wof:name":"Uykesken",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.56453,
+    53.81901,
+    65.56453,
+    53.81901
+],
+  "geometry": {"coordinates":[65.56453,53.81901],"type":"Point"}
+}

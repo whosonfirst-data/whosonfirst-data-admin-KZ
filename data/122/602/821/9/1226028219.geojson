@@ -1,0 +1,81 @@
+{
+  "id": 1226028219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.64394,43.58682,67.64394,43.58682",
+    "geom:latitude":43.58682,
+    "geom:longitude":67.64394,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Besaryq",
+    "gn:country_code":"KZ",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525419,
+    "gn:latitude":43.58682,
+    "gn:longitude":67.64394,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Besaryq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Besaryq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u0441\u0430\u0440\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0448-\u0410\u0440\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Besharyk",
+        "Besaryk",
+        "Besh-Aryk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525419
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4a85ca0f67ac84de4b36f91b4e8c0efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1226028219,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1226028219,
+    "wof:lastmodified":1537659874,
+    "wof:name":"Besaryq",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.64394,
+    43.58682,
+    67.64394,
+    43.58682
+],
+  "geometry": {"coordinates":[67.64394,43.58682],"type":"Point"}
+}

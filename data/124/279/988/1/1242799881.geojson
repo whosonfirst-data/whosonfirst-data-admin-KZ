@@ -1,0 +1,67 @@
+{
+  "id": 1242799881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.16667,48.08333,51.16667,48.08333",
+    "geom:latitude":48.08333,
+    "geom:longitude":51.16667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Shtral'",
+    "gn:country_code":"KZ",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608275,
+    "gn:latitude":48.08333,
+    "gn:longitude":51.16667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Shtral\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608275
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2d25cb5096d385be5bbe8f2979ed9fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785445,
+            "locality_id":1242799881,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1242799881,
+    "wof:lastmodified":1536743260,
+    "wof:name":"Shtral'",
+    "wof:parent_id":1108785445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.16667,
+    48.08333,
+    51.16667,
+    48.08333
+],
+  "geometry": {"coordinates":[51.16667,48.08333],"type":"Point"}
+}

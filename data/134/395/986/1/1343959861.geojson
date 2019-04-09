@@ -1,0 +1,67 @@
+{
+  "id": 1343959861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6,52.03333,73.6,52.03333",
+    "geom:latitude":52.03333,
+    "geom:longitude":73.6,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhalgyz-Tyube",
+    "gn:country_code":"KZ",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516978,
+    "gn:latitude":52.03333,
+    "gn:longitude":73.6,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Zhalgyz-Tyube",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516978
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2ca3357daa898c6f17a7b96248b26c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1343959861,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343959861,
+    "wof:lastmodified":1537019982,
+    "wof:name":"Zhalgyz-Tyube",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6,
+    52.03333,
+    73.6,
+    52.03333
+],
+  "geometry": {"coordinates":[73.59999999999999,52.03333],"type":"Point"}
+}

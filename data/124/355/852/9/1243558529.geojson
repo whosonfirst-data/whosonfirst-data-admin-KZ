@@ -1,0 +1,70 @@
+{
+  "id": 1243558529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.30946,43.52755,78.30946,43.52755",
+    "geom:latitude":43.52755,
+    "geom:longitude":78.30946,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dikhan",
+    "gn:country_code":"KZ",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11488493,
+    "gn:latitude":43.52755,
+    "gn:longitude":78.30946,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Dikhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0445\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11488493
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"359328eda0766b97d8b97abc3842f1b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1243558529,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1243558529,
+    "wof:lastmodified":1537660161,
+    "wof:name":"Dikhan",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.30946,
+    43.52755,
+    78.30946,
+    43.52755
+],
+  "geometry": {"coordinates":[78.30946,43.52755],"type":"Point"}
+}

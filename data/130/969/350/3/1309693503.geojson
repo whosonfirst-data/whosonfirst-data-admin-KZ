@@ -1,0 +1,80 @@
+{
+  "id": 1309693503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.35795,52.39581,78.35795,52.39581",
+    "geom:latitude":52.39581,
+    "geom:longitude":78.35795,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Irinovka",
+    "gn:country_code":"KZ",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523779,
+    "gn:latitude":52.39581,
+    "gn:longitude":78.35795,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Irinovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Irinovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u0440\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0440\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yerinovka",
+        "Irinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523779
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"397b590d7b7a31ffd7e79f3c9c66f6a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1309693503,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1309693503,
+    "wof:lastmodified":1537659806,
+    "wof:name":"Irinovka",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.35795,
+    52.39581,
+    78.35795,
+    52.39581
+],
+  "geometry": {"coordinates":[78.35795,52.39581],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360107057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.63333,47.81667,51.63333,47.81667",
+    "geom:latitude":47.81667,
+    "geom:longitude":51.63333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Karashiganak",
+    "gn:country_code":"KZ",
+    "gn:dem":-20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609570,
+    "gn:latitude":47.81667,
+    "gn:longitude":51.63333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Karashiganak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karasheganak",
+        "Karashiganak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609570
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ee4576fed810bf7a5392356d3ba892ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785457,
+            "locality_id":1360107057,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1360107057,
+    "wof:lastmodified":1537659416,
+    "wof:name":"Karashiganak",
+    "wof:parent_id":1108785457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.63333,
+    47.81667,
+    51.63333,
+    47.81667
+],
+  "geometry": {"coordinates":[51.63333,47.81667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243454801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.2,50.33333,61.2,50.33333",
+    "geom:latitude":50.33333,
+    "geom:longitude":61.2,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bestas Pervyy",
+    "gn:country_code":"KZ",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525383,
+    "gn:latitude":50.33333,
+    "gn:longitude":61.2,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Bestas Pervyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525383
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e1947bd8fbbada3b732d1c3c4c789cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1243454801,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1243454801,
+    "wof:lastmodified":1536793749,
+    "wof:name":"Bestas Pervyy",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.2,
+    50.33333,
+    61.2,
+    50.33333
+],
+  "geometry": {"coordinates":[61.2,50.33333],"type":"Point"}
+}

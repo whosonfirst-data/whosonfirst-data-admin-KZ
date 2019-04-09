@@ -1,0 +1,73 @@
+{
+  "id": 1259604419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.00698,49.28361,49.00698,49.28361",
+    "geom:latitude":49.28361,
+    "geom:longitude":49.00698,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yelaman",
+    "gn:country_code":"KZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":856942,
+    "gn:latitude":49.28361,
+    "gn:longitude":49.00698,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Yelaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yelaman"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u0430\u043c\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":856942
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8c4013f66d675c52bc8eb1e0372c00df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1259604419,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1259604419,
+    "wof:lastmodified":1537659458,
+    "wof:name":"Yelaman",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.00698,
+    49.28361,
+    49.00698,
+    49.28361
+],
+  "geometry": {"coordinates":[49.00698,49.28361],"type":"Point"}
+}

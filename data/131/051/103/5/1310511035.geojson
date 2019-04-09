@@ -1,0 +1,76 @@
+{
+  "id": 1310511035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.1268,42.94416,79.1268,42.94416",
+    "geom:latitude":42.94416,
+    "geom:longitude":79.1268,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Buleksaz",
+    "gn:country_code":"KZ",
+    "gn:dem":1863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507827,
+    "gn:latitude":42.94416,
+    "gn:longitude":79.1268,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Buleksaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "B\u00f6leksaz"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u04e9\u043b\u0435\u043a\u0441\u0430\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u0435\u043a\u0441\u0430\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507827
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c764a12cc255f451896770fd84b72320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1310511035,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1310511035,
+    "wof:lastmodified":1537660173,
+    "wof:name":"Buleksaz",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.1268,
+    42.94416,
+    79.1268,
+    42.94416
+],
+  "geometry": {"coordinates":[79.1268,42.94416],"type":"Point"}
+}

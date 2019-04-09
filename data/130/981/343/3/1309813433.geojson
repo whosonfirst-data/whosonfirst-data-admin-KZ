@@ -1,0 +1,70 @@
+{
+  "id": 1309813433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.28333,50.36667,80.28333,50.36667",
+    "geom:latitude":50.36667,
+    "geom:longitude":80.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pes'yany Blizhniye",
+    "gn:country_code":"KZ",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520175,
+    "gn:latitude":50.36667,
+    "gn:longitude":80.28333,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Pes\u2019yany Blizhniye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Pes\u2019yany Blizhniye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520175
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c4b45f418191dac73384437826a5b7a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1309813433,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1309813433,
+    "wof:lastmodified":1537659642,
+    "wof:name":"Pes'yany Blizhniye",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.28333,
+    50.36667,
+    80.28333,
+    50.36667
+],
+  "geometry": {"coordinates":[80.28333000000001,50.36667],"type":"Point"}
+}

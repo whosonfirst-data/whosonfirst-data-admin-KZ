@@ -1,0 +1,76 @@
+{
+  "id": 1277047979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.30686,53.68829,67.30686,53.68829",
+    "geom:latitude":53.68829,
+    "geom:longitude":67.30686,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kenes",
+    "gn:country_code":"KZ",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532161,
+    "gn:latitude":53.68829,
+    "gn:longitude":67.30686,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kenes",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sots\u012bal"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u043e\u0446\u0438\u0430\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0435\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532161
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5599624c532e05bb0eaf82fbc2abf513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1277047979,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1277047979,
+    "wof:lastmodified":1537659959,
+    "wof:name":"Kenes",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.30686,
+    53.68829,
+    67.30686,
+    53.68829
+],
+  "geometry": {"coordinates":[67.30686,53.68829],"type":"Point"}
+}

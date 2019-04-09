@@ -1,0 +1,75 @@
+{
+  "id": 1343732599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.75192,46.93787,80.75192,46.93787",
+    "geom:latitude":46.93787,
+    "geom:longitude":80.75192,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qaraqol",
+    "gn:country_code":"KZ",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523325,
+    "gn:latitude":46.93787,
+    "gn:longitude":80.75192,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Qaraqol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaraqol"
+    ],
+    "name:und_x_variant":[
+        "Karakol",
+        "Karakol\u2019skiy",
+        "Karakolski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523325
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3e1129c7c1727ae74d8b33b0adaa1390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1343732599,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343732599,
+    "wof:lastmodified":1537659790,
+    "wof:name":"Qaraqol",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.75192,
+    46.93787,
+    80.75192,
+    46.93787
+],
+  "geometry": {"coordinates":[80.75192,46.93787],"type":"Point"}
+}

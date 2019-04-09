@@ -1,0 +1,70 @@
+{
+  "id": 1276735071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.11667,54.05,72.11667,54.05",
+    "geom:latitude":54.05,
+    "geom:longitude":72.11667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Odna Berezka",
+    "gn:country_code":"KZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520475,
+    "gn:latitude":54.05,
+    "gn:longitude":72.11667,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Odna Ber\u00ebzka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Odna Ber\u00ebzka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520475
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a3c34e6958f7cb849fdd7ebed09afc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1276735071,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276735071,
+    "wof:lastmodified":1537659659,
+    "wof:name":"Odna Berezka",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.11667,
+    54.05,
+    72.11667,
+    54.05
+],
+  "geometry": {"coordinates":[72.11667,54.05],"type":"Point"}
+}

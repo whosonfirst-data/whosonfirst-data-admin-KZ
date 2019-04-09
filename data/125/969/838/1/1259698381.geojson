@@ -1,0 +1,67 @@
+{
+  "id": 1259698381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.4925,40.93472,68.4925,40.93472",
+    "geom:latitude":40.93472,
+    "geom:longitude":68.4925,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dzerzhinskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535808,
+    "gn:latitude":40.93472,
+    "gn:longitude":68.4925,
+    "gn:modification_date":"1996-08-23",
+    "gn:name":"Dzerzhinskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535808
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f359256db52ebdea66fab70b20a80feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1259698381,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1259698381,
+    "wof:lastmodified":1537043681,
+    "wof:name":"Dzerzhinskiy",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.4925,
+    40.93472,
+    68.4925,
+    40.93472
+],
+  "geometry": {"coordinates":[68.49250000000001,40.93472],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1259691427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78406,52.33281,70.78406,52.33281",
+    "geom:latitude":52.33281,
+    "geom:longitude":70.78406,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhangatalap",
+    "gn:country_code":"KZ",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149725,
+    "gn:latitude":52.33281,
+    "gn:longitude":70.78406,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Zhangatalap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhangatalap"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430\u0442\u0430\u043b\u0430\u043f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0442\u0430\u043b\u0430\u043f"
+    ],
+    "name:und_x_variant":[
+        "Zhanatalap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149725
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"27fd90855b61788f7a2996a448ea3caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785389,
+            "locality_id":1259691427,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259691427,
+    "wof:lastmodified":1537660124,
+    "wof:name":"Zhangatalap",
+    "wof:parent_id":1108785389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78406,
+    52.33281,
+    70.78406,
+    52.33281
+],
+  "geometry": {"coordinates":[70.78406,52.33281],"type":"Point"}
+}

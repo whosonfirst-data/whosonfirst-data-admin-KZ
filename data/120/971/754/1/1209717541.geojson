@@ -1,0 +1,82 @@
+{
+  "id": 1209717541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.98302,52.07852,69.98302,52.07852",
+    "geom:latitude":52.07852,
+    "geom:longitude":69.98302,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novodonetsk",
+    "gn:country_code":"KZ",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520625,
+    "gn:latitude":52.07852,
+    "gn:longitude":69.98302,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Novodonetsk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novodonetsk"
+    ],
+    "name:kaz_x_preferred":[
+        "Novodonetsk"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0434\u043e\u043d\u0435\u0446\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0434\u043e\u043d\u0435\u0446\u043a"
+    ],
+    "name:und_x_variant":[
+        "Novodonetskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520625
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3b515d769697a7fc9d0b34f93c7bc542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785389,
+            "locality_id":1209717541,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1209717541,
+    "wof:lastmodified":1537659671,
+    "wof:name":"Novodonetsk",
+    "wof:parent_id":1108785389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.98302,
+    52.07852000000001,
+    69.98302,
+    52.07852000000001
+],
+  "geometry": {"coordinates":[69.98302,52.07852000000001],"type":"Point"}
+}

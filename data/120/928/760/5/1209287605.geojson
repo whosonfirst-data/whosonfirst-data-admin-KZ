@@ -1,0 +1,66 @@
+{
+  "id": 1209287605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.14866,47.03419,82.14866,47.03419",
+    "geom:latitude":47.03419,
+    "geom:longitude":82.14866,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Blagodarnoe",
+    "gn:country_code":"KZ",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525270,
+    "gn:latitude":47.03419,
+    "gn:longitude":82.14866,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Blagodarnoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blagodarnoye",
+        "Blagodarinskoye",
+        "Blagodarnoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525270
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fe13b3074f7f97a945cc0202f7946803",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209287605
+        }
+    ],
+    "wof:id":1209287605,
+    "wof:lastmodified":1537659869,
+    "wof:name":"Blagodarnoe",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.14865999999998,
+    47.03419,
+    82.14865999999998,
+    47.03419
+],
+  "geometry": {"coordinates":[82.14865999999998,47.03419],"type":"Point"}
+}

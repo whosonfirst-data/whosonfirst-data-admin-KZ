@@ -1,0 +1,70 @@
+{
+  "id": 1242942635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.40267,53.3712,67.40267,53.3712",
+    "geom:latitude":53.3712,
+    "geom:longitude":67.40267,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Samsonovka",
+    "gn:country_code":"KZ",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10971197,
+    "gn:latitude":53.3712,
+    "gn:longitude":67.40267,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Samsonovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0441\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10971197
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"39f170e9994513de2a14a63fd7700e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1242942635,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1242942635,
+    "wof:lastmodified":1537660085,
+    "wof:name":"Samsonovka",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.40267,
+    53.3712,
+    67.40267,
+    53.3712
+],
+  "geometry": {"coordinates":[67.40267,53.3712],"type":"Point"}
+}

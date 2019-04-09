@@ -1,0 +1,79 @@
+{
+  "id": 1260263111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.54006,48.06645,68.54006,48.06645",
+    "geom:latitude":48.06645,
+    "geom:longitude":68.54006,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Terekti",
+    "gn:country_code":"KZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518223,
+    "gn:latitude":48.06645,
+    "gn:longitude":68.54006,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Terekti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Terekti"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0435\u0440\u0435\u043a\u0442\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u043a\u0442\u0438"
+    ],
+    "name:und_x_variant":[
+        "Terekty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518223
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"09e9de5237bbdbda8c3d11bfab4b7182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785515,
+            "locality_id":1260263111,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1260263111,
+    "wof:lastmodified":1537659556,
+    "wof:name":"Terekti",
+    "wof:parent_id":1108785515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.54006,
+    48.06645,
+    68.54006,
+    48.06645
+],
+  "geometry": {"coordinates":[68.54006,48.06645],"type":"Point"}
+}

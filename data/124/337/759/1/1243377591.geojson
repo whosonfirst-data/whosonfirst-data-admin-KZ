@@ -1,0 +1,75 @@
+{
+  "id": 1243377591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.40637,43.49315,78.40637,43.49315",
+    "geom:latitude":43.49315,
+    "geom:longitude":78.40637,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Malybay",
+    "gn:country_code":"KZ",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521173,
+    "gn:latitude":43.49315,
+    "gn:longitude":78.40637,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Malybay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Mal\u00f6bay",
+        "Malybay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521173,
+        "wk:page":"Malybay"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cea3c7b5c02d6604849deb2b1754e88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1243377591,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1243377591,
+    "wof:lastmodified":1537659699,
+    "wof:name":"Malybay",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.40637,
+    43.49315,
+    78.40637,
+    43.49315
+],
+  "geometry": {"coordinates":[78.40637,43.49315],"type":"Point"}
+}

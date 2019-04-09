@@ -1,0 +1,79 @@
+{
+  "id": 1242984985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.35761,43.7192,77.35761,43.7192",
+    "geom:latitude":43.7192,
+    "geom:longitude":77.35761,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aqzhal",
+    "gn:country_code":"KZ",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10310599,
+    "gn:latitude":43.7192,
+    "gn:longitude":77.35761,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Aqzhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqzhal"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0436\u0430\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0436\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Akzhal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10310599
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c9dc34017d0f54908f2591ada16caca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1242984985,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1242984985,
+    "wof:lastmodified":1537660045,
+    "wof:name":"Aqzhal",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.35761,
+    43.7192,
+    77.35761,
+    43.7192
+],
+  "geometry": {"coordinates":[77.35760999999999,43.7192],"type":"Point"}
+}

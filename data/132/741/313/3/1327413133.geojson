@@ -1,0 +1,79 @@
+{
+  "id": 1327413133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.90871,52.57905,62.90871,52.57905",
+    "geom:latitude":52.57905,
+    "geom:longitude":62.90871,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Korzhynkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522226,
+    "gn:latitude":52.57905,
+    "gn:longitude":62.90871,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Korzhynkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Korzhynkol'"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0436\u0438\u043d\u043a\u043e\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "Korzhynkol\u2019"
+    ],
+    "name:und_x_variant":[
+        "Korzhinkol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522226
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6501996ece1e5646f9a3a71b34a161d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785535,
+            "locality_id":1327413133,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1327413133,
+    "wof:lastmodified":1537659748,
+    "wof:name":"Korzhynkol'",
+    "wof:parent_id":1108785535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.90871,
+    52.57905,
+    62.90871,
+    52.57905
+],
+  "geometry": {"coordinates":[62.90871,52.57905],"type":"Point"}
+}

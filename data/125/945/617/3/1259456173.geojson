@@ -1,0 +1,83 @@
+{
+  "id": 1259456173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.48229,50.88671,79.48229,50.88671",
+    "geom:latitude":50.88671,
+    "geom:longitude":79.48229,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bol'shaya Vladimirovka",
+    "gn:country_code":"KZ",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525199,
+    "gn:latitude":50.88671,
+    "gn:longitude":79.48229,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Bol\u2019shaya Vladimirovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u04ae\u043b\u043a\u0435\u043d \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Bol\u2019shaya Vladimirovka"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043a\u0430",
+        "\u0411\u0443\u0440\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "\u00dclken Vlad\u012bm\u012brovka",
+        "Bol\u2019shoy Vladimirovskiy",
+        "Bol\u2019shoye Vladimirskoye",
+        "Buras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525199
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"088d5f9d684587d77af2f2e5c4816ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785639,
+            "locality_id":1259456173,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259456173,
+    "wof:lastmodified":1537659865,
+    "wof:name":"Bol'shaya Vladimirovka",
+    "wof:parent_id":1108785639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.48229,
+    50.88671,
+    79.48229,
+    50.88671
+],
+  "geometry": {"coordinates":[79.48229000000001,50.88671],"type":"Point"}
+}

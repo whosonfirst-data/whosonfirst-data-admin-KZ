@@ -1,0 +1,79 @@
+{
+  "id": 1344258825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.64183,51.97669,72.64183,51.97669",
+    "geom:latitude":51.97669,
+    "geom:longitude":72.64183,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Il'inka",
+    "gn:country_code":"KZ",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524134,
+    "gn:latitude":51.97669,
+    "gn:longitude":72.64183,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"\u012al\u2019\u012bnka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u012al\u2019\u012bnka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0418\u043b\u044c\u0438\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Il\u2019inka"
+    ],
+    "name:und_x_variant":[
+        "Il\u2019inskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524134
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4def95bdd57727e249ca4c9861fa16fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1344258825,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1344258825,
+    "wof:lastmodified":1537659820,
+    "wof:name":"Il'inka",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.64183,
+    51.97669000000001,
+    72.64183,
+    51.97669000000001
+],
+  "geometry": {"coordinates":[72.64183,51.97669000000001],"type":"Point"}
+}

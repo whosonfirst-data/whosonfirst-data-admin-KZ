@@ -1,0 +1,70 @@
+{
+  "id": 1276409589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.60248,54.99279,70.60248,54.99279",
+    "geom:latitude":54.99279,
+    "geom:longitude":70.60248,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ortakshi",
+    "gn:country_code":"KZ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530690,
+    "gn:latitude":54.99279,
+    "gn:longitude":70.60248,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Ortakshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0442\u0430\u043a\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530690
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"27cd183593e59476350c5cffb03de42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1276409589,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276409589,
+    "wof:lastmodified":1537659943,
+    "wof:name":"Ortakshi",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.60248,
+    54.99279,
+    70.60248,
+    54.99279
+],
+  "geometry": {"coordinates":[70.60248,54.99279],"type":"Point"}
+}

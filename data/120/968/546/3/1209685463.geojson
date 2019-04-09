@@ -1,0 +1,76 @@
+{
+  "id": 1209685463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.4899,54.6618,66.4899,54.6618",
+    "geom:latitude":54.6618,
+    "geom:longitude":66.4899,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kaban'",
+    "gn:country_code":"KZ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523678,
+    "gn:latitude":54.6618,
+    "gn:longitude":66.4899,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kaban\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kaban'"
+    ],
+    "name:kaz_x_preferred":[
+        "Kaban"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0430\u0431\u0430\u043d\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0430\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "Kaban\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523678
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ce064e705159ce6ab7905b3e1883ce26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209685463
+        }
+    ],
+    "wof:id":1209685463,
+    "wof:lastmodified":1537659803,
+    "wof:name":"Kaban'",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.4899,
+    54.6618,
+    66.4899,
+    54.6618
+],
+  "geometry": {"coordinates":[66.48990000000001,54.6618],"type":"Point"}
+}

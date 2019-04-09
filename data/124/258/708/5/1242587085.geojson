@@ -1,0 +1,71 @@
+{
+  "id": 1242587085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.46043,45.61133,79.46043,45.61133",
+    "geom:latitude":45.61133,
+    "geom:longitude":79.46043,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aksu",
+    "gn:country_code":"KZ",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526660,
+    "gn:latitude":45.61133,
+    "gn:longitude":79.46043,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Aks\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aksuyskaya",
+        "Aks\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526660
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0a821147248d5fc1b329d3f9e646a813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785407,
+            "locality_id":1242587085,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1242587085,
+    "wof:lastmodified":1537659922,
+    "wof:name":"Aksu",
+    "wof:parent_id":1108785407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.46043,
+    45.61133,
+    79.46043,
+    45.61133
+],
+  "geometry": {"coordinates":[79.46043,45.61133],"type":"Point"}
+}

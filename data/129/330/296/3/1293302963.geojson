@@ -1,0 +1,67 @@
+{
+  "id": 1293302963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.18675,46.15948,81.18675,46.15948",
+    "geom:latitude":46.15948,
+    "geom:longitude":81.18675,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chistopol'skoye",
+    "gn:country_code":"KZ",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524765,
+    "gn:latitude":46.15948,
+    "gn:longitude":81.18675,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Chistopol\u2019skoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524765
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c1b4e9a6c98f789f1078c8748077f667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785413,
+            "locality_id":1293302963,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293302963,
+    "wof:lastmodified":1537050799,
+    "wof:name":"Chistopol'skoye",
+    "wof:parent_id":1108785413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.18675,
+    46.15948,
+    81.18675,
+    46.15948
+],
+  "geometry": {"coordinates":[81.18675,46.15948],"type":"Point"}
+}

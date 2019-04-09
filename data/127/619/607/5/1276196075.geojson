@@ -1,0 +1,77 @@
+{
+  "id": 1276196075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.00986,50.3409,82.00986,50.3409",
+    "geom:latitude":50.3409,
+    "geom:longitude":82.00986,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Novoil'inka",
+    "gn:country_code":"KZ",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520617,
+    "gn:latitude":50.3409,
+    "gn:longitude":82.00986,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Novoil\u2019inka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novoil'inka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0438\u043b\u044c\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novo-Il\u2019inskiy",
+        "Novoil\u2019inka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520617
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6aabc946670f88026f100437629ddf21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785611,
+            "locality_id":1276196075,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276196075,
+    "wof:lastmodified":1537659670,
+    "wof:name":"Novoil'inka",
+    "wof:parent_id":1108785611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.00986,
+    50.3409,
+    82.00986,
+    50.3409
+],
+  "geometry": {"coordinates":[82.00986,50.3409],"type":"Point"}
+}

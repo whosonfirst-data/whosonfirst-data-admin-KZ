@@ -1,0 +1,70 @@
+{
+  "id": 1243535723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.32546,50.29893,75.32546,50.29893",
+    "geom:latitude":50.29893,
+    "geom:longitude":75.32546,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Belagash",
+    "gn:country_code":"KZ",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454273,
+    "gn:latitude":50.29893,
+    "gn:longitude":75.32546,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Belagash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0433\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454273
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"79baa0c43a1e65c93b9c243ca6531c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1243535723,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1243535723,
+    "wof:lastmodified":1537660156,
+    "wof:name":"Belagash",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.32545999999998,
+    50.29893,
+    75.32545999999998,
+    50.29893
+],
+  "geometry": {"coordinates":[75.32545999999998,50.29893],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327156231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1,48.03333,48.1,48.03333",
+    "geom:latitude":48.03333,
+    "geom:longitude":48.1,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Shukyr",
+    "gn:country_code":"KZ",
+    "gn:dem":-12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608263,
+    "gn:latitude":48.03333,
+    "gn:longitude":48.1,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Shukyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608263
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e4fa83e7546b81304eddab2e5d8a4bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1327156231,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1327156231,
+    "wof:lastmodified":1537076492,
+    "wof:name":"Shukyr",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1,
+    48.03333,
+    48.1,
+    48.03333
+],
+  "geometry": {"coordinates":[48.1,48.03333],"type":"Point"}
+}

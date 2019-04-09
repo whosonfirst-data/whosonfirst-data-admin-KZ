@@ -1,0 +1,70 @@
+{
+  "id": 1327023799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.93204,41.70695,66.93204,41.70695",
+    "geom:latitude":41.70695,
+    "geom:longitude":66.93204,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhibekshi",
+    "gn:country_code":"KZ",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537095,
+    "gn:latitude":41.70695,
+    "gn:longitude":66.93204,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Zhibekshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u0431\u0435\u043a\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537095
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bea8c3ffed056f839ce45b1432aa4ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785365,
+            "locality_id":1327023799,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1327023799,
+    "wof:lastmodified":1537660010,
+    "wof:name":"Zhibekshi",
+    "wof:parent_id":1108785365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.93204,
+    41.70695,
+    66.93204,
+    41.70695
+],
+  "geometry": {"coordinates":[66.93204,41.70695],"type":"Point"}
+}

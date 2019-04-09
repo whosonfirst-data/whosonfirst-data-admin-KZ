@@ -1,0 +1,83 @@
+{
+  "id": 1310216627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.32426,52.84247,71.32426,52.84247",
+    "geom:latitude":52.84247,
+    "geom:longitude":71.32426,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Aqbulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11146383,
+    "gn:latitude":52.84247,
+    "gn:longitude":71.32426,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Aqbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqbulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "Taratul\u2019gen",
+        "\u0422\u0430\u0440\u0430\u0442\u0443\u043b\u044c\u0433\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Pridorozhnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11146383
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3456c7eec6f43cceb314671efcae53fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1310216627,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310216627,
+    "wof:lastmodified":1537660122,
+    "wof:name":"Aqbulaq",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.32426,
+    52.84247,
+    71.32426,
+    52.84247
+],
+  "geometry": {"coordinates":[71.32426,52.84247],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1327008199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.13705,53.00519,78.13705,53.00519",
+    "geom:latitude":53.00519,
+    "geom:longitude":78.13705,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Galitsnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524258,
+    "gn:latitude":53.00519,
+    "gn:longitude":78.13705,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Galitsnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Galitskoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Gal\u012btskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0413\u0430\u043b\u0438\u0446\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u0438\u0446\u043a\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0430\u043b\u0438\u0446\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Galitskoye",
+        "Galitsnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524258
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8c7fb539342edfb53046a19559d91d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785351,
+            "locality_id":1327008199,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1327008199,
+    "wof:lastmodified":1537659828,
+    "wof:name":"Galitsnoye",
+    "wof:parent_id":1108785351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.13705,
+    53.00519,
+    78.13705,
+    53.00519
+],
+  "geometry": {"coordinates":[78.13705,53.00519],"type":"Point"}
+}

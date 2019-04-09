@@ -1,0 +1,70 @@
+{
+  "id": 1226424635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.90812,54.95774,70.90812,54.95774",
+    "geom:latitude":54.95774,
+    "geom:longitude":70.90812,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Novouspenka",
+    "gn:country_code":"KZ",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520528,
+    "gn:latitude":54.95774,
+    "gn:longitude":70.90812,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Novouspenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0443\u0441\u043f\u0435\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520528
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"afaf3d36d925737382e126263f752931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1226424635,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226424635,
+    "wof:lastmodified":1537659662,
+    "wof:name":"Novouspenka",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.90812,
+    54.95774,
+    70.90812,
+    54.95774
+],
+  "geometry": {"coordinates":[70.90812,54.95774],"type":"Point"}
+}

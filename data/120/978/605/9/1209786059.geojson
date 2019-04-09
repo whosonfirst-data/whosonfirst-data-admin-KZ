@@ -1,0 +1,81 @@
+{
+  "id": 1209786059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.63338,50.74894,78.63338,50.74894",
+    "geom:latitude":50.74894,
+    "geom:longitude":78.63338,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Grachi",
+    "gn:country_code":"KZ",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524185,
+    "gn:latitude":50.74894,
+    "gn:longitude":78.63338,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Grachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Grach\u012b"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0440\u0430\u0447\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Grachevskiy",
+        "Grach\u012b",
+        "Grachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524185
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"003b588fdff0163c3b7f5d7aef48acae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1209786059,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1209786059,
+    "wof:lastmodified":1537659824,
+    "wof:name":"Grachi",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.63338,
+    50.74894000000001,
+    78.63338,
+    50.74894000000001
+],
+  "geometry": {"coordinates":[78.63338,50.74894000000001],"type":"Point"}
+}

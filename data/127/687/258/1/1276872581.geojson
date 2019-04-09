@@ -1,0 +1,77 @@
+{
+  "id": 1276872581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.83333,50.85,56.83333,50.85",
+    "geom:latitude":50.85,
+    "geom:longitude":56.83333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Karachayevskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609666,
+    "gn:latitude":50.85,
+    "gn:longitude":56.83333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Karachayevskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karachayevskiy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Karagachevskiy",
+        "Karachayevskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609666
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4283459cc016a3c748c3557f1e2dad50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785323,
+            "locality_id":1276872581,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1276872581,
+    "wof:lastmodified":1537659419,
+    "wof:name":"Karachayevskiy",
+    "wof:parent_id":1108785323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.83333,
+    50.85,
+    56.83333,
+    50.85
+],
+  "geometry": {"coordinates":[56.83333,50.85],"type":"Point"}
+}

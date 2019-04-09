@@ -1,0 +1,73 @@
+{
+  "id": 1310188591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.61566,43.03625,71.61566,43.03625",
+    "geom:latitude":43.03625,
+    "geom:longitude":71.61566,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bazarbay",
+    "gn:country_code":"KZ",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11119010,
+    "gn:latitude":43.03625,
+    "gn:longitude":71.61566,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Bazarbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Bazarbay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u0437\u0430\u0440\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11119010
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cb816eee0875854d10e3e3e0ee4812d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785487,
+            "locality_id":1310188591,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1310188591,
+    "wof:lastmodified":1537660105,
+    "wof:name":"Bazarbay",
+    "wof:parent_id":1108785487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.61565999999998,
+    43.03625,
+    71.61565999999998,
+    43.03625
+],
+  "geometry": {"coordinates":[71.61565999999998,43.03625],"type":"Point"}
+}

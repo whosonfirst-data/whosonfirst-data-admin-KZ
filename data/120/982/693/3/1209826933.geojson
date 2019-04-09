@@ -1,0 +1,82 @@
+{
+  "id": 1209826933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.31697,52.44212,72.31697,52.44212",
+    "geom:latitude":52.44212,
+    "geom:longitude":72.31697,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bogembay",
+    "gn:country_code":"KZ",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525244,
+    "gn:latitude":52.44212,
+    "gn:longitude":72.31697,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Bogembay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "B\u00f6genbay"
+    ],
+    "name:kaz_x_preferred":[
+        "B\u00f6gembay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u04e9\u0433\u0435\u043c\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0435\u043c\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "B\u00f6genbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525244
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"099c878015bd582307e8aa5f56999329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1209826933,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1209826933,
+    "wof:lastmodified":1537659866,
+    "wof:name":"Bogembay",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.31697,
+    52.44212,
+    72.31697,
+    52.44212
+],
+  "geometry": {"coordinates":[72.31697,52.44212],"type":"Point"}
+}

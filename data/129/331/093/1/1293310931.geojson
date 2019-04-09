@@ -1,0 +1,76 @@
+{
+  "id": 1293310931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.58252,53.14625,63.58252,53.14625",
+    "geom:latitude":53.14625,
+    "geom:longitude":63.58252,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Amangel'dy",
+    "gn:country_code":"KZ",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526333,
+    "gn:latitude":53.14625,
+    "gn:longitude":63.58252,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Amangel\u2019dy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amangel'dy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u044c\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Amangel\u2019dy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526333
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dd4b3f866d202899beb44750045d1f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1293310931,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293310931,
+    "wof:lastmodified":1537659910,
+    "wof:name":"Amangel'dy",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.58252,
+    53.14625,
+    63.58252,
+    53.14625
+],
+  "geometry": {"coordinates":[63.58252,53.14625],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243193665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.86333,50.74056,49.86333,50.74056",
+    "geom:latitude":50.74056,
+    "geom:longitude":49.86333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ayak",
+    "gn:country_code":"KZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829680,
+    "gn:latitude":50.74056,
+    "gn:longitude":49.86333,
+    "gn:modification_date":"1998-08-19",
+    "gn:name":"Ayak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829680
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"582bc2d0ac6970af66c58b1c9b5a4ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785329,
+            "locality_id":1243193665,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1243193665,
+    "wof:lastmodified":1536672977,
+    "wof:name":"Ayak",
+    "wof:parent_id":1108785329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.86333,
+    50.74056,
+    49.86333,
+    50.74056
+],
+  "geometry": {"coordinates":[49.86333,50.74056],"type":"Point"}
+}

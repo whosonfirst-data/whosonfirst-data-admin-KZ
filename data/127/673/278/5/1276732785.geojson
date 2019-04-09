@@ -1,0 +1,73 @@
+{
+  "id": 1276732785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.73919,49.88117,82.73919,49.88117",
+    "geom:latitude":49.88117,
+    "geom:longitude":82.73919,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Vodnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1484593,
+    "gn:latitude":49.88117,
+    "gn:longitude":82.73919,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vodnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vodnoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0434\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1484593
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"351f7df31afa3115dcb6baa73a0cdabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785475,
+            "locality_id":1276732785,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276732785,
+    "wof:lastmodified":1537659465,
+    "wof:name":"Vodnoye",
+    "wof:parent_id":1108785475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.73919000000002,
+    49.88117,
+    82.73919000000002,
+    49.88117
+],
+  "geometry": {"coordinates":[82.73919000000002,49.88117],"type":"Point"}
+}

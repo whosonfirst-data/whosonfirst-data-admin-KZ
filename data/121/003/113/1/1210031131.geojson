@@ -1,0 +1,74 @@
+{
+  "id": 1210031131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.52044,44.17638,79.52044,44.17638",
+    "geom:latitude":44.17638,
+    "geom:longitude":79.52044,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koybyn",
+    "gn:country_code":"KZ",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522091,
+    "gn:latitude":44.17638,
+    "gn:longitude":79.52044,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Koybyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koybanskaya",
+        "Koyb\u00f6k",
+        "Koybyy",
+        "Koybyk",
+        "Koybyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522091
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1e823af64c0c260b2fd19b49552fff81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785409,
+            "locality_id":1210031131,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1210031131,
+    "wof:lastmodified":1537659742,
+    "wof:name":"Koybyn",
+    "wof:parent_id":1108785409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.52044000000002,
+    44.17638,
+    79.52044000000002,
+    44.17638
+],
+  "geometry": {"coordinates":[79.52044000000002,44.17638],"type":"Point"}
+}

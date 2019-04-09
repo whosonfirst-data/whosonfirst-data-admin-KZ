@@ -1,0 +1,67 @@
+{
+  "id": 1259701361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.85036,44.23446,76.85036,44.23446",
+    "geom:latitude":44.23446,
+    "geom:longitude":76.85036,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Usharal",
+    "gn:country_code":"KZ",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517671,
+    "gn:latitude":44.23446,
+    "gn:longitude":76.85036,
+    "gn:modification_date":"2016-09-13",
+    "gn:name":"Usharal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517671
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d793e43f7e000eab441cc25efc6f8d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785433,
+            "locality_id":1259701361,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1259701361,
+    "wof:lastmodified":1537039597,
+    "wof:name":"Usharal",
+    "wof:parent_id":1108785433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.85036,
+    44.23446,
+    76.85036,
+    44.23446
+],
+  "geometry": {"coordinates":[76.85035999999999,44.23446],"type":"Point"}
+}

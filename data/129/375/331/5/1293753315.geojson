@@ -1,0 +1,80 @@
+{
+  "id": 1293753315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.80844,54.62255,68.80844,54.62255",
+    "geom:latitude":54.62255,
+    "geom:longitude":68.80844,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nadezhka",
+    "gn:country_code":"KZ",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520765,
+    "gn:latitude":54.62255,
+    "gn:longitude":68.80844,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Nadezhka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nadezhka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0430\u0434\u0435\u0436\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0434\u0435\u0436\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Nadezhdinskoye",
+        "Nadezhka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520765
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f31982eef315baf193fc29e594a7d046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1293753315,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293753315,
+    "wof:lastmodified":1537659680,
+    "wof:name":"Nadezhka",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.80844,
+    54.62255,
+    68.80844,
+    54.62255
+],
+  "geometry": {"coordinates":[68.80844,54.62255],"type":"Point"}
+}

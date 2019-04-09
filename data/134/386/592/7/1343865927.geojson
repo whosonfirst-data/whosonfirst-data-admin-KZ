@@ -1,0 +1,67 @@
+{
+  "id": 1343865927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.0,52.05,72.0,52.05",
+    "geom:latitude":52.05,
+    "geom:longitude":72.0,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Internatsional",
+    "gn:country_code":"KZ",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523803,
+    "gn:latitude":52.05,
+    "gn:longitude":72.0,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Internatsional",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523803
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"897d75d736ef891f9a11858082b61957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1343865927,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343865927,
+    "wof:lastmodified":1536658766,
+    "wof:name":"Internatsional",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.0,
+    52.05,
+    72.0,
+    52.05
+],
+  "geometry": {"coordinates":[72.0,52.05],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242759887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.5403,54.7002,68.5403,54.7002",
+    "geom:latitude":54.7002,
+    "geom:longitude":68.5403,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ledenevo",
+    "gn:country_code":"KZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530459,
+    "gn:latitude":54.7002,
+    "gn:longitude":68.5403,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ledenevo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ledenevo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435\u0434\u0435\u043d\u0435\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0434\u0435\u043d\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530459
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7f9f60348b058a5b7b3e74a9bfaa1099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785359,
+            "locality_id":1242759887,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1242759887,
+    "wof:lastmodified":1537659938,
+    "wof:name":"Ledenevo",
+    "wof:parent_id":1108785359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.5403,
+    54.7002,
+    68.5403,
+    54.7002
+],
+  "geometry": {"coordinates":[68.5403,54.7002],"type":"Point"}
+}

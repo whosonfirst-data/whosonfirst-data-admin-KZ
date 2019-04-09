@@ -1,0 +1,76 @@
+{
+  "id": 1327239235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.71362,52.89163,70.71362,52.89163",
+    "geom:latitude":52.89163,
+    "geom:longitude":70.71362,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kazgorodok",
+    "gn:country_code":"KZ",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522836,
+    "gn:latitude":52.89163,
+    "gn:longitude":70.71362,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Kazgorodok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kazgorodok"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0437\u0433\u043e\u0440\u043e\u0434\u043e\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0433\u043e\u0440\u043e\u0434\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522836
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9b873ff0151012be1a522b85263a5a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1327239235,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327239235,
+    "wof:lastmodified":1537659775,
+    "wof:name":"Kazgorodok",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.71361999999998,
+    52.89163000000001,
+    70.71361999999998,
+    52.89163000000001
+],
+  "geometry": {"coordinates":[70.71361999999998,52.89163000000001],"type":"Point"}
+}

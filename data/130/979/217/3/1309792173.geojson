@@ -1,0 +1,77 @@
+{
+  "id": 1309792173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.66394,49.78806,63.66394,49.78806",
+    "geom:latitude":49.78806,
+    "geom:longitude":63.66394,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Suzharghan",
+    "gn:country_code":"KZ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518676,
+    "gn:latitude":49.78806,
+    "gn:longitude":63.66394,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"S\u016bzharghan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "S\u016bzharghan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0436\u0430\u0440\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Suzhargan",
+        "S\u016bzharghan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518676
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9cb4595e71ffcbe232597e809e2f8af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1309792173,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1309792173,
+    "wof:lastmodified":1537659569,
+    "wof:name":"Suzharghan",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.66394,
+    49.78806,
+    63.66394,
+    49.78806
+],
+  "geometry": {"coordinates":[63.66394,49.78806],"type":"Point"}
+}

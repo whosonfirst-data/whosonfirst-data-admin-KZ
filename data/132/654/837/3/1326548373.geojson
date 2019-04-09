@@ -1,0 +1,67 @@
+{
+  "id": 1326548373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.73333,51.53333,50.73333,51.53333",
+    "geom:latitude":51.53333,
+    "geom:longitude":50.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nizhayev",
+    "gn:country_code":"KZ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608741,
+    "gn:latitude":51.53333,
+    "gn:longitude":50.73333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Nizhayev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608741
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2296852ef3f3f8b9b46db75504821ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785331,
+            "locality_id":1326548373,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1326548373,
+    "wof:lastmodified":1536960645,
+    "wof:name":"Nizhayev",
+    "wof:parent_id":1108785331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.73333,
+    51.53333,
+    50.73333,
+    51.53333
+],
+  "geometry": {"coordinates":[50.73333,51.53333],"type":"Point"}
+}

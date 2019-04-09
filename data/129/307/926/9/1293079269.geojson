@@ -1,0 +1,79 @@
+{
+  "id": 1293079269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.13606,52.05176,77.13606,52.05176",
+    "geom:latitude":52.05176,
+    "geom:longitude":77.13606,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zhertumsyq",
+    "gn:country_code":"KZ",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10801736,
+    "gn:latitude":52.05176,
+    "gn:longitude":77.13606,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Zhertumsyq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhertumsyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0435\u0440\u0442\u04b1\u043c\u0441\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u0430 \u041c\u0430\u0440\u043a\u0441\u0430"
+    ],
+    "name:und_x_variant":[
+        "Karla Marksa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10801736
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"081684f44ab4e59ecfde7d204b91fef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785561,
+            "locality_id":1293079269,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1293079269,
+    "wof:lastmodified":1537660060,
+    "wof:name":"Zhertumsyq",
+    "wof:parent_id":1108785561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.13606,
+    52.05176,
+    77.13606,
+    52.05176
+],
+  "geometry": {"coordinates":[77.13606,52.05176],"type":"Point"}
+}

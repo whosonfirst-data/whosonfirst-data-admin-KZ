@@ -1,0 +1,76 @@
+{
+  "id": 1326613847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.90057,41.92044,68.90057,41.92044",
+    "geom:latitude":41.92044,
+    "geom:longitude":68.90057,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sorkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1536981,
+    "gn:latitude":41.92044,
+    "gn:longitude":68.90057,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Sorkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0440\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Otdeleniye Nomer 2 Sovkhoza Imeni Engel\u2019sa",
+        "Otdeleniye Nomer Dva Sovkhoza Imeni Engel\u2019sa",
+        "Otdeleniye Nomer 2 (Dva) Sovkhoza Imeni Engel\u2019sa",
+        "Sorkol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1536981
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"044fb2bbd13b0ec4822f2c7a9e20c009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1326613847,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1326613847,
+    "wof:lastmodified":1537660008,
+    "wof:name":"Sorkol'",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.90057,
+    41.92044,
+    68.90057,
+    41.92044
+],
+  "geometry": {"coordinates":[68.90057,41.92044],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1225932967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.01283,41.71846,69.01283,41.71846",
+    "geom:latitude":41.71846,
+    "geom:longitude":69.01283,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhilga",
+    "gn:country_code":"KZ",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516471,
+    "gn:latitude":41.71846,
+    "gn:longitude":69.01283,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Zhilga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0416\u044b\u043b\u0493\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u043b\u0433\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dzhilga",
+        "Zhilga",
+        "Dzhili",
+        "Zhylga",
+        "Zhylgha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516471
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2cea09da530d2b89ba2f5b0ecb4ef18a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1225932967,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1225932967,
+    "wof:lastmodified":1537659472,
+    "wof:name":"Zhilga",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.01283000000001,
+    41.71846,
+    69.01283000000001,
+    41.71846
+],
+  "geometry": {"coordinates":[69.01283000000001,41.71846],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209484901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.61344,54.97454,68.61344,54.97454",
+    "geom:latitude":54.97454,
+    "geom:longitude":68.61344,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Progress",
+    "gn:country_code":"KZ",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530471,
+    "gn:latitude":54.97454,
+    "gn:longitude":68.61344,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Progress",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530471
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b6e4f970a6f4a0f3fccae208f035b4a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209484901
+        }
+    ],
+    "wof:id":1209484901,
+    "wof:lastmodified":1537659938,
+    "wof:name":"Progress",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.61344,
+    54.97454000000001,
+    68.61344,
+    54.97454000000001
+],
+  "geometry": {"coordinates":[68.61344,54.97454000000001],"type":"Point"}
+}

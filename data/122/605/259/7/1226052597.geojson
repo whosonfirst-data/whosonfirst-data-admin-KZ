@@ -1,0 +1,73 @@
+{
+  "id": 1226052597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.56667,50.23333,50.56667,50.23333",
+    "geom:latitude":50.23333,
+    "geom:longitude":50.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Piunov",
+    "gn:country_code":"KZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608608,
+    "gn:latitude":50.23333,
+    "gn:longitude":50.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Piunov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Piunov"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432.\u041f\u0438\u0443\u043d\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608608
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7a7266e72edd39dfbf812712f90a4fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1226052597,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226052597,
+    "wof:lastmodified":1537659379,
+    "wof:name":"Piunov",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.56667,
+    50.23333,
+    50.56667,
+    50.23333
+],
+  "geometry": {"coordinates":[50.56667,50.23333],"type":"Point"}
+}

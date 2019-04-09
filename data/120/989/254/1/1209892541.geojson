@@ -1,0 +1,79 @@
+{
+  "id": 1209892541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.46186,53.53215,63.46186,53.53215",
+    "geom:latitude":53.53215,
+    "geom:longitude":63.46186,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Timinskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518163,
+    "gn:latitude":53.53215,
+    "gn:longitude":63.46186,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Timinskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Timinskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "T\u012bm\u012bnsk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0438\u043c\u0438\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043c\u0438\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518163
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d18d24c561ab1499e3e885b46bb7df8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1209892541,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1209892541,
+    "wof:lastmodified":1537659554,
+    "wof:name":"Timinskiy",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.46186,
+    53.53215,
+    63.46186,
+    53.53215
+],
+  "geometry": {"coordinates":[63.46186,53.53215],"type":"Point"}
+}

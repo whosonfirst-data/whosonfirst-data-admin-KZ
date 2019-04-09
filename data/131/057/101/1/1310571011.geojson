@@ -1,0 +1,83 @@
+{
+  "id": 1310571011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.80372,53.93449,70.80372,53.93449",
+    "geom:latitude":53.93449,
+    "geom:longitude":70.80372,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tikhookeanskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518164,
+    "gn:latitude":53.93449,
+    "gn:longitude":70.80372,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Tikhookeanskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tikhookeanskoye"
+    ],
+    "name:kaz_x_preferred":[
+        "T\u012bkhookeanskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0438\u0445\u043e\u043e\u043a\u0435\u0430\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0445\u043e\u043e\u043a\u0435\u0430\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Tikhookeanskiy",
+        "Tikhookeanskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518164
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8a95b19079d7bcc3e0c7031c0bf1b713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1310571011,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310571011,
+    "wof:lastmodified":1537659554,
+    "wof:name":"Tikhookeanskoye",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.80372,
+    53.93449,
+    70.80372,
+    53.93449
+],
+  "geometry": {"coordinates":[70.80372,53.93449],"type":"Point"}
+}

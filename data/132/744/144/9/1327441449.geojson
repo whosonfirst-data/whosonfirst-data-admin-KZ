@@ -1,0 +1,67 @@
+{
+  "id": 1327441449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.93333,49.93333,50.93333,49.93333",
+    "geom:latitude":49.93333,
+    "geom:longitude":50.93333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Boldyrev",
+    "gn:country_code":"KZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610249,
+    "gn:latitude":49.93333,
+    "gn:longitude":50.93333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Boldyrev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610249
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6057f72c379bdf99738ec0a4e2713ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1327441449,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1327441449,
+    "wof:lastmodified":1536667688,
+    "wof:name":"Boldyrev",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.93333,
+    49.93333,
+    50.93333,
+    49.93333
+],
+  "geometry": {"coordinates":[50.93333,49.93333],"type":"Point"}
+}

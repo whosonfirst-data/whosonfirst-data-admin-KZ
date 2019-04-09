@@ -1,0 +1,79 @@
+{
+  "id": 1292910821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25889,53.30361,69.25889,53.30361",
+    "geom:latitude":53.30361,
+    "geom:longitude":69.25889,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chaykino",
+    "gn:country_code":"KZ",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535602,
+    "gn:latitude":53.30361,
+    "gn:longitude":69.25889,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Chaykino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chaykino"
+    ],
+    "name:kaz_x_preferred":[
+        "Chayk\u012bno"
+    ],
+    "name:kaz_x_variant":[
+        "\u0427\u0430\u0439\u043a\u0438\u043d\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0439\u043a\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535602
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3d55c827574696a6b9e6900a9948f7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1292910821,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1292910821,
+    "wof:lastmodified":1537659998,
+    "wof:name":"Chaykino",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25889000000001,
+    53.30361,
+    69.25889000000001,
+    53.30361
+],
+  "geometry": {"coordinates":[69.25889000000001,53.30361],"type":"Point"}
+}

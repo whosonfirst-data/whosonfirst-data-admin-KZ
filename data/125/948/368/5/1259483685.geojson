@@ -1,0 +1,79 @@
+{
+  "id": 1259483685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.8468,49.13857,57.8468,49.13857",
+    "geom:latitude":49.13857,
+    "geom:longitude":57.8468,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dmitriyevskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610035,
+    "gn:latitude":49.13857,
+    "gn:longitude":57.8468,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Dmitriyevskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dm\u012btr\u012bevskoe"
+    ],
+    "name:kaz_x_preferred":[
+        "Dm\u012btr\u012bevskoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Dmitriyevskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610035
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3a9bca5e15d4de78fe61799071b47d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785725,
+            "locality_id":1259483685,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1259483685,
+    "wof:lastmodified":1537659429,
+    "wof:name":"Dmitriyevskoye",
+    "wof:parent_id":1108785725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.8468,
+    49.13857,
+    57.8468,
+    49.13857
+],
+  "geometry": {"coordinates":[57.8468,49.13857],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310013277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.35941,52.4359,69.35941,52.4359",
+    "geom:latitude":52.4359,
+    "geom:longitude":69.35941,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sargut",
+    "gn:country_code":"KZ",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11135387,
+    "gn:latitude":52.4359,
+    "gn:longitude":69.35941,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Sargut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0433\u0443\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11135387
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"38d3a2d044b7ff9094f96b8b40c2c0a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785629,
+            "locality_id":1310013277,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310013277,
+    "wof:lastmodified":1537660117,
+    "wof:name":"Sargut",
+    "wof:parent_id":1108785629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.35941,
+    52.4359,
+    69.35941,
+    52.4359
+],
+  "geometry": {"coordinates":[69.35941,52.4359],"type":"Point"}
+}

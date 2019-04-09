@@ -1,0 +1,83 @@
+{
+  "id": 1209798277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.29857,50.81268,80.29857,50.81268",
+    "geom:latitude":50.81268,
+    "geom:longitude":80.29857,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zubair",
+    "gn:country_code":"KZ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516443,
+    "gn:latitude":50.81268,
+    "gn:longitude":80.29857,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Zubair",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zubair"
+    ],
+    "name:kaz_x_preferred":[
+        "Z\u016bba\u012br"
+    ],
+    "name:kaz_x_variant":[
+        "\u0417\u0443\u0431\u0430\u0438\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0443\u0431\u0430\u0438\u0440"
+    ],
+    "name:und_x_variant":[
+        "Zuboirovka",
+        "Zubair"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516443
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f5df35ceff447fe0a8387845f10eac07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1209798277,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1209798277,
+    "wof:lastmodified":1537659469,
+    "wof:name":"Zubair",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.29857,
+    50.81268,
+    80.29857,
+    50.81268
+],
+  "geometry": {"coordinates":[80.29857,50.81268],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1226115521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.80371,49.00804,82.80371,49.00804",
+    "geom:latitude":49.00804,
+    "geom:longitude":82.80371,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Malorossiyka",
+    "gn:country_code":"KZ",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521185,
+    "gn:latitude":49.00804,
+    "gn:longitude":82.80371,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Malorossiyka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maloross\u012byka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0440\u043e\u0441\u0441\u0438\u0439\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0440\u043e\u0441\u0441\u0438\u0439\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Malorossiyskoye",
+        "Maloross\u012byka",
+        "Malorossiyka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521185
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5ac88b8ce597c431cb5627bcfe481db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1226115521,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226115521,
+    "wof:lastmodified":1537659700,
+    "wof:name":"Malorossiyka",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.80371,
+    49.00804,
+    82.80371,
+    49.00804
+],
+  "geometry": {"coordinates":[82.80371,49.00804],"type":"Point"}
+}

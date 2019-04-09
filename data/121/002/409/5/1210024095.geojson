@@ -1,0 +1,70 @@
+{
+  "id": 1210024095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.5115,52.58212,69.5115,52.58212",
+    "geom:latitude":52.58212,
+    "geom:longitude":69.5115,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Oblomovka",
+    "gn:country_code":"KZ",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11135377,
+    "gn:latitude":52.58212,
+    "gn:longitude":69.5115,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Oblomovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u043b\u043e\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11135377
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"140219edb044d3f3709d58a163a67fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785629,
+            "locality_id":1210024095,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1210024095,
+    "wof:lastmodified":1537660117,
+    "wof:name":"Oblomovka",
+    "wof:parent_id":1108785629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.5115,
+    52.58212,
+    69.5115,
+    52.58212
+],
+  "geometry": {"coordinates":[69.5115,52.58212],"type":"Point"}
+}

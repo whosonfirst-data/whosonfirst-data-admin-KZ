@@ -1,0 +1,76 @@
+{
+  "id": 1226729111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.62445,52.48078,63.62445,52.48078",
+    "geom:latitude":52.48078,
+    "geom:longitude":63.62445,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Oktyabr'skiy",
+    "gn:country_code":"KZ",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11421727,
+    "gn:latitude":52.48078,
+    "gn:longitude":63.62445,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Oktyabr\u2019sk\u012by",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Oktyabr\u2019sk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "Oktyabr\u2019skiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11421727
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c4f8378a38ae2fc89922b2b4808625d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785659,
+            "locality_id":1226729111,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226729111,
+    "wof:lastmodified":1537660149,
+    "wof:name":"Oktyabr'skiy",
+    "wof:parent_id":1108785659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.62445,
+    52.48078,
+    63.62445,
+    52.48078
+],
+  "geometry": {"coordinates":[63.62445,52.48078],"type":"Point"}
+}

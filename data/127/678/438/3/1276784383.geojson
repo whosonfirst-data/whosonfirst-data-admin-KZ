@@ -1,0 +1,70 @@
+{
+  "id": 1276784383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.31667,40.98333,68.31667,40.98333",
+    "geom:latitude":40.98333,
+    "geom:longitude":68.31667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tridtsat' Let Kazakhskoy Sovetskoy Sotsialisticheskoy Respubliki",
+    "gn:country_code":"KZ",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512565,
+    "gn:latitude":40.98333,
+    "gn:longitude":68.31667,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Tridtsat\u2019 Let Kazakhskoy Sovetskoy Sotsialisticheskoy Respubliki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tridtsat\u2019 Let Kazakhskoy Sovetskoy Sotsialisticheskoy Respubliki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512565
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f11c53dd51143f58168fcf39812e7c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1276784383,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276784383,
+    "wof:lastmodified":1537659467,
+    "wof:name":"Tridtsat' Let Kazakhskoy Sovetskoy Sotsialisticheskoy Respubliki",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.31667,
+    40.98333,
+    68.31667,
+    40.98333
+],
+  "geometry": {"coordinates":[68.31667,40.98333],"type":"Point"}
+}

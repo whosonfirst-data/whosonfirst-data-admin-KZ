@@ -1,0 +1,75 @@
+{
+  "id": 1259698289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.34886,49.51459,80.34886,49.51459",
+    "geom:latitude":49.51459,
+    "geom:longitude":80.34886,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dzhartasskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524407,
+    "gn:latitude":49.51459,
+    "gn:longitude":80.34886,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dzhartasskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhar-Tasskiy",
+        "Djartas",
+        "Pik Dzhartavskiy",
+        "Dzhartaskaya",
+        "Piket Dzhartasskiy",
+        "Dzhartasskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524407
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6be9f1d408a24dcbb25a6e3e41e47978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1259698289,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259698289,
+    "wof:lastmodified":1537659833,
+    "wof:name":"Dzhartasskiy",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.34886,
+    49.51459000000001,
+    80.34886,
+    49.51459000000001
+],
+  "geometry": {"coordinates":[80.34886,49.51459000000001],"type":"Point"}
+}

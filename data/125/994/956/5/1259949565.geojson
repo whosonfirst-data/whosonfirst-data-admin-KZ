@@ -1,0 +1,82 @@
+{
+  "id": 1259949565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.43587,55.24262,69.43587,55.24262",
+    "geom:latitude":55.24262,
+    "geom:longitude":69.43587,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Krasnoyarka",
+    "gn:country_code":"KZ",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522000,
+    "gn:latitude":55.24262,
+    "gn:longitude":69.43587,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Krasnoyarka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krasnoyarka"
+    ],
+    "name:kaz_x_preferred":[
+        "Krasnoyarka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Krasnoyarskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522000
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"71d35f6c85a94cc9c205aa5f78af305a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1259949565,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259949565,
+    "wof:lastmodified":1537659737,
+    "wof:name":"Krasnoyarka",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.43587,
+    55.24262,
+    69.43587,
+    55.24262
+],
+  "geometry": {"coordinates":[69.43586999999999,55.24262],"type":"Point"}
+}

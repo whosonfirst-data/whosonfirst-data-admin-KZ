@@ -1,0 +1,74 @@
+{
+  "id": 1209833353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.73987,43.041,78.73987,43.041",
+    "geom:latitude":43.041,
+    "geom:longitude":78.73987,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Merke",
+    "gn:country_code":"KZ",
+    "gn:dem":1826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520968,
+    "gn:latitude":43.041,
+    "gn:longitude":78.73987,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Merke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0440\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Chet-Merke",
+        "Merke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520968
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e189c228d1e91fb694fb43d540b72099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1209833353,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1209833353,
+    "wof:lastmodified":1537659691,
+    "wof:name":"Merke",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.73987,
+    43.041,
+    78.73987,
+    43.041
+],
+  "geometry": {"coordinates":[78.73987,43.041],"type":"Point"}
+}

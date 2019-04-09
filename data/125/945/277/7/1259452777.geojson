@@ -1,0 +1,79 @@
+{
+  "id": 1259452777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.53149,53.96756,69.53149,53.96756",
+    "geom:latitude":53.96756,
+    "geom:longitude":69.53149,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Leonidovka",
+    "gn:country_code":"KZ",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532353,
+    "gn:latitude":53.96756,
+    "gn:longitude":69.53149,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Leonidovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Leonidovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Leon\u012bdovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041b\u0435\u043e\u043d\u0438\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043e\u043d\u0438\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532353
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"657727e1cef1a043e863a427fd84dbe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1259452777,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259452777,
+    "wof:lastmodified":1537659966,
+    "wof:name":"Leonidovka",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.53149,
+    53.96756,
+    69.53149,
+    53.96756
+],
+  "geometry": {"coordinates":[69.53149000000001,53.96756],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226260883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.05621,50.52113,54.05621,50.52113",
+    "geom:latitude":50.52113,
+    "geom:longitude":54.05621,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kaindy",
+    "gn:country_code":"KZ",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609748,
+    "gn:latitude":50.52113,
+    "gn:longitude":54.05621,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kaindy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kaindy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0438\u043d\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609748
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f07f19d911f5ba24c768189610243703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785711,
+            "locality_id":1226260883,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226260883,
+    "wof:lastmodified":1537659422,
+    "wof:name":"Kaindy",
+    "wof:parent_id":1108785711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.05621,
+    50.52113,
+    54.05621,
+    50.52113
+],
+  "geometry": {"coordinates":[54.05621,50.52113],"type":"Point"}
+}

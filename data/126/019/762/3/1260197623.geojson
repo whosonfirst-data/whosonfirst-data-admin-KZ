@@ -1,0 +1,73 @@
+{
+  "id": 1260197623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.26525,52.37025,65.26525,52.37025",
+    "geom:latitude":52.37025,
+    "geom:longitude":65.26525,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Utinka",
+    "gn:country_code":"KZ",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517601,
+    "gn:latitude":52.37025,
+    "gn:longitude":65.26525,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Utinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Utinka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0442\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517601
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"06f2a5d0d483678d563d735883d2805d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1260197623,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1260197623,
+    "wof:lastmodified":1537659530,
+    "wof:name":"Utinka",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.26525,
+    52.37025,
+    65.26525,
+    52.37025
+],
+  "geometry": {"coordinates":[65.26524999999999,52.37025],"type":"Point"}
+}

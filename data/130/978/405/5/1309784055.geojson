@@ -1,0 +1,80 @@
+{
+  "id": 1309784055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.51557,52.66482,77.51557,52.66482",
+    "geom:latitude":52.66482,
+    "geom:longitude":77.51557,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rozhdestvenka",
+    "gn:country_code":"KZ",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519853,
+    "gn:latitude":52.66482,
+    "gn:longitude":77.51557,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Rozhdestvenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rozhdestvenka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0435\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Rozhdestvenskoye",
+        "Rozhdestvenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519853
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"34acffaf1e290b23ee7714867bd096f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785561,
+            "locality_id":1309784055,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1309784055,
+    "wof:lastmodified":1537659620,
+    "wof:name":"Rozhdestvenka",
+    "wof:parent_id":1108785561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.51557,
+    52.66482,
+    77.51557,
+    52.66482
+],
+  "geometry": {"coordinates":[77.51557,52.66482],"type":"Point"}
+}

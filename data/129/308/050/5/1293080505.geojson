@@ -1,0 +1,79 @@
+{
+  "id": 1293080505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.00056,54.20452,64.00056,54.20452",
+    "geom:latitude":54.20452,
+    "geom:longitude":64.00056,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Lyutinka",
+    "gn:country_code":"KZ",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540469,
+    "gn:latitude":54.20452,
+    "gn:longitude":64.00056,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Lyutinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lyutinka"
+    ],
+    "name:kaz_x_preferred":[
+        "Lyut\u012bnka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041b\u044e\u0442\u0438\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0442\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540469
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"421db39011f5fba1b803440e8e10c071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785385,
+            "locality_id":1293080505,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293080505,
+    "wof:lastmodified":1537660032,
+    "wof:name":"Lyutinka",
+    "wof:parent_id":1108785385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.00056,
+    54.20452,
+    64.00056,
+    54.20452
+],
+  "geometry": {"coordinates":[64.00055999999999,54.20452],"type":"Point"}
+}

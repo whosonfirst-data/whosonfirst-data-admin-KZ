@@ -1,0 +1,79 @@
+{
+  "id": 1343540669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.04098,52.81442,61.04098,52.81442",
+    "geom:latitude":52.81442,
+    "geom:longitude":61.04098,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Alakol",
+    "gn:country_code":"KZ",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11418004,
+    "gn:latitude":52.81442,
+    "gn:longitude":61.04098,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Alak\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Alak\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u043b\u0430\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Alakol\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043b\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11418004
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0e531d6516a4faecf50fb79606853e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785661,
+            "locality_id":1343540669,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343540669,
+    "wof:lastmodified":1537660147,
+    "wof:name":"Alakol",
+    "wof:parent_id":1108785661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.04098000000001,
+    52.81442,
+    61.04098000000001,
+    52.81442
+],
+  "geometry": {"coordinates":[61.04098000000001,52.81442],"type":"Point"}
+}

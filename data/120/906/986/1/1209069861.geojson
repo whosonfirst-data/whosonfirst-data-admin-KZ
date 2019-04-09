@@ -1,0 +1,73 @@
+{
+  "id": 1209069861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.40739,42.82937,70.40739,42.82937",
+    "geom:latitude":42.82937,
+    "geom:longitude":70.40739,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lunacharskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521285,
+    "gn:latitude":42.82937,
+    "gn:longitude":70.40739,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Lunacharskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Rysbek"
+    ],
+    "name:kaz_x_variant":[
+        "\u0420\u044b\u0441\u0431\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043d\u0430\u0447\u0430\u0440\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Lunacharka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521285
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4263c07f5455ec3383877d4a0d7e9b02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209069861
+        }
+    ],
+    "wof:id":1209069861,
+    "wof:lastmodified":1537659706,
+    "wof:name":"Lunacharskoye",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.40739,
+    42.82937,
+    70.40739,
+    42.82937
+],
+  "geometry": {"coordinates":[70.40739000000001,42.82937],"type":"Point"}
+}

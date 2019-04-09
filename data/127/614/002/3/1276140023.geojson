@@ -1,0 +1,79 @@
+{
+  "id": 1276140023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.56729,43.76069,69.56729,43.76069",
+    "geom:latitude":43.76069,
+    "geom:longitude":69.56729,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kyzylkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521518,
+    "gn:latitude":43.76069,
+    "gn:longitude":69.56729,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Kyzylkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyzylk\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Kyzylkol\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u044b\u0437\u044b\u043b\u043a\u043e\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521518
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7184224c284caa7cc5ee6a2d65e0857d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785599,
+            "locality_id":1276140023,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276140023,
+    "wof:lastmodified":1537659720,
+    "wof:name":"Kyzylkol'",
+    "wof:parent_id":1108785599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.56729,
+    43.76069,
+    69.56729,
+    43.76069
+],
+  "geometry": {"coordinates":[69.56729,43.76069],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226729891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.40891,49.18025,76.40891,49.18025",
+    "geom:latitude":49.18025,
+    "geom:longitude":76.40891,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Abdrakhman",
+    "gn:country_code":"KZ",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11410075,
+    "gn:latitude":49.18025,
+    "gn:longitude":76.40891,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Abdrakhman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0434\u0440\u0430\u0445\u043c\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11410075
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"df6326eabed952c2c93062ac5c77410b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1226729891,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226729891,
+    "wof:lastmodified":1537660135,
+    "wof:name":"Abdrakhman",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.40890999999998,
+    49.18025,
+    76.40890999999998,
+    49.18025
+],
+  "geometry": {"coordinates":[76.40890999999998,49.18025],"type":"Point"}
+}

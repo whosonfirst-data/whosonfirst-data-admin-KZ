@@ -1,0 +1,61 @@
+{
+  "id": 1209316373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.15,51.98333,68.15,51.98333",
+    "geom:latitude":51.98333,
+    "geom:longitude":68.15,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sovetskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518830,
+    "gn:latitude":51.98333,
+    "gn:longitude":68.15,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Sovetskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518830
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7822ef2e3a7fa7ada3d86277a8aefb1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209316373
+        }
+    ],
+    "wof:id":1209316373,
+    "wof:lastmodified":1536290850,
+    "wof:name":"Sovetskoye",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.15,
+    51.98333,
+    68.15,
+    51.98333
+],
+  "geometry": {"coordinates":[68.15000000000001,51.98333],"type":"Point"}
+}

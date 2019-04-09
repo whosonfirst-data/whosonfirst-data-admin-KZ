@@ -1,0 +1,70 @@
+{
+  "id": 1209527167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.51897,52.77902,71.51897,52.77902",
+    "geom:latitude":52.77902,
+    "geom:longitude":71.51897,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Enbekshil'derskaya",
+    "gn:country_code":"KZ",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517221,
+    "gn:latitude":52.77902,
+    "gn:longitude":71.51897,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Enbekshil\u2019derskaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Enbekshil\u2019derskaya"
+    ],
+    "name:rus_x_variant":[
+        "\u042d\u043d\u0431\u0435\u043a\u0448\u0438\u043b\u044c\u0434\u0435\u0440\u0441\u043a\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Yenbekshil\u2019derskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517221
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"98ac9720397aa5835e5f823478497f7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209527167
+        }
+    ],
+    "wof:id":1209527167,
+    "wof:lastmodified":1537659506,
+    "wof:name":"Enbekshil'derskaya",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.51897,
+    52.77902,
+    71.51897,
+    52.77902
+],
+  "geometry": {"coordinates":[71.51897,52.77902],"type":"Point"}
+}

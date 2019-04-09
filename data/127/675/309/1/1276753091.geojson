@@ -1,0 +1,67 @@
+{
+  "id": 1276753091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83333,41.36667,68.83333,41.36667",
+    "geom:latitude":41.36667,
+    "geom:longitude":68.83333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Inke",
+    "gn:country_code":"KZ",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523810,
+    "gn:latitude":41.36667,
+    "gn:longitude":68.83333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Inke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523810
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"310d51137d3d3a117ace7c33613e7f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1276753091,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276753091,
+    "wof:lastmodified":1536713789,
+    "wof:name":"Inke",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83333,
+    41.36667,
+    68.83333,
+    41.36667
+],
+  "geometry": {"coordinates":[68.83333,41.36667],"type":"Point"}
+}

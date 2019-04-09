@@ -1,0 +1,88 @@
+{
+  "id": 1326916559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.1407,52.35805,64.1407,52.35805",
+    "geom:latitude":52.35805,
+    "geom:longitude":64.1407,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Semiozernoye",
+    "gn:country_code":"KZ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519417,
+    "gn:latitude":52.35805,
+    "gn:longitude":64.1407,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Semioz\u00ebrnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sem\u012bozernoe"
+    ],
+    "name:kaz_x_preferred":[
+        "Sem\u012bozernoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u04d8\u0443\u043b\u0438\u0435\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Semioz\u00ebrnoye"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u043c\u0438\u043e\u0437\u0435\u0440\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Semiozerny",
+        "Semiozernyy",
+        "\u00c4ul\u012bek\u00f6l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519417,
+        "wk:page":"Auliekol"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b27d1a07593b1a4f7bf36b48441fc896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785659,
+            "locality_id":1326916559,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1326916559,
+    "wof:lastmodified":1537659606,
+    "wof:name":"Semiozernoye",
+    "wof:parent_id":1108785659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.1407,
+    52.35805,
+    64.1407,
+    52.35805
+],
+  "geometry": {"coordinates":[64.1407,52.35805],"type":"Point"}
+}

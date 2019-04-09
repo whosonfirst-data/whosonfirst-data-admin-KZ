@@ -1,0 +1,65 @@
+{
+  "id": 1209616141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.8,48.25,55.8,48.25",
+    "geom:latitude":48.25,
+    "geom:longitude":55.8,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tosshiy",
+    "gn:country_code":"KZ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607963,
+    "gn:latitude":48.25,
+    "gn:longitude":55.8,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tosshiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toschiy",
+        "Tosshiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607963
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6489ace7bac3d91811aeaff6cef5b8b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209616141
+        }
+    ],
+    "wof:id":1209616141,
+    "wof:lastmodified":1537659354,
+    "wof:name":"Tosshiy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.8,
+    48.25,
+    55.8,
+    48.25
+],
+  "geometry": {"coordinates":[55.8,48.25],"type":"Point"}
+}

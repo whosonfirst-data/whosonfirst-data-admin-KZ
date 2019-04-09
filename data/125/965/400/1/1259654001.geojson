@@ -1,0 +1,74 @@
+{
+  "id": 1259654001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.05281,47.11123,84.05281,47.11123",
+    "geom:latitude":47.11123,
+    "geom:longitude":84.05281,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhangatalap",
+    "gn:country_code":"KZ",
+    "gn:dem":1271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516837,
+    "gn:latitude":47.11123,
+    "gn:longitude":84.05281,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zhangatalap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jana-talak",
+        "Zhanatalap",
+        "Jana-talap",
+        "Dzhana-Talap",
+        "Zhangatalap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516837
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"934888cf0bb73fe4aefd24bcd061376c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785469,
+            "locality_id":1259654001,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259654001,
+    "wof:lastmodified":1537659487,
+    "wof:name":"Zhangatalap",
+    "wof:parent_id":1108785469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.05281,
+    47.11123,
+    84.05281,
+    47.11123
+],
+  "geometry": {"coordinates":[84.05280999999999,47.11123],"type":"Point"}
+}

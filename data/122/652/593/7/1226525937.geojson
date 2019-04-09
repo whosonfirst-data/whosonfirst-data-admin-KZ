@@ -1,0 +1,65 @@
+{
+  "id": 1226525937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.73333,40.95,68.73333,40.95",
+    "geom:latitude":40.95,
+    "geom:longitude":68.73333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dzhaldama",
+    "gn:country_code":"KZ",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524474,
+    "gn:latitude":40.95,
+    "gn:longitude":68.73333,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Dzhaldama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524474
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fc8af1e94583984254fab2f888de34b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1226525937,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":1226525937,
+    "wof:lastmodified":1537025509,
+    "wof:name":"Dzhaldama",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.73333000000001,
+    40.95,
+    68.73333000000001,
+    40.95
+],
+  "geometry": {"coordinates":[68.73333000000001,40.95],"type":"Point"}
+}

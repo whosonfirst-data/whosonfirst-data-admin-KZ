@@ -1,0 +1,77 @@
+{
+  "id": 1293488097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.55,50.36667,58.55,50.36667",
+    "geom:latitude":50.36667,
+    "geom:longitude":58.55,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Borisovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610218,
+    "gn:latitude":50.36667,
+    "gn:longitude":58.55,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Borisovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Borisovskiy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Borisovka",
+        "Borisovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610218
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ef774983577e53882f8e8c25b3d9ac4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785523,
+            "locality_id":1293488097,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293488097,
+    "wof:lastmodified":1537659434,
+    "wof:name":"Borisovskiy",
+    "wof:parent_id":1108785523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.55,
+    50.36667,
+    58.55,
+    50.36667
+],
+  "geometry": {"coordinates":[58.55,50.36667],"type":"Point"}
+}

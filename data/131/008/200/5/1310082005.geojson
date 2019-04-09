@@ -1,0 +1,76 @@
+{
+  "id": 1310082005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.56796,53.81397,64.56796,53.81397",
+    "geom:latitude":53.81397,
+    "geom:longitude":64.56796,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sosna",
+    "gn:country_code":"KZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518856,
+    "gn:latitude":53.81397,
+    "gn:longitude":64.56796,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Sosna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sosna"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043e\u0441\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0441\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518856
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9405fa7afb05e8514835afbc26bf80ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785385,
+            "locality_id":1310082005,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310082005,
+    "wof:lastmodified":1537659580,
+    "wof:name":"Sosna",
+    "wof:parent_id":1108785385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.56796,
+    53.81397,
+    64.56796,
+    53.81397
+],
+  "geometry": {"coordinates":[64.56796,53.81397],"type":"Point"}
+}

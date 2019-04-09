@@ -1,0 +1,82 @@
+{
+  "id": 1309782225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.81414,43.9425,70.81414,43.9425",
+    "geom:latitude":43.9425,
+    "geom:longitude":70.81414,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kenges",
+    "gn:country_code":"KZ",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522767,
+    "gn:latitude":43.9425,
+    "gn:longitude":70.81414,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Kenges",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kenges"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0435\u04a3\u0435\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0435\u0441"
+    ],
+    "name:und_x_variant":[
+        "Sar-Dala",
+        "Sarydala",
+        "Keneskiy",
+        "Kenes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522767
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"813de1430cbcbd9d468d51b23d25e3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785643,
+            "locality_id":1309782225,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1309782225,
+    "wof:lastmodified":1537659772,
+    "wof:name":"Kenges",
+    "wof:parent_id":1108785643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.81414000000002,
+    43.9425,
+    70.81414000000002,
+    43.9425
+],
+  "geometry": {"coordinates":[70.81414000000002,43.9425],"type":"Point"}
+}

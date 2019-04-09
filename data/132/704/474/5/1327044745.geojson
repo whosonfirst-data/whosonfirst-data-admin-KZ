@@ -1,0 +1,77 @@
+{
+  "id": 1327044745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.27038,51.35435,64.27038,51.35435",
+    "geom:latitude":51.35435,
+    "geom:longitude":64.27038,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Saryshiganak",
+    "gn:country_code":"KZ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1536026,
+    "gn:latitude":51.35435,
+    "gn:longitude":64.27038,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Saryshiganak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saryshiganak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0448\u044b\u0433\u0430\u043d\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Saryshyganak",
+        "Saryshiganak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1536026
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"40425526ba79706104f006fc7aff8448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785513,
+            "locality_id":1327044745,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1327044745,
+    "wof:lastmodified":1537660005,
+    "wof:name":"Saryshiganak",
+    "wof:parent_id":1108785513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.27038,
+    51.35435,
+    64.27038,
+    51.35435
+],
+  "geometry": {"coordinates":[64.27038,51.35435],"type":"Point"}
+}

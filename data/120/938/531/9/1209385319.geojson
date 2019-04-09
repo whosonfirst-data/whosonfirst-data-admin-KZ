@@ -1,0 +1,61 @@
+{
+  "id": 1209385319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.05828,50.37872,80.05828,50.37872",
+    "geom:latitude":50.37872,
+    "geom:longitude":80.05828,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhalpak",
+    "gn:country_code":"KZ",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1483560,
+    "gn:latitude":50.37872,
+    "gn:longitude":80.05828,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zhalpak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1483560
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0901bab9998f94c2e253f156c789ae6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209385319
+        }
+    ],
+    "wof:id":1209385319,
+    "wof:lastmodified":1536288645,
+    "wof:name":"Zhalpak",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.05828000000002,
+    50.37872,
+    80.05828000000002,
+    50.37872
+],
+  "geometry": {"coordinates":[80.05828000000002,50.37872],"type":"Point"}
+}

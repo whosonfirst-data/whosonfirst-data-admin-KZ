@@ -1,0 +1,82 @@
+{
+  "id": 1259852757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.00107,49.24969,87.00107,49.24969",
+    "geom:latitude":49.24969,
+    "geom:longitude":87.00107,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ust'-Chindagatuy",
+    "gn:country_code":"KZ",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517614,
+    "gn:latitude":49.24969,
+    "gn:longitude":87.00107,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Ust\u2019-Chindagatuy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ust'-Chindagatuy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u0442\u044c-\u0427\u0438\u043d\u0434\u0430\u0433\u0430\u0442\u0443\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0438\u043d\u0434\u0430\u0433\u0430\u0442\u0443\u0439"
+    ],
+    "name:und_x_variant":[
+        "Chindiquatui",
+        "Ust\u2019-Shindagatuy",
+        "Chindagatuy",
+        "Ust\u2019-Chindagatuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517614
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3fa38bc78ffa07b7c964fe5cda372198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1259852757,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259852757,
+    "wof:lastmodified":1537659531,
+    "wof:name":"Ust'-Chindagatuy",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.00107,
+    49.24969,
+    87.00107,
+    49.24969
+],
+  "geometry": {"coordinates":[87.00107,49.24969],"type":"Point"}
+}

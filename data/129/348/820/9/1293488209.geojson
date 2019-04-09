@@ -1,0 +1,73 @@
+{
+  "id": 1293488209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.61667,50.01667,55.61667,50.01667",
+    "geom:latitude":50.01667,
+    "geom:longitude":55.61667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khabalovka",
+    "gn:country_code":"KZ",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609428,
+    "gn:latitude":50.01667,
+    "gn:longitude":55.61667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Khabalovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khabalovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0431\u0430\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609428
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e204dcb4705e55fdbcb028f29a4bae71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785491,
+            "locality_id":1293488209,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293488209,
+    "wof:lastmodified":1537659412,
+    "wof:name":"Khabalovka",
+    "wof:parent_id":1108785491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.61666999999999,
+    50.01667,
+    55.61666999999999,
+    50.01667
+],
+  "geometry": {"coordinates":[55.61666999999999,50.01667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259371895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.23581,40.82409,68.23581,40.82409",
+    "geom:latitude":40.82409,
+    "geom:longitude":68.23581,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Otdeleniye Nomer Tri Sovkhoza Krasnoy Zvezdy",
+    "gn:country_code":"KZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10956145,
+    "gn:latitude":40.82409,
+    "gn:longitude":68.23581,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Otdeleniye Nomer Tri Sovkhoza Krasnoy Zv\u00ebzdy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Otdeleniye Nomer Tri Sovkhoza Krasnoy Zv\u00ebzdy"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u0422\u0440\u0438 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u041a\u0440\u0430\u0441\u043d\u043e\u0439 \u0417\u0432\u0451\u0437\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956145
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"af1532db166afe6e2c0e01b9981beba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1259371895,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1259371895,
+    "wof:lastmodified":1537660080,
+    "wof:name":"Otdeleniye Nomer Tri Sovkhoza Krasnoy Zvezdy",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.23581,
+    40.82409000000001,
+    68.23581,
+    40.82409000000001
+],
+  "geometry": {"coordinates":[68.23581,40.82409000000001],"type":"Point"}
+}

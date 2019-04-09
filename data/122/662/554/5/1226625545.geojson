@@ -1,0 +1,84 @@
+{
+  "id": 1226625545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.08418,52.69304,61.08418,52.69304",
+    "geom:latitude":52.69304,
+    "geom:longitude":61.08418,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Georgiyevka",
+    "gn:country_code":"KZ",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524244,
+    "gn:latitude":52.69304,
+    "gn:longitude":61.08418,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Georgiyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Georg\u012bivka"
+    ],
+    "name:kaz_x_preferred":[
+        "Georg\u012bivka"
+    ],
+    "name:kaz_x_variant":[
+        "Georg\u012bevka",
+        "\u0413\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novo-Georgiyevskiy",
+        "Georgiyevskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524244
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"589558538acc3390d4a76d82b78f24ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785661,
+            "locality_id":1226625545,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226625545,
+    "wof:lastmodified":1537659827,
+    "wof:name":"Georgiyevka",
+    "wof:parent_id":1108785661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.08418,
+    52.69304,
+    61.08418,
+    52.69304
+],
+  "geometry": {"coordinates":[61.08418,52.69304],"type":"Point"}
+}

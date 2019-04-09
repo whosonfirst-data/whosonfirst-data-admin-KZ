@@ -1,0 +1,83 @@
+{
+  "id": 1276951139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.53244,48.84523,86.53244,48.84523",
+    "geom:latitude":48.84523,
+    "geom:longitude":86.53244,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Balyqtybulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517434,
+    "gn:latitude":48.84523,
+    "gn:longitude":86.53244,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Balyqtybulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Balyqtybulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u043b\u044b\u049b\u0442\u044b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Balykty-Bulak",
+        "Vladimirskaya",
+        "Vladimirovskoye",
+        "Vlad\u012bm\u012brovka",
+        "Vladimirovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517434
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"36563a63bf92f17e0468bd6e3413b028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1276951139,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276951139,
+    "wof:lastmodified":1537659521,
+    "wof:name":"Balyqtybulaq",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.53244000000002,
+    48.84523,
+    86.53244000000002,
+    48.84523
+],
+  "geometry": {"coordinates":[86.53244000000002,48.84523],"type":"Point"}
+}

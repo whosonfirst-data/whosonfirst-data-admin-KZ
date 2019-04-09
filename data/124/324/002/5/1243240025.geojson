@@ -1,0 +1,76 @@
+{
+  "id": 1243240025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.7187,54.04668,62.7187,54.04668",
+    "geom:latitude":54.04668,
+    "geom:longitude":62.7187,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Toguzak",
+    "gn:country_code":"KZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518126,
+    "gn:latitude":54.04668,
+    "gn:longitude":62.7187,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Toguzak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Toghyzaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u043e\u0493\u044b\u0437\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0433\u0443\u0437\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518126
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cefc279844b4c3146ce3dd2d7e55b458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1243240025,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1243240025,
+    "wof:lastmodified":1537659552,
+    "wof:name":"Toguzak",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.7187,
+    54.04668,
+    62.7187,
+    54.04668
+],
+  "geometry": {"coordinates":[62.7187,54.04668],"type":"Point"}
+}

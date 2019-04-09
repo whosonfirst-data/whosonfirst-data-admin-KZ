@@ -1,0 +1,73 @@
+{
+  "id": 1326940285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.09748,51.99389,65.09748,51.99389",
+    "geom:latitude":51.99389,
+    "geom:longitude":65.09748,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bratskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525065,
+    "gn:latitude":51.99389,
+    "gn:longitude":65.09748,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Bratskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bratskoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0441\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525065
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"06aad3968aef96e12a259b7abda79676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1326940285,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1326940285,
+    "wof:lastmodified":1537659860,
+    "wof:name":"Bratskoye",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.09748,
+    51.99389,
+    65.09748,
+    51.99389
+],
+  "geometry": {"coordinates":[65.09748,51.99389],"type":"Point"}
+}

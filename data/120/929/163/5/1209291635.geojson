@@ -1,0 +1,61 @@
+{
+  "id": 1209291635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.39168,49.91382,73.39168,49.91382",
+    "geom:latitude":49.91382,
+    "geom:longitude":73.39168,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Byurlisay",
+    "gn:country_code":"KZ",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524924,
+    "gn:latitude":49.91382,
+    "gn:longitude":73.39168,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Byurlisay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524924
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"165050c89c4a61a37f978a865c443cbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209291635
+        }
+    ],
+    "wof:id":1209291635,
+    "wof:lastmodified":1536291673,
+    "wof:name":"Byurlisay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.39168000000002,
+    49.91382,
+    73.39168000000002,
+    49.91382
+],
+  "geometry": {"coordinates":[73.39168000000002,49.91382],"type":"Point"}
+}

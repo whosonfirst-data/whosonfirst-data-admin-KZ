@@ -1,0 +1,67 @@
+{
+  "id": 1344167071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.01667,49.16667,53.01667,49.16667",
+    "geom:latitude":49.16667,
+    "geom:longitude":53.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kerik",
+    "gn:country_code":"KZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609431,
+    "gn:latitude":49.16667,
+    "gn:longitude":53.01667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kerik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609431
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a06462e2fcbde867fe27eb6bd4bf4a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785493,
+            "locality_id":1344167071,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1344167071,
+    "wof:lastmodified":1536722003,
+    "wof:name":"Kerik",
+    "wof:parent_id":1108785493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.01667,
+    49.16667,
+    53.01667,
+    49.16667
+],
+  "geometry": {"coordinates":[53.01667,49.16667],"type":"Point"}
+}

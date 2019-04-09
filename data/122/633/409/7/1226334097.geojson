@@ -1,0 +1,78 @@
+{
+  "id": 1226334097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.46855,51.56437,52.46855,51.56437",
+    "geom:latitude":51.56437,
+    "geom:longitude":52.46855,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chinarevo",
+    "gn:country_code":"KZ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610092,
+    "gn:latitude":51.56437,
+    "gn:longitude":52.46855,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Chinar\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chinar\u00ebvo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043d\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Chinar\u00ebv",
+        "Chinarve",
+        "Chinar\u00ebvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610092
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0f658c7a5797da9ab494259f11663a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785331,
+            "locality_id":1226334097,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226334097,
+    "wof:lastmodified":1537659430,
+    "wof:name":"Chinarevo",
+    "wof:parent_id":1108785331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.46855,
+    51.56437,
+    52.46855,
+    51.56437
+],
+  "geometry": {"coordinates":[52.46855,51.56437],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259762039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.33333,43.66667,67.33333,43.66667",
+    "geom:latitude":43.66667,
+    "geom:longitude":67.33333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yusup",
+    "gn:country_code":"KZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517130,
+    "gn:latitude":43.66667,
+    "gn:longitude":67.33333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Yusup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yussup",
+        "Yusup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517130
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5df7cb877ed4f0c637f4586016cf482e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1259762039,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1259762039,
+    "wof:lastmodified":1537659501,
+    "wof:name":"Yusup",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.33333,
+    43.66667,
+    67.33333,
+    43.66667
+],
+  "geometry": {"coordinates":[67.33333,43.66667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226736847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.44131,48.00319,75.44131,48.00319",
+    "geom:latitude":48.00319,
+    "geom:longitude":75.44131,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Aqtumsyq",
+    "gn:country_code":"KZ",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11411674,
+    "gn:latitude":48.00319,
+    "gn:longitude":75.44131,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Aqtumsyq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqtumsyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0442\u04b1\u043c\u0441\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0442\u0443\u043c\u0441\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Aktumsyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11411674
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a340d60f6d358e61a9bf991e4c39bf15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1226736847,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226736847,
+    "wof:lastmodified":1537660137,
+    "wof:name":"Aqtumsyq",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.44131,
+    48.00319,
+    75.44131,
+    48.00319
+],
+  "geometry": {"coordinates":[75.44131,48.00319],"type":"Point"}
+}

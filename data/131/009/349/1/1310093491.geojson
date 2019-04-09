@@ -1,0 +1,76 @@
+{
+  "id": 1310093491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.89892,51.37464,77.89892,51.37464",
+    "geom:latitude":51.37464,
+    "geom:longitude":77.89892,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Beskaragay",
+    "gn:country_code":"KZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525411,
+    "gn:latitude":51.37464,
+    "gn:longitude":77.89892,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Beskaragay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Besqaraghay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u0441\u049b\u0430\u0440\u0430\u0493\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u043a\u0430\u0440\u0430\u0433\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525411
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7b8ad2a14209296e5bfeae5c2b499391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785559,
+            "locality_id":1310093491,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310093491,
+    "wof:lastmodified":1537659874,
+    "wof:name":"Beskaragay",
+    "wof:parent_id":1108785559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.89891999999998,
+    51.37464,
+    77.89891999999998,
+    51.37464
+],
+  "geometry": {"coordinates":[77.89891999999998,51.37464],"type":"Point"}
+}

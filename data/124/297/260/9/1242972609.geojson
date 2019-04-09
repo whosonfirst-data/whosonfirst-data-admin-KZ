@@ -1,0 +1,71 @@
+{
+  "id": 1242972609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.91893,51.84153,69.91893,51.84153",
+    "geom:latitude":51.84153,
+    "geom:longitude":69.91893,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhanaturmys",
+    "gn:country_code":"KZ",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516810,
+    "gn:latitude":51.84153,
+    "gn:longitude":69.91893,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zhanaturmys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyzylzhar",
+        "Zhanaturmys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516810
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6fe55e0fcf6a3bb550dc4e614adfa925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785391,
+            "locality_id":1242972609,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1242972609,
+    "wof:lastmodified":1537659485,
+    "wof:name":"Zhanaturmys",
+    "wof:parent_id":1108785391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.91893,
+    51.84153,
+    69.91893,
+    51.84153
+],
+  "geometry": {"coordinates":[69.91893,51.84153],"type":"Point"}
+}

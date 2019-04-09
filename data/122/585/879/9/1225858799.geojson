@@ -1,0 +1,73 @@
+{
+  "id": 1225858799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.15634,44.35235,80.15634,44.35235",
+    "geom:latitude":44.35235,
+    "geom:longitude":80.15634,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sholakay",
+    "gn:country_code":"KZ",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524728,
+    "gn:latitude":44.35235,
+    "gn:longitude":80.15634,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Sholakay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043b\u0430\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Cholokay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524728
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"271f31d7d8cfb3e6eb66feb773c8fe5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785409,
+            "locality_id":1225858799,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1225858799,
+    "wof:lastmodified":1537659847,
+    "wof:name":"Sholakay",
+    "wof:parent_id":1108785409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.15634,
+    44.35235,
+    80.15634,
+    44.35235
+],
+  "geometry": {"coordinates":[80.15634,44.35235],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1360092691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.21345,52.13198,66.21345,52.13198",
+    "geom:latitude":52.13198,
+    "geom:longitude":66.21345,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Znamenka",
+    "gn:country_code":"KZ",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516456,
+    "gn:latitude":52.13198,
+    "gn:longitude":66.21345,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Znamenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Znamenka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u043d\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043d\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yaltay",
+        "Znamenskoye",
+        "Znamenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516456
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"216d1e31a25bd129f4331ad97f375acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785621,
+            "locality_id":1360092691,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1360092691,
+    "wof:lastmodified":1537659470,
+    "wof:name":"Znamenka",
+    "wof:parent_id":1108785621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.21345,
+    52.13198,
+    66.21345,
+    52.13198
+],
+  "geometry": {"coordinates":[66.21344999999999,52.13198],"type":"Point"}
+}

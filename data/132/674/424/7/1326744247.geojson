@@ -1,0 +1,80 @@
+{
+  "id": 1326744247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.9919,44.62493,77.9919,44.62493",
+    "geom:latitude":44.62493,
+    "geom:longitude":77.9919,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aynabulak",
+    "gn:country_code":"KZ",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525925,
+    "gn:latitude":44.62493,
+    "gn:longitude":77.9919,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Aynabulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0410\u0439\u043d\u0430\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Aybulak",
+        "Aynabulak",
+        "Ayna-Bulan",
+        "Aynabulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525925,
+        "wk:page":"Aynabulaq"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"85bfa186ad9e12d8fe50d3f764c0ce12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785405,
+            "locality_id":1326744247,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1326744247,
+    "wof:lastmodified":1537659896,
+    "wof:name":"Aynabulak",
+    "wof:parent_id":1108785405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.9919,
+    44.62493,
+    77.9919,
+    44.62493
+],
+  "geometry": {"coordinates":[77.9919,44.62493],"type":"Point"}
+}

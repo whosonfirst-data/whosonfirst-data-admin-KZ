@@ -1,0 +1,73 @@
+{
+  "id": 1293090179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.35516,41.54107,69.35516,41.54107",
+    "geom:latitude":41.54107,
+    "geom:longitude":69.35516,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Iranskiy Poselok",
+    "gn:country_code":"KZ",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955604,
+    "gn:latitude":41.54107,
+    "gn:longitude":69.35516,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Iranskiy Pos\u00eblok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Iranskiy Pos\u00eblok"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u0440\u0430\u043d\u0441\u043a\u0438\u0439 \u041f\u043e\u0441\u0451\u043b\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955604
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"03ec5f3cfd5dc63d2614d1c2bf269da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1293090179,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293090179,
+    "wof:lastmodified":1537660076,
+    "wof:name":"Iranskiy Poselok",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.35516,
+    41.54107,
+    69.35516,
+    41.54107
+],
+  "geometry": {"coordinates":[69.35516,41.54107],"type":"Point"}
+}

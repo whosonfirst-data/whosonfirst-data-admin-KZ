@@ -1,0 +1,67 @@
+{
+  "id": 1326740457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.76537,44.38066,79.76537,44.38066",
+    "geom:latitude":44.38066,
+    "geom:longitude":79.76537,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Keytyn",
+    "gn:country_code":"KZ",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522719,
+    "gn:latitude":44.38066,
+    "gn:longitude":79.76537,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Keytyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522719
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b5d9c5d33c9d02bbf79af1de5e6b30a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785409,
+            "locality_id":1326740457,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1326740457,
+    "wof:lastmodified":1536683735,
+    "wof:name":"Keytyn",
+    "wof:parent_id":1108785409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.76536999999998,
+    44.38066,
+    79.76536999999998,
+    44.38066
+],
+  "geometry": {"coordinates":[79.76536999999998,44.38066],"type":"Point"}
+}

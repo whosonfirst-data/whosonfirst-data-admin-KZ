@@ -1,0 +1,71 @@
+{
+  "id": 1276740271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.51221,48.15815,67.51221,48.15815",
+    "geom:latitude":48.15815,
+    "geom:longitude":67.51221,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Satbaev",
+    "gn:country_code":"KZ",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519491,
+    "gn:latitude":48.15815,
+    "gn:longitude":67.51221,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"S\u00e4tbaev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Satpayev",
+        "S\u00e4tbaev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519491
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"027d781122691aaf8df7ec6537e5950a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785515,
+            "locality_id":1276740271,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1276740271,
+    "wof:lastmodified":1537659609,
+    "wof:name":"Satbaev",
+    "wof:parent_id":1108785515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.51221,
+    48.15815,
+    67.51221,
+    48.15815
+],
+  "geometry": {"coordinates":[67.51221,48.15815],"type":"Point"}
+}

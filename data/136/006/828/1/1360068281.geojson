@@ -1,0 +1,73 @@
+{
+  "id": 1360068281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.72055,51.13185,79.72055,51.13185",
+    "geom:latitude":51.13185,
+    "geom:longitude":79.72055,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chikunchi",
+    "gn:country_code":"KZ",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534855,
+    "gn:latitude":51.13185,
+    "gn:longitude":79.72055,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Chikunchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chikunchi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043a\u0443\u043d\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534855
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b0b279bab41d32cfee4484f0afdf6d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785639,
+            "locality_id":1360068281,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1360068281,
+    "wof:lastmodified":1537659986,
+    "wof:name":"Chikunchi",
+    "wof:parent_id":1108785639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.72055,
+    51.13185,
+    79.72055,
+    51.13185
+],
+  "geometry": {"coordinates":[79.72055,51.13185],"type":"Point"}
+}

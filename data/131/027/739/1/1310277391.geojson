@@ -1,0 +1,70 @@
+{
+  "id": 1310277391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.20668,55.31334,69.20668,55.31334",
+    "geom:latitude":55.31334,
+    "geom:longitude":69.20668,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yamki",
+    "gn:country_code":"KZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530537,
+    "gn:latitude":55.31334,
+    "gn:longitude":69.20668,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Yamki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043c\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530537
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"de4457e21311d8f25af8a73f24c85317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1310277391,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310277391,
+    "wof:lastmodified":1537659939,
+    "wof:name":"Yamki",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.20668,
+    55.31334,
+    69.20668,
+    55.31334
+],
+  "geometry": {"coordinates":[69.20668000000001,55.31334],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209112107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.3214,49.35504,60.3214,49.35504",
+    "geom:latitude":49.35504,
+    "geom:longitude":60.3214,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Milysay",
+    "gn:country_code":"KZ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540350,
+    "gn:latitude":49.35504,
+    "gn:longitude":60.3214,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Milysay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Milysay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0438\u0441\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540350
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1a0739fbb7fb25ac38665e0a07d4cc75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209112107
+        }
+    ],
+    "wof:id":1209112107,
+    "wof:lastmodified":1537660031,
+    "wof:name":"Milysay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.3214,
+    49.35504,
+    60.3214,
+    49.35504
+],
+  "geometry": {"coordinates":[60.3214,49.35504],"type":"Point"}
+}

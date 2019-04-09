@@ -1,0 +1,76 @@
+{
+  "id": 1259960015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.75537,49.91077,70.75537,49.91077",
+    "geom:latitude":49.91077,
+    "geom:longitude":70.75537,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Qenzharyq",
+    "gn:country_code":"KZ",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522746,
+    "gn:latitude":49.91077,
+    "gn:longitude":70.75537,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Qenzharyq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qenzharyq"
+    ],
+    "name:und_x_variant":[
+        "Aul Kindzharyk",
+        "Kindzharyk",
+        "Kenzharyk",
+        "Kengzharyq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522746
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"187f2fac640dd5e0d8428e015b751a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785499,
+            "locality_id":1259960015,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1259960015,
+    "wof:lastmodified":1537659771,
+    "wof:name":"Qenzharyq",
+    "wof:parent_id":1108785499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.75537,
+    49.91077,
+    70.75537,
+    49.91077
+],
+  "geometry": {"coordinates":[70.75537,49.91077],"type":"Point"}
+}

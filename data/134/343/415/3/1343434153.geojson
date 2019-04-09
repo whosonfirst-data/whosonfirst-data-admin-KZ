@@ -1,0 +1,81 @@
+{
+  "id": 1343434153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.37997,50.2671,83.37997,50.2671",
+    "geom:latitude":50.2671,
+    "geom:longitude":83.37997,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ulbi",
+    "gn:country_code":"KZ",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517808,
+    "gn:latitude":50.2671,
+    "gn:longitude":83.37997,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"\u00dclbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00dclbi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u044c\u0431\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u043b\u044c\u0431\u0430\u0441\u0442\u0440\u043e\u0439"
+    ],
+    "name:und_x_variant":[
+        "Ul\u2019bastroy",
+        "Ul\u2019ba",
+        "\u00dclbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517808
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2d534f38a9ec94ea7fce3e87a77e9b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785719,
+            "locality_id":1343434153,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343434153,
+    "wof:lastmodified":1537659540,
+    "wof:name":"Ulbi",
+    "wof:parent_id":1108785719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.37997,
+    50.2671,
+    83.37997,
+    50.2671
+],
+  "geometry": {"coordinates":[83.37997,50.2671],"type":"Point"}
+}

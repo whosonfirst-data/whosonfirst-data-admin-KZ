@@ -1,0 +1,67 @@
+{
+  "id": 1309983289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.53319,49.35084,73.53319,49.35084",
+    "geom:latitude":49.35084,
+    "geom:longitude":73.53319,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Burbaza",
+    "gn:country_code":"KZ",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1484102,
+    "gn:latitude":49.35084,
+    "gn:longitude":73.53319,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Burbaza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1484102
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"13454ac5530bdd3f59c7a67205457f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785649,
+            "locality_id":1309983289,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1309983289,
+    "wof:lastmodified":1536675358,
+    "wof:name":"Burbaza",
+    "wof:parent_id":1108785649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.53319,
+    49.35084000000001,
+    73.53319,
+    49.35084000000001
+],
+  "geometry": {"coordinates":[73.53319,49.35084000000001],"type":"Point"}
+}

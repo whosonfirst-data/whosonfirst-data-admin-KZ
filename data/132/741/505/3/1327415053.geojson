@@ -1,0 +1,83 @@
+{
+  "id": 1327415053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.44203,52.51752,77.44203,52.51752",
+    "geom:latitude":52.51752,
+    "geom:longitude":77.44203,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Danilovka",
+    "gn:country_code":"KZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524652,
+    "gn:latitude":52.51752,
+    "gn:longitude":77.44203,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Danilovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Danilovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Dan\u012blovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Danilovskoye",
+        "Danilovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524652
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6826757315f654bbbac91dc67ec845aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785561,
+            "locality_id":1327415053,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1327415053,
+    "wof:lastmodified":1537659845,
+    "wof:name":"Danilovka",
+    "wof:parent_id":1108785561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.44203,
+    52.51752,
+    77.44203,
+    52.51752
+],
+  "geometry": {"coordinates":[77.44203,52.51752],"type":"Point"}
+}

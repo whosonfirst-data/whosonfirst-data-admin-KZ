@@ -1,0 +1,79 @@
+{
+  "id": 1327013697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.5647,41.6494,68.5647,41.6494",
+    "geom:latitude":41.6494,
+    "geom:longitude":68.5647,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhaydak",
+    "gn:country_code":"KZ",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532565,
+    "gn:latitude":41.6494,
+    "gn:longitude":68.5647,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Zhaydak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhaydaqqudyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u0439\u0434\u0430\u049b\u049b\u04b1\u0434\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0439\u0434\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zhaydakkuduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532565
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"731f56125d35e5a8b0dd7d39a176e7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1327013697,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1327013697,
+    "wof:lastmodified":1537659970,
+    "wof:name":"Zhaydak",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.5647,
+    41.6494,
+    68.5647,
+    41.6494
+],
+  "geometry": {"coordinates":[68.5647,41.6494],"type":"Point"}
+}

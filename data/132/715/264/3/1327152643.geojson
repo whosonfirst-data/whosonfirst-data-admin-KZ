@@ -1,0 +1,67 @@
+{
+  "id": 1327152643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.41667,49.78333,52.41667,49.78333",
+    "geom:latitude":49.78333,
+    "geom:longitude":52.41667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kobek-Say",
+    "gn:country_code":"KZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609368,
+    "gn:latitude":49.78333,
+    "gn:longitude":52.41667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kobek-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609368
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"854e7bba5052e8bb7da093d277cdb4e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785495,
+            "locality_id":1327152643,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1327152643,
+    "wof:lastmodified":1537081569,
+    "wof:name":"Kobek-Say",
+    "wof:parent_id":1108785495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.41667,
+    49.78333,
+    52.41667,
+    49.78333
+],
+  "geometry": {"coordinates":[52.41667,49.78333],"type":"Point"}
+}

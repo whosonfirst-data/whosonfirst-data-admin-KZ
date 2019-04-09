@@ -1,0 +1,73 @@
+{
+  "id": 1260267323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.27219,44.54036,50.27219,44.54036",
+    "geom:latitude":44.54036,
+    "geom:longitude":50.27219,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Atash",
+    "gn:country_code":"KZ",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610535,
+    "gn:latitude":44.54036,
+    "gn:longitude":50.27219,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Atash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Atash"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610535
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0e84f7b5ad588099c4330c3a48004bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785341,
+            "locality_id":1260267323,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1260267323,
+    "wof:lastmodified":1537659446,
+    "wof:name":"Atash",
+    "wof:parent_id":1108785341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.27219,
+    44.54036,
+    50.27219,
+    44.54036
+],
+  "geometry": {"coordinates":[50.27219,44.54036],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226031991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.15664,46.54432,77.15664,46.54432",
+    "geom:latitude":46.54432,
+    "geom:longitude":77.15664,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Qaraqum",
+    "gn:country_code":"KZ",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525815,
+    "gn:latitude":46.54432,
+    "gn:longitude":77.15664,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Qaraqum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaraqum"
+    ],
+    "name:und_x_variant":[
+        "Balay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525815
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ef9ac6b94a50eb2249938cc372f108e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1226031991,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226031991,
+    "wof:lastmodified":1537659892,
+    "wof:name":"Qaraqum",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.15664,
+    46.54432,
+    77.15664,
+    46.54432
+],
+  "geometry": {"coordinates":[77.15664,46.54432],"type":"Point"}
+}

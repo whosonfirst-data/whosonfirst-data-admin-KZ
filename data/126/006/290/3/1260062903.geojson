@@ -1,0 +1,70 @@
+{
+  "id": 1260062903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.30898,49.5755,86.30898,49.5755",
+    "geom:latitude":49.5755,
+    "geom:longitude":86.30898,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Yazovoye Ozero",
+    "gn:country_code":"KZ",
+    "gn:dem":1683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534828,
+    "gn:latitude":49.5755,
+    "gn:longitude":86.30898,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Yazovoye Ozero",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0437\u043e\u0432\u043e\u0435 \u041e\u0437\u0435\u0440\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534828
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9b67e96a73d41af8f784ddc4c579552b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1260062903,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1260062903,
+    "wof:lastmodified":1537659986,
+    "wof:name":"Yazovoye Ozero",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.30898,
+    49.5755,
+    86.30898,
+    49.5755
+],
+  "geometry": {"coordinates":[86.30898000000001,49.5755],"type":"Point"}
+}

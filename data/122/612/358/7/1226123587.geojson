@@ -1,0 +1,87 @@
+{
+  "id": 1226123587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.22081,52.78672,77.22081,52.78672",
+    "geom:latitude":52.78672,
+    "geom:longitude":77.22081,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kostantinovka",
+    "gn:country_code":"KZ",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522311,
+    "gn:latitude":52.78672,
+    "gn:longitude":77.22081,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Kostantinovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Konstant\u012bnovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Konstat\u012bnovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u043e\u043d\u0441\u0442\u0430\u0442\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Konstantinovskiy",
+        "Konstant\u012bnovka",
+        "Kostantinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522311
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1c1ec4fdd62d8464d64672266522fe5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785351,
+            "locality_id":1226123587,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1226123587,
+    "wof:lastmodified":1537659752,
+    "wof:name":"Kostantinovka",
+    "wof:parent_id":1108785351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.22081,
+    52.78672,
+    77.22081,
+    52.78672
+],
+  "geometry": {"coordinates":[77.22081,52.78672],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1326708653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.73894,54.31273,76.73894,54.31273",
+    "geom:latitude":54.31273,
+    "geom:longitude":76.73894,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dzhambul",
+    "gn:country_code":"KZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532674,
+    "gn:latitude":54.31273,
+    "gn:longitude":76.73894,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Dzhambul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dzhambul"
+    ],
+    "name:kaz_x_preferred":[
+        "Zhambyl"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u043c\u0431\u044b\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0431\u0443\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532674
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aced468fa5607b0e9353ad243373ead0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785349,
+            "locality_id":1326708653,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1326708653,
+    "wof:lastmodified":1537659970,
+    "wof:name":"Dzhambul",
+    "wof:parent_id":1108785349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.73894,
+    54.31273,
+    76.73894,
+    54.31273
+],
+  "geometry": {"coordinates":[76.73894,54.31273],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293767277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.49989,44.8479,65.49989,44.8479",
+    "geom:latitude":44.8479,
+    "geom:longitude":65.49989,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kyzyl-Orda",
+    "gn:country_code":"KZ",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9862222,
+    "gn:latitude":44.8479,
+    "gn:longitude":65.49989,
+    "gn:modification_date":"2014-11-27",
+    "gn:name":"Kyzyl-Orda",
+    "gn:population":300000,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u043e\u0440\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9862222
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c8f7bf7d3e08cbbcc5c0bd134e8a39ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785677,
+            "locality_id":1293767277,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1293767277,
+    "wof:lastmodified":1537551116,
+    "wof:name":"Kyzyl-Orda",
+    "wof:parent_id":1108785677,
+    "wof:placetype":"locality",
+    "wof:population":300000,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.49989000000001,
+    44.8479,
+    65.49989000000001,
+    44.8479
+],
+  "geometry": {"coordinates":[65.49989000000001,44.8479],"type":"Point"}
+}

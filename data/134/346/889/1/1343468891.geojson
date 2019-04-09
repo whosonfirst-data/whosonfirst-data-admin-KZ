@@ -1,0 +1,67 @@
+{
+  "id": 1343468891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.0,49.83333,63.0,49.83333",
+    "geom:latitude":49.83333,
+    "geom:longitude":63.0,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kul'-Kuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521870,
+    "gn:latitude":49.83333,
+    "gn:longitude":63.0,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kul\u2019-Kuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521870
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"eaefd783a12e08b4332e5dd8febc9c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1343468891,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343468891,
+    "wof:lastmodified":1536734051,
+    "wof:name":"Kul'-Kuduk",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.0,
+    49.83333,
+    63.0,
+    49.83333
+],
+  "geometry": {"coordinates":[63.0,49.83333],"type":"Point"}
+}

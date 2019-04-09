@@ -1,0 +1,67 @@
+{
+  "id": 1259673437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.3,46.33333,55.3,46.33333",
+    "geom:latitude":46.33333,
+    "geom:longitude":55.3,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tugyrakshan",
+    "gn:country_code":"KZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607945,
+    "gn:latitude":46.33333,
+    "gn:longitude":55.3,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tugyrakshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607945
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"912b5c322be0d8dd247952f0e071a59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785539,
+            "locality_id":1259673437,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1259673437,
+    "wof:lastmodified":1537078352,
+    "wof:name":"Tugyrakshan",
+    "wof:parent_id":1108785539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.3,
+    46.33333,
+    55.3,
+    46.33333
+],
+  "geometry": {"coordinates":[55.3,46.33333],"type":"Point"}
+}

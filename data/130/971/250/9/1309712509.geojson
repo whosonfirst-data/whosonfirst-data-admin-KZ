@@ -1,0 +1,67 @@
+{
+  "id": 1309712509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.76667,48.2,56.76667,48.2",
+    "geom:latitude":48.2,
+    "geom:longitude":56.76667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kzyl-Choke",
+    "gn:country_code":"KZ",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608967,
+    "gn:latitude":48.2,
+    "gn:longitude":56.76667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kzyl-Choke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608967
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2997d68c7d23951faea5d5087d661b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785399,
+            "locality_id":1309712509,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1309712509,
+    "wof:lastmodified":1537062820,
+    "wof:name":"Kzyl-Choke",
+    "wof:parent_id":1108785399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.76667,
+    48.2,
+    56.76667,
+    48.2
+],
+  "geometry": {"coordinates":[56.76667,48.2],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327406339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.71667,53.85,69.71667,53.85",
+    "geom:latitude":53.85,
+    "geom:longitude":69.71667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Novosukhotino",
+    "gn:country_code":"KZ",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520544,
+    "gn:latitude":53.85,
+    "gn:longitude":69.71667,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Novosukhotino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520544
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"abc2a59ac22044a60e8c63a2b1ee5d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1327406339,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1327406339,
+    "wof:lastmodified":1536718808,
+    "wof:name":"Novosukhotino",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.71667,
+    53.85,
+    69.71667,
+    53.85
+],
+  "geometry": {"coordinates":[69.71666999999999,53.85],"type":"Point"}
+}

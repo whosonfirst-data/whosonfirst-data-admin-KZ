@@ -1,0 +1,67 @@
+{
+  "id": 1310111999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.15,50.18333,60.15,50.18333",
+    "geom:latitude":50.18333,
+    "geom:longitude":60.15,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kyzylzhar",
+    "gn:country_code":"KZ",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521424,
+    "gn:latitude":50.18333,
+    "gn:longitude":60.15,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kyzylzhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521424
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"15adfe5251a59bf26878034373b47f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1310111999,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1310111999,
+    "wof:lastmodified":1536986263,
+    "wof:name":"Kyzylzhar",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.15,
+    50.18333,
+    60.15,
+    50.18333
+],
+  "geometry": {"coordinates":[60.15,50.18333],"type":"Point"}
+}

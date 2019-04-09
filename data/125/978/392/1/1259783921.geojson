@@ -1,0 +1,67 @@
+{
+  "id": 1259783921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.35,50.41667,60.35,50.41667",
+    "geom:latitude":50.41667,
+    "geom:longitude":60.35,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shcherbakovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519250,
+    "gn:latitude":50.41667,
+    "gn:longitude":60.35,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Shcherbakovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519250
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ca008c50fc29dc349663fcb838971da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1259783921,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1259783921,
+    "wof:lastmodified":1536923235,
+    "wof:name":"Shcherbakovskiy",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.35,
+    50.41667,
+    60.35,
+    50.41667
+],
+  "geometry": {"coordinates":[60.35,50.41667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209693157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.27613,49.5381,73.27613,49.5381",
+    "geom:latitude":49.5381,
+    "geom:longitude":73.27613,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Spassk",
+    "gn:country_code":"KZ",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518822,
+    "gn:latitude":49.5381,
+    "gn:longitude":73.27613,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Spassk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0421\u043f\u0430\u0441\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Spasskiy Zavod",
+        "Spassk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518822
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f1948ef7980857210d90606631e6a2d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209693157
+        }
+    ],
+    "wof:id":1209693157,
+    "wof:lastmodified":1537659578,
+    "wof:name":"Spassk",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.27613000000002,
+    49.5381,
+    73.27613000000002,
+    49.5381
+],
+  "geometry": {"coordinates":[73.27613000000002,49.5381],"type":"Point"}
+}

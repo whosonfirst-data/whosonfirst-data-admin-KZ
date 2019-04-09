@@ -1,0 +1,70 @@
+{
+  "id": 1209120061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.11894,43.21693,79.11894,43.21693",
+    "geom:latitude":43.21693,
+    "geom:longitude":79.11894,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aksay",
+    "gn:country_code":"KZ",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526712,
+    "gn:latitude":43.21693,
+    "gn:longitude":79.11894,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Aksay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqsay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0441\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0441\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526712
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9323a9cfa90d81d48aa1eab3b14acc27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209120061
+        }
+    ],
+    "wof:id":1209120061,
+    "wof:lastmodified":1537659923,
+    "wof:name":"Aksay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.11894000000002,
+    43.21693,
+    79.11894000000002,
+    43.21693
+],
+  "geometry": {"coordinates":[79.11894000000002,43.21693],"type":"Point"}
+}

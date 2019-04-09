@@ -1,0 +1,82 @@
+{
+  "id": 1209686155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.99764,48.46677,84.99764,48.46677",
+    "geom:latitude":48.46677,
+    "geom:longitude":84.99764,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Akbulak",
+    "gn:country_code":"KZ",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524197,
+    "gn:latitude":48.46677,
+    "gn:longitude":84.99764,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Akbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gornoe"
+    ],
+    "name:kaz_x_preferred":[
+        "Aqbulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043a\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Gornyy",
+        "Gornoye",
+        "Gornoe",
+        "Akbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524197
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f7d2c78262d3efd74ff0fa50baec2239",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209686155
+        }
+    ],
+    "wof:id":1209686155,
+    "wof:lastmodified":1537659825,
+    "wof:name":"Akbulak",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.99764,
+    48.46677,
+    84.99764,
+    48.46677
+],
+  "geometry": {"coordinates":[84.99764,48.46677],"type":"Point"}
+}

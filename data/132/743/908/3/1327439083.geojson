@@ -1,0 +1,71 @@
+{
+  "id": 1327439083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.87256,51.37696,70.87256,51.37696",
+    "geom:latitude":51.37696,
+    "geom:longitude":70.87256,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koscheku",
+    "gn:country_code":"KZ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522150,
+    "gn:latitude":51.37696,
+    "gn:longitude":70.87256,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Koscheku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosshoky",
+        "Koscheku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522150
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d6c45f46b0fe7d5a19e890d0fa217ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785625,
+            "locality_id":1327439083,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327439083,
+    "wof:lastmodified":1537659746,
+    "wof:name":"Koscheku",
+    "wof:parent_id":1108785625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.87256,
+    51.37696,
+    70.87256,
+    51.37696
+],
+  "geometry": {"coordinates":[70.87255999999999,51.37696],"type":"Point"}
+}

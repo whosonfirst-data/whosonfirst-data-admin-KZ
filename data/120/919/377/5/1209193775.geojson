@@ -1,0 +1,73 @@
+{
+  "id": 1209193775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.23158,53.97263,64.23158,53.97263",
+    "geom:latitude":53.97263,
+    "geom:longitude":64.23158,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kokterek",
+    "gn:country_code":"KZ",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522439,
+    "gn:latitude":53.97263,
+    "gn:longitude":64.23158,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kokterek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kokterek"
+    ],
+    "name:kaz_x_preferred":[
+        "Q\u00f6kterek"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u04e9\u043a\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522439
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cab99f9a6caab0b69b12af1c84dff9bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209193775
+        }
+    ],
+    "wof:id":1209193775,
+    "wof:lastmodified":1537659759,
+    "wof:name":"Kokterek",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.23158000000001,
+    53.97263,
+    64.23158000000001,
+    53.97263
+],
+  "geometry": {"coordinates":[64.23158000000001,53.97263],"type":"Point"}
+}

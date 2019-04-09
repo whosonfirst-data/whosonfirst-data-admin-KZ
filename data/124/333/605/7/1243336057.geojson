@@ -1,0 +1,80 @@
+{
+  "id": 1243336057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.6958,54.07726,68.6958,54.07726",
+    "geom:latitude":54.07726,
+    "geom:longitude":68.6958,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Leonidovka",
+    "gn:country_code":"KZ",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521337,
+    "gn:latitude":54.07726,
+    "gn:longitude":68.6958,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Leonidovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Leon\u012bdovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435\u043e\u043d\u0438\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043e\u043d\u0438\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Leon\u012bdovka",
+        "Leonidovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521337
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9932c87a47359bdbed9f251495dcdc88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785563,
+            "locality_id":1243336057,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243336057,
+    "wof:lastmodified":1537659709,
+    "wof:name":"Leonidovka",
+    "wof:parent_id":1108785563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.6958,
+    54.07726,
+    68.6958,
+    54.07726
+],
+  "geometry": {"coordinates":[68.69580000000001,54.07726],"type":"Point"}
+}

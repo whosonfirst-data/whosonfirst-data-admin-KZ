@@ -1,0 +1,72 @@
+{
+  "id": 1210026407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.43333,50.81667,70.43333,50.81667",
+    "geom:latitude":50.81667,
+    "geom:longitude":70.43333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Burash",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524993,
+    "gn:latitude":50.81667,
+    "gn:longitude":70.43333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Burash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aul Burash",
+        "Burash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524993
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"32863a895c3448a7c310f76c37e5ab5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785395,
+            "locality_id":1210026407,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1210026407,
+    "wof:lastmodified":1537659857,
+    "wof:name":"Burash",
+    "wof:parent_id":1108785395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.43333,
+    50.81667,
+    70.43333,
+    50.81667
+],
+  "geometry": {"coordinates":[70.43333,50.81667],"type":"Point"}
+}

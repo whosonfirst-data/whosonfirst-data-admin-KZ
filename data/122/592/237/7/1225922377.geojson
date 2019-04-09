@@ -1,0 +1,78 @@
+{
+  "id": 1225922377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.6781,51.71439,74.6781,51.71439",
+    "geom:latitude":51.71439,
+    "geom:longitude":74.6781,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shiderty",
+    "gn:country_code":"KZ",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519174,
+    "gn:latitude":51.71439,
+    "gn:longitude":74.6781,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Shiderty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0428\u0456\u0434\u0435\u0440\u0442\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0434\u0435\u0440\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Chiderty",
+        "Shiderty",
+        "Shiderti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519174
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f02b98e904def6233a8daa5c17ea496d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785733,
+            "locality_id":1225922377,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1225922377,
+    "wof:lastmodified":1537659595,
+    "wof:name":"Shiderty",
+    "wof:parent_id":1108785733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.6781,
+    51.71439,
+    74.6781,
+    51.71439
+],
+  "geometry": {"coordinates":[74.6781,51.71439],"type":"Point"}
+}

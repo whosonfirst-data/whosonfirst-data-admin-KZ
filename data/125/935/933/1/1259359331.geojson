@@ -1,0 +1,67 @@
+{
+  "id": 1259359331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.25,43.2,70.25,43.2",
+    "geom:latitude":43.2,
+    "geom:longitude":70.25,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Karashat",
+    "gn:country_code":"KZ",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523206,
+    "gn:latitude":43.2,
+    "gn:longitude":70.25,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Karashat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523206
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d2d54bdc37bedea7c4a3f08dd21e2817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785643,
+            "locality_id":1259359331,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1259359331,
+    "wof:lastmodified":1537035548,
+    "wof:name":"Karashat",
+    "wof:parent_id":1108785643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.25,
+    43.2,
+    70.25,
+    43.2
+],
+  "geometry": {"coordinates":[70.25,43.2],"type":"Point"}
+}

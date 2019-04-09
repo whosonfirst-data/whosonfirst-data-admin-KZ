@@ -1,0 +1,79 @@
+{
+  "id": 1260153309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.58049,54.81486,68.58049,54.81486",
+    "geom:latitude":54.81486,
+    "geom:longitude":68.58049,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Krasnyy Oktyabr'",
+    "gn:country_code":"KZ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530465,
+    "gn:latitude":54.81486,
+    "gn:longitude":68.58049,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Krasnyy Oktyabr\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krasnyy Oktyabr'"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:und_x_variant":[
+        "Krasnyy Oktyabr\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530465
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"58a12e717162fb32ee9b58c517d47298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785359,
+            "locality_id":1260153309,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1260153309,
+    "wof:lastmodified":1537659938,
+    "wof:name":"Krasnyy Oktyabr'",
+    "wof:parent_id":1108785359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.58049,
+    54.81486,
+    68.58049,
+    54.81486
+],
+  "geometry": {"coordinates":[68.58049,54.81486],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1259849881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.56362,49.14648,84.56362,49.14648",
+    "geom:latitude":49.14648,
+    "geom:longitude":84.56362,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Balgyn",
+    "gn:country_code":"KZ",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534028,
+    "gn:latitude":49.14648,
+    "gn:longitude":84.56362,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Balgyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Balgyn"
+    ],
+    "name:kaz_x_preferred":[
+        "Balghyn"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u043b\u0493\u044b\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0433\u044b\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534028
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9cee0be6546ad3ab29553b5e3f998c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1259849881,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259849881,
+    "wof:lastmodified":1537659981,
+    "wof:name":"Balgyn",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.56362,
+    49.14648,
+    84.56362,
+    49.14648
+],
+  "geometry": {"coordinates":[84.56362,49.14648],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276679823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.7682,49.64664,53.7682,49.64664",
+    "geom:latitude":49.64664,
+    "geom:longitude":53.7682,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Alakol'",
+    "gn:country_code":"KZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":828414,
+    "gn:latitude":49.64664,
+    "gn:longitude":53.7682,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Alakol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Alakol'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Alakol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":828414
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4e95231311dd7aded5691c3a604991cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785493,
+            "locality_id":1276679823,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1276679823,
+    "wof:lastmodified":1537659457,
+    "wof:name":"Alakol'",
+    "wof:parent_id":1108785493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.7682,
+    49.64664000000001,
+    53.7682,
+    49.64664000000001
+],
+  "geometry": {"coordinates":[53.7682,49.64664000000001],"type":"Point"}
+}

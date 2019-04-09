@@ -1,0 +1,76 @@
+{
+  "id": 1344064533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.03367,52.91569,69.03367,52.91569",
+    "geom:latitude":52.91569,
+    "geom:longitude":69.03367,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Krasnyy Kordon",
+    "gn:country_code":"KZ",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521988,
+    "gn:latitude":52.91569,
+    "gn:longitude":69.03367,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Krasnyy Kordon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krasnyy Kordon"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041a\u043e\u0440\u0434\u043e\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041a\u043e\u0440\u0434\u043e\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521988
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"af6574a8a86580f81d135548eacdf5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1344064533,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1344064533,
+    "wof:lastmodified":1537659736,
+    "wof:name":"Krasnyy Kordon",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.03367,
+    52.91569000000001,
+    69.03367,
+    52.91569000000001
+],
+  "geometry": {"coordinates":[69.03367,52.91569000000001],"type":"Point"}
+}

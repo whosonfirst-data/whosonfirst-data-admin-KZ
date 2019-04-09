@@ -1,0 +1,72 @@
+{
+  "id": 1209039601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.82946,50.35353,55.82946,50.35353",
+    "geom:latitude":50.35353,
+    "geom:longitude":55.82946,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Astrakhanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610540,
+    "gn:latitude":50.35353,
+    "gn:longitude":55.82946,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Astrakhanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Astrakhanovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Astrakhanovskiy",
+        "Astrakhanskiy",
+        "Astrakhanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610540
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a775d3077d43ff80b710807cc791341e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209039601
+        }
+    ],
+    "wof:id":1209039601,
+    "wof:lastmodified":1537659446,
+    "wof:name":"Astrakhanovka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.82946,
+    50.35353,
+    55.82946,
+    50.35353
+],
+  "geometry": {"coordinates":[55.82946,50.35353],"type":"Point"}
+}

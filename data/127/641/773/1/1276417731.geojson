@@ -1,0 +1,73 @@
+{
+  "id": 1276417731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.65402,50.05234,73.65402,50.05234",
+    "geom:latitude":50.05234,
+    "geom:longitude":73.65402,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Plotinnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11452111,
+    "gn:latitude":50.05234,
+    "gn:longitude":73.65402,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Plotinnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Plot\u012bnnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u043b\u043e\u0442\u0438\u043d\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11452111
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fef0dc00486e2d4065e0e42aadbf1643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1276417731,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1276417731,
+    "wof:lastmodified":1537660154,
+    "wof:name":"Plotinnoye",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.65401999999997,
+    50.05234,
+    73.65401999999997,
+    50.05234
+],
+  "geometry": {"coordinates":[73.65401999999997,50.05234],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293019019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.56667,50.58333,49.56667,50.58333",
+    "geom:latitude":50.58333,
+    "geom:longitude":49.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Atambek",
+    "gn:country_code":"KZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610538,
+    "gn:latitude":50.58333,
+    "gn:longitude":49.56667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Atambek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610538
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6e1f1ed317176f4b6d4c808ca927ad45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785329,
+            "locality_id":1293019019,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293019019,
+    "wof:lastmodified":1536965228,
+    "wof:name":"Atambek",
+    "wof:parent_id":1108785329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.56667,
+    50.58333,
+    49.56667,
+    50.58333
+],
+  "geometry": {"coordinates":[49.56667,50.58333],"type":"Point"}
+}

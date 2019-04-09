@@ -1,0 +1,73 @@
+{
+  "id": 1276788063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.5912,49.51085,49.5912,49.51085",
+    "geom:latitude":49.51085,
+    "geom:longitude":49.5912,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Satybaldy",
+    "gn:country_code":"KZ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":856948,
+    "gn:latitude":49.51085,
+    "gn:longitude":49.5912,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Satybaldy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Satybaldy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0442\u044b\u0431\u0430\u043b\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":856948
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cb8ec18c3f241397b1ac16e8f905273f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1276788063,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1276788063,
+    "wof:lastmodified":1537659459,
+    "wof:name":"Satybaldy",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.5912,
+    49.51085,
+    49.5912,
+    49.51085
+],
+  "geometry": {"coordinates":[49.5912,49.51085],"type":"Point"}
+}

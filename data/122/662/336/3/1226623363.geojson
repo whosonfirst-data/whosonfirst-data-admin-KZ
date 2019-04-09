@@ -1,0 +1,79 @@
+{
+  "id": 1226623363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.344,50.05973,75.344,50.05973",
+    "geom:latitude":50.05973,
+    "geom:longitude":75.344,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Shoqay",
+    "gn:country_code":"KZ",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454340,
+    "gn:latitude":50.05973,
+    "gn:longitude":75.344,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Shoqay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shoqay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u043e\u049b\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Shokay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454340
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8f91d0f1f1d15201e1dd66b6af9a56f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1226623363,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226623363,
+    "wof:lastmodified":1537660156,
+    "wof:name":"Shoqay",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.344,
+    50.05973,
+    75.344,
+    50.05973
+],
+  "geometry": {"coordinates":[75.34399999999999,50.05973],"type":"Point"}
+}

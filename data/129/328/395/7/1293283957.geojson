@@ -1,0 +1,81 @@
+{
+  "id": 1293283957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.38827,51.4516,53.38827,51.4516",
+    "geom:latitude":51.4516,
+    "geom:longitude":53.38827,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Karashyganak",
+    "gn:country_code":"KZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609575,
+    "gn:latitude":51.4516,
+    "gn:longitude":53.38827,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Karashyganak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karashyganak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0448\u044b\u0433\u0430\u043d\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Karachaganak",
+        "Karachaganaya",
+        "Karashiganak",
+        "Karachaganskiy",
+        "Karashaganak",
+        "Karashyganak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609575
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6ae3c86cd9311364effef392f8bc37d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785325,
+            "locality_id":1293283957,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293283957,
+    "wof:lastmodified":1537659416,
+    "wof:name":"Karashyganak",
+    "wof:parent_id":1108785325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.38827,
+    51.4516,
+    53.38827,
+    51.4516
+],
+  "geometry": {"coordinates":[53.38827,51.4516],"type":"Point"}
+}

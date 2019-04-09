@@ -1,0 +1,71 @@
+{
+  "id": 1327148979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.5,51.8,61.5,51.8",
+    "geom:latitude":51.8,
+    "geom:longitude":61.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ul'kenkopa",
+    "gn:country_code":"KZ",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517773,
+    "gn:latitude":51.8,
+    "gn:longitude":61.5,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ul\u2019kenkopa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ul\u2019kun-Kopa",
+        "Ul\u2019kenkopa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517773
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"351517148e85925f8250d2eb1dd0a3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785525,
+            "locality_id":1327148979,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1327148979,
+    "wof:lastmodified":1537659538,
+    "wof:name":"Ul'kenkopa",
+    "wof:parent_id":1108785525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.5,
+    51.8,
+    61.5,
+    51.8
+],
+  "geometry": {"coordinates":[61.5,51.8],"type":"Point"}
+}

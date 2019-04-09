@@ -1,0 +1,64 @@
+{
+  "id": 1209585963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.19925,50.54507,82.19925,50.54507",
+    "geom:latitude":50.54507,
+    "geom:longitude":82.19925,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kozlushka",
+    "gn:country_code":"KZ",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11510190,
+    "gn:latitude":50.54507,
+    "gn:longitude":82.19925,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kozlushka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u043b\u0443\u0448\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510190
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ba27e4a14c6fd5c8ff393900b8a4a5d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209585963
+        }
+    ],
+    "wof:id":1209585963,
+    "wof:lastmodified":1537660178,
+    "wof:name":"Kozlushka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.19925,
+    50.54507,
+    82.19925,
+    50.54507
+],
+  "geometry": {"coordinates":[82.19925000000001,50.54507],"type":"Point"}
+}

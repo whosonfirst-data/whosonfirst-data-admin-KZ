@@ -1,0 +1,79 @@
+{
+  "id": 1193266515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.20935,53.49772,77.20935,53.49772",
+    "geom:latitude":53.49772,
+    "geom:longitude":77.20935,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Malyye Bereznyaki",
+    "gn:country_code":"KZ",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533293,
+    "gn:latitude":53.49772,
+    "gn:longitude":77.20935,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Malyye Bereznyaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malyy Bereznyaki"
+    ],
+    "name:kaz_x_preferred":[
+        "Malye Bereznyak\u012b"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0430\u043b\u044b\u0435 \u0411\u0435\u0440\u0435\u0437\u043d\u044f\u043a\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b.\u0411\u0435\u0440\u0435\u0437\u043d\u044f\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533293
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6f91917237453003d8465c7acdb7a44a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785557,
+            "locality_id":1193266515,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1193266515,
+    "wof:lastmodified":1537659977,
+    "wof:name":"Malyye Bereznyaki",
+    "wof:parent_id":1108785557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.20935,
+    53.49772,
+    77.20935,
+    53.49772
+],
+  "geometry": {"coordinates":[77.20935,53.49772],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293675375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.59335,51.71181,61.59335,51.71181",
+    "geom:latitude":51.71181,
+    "geom:longitude":61.59335,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Frunze",
+    "gn:country_code":"KZ",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524048,
+    "gn:latitude":51.71181,
+    "gn:longitude":61.59335,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Fr\u016bnze",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fr\u016bnze"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0443\u043d\u0437\u0435"
+    ],
+    "name:und_x_variant":[
+        "Imeni Frunze",
+        "Fr\u016bnze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524048
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dc42e580fa5413aaee0ab711d31a37b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785525,
+            "locality_id":1293675375,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293675375,
+    "wof:lastmodified":1537659817,
+    "wof:name":"Frunze",
+    "wof:parent_id":1108785525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.59335,
+    51.71181,
+    61.59335,
+    51.71181
+],
+  "geometry": {"coordinates":[61.59335,51.71181],"type":"Point"}
+}

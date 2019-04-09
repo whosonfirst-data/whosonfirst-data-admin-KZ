@@ -1,0 +1,87 @@
+{
+  "id": 1226518755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.82274,52.54716,65.82274,52.54716",
+    "geom:latitude":52.54716,
+    "geom:longitude":65.82274,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Karamyrza",
+    "gn:country_code":"KZ",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522095,
+    "gn:latitude":52.54716,
+    "gn:longitude":65.82274,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Karamyrza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karamyrza"
+    ],
+    "name:kaz_x_preferred":[
+        "Qaramyrza"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u043c\u044b\u0440\u0437\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0439\u0431\u0430\u0433\u0430\u0440\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u043c\u044b\u0440\u0437\u0430"
+    ],
+    "name:und_x_variant":[
+        "Koybagarskiy",
+        "Karamyrza",
+        "Karamurza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522095
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d7bb9dd52b5cda32cbe283f6d1a0ca94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1226518755,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226518755,
+    "wof:lastmodified":1537659742,
+    "wof:name":"Karamyrza",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.82274,
+    52.54716,
+    65.82274,
+    52.54716
+],
+  "geometry": {"coordinates":[65.82274,52.54716],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276421995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.13122,53.01988,75.13122,53.01988",
+    "geom:latitude":53.01988,
+    "geom:longitude":75.13122,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kaingel'dy",
+    "gn:country_code":"KZ",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535342,
+    "gn:latitude":53.01988,
+    "gn:longitude":75.13122,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Kaingel\u2019dy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kaingel'dy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0438\u043d\u0433\u0435\u043b\u044c\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kaingel\u2019dy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535342
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c06091c8489ace01f2edbca4abf92218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785553,
+            "locality_id":1276421995,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1276421995,
+    "wof:lastmodified":1537659990,
+    "wof:name":"Kaingel'dy",
+    "wof:parent_id":1108785553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.13122,
+    53.01988000000001,
+    75.13122,
+    53.01988000000001
+],
+  "geometry": {"coordinates":[75.13122,53.01988000000001],"type":"Point"}
+}

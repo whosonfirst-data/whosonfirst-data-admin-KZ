@@ -1,0 +1,70 @@
+{
+  "id": 1326900809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.46657,48.13421,85.46657,48.13421",
+    "geom:latitude":48.13421,
+    "geom:longitude":85.46657,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sardykuduk",
+    "gn:country_code":"KZ",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10867403,
+    "gn:latitude":48.13421,
+    "gn:longitude":85.46657,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Sardykuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0434\u044b\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10867403
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"21d4a0aec3963b881376724059cf2e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1326900809,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1326900809,
+    "wof:lastmodified":1537660071,
+    "wof:name":"Sardykuduk",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.46656999999998,
+    48.13421,
+    85.46656999999998,
+    48.13421
+],
+  "geometry": {"coordinates":[85.46656999999998,48.13421],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1125866737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.01674,49.68352,83.01674,49.68352",
+    "geom:latitude":49.68352,
+    "geom:longitude":83.01674,
+    "gn:gn_country":"KZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1722,
+    "gn:population":1722,
+    "iso:country":"KZ",
+    "lbl:latitude":49.68352,
+    "lbl:longitude":83.01674,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Ognevka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0433\u043d\u0435\u0432\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"KZ",
+    "qs_pg:gn_country":"KZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1520474,
+    "qs_pg:gn_pop":1722,
+    "qs_pg:name":"Ognevka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":133267,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520474,
+        "qs_pg:id":133267
+    },
+    "wof:country":"KZ",
+    "wof:created":1497294081,
+    "wof:geomhash":"8111e801a644a964d6856b70ef4fd903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785473,
+            "locality_id":1125866737,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1125866737,
+    "wof:lastmodified":1509397032,
+    "wof:name":"Ognevka",
+    "wof:parent_id":1108785473,
+    "wof:placetype":"locality",
+    "wof:population":1722,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.01674,
+    49.68352,
+    83.01674,
+    49.68352
+],
+  "geometry": {"coordinates":[83.01674,49.68352],"type":"Point"}
+}

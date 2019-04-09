@@ -1,0 +1,79 @@
+{
+  "id": 1226027575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.79129,49.58004,84.79129,49.58004",
+    "geom:latitude":49.58004,
+    "geom:longitude":84.79129,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sennoye",
+    "gn:country_code":"KZ",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519403,
+    "gn:latitude":49.58004,
+    "gn:longitude":84.79129,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Sennoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sennoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Sennoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0435\u043d\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519403
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4218a458e96b5670961505e79ab4ce17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1226027575,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226027575,
+    "wof:lastmodified":1537659605,
+    "wof:name":"Sennoye",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.79129,
+    49.58004,
+    84.79129,
+    49.58004
+],
+  "geometry": {"coordinates":[84.79129,49.58004],"type":"Point"}
+}

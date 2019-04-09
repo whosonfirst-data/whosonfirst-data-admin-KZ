@@ -1,0 +1,82 @@
+{
+  "id": 1326609399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.90692,54.0242,62.90692,54.0242",
+    "geom:latitude":54.0242,
+    "geom:longitude":62.90692,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Turagash",
+    "gn:country_code":"KZ",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1541357,
+    "gn:latitude":54.0242,
+    "gn:longitude":62.90692,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Turagash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Turagash"
+    ],
+    "name:kaz_x_preferred":[
+        "Turaghash"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u04b1\u0440\u0430\u0493\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043d\u0430\u0433\u0430\u0448"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0443\u0440\u0430\u0433\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1541357
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"78cd9804ced164bf77e3fc165caf9285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1326609399,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1326609399,
+    "wof:lastmodified":1537660035,
+    "wof:name":"Turagash",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.90691999999999,
+    54.0242,
+    62.90691999999999,
+    54.0242
+],
+  "geometry": {"coordinates":[62.90691999999999,54.0242],"type":"Point"}
+}

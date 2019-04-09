@@ -1,0 +1,79 @@
+{
+  "id": 1343732441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.66215,48.34954,81.66215,48.34954",
+    "geom:latitude":48.34954,
+    "geom:longitude":81.66215,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Algabas",
+    "gn:country_code":"KZ",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526424,
+    "gn:latitude":48.34954,
+    "gn:longitude":81.66215,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Algabas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Algabas"
+    ],
+    "name:kaz_x_preferred":[
+        "Alghabas"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u043b\u0493\u0430\u0431\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0433\u0430\u0431\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526424
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a5a209b6384926c47dade257169e1f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785469,
+            "locality_id":1343732441,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343732441,
+    "wof:lastmodified":1537659912,
+    "wof:name":"Algabas",
+    "wof:parent_id":1108785469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.66215,
+    48.34954000000001,
+    81.66215,
+    48.34954000000001
+],
+  "geometry": {"coordinates":[81.66215,48.34954000000001],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1310083937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.71497,50.33344,75.71497,50.33344",
+    "geom:latitude":50.33344,
+    "geom:longitude":75.71497,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Koytas",
+    "gn:country_code":"KZ",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522081,
+    "gn:latitude":50.33344,
+    "gn:longitude":75.71497,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Koytas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qoytas"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u0439\u0442\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0439\u0442\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shevik",
+        "Koytas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522081
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b3945ff7033917cd60ada4ae16a13e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1310083937,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310083937,
+    "wof:lastmodified":1537659742,
+    "wof:name":"Koytas",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.71497,
+    50.33344,
+    75.71497,
+    50.33344
+],
+  "geometry": {"coordinates":[75.71496999999999,50.33344],"type":"Point"}
+}

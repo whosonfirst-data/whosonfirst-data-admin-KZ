@@ -1,0 +1,77 @@
+{
+  "id": 1242778507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.16667,48.46667,57.16667,48.46667",
+    "geom:latitude":48.46667,
+    "geom:longitude":57.16667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bashenkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610426,
+    "gn:latitude":48.46667,
+    "gn:longitude":57.16667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Bashenkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bashenkol'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448\u0435\u043d\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Bashenkol\u2019",
+        "Bashenk\u00f6l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610426
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9059a9585b1659c38ae84bbaf9dea1cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785705,
+            "locality_id":1242778507,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1242778507,
+    "wof:lastmodified":1537659443,
+    "wof:name":"Bashenkol'",
+    "wof:parent_id":1108785705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.16667,
+    48.46667,
+    57.16667,
+    48.46667
+],
+  "geometry": {"coordinates":[57.16667,48.46667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327220857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.27377,48.1929,67.27377,48.1929",
+    "geom:latitude":48.1929,
+    "geom:longitude":67.27377,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Aktuma",
+    "gn:country_code":"KZ",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526566,
+    "gn:latitude":48.1929,
+    "gn:longitude":67.27377,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Aktuma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komsomol",
+        "Aktyma",
+        "Aktuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526566
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a8268d593346f36ecb0cf21f0c41b102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785515,
+            "locality_id":1327220857,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1327220857,
+    "wof:lastmodified":1537659918,
+    "wof:name":"Aktuma",
+    "wof:parent_id":1108785515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.27377,
+    48.1929,
+    67.27377,
+    48.1929
+],
+  "geometry": {"coordinates":[67.27377,48.1929],"type":"Point"}
+}

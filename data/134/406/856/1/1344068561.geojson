@@ -1,0 +1,67 @@
+{
+  "id": 1344068561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.51667,52.41667,70.51667,52.41667",
+    "geom:latitude":52.41667,
+    "geom:longitude":70.51667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Borly",
+    "gn:country_code":"KZ",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525146,
+    "gn:latitude":52.41667,
+    "gn:longitude":70.51667,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Borly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525146
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"29902e2eed8aa35bd387cc0c7972b5f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785389,
+            "locality_id":1344068561,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1344068561,
+    "wof:lastmodified":1536862444,
+    "wof:name":"Borly",
+    "wof:parent_id":1108785389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.51666999999998,
+    52.41667,
+    70.51666999999998,
+    52.41667
+],
+  "geometry": {"coordinates":[70.51666999999998,52.41667],"type":"Point"}
+}

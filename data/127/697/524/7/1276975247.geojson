@@ -1,0 +1,70 @@
+{
+  "id": 1276975247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.59537,40.69642,68.59537,40.69642",
+    "geom:latitude":40.69642,
+    "geom:longitude":68.59537,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Imeni Sverdlova",
+    "gn:country_code":"KZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523859,
+    "gn:latitude":40.69642,
+    "gn:longitude":68.59537,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Imeni Sverdlova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Sverdlovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523859
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c8370b71891dddf2e2b30205af962715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1276975247,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276975247,
+    "wof:lastmodified":1537659810,
+    "wof:name":"Imeni Sverdlova",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.59536999999999,
+    40.69642,
+    68.59536999999999,
+    40.69642
+],
+  "geometry": {"coordinates":[68.59536999999999,40.69642],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226257255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.41667,52.81667,64.41667,52.81667",
+    "geom:latitude":52.81667,
+    "geom:longitude":64.41667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dobrynovka",
+    "gn:country_code":"KZ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524580,
+    "gn:latitude":52.81667,
+    "gn:longitude":64.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dobrynovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dobrynovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u044b\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524580
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9a712e5649818187c9a20b1a28884165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785531,
+            "locality_id":1226257255,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226257255,
+    "wof:lastmodified":1537659841,
+    "wof:name":"Dobrynovka",
+    "wof:parent_id":1108785531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.41667,
+    52.81667,
+    64.41667,
+    52.81667
+],
+  "geometry": {"coordinates":[64.41667,52.81667],"type":"Point"}
+}

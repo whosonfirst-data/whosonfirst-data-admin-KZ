@@ -1,0 +1,70 @@
+{
+  "id": 1327033959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.28903,43.5524,78.28903,43.5524",
+    "geom:latitude":43.5524,
+    "geom:longitude":78.28903,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taldyaryk",
+    "gn:country_code":"KZ",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11488494,
+    "gn:latitude":43.5524,
+    "gn:longitude":78.28903,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Taldyaryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0434\u044b\u0430\u0440\u044b\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11488494
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"694cc16442e77931825f1dd07bfa3792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1327033959,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1327033959,
+    "wof:lastmodified":1537660161,
+    "wof:name":"Taldyaryk",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.28903000000003,
+    43.5524,
+    78.28903000000003,
+    43.5524
+],
+  "geometry": {"coordinates":[78.28903000000003,43.5524],"type":"Point"}
+}

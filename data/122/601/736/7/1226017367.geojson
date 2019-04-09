@@ -1,0 +1,84 @@
+{
+  "id": 1226017367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.18099,53.78972,69.18099,53.78972",
+    "geom:latitude":53.78972,
+    "geom:longitude":69.18099,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Lyubimovka",
+    "gn:country_code":"KZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521274,
+    "gn:latitude":53.78972,
+    "gn:longitude":69.18099,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Lyubimovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lyubimovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Lyub\u012bmovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041b\u044e\u0431\u0438\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u0438\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yuvimovka",
+        "Yubimovka",
+        "Lyubimovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521274
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"62f47833f34141b7329ccf009ba3f537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1226017367,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226017367,
+    "wof:lastmodified":1537659706,
+    "wof:name":"Lyubimovka",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.18099000000001,
+    53.78972,
+    69.18099000000001,
+    53.78972
+],
+  "geometry": {"coordinates":[69.18099000000001,53.78972],"type":"Point"}
+}

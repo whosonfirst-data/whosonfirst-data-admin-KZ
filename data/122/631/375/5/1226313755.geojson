@@ -1,0 +1,67 @@
+{
+  "id": 1226313755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.38333,44.71667,65.38333,44.71667",
+    "geom:latitude":44.71667,
+    "geom:longitude":65.38333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bukhar-Tobe",
+    "gn:country_code":"KZ",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525033,
+    "gn:latitude":44.71667,
+    "gn:longitude":65.38333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Bukhar-Tobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525033
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e67ba02fa35b9aabf50b7987f8e85ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785677,
+            "locality_id":1226313755,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1226313755,
+    "wof:lastmodified":1536834691,
+    "wof:name":"Bukhar-Tobe",
+    "wof:parent_id":1108785677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.38333,
+    44.71667,
+    65.38333,
+    44.71667
+],
+  "geometry": {"coordinates":[65.38333,44.71667],"type":"Point"}
+}

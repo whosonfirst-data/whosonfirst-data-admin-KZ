@@ -1,0 +1,79 @@
+{
+  "id": 1259660059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.21624,43.3822,70.21624,43.3822",
+    "geom:latitude":43.3822,
+    "geom:longitude":70.21624,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tabaqbulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10430347,
+    "gn:latitude":43.3822,
+    "gn:longitude":70.21624,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Tabaqbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Tabaqbulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0430\u0431\u0430\u049b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0431\u0430\u043a\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Tabakbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10430347
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7ac491fd7a64e179e1dde23cf0b97b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785643,
+            "locality_id":1259660059,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1259660059,
+    "wof:lastmodified":1537660050,
+    "wof:name":"Tabaqbulaq",
+    "wof:parent_id":1108785643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.21624,
+    43.3822,
+    70.21624,
+    43.3822
+],
+  "geometry": {"coordinates":[70.21624,43.3822],"type":"Point"}
+}

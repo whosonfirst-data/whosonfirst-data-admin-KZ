@@ -1,0 +1,77 @@
+{
+  "id": 1226425315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.52971,51.08331,80.52971,51.08331",
+    "geom:latitude":51.08331,
+    "geom:longitude":80.52971,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Korosteli",
+    "gn:country_code":"KZ",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522247,
+    "gn:latitude":51.08331,
+    "gn:longitude":80.52971,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Korosteli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Korosteli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0441\u0442\u0435\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Korostel\u00ebvskiy",
+        "Korosteli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522247
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b18fa5a94954dc9d4f2d10b55974fdf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1226425315,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226425315,
+    "wof:lastmodified":1537659750,
+    "wof:name":"Korosteli",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.52971,
+    51.08331,
+    80.52971,
+    51.08331
+],
+  "geometry": {"coordinates":[80.52970999999999,51.08331],"type":"Point"}
+}

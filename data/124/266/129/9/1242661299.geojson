@@ -1,0 +1,76 @@
+{
+  "id": 1242661299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.07891,42.51551,69.07891,42.51551",
+    "geom:latitude":42.51551,
+    "geom:longitude":69.07891,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Komsomol",
+    "gn:country_code":"KZ",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11120263,
+    "gn:latitude":42.51551,
+    "gn:longitude":69.07891,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Komsomol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u043e\u0440\u0435\u0430\u0440\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Torearyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11120263
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3e95f3b325710ae2b38476e499ab7a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785589,
+            "locality_id":1242661299,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1242661299,
+    "wof:lastmodified":1537660108,
+    "wof:name":"Komsomol",
+    "wof:parent_id":1108785589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.07891,
+    42.51551,
+    69.07891,
+    42.51551
+],
+  "geometry": {"coordinates":[69.07890999999999,42.51551],"type":"Point"}
+}

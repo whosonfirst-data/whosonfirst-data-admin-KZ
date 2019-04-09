@@ -1,0 +1,80 @@
+{
+  "id": 1344174961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.85,49.51667,47.85,49.51667",
+    "geom:latitude":49.51667,
+    "geom:longitude":47.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhiyenbet",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607530,
+    "gn:latitude":49.51667,
+    "gn:longitude":47.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zhiyenbet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhiyenbet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u0435\u043d\u0431\u0435\u0442"
+    ],
+    "name:und_x_variant":[
+        "Dzhiyembet",
+        "Zhiyembet",
+        "Dizhiembet",
+        "Zhiyenbet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607530
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ed9bfe2c32fc0b1499dda617ae2fb982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785327,
+            "locality_id":1344174961,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1344174961,
+    "wof:lastmodified":1537659339,
+    "wof:name":"Zhiyenbet",
+    "wof:parent_id":1108785327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.85,
+    49.51667,
+    47.85,
+    49.51667
+],
+  "geometry": {"coordinates":[47.85,49.51667],"type":"Point"}
+}

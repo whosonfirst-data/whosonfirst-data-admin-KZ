@@ -1,0 +1,82 @@
+{
+  "id": 1260373299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.35863,48.62303,82.35863,48.62303",
+    "geom:latitude":48.62303,
+    "geom:longitude":82.35863,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Uzynbulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517531,
+    "gn:latitude":48.62303,
+    "gn:longitude":82.35863,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Uzynbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uzunbulak"
+    ],
+    "name:kaz_x_preferred":[
+        "Uzynbulaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u0443\u043d\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Tyulengut",
+        "Uzynbulak",
+        "Uzynbulakskiy",
+        "Uzunbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517531
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3c4a36a3d500f46c4fb313e1ddf97236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1260373299,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1260373299,
+    "wof:lastmodified":1537659528,
+    "wof:name":"Uzynbulaq",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.35863,
+    48.62303,
+    82.35863,
+    48.62303
+],
+  "geometry": {"coordinates":[82.35863000000001,48.62303],"type":"Point"}
+}

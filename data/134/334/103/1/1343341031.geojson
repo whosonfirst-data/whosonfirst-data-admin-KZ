@@ -1,0 +1,76 @@
+{
+  "id": 1343341031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.72009,52.06776,60.72009,52.06776",
+    "geom:latitude":52.06776,
+    "geom:longitude":60.72009,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kusakan",
+    "gn:country_code":"KZ",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521691,
+    "gn:latitude":52.06776,
+    "gn:longitude":60.72009,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kusakan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qosaqan"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u0441\u0430\u049b\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0441\u0430\u043a\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521691
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6762bda4370ee68c0a7abe7a94eb52d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785525,
+            "locality_id":1343341031,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343341031,
+    "wof:lastmodified":1537659726,
+    "wof:name":"Kusakan",
+    "wof:parent_id":1108785525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.72009,
+    52.06776,
+    60.72009,
+    52.06776
+],
+  "geometry": {"coordinates":[60.72009,52.06776],"type":"Point"}
+}

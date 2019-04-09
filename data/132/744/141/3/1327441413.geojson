@@ -1,0 +1,67 @@
+{
+  "id": 1327441413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.61667,45.35,78.61667,45.35",
+    "geom:latitude":45.35,
+    "geom:longitude":78.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kol'taban",
+    "gn:country_code":"KZ",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522389,
+    "gn:latitude":45.35,
+    "gn:longitude":78.61667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kol\u2019taban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522389
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"38ea6778b20a8b98cfd6e91347169cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785635,
+            "locality_id":1327441413,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1327441413,
+    "wof:lastmodified":1536667741,
+    "wof:name":"Kol'taban",
+    "wof:parent_id":1108785635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.61667,
+    45.35,
+    78.61667,
+    45.35
+],
+  "geometry": {"coordinates":[78.61667,45.35],"type":"Point"}
+}

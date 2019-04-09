@@ -1,0 +1,61 @@
+{
+  "id": 1209098683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.8,47.06667,53.8,47.06667",
+    "geom:latitude":47.06667,
+    "geom:longitude":53.8,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Adayevskaya",
+    "gn:country_code":"KZ",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610801,
+    "gn:latitude":47.06667,
+    "gn:longitude":53.8,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Adayevskaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610801
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"33d8a62c536bf4da93644aa78844a12f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209098683
+        }
+    ],
+    "wof:id":1209098683,
+    "wof:lastmodified":1536297804,
+    "wof:name":"Adayevskaya",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.8,
+    47.06667,
+    53.8,
+    47.06667
+],
+  "geometry": {"coordinates":[53.8,47.06667],"type":"Point"}
+}

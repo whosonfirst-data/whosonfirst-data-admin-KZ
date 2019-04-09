@@ -1,0 +1,73 @@
+{
+  "id": 1226736989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36748,50.19679,72.36748,50.19679",
+    "geom:latitude":50.19679,
+    "geom:longitude":72.36748,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Rodnichki",
+    "gn:country_code":"KZ",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140457,
+    "gn:latitude":50.19679,
+    "gn:longitude":72.36748,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Rodnichki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Rodn\u012bchk\u012b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0420\u043e\u0434\u043d\u0438\u0447\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140457
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8b9e7b28e9c2f4d3716aa027c3d31a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1226736989,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226736989,
+    "wof:lastmodified":1537660119,
+    "wof:name":"Rodnichki",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36748,
+    50.19679,
+    72.36748,
+    50.19679
+],
+  "geometry": {"coordinates":[72.36748,50.19679],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1209988941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.21867,53.00192,67.21867,53.00192",
+    "geom:latitude":53.00192,
+    "geom:longitude":67.21867,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Madan'yat",
+    "gn:country_code":"KZ",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535411,
+    "gn:latitude":53.00192,
+    "gn:longitude":67.21867,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Madan\u2019yat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Madeniyet"
+    ],
+    "name:kaz_x_preferred":[
+        "M\u00e4den\u012bet"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u04d9\u0434\u0435\u043d\u0438\u0435\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u0435\u043d\u0438\u0435\u0442"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u0434\u0430\u043d\u044c\u044f\u0442",
+        "\u0428\u0430\u0440\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Sharyk",
+        "Madan\u2019yat",
+        "Madaniyet",
+        "Madeniyet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535411
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8fed6e7b4bae82e48f839018a71d92c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1209988941,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1209988941,
+    "wof:lastmodified":1537659992,
+    "wof:name":"Madan'yat",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.21866999999999,
+    53.00192,
+    67.21866999999999,
+    53.00192
+],
+  "geometry": {"coordinates":[67.21866999999999,53.00192],"type":"Point"}
+}

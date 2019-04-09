@@ -1,0 +1,64 @@
+{
+  "id": 1209522991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.23933,52.43926,73.23933,52.43926",
+    "geom:latitude":52.43926,
+    "geom:longitude":73.23933,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhalyn",
+    "gn:country_code":"KZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11115610,
+    "gn:latitude":52.43926,
+    "gn:longitude":73.23933,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Zhalyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043b\u044b\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11115610
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7b13ce710819ab79c0a4f035816f2c8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209522991
+        }
+    ],
+    "wof:id":1209522991,
+    "wof:lastmodified":1537660098,
+    "wof:name":"Zhalyn",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.23933000000002,
+    52.43926,
+    73.23933000000002,
+    52.43926
+],
+  "geometry": {"coordinates":[73.23933000000002,52.43926],"type":"Point"}
+}

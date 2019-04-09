@@ -1,0 +1,67 @@
+{
+  "id": 1360185287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.75,48.23333,57.75,48.23333",
+    "geom:latitude":48.23333,
+    "geom:longitude":57.75,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sor-Togay",
+    "gn:country_code":"KZ",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608195,
+    "gn:latitude":48.23333,
+    "gn:longitude":57.75,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sor-Togay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608195
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"be876209a303826898f7386d8e066056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785725,
+            "locality_id":1360185287,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1360185287,
+    "wof:lastmodified":1536801124,
+    "wof:name":"Sor-Togay",
+    "wof:parent_id":1108785725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.75,
+    48.23333,
+    57.75,
+    48.23333
+],
+  "geometry": {"coordinates":[57.75,48.23333],"type":"Point"}
+}

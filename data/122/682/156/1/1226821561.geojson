@@ -1,0 +1,85 @@
+{
+  "id": 1226821561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.68134,52.39708,66.68134,52.39708",
+    "geom:latitude":52.39708,
+    "geom:longitude":66.68134,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Razgul'noye",
+    "gn:country_code":"KZ",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520033,
+    "gn:latitude":52.39708,
+    "gn:longitude":66.68134,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Razgul\u2019noye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Razgul'noye"
+    ],
+    "name:kaz_x_preferred":[
+        "Razg\u016bl\u2019noe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0420\u0430\u0437\u0433\u0443\u043b\u044c\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0433\u0443\u043b\u044c\u043d\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "Razgul\u2019noye"
+    ],
+    "name:und_x_variant":[
+        "Priishimskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520033
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1041c70c70891c6f28ef566e1dc65aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1226821561,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226821561,
+    "wof:lastmodified":1537659632,
+    "wof:name":"Razgul'noye",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.68134,
+    52.39708,
+    66.68134,
+    52.39708
+],
+  "geometry": {"coordinates":[66.68134000000001,52.39708],"type":"Point"}
+}

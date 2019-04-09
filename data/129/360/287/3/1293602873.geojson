@@ -1,0 +1,73 @@
+{
+  "id": 1293602873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.02895,43.27507,76.02895,43.27507",
+    "geom:latitude":43.27507,
+    "geom:longitude":76.02895,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ungurtas",
+    "gn:country_code":"KZ",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517733,
+    "gn:latitude":43.27507,
+    "gn:longitude":76.02895,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ungurtas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ungurtas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u0433\u0443\u0440\u0442\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517733
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"90a6fa5eff5c8dd2dda3848d2f413b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1293602873,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293602873,
+    "wof:lastmodified":1537659537,
+    "wof:name":"Ungurtas",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.02895,
+    43.27507,
+    76.02895,
+    43.27507
+],
+  "geometry": {"coordinates":[76.02894999999999,43.27507],"type":"Point"}
+}

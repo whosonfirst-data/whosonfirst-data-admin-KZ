@@ -1,0 +1,70 @@
+{
+  "id": 1293672583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.78333,46.63333,61.78333,46.63333",
+    "geom:latitude":46.63333,
+    "geom:longitude":61.78333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sapak",
+    "gn:country_code":"KZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519735,
+    "gn:latitude":46.63333,
+    "gn:longitude":61.78333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sapak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sapak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519735
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9478b6138072b4b7bb037c2c927764cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785633,
+            "locality_id":1293672583,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1293672583,
+    "wof:lastmodified":1537659614,
+    "wof:name":"Sapak",
+    "wof:parent_id":1108785633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.78333000000001,
+    46.63333,
+    61.78333000000001,
+    46.63333
+],
+  "geometry": {"coordinates":[61.78333000000001,46.63333],"type":"Point"}
+}

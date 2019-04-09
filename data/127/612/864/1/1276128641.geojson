@@ -1,0 +1,67 @@
+{
+  "id": 1276128641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.66667,51.3,71.66667,51.3",
+    "geom:latitude":51.3,
+    "geom:longitude":71.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bogoyavlenskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525230,
+    "gn:latitude":51.3,
+    "gn:longitude":71.66667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Bogoyavlenskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525230
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"37562151a60af1aa96f7d41a91a64886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785441,
+            "locality_id":1276128641,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1276128641,
+    "wof:lastmodified":1537050673,
+    "wof:name":"Bogoyavlenskoye",
+    "wof:parent_id":1108785441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.66667,
+    51.3,
+    71.66667,
+    51.3
+],
+  "geometry": {"coordinates":[71.66667,51.3],"type":"Point"}
+}

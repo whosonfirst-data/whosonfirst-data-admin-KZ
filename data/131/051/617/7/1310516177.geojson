@@ -1,0 +1,67 @@
+{
+  "id": 1310516177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.75,49.66667,51.75,49.66667",
+    "geom:latitude":49.66667,
+    "geom:longitude":51.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kara-Tyube",
+    "gn:country_code":"KZ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609534,
+    "gn:latitude":49.66667,
+    "gn:longitude":51.75,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kara-Tyube",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609534
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ce9bbcb78ce986909f7d5b76f423e0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1310516177,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1310516177,
+    "wof:lastmodified":1536901490,
+    "wof:name":"Kara-Tyube",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.75,
+    49.66667,
+    51.75,
+    49.66667
+],
+  "geometry": {"coordinates":[51.75,49.66667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209419051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.43053,43.53928,76.43053,43.53928",
+    "geom:latitude":43.53928,
+    "geom:longitude":76.43053,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhyngghyldy",
+    "gn:country_code":"KZ",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527991,
+    "gn:latitude":43.53928,
+    "gn:longitude":76.43053,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Zhyngghyldy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhyngghyldy"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u044b\u04a3\u0493\u044b\u043b\u0434\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u044b\u043d\u0433\u044b\u043b\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Zhyngyldy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527991
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8b5bf297c47c717d5e75a1111184597a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209419051
+        }
+    ],
+    "wof:id":1209419051,
+    "wof:lastmodified":1537660190,
+    "wof:name":"Zhyngghyldy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.43053,
+    43.53928,
+    76.43053,
+    43.53928
+],
+  "geometry": {"coordinates":[76.43053,43.53928],"type":"Point"}
+}

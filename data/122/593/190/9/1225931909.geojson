@@ -1,0 +1,79 @@
+{
+  "id": 1225931909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.47686,53.81766,75.47686,53.81766",
+    "geom:latitude":53.81766,
+    "geom:longitude":75.47686,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bezvodnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525355,
+    "gn:latitude":53.81766,
+    "gn:longitude":75.47686,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Bezvodnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bezvodnoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Bezvodnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u0437\u0432\u043e\u0434\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0437\u0432\u043e\u0434\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525355
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9673cb879a8d2c28a7a64e7ae5b35d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785349,
+            "locality_id":1225931909,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1225931909,
+    "wof:lastmodified":1537659872,
+    "wof:name":"Bezvodnoye",
+    "wof:parent_id":1108785349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.47686,
+    53.81766,
+    75.47686,
+    53.81766
+],
+  "geometry": {"coordinates":[75.47686,53.81766],"type":"Point"}
+}

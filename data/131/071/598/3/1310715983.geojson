@@ -1,0 +1,84 @@
+{
+  "id": 1310715983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.20605,44.21321,80.20605,44.21321",
+    "geom:latitude":44.21321,
+    "geom:longitude":80.20605,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pendzhim",
+    "gn:country_code":"KZ",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517471,
+    "gn:latitude":44.21321,
+    "gn:longitude":80.20605,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Pendzhim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "P\u00e4nzh\u012bm"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u04d9\u043d\u0436\u0438\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043d\u0434\u0436\u0438\u043c"
+    ],
+    "name:und_x_variant":[
+        "Verkhniy Penzhim",
+        "Pidzhim",
+        "Pendzhim",
+        "Penjim",
+        "Pedzhim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517471,
+        "wk:page":"Panzhim"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5181fec89336aa4f002647304c82eb2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785409,
+            "locality_id":1310715983,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1310715983,
+    "wof:lastmodified":1537659525,
+    "wof:name":"Pendzhim",
+    "wof:parent_id":1108785409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.20605,
+    44.21321,
+    80.20605,
+    44.21321
+],
+  "geometry": {"coordinates":[80.20605,44.21321],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327397511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.12768,42.89816,73.12768,42.89816",
+    "geom:latitude":42.89816,
+    "geom:longitude":73.12768,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kazakhdikan",
+    "gn:country_code":"KZ",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8220807,
+    "gn:latitude":42.89816,
+    "gn:longitude":73.12768,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Kazakhdikan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0445\u0434\u0438\u043a\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8220807
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7b6b0412772da5d5f243fd9f24a72a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785319,
+            "locality_id":1327397511,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1327397511,
+    "wof:lastmodified":1537660042,
+    "wof:name":"Kazakhdikan",
+    "wof:parent_id":1108785319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.12768,
+    42.89816,
+    73.12768,
+    42.89816
+],
+  "geometry": {"coordinates":[73.12768,42.89816],"type":"Point"}
+}

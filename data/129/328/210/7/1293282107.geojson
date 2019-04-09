@@ -1,0 +1,73 @@
+{
+  "id": 1293282107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.68333,44.78333,51.68333,44.78333",
+    "geom:latitude":44.78333,
+    "geom:longitude":51.68333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kiyakty",
+    "gn:country_code":"KZ",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609379,
+    "gn:latitude":44.78333,
+    "gn:longitude":51.68333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kiyakty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kiyakty"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u044f\u043a\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609379
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"58ac12708e1c8cd0db333bbcbd03b694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785543,
+            "locality_id":1293282107,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1293282107,
+    "wof:lastmodified":1537659410,
+    "wof:name":"Kiyakty",
+    "wof:parent_id":1108785543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.68333,
+    44.78333,
+    51.68333,
+    44.78333
+],
+  "geometry": {"coordinates":[51.68333,44.78333],"type":"Point"}
+}

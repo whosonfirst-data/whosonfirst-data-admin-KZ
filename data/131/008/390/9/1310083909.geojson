@@ -1,0 +1,79 @@
+{
+  "id": 1310083909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.07067,53.59519,75.07067,53.59519",
+    "geom:latitude":53.59519,
+    "geom:longitude":75.07067,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kostomar",
+    "gn:country_code":"KZ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532947,
+    "gn:latitude":53.59519,
+    "gn:longitude":75.07067,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kostomar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kostomar"
+    ],
+    "name:kaz_x_preferred":[
+        "Qostomar"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u0441\u0442\u043e\u043c\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u043e\u043c\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532947
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e7a66ff8c7f056e0ce31c03480cb7037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1310083909,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310083909,
+    "wof:lastmodified":1537659973,
+    "wof:name":"Kostomar",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.07066999999998,
+    53.59519,
+    75.07066999999998,
+    53.59519
+],
+  "geometry": {"coordinates":[75.07066999999998,53.59519],"type":"Point"}
+}

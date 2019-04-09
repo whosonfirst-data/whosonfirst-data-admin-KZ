@@ -1,0 +1,70 @@
+{
+  "id": 1343666015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.40844,43.3643,77.40844,43.3643",
+    "geom:latitude":43.3643,
+    "geom:longitude":77.40844,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Krasnyy Vostok",
+    "gn:country_code":"KZ",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10310698,
+    "gn:latitude":43.3643,
+    "gn:longitude":77.40844,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Krasnyy Vostok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u0412\u043e\u0441\u0442\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10310698
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e046cb4e8be256a38f5398bd101985c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1343666015,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1343666015,
+    "wof:lastmodified":1537660047,
+    "wof:name":"Krasnyy Vostok",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.40844,
+    43.3643,
+    77.40844,
+    43.3643
+],
+  "geometry": {"coordinates":[77.40844,43.3643],"type":"Point"}
+}

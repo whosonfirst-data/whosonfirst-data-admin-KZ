@@ -1,0 +1,79 @@
+{
+  "id": 890443873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.52434,52.24474,66.52434,52.24474",
+    "geom:latitude":52.24474,
+    "geom:longitude":66.52434,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":3646,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krasnogorsk\u012by"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a\u0438\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Krasnogorskiy"
+    ],
+    "qs:name":"Krasnogorsk\u012by",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":1176,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522026,
+        "gp:id":2261295,
+        "qs:id":1031731,
+        "wd:id":"Q843013",
+        "wk:page":"Krasnogorsky Zavod"
+    },
+    "wof:country":"KZ",
+    "wof:created":1469052441,
+    "wof:geomhash":"0e7f503ec88c2457db1b1ab9a6fbf89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890443873,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":890443873,
+    "wof:lastmodified":1527787059,
+    "wof:name":"Krasnogorsk\u012by",
+    "wof:parent_id":85672897,
+    "wof:placetype":"locality",
+    "wof:population":3646,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.52434,
+    52.24474,
+    66.52434,
+    52.24474
+],
+  "geometry": {"coordinates":[66.52434,52.24474],"type":"Point"}
+}

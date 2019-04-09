@@ -1,0 +1,83 @@
+{
+  "id": 1225818627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.83405,50.68073,79.83405,50.68073",
+    "geom:latitude":50.68073,
+    "geom:longitude":79.83405,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Akkol'skiy",
+    "gn:country_code":"KZ",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526762,
+    "gn:latitude":50.68073,
+    "gn:longitude":79.83405,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Akkol\u2019skiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akkol'skiy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043a\u0443\u043b\u044c\u0441\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043a\u043a\u043e\u043b\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Akmulinskiy",
+        "Akkul\u2019skiy",
+        "Annul\u2019skiy",
+        "Akkol\u2019",
+        "Akkol\u2019skiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526762
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"030064d2e9ee67c029e5cb23da7d028b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1225818627,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1225818627,
+    "wof:lastmodified":1537659924,
+    "wof:name":"Akkol'skiy",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.83405,
+    50.68073,
+    79.83405,
+    50.68073
+],
+  "geometry": {"coordinates":[79.83405,50.68073],"type":"Point"}
+}

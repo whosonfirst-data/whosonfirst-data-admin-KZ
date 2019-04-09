@@ -1,0 +1,73 @@
+{
+  "id": 1226521657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.40679,52.5138,65.40679,52.5138",
+    "geom:latitude":52.5138,
+    "geom:longitude":65.40679,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tuchkovka",
+    "gn:country_code":"KZ",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11421052,
+    "gn:latitude":52.5138,
+    "gn:longitude":65.40679,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Tuchkovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "T\u016bchkovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0443\u0447\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11421052
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a7227befe4046b5a39241fedad0f33a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785533,
+            "locality_id":1226521657,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226521657,
+    "wof:lastmodified":1537660148,
+    "wof:name":"Tuchkovka",
+    "wof:parent_id":1108785533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.40679,
+    52.5138,
+    65.40679,
+    52.5138
+],
+  "geometry": {"coordinates":[65.40679,52.5138],"type":"Point"}
+}

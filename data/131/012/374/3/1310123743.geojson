@@ -1,0 +1,76 @@
+{
+  "id": 1310123743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.58528,43.77643,75.58528,43.77643",
+    "geom:latitude":43.77643,
+    "geom:longitude":75.58528,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Karabastau",
+    "gn:country_code":"KZ",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537992,
+    "gn:latitude":43.77643,
+    "gn:longitude":75.58528,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Karabastau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u0440\u0430\u0431\u0430\u0441\u0442\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0430\u0441\u0442\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Qarabasta\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537992
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9262176a9ffd4e4ad46f342f85f980ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1310123743,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1310123743,
+    "wof:lastmodified":1537660021,
+    "wof:name":"Karabastau",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.58528000000003,
+    43.77643,
+    75.58528000000003,
+    43.77643
+],
+  "geometry": {"coordinates":[75.58528000000003,43.77643],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1276739267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.53156,54.02003,65.53156,54.02003",
+    "geom:latitude":54.02003,
+    "geom:longitude":65.53156,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Qaraterek",
+    "gn:country_code":"KZ",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11416766,
+    "gn:latitude":54.02003,
+    "gn:longitude":65.53156,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Qaraterek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaraterek"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Karaterek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11416766
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"23f18ceeaffa7e04e159903b78a9a446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1276739267,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1276739267,
+    "wof:lastmodified":1537660144,
+    "wof:name":"Qaraterek",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.53156,
+    54.02003000000001,
+    65.53156,
+    54.02003000000001
+],
+  "geometry": {"coordinates":[65.53156,54.02003000000001],"type":"Point"}
+}

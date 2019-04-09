@@ -1,0 +1,64 @@
+{
+  "id": 1209502135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.06028,48.9609,67.06028,48.9609",
+    "geom:latitude":48.9609,
+    "geom:longitude":67.06028,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kokbulak",
+    "gn:country_code":"KZ",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533449,
+    "gn:latitude":48.9609,
+    "gn:longitude":67.06028,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Kokbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "K\u00f6kbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533449
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5b0929ee561fe878eb8abf9cbcadf14b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209502135
+        }
+    ],
+    "wof:id":1209502135,
+    "wof:lastmodified":1537659977,
+    "wof:name":"Kokbulak",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.06028,
+    48.9609,
+    67.06028,
+    48.9609
+],
+  "geometry": {"coordinates":[67.06028000000001,48.9609],"type":"Point"}
+}

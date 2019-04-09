@@ -1,0 +1,74 @@
+{
+  "id": 1209410327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.20069,41.21741,68.20069,41.21741",
+    "geom:latitude":41.21741,
+    "geom:longitude":68.20069,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qalgansyr",
+    "gn:country_code":"KZ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538018,
+    "gn:latitude":41.21741,
+    "gn:longitude":68.20069,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Qalgansyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qalgansyr"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u043b\u0433\u0430\u043d\u0441\u044b\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u0428\u0435\u0441\u0442\u044c \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u0411\u0438\u0440\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Otdeleniye Nomer Shest\u2019 Sovkhoza Birlik",
+        "Kalgansyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538018
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e61462de66ccd3f78a0ab7f33b94ad26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209410327
+        }
+    ],
+    "wof:id":1209410327,
+    "wof:lastmodified":1537660022,
+    "wof:name":"Qalgansyr",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.20069000000001,
+    41.21741,
+    68.20069000000001,
+    41.21741
+],
+  "geometry": {"coordinates":[68.20069000000001,41.21741],"type":"Point"}
+}

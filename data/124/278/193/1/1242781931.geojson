@@ -1,0 +1,70 @@
+{
+  "id": 1242781931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.93745,43.90403,75.93745,43.90403",
+    "geom:latitude":43.90403,
+    "geom:longitude":75.93745,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhekeshbastau",
+    "gn:country_code":"KZ",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11026672,
+    "gn:latitude":43.90403,
+    "gn:longitude":75.93745,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Zhekeshbastau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u043a\u0435\u0448\u0431\u0430\u0441\u0442\u0430\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11026672
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"861c847339c25f231db70280a094ce04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1242781931,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1242781931,
+    "wof:lastmodified":1537660090,
+    "wof:name":"Zhekeshbastau",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.93745,
+    43.90403,
+    75.93745,
+    43.90403
+],
+  "geometry": {"coordinates":[75.93745,43.90403],"type":"Point"}
+}

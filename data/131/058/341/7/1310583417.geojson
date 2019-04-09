@@ -1,0 +1,79 @@
+{
+  "id": 1310583417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.78816,53.14806,67.78816,53.14806",
+    "geom:latitude":53.14806,
+    "geom:longitude":67.78816,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kirillovka",
+    "gn:country_code":"KZ",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522648,
+    "gn:latitude":53.14806,
+    "gn:longitude":67.78816,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Kirillovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kirillovka"
+    ],
+    "name:kaz_x_preferred":[
+        "K\u012br\u012bllovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0438\u0440\u0438\u043b\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0438\u043b\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522648
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"70f6494b2ff616a31c70f6afb09c15d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1310583417,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310583417,
+    "wof:lastmodified":1537659767,
+    "wof:name":"Kirillovka",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.78815999999999,
+    53.14806,
+    67.78815999999999,
+    53.14806
+],
+  "geometry": {"coordinates":[67.78815999999999,53.14806],"type":"Point"}
+}

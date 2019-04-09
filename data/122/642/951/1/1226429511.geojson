@@ -1,0 +1,70 @@
+{
+  "id": 1226429511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.19298,48.26285,72.19298,48.26285",
+    "geom:latitude":48.26285,
+    "geom:longitude":72.19298,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Karavansaray",
+    "gn:country_code":"KZ",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504226,
+    "gn:latitude":48.26285,
+    "gn:longitude":72.19298,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Karavansaray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0432\u0430\u043d\u0441\u0430\u0440\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504226
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"73b9262abde0b8174958704f94f8b196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1226429511,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226429511,
+    "wof:lastmodified":1537660167,
+    "wof:name":"Karavansaray",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.19298,
+    48.26285,
+    72.19298,
+    48.26285
+],
+  "geometry": {"coordinates":[72.19298000000001,48.26285],"type":"Point"}
+}

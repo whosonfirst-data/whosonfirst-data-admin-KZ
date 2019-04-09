@@ -1,0 +1,75 @@
+{
+  "id": 1310287955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.75211,47.08376,82.75211,47.08376",
+    "geom:latitude":47.08376,
+    "geom:longitude":82.75211,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Predgornoe",
+    "gn:country_code":"KZ",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520123,
+    "gn:latitude":47.08376,
+    "gn:longitude":82.75211,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Predgornoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Predgornoe"
+    ],
+    "name:und_x_variant":[
+        "Podgorny",
+        "Podgornyy",
+        "Podgornoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520123
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7d43c75ff0ab4f48554046064f86db36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1310287955,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310287955,
+    "wof:lastmodified":1537659639,
+    "wof:name":"Predgornoe",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.75211,
+    47.08376,
+    82.75211,
+    47.08376
+],
+  "geometry": {"coordinates":[82.75211,47.08376],"type":"Point"}
+}

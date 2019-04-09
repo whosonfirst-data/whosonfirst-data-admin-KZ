@@ -1,0 +1,70 @@
+{
+  "id": 1260063897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.34785,40.80391,68.34785,40.80391",
+    "geom:latitude":40.80391,
+    "geom:longitude":68.34785,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Algabas",
+    "gn:country_code":"KZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535816,
+    "gn:latitude":40.80391,
+    "gn:longitude":68.34785,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Algabas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0433\u0430\u0431\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535816
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e7f14b3c8c543969474143195df616d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1260063897,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1260063897,
+    "wof:lastmodified":1537660002,
+    "wof:name":"Algabas",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.34785,
+    40.80391,
+    68.34785,
+    40.80391
+],
+  "geometry": {"coordinates":[68.34784999999999,40.80391],"type":"Point"}
+}

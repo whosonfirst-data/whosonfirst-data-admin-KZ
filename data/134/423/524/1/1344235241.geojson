@@ -1,0 +1,76 @@
+{
+  "id": 1344235241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.01506,51.452,78.01506,51.452",
+    "geom:latitude":51.452,
+    "geom:longitude":78.01506,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dongelek",
+    "gn:country_code":"KZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483553,
+    "gn:latitude":51.452,
+    "gn:longitude":78.01506,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Dongelek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "D\u00f6nggelek"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u04e9\u04a3\u0433\u0435\u043b\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u0433\u0435\u043b\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483553
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"261ea542356b507c2f0323115ddde39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785559,
+            "locality_id":1344235241,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1344235241,
+    "wof:lastmodified":1537660160,
+    "wof:name":"Dongelek",
+    "wof:parent_id":1108785559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.01505999999998,
+    51.452,
+    78.01505999999998,
+    51.452
+],
+  "geometry": {"coordinates":[78.01505999999998,51.452],"type":"Point"}
+}

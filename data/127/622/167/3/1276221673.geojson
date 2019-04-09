@@ -1,0 +1,73 @@
+{
+  "id": 1276221673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.28706,44.58923,50.28706,44.58923",
+    "geom:latitude":44.58923,
+    "geom:longitude":50.28706,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sad Dubskogo",
+    "gn:country_code":"KZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608525,
+    "gn:latitude":44.58923,
+    "gn:longitude":50.28706,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sad Dubskogo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sad Dubskogo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0434 \u0414\u0443\u0431\u0441\u043a\u043e\u0433\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608525
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ab5dafdbd01f2f6e4e8dc7c1331f6b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785341,
+            "locality_id":1276221673,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1276221673,
+    "wof:lastmodified":1537659375,
+    "wof:name":"Sad Dubskogo",
+    "wof:parent_id":1108785341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.28706,
+    44.58923,
+    50.28706,
+    44.58923
+],
+  "geometry": {"coordinates":[50.28706,44.58923],"type":"Point"}
+}

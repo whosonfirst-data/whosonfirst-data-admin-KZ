@@ -1,0 +1,73 @@
+{
+  "id": 1209694039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.06708,52.39136,77.06708,52.39136",
+    "geom:latitude":52.39136,
+    "geom:longitude":77.06708,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Muyaldy",
+    "gn:country_code":"KZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520802,
+    "gn:latitude":52.39136,
+    "gn:longitude":77.06708,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Muyaldy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Muyaldy"
+    ],
+    "name:kaz_x_preferred":[
+        "Moyyldy"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u043e\u0439\u044b\u043b\u0434\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u044f\u043b\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520802
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"00cb5c2fb68df3fb3a4373b7157b4f89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209694039
+        }
+    ],
+    "wof:id":1209694039,
+    "wof:lastmodified":1537659682,
+    "wof:name":"Muyaldy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.06708,
+    52.39136,
+    77.06708,
+    52.39136
+],
+  "geometry": {"coordinates":[77.06708,52.39136],"type":"Point"}
+}

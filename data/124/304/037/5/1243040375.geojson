@@ -1,0 +1,70 @@
+{
+  "id": 1243040375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.1,54.66667,70.1,54.66667",
+    "geom:latitude":54.66667,
+    "geom:longitude":70.1,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Uzynkul'",
+    "gn:country_code":"KZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517514,
+    "gn:latitude":54.66667,
+    "gn:longitude":70.1,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Uzynkul\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Uzynkul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517514
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6249e05c805de23ad9f23ae88f2dda0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1243040375,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243040375,
+    "wof:lastmodified":1537659527,
+    "wof:name":"Uzynkul'",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.1,
+    54.66667,
+    70.1,
+    54.66667
+],
+  "geometry": {"coordinates":[70.09999999999999,54.66667],"type":"Point"}
+}

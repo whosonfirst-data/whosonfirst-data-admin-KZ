@@ -1,0 +1,76 @@
+{
+  "id": 1343935941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.76401,52.42328,77.76401,52.42328",
+    "geom:latitude":52.42328,
+    "geom:longitude":77.76401,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Maraldy",
+    "gn:country_code":"KZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521121,
+    "gn:latitude":52.42328,
+    "gn:longitude":77.76401,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Maraldy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maraldy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u043b\u0434\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u043b\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521121
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"93aaae43ebc2e7f15e3bf774d7744279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1343935941,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343935941,
+    "wof:lastmodified":1537659697,
+    "wof:name":"Maraldy",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.76401,
+    52.42328,
+    77.76401,
+    52.42328
+],
+  "geometry": {"coordinates":[77.76401,52.42328],"type":"Point"}
+}

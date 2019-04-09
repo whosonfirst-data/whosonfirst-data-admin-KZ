@@ -1,0 +1,85 @@
+{
+  "id": 102012491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.274535,
+    "geom:bbox":"64.2965690428,54.3307290588,64.2981646725,54.3307495117",
+    "geom:latitude":54.330743,
+    "geom:longitude":64.297633,
+    "iso:country":"KZ",
+    "lbl:latitude":54.32704,
+    "lbl:longitude":64.30007,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uzynaghash"
+    ],
+    "name:kaz_x_preferred":[
+        "Uzynaghash"
+    ],
+    "name:kaz_x_variant":[
+        "\u04b0\u0437\u044b\u043d\u0430\u0493\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u0443\u043d\u0430\u0433\u0430\u0448"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u0437\u044b\u043d\u0430\u0433\u0430\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Uzynagash"
+    ],
+    "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
+    "qs:a1":"*\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "qs:a1r":"*",
+    "qs:adm0":"Russia",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"localadmin",
+    "qs:loc":"UZYNAGHASH",
+    "qs:pop":0,
+    "qs:source":"SUnknown",
+    "src:centroid_lbl":"geonames",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517539,
+        "gp:id":2018017
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4cbbd917007f8d52ff0701ff22fd6a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":102012491,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":102012491,
+    "wof:lastmodified":1501220164,
+    "wof:name":"Uzynaghash",
+    "wof:parent_id":85672879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.2965690428308,
+    54.33072905883612,
+    64.2981646724958,
+    54.33074951171875
+],
+  "geometry": {"coordinates":[[[64.2965690428308,54.33072905883612],[64.29816436767578,54.33074951171875],[64.2981646724958,54.33074946776063],[64.29816432,54.33074946338379],[64.2965690428308,54.33072905883612]]],"type":"Polygon"}
+}

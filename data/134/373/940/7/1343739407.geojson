@@ -1,0 +1,77 @@
+{
+  "id": 1343739407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.9104,50.7931,72.9104,50.7931",
+    "geom:latitude":50.7931,
+    "geom:longitude":72.9104,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Okol'noye",
+    "gn:country_code":"KZ",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520468,
+    "gn:latitude":50.7931,
+    "gn:longitude":72.9104,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Okol\u2019noye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Okol\u2019noe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u043a\u043e\u043b\u044c\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Okol\u2019noye",
+        "Okol\u2019nyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520468
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5b3a8d6aeffeb28e05ed7d78dbff91f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1343739407,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1343739407,
+    "wof:lastmodified":1537659659,
+    "wof:name":"Okol'noye",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.9104,
+    50.7931,
+    72.9104,
+    50.7931
+],
+  "geometry": {"coordinates":[72.9104,50.7931],"type":"Point"}
+}

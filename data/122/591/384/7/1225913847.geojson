@@ -1,0 +1,83 @@
+{
+  "id": 1225913847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.65344,54.04025,68.65344,54.04025",
+    "geom:latitude":54.04025,
+    "geom:longitude":68.65344,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Novouzenka",
+    "gn:country_code":"KZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520527,
+    "gn:latitude":54.04025,
+    "gn:longitude":68.65344,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Novouzenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novouzenka"
+    ],
+    "name:kaz_x_preferred":[
+        "Novo\u016bzenka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0443\u0437\u0435\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0443\u0437\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novouzenskiy",
+        "Novouzenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520527
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e8138c89217ce613ee87fa459df09683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785563,
+            "locality_id":1225913847,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1225913847,
+    "wof:lastmodified":1537659662,
+    "wof:name":"Novouzenka",
+    "wof:parent_id":1108785563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.65344,
+    54.04025,
+    68.65344,
+    54.04025
+],
+  "geometry": {"coordinates":[68.65344,54.04025],"type":"Point"}
+}

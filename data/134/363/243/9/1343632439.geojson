@@ -1,0 +1,77 @@
+{
+  "id": 1343632439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.50667,46.78333,60.50667,46.78333",
+    "geom:latitude":46.78333,
+    "geom:longitude":60.50667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Akespe",
+    "gn:country_code":"KZ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526838,
+    "gn:latitude":46.78333,
+    "gn:longitude":60.50667,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Akespe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0410\u049b\u0435\u0441\u043f\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0435\u0441\u043f\u0435"
+    ],
+    "name:und_x_variant":[
+        "Agispe",
+        "Aqespe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526838
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4f6f52e8a3f647a48058aac5b5e4281e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785633,
+            "locality_id":1343632439,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1343632439,
+    "wof:lastmodified":1537659927,
+    "wof:name":"Akespe",
+    "wof:parent_id":1108785633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.50666999999999,
+    46.78333,
+    60.50666999999999,
+    46.78333
+],
+  "geometry": {"coordinates":[60.50666999999999,46.78333],"type":"Point"}
+}

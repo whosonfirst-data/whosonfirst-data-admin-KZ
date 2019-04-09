@@ -1,0 +1,67 @@
+{
+  "id": 1259392663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.56667,49.86667,51.56667,49.86667",
+    "geom:latitude":49.86667,
+    "geom:longitude":51.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tama",
+    "gn:country_code":"KZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608105,
+    "gn:latitude":49.86667,
+    "gn:longitude":51.56667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Tama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608105
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0fbe5945e68840370b393a1c71a7c24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1259392663,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1259392663,
+    "wof:lastmodified":1536988134,
+    "wof:name":"Tama",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.56667,
+    49.86667,
+    51.56667,
+    49.86667
+],
+  "geometry": {"coordinates":[51.56667,49.86667],"type":"Point"}
+}

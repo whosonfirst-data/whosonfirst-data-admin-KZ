@@ -1,0 +1,67 @@
+{
+  "id": 1344144045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.63333,48.2,73.63333,48.2",
+    "geom:latitude":48.2,
+    "geom:longitude":73.63333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Chaltas",
+    "gn:country_code":"KZ",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524901,
+    "gn:latitude":48.2,
+    "gn:longitude":73.63333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Chaltas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524901
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"956ce1651c0922dd8df96b6a4d14cc53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1344144045,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1344144045,
+    "wof:lastmodified":1536755073,
+    "wof:name":"Chaltas",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.63333,
+    48.2,
+    73.63333,
+    48.2
+],
+  "geometry": {"coordinates":[73.63333,48.2],"type":"Point"}
+}

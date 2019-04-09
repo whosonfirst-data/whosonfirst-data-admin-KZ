@@ -1,0 +1,71 @@
+{
+  "id": 1276743305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.37839,48.84428,71.37839,48.84428",
+    "geom:latitude":48.84428,
+    "geom:longitude":71.37839,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taldybulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518566,
+    "gn:latitude":48.84428,
+    "gn:longitude":71.37839,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Taldybulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taldybulak",
+        "Taldybulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518566
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ce4682a4d8f1aeca37a14903185bb795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785597,
+            "locality_id":1276743305,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1276743305,
+    "wof:lastmodified":1537659566,
+    "wof:name":"Taldybulaq",
+    "wof:parent_id":1108785597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.37839,
+    48.84428,
+    71.37839,
+    48.84428
+],
+  "geometry": {"coordinates":[71.37839,48.84428],"type":"Point"}
+}

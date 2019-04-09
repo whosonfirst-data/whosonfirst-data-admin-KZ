@@ -1,0 +1,76 @@
+{
+  "id": 1226150749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.29524,51.71794,72.29524,51.71794",
+    "geom:latitude":51.71794,
+    "geom:longitude":72.29524,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novomarkovka",
+    "gn:country_code":"KZ",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520599,
+    "gn:latitude":51.71794,
+    "gn:longitude":72.29524,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Novomarkovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Novomarkovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u043e\u043c\u0430\u0440\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novomarkovskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520599
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"07b247f4823fc04ca9a940243d47928a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1226150749,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226150749,
+    "wof:lastmodified":1537659668,
+    "wof:name":"Novomarkovka",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.29524,
+    51.71794000000001,
+    72.29524,
+    51.71794000000001
+],
+  "geometry": {"coordinates":[72.29524000000001,51.71794000000001],"type":"Point"}
+}

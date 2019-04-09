@@ -1,0 +1,83 @@
+{
+  "id": 1344064641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.72815,53.13819,70.72815,53.13819",
+    "geom:latitude":53.13819,
+    "geom:longitude":70.72815,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Donskoe",
+    "gn:country_code":"KZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524557,
+    "gn:latitude":53.13819,
+    "gn:longitude":70.72815,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Donskoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Donskoy"
+    ],
+    "name:kaz_x_preferred":[
+        "Donskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u043e\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Donskoy",
+        "Donskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524557
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"241b4e0d71476660f64869288dc186f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785629,
+            "locality_id":1344064641,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1344064641,
+    "wof:lastmodified":1537659839,
+    "wof:name":"Donskoe",
+    "wof:parent_id":1108785629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.72815,
+    53.13819,
+    70.72815,
+    53.13819
+],
+  "geometry": {"coordinates":[70.72815,53.13819],"type":"Point"}
+}

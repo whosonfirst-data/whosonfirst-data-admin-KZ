@@ -1,0 +1,67 @@
+{
+  "id": 1360300279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.86667,51.0,69.86667,51.0",
+    "geom:latitude":51.0,
+    "geom:longitude":69.86667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Burevestnik",
+    "gn:country_code":"KZ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524990,
+    "gn:latitude":51.0,
+    "gn:longitude":69.86667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Burevestnik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524990
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8048e8c811c1cb4ad203baa0c1f830e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785503,
+            "locality_id":1360300279,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1360300279,
+    "wof:lastmodified":1536633762,
+    "wof:name":"Burevestnik",
+    "wof:parent_id":1108785503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.86667,
+    51.0,
+    69.86667,
+    51.0
+],
+  "geometry": {"coordinates":[69.86667,51.0],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1277156495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.61659,53.82629,62.61659,53.82629",
+    "geom:latitude":53.82629,
+    "geom:longitude":62.61659,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kostryakovka",
+    "gn:country_code":"KZ",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522145,
+    "gn:latitude":53.82629,
+    "gn:longitude":62.61659,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kostryakovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kostryakovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0440\u044f\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0440\u0438\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kostrikovskiy",
+        "Kostrikovka",
+        "Kostryakovskiy",
+        "Kostryakovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522145
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b91d0c9b95f797f4fffc1a6cd6920945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1277156495,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1277156495,
+    "wof:lastmodified":1537659745,
+    "wof:name":"Kostryakovka",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.61659,
+    53.82629,
+    62.61659,
+    53.82629
+],
+  "geometry": {"coordinates":[62.61659,53.82629],"type":"Point"}
+}

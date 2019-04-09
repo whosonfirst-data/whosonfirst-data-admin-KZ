@@ -1,0 +1,71 @@
+{
+  "id": 1209395145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.44194,47.87083,67.44194,47.87083",
+    "geom:latitude":47.87083,
+    "geom:longitude":67.44194,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhezqazghan",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516588,
+    "gn:latitude":47.87083,
+    "gn:longitude":67.44194,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zhezqazghan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhezqazghan"
+    ],
+    "name:und_x_variant":[
+        "Zhezkazgan",
+        "Jez-Kazgan",
+        "Dzhezkazgan",
+        "Jezgazgan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516588
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f5053cd8dff21dcb0bf859205b7bd6e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209395145
+        }
+    ],
+    "wof:id":1209395145,
+    "wof:lastmodified":1537659477,
+    "wof:name":"Zhezqazghan",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.44194,
+    47.87083,
+    67.44194,
+    47.87083
+],
+  "geometry": {"coordinates":[67.44194,47.87083],"type":"Point"}
+}

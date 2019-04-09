@@ -1,0 +1,70 @@
+{
+  "id": 1327404787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.91517,43.91299,67.91517,43.91299",
+    "geom:latitude":43.91299,
+    "geom:longitude":67.91517,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Taldysu",
+    "gn:country_code":"KZ",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518526,
+    "gn:latitude":43.91299,
+    "gn:longitude":67.91517,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Taldysu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0434\u044b\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518526
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f36858d68d1087eb2b02f6b078cb95a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1327404787,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1327404787,
+    "wof:lastmodified":1537659565,
+    "wof:name":"Taldysu",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.91516999999999,
+    43.91299,
+    67.91516999999999,
+    43.91299
+],
+  "geometry": {"coordinates":[67.91516999999999,43.91299],"type":"Point"}
+}

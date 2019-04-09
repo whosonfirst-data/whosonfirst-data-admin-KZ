@@ -1,0 +1,76 @@
+{
+  "id": 1293865085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.70715,51.44916,75.70715,51.44916",
+    "geom:latitude":51.44916,
+    "geom:longitude":75.70715,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ushkulyn",
+    "gn:country_code":"KZ",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413497,
+    "gn:latitude":51.44916,
+    "gn:longitude":75.70715,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Ushkulyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u00dcshqulyn"
+    ],
+    "name:kaz_x_variant":[
+        "\u04ae\u0448\u049b\u04b1\u043b\u044b\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0448\u043a\u0443\u043b\u044b\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413497
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a2b81e3bded5ff0f70b3cb9af7316c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1293865085,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1293865085,
+    "wof:lastmodified":1537660138,
+    "wof:name":"Ushkulyn",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.70715,
+    51.44916,
+    75.70715,
+    51.44916
+],
+  "geometry": {"coordinates":[75.70715,51.44916],"type":"Point"}
+}

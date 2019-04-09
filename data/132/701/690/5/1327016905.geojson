@@ -1,0 +1,73 @@
+{
+  "id": 1327016905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.39992,49.3372,75.39992,49.3372",
+    "geom:latitude":49.3372,
+    "geom:longitude":75.39992,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Komsomolshy",
+    "gn:country_code":"KZ",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11408233,
+    "gn:latitude":49.3372,
+    "gn:longitude":75.39992,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Komsomolshy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Komsomolshy"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u0448\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11408233
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0fd55a7137c4d9b79c672f0136f11da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1327016905,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1327016905,
+    "wof:lastmodified":1537660133,
+    "wof:name":"Komsomolshy",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.39992,
+    49.3372,
+    75.39992,
+    49.3372
+],
+  "geometry": {"coordinates":[75.39991999999999,49.3372],"type":"Point"}
+}

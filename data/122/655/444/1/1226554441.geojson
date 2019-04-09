@@ -1,0 +1,67 @@
+{
+  "id": 1226554441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.98333,49.38333,51.98333,49.38333",
+    "geom:latitude":49.38333,
+    "geom:longitude":51.98333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kudiyar",
+    "gn:country_code":"KZ",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609147,
+    "gn:latitude":49.38333,
+    "gn:longitude":51.98333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kudiyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609147
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c284500d1b902c3a4b5c71f4f3788a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1226554441,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1226554441,
+    "wof:lastmodified":1536984626,
+    "wof:name":"Kudiyar",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.98333,
+    49.38333,
+    51.98333,
+    49.38333
+],
+  "geometry": {"coordinates":[51.98333,49.38333],"type":"Point"}
+}

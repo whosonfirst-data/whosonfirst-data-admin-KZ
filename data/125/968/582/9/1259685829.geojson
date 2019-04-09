@@ -1,0 +1,81 @@
+{
+  "id": 1259685829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.83527,52.78745,71.83527,52.78745",
+    "geom:latitude":52.78745,
+    "geom:longitude":71.83527,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Valikhanovo",
+    "gn:country_code":"KZ",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517505,
+    "gn:latitude":52.78745,
+    "gn:longitude":71.83527,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Valikhanovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u016a\u00e4l\u012bkhanov"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0423\u04d9\u043b\u0438\u0445\u0430\u043d\u043e\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0438\u0445\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Avangard",
+        "Valikhanovo",
+        "\u016a\u00e4l\u012bkhanov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517505
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3e5d1ed33cb94b1b667fe23ffb9bd6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1259685829,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259685829,
+    "wof:lastmodified":1537659527,
+    "wof:name":"Valikhanovo",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.83527,
+    52.78745,
+    71.83527,
+    52.78745
+],
+  "geometry": {"coordinates":[71.83526999999999,52.78745],"type":"Point"}
+}

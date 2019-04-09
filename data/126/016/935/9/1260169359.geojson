@@ -1,0 +1,79 @@
+{
+  "id": 1260169359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.88249,53.60242,74.88249,53.60242",
+    "geom:latitude":53.60242,
+    "geom:longitude":74.88249,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zharbulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10840063,
+    "gn:latitude":53.60242,
+    "gn:longitude":74.88249,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Zharbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zharbulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u0440\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0440\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zharbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10840063
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c90306b83e84a8bed0462c3a03bca55b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1260169359,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1260169359,
+    "wof:lastmodified":1537660065,
+    "wof:name":"Zharbulaq",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.88249,
+    53.60242,
+    74.88249,
+    53.60242
+],
+  "geometry": {"coordinates":[74.88249,53.60242],"type":"Point"}
+}

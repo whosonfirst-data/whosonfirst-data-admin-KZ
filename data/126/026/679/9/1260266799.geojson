@@ -1,0 +1,79 @@
+{
+  "id": 1260266799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.27918,43.44196,69.27918,43.44196",
+    "geom:latitude":43.44196,
+    "geom:longitude":69.27918,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Taskomirsay",
+    "gn:country_code":"KZ",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518404,
+    "gn:latitude":43.44196,
+    "gn:longitude":69.27918,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Taskomirsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Task\u00f6mirsay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0430\u0441\u043a\u04e9\u043c\u0456\u0440\u0441\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0441\u043a\u043e\u043c\u0438\u0440\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Taskumyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518404
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3f6febc2af0d581944ddd948d02b689b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785583,
+            "locality_id":1260266799,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1260266799,
+    "wof:lastmodified":1537659562,
+    "wof:name":"Taskomirsay",
+    "wof:parent_id":1108785583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.27918000000001,
+    43.44196,
+    69.27918000000001,
+    43.44196
+],
+  "geometry": {"coordinates":[69.27918000000001,43.44196],"type":"Point"}
+}

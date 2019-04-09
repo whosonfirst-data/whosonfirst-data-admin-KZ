@@ -1,0 +1,70 @@
+{
+  "id": 1343639775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.19386,52.66361,76.19386,52.66361",
+    "geom:latitude":52.66361,
+    "geom:longitude":76.19386,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zherendyk",
+    "gn:country_code":"KZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10806719,
+    "gn:latitude":52.66361,
+    "gn:longitude":76.19386,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Zherendyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u0440\u0435\u043d\u0434\u044b\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10806719
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6fff18bb6de30724fd6d270d749d4130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785553,
+            "locality_id":1343639775,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343639775,
+    "wof:lastmodified":1537660061,
+    "wof:name":"Zherendyk",
+    "wof:parent_id":1108785553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.19386,
+    52.66361,
+    76.19386,
+    52.66361
+],
+  "geometry": {"coordinates":[76.19386,52.66361],"type":"Point"}
+}

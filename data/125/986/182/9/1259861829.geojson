@@ -1,0 +1,83 @@
+{
+  "id": 1259861829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.95716,53.00183,67.95716,53.00183",
+    "geom:latitude":53.00183,
+    "geom:longitude":67.95716,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Naslednikovka",
+    "gn:country_code":"KZ",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535442,
+    "gn:latitude":53.00183,
+    "gn:longitude":67.95716,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Naslednikovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Naslednikovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Nasledn\u012bkovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u0430\u0441\u043b\u0435\u0434\u043d\u0438\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0441\u043b\u0435\u0434\u043d\u0438\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sazhenka",
+        "Naslednikovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535442
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"98b0ed263b00e619c6cbe6c4ac6fb216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1259861829,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259861829,
+    "wof:lastmodified":1537659994,
+    "wof:name":"Naslednikovka",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.95716,
+    53.00183000000001,
+    67.95716,
+    53.00183000000001
+],
+  "geometry": {"coordinates":[67.95716,53.00183000000001],"type":"Point"}
+}

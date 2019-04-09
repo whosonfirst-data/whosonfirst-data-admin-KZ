@@ -1,0 +1,71 @@
+{
+  "id": 1293116883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.86667,43.13333,75.86667,43.13333",
+    "geom:latitude":43.13333,
+    "geom:longitude":75.86667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dzhiren'-Aygyr",
+    "gn:country_code":"KZ",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524359,
+    "gn:latitude":43.13333,
+    "gn:longitude":75.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dzhiren\u2019-Aygyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dshiren-Aygyr",
+        "Dzhiren\u2019-Aygyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524359
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8509223e23fca7e3000c4d24cda8e419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1293116883,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293116883,
+    "wof:lastmodified":1537659832,
+    "wof:name":"Dzhiren'-Aygyr",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.86667,
+    43.13333,
+    75.86667,
+    43.13333
+],
+  "geometry": {"coordinates":[75.86667,43.13333],"type":"Point"}
+}

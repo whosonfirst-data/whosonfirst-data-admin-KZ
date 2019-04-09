@@ -1,0 +1,73 @@
+{
+  "id": 1242980947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.1475,50.23982,54.1475,50.23982",
+    "geom:latitude":50.23982,
+    "geom:longitude":54.1475,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kandykty",
+    "gn:country_code":"KZ",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609699,
+    "gn:latitude":50.23982,
+    "gn:longitude":54.1475,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kandykty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kandykty"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0434\u044b\u043a\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609699
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"38529e5dbe3435ed2d711f7fd749bd48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785711,
+            "locality_id":1242980947,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1242980947,
+    "wof:lastmodified":1537659420,
+    "wof:name":"Kandykty",
+    "wof:parent_id":1108785711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.1475,
+    50.23982,
+    54.1475,
+    50.23982
+],
+  "geometry": {"coordinates":[54.1475,50.23982],"type":"Point"}
+}

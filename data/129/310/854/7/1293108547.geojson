@@ -1,0 +1,73 @@
+{
+  "id": 1293108547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.66667,48.75,47.66667,48.75",
+    "geom:latitude":48.75,
+    "geom:longitude":47.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Setkali",
+    "gn:country_code":"KZ",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608380,
+    "gn:latitude":48.75,
+    "gn:longitude":47.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Setkali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Setkali"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0439\u0442\u043a\u0430\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608380
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"90415eeb9e02c653020d7722d40ba619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785701,
+            "locality_id":1293108547,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293108547,
+    "wof:lastmodified":1537659369,
+    "wof:name":"Setkali",
+    "wof:parent_id":1108785701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.66667,
+    48.75,
+    47.66667,
+    48.75
+],
+  "geometry": {"coordinates":[47.66667,48.75],"type":"Point"}
+}

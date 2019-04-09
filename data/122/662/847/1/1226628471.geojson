@@ -1,0 +1,80 @@
+{
+  "id": 1226628471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.78212,54.18901,71.78212,54.18901",
+    "geom:latitude":54.18901,
+    "geom:longitude":71.78212,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kommunizm",
+    "gn:country_code":"KZ",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531227,
+    "gn:latitude":54.18901,
+    "gn:longitude":71.78212,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Kommunizm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Komm\u016bn\u012bzm"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u043c\u043c\u0443\u043d\u0438\u0437\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u043c\u0443\u043d\u0438\u0437\u043c"
+    ],
+    "name:und_x_variant":[
+        "Komm\u016bn\u012bzm",
+        "Kommunizm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531227
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2797164791d55dcf7237a71f33d63a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1226628471,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226628471,
+    "wof:lastmodified":1537659956,
+    "wof:name":"Kommunizm",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.78211999999998,
+    54.18901,
+    71.78211999999998,
+    54.18901
+],
+  "geometry": {"coordinates":[71.78211999999998,54.18901],"type":"Point"}
+}

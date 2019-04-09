@@ -1,0 +1,77 @@
+{
+  "id": 1210027895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.15127,50.88249,72.15127,50.88249",
+    "geom:latitude":50.88249,
+    "geom:longitude":72.15127,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Izhevskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523691,
+    "gn:latitude":50.88249,
+    "gn:longitude":72.15127,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Izhevskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u012azhevskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0418\u0436\u0435\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Izhevskiy",
+        "Izhevskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523691
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4fc4440a414f719ae9749f74f4eadba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785443,
+            "locality_id":1210027895,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1210027895,
+    "wof:lastmodified":1537659803,
+    "wof:name":"Izhevskoye",
+    "wof:parent_id":1108785443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.15127,
+    50.88249,
+    72.15127,
+    50.88249
+],
+  "geometry": {"coordinates":[72.15127,50.88249],"type":"Point"}
+}

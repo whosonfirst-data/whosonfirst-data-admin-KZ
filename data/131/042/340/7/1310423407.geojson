@@ -1,0 +1,81 @@
+{
+  "id": 1310423407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.36944,43.54031,78.36944,43.54031",
+    "geom:latitude":43.54031,
+    "geom:longitude":78.36944,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shamsudin",
+    "gn:country_code":"KZ",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519291,
+    "gn:latitude":43.54031,
+    "gn:longitude":78.36944,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Shamsudin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Oktyabr\u2019skoye"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043c\u0441\u0443\u0434\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Shamshudin",
+        "Shamaudin",
+        "Shamsudin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519291
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"30fd886d4569b09d3637f19c4d0498d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1310423407,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1310423407,
+    "wof:lastmodified":1537659600,
+    "wof:name":"Shamsudin",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.36944,
+    43.54031,
+    78.36944,
+    43.54031
+],
+  "geometry": {"coordinates":[78.36944,43.54031],"type":"Point"}
+}

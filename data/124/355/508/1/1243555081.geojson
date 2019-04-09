@@ -1,0 +1,67 @@
+{
+  "id": 1243555081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.26667,48.23333,61.26667,48.23333",
+    "geom:latitude":48.23333,
+    "geom:longitude":61.26667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ak-Say",
+    "gn:country_code":"KZ",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526710,
+    "gn:latitude":48.23333,
+    "gn:longitude":61.26667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Ak-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526710
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"235881bd39c290a2d336ec9601db93be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785541,
+            "locality_id":1243555081,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1243555081,
+    "wof:lastmodified":1536648654,
+    "wof:name":"Ak-Say",
+    "wof:parent_id":1108785541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.26667,
+    48.23333,
+    61.26667,
+    48.23333
+],
+  "geometry": {"coordinates":[61.26667,48.23333],"type":"Point"}
+}

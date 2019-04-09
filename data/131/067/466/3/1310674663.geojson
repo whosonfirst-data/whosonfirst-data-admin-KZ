@@ -1,0 +1,72 @@
+{
+  "id": 1310674663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.08778,46.26528,60.08778,46.26528",
+    "geom:latitude":46.26528,
+    "geom:longitude":60.08778,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Aqbasty",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526887,
+    "gn:latitude":46.26528,
+    "gn:longitude":60.08778,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Aqbasty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akbasty",
+        "Aqbasty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526887
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"944874b67ff1d8656ff8719810480765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785633,
+            "locality_id":1310674663,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1310674663,
+    "wof:lastmodified":1537659928,
+    "wof:name":"Aqbasty",
+    "wof:parent_id":1108785633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.08778,
+    46.26528,
+    60.08778,
+    46.26528
+],
+  "geometry": {"coordinates":[60.08778,46.26528],"type":"Point"}
+}

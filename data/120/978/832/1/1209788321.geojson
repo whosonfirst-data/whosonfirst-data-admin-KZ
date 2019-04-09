@@ -1,0 +1,76 @@
+{
+  "id": 1209788321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.23631,54.29942,72.23631,54.29942",
+    "geom:latitude":54.29942,
+    "geom:longitude":72.23631,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Aksary",
+    "gn:country_code":"KZ",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526714,
+    "gn:latitude":54.29942,
+    "gn:longitude":72.23631,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Aksary",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aqsary"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u049b\u0441\u0430\u0440\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0441\u0430\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526714
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ba1b4db98fe842f0679d05427a496d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1209788321,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1209788321,
+    "wof:lastmodified":1537659923,
+    "wof:name":"Aksary",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.23631,
+    54.29942,
+    72.23631,
+    54.29942
+],
+  "geometry": {"coordinates":[72.23631,54.29942],"type":"Point"}
+}

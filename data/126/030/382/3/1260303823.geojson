@@ -1,0 +1,73 @@
+{
+  "id": 1260303823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.73333,54.05,65.73333,54.05",
+    "geom:latitude":54.05,
+    "geom:longitude":65.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sretenka",
+    "gn:country_code":"KZ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518815,
+    "gn:latitude":54.05,
+    "gn:longitude":65.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sretenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sretenka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0440\u0435\u0442\u0435\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518815
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"405aa99af3e59371d23eeb40a64ddb6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1260303823,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1260303823,
+    "wof:lastmodified":1537659577,
+    "wof:name":"Sretenka",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.73333000000001,
+    54.05,
+    65.73333000000001,
+    54.05
+],
+  "geometry": {"coordinates":[65.73333000000001,54.05],"type":"Point"}
+}

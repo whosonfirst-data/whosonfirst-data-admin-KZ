@@ -1,0 +1,76 @@
+{
+  "id": 1225917451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.22337,49.60223,84.22337,49.60223",
+    "geom:latitude":49.60223,
+    "geom:longitude":84.22337,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bedarevka",
+    "gn:country_code":"KZ",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534606,
+    "gn:latitude":49.60223,
+    "gn:longitude":84.22337,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Bedarevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bedarevka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0434\u0430\u0440\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0434\u0430\u0440\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534606
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5218b8b927a7c1139f4f61e625abf931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1225917451,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1225917451,
+    "wof:lastmodified":1537659984,
+    "wof:name":"Bedarevka",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.22336999999997,
+    49.60223,
+    84.22336999999997,
+    49.60223
+],
+  "geometry": {"coordinates":[84.22336999999997,49.60223],"type":"Point"}
+}

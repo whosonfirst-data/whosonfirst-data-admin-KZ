@@ -1,0 +1,81 @@
+{
+  "id": 1259565469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.54252,53.53319,71.54252,53.53319",
+    "geom:latitude":53.53319,
+    "geom:longitude":71.54252,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Leningradskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521374,
+    "gn:latitude":53.53319,
+    "gn:longitude":71.54252,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Leningradskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Len\u012bngradskoe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Leningradskiy",
+        "Leningradskoye",
+        "Len\u012bngradskoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521374
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bbc970d97124414b521e305eafae1cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1259565469,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259565469,
+    "wof:lastmodified":1537659712,
+    "wof:name":"Leningradskoye",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.54252,
+    53.53319000000001,
+    71.54252,
+    53.53319000000001
+],
+  "geometry": {"coordinates":[71.54252,53.53319000000001],"type":"Point"}
+}

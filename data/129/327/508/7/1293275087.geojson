@@ -1,0 +1,73 @@
+{
+  "id": 1293275087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.53485,50.54038,82.53485,50.54038",
+    "geom:latitude":50.54038,
+    "geom:longitude":82.53485,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bol'shaya Yarovka",
+    "gn:country_code":"KZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510197,
+    "gn:latitude":50.54038,
+    "gn:longitude":82.53485,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Bol\u2019shaya Yarovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bol\u2019shaya Yarovka"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u042f\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510197
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e33518692cff3af4935b3b10af89a38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785611,
+            "locality_id":1293275087,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293275087,
+    "wof:lastmodified":1537660178,
+    "wof:name":"Bol'shaya Yarovka",
+    "wof:parent_id":1108785611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.53485,
+    50.54038,
+    82.53485,
+    50.54038
+],
+  "geometry": {"coordinates":[82.53485000000001,50.54038],"type":"Point"}
+}

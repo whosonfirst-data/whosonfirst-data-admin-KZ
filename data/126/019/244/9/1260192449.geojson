@@ -1,0 +1,70 @@
+{
+  "id": 1260192449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.27842,43.03764,80.27842,43.03764",
+    "geom:latitude":43.03764,
+    "geom:longitude":80.27842,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yesekartkan",
+    "gn:country_code":"KZ",
+    "gn:dem":2219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517179,
+    "gn:latitude":43.03764,
+    "gn:longitude":80.27842,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Yesekartkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0415\u0441\u0435\u043a\u0430\u0440\u0442\u043a\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517179
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"42a57870c245d1c22b6417416747a948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1260192449,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1260192449,
+    "wof:lastmodified":1537659504,
+    "wof:name":"Yesekartkan",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.27842,
+    43.03764,
+    80.27842,
+    43.03764
+],
+  "geometry": {"coordinates":[80.27842,43.03764],"type":"Point"}
+}

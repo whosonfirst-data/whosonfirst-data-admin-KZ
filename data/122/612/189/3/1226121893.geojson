@@ -1,0 +1,83 @@
+{
+  "id": 1226121893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.76923,54.49951,65.76923,54.49951",
+    "geom:latitude":54.49951,
+    "geom:longitude":65.76923,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Presnogor'kovka",
+    "gn:country_code":"KZ",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520055,
+    "gn:latitude":54.49951,
+    "gn:longitude":65.76923,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Presnogor\u2019kovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Presnogor'kovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Presnogor\u2019kovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u0440\u0435\u0441\u043d\u043e\u0433\u043e\u0440\u044c\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u043d\u043e\u0433\u043e\u0440\u044c\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Presnogor\u2019kovskiy",
+        "Presnegor\u2019kovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520055
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7ff4ac9fc31e1604a1cd1f59cf9d50db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1226121893,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226121893,
+    "wof:lastmodified":1537659634,
+    "wof:name":"Presnogor'kovka",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.76923000000001,
+    54.49951,
+    65.76923000000001,
+    54.49951
+],
+  "geometry": {"coordinates":[65.76923000000001,54.49951],"type":"Point"}
+}

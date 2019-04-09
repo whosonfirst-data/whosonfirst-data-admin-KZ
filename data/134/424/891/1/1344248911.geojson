@@ -1,0 +1,77 @@
+{
+  "id": 1344248911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.42841,49.56222,49.42841,49.56222",
+    "geom:latitude":49.56222,
+    "geom:longitude":49.42841,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kumekshi",
+    "gn:country_code":"KZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609324,
+    "gn:latitude":49.56222,
+    "gn:longitude":49.42841,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kumekshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kumekshi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c\u0435\u043a\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Komekshi",
+        "Kumekshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609324
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e9673bd4e026fc8c35a7d47c08cc8370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1344248911,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1344248911,
+    "wof:lastmodified":1537659408,
+    "wof:name":"Kumekshi",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.42841,
+    49.56222,
+    49.42841,
+    49.56222
+],
+  "geometry": {"coordinates":[49.42841,49.56222],"type":"Point"}
+}

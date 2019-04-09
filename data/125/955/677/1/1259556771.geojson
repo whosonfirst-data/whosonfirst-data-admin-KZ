@@ -1,0 +1,67 @@
+{
+  "id": 1259556771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.44322,49.63067,83.44322,49.63067",
+    "geom:latitude":49.63067,
+    "geom:longitude":83.44322,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Goluboy Zaliv",
+    "gn:country_code":"KZ",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11287943,
+    "gn:latitude":49.63067,
+    "gn:longitude":83.44322,
+    "gn:modification_date":"2016-11-16",
+    "gn:name":"Goluboy Zaliv",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11287943
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f1b1681bd6372cf626d9b82bcc9b970b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1259556771,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259556771,
+    "wof:lastmodified":1536753420,
+    "wof:name":"Goluboy Zaliv",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.44322,
+    49.63067,
+    83.44322,
+    49.63067
+],
+  "geometry": {"coordinates":[83.44322,49.63067],"type":"Point"}
+}

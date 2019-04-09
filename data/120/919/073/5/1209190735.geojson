@@ -1,0 +1,64 @@
+{
+  "id": 1209190735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.58351,53.45979,65.58351,53.45979",
+    "geom:latitude":53.45979,
+    "geom:longitude":65.58351,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kudukchilik",
+    "gn:country_code":"KZ",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507757,
+    "gn:latitude":53.45979,
+    "gn:longitude":65.58351,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kudukchilik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0434\u0443\u043a\u0447\u0438\u043b\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507757
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f4129c5ec15de2cdb09aeba5f9697433",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209190735
+        }
+    ],
+    "wof:id":1209190735,
+    "wof:lastmodified":1537660172,
+    "wof:name":"Kudukchilik",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.58351,
+    53.45979000000001,
+    65.58351,
+    53.45979000000001
+],
+  "geometry": {"coordinates":[65.58351,53.45979000000001],"type":"Point"}
+}

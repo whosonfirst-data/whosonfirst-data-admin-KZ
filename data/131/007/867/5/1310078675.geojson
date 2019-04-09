@@ -1,0 +1,77 @@
+{
+  "id": 1310078675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.00835,47.02784,81.00835,47.02784",
+    "geom:latitude":47.02784,
+    "geom:longitude":81.00835,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tesbaqan",
+    "gn:country_code":"KZ",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518176,
+    "gn:latitude":47.02784,
+    "gn:longitude":81.00835,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Tesbaqan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Tesbaqan"
+    ],
+    "name:kaz_x_variant":[
+        "Tesipakkan"
+    ],
+    "name:und_x_variant":[
+        "Ters-Bakanskiy",
+        "Tespakan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518176
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fc140771839fdb672891499c7a217e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1310078675,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310078675,
+    "wof:lastmodified":1537659554,
+    "wof:name":"Tesbaqan",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.00835,
+    47.02784000000001,
+    81.00835,
+    47.02784000000001
+],
+  "geometry": {"coordinates":[81.00834999999999,47.02784000000001],"type":"Point"}
+}

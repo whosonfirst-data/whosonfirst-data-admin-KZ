@@ -1,0 +1,84 @@
+{
+  "id": 1327321861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.84597,53.55833,73.84597,53.55833",
+    "geom:latitude":53.55833,
+    "geom:longitude":73.84597,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Amangeldi",
+    "gn:country_code":"KZ",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532828,
+    "gn:latitude":53.55833,
+    "gn:longitude":73.84597,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Amangeldi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amangeldi"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u0434\u0456"
+    ],
+    "name:kaz_x_variant":[
+        "Amankeldi",
+        "\u0410\u043c\u0430\u043d\u043a\u0435\u043b\u0434\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u044c\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Amangel\u2019dy",
+        "Amangeldi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532828
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f825b90bb6486fb0b32426e7d073ee20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1327321861,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1327321861,
+    "wof:lastmodified":1537659973,
+    "wof:name":"Amangeldi",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.84597,
+    53.55833000000001,
+    73.84597,
+    53.55833000000001
+],
+  "geometry": {"coordinates":[73.84596999999999,53.55833000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343968157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.7324,47.48535,83.7324,47.48535",
+    "geom:latitude":47.48535,
+    "geom:longitude":83.7324,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhetiaral",
+    "gn:country_code":"KZ",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516603,
+    "gn:latitude":47.48535,
+    "gn:longitude":83.7324,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zhetiaral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komsomol",
+        "Zhetiaral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516603
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d594d024cf38bf8ec9113e9779e972a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785469,
+            "locality_id":1343968157,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343968157,
+    "wof:lastmodified":1537659477,
+    "wof:name":"Zhetiaral",
+    "wof:parent_id":1108785469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.7324,
+    47.48535,
+    83.7324,
+    47.48535
+],
+  "geometry": {"coordinates":[83.7324,47.48535],"type":"Point"}
+}

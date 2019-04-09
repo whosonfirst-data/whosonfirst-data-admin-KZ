@@ -1,0 +1,71 @@
+{
+  "id": 1209739515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.66667,50.5,59.66667,50.5",
+    "geom:latitude":50.5,
+    "geom:longitude":59.66667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Uimshil",
+    "gn:country_code":"KZ",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607865,
+    "gn:latitude":50.5,
+    "gn:longitude":59.66667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Uimshil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uymshil",
+        "Uimshil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607865
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3ab5a448d83abfb24c474f9215046103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1209739515,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1209739515,
+    "wof:lastmodified":1537659353,
+    "wof:name":"Uimshil",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.66667,
+    50.5,
+    59.66667,
+    50.5
+],
+  "geometry": {"coordinates":[59.66667,50.5],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226731913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.08689,54.60949,68.08689,54.60949",
+    "geom:latitude":54.60949,
+    "geom:longitude":68.08689,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bekseit",
+    "gn:country_code":"KZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525540,
+    "gn:latitude":54.60949,
+    "gn:longitude":68.08689,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Bekseit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bekseit"
+    ],
+    "name:kaz_x_preferred":[
+        "Bekseyit"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u043a\u0441\u0435\u0439\u0456\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043a\u0441\u0435\u0438\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525540
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b6887ec08bffe43ed2ebcab2d84cec0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785359,
+            "locality_id":1226731913,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226731913,
+    "wof:lastmodified":1537659880,
+    "wof:name":"Bekseit",
+    "wof:parent_id":1108785359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.08689,
+    54.60949,
+    68.08689,
+    54.60949
+],
+  "geometry": {"coordinates":[68.08689,54.60949],"type":"Point"}
+}

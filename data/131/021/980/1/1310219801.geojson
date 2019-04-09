@@ -1,0 +1,67 @@
+{
+  "id": 1310219801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.93011,51.36737,78.93011,51.36737",
+    "geom:latitude":51.36737,
+    "geom:longitude":78.93011,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ak-Tumsuk",
+    "gn:country_code":"KZ",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526565,
+    "gn:latitude":51.36737,
+    "gn:longitude":78.93011,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ak-Tumsuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526565
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"375f5c1d913804dcadbd79d679b5a3f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785639,
+            "locality_id":1310219801,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310219801,
+    "wof:lastmodified":1536830578,
+    "wof:name":"Ak-Tumsuk",
+    "wof:parent_id":1108785639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.93011,
+    51.36737,
+    78.93011,
+    51.36737
+],
+  "geometry": {"coordinates":[78.93011,51.36737],"type":"Point"}
+}

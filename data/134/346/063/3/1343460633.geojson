@@ -1,0 +1,79 @@
+{
+  "id": 1343460633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.81135,52.10588,66.81135,52.10588",
+    "geom:latitude":52.10588,
+    "geom:longitude":66.81135,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Razdol'nyy",
+    "gn:country_code":"KZ",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540415,
+    "gn:latitude":52.10588,
+    "gn:longitude":66.81135,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Razdol\u2019nyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Razdol'nyy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0437\u0434\u043e\u043b\u044c\u043d\u044b\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0434\u043e\u043b\u044c\u043d\u044b\u0439"
+    ],
+    "name:rus_x_variant":[
+        "Razdol\u2019nyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540415
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8e029abfc71bbc52c06e050d094cb143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785621,
+            "locality_id":1343460633,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343460633,
+    "wof:lastmodified":1537660032,
+    "wof:name":"Razdol'nyy",
+    "wof:parent_id":1108785621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.81135,
+    52.10588,
+    66.81135,
+    52.10588
+],
+  "geometry": {"coordinates":[66.81135,52.10588],"type":"Point"}
+}

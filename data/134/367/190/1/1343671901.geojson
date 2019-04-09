@@ -1,0 +1,78 @@
+{
+  "id": 1343671901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.87422,48.87545,83.87422,48.87545",
+    "geom:latitude":48.87545,
+    "geom:longitude":83.87422,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Qarabulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519944,
+    "gn:latitude":48.87545,
+    "gn:longitude":83.87422,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Qarabulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qarabulaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0441\u043e\u043a\u043e\u0433\u043e\u0440\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vysokogorskiy",
+        "Vysokogorka",
+        "Qarabulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519944
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0fb803b7a3b422cb10909b3127c544b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1343671901,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343671901,
+    "wof:lastmodified":1537659626,
+    "wof:name":"Qarabulaq",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.87422,
+    48.87545,
+    83.87422,
+    48.87545
+],
+  "geometry": {"coordinates":[83.87421999999999,48.87545],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243154893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.25032,47.02393,82.25032,47.02393",
+    "geom:latitude":47.02393,
+    "geom:longitude":82.25032,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qyzylbulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520148,
+    "gn:latitude":47.02393,
+    "gn:longitude":82.25032,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Qyzylbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyzylbulaq"
+    ],
+    "name:und_x_variant":[
+        "Petrovskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520148
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d6d95dd377ff04b15d53f492e3126d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1243154893,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243154893,
+    "wof:lastmodified":1537659640,
+    "wof:name":"Qyzylbulaq",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.25032,
+    47.02393,
+    82.25032,
+    47.02393
+],
+  "geometry": {"coordinates":[82.25032,47.02393],"type":"Point"}
+}

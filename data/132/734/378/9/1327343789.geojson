@@ -1,0 +1,67 @@
+{
+  "id": 1327343789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.85,49.51667,46.85,49.51667",
+    "geom:latitude":49.51667,
+    "geom:longitude":46.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhumasentov",
+    "gn:country_code":"KZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607514,
+    "gn:latitude":49.51667,
+    "gn:longitude":46.85,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Zhumasentov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607514
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"59aa3ace7f16430b22189768f1f11b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785327,
+            "locality_id":1327343789,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1327343789,
+    "wof:lastmodified":1536808330,
+    "wof:name":"Zhumasentov",
+    "wof:parent_id":1108785327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.85,
+    49.51667,
+    46.85,
+    49.51667
+],
+  "geometry": {"coordinates":[46.85,49.51667],"type":"Point"}
+}

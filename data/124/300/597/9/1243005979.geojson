@@ -1,0 +1,81 @@
+{
+  "id": 1243005979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.96161,50.85407,61.96161,50.85407",
+    "geom:latitude":50.85407,
+    "geom:longitude":61.96161,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhangadauir",
+    "gn:country_code":"KZ",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519317,
+    "gn:latitude":50.85407,
+    "gn:longitude":61.96161,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Zhangad\u00e4\u016bir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shalbar"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0430\u04a3\u0430\u0434\u04d9\u0443\u0456\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0434\u0430\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Zhanadeur",
+        "Shalbar",
+        "Zhangad\u00e4\u016bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519317
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a6fea17b6e6d970de32835c137cb1b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1243005979,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1243005979,
+    "wof:lastmodified":1537659601,
+    "wof:name":"Zhangadauir",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.96161,
+    50.85407,
+    61.96161,
+    50.85407
+],
+  "geometry": {"coordinates":[61.96161,50.85407],"type":"Point"}
+}

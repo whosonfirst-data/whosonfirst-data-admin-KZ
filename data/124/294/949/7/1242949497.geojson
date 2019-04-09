@@ -1,0 +1,80 @@
+{
+  "id": 1242949497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.9477,49.95457,64.9477,49.95457",
+    "geom:latitude":49.95457,
+    "geom:longitude":64.9477,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Alakol",
+    "gn:country_code":"KZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516868,
+    "gn:latitude":49.95457,
+    "gn:longitude":64.9477,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Alak\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Alakol'"
+    ],
+    "name:kaz_x_preferred":[
+        "Alak\u00f6l"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Zhanaiyum",
+        "Alakol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516868
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"df85de73bffb7360b550be513065a1d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1242949497,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1242949497,
+    "wof:lastmodified":1537659489,
+    "wof:name":"Alakol",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.9477,
+    49.95457,
+    64.9477,
+    49.95457
+],
+  "geometry": {"coordinates":[64.9477,49.95457],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310183439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.39606,53.51543,77.39606,53.51543",
+    "geom:latitude":53.51543,
+    "geom:longitude":77.39606,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Karatay",
+    "gn:country_code":"KZ",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523090,
+    "gn:latitude":53.51543,
+    "gn:longitude":77.39606,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Karatay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karatay"
+    ],
+    "name:kaz_x_preferred":[
+        "Qaratay"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0442\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0442\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523090
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4802f38f62036d6b391f9dbed0c49850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785351,
+            "locality_id":1310183439,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310183439,
+    "wof:lastmodified":1537659784,
+    "wof:name":"Karatay",
+    "wof:parent_id":1108785351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.39605999999998,
+    53.51543,
+    77.39605999999998,
+    53.51543
+],
+  "geometry": {"coordinates":[77.39605999999998,53.51543],"type":"Point"}
+}

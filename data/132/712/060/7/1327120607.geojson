@@ -1,0 +1,80 @@
+{
+  "id": 1327120607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.10157,53.89636,64.10157,53.89636",
+    "geom:latitude":53.89636,
+    "geom:longitude":64.10157,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dolbushka",
+    "gn:country_code":"KZ",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524572,
+    "gn:latitude":53.89636,
+    "gn:longitude":64.10157,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Dolbushka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dolbushka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u0431\u0443\u0448\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0431\u0443\u0448\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dolbushinskiy",
+        "Dolbushka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524572
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f8c91c9587d432456ed7b43571b33078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785385,
+            "locality_id":1327120607,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1327120607,
+    "wof:lastmodified":1537659840,
+    "wof:name":"Dolbushka",
+    "wof:parent_id":1108785385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.10157,
+    53.89636,
+    64.10157,
+    53.89636
+],
+  "geometry": {"coordinates":[64.10157,53.89636],"type":"Point"}
+}

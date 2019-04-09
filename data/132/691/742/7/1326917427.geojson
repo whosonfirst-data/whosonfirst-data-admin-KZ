@@ -1,0 +1,72 @@
+{
+  "id": 1326917427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.08333,47.83333,69.08333,47.83333",
+    "geom:latitude":47.83333,
+    "geom:longitude":69.08333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tyuyemoynok",
+    "gn:country_code":"KZ",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517847,
+    "gn:latitude":47.83333,
+    "gn:longitude":69.08333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tyuyemoynok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tyuye-Muynok",
+        "Tyuye-Muinok",
+        "Tyuyemoynok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517847
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b776850fca81fc263d1ef20d212bf29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785515,
+            "locality_id":1326917427,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1326917427,
+    "wof:lastmodified":1537659541,
+    "wof:name":"Tyuyemoynok",
+    "wof:parent_id":1108785515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.08333,
+    47.83333,
+    69.08333,
+    47.83333
+],
+  "geometry": {"coordinates":[69.08333,47.83333],"type":"Point"}
+}

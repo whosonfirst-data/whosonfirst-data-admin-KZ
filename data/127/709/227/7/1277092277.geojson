@@ -1,0 +1,67 @@
+{
+  "id": 1277092277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.88925,47.60069,84.88925,47.60069",
+    "geom:latitude":47.60069,
+    "geom:longitude":84.88925,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sarzhira",
+    "gn:country_code":"KZ",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519518,
+    "gn:latitude":47.60069,
+    "gn:longitude":84.88925,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sarzhira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519518
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ce14ec2a2c782529cb6cbd6a94096b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785311,
+            "locality_id":1277092277,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1277092277,
+    "wof:lastmodified":1536753877,
+    "wof:name":"Sarzhira",
+    "wof:parent_id":1108785311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.88925,
+    47.60069,
+    84.88925,
+    47.60069
+],
+  "geometry": {"coordinates":[84.88925,47.60069],"type":"Point"}
+}

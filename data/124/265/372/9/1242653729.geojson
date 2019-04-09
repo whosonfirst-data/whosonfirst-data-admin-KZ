@@ -1,0 +1,70 @@
+{
+  "id": 1242653729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.99868,43.41295,71.99868,43.41295",
+    "geom:latitude":43.41295,
+    "geom:longitude":71.99868,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yeden",
+    "gn:country_code":"KZ",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10433486,
+    "gn:latitude":43.41295,
+    "gn:longitude":71.99868,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Yeden",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0415\u0434\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10433486
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b64c8da47abbff4f368d927d92ac8cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785487,
+            "locality_id":1242653729,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1242653729,
+    "wof:lastmodified":1537660052,
+    "wof:name":"Yeden",
+    "wof:parent_id":1108785487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.99868000000002,
+    43.41295,
+    71.99868000000002,
+    43.41295
+],
+  "geometry": {"coordinates":[71.99868000000002,43.41295],"type":"Point"}
+}

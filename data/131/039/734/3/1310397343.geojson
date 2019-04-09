@@ -1,0 +1,73 @@
+{
+  "id": 1310397343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.38836,49.79771,51.38836,49.79771",
+    "geom:latitude":49.79771,
+    "geom:longitude":51.38836,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lbishchenskoe",
+    "gn:country_code":"KZ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608955,
+    "gn:latitude":49.79771,
+    "gn:longitude":51.38836,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Lb\u012bshchenskoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Lb\u012bshchenskoe"
+    ],
+    "name:und_x_variant":[
+        "Lbishchenskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608955
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5cb60be0606a4432313f7a3fba888624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1310397343,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1310397343,
+    "wof:lastmodified":1537659393,
+    "wof:name":"Lbishchenskoe",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.38836,
+    49.79771,
+    51.38836,
+    49.79771
+],
+  "geometry": {"coordinates":[51.38836,49.79771],"type":"Point"}
+}

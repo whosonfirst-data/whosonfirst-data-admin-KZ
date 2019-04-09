@@ -1,0 +1,73 @@
+{
+  "id": 1226123725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.38396,52.0758,78.38396,52.0758",
+    "geom:latitude":52.0758,
+    "geom:longitude":78.38396,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Botabas",
+    "gn:country_code":"KZ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10775340,
+    "gn:latitude":52.0758,
+    "gn:longitude":78.38396,
+    "gn:modification_date":"2015-09-09",
+    "gn:name":"Botabas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Botabas"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u043e\u0442\u0430\u0431\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10775340
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b3a3bce2bbf9ef3b3454c8ca5aa10ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1226123725,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1226123725,
+    "wof:lastmodified":1537660057,
+    "wof:name":"Botabas",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.38396,
+    52.0758,
+    78.38396,
+    52.0758
+],
+  "geometry": {"coordinates":[78.38396,52.0758],"type":"Point"}
+}

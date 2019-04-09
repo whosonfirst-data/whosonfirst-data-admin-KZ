@@ -1,0 +1,79 @@
+{
+  "id": 1343934181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.00874,53.70611,63.00874,53.70611",
+    "geom:latitude":53.70611,
+    "geom:longitude":63.00874,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Karakopa",
+    "gn:country_code":"KZ",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523299,
+    "gn:latitude":53.70611,
+    "gn:longitude":63.00874,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Karakopa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karakopa"
+    ],
+    "name:kaz_x_preferred":[
+        "Qaraqopa"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u049b\u043e\u043f\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u043e\u043f\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523299
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f21f3ac4236d6f8d669af18908ca3ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1343934181,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343934181,
+    "wof:lastmodified":1537659789,
+    "wof:name":"Karakopa",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.00874,
+    53.70611,
+    63.00874,
+    53.70611
+],
+  "geometry": {"coordinates":[63.00874,53.70611],"type":"Point"}
+}

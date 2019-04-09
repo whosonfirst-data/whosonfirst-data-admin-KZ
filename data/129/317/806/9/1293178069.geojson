@@ -1,0 +1,79 @@
+{
+  "id": 1293178069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.97474,49.25421,72.97474,49.25421",
+    "geom:latitude":49.25421,
+    "geom:longitude":72.97474,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Karamuryn",
+    "gn:country_code":"KZ",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523246,
+    "gn:latitude":49.25421,
+    "gn:longitude":72.97474,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Karamuryn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Karam\u00fcryn"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0430\u0440\u0430\u043c\u04af\u0440\u044b\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043c\u0443\u0440\u044b\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kara-Murun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523246
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ff21c19747aaed518a9664f731b4fa6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1293178069,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1293178069,
+    "wof:lastmodified":1537659788,
+    "wof:name":"Karamuryn",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.97474,
+    49.25421,
+    72.97474,
+    49.25421
+],
+  "geometry": {"coordinates":[72.97474,49.25421],"type":"Point"}
+}

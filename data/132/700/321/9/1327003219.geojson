@@ -1,0 +1,83 @@
+{
+  "id": 1327003219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.03536,51.05132,81.03536,51.05132",
+    "geom:latitude":51.05132,
+    "geom:longitude":81.03536,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Aul",
+    "gn:country_code":"KZ",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521992,
+    "gn:latitude":51.05132,
+    "gn:longitude":81.03536,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Aul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qyzyl A\u016byl"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049a\u044b\u0437\u044b\u043b \u0410\u0443\u044b\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u0410\u0443\u043b"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0443\u043b"
+    ],
+    "name:und_x_variant":[
+        "Krasnyy A\u016bl",
+        "Qyzyl A\u016byl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521992
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6d0d1c50aefe089ce90bf30845654671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1327003219,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327003219,
+    "wof:lastmodified":1537659736,
+    "wof:name":"Aul",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.03536,
+    51.05132,
+    81.03536,
+    51.05132
+],
+  "geometry": {"coordinates":[81.03536,51.05132],"type":"Point"}
+}

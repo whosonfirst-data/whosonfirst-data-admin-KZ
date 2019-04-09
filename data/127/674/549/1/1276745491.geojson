@@ -1,0 +1,70 @@
+{
+  "id": 1276745491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.91172,53.96144,68.91172,53.96144",
+    "geom:latitude":53.96144,
+    "geom:longitude":68.91172,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Rostovka",
+    "gn:country_code":"KZ",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532291,
+    "gn:latitude":53.96144,
+    "gn:longitude":68.91172,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Rostovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532291
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4ad2433600317038404fb4a88fc8bf95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1276745491,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276745491,
+    "wof:lastmodified":1537659964,
+    "wof:name":"Rostovka",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.91171999999999,
+    53.96144,
+    68.91171999999999,
+    53.96144
+],
+  "geometry": {"coordinates":[68.91171999999999,53.96144],"type":"Point"}
+}

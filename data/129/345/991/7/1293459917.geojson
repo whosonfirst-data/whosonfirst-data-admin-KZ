@@ -1,0 +1,70 @@
+{
+  "id": 1293459917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.73129,47.06472,80.73129,47.06472",
+    "geom:latitude":47.06472,
+    "geom:longitude":80.73129,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sholpan",
+    "gn:country_code":"KZ",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521566,
+    "gn:latitude":47.06472,
+    "gn:longitude":80.73129,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Sholpan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyzyl-Armiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521566
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dc52299a775aa59eb1db7443e1deb1d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1293459917,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293459917,
+    "wof:lastmodified":1537659722,
+    "wof:name":"Sholpan",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.73129,
+    47.06472,
+    80.73129,
+    47.06472
+],
+  "geometry": {"coordinates":[80.73129,47.06472],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293785881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.23064,52.07451,67.23064,52.07451",
+    "geom:latitude":52.07451,
+    "geom:longitude":67.23064,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kirovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522641,
+    "gn:latitude":52.07451,
+    "gn:longitude":67.23064,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Kirovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kirovskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "K\u012brovsk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522641
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"31466c72694efc52a7694985dfe16be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785623,
+            "locality_id":1293785881,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293785881,
+    "wof:lastmodified":1537659766,
+    "wof:name":"Kirovskiy",
+    "wof:parent_id":1108785623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.23064000000001,
+    52.07451,
+    67.23064000000001,
+    52.07451
+],
+  "geometry": {"coordinates":[67.23064000000001,52.07451],"type":"Point"}
+}

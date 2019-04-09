@@ -1,0 +1,76 @@
+{
+  "id": 1260051515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.88116,43.13201,73.88116,43.13201",
+    "geom:latitude":43.13201,
+    "geom:longitude":73.88116,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Papanina",
+    "gn:country_code":"KZ",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8220749,
+    "gn:latitude":43.13201,
+    "gn:longitude":73.88116,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Papanina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Papan\u012bn \u016achastoghy"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u0430\u043f\u0430\u043d\u0438\u043d \u0423\u0447\u0430\u0441\u0442\u043e\u0493\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043f\u0430\u043d\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8220749
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2a2965d3e7a914f89c5ef963d5473071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785319,
+            "locality_id":1260051515,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1260051515,
+    "wof:lastmodified":1537660041,
+    "wof:name":"Papanina",
+    "wof:parent_id":1108785319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.88116,
+    43.13201,
+    73.88116,
+    43.13201
+],
+  "geometry": {"coordinates":[73.88115999999999,43.13201],"type":"Point"}
+}

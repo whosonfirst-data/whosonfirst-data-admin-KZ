@@ -1,0 +1,79 @@
+{
+  "id": 1293198013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.59528,45.92972,53.59528,45.92972",
+    "geom:latitude":45.92972,
+    "geom:longitude":53.59528,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saryqamys",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":-26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608445,
+    "gn:latitude":45.92972,
+    "gn:longitude":53.59528,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Saryqamys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saryqamys"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u043a\u0430\u043c\u044b\u0441"
+    ],
+    "name:und_x_variant":[
+        "Sarykamys",
+        "Sarkamys",
+        "Saryqamys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608445
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1093e428db2d9105aa78bed8d234fdac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785539,
+            "locality_id":1293198013,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1293198013,
+    "wof:lastmodified":1537659371,
+    "wof:name":"Saryqamys",
+    "wof:parent_id":1108785539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.59528,
+    45.92972,
+    53.59528,
+    45.92972
+],
+  "geometry": {"coordinates":[53.59528,45.92972],"type":"Point"}
+}

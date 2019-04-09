@@ -1,0 +1,67 @@
+{
+  "id": 1343548199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.89785,48.82465,76.89785,48.82465",
+    "geom:latitude":48.82465,
+    "geom:longitude":76.89785,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mayozek",
+    "gn:country_code":"KZ",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521019,
+    "gn:latitude":48.82465,
+    "gn:longitude":76.89785,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Mayozek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521019
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"45fd5be87888ab4aaa3e633489ff1e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1343548199,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1343548199,
+    "wof:lastmodified":1536617425,
+    "wof:name":"Mayozek",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.89785,
+    48.82465,
+    76.89785,
+    48.82465
+],
+  "geometry": {"coordinates":[76.89785000000001,48.82465],"type":"Point"}
+}

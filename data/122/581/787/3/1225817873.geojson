@@ -1,0 +1,73 @@
+{
+  "id": 1225817873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.93774,55.11494,70.93774,55.11494",
+    "geom:latitude":55.11494,
+    "geom:longitude":70.93774,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Krugloye",
+    "gn:country_code":"KZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530705,
+    "gn:latitude":55.11494,
+    "gn:longitude":70.93774,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Krugloye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kr\u016bgloe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0440\u0443\u0433\u043b\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530705
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"78e8408051c0eb63e138a1c9bf0f2a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1225817873,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1225817873,
+    "wof:lastmodified":1537659943,
+    "wof:name":"Krugloye",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.93774,
+    55.11494,
+    70.93774,
+    55.11494
+],
+  "geometry": {"coordinates":[70.93774000000001,55.11494],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226313237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.48306,47.72,79.48306,47.72",
+    "geom:latitude":47.72,
+    "geom:longitude":79.48306,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ayghyz",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525937,
+    "gn:latitude":47.72,
+    "gn:longitude":79.48306,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ayghyz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aygyz",
+        "Ayghyz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525937
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1ae2df95a834d6a518d73cf4fe1ca867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785459,
+            "locality_id":1226313237,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226313237,
+    "wof:lastmodified":1537659897,
+    "wof:name":"Ayghyz",
+    "wof:parent_id":1108785459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.48306,
+    47.72,
+    79.48306,
+    47.72
+],
+  "geometry": {"coordinates":[79.48305999999999,47.72],"type":"Point"}
+}

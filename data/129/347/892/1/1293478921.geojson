@@ -1,0 +1,70 @@
+{
+  "id": 1293478921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.03345,41.33887,69.03345,41.33887",
+    "geom:latitude":41.33887,
+    "geom:longitude":69.03345,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Leninzholy",
+    "gn:country_code":"KZ",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532697,
+    "gn:latitude":41.33887,
+    "gn:longitude":69.03345,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Leninzholy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u0436\u043e\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532697
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"be1da2ff78f4e9c9a8ab8bd5ae78b8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1293478921,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293478921,
+    "wof:lastmodified":1537659971,
+    "wof:name":"Leninzholy",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.03345,
+    41.33887,
+    69.03345,
+    41.33887
+],
+  "geometry": {"coordinates":[69.03345,41.33887],"type":"Point"}
+}

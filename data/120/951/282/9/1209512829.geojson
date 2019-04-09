@@ -1,0 +1,61 @@
+{
+  "id": 1209512829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.96667,46.48333,48.96667,46.48333",
+    "geom:latitude":46.48333,
+    "geom:longitude":48.96667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Goroshkin",
+    "gn:country_code":"KZ",
+    "gn:dem":-28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609873,
+    "gn:latitude":46.48333,
+    "gn:longitude":48.96667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Goroshkin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609873
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"90a4a894f95f2e651888f3849c9ba2bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209512829
+        }
+    ],
+    "wof:id":1209512829,
+    "wof:lastmodified":1536284828,
+    "wof:name":"Goroshkin",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.96667,
+    46.48333,
+    48.96667,
+    46.48333
+],
+  "geometry": {"coordinates":[48.96667,46.48333],"type":"Point"}
+}

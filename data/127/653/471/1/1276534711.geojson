@@ -1,0 +1,73 @@
+{
+  "id": 1276534711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.60944,51.69694,60.60944,51.69694",
+    "geom:latitude":51.69694,
+    "geom:longitude":60.60944,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Komsomol'skiy",
+    "gn:country_code":"KZ",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522341,
+    "gn:latitude":51.69694,
+    "gn:longitude":60.60944,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Komsomol\u2019sk\u012by",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Komsomol\u2019sk\u012by"
+    ],
+    "name:rus_x_preferred":[
+        "Komsomol\u2019skiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522341
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1a2aa359fbb13793e3382a0b05522170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785525,
+            "locality_id":1276534711,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1276534711,
+    "wof:lastmodified":1537659755,
+    "wof:name":"Komsomol'skiy",
+    "wof:parent_id":1108785525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.60944,
+    51.69694000000001,
+    60.60944,
+    51.69694000000001
+],
+  "geometry": {"coordinates":[60.60944,51.69694000000001],"type":"Point"}
+}

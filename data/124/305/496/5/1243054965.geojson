@@ -1,0 +1,76 @@
+{
+  "id": 1243054965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.56066,48.10625,74.56066,48.10625",
+    "geom:latitude":48.10625,
+    "geom:longitude":74.56066,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nurken",
+    "gn:country_code":"KZ",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11493441,
+    "gn:latitude":48.10625,
+    "gn:longitude":74.56066,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Nurken",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Nurken"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u04b1\u0440\u043a\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u0440\u043a\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11493441
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c742d51d25b20eb397d05abb5d480270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1243054965,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1243054965,
+    "wof:lastmodified":1537660166,
+    "wof:name":"Nurken",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.56066,
+    48.10625,
+    74.56066,
+    48.10625
+],
+  "geometry": {"coordinates":[74.56066,48.10625],"type":"Point"}
+}

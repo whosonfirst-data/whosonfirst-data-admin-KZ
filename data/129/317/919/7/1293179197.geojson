@@ -1,0 +1,83 @@
+{
+  "id": 1293179197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.89421,52.96564,73.89421,52.96564",
+    "geom:latitude":52.96564,
+    "geom:longitude":73.89421,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sladkovodsk",
+    "gn:country_code":"KZ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518949,
+    "gn:latitude":52.96564,
+    "gn:longitude":73.89421,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Sladkovodsk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sladkovodskoe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043b\u0430\u0434\u043a\u043e\u0432\u043e\u0434\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0430\u0434\u043a\u043e\u0432\u043e\u0434\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u043b\u0430\u0434\u043a\u043e\u0432\u043e\u0434\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Sladkovodskoye",
+        "Sladkovodskoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518949
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3aa60668c5cbba5cbb06e27ea97f0af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1293179197,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1293179197,
+    "wof:lastmodified":1537659584,
+    "wof:name":"Sladkovodsk",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.89421,
+    52.96564,
+    73.89421,
+    52.96564
+],
+  "geometry": {"coordinates":[73.89421,52.96564],"type":"Point"}
+}

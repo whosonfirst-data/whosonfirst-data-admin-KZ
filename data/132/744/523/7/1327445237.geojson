@@ -1,0 +1,74 @@
+{
+  "id": 1327445237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.44781,43.29073,76.44781,43.29073",
+    "geom:latitude":43.29073,
+    "geom:longitude":76.44781,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mynbayevo",
+    "gn:country_code":"KZ",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1539155,
+    "gn:latitude":43.29073,
+    "gn:longitude":76.44781,
+    "gn:modification_date":"2017-12-30",
+    "gn:name":"Mynbayevo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mynbayevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044b\u043d\u0431\u0430\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1539155,
+        "wk:page":"Mynbayevo"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4b0056b0932ff064f5a7f7a301ed580c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1327445237,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1327445237,
+    "wof:lastmodified":1537660024,
+    "wof:name":"Mynbayevo",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.44781,
+    43.29073,
+    76.44781,
+    43.29073
+],
+  "geometry": {"coordinates":[76.44781,43.29073],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326919333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.80813,42.2263,69.80813,42.2263",
+    "geom:latitude":42.2263,
+    "geom:longitude":69.80813,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Togus",
+    "gn:country_code":"KZ",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11120500,
+    "gn:latitude":42.2263,
+    "gn:longitude":69.80813,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Togus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0433\u0443\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11120500
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fd9346dbb2f21a560466ecd8366962ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785369,
+            "locality_id":1326919333,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1326919333,
+    "wof:lastmodified":1537660115,
+    "wof:name":"Togus",
+    "wof:parent_id":1108785369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.80813,
+    42.2263,
+    69.80813,
+    42.2263
+],
+  "geometry": {"coordinates":[69.80813000000001,42.2263],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259470145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.41667,49.7,70.41667,49.7",
+    "geom:latitude":49.7,
+    "geom:longitude":70.41667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sonaly",
+    "gn:country_code":"KZ",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518891,
+    "gn:latitude":49.7,
+    "gn:longitude":70.41667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sonaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518891
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bb2dd1d82617d137c0abdf8d7cdd78a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785499,
+            "locality_id":1259470145,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1259470145,
+    "wof:lastmodified":1536877109,
+    "wof:name":"Sonaly",
+    "wof:parent_id":1108785499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.41667,
+    49.7,
+    70.41667,
+    49.7
+],
+  "geometry": {"coordinates":[70.41667,49.7],"type":"Point"}
+}

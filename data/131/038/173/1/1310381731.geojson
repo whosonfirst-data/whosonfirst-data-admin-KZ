@@ -1,0 +1,67 @@
+{
+  "id": 1310381731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.21667,43.16667,70.21667,43.16667",
+    "geom:latitude":43.16667,
+    "geom:longitude":70.21667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Karatauskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523092,
+    "gn:latitude":43.16667,
+    "gn:longitude":70.21667,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Karatauskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523092
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"73fbf81aee6a991ccce5c3c77cddf6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785643,
+            "locality_id":1310381731,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1310381731,
+    "wof:lastmodified":1537092328,
+    "wof:name":"Karatauskiy",
+    "wof:parent_id":1108785643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.21667,
+    43.16667,
+    70.21667,
+    43.16667
+],
+  "geometry": {"coordinates":[70.21666999999999,43.16667],"type":"Point"}
+}

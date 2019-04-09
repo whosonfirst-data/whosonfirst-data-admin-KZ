@@ -1,0 +1,70 @@
+{
+  "id": 1293870211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.98333,54.21667,64.98333,54.21667",
+    "geom:latitude":54.21667,
+    "geom:longitude":64.98333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Uzynkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517522,
+    "gn:latitude":54.21667,
+    "gn:longitude":64.98333,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Uzynkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Uzynkol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517522
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"75f497c9df16e5e6a8bc8cbb94efe2fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1293870211,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293870211,
+    "wof:lastmodified":1537659528,
+    "wof:name":"Uzynkol'",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.98333000000001,
+    54.21666999999999,
+    64.98333000000001,
+    54.21666999999999
+],
+  "geometry": {"coordinates":[64.98333000000001,54.21666999999999],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1126010227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.00194,44.83056,70.00194,44.83056",
+    "geom:latitude":44.83056,
+    "geom:longitude":70.00194,
+    "gn:gn_country":"KZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2405,
+    "gn:population":2405,
+    "iso:country":"KZ",
+    "lbl:latitude":44.83056,
+    "lbl:longitude":70.00194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Chiganak"
+    ],
+    "qs_pg:aaroncc":"KZ",
+    "qs_pg:gn_country":"KZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1537856,
+    "qs_pg:gn_pop":2405,
+    "qs_pg:name":"Shyghanaq",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":556803,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537856,
+        "qs_pg:id":556803
+    },
+    "wof:country":"KZ",
+    "wof:created":1497300225,
+    "wof:geomhash":"e05c6ac3d7c51d5b32857c09266349a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785511,
+            "locality_id":1126010227,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1126010227,
+    "wof:lastmodified":1509406628,
+    "wof:name":"Shyghanaq",
+    "wof:parent_id":1108785511,
+    "wof:placetype":"locality",
+    "wof:population":2405,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.00194,
+    44.83056,
+    70.00194,
+    44.83056
+],
+  "geometry": {"coordinates":[70.00194,44.83056],"type":"Point"}
+}

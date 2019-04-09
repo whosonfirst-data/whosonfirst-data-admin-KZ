@@ -1,0 +1,61 @@
+{
+  "id": 1209108075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.07052,51.30933,70.07052,51.30933",
+    "geom:latitude":51.30933,
+    "geom:longitude":70.07052,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lozovoye",
+    "gn:country_code":"KZ",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521298,
+    "gn:latitude":51.30933,
+    "gn:longitude":70.07052,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lozovoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521298
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6f31b83910de5887a823f3db44ba7f98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209108075
+        }
+    ],
+    "wof:id":1209108075,
+    "wof:lastmodified":1536297500,
+    "wof:name":"Lozovoye",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.07052,
+    51.30933,
+    70.07052,
+    51.30933
+],
+  "geometry": {"coordinates":[70.07052,51.30933],"type":"Point"}
+}

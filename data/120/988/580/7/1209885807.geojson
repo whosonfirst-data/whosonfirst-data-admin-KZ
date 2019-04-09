@@ -1,0 +1,80 @@
+{
+  "id": 1209885807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.00129,52.74518,68.00129,52.74518",
+    "geom:latitude":52.74518,
+    "geom:longitude":68.00129,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kuspek",
+    "gn:country_code":"KZ",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521673,
+    "gn:latitude":52.74518,
+    "gn:longitude":68.00129,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Kuspek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qusbek"
+    ],
+    "name:kaz_x_preferred":[
+        "Qusbek"
+    ],
+    "name:kaz_x_variant":[
+        "Quspek",
+        "\u049a\u04b1\u0441\u043f\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0441\u043f\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521673
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ea06e187c811f6f535dc0712f3e02a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1209885807,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1209885807,
+    "wof:lastmodified":1537659725,
+    "wof:name":"Kuspek",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.00129,
+    52.74518000000001,
+    68.00129,
+    52.74518000000001
+],
+  "geometry": {"coordinates":[68.00129,52.74518000000001],"type":"Point"}
+}

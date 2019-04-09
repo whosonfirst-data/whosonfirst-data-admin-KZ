@@ -1,0 +1,77 @@
+{
+  "id": 1259572151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.62021,41.92914,69.62021,41.92914",
+    "geom:latitude":41.92914,
+    "geom:longitude":69.62021,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhanabazar",
+    "gn:country_code":"KZ",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516878,
+    "gn:latitude":41.92914,
+    "gn:longitude":69.62021,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Zhanabazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0416\u0430\u04a3\u0430\u0431\u0430\u0437\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0431\u0430\u0437\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Yangibazar",
+        "Zhangabazar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516878
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b7af4cae8f107233e4840556218fcff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1259572151,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1259572151,
+    "wof:lastmodified":1537659490,
+    "wof:name":"Zhanabazar",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.62021,
+    41.92914,
+    69.62021,
+    41.92914
+],
+  "geometry": {"coordinates":[69.62021,41.92914],"type":"Point"}
+}

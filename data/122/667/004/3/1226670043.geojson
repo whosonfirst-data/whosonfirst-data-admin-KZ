@@ -1,0 +1,71 @@
+{
+  "id": 1226670043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.83333,47.18333,57.83333,47.18333",
+    "geom:latitude":47.18333,
+    "geom:longitude":57.83333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shoshkakol'",
+    "gn:country_code":"KZ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608281,
+    "gn:latitude":47.18333,
+    "gn:longitude":57.83333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Shoshkakol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chushka-Kul\u2019",
+        "Shoshkakol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608281
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ae3eba37efd86a79254d58ef4b07a9b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785541,
+            "locality_id":1226670043,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1226670043,
+    "wof:lastmodified":1537659366,
+    "wof:name":"Shoshkakol'",
+    "wof:parent_id":1108785541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.83333,
+    47.18333,
+    57.83333,
+    47.18333
+],
+  "geometry": {"coordinates":[57.83333,47.18333],"type":"Point"}
+}

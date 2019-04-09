@@ -1,0 +1,73 @@
+{
+  "id": 1293364099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.31667,43.68535,67.31667,43.68535",
+    "geom:latitude":43.68535,
+    "geom:longitude":67.31667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Miyaly",
+    "gn:country_code":"KZ",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529720,
+    "gn:latitude":43.68535,
+    "gn:longitude":67.31667,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Miyaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "M\u012byaly"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0438\u044f\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529720
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7b71bc48680fbcb61a67570061738fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1293364099,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1293364099,
+    "wof:lastmodified":1537659933,
+    "wof:name":"Miyaly",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.31667,
+    43.68535,
+    67.31667,
+    43.68535
+],
+  "geometry": {"coordinates":[67.31667,43.68535],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1344129261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57434,53.76456,68.57434,53.76456",
+    "geom:latitude":53.76456,
+    "geom:longitude":68.57434,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kyzylasker",
+    "gn:country_code":"KZ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532266,
+    "gn:latitude":53.76456,
+    "gn:longitude":68.57434,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Kyzylasker",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyzylasker"
+    ],
+    "name:kaz_x_preferred":[
+        "Qyzyl\u00e4sker"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u04d9\u0441\u043a\u0435\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0430\u0441\u043a\u0435\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043c\u0442\u0443\u043a\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Komtuken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532266
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"90a84584fa7d3b727d29de7cf5f71b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1344129261,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1344129261,
+    "wof:lastmodified":1537659963,
+    "wof:name":"Kyzylasker",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57434,
+    53.76456,
+    68.57434,
+    53.76456
+],
+  "geometry": {"coordinates":[68.57434000000001,53.76456],"type":"Point"}
+}

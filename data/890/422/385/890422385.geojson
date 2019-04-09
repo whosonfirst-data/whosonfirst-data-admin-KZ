@@ -1,0 +1,63 @@
+{
+  "id": 890422385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.6,52.65,66.6,52.65",
+    "geom:latitude":52.65,
+    "geom:longitude":66.6,
+    "gn:country":"KZ",
+    "gn:fcode":"FRM",
+    "gn:pop":1000,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sovkhoz Volodarskiy",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517414,
+        "qs:id":556500
+    },
+    "wof:country":"KZ",
+    "wof:created":1469051441,
+    "wof:geomhash":"ee2916d45058c670ac6f5e21978f6244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890422385,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":890422385,
+    "wof:lastmodified":1505343469,
+    "wof:name":"Sovkhoz Volodarskiy",
+    "wof:parent_id":85672907,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.6,
+    52.65,
+    66.6,
+    52.65
+],
+  "geometry": {"coordinates":[66.59999999999999,52.65],"type":"Point"}
+}

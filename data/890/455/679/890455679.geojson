@@ -1,0 +1,64 @@
+{
+  "id": 890455679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4,49.33333,49.4,49.33333",
+    "geom:latitude":49.33333,
+    "geom:longitude":49.4,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":6834,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Zhumysker",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607510,
+        "gp:id":2264983,
+        "qs:id":550235
+    },
+    "wof:country":"KZ",
+    "wof:created":1469052971,
+    "wof:geomhash":"64b6bddf1d046b7393428a88b22cf36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890455679,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":890455679,
+    "wof:lastmodified":1505343665,
+    "wof:name":"Zhumysker",
+    "wof:parent_id":85672893,
+    "wof:placetype":"locality",
+    "wof:population":6834,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4,
+    49.33333,
+    49.4,
+    49.33333
+],
+  "geometry": {"coordinates":[49.4,49.33333],"type":"Point"}
+}

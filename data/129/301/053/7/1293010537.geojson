@@ -1,0 +1,79 @@
+{
+  "id": 1293010537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.93333,51.36667,50.93333,51.36667",
+    "geom:latitude":51.36667,
+    "geom:longitude":50.93333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Verkhne-Gremyachiy",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607779,
+    "gn:latitude":51.36667,
+    "gn:longitude":50.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Verkhne-Gremyachiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Verkhne-Gremyachiy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0435\u043c\u044f\u0447\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Gremyachiy",
+        "Verkhniy Gremyachiy",
+        "Verkhne-Gremyachiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607779
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"05abbc746df24e4bb4ca503c47c4c807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785331,
+            "locality_id":1293010537,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293010537,
+    "wof:lastmodified":1537659350,
+    "wof:name":"Verkhne-Gremyachiy",
+    "wof:parent_id":1108785331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.93333,
+    51.36667,
+    50.93333,
+    51.36667
+],
+  "geometry": {"coordinates":[50.93333,51.36667],"type":"Point"}
+}

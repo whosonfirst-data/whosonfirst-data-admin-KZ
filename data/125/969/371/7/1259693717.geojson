@@ -1,0 +1,71 @@
+{
+  "id": 1259693717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.83746,50.94329,70.83746,50.94329",
+    "geom:latitude":50.94329,
+    "geom:longitude":70.83746,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kustumsyk",
+    "gn:country_code":"KZ",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521664,
+    "gn:latitude":50.94329,
+    "gn:longitude":70.83746,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kustumsyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kustumsuk",
+        "Kustumsyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521664
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b91aa4b12059793de1b895d542581586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785625,
+            "locality_id":1259693717,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259693717,
+    "wof:lastmodified":1537659725,
+    "wof:name":"Kustumsyk",
+    "wof:parent_id":1108785625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.83746,
+    50.94329000000001,
+    70.83746,
+    50.94329000000001
+],
+  "geometry": {"coordinates":[70.83745999999999,50.94329000000001],"type":"Point"}
+}

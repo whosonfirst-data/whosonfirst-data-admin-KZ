@@ -1,0 +1,67 @@
+{
+  "id": 1259353895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.41667,44.76667,64.41667,44.76667",
+    "geom:latitude":44.76667,
+    "geom:longitude":64.41667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Segizzhigit",
+    "gn:country_code":"KZ",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519440,
+    "gn:latitude":44.76667,
+    "gn:longitude":64.41667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Segizzhigit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519440
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3af34f2abdef62ae439647a057b0fb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785673,
+            "locality_id":1259353895,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1259353895,
+    "wof:lastmodified":1537043151,
+    "wof:name":"Segizzhigit",
+    "wof:parent_id":1108785673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.41667,
+    44.76667,
+    64.41667,
+    44.76667
+],
+  "geometry": {"coordinates":[64.41667,44.76667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1276948013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.17281,48.01105,85.17281,48.01105",
+    "geom:latitude":48.01105,
+    "geom:longitude":85.17281,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pravyy Ust'-Qalzhyr",
+    "gn:country_code":"KZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10867395,
+    "gn:latitude":48.01105,
+    "gn:longitude":85.17281,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Pravyy \u016ast\u2019-Qalzhyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Pravyy \u016ast\u2019-Qalzhyr"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u0440\u0430\u0432\u044b\u0439 \u0423\u0441\u0442\u044c-\u049a\u0430\u043b\u0436\u044b\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "Pravyy Ust\u2019-Kal\u2019zhir"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0440\u0430\u0432\u044b\u0439 \u0423\u0441\u0442\u044c-\u041a\u0430\u043b\u044c\u0436\u0438\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10867395
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"771a023b344fe86705908f61e42bd4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1276948013,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276948013,
+    "wof:lastmodified":1537660071,
+    "wof:name":"Pravyy Ust'-Qalzhyr",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.17281,
+    48.01105,
+    85.17281,
+    48.01105
+],
+  "geometry": {"coordinates":[85.17281,48.01105],"type":"Point"}
+}

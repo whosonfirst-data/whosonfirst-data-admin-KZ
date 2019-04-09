@@ -1,0 +1,83 @@
+{
+  "id": 1326503413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.73767,47.7836,82.73767,47.7836",
+    "geom:latitude":47.7836,
+    "geom:longitude":82.73767,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ekpin",
+    "gn:country_code":"KZ",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8561484,
+    "gn:latitude":47.7836,
+    "gn:longitude":82.73767,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Ekpin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Ekpin"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u043a\u043f\u0456\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043e\u0431\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u043c\u0435\u043d\u0438 \u0416\u0434\u0430\u043d\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Karaoba",
+        "Imeni Zhdanova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561484
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3b1420a3406824ef02dc727378a5a46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785469,
+            "locality_id":1326503413,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1326503413,
+    "wof:lastmodified":1537660044,
+    "wof:name":"Ekpin",
+    "wof:parent_id":1108785469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.73767,
+    47.7836,
+    82.73767,
+    47.7836
+],
+  "geometry": {"coordinates":[82.73766999999999,47.7836],"type":"Point"}
+}

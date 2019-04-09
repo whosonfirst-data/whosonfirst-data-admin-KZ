@@ -1,0 +1,67 @@
+{
+  "id": 1259656221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.35,54.61667,70.35,54.61667",
+    "geom:latitude":54.61667,
+    "geom:longitude":70.35,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zhana-Tlek",
+    "gn:country_code":"KZ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516822,
+    "gn:latitude":54.61667,
+    "gn:longitude":70.35,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Zhana-Tlek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516822
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4c15535f809f74e99ecfbac9cd81e833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1259656221,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259656221,
+    "wof:lastmodified":1536607144,
+    "wof:name":"Zhana-Tlek",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.35,
+    54.61666999999999,
+    70.35,
+    54.61666999999999
+],
+  "geometry": {"coordinates":[70.34999999999999,54.61666999999999],"type":"Point"}
+}

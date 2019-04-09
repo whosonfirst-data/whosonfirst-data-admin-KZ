@@ -1,0 +1,73 @@
+{
+  "id": 1344145049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.21809,53.58955,75.21809,53.58955",
+    "geom:latitude":53.58955,
+    "geom:longitude":75.21809,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Beregovoye",
+    "gn:country_code":"KZ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533037,
+    "gn:latitude":53.58955,
+    "gn:longitude":75.21809,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Beregovoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Beregovoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533037
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f811db7536b5b291129534e7d4212795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785349,
+            "locality_id":1344145049,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1344145049,
+    "wof:lastmodified":1537659974,
+    "wof:name":"Beregovoye",
+    "wof:parent_id":1108785349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.21809,
+    53.58955,
+    75.21809,
+    53.58955
+],
+  "geometry": {"coordinates":[75.21809,53.58955],"type":"Point"}
+}

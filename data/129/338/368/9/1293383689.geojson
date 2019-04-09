@@ -1,0 +1,76 @@
+{
+  "id": 1293383689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.26577,40.82226,68.26577,40.82226",
+    "geom:latitude":40.82226,
+    "geom:longitude":68.26577,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zavety Lenina",
+    "gn:country_code":"KZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535818,
+    "gn:latitude":40.82226,
+    "gn:longitude":68.26577,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Zavety Lenina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qanysh S\u00e4tbayev"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u043d\u044b\u0448 \u0421\u04d9\u0442\u0431\u0430\u0435\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0432\u0435\u0442\u044b \u041b\u0435\u043d\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535818
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4e3a51f4f3a32055ba7c8965729dbc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1293383689,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293383689,
+    "wof:lastmodified":1537660003,
+    "wof:name":"Zavety Lenina",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.26576999999999,
+    40.82226,
+    68.26576999999999,
+    40.82226
+],
+  "geometry": {"coordinates":[68.26576999999999,40.82226],"type":"Point"}
+}

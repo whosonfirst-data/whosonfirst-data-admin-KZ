@@ -1,0 +1,76 @@
+{
+  "id": 1326924607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.32482,40.71475,68.32482,40.71475",
+    "geom:latitude":40.71475,
+    "geom:longitude":68.32482,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhdanovskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955994,
+    "gn:latitude":40.71475,
+    "gn:longitude":68.32482,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Zhdanovskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhdanovskoye"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0434\u0430\u043d\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Jdanovskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955994
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9c602a105aa378a2b226cb522b964007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1326924607,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1326924607,
+    "wof:lastmodified":1537660077,
+    "wof:name":"Zhdanovskoye",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.32481999999999,
+    40.71475,
+    68.32481999999999,
+    40.71475
+],
+  "geometry": {"coordinates":[68.32481999999999,40.71475],"type":"Point"}
+}

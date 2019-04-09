@@ -1,0 +1,73 @@
+{
+  "id": 1327345391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07928,51.99616,71.07928,51.99616",
+    "geom:latitude":51.99616,
+    "geom:longitude":71.07928,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gusarka",
+    "gn:country_code":"KZ",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524159,
+    "gn:latitude":51.99616,
+    "gn:longitude":71.07928,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Gusarka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "G\u016bsarka"
+    ],
+    "name:und_x_variant":[
+        "Gusarskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524159
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"94ee90c574bde54f567f2dbdf27bdec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1327345391,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327345391,
+    "wof:lastmodified":1537659821,
+    "wof:name":"Gusarka",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07928000000003,
+    51.99616,
+    71.07928000000003,
+    51.99616
+],
+  "geometry": {"coordinates":[71.07928000000003,51.99616],"type":"Point"}
+}

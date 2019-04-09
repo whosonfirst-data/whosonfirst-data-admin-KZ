@@ -1,0 +1,80 @@
+{
+  "id": 1309785947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.29308,49.90974,76.29308,49.90974",
+    "geom:latitude":49.90974,
+    "geom:longitude":76.29308,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Qulbasy",
+    "gn:country_code":"KZ",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522404,
+    "gn:latitude":49.90974,
+    "gn:longitude":76.29308,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Qulbasy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qulbasy"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u04b1\u043b\u0431\u0430\u0441\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u044c\u0431\u0430\u0441\u044b"
+    ],
+    "name:und_x_variant":[
+        "Imeni Karla Marksa",
+        "Kol\u2019basy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522404
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"44b0b1fd03de1d212ee2c68868dd88fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1309785947,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1309785947,
+    "wof:lastmodified":1537659758,
+    "wof:name":"Qulbasy",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.29308,
+    49.90974,
+    76.29308,
+    49.90974
+],
+  "geometry": {"coordinates":[76.29308,49.90974],"type":"Point"}
+}

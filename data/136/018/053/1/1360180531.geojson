@@ -1,0 +1,76 @@
+{
+  "id": 1360180531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.64917,42.37567,69.64917,42.37567",
+    "geom:latitude":42.37567,
+    "geom:longitude":69.64917,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kaytpas - Odin",
+    "gn:country_code":"KZ",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11120338,
+    "gn:latitude":42.37567,
+    "gn:longitude":69.64917,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Kaytpas - Odin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u0442\u043f\u0430\u0441 - \u041e\u0434\u0438\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u044b\u043c\u044b\u0440"
+    ],
+    "name:und_x_variant":[
+        "Shymyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11120338
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"318c23aa0574e18701c6e93b78ef45fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785607,
+            "locality_id":1360180531,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1360180531,
+    "wof:lastmodified":1537660110,
+    "wof:name":"Kaytpas - Odin",
+    "wof:parent_id":1108785607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.64917,
+    42.37567,
+    69.64917,
+    42.37567
+],
+  "geometry": {"coordinates":[69.64917,42.37567],"type":"Point"}
+}

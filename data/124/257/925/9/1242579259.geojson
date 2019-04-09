@@ -1,0 +1,76 @@
+{
+  "id": 1242579259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.33259,53.35168,69.33259,53.35168",
+    "geom:latitude":53.35168,
+    "geom:longitude":69.33259,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Krasnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532335,
+    "gn:latitude":53.35168,
+    "gn:longitude":69.33259,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Krasnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u044b\u0437\u044b\u043b\u044e\u043b\u0434\u0443\u0437"
+    ],
+    "name:und_x_variant":[
+        "Kyzylyulduz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532335
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1bc6ee572a7f857c1ed2e6e1ea8ce86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1242579259,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1242579259,
+    "wof:lastmodified":1537659965,
+    "wof:name":"Krasnoye",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.33259,
+    53.35168,
+    69.33259,
+    53.35168
+],
+  "geometry": {"coordinates":[69.33259,53.35168],"type":"Point"}
+}

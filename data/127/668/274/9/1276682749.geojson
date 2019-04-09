@@ -1,0 +1,71 @@
+{
+  "id": 1276682749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.15,50.26667,56.15,50.26667",
+    "geom:latitude":50.26667,
+    "geom:longitude":56.15,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Karabutak",
+    "gn:country_code":"KZ",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609670,
+    "gn:latitude":50.26667,
+    "gn:longitude":56.15,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Karabutak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karabulak",
+        "Karabutak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609670
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e81fbb146f77ede6c50f80a1bf80ed23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785491,
+            "locality_id":1276682749,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1276682749,
+    "wof:lastmodified":1537659419,
+    "wof:name":"Karabutak",
+    "wof:parent_id":1108785491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.15,
+    50.26667,
+    56.15,
+    50.26667
+],
+  "geometry": {"coordinates":[56.15,50.26667],"type":"Point"}
+}

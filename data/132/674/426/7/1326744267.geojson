@@ -1,0 +1,81 @@
+{
+  "id": 1326744267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.44893,43.77225,79.44893,43.77225",
+    "geom:latitude":43.77225,
+    "geom:longitude":79.44893,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tashkarasu",
+    "gn:country_code":"KZ",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518417,
+    "gn:latitude":43.77225,
+    "gn:longitude":79.44893,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Tashkarasu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Tasqaras\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0430\u0441\u049b\u0430\u0440\u0430\u0441\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u0430\u0440\u0430\u0441\u0443"
+    ],
+    "name:und_x_variant":[
+        "Tash-Kara-Su",
+        "Taskarasu",
+        "Tashkarasu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518417
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c30b00414bde7dbbcd5bf924d2de60dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785425,
+            "locality_id":1326744267,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1326744267,
+    "wof:lastmodified":1537659562,
+    "wof:name":"Tashkarasu",
+    "wof:parent_id":1108785425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.44893,
+    43.77225,
+    79.44893,
+    43.77225
+],
+  "geometry": {"coordinates":[79.44893,43.77225],"type":"Point"}
+}

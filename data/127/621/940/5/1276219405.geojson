@@ -1,0 +1,67 @@
+{
+  "id": 1276219405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.66667,48.55,53.66667,48.55",
+    "geom:latitude":48.55,
+    "geom:longitude":53.66667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sargiz",
+    "gn:country_code":"KZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608471,
+    "gn:latitude":48.55,
+    "gn:longitude":53.66667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sargiz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608471
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fd71749efe1bf592e2aa16e96a784f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785453,
+            "locality_id":1276219405,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1276219405,
+    "wof:lastmodified":1536932382,
+    "wof:name":"Sargiz",
+    "wof:parent_id":1108785453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.66667,
+    48.55,
+    53.66667,
+    48.55
+],
+  "geometry": {"coordinates":[53.66667,48.55],"type":"Point"}
+}

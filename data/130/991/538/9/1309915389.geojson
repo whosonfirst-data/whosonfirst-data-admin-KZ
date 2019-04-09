@@ -1,0 +1,77 @@
+{
+  "id": 1309915389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.30581,45.80249,81.30581,45.80249",
+    "geom:latitude":45.80249,
+    "geom:longitude":81.30581,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Glinovka",
+    "gn:country_code":"KZ",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524229,
+    "gn:latitude":45.80249,
+    "gn:longitude":81.30581,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Glinovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u04ae\u0448\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ushbulak",
+        "\u00dcshbulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524229
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8da01ef7938f3b3fca64c84b22e31342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785413,
+            "locality_id":1309915389,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1309915389,
+    "wof:lastmodified":1537659827,
+    "wof:name":"Glinovka",
+    "wof:parent_id":1108785413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.30581,
+    45.80249,
+    81.30581,
+    45.80249
+],
+  "geometry": {"coordinates":[81.30580999999999,45.80249],"type":"Point"}
+}

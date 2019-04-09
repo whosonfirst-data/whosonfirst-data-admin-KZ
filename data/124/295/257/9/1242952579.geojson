@@ -1,0 +1,73 @@
+{
+  "id": 1242952579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.15799,53.80423,64.15799,53.80423",
+    "geom:latitude":53.80423,
+    "geom:longitude":64.15799,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pervomayskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520203,
+    "gn:latitude":53.80423,
+    "gn:longitude":64.15799,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Pervomayskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Pervomayskiy"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520203
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e57d6f2eb33069ef4206fc53a9ec77b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785385,
+            "locality_id":1242952579,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1242952579,
+    "wof:lastmodified":1537659643,
+    "wof:name":"Pervomayskiy",
+    "wof:parent_id":1108785385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.15799,
+    53.80423,
+    64.15799,
+    53.80423
+],
+  "geometry": {"coordinates":[64.15799,53.80423],"type":"Point"}
+}

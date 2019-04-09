@@ -1,0 +1,77 @@
+{
+  "id": 1327310329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.46919,54.09303,63.46919,54.09303",
+    "geom:latitude":54.09303,
+    "geom:longitude":63.46919,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ozero Sorkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517438,
+    "gn:latitude":54.09303,
+    "gn:longitude":63.46919,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ozero Sorkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Vishn\u00ebvyy"
+    ],
+    "name:rus_x_variant":[
+        "Ozero Sorkol\u2019",
+        "\u041e\u0437\u0435\u0440\u043e \u0421\u043e\u0440\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Minskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517438
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d86730e4fc9747e29972806a0456d40e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1327310329,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1327310329,
+    "wof:lastmodified":1537659521,
+    "wof:name":"Ozero Sorkol'",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.46919000000001,
+    54.09303000000001,
+    63.46919000000001,
+    54.09303000000001
+],
+  "geometry": {"coordinates":[63.46919000000001,54.09303000000001],"type":"Point"}
+}

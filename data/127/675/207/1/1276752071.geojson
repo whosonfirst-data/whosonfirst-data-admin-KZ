@@ -1,0 +1,81 @@
+{
+  "id": 1276752071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.32761,51.73629,77.32761,51.73629",
+    "geom:latitude":51.73629,
+    "geom:longitude":77.32761,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kyzylkurama",
+    "gn:country_code":"KZ",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521505,
+    "gn:latitude":51.73629,
+    "gn:longitude":77.32761,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kyzylkurama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyzylqurama"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u049b\u04b1\u0440\u0430\u043c\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u043a\u0443\u0440\u0430\u043c\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chigan",
+        "Shigan",
+        "Kyzylkurama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521505
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3d314bfb8e475eaf60897a916102c68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1276752071,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1276752071,
+    "wof:lastmodified":1537659720,
+    "wof:name":"Kyzylkurama",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.32760999999998,
+    51.73629,
+    77.32760999999998,
+    51.73629
+],
+  "geometry": {"coordinates":[77.32760999999998,51.73629],"type":"Point"}
+}

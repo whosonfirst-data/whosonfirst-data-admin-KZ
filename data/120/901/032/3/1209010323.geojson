@@ -1,0 +1,72 @@
+{
+  "id": 1209010323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.45544,50.61239,59.45544,50.61239",
+    "geom:latitude":50.61239,
+    "geom:longitude":59.45544,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Koshensay",
+    "gn:country_code":"KZ",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609235,
+    "gn:latitude":50.61239,
+    "gn:longitude":59.45544,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Koshensay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koshensay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0448\u0435\u043d\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Vostok",
+        "Kashensay",
+        "Koshensay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609235
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b7c6473d2bc6ceea9c4f6b0822abec1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209010323
+        }
+    ],
+    "wof:id":1209010323,
+    "wof:lastmodified":1537659404,
+    "wof:name":"Koshensay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.45544,
+    50.61239000000001,
+    59.45544,
+    50.61239000000001
+],
+  "geometry": {"coordinates":[59.45544,50.61239000000001],"type":"Point"}
+}

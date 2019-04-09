@@ -1,0 +1,70 @@
+{
+  "id": 1259677675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.02164,42.47739,70.02164,42.47739",
+    "geom:latitude":42.47739,
+    "geom:longitude":70.02164,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Voyenka",
+    "gn:country_code":"KZ",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10842133,
+    "gn:latitude":42.47739,
+    "gn:longitude":70.02164,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Voyenka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0435\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10842133
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c63dc27974d13edfbcfa5383629939d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785605,
+            "locality_id":1259677675,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1259677675,
+    "wof:lastmodified":1537660066,
+    "wof:name":"Voyenka",
+    "wof:parent_id":1108785605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.02164,
+    42.47739,
+    70.02164,
+    42.47739
+],
+  "geometry": {"coordinates":[70.02164,42.47739],"type":"Point"}
+}

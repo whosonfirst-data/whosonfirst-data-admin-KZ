@@ -1,0 +1,70 @@
+{
+  "id": 1259973465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.06422,41.40225,69.06422,41.40225",
+    "geom:latitude":41.40225,
+    "geom:longitude":69.06422,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Darkhan",
+    "gn:country_code":"KZ",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524644,
+    "gn:latitude":41.40225,
+    "gn:longitude":69.06422,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Darkhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0440\u0445\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524644
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"27edbbeeed72a9c790bb4f27d81068d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1259973465,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1259973465,
+    "wof:lastmodified":1537659844,
+    "wof:name":"Darkhan",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.06421999999999,
+    41.40225,
+    69.06421999999999,
+    41.40225
+],
+  "geometry": {"coordinates":[69.06421999999999,41.40225],"type":"Point"}
+}

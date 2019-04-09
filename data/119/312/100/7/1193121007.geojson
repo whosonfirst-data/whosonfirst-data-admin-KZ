@@ -1,0 +1,70 @@
+{
+  "id": 1193121007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.48987,40.93267,68.48987,40.93267",
+    "geom:latitude":40.93267,
+    "geom:longitude":68.48987,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Imeni Dzerzhinskogo",
+    "gn:country_code":"KZ",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524073,
+    "gn:latitude":40.93267,
+    "gn:longitude":68.48987,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Imeni Dzerzhinskogo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Nurmuxamedov Yesentayev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524073
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d9e11966f14965bc40b0716c3537f76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1193121007,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1193121007,
+    "wof:lastmodified":1537659818,
+    "wof:name":"Imeni Dzerzhinskogo",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.48987,
+    40.93267,
+    68.48987,
+    40.93267
+],
+  "geometry": {"coordinates":[68.48987,40.93267],"type":"Point"}
+}

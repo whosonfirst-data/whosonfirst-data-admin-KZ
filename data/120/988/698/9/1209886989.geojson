@@ -1,0 +1,79 @@
+{
+  "id": 1209886989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.52584,42.96966,71.52584,42.96966",
+    "geom:latitude":42.96966,
+    "geom:longitude":71.52584,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Krasnaya Zvezda",
+    "gn:country_code":"KZ",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11118819,
+    "gn:latitude":42.96966,
+    "gn:longitude":71.52584,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Krasnaya Zvezda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Krasnaya Zvezda"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u0417\u0432\u0435\u0437\u0434\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u0417\u0430\u0440\u044f"
+    ],
+    "name:und_x_variant":[
+        "Krasnaya Zarya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11118819
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"62f96474dff2dd052bdfd59c89956154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785487,
+            "locality_id":1209886989,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1209886989,
+    "wof:lastmodified":1537660101,
+    "wof:name":"Krasnaya Zvezda",
+    "wof:parent_id":1108785487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.52584,
+    42.96966,
+    71.52584,
+    42.96966
+],
+  "geometry": {"coordinates":[71.52584,42.96966],"type":"Point"}
+}

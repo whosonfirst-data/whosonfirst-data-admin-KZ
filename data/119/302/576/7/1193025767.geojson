@@ -1,0 +1,77 @@
+{
+  "id": 1193025767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.26354,50.71225,82.26354,50.71225",
+    "geom:latitude":50.71225,
+    "geom:longitude":82.26354,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Razino",
+    "gn:country_code":"KZ",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519888,
+    "gn:latitude":50.71225,
+    "gn:longitude":82.26354,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Razino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Razino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Platovskoye",
+        "Razino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519888
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"92560fb8b0a86791cb963bc03170bf61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785611,
+            "locality_id":1193025767,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1193025767,
+    "wof:lastmodified":1537659623,
+    "wof:name":"Razino",
+    "wof:parent_id":1108785611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.26354,
+    50.71225,
+    82.26354,
+    50.71225
+],
+  "geometry": {"coordinates":[82.26354000000001,50.71225],"type":"Point"}
+}

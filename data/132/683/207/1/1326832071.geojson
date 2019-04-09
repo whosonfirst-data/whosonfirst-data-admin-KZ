@@ -1,0 +1,79 @@
+{
+  "id": 1326832071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.49613,52.07535,70.49613,52.07535",
+    "geom:latitude":52.07535,
+    "geom:longitude":70.49613,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vinogradovka",
+    "gn:country_code":"KZ",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517446,
+    "gn:latitude":52.07535,
+    "gn:longitude":70.49613,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Vinogradovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vinogradovka"
+    ],
+    "name:kaz_x_preferred":[
+        "V\u012bnogradovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517446
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c962db55822fd78357030109340804a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1326832071,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1326832071,
+    "wof:lastmodified":1537659522,
+    "wof:name":"Vinogradovka",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.49613000000002,
+    52.07535,
+    70.49613000000002,
+    52.07535
+],
+  "geometry": {"coordinates":[70.49613000000002,52.07535],"type":"Point"}
+}

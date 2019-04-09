@@ -1,0 +1,70 @@
+{
+  "id": 1226720371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.87961,49.58875,81.87961,49.58875",
+    "geom:latitude":49.58875,
+    "geom:longitude":81.87961,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Yenbektu",
+    "gn:country_code":"KZ",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512781,
+    "gn:latitude":49.58875,
+    "gn:longitude":81.87961,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yenbektu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0415\u043d\u0431\u0435\u043a\u0442\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512781
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"937dcd3c36face8ba6b6dd967d55b7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1226720371,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226720371,
+    "wof:lastmodified":1537660181,
+    "wof:name":"Yenbektu",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.87961,
+    49.58875,
+    81.87961,
+    49.58875
+],
+  "geometry": {"coordinates":[81.87961,49.58875],"type":"Point"}
+}

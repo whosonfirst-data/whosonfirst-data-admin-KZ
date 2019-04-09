@@ -1,0 +1,76 @@
+{
+  "id": 1277047967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.70522,52.74243,73.70522,52.74243",
+    "geom:latitude":52.74243,
+    "geom:longitude":73.70522,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Karatal",
+    "gn:country_code":"KZ",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533692,
+    "gn:latitude":52.74243,
+    "gn:longitude":73.70522,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Karatal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaratal"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0442\u0430\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0442\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533692
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"229d4bd68e5952b9d30bca7179b53263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785367,
+            "locality_id":1277047967,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1277047967,
+    "wof:lastmodified":1537659979,
+    "wof:name":"Karatal",
+    "wof:parent_id":1108785367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.70522,
+    52.74243000000001,
+    73.70522,
+    52.74243000000001
+],
+  "geometry": {"coordinates":[73.70522,52.74243000000001],"type":"Point"}
+}

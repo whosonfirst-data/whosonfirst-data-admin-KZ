@@ -1,0 +1,67 @@
+{
+  "id": 1293400055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.6,50.91667,51.6,50.91667",
+    "geom:latitude":50.91667,
+    "geom:longitude":51.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koshchi",
+    "gn:country_code":"KZ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609236,
+    "gn:latitude":50.91667,
+    "gn:longitude":51.6,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Koshchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609236
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"37234263897c9ccf2fbcb987308a0fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785731,
+            "locality_id":1293400055,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293400055,
+    "wof:lastmodified":1536913390,
+    "wof:name":"Koshchi",
+    "wof:parent_id":1108785731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.6,
+    50.91667,
+    51.6,
+    50.91667
+],
+  "geometry": {"coordinates":[51.6,50.91667],"type":"Point"}
+}

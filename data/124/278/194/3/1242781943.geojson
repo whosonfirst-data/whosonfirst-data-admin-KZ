@@ -1,0 +1,70 @@
+{
+  "id": 1242781943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.22273,43.13941,80.22273,43.13941",
+    "geom:latitude":43.13941,
+    "geom:longitude":80.22273,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sulusay",
+    "gn:country_code":"KZ",
+    "gn:dem":2411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11522611,
+    "gn:latitude":43.13941,
+    "gn:longitude":80.22273,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sulusay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043b\u0443\u0441\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11522611
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5cb8a26f9cfd516c0bc8a4729d3fd345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1242781943,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1242781943,
+    "wof:lastmodified":1537660185,
+    "wof:name":"Sulusay",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.22273,
+    43.13941,
+    80.22273,
+    43.13941
+],
+  "geometry": {"coordinates":[80.22273,43.13941],"type":"Point"}
+}

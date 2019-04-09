@@ -1,0 +1,83 @@
+{
+  "id": 1243041035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.30039,51.1874,79.30039,51.1874",
+    "geom:latitude":51.1874,
+    "geom:longitude":79.30039,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Baskol'",
+    "gn:country_code":"KZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525707,
+    "gn:latitude":51.1874,
+    "gn:longitude":79.30039,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Baskol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bask\u00f6l"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0441\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Baskol\u2019",
+        "Bashkul\u2019",
+        "Bashkul\u2019skiy",
+        "Bashkol\u2019",
+        "Bask\u00f6l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525707
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6f45f3ea7487da293036f2f4e43e40a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785639,
+            "locality_id":1243041035,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243041035,
+    "wof:lastmodified":1537659888,
+    "wof:name":"Baskol'",
+    "wof:parent_id":1108785639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.30039000000002,
+    51.1874,
+    79.30039000000002,
+    51.1874
+],
+  "geometry": {"coordinates":[79.30039000000002,51.1874],"type":"Point"}
+}

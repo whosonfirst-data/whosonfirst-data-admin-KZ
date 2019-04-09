@@ -1,0 +1,79 @@
+{
+  "id": 1225916705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.62355,54.96909,69.62355,54.96909",
+    "geom:latitude":54.96909,
+    "geom:longitude":69.62355,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Metlishino",
+    "gn:country_code":"KZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520961,
+    "gn:latitude":54.96909,
+    "gn:longitude":69.62355,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Metlishino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Metlishino"
+    ],
+    "name:kaz_x_preferred":[
+        "Metl\u012bsh\u012bno"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0435\u0442\u043b\u0438\u0448\u0438\u043d\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0442\u043b\u0438\u0448\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520961
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cf10bdedda6549a1e97b83a36300b16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1225916705,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1225916705,
+    "wof:lastmodified":1537659691,
+    "wof:name":"Metlishino",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.62355,
+    54.96909,
+    69.62355,
+    54.96909
+],
+  "geometry": {"coordinates":[69.62354999999999,54.96909],"type":"Point"}
+}

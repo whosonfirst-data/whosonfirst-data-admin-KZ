@@ -1,0 +1,73 @@
+{
+  "id": 1276243145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.73333,53.23333,63.73333,53.23333",
+    "geom:latitude":53.23333,
+    "geom:longitude":63.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Konezavod",
+    "gn:country_code":"KZ",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522318,
+    "gn:latitude":53.23333,
+    "gn:longitude":63.73333,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Konezavod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0417\u0430\u0440\u0435\u0447\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Zarechnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522318
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ecbd14dca14e14511d65b88110152429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1276243145,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1276243145,
+    "wof:lastmodified":1537659753,
+    "wof:name":"Konezavod",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.73333,
+    53.23333,
+    63.73333,
+    53.23333
+],
+  "geometry": {"coordinates":[63.73333,53.23333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343972587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.01946,49.98114,80.01946,49.98114",
+    "geom:latitude":49.98114,
+    "geom:longitude":80.01946,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bekish",
+    "gn:country_code":"KZ",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525545,
+    "gn:latitude":49.98114,
+    "gn:longitude":80.01946,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bekish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525545
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c4300a321781f876a08b90829957db8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1343972587,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343972587,
+    "wof:lastmodified":1537001686,
+    "wof:name":"Bekish",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.01946,
+    49.98114,
+    80.01946,
+    49.98114
+],
+  "geometry": {"coordinates":[80.01946,49.98114],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226112493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.86933,50.02461,82.86933,50.02461",
+    "geom:latitude":50.02461,
+    "geom:longitude":82.86933,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Novaya Ul'binka",
+    "gn:country_code":"KZ",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510282,
+    "gn:latitude":50.02461,
+    "gn:longitude":82.86933,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Novaya \u016al\u2019b\u012bnka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Novaya \u016al\u2019b\u012bnka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u0430\u044f \u0423\u043b\u044c\u0431\u0438\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Novaya Ul\u2019binka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510282
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4aaeb9c0bb926354267e1a432273096d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785307,
+            "locality_id":1226112493,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226112493,
+    "wof:lastmodified":1537660180,
+    "wof:name":"Novaya Ul'binka",
+    "wof:parent_id":1108785307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.86933,
+    50.02461,
+    82.86933,
+    50.02461
+],
+  "geometry": {"coordinates":[82.86933000000001,50.02461],"type":"Point"}
+}

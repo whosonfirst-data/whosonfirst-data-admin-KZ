@@ -1,0 +1,81 @@
+{
+  "id": 1260370409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.91303,50.25917,73.91303,50.25917",
+    "geom:latitude":50.25917,
+    "geom:longitude":73.91303,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kuroma",
+    "gn:country_code":"KZ",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521774,
+    "gn:latitude":50.25917,
+    "gn:longitude":73.91303,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Kuroma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qurama"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u04b1\u0440\u0430\u043c\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u043e\u043c\u0430"
+    ],
+    "name:und_x_variant":[
+        "Puroma",
+        "Kuroma",
+        "Kurama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521774
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"69b195edf5c601233362806f2c75a242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1260370409,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1260370409,
+    "wof:lastmodified":1537659728,
+    "wof:name":"Kuroma",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.91303,
+    50.25917000000001,
+    73.91303,
+    50.25917000000001
+],
+  "geometry": {"coordinates":[73.91303000000001,50.25917000000001],"type":"Point"}
+}

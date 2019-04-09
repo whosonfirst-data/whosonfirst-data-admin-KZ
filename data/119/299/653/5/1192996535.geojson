@@ -1,0 +1,71 @@
+{
+  "id": 1192996535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.15,52.08333,76.15,52.08333",
+    "geom:latitude":52.08333,
+    "geom:longitude":76.15,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gostevskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524188,
+    "gn:latitude":52.08333,
+    "gn:longitude":76.15,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Gostevskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gostevskoye",
+        "Gostevskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524188
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f916ceb01846a7d4c8f685b03d9633e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785551,
+            "locality_id":1192996535,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1192996535,
+    "wof:lastmodified":1537659824,
+    "wof:name":"Gostevskiy",
+    "wof:parent_id":1108785551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.15,
+    52.08333,
+    76.15,
+    52.08333
+],
+  "geometry": {"coordinates":[76.15000000000001,52.08333],"type":"Point"}
+}

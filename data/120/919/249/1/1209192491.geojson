@@ -1,0 +1,77 @@
+{
+  "id": 1209192491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.1283,52.32167,77.1283,52.32167",
+    "geom:latitude":52.32167,
+    "geom:longitude":77.1283,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zhetekshi",
+    "gn:country_code":"KZ",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516538,
+    "gn:latitude":52.32167,
+    "gn:longitude":77.1283,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Zhetekshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhitykshi"
+    ],
+    "name:kaz_x_preferred":[
+        "Zhetekshi"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0435\u0442\u0435\u043a\u0448\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u0442\u0435\u043a\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zhetykshi",
+        "Zhitykshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516538
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"70cdfab37a97e4f77cb8cf916a11c74f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209192491
+        }
+    ],
+    "wof:id":1209192491,
+    "wof:lastmodified":1537659475,
+    "wof:name":"Zhetekshi",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.1283,
+    52.32167000000001,
+    77.1283,
+    52.32167000000001
+],
+  "geometry": {"coordinates":[77.1283,52.32167000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260049579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.30417,55.11076,70.30417,55.11076",
+    "geom:latitude":55.11076,
+    "geom:longitude":70.30417,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Pravdino",
+    "gn:country_code":"KZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530663,
+    "gn:latitude":55.11076,
+    "gn:longitude":70.30417,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Pravdino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0434\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530663
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"78c073e030574b9cc2fff7d627f12a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1260049579,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1260049579,
+    "wof:lastmodified":1537659942,
+    "wof:name":"Pravdino",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.30417,
+    55.11076,
+    70.30417,
+    55.11076
+],
+  "geometry": {"coordinates":[70.30417,55.11076],"type":"Point"}
+}

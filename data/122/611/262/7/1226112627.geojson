@@ -1,0 +1,82 @@
+{
+  "id": 1226112627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.31056,51.57728,79.31056,51.57728",
+    "geom:latitude":51.57728,
+    "geom:longitude":79.31056,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Koyanbay",
+    "gn:country_code":"KZ",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522112,
+    "gn:latitude":51.57728,
+    "gn:longitude":79.31056,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Koyanbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qoyanbay"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049a\u043e\u044f\u043d\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u044f\u043d\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kainbay",
+        "Koyanbay",
+        "Koyambay",
+        "Qoyanbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522112
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f594a83c3b02c6b9b6dc9bfa5830f7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785639,
+            "locality_id":1226112627,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226112627,
+    "wof:lastmodified":1537659743,
+    "wof:name":"Koyanbay",
+    "wof:parent_id":1108785639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.31056,
+    51.57728,
+    79.31056,
+    51.57728
+],
+  "geometry": {"coordinates":[79.31056,51.57728],"type":"Point"}
+}

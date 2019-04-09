@@ -1,0 +1,67 @@
+{
+  "id": 1327348263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.88333,49.01667,49.88333,49.01667",
+    "geom:latitude":49.01667,
+    "geom:longitude":49.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Shoshkaly",
+    "gn:country_code":"KZ",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608280,
+    "gn:latitude":49.01667,
+    "gn:longitude":49.88333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Shoshkaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608280
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1ba2146a5aa08bea7ff8f8ae351c4ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1327348263,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1327348263,
+    "wof:lastmodified":1536802244,
+    "wof:name":"Shoshkaly",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.88333,
+    49.01667,
+    49.88333,
+    49.01667
+],
+  "geometry": {"coordinates":[49.88333,49.01667],"type":"Point"}
+}

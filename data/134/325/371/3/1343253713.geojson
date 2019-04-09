@@ -1,0 +1,77 @@
+{
+  "id": 1343253713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.39986,50.64981,49.39986,50.64981",
+    "geom:latitude":50.64981,
+    "geom:longitude":49.39986,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zhaykbay",
+    "gn:country_code":"KZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607574,
+    "gn:latitude":50.64981,
+    "gn:longitude":49.39986,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zhaykbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhaykbay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0439\u043a\u0431\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Zhaykpay",
+        "Zhaykbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607574
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4d05ecfd7ad8db2e911e003f3f0cdaf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785329,
+            "locality_id":1343253713,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1343253713,
+    "wof:lastmodified":1537659341,
+    "wof:name":"Zhaykbay",
+    "wof:parent_id":1108785329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.39986,
+    50.64981,
+    49.39986,
+    50.64981
+],
+  "geometry": {"coordinates":[49.39986,50.64981],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209498869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.29516,40.73811,68.29516,40.73811",
+    "geom:latitude":40.73811,
+    "geom:longitude":68.29516,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sel'khoztekhnika",
+    "gn:country_code":"KZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956123,
+    "gn:latitude":40.73811,
+    "gn:longitude":68.29516,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Sel\u2019khoztekhnika",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sel\u2019khoztekhnika"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u043b\u044c\u0445\u043e\u0437\u0442\u0435\u0445\u043d\u0438\u043a\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Mirzashol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956123
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"18ce74699565f006913684b667355f6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209498869
+        }
+    ],
+    "wof:id":1209498869,
+    "wof:lastmodified":1537660079,
+    "wof:name":"Sel'khoztekhnika",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.29516,
+    40.73811,
+    68.29516,
+    40.73811
+],
+  "geometry": {"coordinates":[68.29516,40.73811],"type":"Point"}
+}

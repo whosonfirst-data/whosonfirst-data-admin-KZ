@@ -1,0 +1,78 @@
+{
+  "id": 1226332031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.8575,43.31389,52.8575,43.31389",
+    "geom:latitude":43.31389,
+    "geom:longitude":52.8575,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tengge",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608029,
+    "gn:latitude":43.31389,
+    "gn:longitude":52.8575,
+    "gn:modification_date":"2014-07-25",
+    "gn:name":"Tengge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tengge"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043d\u0433\u0435"
+    ],
+    "name:und_x_variant":[
+        "Tenge",
+        "Tengge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608029
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"acdca9cc7eac51b07e5eac1b2255712a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785363,
+            "locality_id":1226332031,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1226332031,
+    "wof:lastmodified":1537659357,
+    "wof:name":"Tengge",
+    "wof:parent_id":1108785363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.8575,
+    43.31389,
+    52.8575,
+    43.31389
+],
+  "geometry": {"coordinates":[52.8575,43.31389],"type":"Point"}
+}

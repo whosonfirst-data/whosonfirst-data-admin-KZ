@@ -1,0 +1,80 @@
+{
+  "id": 1343531631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.28501,50.74767,80.28501,50.74767",
+    "geom:latitude":50.74767,
+    "geom:longitude":80.28501,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Petropavlovka",
+    "gn:country_code":"KZ",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520168,
+    "gn:latitude":50.74767,
+    "gn:longitude":80.28501,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Petropavlovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Petropavlovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Petropavlovskiy",
+        "Petropavlovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520168
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4dcfe5d49bda51836f0d3f86d64ae178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1343531631,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343531631,
+    "wof:lastmodified":1537659641,
+    "wof:name":"Petropavlovka",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.28501,
+    50.74767,
+    80.28501,
+    50.74767
+],
+  "geometry": {"coordinates":[80.28501,50.74767],"type":"Point"}
+}

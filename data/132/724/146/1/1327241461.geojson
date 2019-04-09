@@ -1,0 +1,72 @@
+{
+  "id": 1327241461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.56667,47.7,83.56667,47.7",
+    "geom:latitude":47.7,
+    "geom:longitude":83.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Leninzhol",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521342,
+    "gn:latitude":47.7,
+    "gn:longitude":83.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Leninzhol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leninzhil",
+        "Leninzhol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521342
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2fa8c00dfc459f1a620a40c410911593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785469,
+            "locality_id":1327241461,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327241461,
+    "wof:lastmodified":1537659710,
+    "wof:name":"Leninzhol",
+    "wof:parent_id":1108785469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.56667,
+    47.7,
+    83.56667,
+    47.7
+],
+  "geometry": {"coordinates":[83.56667,47.7],"type":"Point"}
+}

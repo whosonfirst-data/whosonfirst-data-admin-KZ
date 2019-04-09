@@ -1,0 +1,83 @@
+{
+  "id": 1226412035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.48752,53.91285,66.48752,53.91285",
+    "geom:latitude":53.91285,
+    "geom:longitude":66.48752,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dokuchayevo",
+    "gn:country_code":"KZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524575,
+    "gn:latitude":53.91285,
+    "gn:longitude":66.48752,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Dokuchayevo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dokuchayevo"
+    ],
+    "name:kaz_x_preferred":[
+        "Dok\u016bchaevo"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u043e\u043a\u0443\u0447\u0430\u0435\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043a\u0443\u0447\u0430\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Dokuchayevskiy",
+        "Dokuchayevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524575
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"971a729d23a0c8c1a137df0fb4bff2a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785689,
+            "locality_id":1226412035,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226412035,
+    "wof:lastmodified":1537659840,
+    "wof:name":"Dokuchayevo",
+    "wof:parent_id":1108785689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.48751999999999,
+    53.91285,
+    66.48751999999999,
+    53.91285
+],
+  "geometry": {"coordinates":[66.48751999999999,53.91285],"type":"Point"}
+}

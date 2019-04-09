@@ -1,0 +1,70 @@
+{
+  "id": 1309787969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.59788,53.45817,66.59788,53.45817",
+    "geom:latitude":53.45817,
+    "geom:longitude":66.59788,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Donskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532126,
+    "gn:latitude":53.45817,
+    "gn:longitude":66.59788,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Donskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532126
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c9d448bbd92761d47406c28c37f848df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785689,
+            "locality_id":1309787969,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1309787969,
+    "wof:lastmodified":1537659958,
+    "wof:name":"Donskoye",
+    "wof:parent_id":1108785689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.59788,
+    53.45817,
+    66.59788,
+    53.45817
+],
+  "geometry": {"coordinates":[66.59788,53.45817],"type":"Point"}
+}

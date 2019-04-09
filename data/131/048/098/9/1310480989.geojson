@@ -1,0 +1,79 @@
+{
+  "id": 1310480989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.63578,52.46614,63.63578,52.46614",
+    "geom:latitude":52.46614,
+    "geom:longitude":63.63578,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kazanbasy",
+    "gn:country_code":"KZ",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522856,
+    "gn:latitude":52.46614,
+    "gn:longitude":63.63578,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kazanbasy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qazanbasy"
+    ],
+    "name:kaz_x_preferred":[
+        "Qazanbasy"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0437\u0430\u043d\u0431\u0430\u0441\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043d\u0431\u0430\u0441\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522856
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"615e7de12f27f36ae32e6447cd0f6f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785659,
+            "locality_id":1310480989,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310480989,
+    "wof:lastmodified":1537659776,
+    "wof:name":"Kazanbasy",
+    "wof:parent_id":1108785659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.63578,
+    52.46614,
+    63.63578,
+    52.46614
+],
+  "geometry": {"coordinates":[63.63578,52.46614],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326544681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.00469,43.37264,78.00469,43.37264",
+    "geom:latitude":43.37264,
+    "geom:longitude":78.00469,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Karaturyk",
+    "gn:country_code":"KZ",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523061,
+    "gn:latitude":43.37264,
+    "gn:longitude":78.00469,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Karaturyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karaturuk",
+        "Karaturyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523061
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a60e2b6337aa922236e3765a3273e8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1326544681,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1326544681,
+    "wof:lastmodified":1537659782,
+    "wof:name":"Karaturyk",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.00469,
+    43.37264,
+    78.00469,
+    43.37264
+],
+  "geometry": {"coordinates":[78.00469,43.37264],"type":"Point"}
+}

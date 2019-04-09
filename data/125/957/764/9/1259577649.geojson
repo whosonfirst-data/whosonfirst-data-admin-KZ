@@ -1,0 +1,73 @@
+{
+  "id": 1259577649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.90139,49.7305,52.90139,49.7305",
+    "geom:latitude":49.7305,
+    "geom:longitude":52.90139,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Temirbek",
+    "gn:country_code":"KZ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608032,
+    "gn:latitude":49.7305,
+    "gn:longitude":52.90139,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Temirbek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Temirbek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043c\u0438\u0440\u0431\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608032
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"21a901cd51ba50840acda1501af448ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785493,
+            "locality_id":1259577649,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1259577649,
+    "wof:lastmodified":1537659357,
+    "wof:name":"Temirbek",
+    "wof:parent_id":1108785493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.90139,
+    49.7305,
+    52.90139,
+    49.7305
+],
+  "geometry": {"coordinates":[52.90139,49.7305],"type":"Point"}
+}

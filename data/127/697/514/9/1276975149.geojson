@@ -1,0 +1,79 @@
+{
+  "id": 1276975149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.5936,42.73879,69.5936,42.73879",
+    "geom:latitude":42.73879,
+    "geom:longitude":69.5936,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Orynbay Taymanov",
+    "gn:country_code":"KZ",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641406,
+    "gn:latitude":42.73879,
+    "gn:longitude":69.5936,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Orynbay Taymanov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Orynbay Taymanov"
+    ],
+    "name:kaz_x_variant":[
+        "\u041e\u0440\u044b\u043d\u0431\u0430\u0439 \u0422\u0430\u0439\u043c\u0430\u043d\u043e\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0438\u0439 \u0411\u043e\u0440\u0430\u043b\u0434\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Nizhniy Boralday"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641406
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3d22756c873e130d3ea8aa99bd25964f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785589,
+            "locality_id":1276975149,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276975149,
+    "wof:lastmodified":1537660057,
+    "wof:name":"Orynbay Taymanov",
+    "wof:parent_id":1108785589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.5936,
+    42.73879,
+    69.5936,
+    42.73879
+],
+  "geometry": {"coordinates":[69.5936,42.73879],"type":"Point"}
+}

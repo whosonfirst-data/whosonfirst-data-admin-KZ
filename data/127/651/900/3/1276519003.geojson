@@ -1,0 +1,72 @@
+{
+  "id": 1276519003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.50216,44.6236,74.50216,44.6236",
+    "geom:latitude":44.6236,
+    "geom:longitude":74.50216,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Aqsuyek",
+    "gn:country_code":"KZ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526629,
+    "gn:latitude":44.6236,
+    "gn:longitude":74.50216,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Aqs\u00fcyek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiganak Vtoroy",
+        "Aksuyek",
+        "Aqs\u00fcyek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526629
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"846dfcaf81b9a8645ebb7e0524a96860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785485,
+            "locality_id":1276519003,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1276519003,
+    "wof:lastmodified":1537659921,
+    "wof:name":"Aqsuyek",
+    "wof:parent_id":1108785485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.50216,
+    44.6236,
+    74.50216,
+    44.6236
+],
+  "geometry": {"coordinates":[74.50216,44.6236],"type":"Point"}
+}

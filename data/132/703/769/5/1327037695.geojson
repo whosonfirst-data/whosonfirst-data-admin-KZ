@@ -1,0 +1,76 @@
+{
+  "id": 1327037695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.26766,52.58628,70.26766,52.58628",
+    "geom:latitude":52.58628,
+    "geom:longitude":70.26766,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kolokolovka",
+    "gn:country_code":"KZ",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522393,
+    "gn:latitude":52.58628,
+    "gn:longitude":70.26766,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Kolokolovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kolokolovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043a\u043e\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043a\u043e\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522393
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cd3f93d02ca381680c614a9ce7e04925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785389,
+            "locality_id":1327037695,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327037695,
+    "wof:lastmodified":1537659758,
+    "wof:name":"Kolokolovka",
+    "wof:parent_id":1108785389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.26765999999999,
+    52.58628,
+    70.26765999999999,
+    52.58628
+],
+  "geometry": {"coordinates":[70.26765999999999,52.58628],"type":"Point"}
+}

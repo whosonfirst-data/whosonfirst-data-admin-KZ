@@ -1,0 +1,97 @@
+{
+  "id": 890435901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.94,43.37361,76.94,43.37361",
+    "geom:latitude":43.37361,
+    "geom:longitude":76.94,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":7874,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Pervomayskiy"
+    ],
+    "name:eng_x_preferred":[
+        "Pervomayskiy"
+    ],
+    "name:ita_x_preferred":[
+        "Pervomajskij"
+    ],
+    "name:kaz_x_preferred":[
+        "Pervomaysk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439"
+    ],
+    "name:may_x_preferred":[
+        "Pervomayskiy"
+    ],
+    "name:rum_x_preferred":[
+        "Pervomayskiy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Imeni Pervaya Maya"
+    ],
+    "qs:name":"Pervomayskiy",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520208,
+        "gp:id":12514260,
+        "qs:id":133256,
+        "wd:id":"Q3900621",
+        "wk:page":"Pervomaysky"
+    },
+    "wof:country":"KZ",
+    "wof:created":1469052086,
+    "wof:geomhash":"9cefaca70662616b276c171db07537ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890435901,
+            "region_id":85672937
+        }
+    ],
+    "wof:id":890435901,
+    "wof:lastmodified":1553816397,
+    "wof:name":"Pervomayskiy",
+    "wof:parent_id":85672937,
+    "wof:placetype":"locality",
+    "wof:population":7874,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.94,
+    43.37361,
+    76.94,
+    43.37361
+],
+  "geometry": {"coordinates":[76.94,43.37361],"type":"Point"}
+}

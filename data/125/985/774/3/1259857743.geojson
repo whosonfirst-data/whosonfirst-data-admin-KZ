@@ -1,0 +1,80 @@
+{
+  "id": 1259857743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.96032,51.21874,77.96032,51.21874",
+    "geom:latitude":51.21874,
+    "geom:longitude":77.96032,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kyzylenbek",
+    "gn:country_code":"KZ",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522378,
+    "gn:latitude":51.21874,
+    "gn:longitude":77.96032,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kyzylenbek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u049a\u044b\u0437\u044b\u043b\u0435\u04a3\u0431\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0435\u043d\u0431\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kizylenbek",
+        "Kyzylenbek",
+        "Komdyaral",
+        "Shangar",
+        "Qyzylengbek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522378
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6960ab9ab8b4c8c817f37ebabe824bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1259857743,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1259857743,
+    "wof:lastmodified":1537659756,
+    "wof:name":"Kyzylenbek",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.96032,
+    51.21874,
+    77.96032,
+    51.21874
+],
+  "geometry": {"coordinates":[77.96032,51.21874],"type":"Point"}
+}

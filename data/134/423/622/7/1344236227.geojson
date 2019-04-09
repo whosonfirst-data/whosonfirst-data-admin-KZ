@@ -1,0 +1,71 @@
+{
+  "id": 1344236227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.12722,49.53089,66.12722,49.53089",
+    "geom:latitude":49.53089,
+    "geom:longitude":66.12722,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kyzylshik",
+    "gn:country_code":"KZ",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530115,
+    "gn:latitude":49.53089,
+    "gn:longitude":66.12722,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kyzylshik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yekidin",
+        "Kyzylshik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530115
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ef9b2b51c860dfacee2e7ebe6c437026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1344236227,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1344236227,
+    "wof:lastmodified":1537659935,
+    "wof:name":"Kyzylshik",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.12722,
+    49.53089,
+    66.12722,
+    49.53089
+],
+  "geometry": {"coordinates":[66.12721999999999,49.53089],"type":"Point"}
+}

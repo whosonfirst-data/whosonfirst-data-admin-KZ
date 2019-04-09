@@ -1,0 +1,73 @@
+{
+  "id": 1242751085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.91902,50.06739,82.91902,50.06739",
+    "geom:latitude":50.06739,
+    "geom:longitude":82.91902,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ust'-Pikhtovka",
+    "gn:country_code":"KZ",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510279,
+    "gn:latitude":50.06739,
+    "gn:longitude":82.91902,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ust\u2019-Pikhtovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ust\u2019-Pikhtovka"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u0441\u0442\u044c-\u041f\u0438\u0445\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510279
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"604579792fc3d84eb48892ae223d2e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785307,
+            "locality_id":1242751085,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1242751085,
+    "wof:lastmodified":1537660180,
+    "wof:name":"Ust'-Pikhtovka",
+    "wof:parent_id":1108785307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.91901999999997,
+    50.06739,
+    82.91901999999997,
+    50.06739
+],
+  "geometry": {"coordinates":[82.91901999999997,50.06739],"type":"Point"}
+}

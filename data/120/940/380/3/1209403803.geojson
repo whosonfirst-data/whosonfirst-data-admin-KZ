@@ -1,0 +1,67 @@
+{
+  "id": 1209403803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.32516,40.67356,68.32516,40.67356",
+    "geom:latitude":40.67356,
+    "geom:longitude":68.32516,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Krasnyy Luch",
+    "gn:country_code":"KZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956124,
+    "gn:latitude":40.67356,
+    "gn:longitude":68.32516,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Krasnyy Luch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041b\u0443\u0447"
+    ],
+    "name:uzb_x_preferred":[
+        "Bostandiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956124
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"be738ac663f083019c7ec39a3260e096",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209403803
+        }
+    ],
+    "wof:id":1209403803,
+    "wof:lastmodified":1537660079,
+    "wof:name":"Krasnyy Luch",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.32516,
+    40.67356,
+    68.32516,
+    40.67356
+],
+  "geometry": {"coordinates":[68.32516,40.67356],"type":"Point"}
+}

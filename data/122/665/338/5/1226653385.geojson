@@ -1,0 +1,70 @@
+{
+  "id": 1226653385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.08333,53.13333,69.08333,53.13333",
+    "geom:latitude":53.13333,
+    "geom:longitude":69.08333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sel'khozkoloniya",
+    "gn:country_code":"KZ",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519428,
+    "gn:latitude":53.13333,
+    "gn:longitude":69.08333,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Sel\u2019khozkoloniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sel\u2019khozkoloniya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519428
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f44ca4edddb8cdba41f57a614c934875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1226653385,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226653385,
+    "wof:lastmodified":1537659607,
+    "wof:name":"Sel'khozkoloniya",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.08333,
+    53.13333000000001,
+    69.08333,
+    53.13333000000001
+],
+  "geometry": {"coordinates":[69.08333,53.13333000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243381627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.96667,49.58333,46.96667,49.58333",
+    "geom:latitude":49.58333,
+    "geom:longitude":46.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Baybakhty",
+    "gn:country_code":"KZ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610392,
+    "gn:latitude":49.58333,
+    "gn:longitude":46.96667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Baybakhty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610392
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0d61b3151bddc32d0726c4a8533f9996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785327,
+            "locality_id":1243381627,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1243381627,
+    "wof:lastmodified":1536899050,
+    "wof:name":"Baybakhty",
+    "wof:parent_id":1108785327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.96667,
+    49.58333,
+    46.96667,
+    49.58333
+],
+  "geometry": {"coordinates":[46.96667,49.58333],"type":"Point"}
+}

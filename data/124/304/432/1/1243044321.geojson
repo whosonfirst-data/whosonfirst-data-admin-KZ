@@ -1,0 +1,79 @@
+{
+  "id": 1243044321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.38046,53.62616,63.38046,53.62616",
+    "geom:latitude":53.62616,
+    "geom:longitude":63.38046,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Shishkinskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519147,
+    "gn:latitude":53.62616,
+    "gn:longitude":63.38046,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Shishkinskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shishkinskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "Sh\u012bshk\u012bnsk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0438\u0448\u043a\u0438\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0448\u043a\u0438\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519147
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2a834757b57980e75f5cea9065dd4ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1243044321,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1243044321,
+    "wof:lastmodified":1537659593,
+    "wof:name":"Shishkinskiy",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.38046,
+    53.62616,
+    63.38046,
+    53.62616
+],
+  "geometry": {"coordinates":[63.38046,53.62616],"type":"Point"}
+}

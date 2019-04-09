@@ -1,0 +1,77 @@
+{
+  "id": 1293304343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.2027,52.10725,72.2027,52.10725",
+    "geom:latitude":52.10725,
+    "geom:longitude":72.2027,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Minskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520925,
+    "gn:latitude":52.10725,
+    "gn:longitude":72.2027,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Minskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "M\u012bnskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0438\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Minskiy",
+        "Minskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520925
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c7b60c1edfee51a634fce3bd82a15543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1293304343,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293304343,
+    "wof:lastmodified":1537659688,
+    "wof:name":"Minskoye",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.2027,
+    52.10725,
+    72.2027,
+    52.10725
+],
+  "geometry": {"coordinates":[72.20269999999999,52.10725],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243373449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.88333,50.98333,79.88333,50.98333",
+    "geom:latitude":50.98333,
+    "geom:longitude":79.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pogranichnyy",
+    "gn:country_code":"KZ",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520108,
+    "gn:latitude":50.98333,
+    "gn:longitude":79.88333,
+    "gn:modification_date":"1996-04-17",
+    "gn:name":"Pogranichnyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520108
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"462d58e5fceeaf3f78090b455662b9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785639,
+            "locality_id":1243373449,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243373449,
+    "wof:lastmodified":1536911120,
+    "wof:name":"Pogranichnyy",
+    "wof:parent_id":1108785639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.88333,
+    50.98333,
+    79.88333,
+    50.98333
+],
+  "geometry": {"coordinates":[79.88333,50.98333],"type":"Point"}
+}

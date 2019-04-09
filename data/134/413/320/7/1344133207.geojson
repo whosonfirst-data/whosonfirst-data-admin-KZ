@@ -1,0 +1,71 @@
+{
+  "id": 1344133207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.08333,44.25,75.08333,44.25",
+    "geom:latitude":44.25,
+    "geom:longitude":75.08333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kak Baydybek",
+    "gn:country_code":"KZ",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523644,
+    "gn:latitude":44.25,
+    "gn:longitude":75.08333,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Kak Baydybek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kak Bayd\u00f6bek",
+        "Kak Baydybek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523644
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bc07e79784ac3d6438d797f3ef6ce97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785317,
+            "locality_id":1344133207,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1344133207,
+    "wof:lastmodified":1537659801,
+    "wof:name":"Kak Baydybek",
+    "wof:parent_id":1108785317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.08333,
+    44.25,
+    75.08333,
+    44.25
+],
+  "geometry": {"coordinates":[75.08333,44.25],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1310091737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.21172,53.17251,64.21172,53.17251",
+    "geom:latitude":53.17251,
+    "geom:longitude":64.21172,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Shcherbakovo",
+    "gn:country_code":"KZ",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522563,
+    "gn:latitude":53.17251,
+    "gn:longitude":64.21172,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Shcherbakovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shcherbakovo"
+    ],
+    "name:kaz_x_preferred":[
+        "Shcherbakovo"
+    ],
+    "name:kaz_x_variant":[
+        "\u0429\u0435\u0440\u0431\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0431\u043b\u0430\u043d\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kobylandy",
+        "Koblandy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522563
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f38c79b0a6c5803be3a950472c5aee19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785531,
+            "locality_id":1310091737,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310091737,
+    "wof:lastmodified":1537659763,
+    "wof:name":"Shcherbakovo",
+    "wof:parent_id":1108785531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.21172,
+    53.17251,
+    64.21172,
+    53.17251
+],
+  "geometry": {"coordinates":[64.21172,53.17251],"type":"Point"}
+}

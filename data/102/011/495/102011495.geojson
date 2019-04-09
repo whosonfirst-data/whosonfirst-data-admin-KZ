@@ -1,0 +1,71 @@
+{
+  "id": 102011495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":231430.396248,
+    "geom:bbox":"48.635307312,46.6036109924,48.6445847112,46.6089706834",
+    "geom:latitude":46.606083,
+    "geom:longitude":48.639461,
+    "gn:latitude":46.60722,
+    "gn:longitude":48.65,
+    "iso:country":"KZ",
+    "lbl:latitude":46.606098,
+    "lbl:longitude":48.63939,
+    "mps:latitude":46.606098,
+    "mps:longitude":48.63939,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
+    "qs:a1":"*\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "qs:a1r":"*",
+    "qs:adm0":"Russia",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"localadmin",
+    "qs:loc":"REMBAZA",
+    "qs:pop":0,
+    "qs:source":"SUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":453617,
+        "gp:id":2016737
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4fdbc57e47bc8eb7597f6bf68066c847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":102011495,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":102011495,
+    "wof:lastmodified":1500056845,
+    "wof:name":"Rembaza",
+    "wof:parent_id":85672889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63530731201172,
+    46.60361099243164,
+    48.64458471124095,
+    46.60897068338379
+],
+  "geometry": {"coordinates":[[[48.64458465576172,46.60499954223633],[48.64385986328125,46.60486221313477],[48.64311218261719,46.60397338867188],[48.64108276367188,46.60361099243164],[48.63530731201172,46.60566711425781],[48.63544464111328,46.60736083984375],[48.63547134399414,46.60752868652344],[48.6354713454262,46.60752870592139],[48.63641742,46.60797114338379],[48.63852684,46.60897068338379],[48.64458471124095,46.60499954223633],[48.64458465576172,46.60499954223633]]],"type":"Polygon"}
+}

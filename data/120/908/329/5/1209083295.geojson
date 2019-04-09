@@ -1,0 +1,70 @@
+{
+  "id": 1209083295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.19681,48.43418,76.19681,48.43418",
+    "geom:latitude":48.43418,
+    "geom:longitude":76.19681,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zimovka Orta-Sarman",
+    "gn:country_code":"KZ",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11494065,
+    "gn:latitude":48.43418,
+    "gn:longitude":76.19681,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Zimovka Orta-Sarman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sorman"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u043e\u0440\u043c\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u043c\u043e\u0432\u043a\u0430 \u041e\u0440\u0442\u0430-\u0421\u0430\u0440\u043c\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11494065
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"50336cf33d6bb18922f66e538b236407",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209083295
+        }
+    ],
+    "wof:id":1209083295,
+    "wof:lastmodified":1537660167,
+    "wof:name":"Zimovka Orta-Sarman",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.19681,
+    48.43418,
+    76.19681,
+    48.43418
+],
+  "geometry": {"coordinates":[76.19681,48.43418],"type":"Point"}
+}

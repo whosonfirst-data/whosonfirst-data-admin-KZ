@@ -1,0 +1,79 @@
+{
+  "id": 1344128377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.7825,42.6084,70.7825,42.6084",
+    "geom:latitude":42.6084,
+    "geom:longitude":70.7825,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yevgen'yevka",
+    "gn:country_code":"KZ",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517146,
+    "gn:latitude":42.6084,
+    "gn:longitude":70.7825,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Yevgen\u2019yevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "K\u00f6lbasta\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u04e9\u043b\u0431\u0430\u0441\u0442\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "Yevgen\u2019yevka"
+    ],
+    "name:rus_x_variant":[
+        "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517146
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c977d7927db8d2569943914ba58b05f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785737,
+            "locality_id":1344128377,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1344128377,
+    "wof:lastmodified":1537659502,
+    "wof:name":"Yevgen'yevka",
+    "wof:parent_id":1108785737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.7825,
+    42.6084,
+    70.7825,
+    42.6084
+],
+  "geometry": {"coordinates":[70.7825,42.6084],"type":"Point"}
+}

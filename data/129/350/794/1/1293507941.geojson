@@ -1,0 +1,70 @@
+{
+  "id": 1293507941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.9464,42.24936,69.9464,42.24936",
+    "geom:latitude":42.24936,
+    "geom:longitude":69.9464,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Popovka",
+    "gn:country_code":"KZ",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8062230,
+    "gn:latitude":42.24936,
+    "gn:longitude":69.9464,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Popovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8062230
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f84875ef49707a15ea2993a472e72410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785369,
+            "locality_id":1293507941,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293507941,
+    "wof:lastmodified":1537660037,
+    "wof:name":"Popovka",
+    "wof:parent_id":1108785369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.9464,
+    42.24936,
+    69.9464,
+    42.24936
+],
+  "geometry": {"coordinates":[69.9464,42.24936],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1259384563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65,52.5,71.65,52.5",
+    "geom:latitude":52.5,
+    "geom:longitude":71.65,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chernyakhovskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521595,
+    "gn:latitude":52.5,
+    "gn:longitude":71.65,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Chernyakhovskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyryqqudyk"
+    ],
+    "name:kaz_x_variant":[
+        "Qyryqqudyq",
+        "\u049a\u044b\u0440\u044b\u049b\u049b\u04b1\u0434\u044b\u049b",
+        "Chernyakhovskoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u044f\u0445\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kyrkkuduk",
+        "Chernyakhovskoye",
+        "Chernyakhovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521595
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"28740eac0116dda843eac5a524af7375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1259384563,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259384563,
+    "wof:lastmodified":1537659722,
+    "wof:name":"Chernyakhovskoye",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65,
+    52.5,
+    71.65,
+    52.5
+],
+  "geometry": {"coordinates":[71.65000000000001,52.5],"type":"Point"}
+}

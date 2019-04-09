@@ -1,0 +1,79 @@
+{
+  "id": 1310082713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.39284,49.21435,73.39284,49.21435",
+    "geom:latitude":49.21435,
+    "geom:longitude":73.39284,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Qyzylqoy",
+    "gn:country_code":"KZ",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247716,
+    "gn:latitude":49.21435,
+    "gn:longitude":73.39284,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Qyzylqoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyzylqoy"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u049b\u043e\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u043a\u043e\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kyzylkoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247716
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"00852681a20f55f9f4467e790a4fd6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1310082713,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1310082713,
+    "wof:lastmodified":1537660131,
+    "wof:name":"Qyzylqoy",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.39284,
+    49.21435,
+    73.39284,
+    49.21435
+],
+  "geometry": {"coordinates":[73.39284000000001,49.21435],"type":"Point"}
+}

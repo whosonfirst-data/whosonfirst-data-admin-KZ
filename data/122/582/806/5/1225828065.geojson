@@ -1,0 +1,87 @@
+{
+  "id": 1225828065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.41264,50.95173,79.41264,50.95173",
+    "geom:latitude":50.95173,
+    "geom:longitude":79.41264,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Malaya Vladimirovka",
+    "gn:country_code":"KZ",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521200,
+    "gn:latitude":50.95173,
+    "gn:longitude":79.41264,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Malaya Vladimirovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malaya Vlad\u012bm\u012brovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0456\u0448\u0456 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b.\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u043b\u0430\u044f \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043a\u0430",
+        "\u0420\u043e\u043c\u0430\u0434\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kishi Vlad\u012bm\u012brovka",
+        "Romadan",
+        "Maly Vladimirovskiy",
+        "Ramadan",
+        "Malaya Vladimirovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521200
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0d35e7021fd07f8568db563eef3d3add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785639,
+            "locality_id":1225828065,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1225828065,
+    "wof:lastmodified":1537659701,
+    "wof:name":"Malaya Vladimirovka",
+    "wof:parent_id":1108785639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.41264,
+    50.95173,
+    79.41264,
+    50.95173
+],
+  "geometry": {"coordinates":[79.41264,50.95173],"type":"Point"}
+}

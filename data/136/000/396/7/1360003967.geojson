@@ -1,0 +1,67 @@
+{
+  "id": 1360003967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.33333,48.78333,79.33333,48.78333",
+    "geom:latitude":48.78333,
+    "geom:longitude":79.33333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Birlik",
+    "gn:country_code":"KZ",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525318,
+    "gn:latitude":48.78333,
+    "gn:longitude":79.33333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Birlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525318
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d4316b8360d6842d5b70d47702d3e0fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785727,
+            "locality_id":1360003967,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1360003967,
+    "wof:lastmodified":1537060025,
+    "wof:name":"Birlik",
+    "wof:parent_id":1108785727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.33333,
+    48.78333,
+    79.33333,
+    48.78333
+],
+  "geometry": {"coordinates":[79.33333,48.78333],"type":"Point"}
+}

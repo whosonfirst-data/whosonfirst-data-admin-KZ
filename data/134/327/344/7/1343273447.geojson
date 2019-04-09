@@ -1,0 +1,84 @@
+{
+  "id": 1343273447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.42812,52.94657,70.42812,52.94657",
+    "geom:latitude":52.94657,
+    "geom:longitude":70.42812,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kotyrkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519926,
+    "gn:latitude":52.94657,
+    "gn:longitude":70.42812,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Kotyrkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qotyrk\u00f6l"
+    ],
+    "name:kaz_x_preferred":[
+        "Qatark\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0442\u0430\u0440\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u044b\u0440\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Koturkul\u2019skoye",
+        "Kotyrkol\u2019",
+        "Qotyrk\u00f6l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519926
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"19594d56e0d7c4d7083afc5785bfc820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785629,
+            "locality_id":1343273447,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343273447,
+    "wof:lastmodified":1537659625,
+    "wof:name":"Kotyrkol'",
+    "wof:parent_id":1108785629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.42811999999998,
+    52.94657,
+    70.42811999999998,
+    52.94657
+],
+  "geometry": {"coordinates":[70.42811999999998,52.94657],"type":"Point"}
+}

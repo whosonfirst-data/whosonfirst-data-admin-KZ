@@ -1,0 +1,76 @@
+{
+  "id": 1242857415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.97711,50.36882,82.97711,50.36882",
+    "geom:latitude":50.36882,
+    "geom:longitude":82.97711,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Orlovka",
+    "gn:country_code":"KZ",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520371,
+    "gn:latitude":50.36882,
+    "gn:longitude":82.97711,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Orlovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Orlovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0440\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520371
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ed0ebe2707bcc6d99d89cd71e21e1efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785307,
+            "locality_id":1242857415,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1242857415,
+    "wof:lastmodified":1537659652,
+    "wof:name":"Orlovka",
+    "wof:parent_id":1108785307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.97711,
+    50.36882,
+    82.97711,
+    50.36882
+],
+  "geometry": {"coordinates":[82.97711,50.36882],"type":"Point"}
+}

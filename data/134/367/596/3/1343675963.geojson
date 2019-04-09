@@ -1,0 +1,74 @@
+{
+  "id": 1343675963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.59678,43.73718,77.59678,43.73718",
+    "geom:latitude":43.73718,
+    "geom:longitude":77.59678,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Karashengel'",
+    "gn:country_code":"KZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529695,
+    "gn:latitude":43.73718,
+    "gn:longitude":77.59678,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Karashengel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0448\u0435\u043d\u0433\u0435\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Karashengel\u2019",
+        "Qarashenggel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529695
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b90fe3305ead09f7deb0314956619538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1343675963,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1343675963,
+    "wof:lastmodified":1537659932,
+    "wof:name":"Karashengel'",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.59678000000002,
+    43.73718,
+    77.59678000000002,
+    43.73718
+],
+  "geometry": {"coordinates":[77.59678000000002,43.73718],"type":"Point"}
+}

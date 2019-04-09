@@ -1,0 +1,73 @@
+{
+  "id": 1309876619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.91662,43.88948,66.91662,43.88948",
+    "geom:latitude":43.88948,
+    "geom:longitude":66.91662,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Baykenzhe",
+    "gn:country_code":"KZ",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10425775,
+    "gn:latitude":43.88948,
+    "gn:longitude":66.91662,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Baykenzhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Baykenzhe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u0439\u043a\u0435\u043d\u0436\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10425775
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1c38915750b314f407fdb6e86eed98b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1309876619,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1309876619,
+    "wof:lastmodified":1537660048,
+    "wof:name":"Baykenzhe",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.91662,
+    43.88948,
+    66.91662,
+    43.88948
+],
+  "geometry": {"coordinates":[66.91661999999999,43.88948],"type":"Point"}
+}

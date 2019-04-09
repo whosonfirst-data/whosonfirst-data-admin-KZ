@@ -1,0 +1,76 @@
+{
+  "id": 1293560525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.46498,53.36566,62.46498,53.36566",
+    "geom:latitude":53.36566,
+    "geom:longitude":62.46498,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pervomayskoe",
+    "gn:country_code":"KZ",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11417026,
+    "gn:latitude":53.36566,
+    "gn:longitude":62.46498,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Pervomayskoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Pervomayskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pervomayskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11417026
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"83e484cc1bed7144a2292c6129c1f741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1293560525,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1293560525,
+    "wof:lastmodified":1537660146,
+    "wof:name":"Pervomayskoe",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.46498,
+    53.36566,
+    62.46498,
+    53.36566
+],
+  "geometry": {"coordinates":[62.46498,53.36566],"type":"Point"}
+}

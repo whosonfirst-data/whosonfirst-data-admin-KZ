@@ -1,0 +1,70 @@
+{
+  "id": 1326924545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.37132,41.63399,69.37132,41.63399",
+    "geom:latitude":41.63399,
+    "geom:longitude":69.37132,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Aganay",
+    "gn:country_code":"KZ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538042,
+    "gn:latitude":41.63399,
+    "gn:longitude":69.37132,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Aganay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0430\u043d\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538042
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4f2d6f119d8f7547b3fcd7eee71707cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1326924545,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1326924545,
+    "wof:lastmodified":1537660023,
+    "wof:name":"Aganay",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.37132,
+    41.63399,
+    69.37132,
+    41.63399
+],
+  "geometry": {"coordinates":[69.37132,41.63399],"type":"Point"}
+}

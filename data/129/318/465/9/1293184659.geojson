@@ -1,0 +1,70 @@
+{
+  "id": 1293184659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.99692,42.10061,69.99692,42.10061",
+    "geom:latitude":42.10061,
+    "geom:longitude":69.99692,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Skreplevka",
+    "gn:country_code":"KZ",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11120441,
+    "gn:latitude":42.10061,
+    "gn:longitude":69.99692,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Skreplevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0440\u0435\u043f\u043b\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11120441
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b198237d511ac72715898810af4babaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785369,
+            "locality_id":1293184659,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293184659,
+    "wof:lastmodified":1537660114,
+    "wof:name":"Skreplevka",
+    "wof:parent_id":1108785369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.99691999999999,
+    42.10061,
+    69.99691999999999,
+    42.10061
+],
+  "geometry": {"coordinates":[69.99691999999999,42.10061],"type":"Point"}
+}

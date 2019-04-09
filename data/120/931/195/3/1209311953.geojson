@@ -1,0 +1,75 @@
+{
+  "id": 1209311953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.74972,46.95278,51.74972,46.95278",
+    "geom:latitude":46.95278,
+    "geom:longitude":51.74972,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Damba",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":-29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610059,
+    "gn:latitude":46.95278,
+    "gn:longitude":51.74972,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Damba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Damba"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0430\u043c\u0431\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043c\u0431\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shaya Damba",
+        "Damba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610059
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1fef265da16744e381f4989f9d6de0eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209311953
+        }
+    ],
+    "wof:id":1209311953,
+    "wof:lastmodified":1537659429,
+    "wof:name":"Damba",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.74972,
+    46.95278,
+    51.74972,
+    46.95278
+],
+  "geometry": {"coordinates":[51.74972,46.95278],"type":"Point"}
+}

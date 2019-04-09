@@ -1,0 +1,83 @@
+{
+  "id": 1276948079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.87203,49.25039,78.87203,49.25039",
+    "geom:latitude":49.25039,
+    "geom:longitude":78.87203,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Medey",
+    "gn:country_code":"KZ",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11514436,
+    "gn:latitude":49.25039,
+    "gn:longitude":78.87203,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Medey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Medey"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0435\u0434\u0435\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0435\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u0440\u0438\u043a\u043a\u043e\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Medeu",
+        "Berikkora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11514436
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3ae38c3fc092af118b20bda6fa8bf929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785727,
+            "locality_id":1276948079,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276948079,
+    "wof:lastmodified":1537660182,
+    "wof:name":"Medey",
+    "wof:parent_id":1108785727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.87203000000002,
+    49.25039,
+    78.87203000000002,
+    49.25039
+],
+  "geometry": {"coordinates":[78.87203000000002,49.25039],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1326544285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.28167,43.56556,75.28167,43.56556",
+    "geom:latitude":43.56556,
+    "geom:longitude":75.28167,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Roslavl'",
+    "gn:country_code":"KZ",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519860,
+    "gn:latitude":43.56556,
+    "gn:longitude":75.28167,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Roslavl\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "M\u00e4tibulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u04d9\u0442\u0456\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u043b\u0430\u0432\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Roslavl\u2019skiy",
+        "Roslavl\u2019",
+        "Matibulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519860
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"25ae7461e82af97ef12dca45635e8159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1326544285,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1326544285,
+    "wof:lastmodified":1537659621,
+    "wof:name":"Roslavl'",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.28166999999998,
+    43.56556,
+    75.28166999999998,
+    43.56556
+],
+  "geometry": {"coordinates":[75.28166999999998,43.56556],"type":"Point"}
+}

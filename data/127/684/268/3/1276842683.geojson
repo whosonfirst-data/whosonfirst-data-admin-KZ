@@ -1,0 +1,77 @@
+{
+  "id": 1276842683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.48794,53.29743,73.48794,53.29743",
+    "geom:latitude":53.29743,
+    "geom:longitude":73.48794,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Karamola",
+    "gn:country_code":"KZ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1522984,
+    "gn:latitude":53.29743,
+    "gn:longitude":73.48794,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Karamola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Karamola"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043c\u043e\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kartaspa",
+        "Karamola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522984
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"600345fcd6dc75e62060bd60447d1b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785367,
+            "locality_id":1276842683,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276842683,
+    "wof:lastmodified":1537659780,
+    "wof:name":"Karamola",
+    "wof:parent_id":1108785367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.48794000000002,
+    53.29743000000001,
+    73.48794000000002,
+    53.29743000000001
+],
+  "geometry": {"coordinates":[73.48794000000002,53.29743000000001],"type":"Point"}
+}

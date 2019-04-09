@@ -1,0 +1,76 @@
+{
+  "id": 1243347189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.26599,41.6029,69.26599,41.6029",
+    "geom:latitude":41.6029,
+    "geom:longitude":69.26599,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chengel'dy",
+    "gn:country_code":"KZ",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538069,
+    "gn:latitude":41.6029,
+    "gn:longitude":69.26599,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Chengel\u2019dy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Chengel\u2019dy"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0435\u043d\u0433\u0435\u043b\u044c\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Tutamgali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538069
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2c846eb07a078a3e703d3de3c2a1c4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1243347189,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243347189,
+    "wof:lastmodified":1537660024,
+    "wof:name":"Chengel'dy",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.26599,
+    41.6029,
+    69.26599,
+    41.6029
+],
+  "geometry": {"coordinates":[69.26599,41.6029],"type":"Point"}
+}

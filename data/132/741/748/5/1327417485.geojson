@@ -1,0 +1,73 @@
+{
+  "id": 1327417485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.29552,42.50062,70.29552,42.50062",
+    "geom:latitude":42.50062,
+    "geom:longitude":70.29552,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Vtoroy Tyul'kubas",
+    "gn:country_code":"KZ",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10842199,
+    "gn:latitude":42.50062,
+    "gn:longitude":70.29552,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Vtoroy Tyul\u2019kubas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Vtoroy Tyul\u2019kubas"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0442\u043e\u0440\u043e\u0439 \u0422\u044e\u043b\u044c\u043a\u0443\u0431\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10842199
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ea3b799e2c149e224139f2318b848297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785605,
+            "locality_id":1327417485,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1327417485,
+    "wof:lastmodified":1537660067,
+    "wof:name":"Vtoroy Tyul'kubas",
+    "wof:parent_id":1108785605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.29552,
+    42.50062,
+    70.29552,
+    42.50062
+],
+  "geometry": {"coordinates":[70.29552,42.50062],"type":"Point"}
+}

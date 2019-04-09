@@ -1,0 +1,78 @@
+{
+  "id": 1327397527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.91645,43.73709,69.91645,43.73709",
+    "geom:latitude":43.73709,
+    "geom:longitude":69.91645,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Baykadam",
+    "gn:country_code":"KZ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525624,
+    "gn:latitude":43.73709,
+    "gn:longitude":69.91645,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Baykadam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u0443\u0434\u0430\u043a\u0435\u043d\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u043a\u0430\u0434\u0430\u043c"
+    ],
+    "name:und_x_variant":[
+        "Baikadam",
+        "Baykadam",
+        "Sa\u016bdakent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525624
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"820892355163fba174ae5c79fe3c7a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785511,
+            "locality_id":1327397527,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1327397527,
+    "wof:lastmodified":1537659884,
+    "wof:name":"Baykadam",
+    "wof:parent_id":1108785511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.91645,
+    43.73709,
+    69.91645,
+    43.73709
+],
+  "geometry": {"coordinates":[69.91645,43.73709],"type":"Point"}
+}

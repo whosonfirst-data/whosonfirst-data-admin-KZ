@@ -1,0 +1,67 @@
+{
+  "id": 1193161171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.61667,47.76667,59.61667,47.76667",
+    "geom:latitude":47.76667,
+    "geom:longitude":59.61667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Avrora",
+    "gn:country_code":"KZ",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610515,
+    "gn:latitude":47.76667,
+    "gn:longitude":59.61667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Avrora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610515
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4007eeb1a62d9b4476b4bcbbcc9de852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785541,
+            "locality_id":1193161171,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1193161171,
+    "wof:lastmodified":1536367584,
+    "wof:name":"Avrora",
+    "wof:parent_id":1108785541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.61666999999999,
+    47.76667,
+    59.61666999999999,
+    47.76667
+],
+  "geometry": {"coordinates":[59.61666999999999,47.76667],"type":"Point"}
+}

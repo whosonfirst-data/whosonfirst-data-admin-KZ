@@ -1,0 +1,73 @@
+{
+  "id": 1360155045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6514,50.38986,80.6514,50.38986",
+    "geom:latitude":50.38986,
+    "geom:longitude":80.6514,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Polovinka",
+    "gn:country_code":"KZ",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11509677,
+    "gn:latitude":50.38986,
+    "gn:longitude":80.6514,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Polovinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Polov\u012bnka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u043e\u043b\u043e\u0432\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11509677
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"660e4617bf6d842ae8c1660a1fee7534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1360155045,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1360155045,
+    "wof:lastmodified":1537660177,
+    "wof:name":"Polovinka",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6514,
+    50.38986,
+    80.6514,
+    50.38986
+],
+  "geometry": {"coordinates":[80.6514,50.38986],"type":"Point"}
+}

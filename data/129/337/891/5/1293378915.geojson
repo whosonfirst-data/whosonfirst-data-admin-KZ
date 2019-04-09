@@ -1,0 +1,76 @@
+{
+  "id": 1293378915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.40746,40.75064,68.40746,40.75064",
+    "geom:latitude":40.75064,
+    "geom:longitude":68.40746,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pobeda",
+    "gn:country_code":"KZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535823,
+    "gn:latitude":40.75064,
+    "gn:longitude":68.40746,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Pobeda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Pobeda"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u043e\u0431\u0435\u0434\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Atamura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535823
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e4e25daea3e0f5458e239dde067478de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1293378915,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293378915,
+    "wof:lastmodified":1537660003,
+    "wof:name":"Pobeda",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.40746,
+    40.75064,
+    68.40746,
+    40.75064
+],
+  "geometry": {"coordinates":[68.40746,40.75064],"type":"Point"}
+}

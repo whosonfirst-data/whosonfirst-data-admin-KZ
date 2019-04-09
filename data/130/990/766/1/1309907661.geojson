@@ -1,0 +1,70 @@
+{
+  "id": 1309907661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.19633,52.00199,71.19633,52.00199",
+    "geom:latitude":52.00199,
+    "geom:longitude":71.19633,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kenebay",
+    "gn:country_code":"KZ",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11137879,
+    "gn:latitude":52.00199,
+    "gn:longitude":71.19633,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Kenebay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0435\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11137879
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e7a8ad27e520c0efeaa23778c1efe805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1309907661,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1309907661,
+    "wof:lastmodified":1537660118,
+    "wof:name":"Kenebay",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.19633,
+    52.00199,
+    71.19633,
+    52.00199
+],
+  "geometry": {"coordinates":[71.19633,52.00199],"type":"Point"}
+}

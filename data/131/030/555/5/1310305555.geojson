@@ -1,0 +1,80 @@
+{
+  "id": 1310305555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.30181,50.97134,57.30181,50.97134",
+    "geom:latitude":50.97134,
+    "geom:longitude":57.30181,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Studencheskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608175,
+    "gn:latitude":50.97134,
+    "gn:longitude":57.30181,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Studencheskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Studencheskoye"
+    ],
+    "name:kaz_x_preferred":[
+        "St\u016bdencheskoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u0447\u0435\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Studencheskiy",
+        "Studencheskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608175
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5468c05f6927a5248140ae4be6dcb12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785323,
+            "locality_id":1310305555,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1310305555,
+    "wof:lastmodified":1537659363,
+    "wof:name":"Studencheskoye",
+    "wof:parent_id":1108785323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.30181,
+    50.97134000000001,
+    57.30181,
+    50.97134000000001
+],
+  "geometry": {"coordinates":[57.30181,50.97134000000001],"type":"Point"}
+}

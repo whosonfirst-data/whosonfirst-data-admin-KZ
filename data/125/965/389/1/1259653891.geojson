@@ -1,0 +1,78 @@
+{
+  "id": 1259653891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.27434,50.59987,80.27434,50.59987",
+    "geom:latitude":50.59987,
+    "geom:longitude":80.27434,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Voskresenovka",
+    "gn:country_code":"KZ",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517386,
+    "gn:latitude":50.59987,
+    "gn:longitude":80.27434,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Voskresenovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Voskresenovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Voskresenskiy",
+        "Voskresenka",
+        "Voskresenovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517386
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3b43d66c9edeb7e20ab610fad76c5baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1259653891,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259653891,
+    "wof:lastmodified":1537659517,
+    "wof:name":"Voskresenovka",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.27434000000002,
+    50.59987,
+    80.27434000000002,
+    50.59987
+],
+  "geometry": {"coordinates":[80.27434000000002,50.59987],"type":"Point"}
+}

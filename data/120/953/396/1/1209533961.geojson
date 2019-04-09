@@ -1,0 +1,61 @@
+{
+  "id": 1209533961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.68333,45.01667,78.68333,45.01667",
+    "geom:latitude":45.01667,
+    "geom:longitude":78.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Berezovka",
+    "gn:country_code":"KZ",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525451,
+    "gn:latitude":45.01667,
+    "gn:longitude":78.68333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Ber\u00ebzovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525451
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d164a90ffe8acf7d68e7b08a4a4b6d28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209533961
+        }
+    ],
+    "wof:id":1209533961,
+    "wof:lastmodified":1536284198,
+    "wof:name":"Berezovka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.68333,
+    45.01667,
+    78.68333,
+    45.01667
+],
+  "geometry": {"coordinates":[78.68333,45.01667],"type":"Point"}
+}

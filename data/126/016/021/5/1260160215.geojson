@@ -1,0 +1,73 @@
+{
+  "id": 1260160215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.82401,52.79595,62.82401,52.79595",
+    "geom:latitude":52.79595,
+    "geom:longitude":62.82401,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Khalvay",
+    "gn:country_code":"KZ",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11508009,
+    "gn:latitude":52.79595,
+    "gn:longitude":62.82401,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Khalvay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Khalvay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0425\u0430\u043b\u0432\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11508009
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"27a900a339e39ac834fcd6bd4919343f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785535,
+            "locality_id":1260160215,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1260160215,
+    "wof:lastmodified":1537660175,
+    "wof:name":"Khalvay",
+    "wof:parent_id":1108785535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.82401,
+    52.79595,
+    62.82401,
+    52.79595
+],
+  "geometry": {"coordinates":[62.82401,52.79595],"type":"Point"}
+}

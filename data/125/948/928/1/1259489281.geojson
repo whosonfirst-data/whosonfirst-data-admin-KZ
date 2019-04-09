@@ -1,0 +1,71 @@
+{
+  "id": 1259489281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.93333,48.66667,54.93333,48.66667",
+    "geom:latitude":48.66667,
+    "geom:longitude":54.93333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Karagandy-Say",
+    "gn:country_code":"KZ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609650,
+    "gn:latitude":48.66667,
+    "gn:longitude":54.93333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Karagandy-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karagandy-Sai",
+        "Karagandy-Say"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609650
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b681cb840324d9f3eb2501b477d0c1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785399,
+            "locality_id":1259489281,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1259489281,
+    "wof:lastmodified":1537659419,
+    "wof:name":"Karagandy-Say",
+    "wof:parent_id":1108785399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.93333000000001,
+    48.66667,
+    54.93333000000001,
+    48.66667
+],
+  "geometry": {"coordinates":[54.93333000000001,48.66667],"type":"Point"}
+}

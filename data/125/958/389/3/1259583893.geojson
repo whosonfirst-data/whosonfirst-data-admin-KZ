@@ -1,0 +1,79 @@
+{
+  "id": 1259583893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.50854,50.88248,58.50854,50.88248",
+    "geom:latitude":50.88248,
+    "geom:longitude":58.50854,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Anastas'yevka",
+    "gn:country_code":"KZ",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610628,
+    "gn:latitude":50.88248,
+    "gn:longitude":58.50854,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Anastas\u2019yevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Anastas'evka"
+    ],
+    "name:kaz_x_preferred":[
+        "Anastas\u2019evka"
+    ],
+    "name:rus_x_preferred":[
+        "Anastas\u2019yevka"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610628
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8ef4fee1d9e26d736af15e90b36e8462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785697,
+            "locality_id":1259583893,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1259583893,
+    "wof:lastmodified":1537659448,
+    "wof:name":"Anastas'yevka",
+    "wof:parent_id":1108785697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.50854,
+    50.88248,
+    58.50854,
+    50.88248
+],
+  "geometry": {"coordinates":[58.50854,50.88248],"type":"Point"}
+}

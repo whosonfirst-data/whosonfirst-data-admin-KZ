@@ -1,0 +1,67 @@
+{
+  "id": 1327357763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.83333,49.18333,56.83333,49.18333",
+    "geom:latitude":49.18333,
+    "geom:longitude":56.83333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Georgiyevskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609894,
+    "gn:latitude":49.18333,
+    "gn:longitude":56.83333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Georgiyevskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609894
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aa83d6e95c7fc4ff0caca244425f6512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785705,
+            "locality_id":1327357763,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1327357763,
+    "wof:lastmodified":1536789090,
+    "wof:name":"Georgiyevskiy",
+    "wof:parent_id":1108785705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.83333,
+    49.18333,
+    56.83333,
+    49.18333
+],
+  "geometry": {"coordinates":[56.83333,49.18333],"type":"Point"}
+}

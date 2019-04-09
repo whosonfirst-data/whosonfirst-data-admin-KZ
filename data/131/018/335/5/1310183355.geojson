@@ -1,0 +1,79 @@
+{
+  "id": 1310183355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.39002,52.31022,78.39002,52.31022",
+    "geom:latitude":52.31022,
+    "geom:longitude":78.39002,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kulat",
+    "gn:country_code":"KZ",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521887,
+    "gn:latitude":52.31022,
+    "gn:longitude":78.39002,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kulat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kulat"
+    ],
+    "name:kaz_x_preferred":[
+        "Qulaat"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u04b1\u043b\u0430\u0430\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521887
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"160970f3c3888332eac804f1d80c66d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1310183355,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310183355,
+    "wof:lastmodified":1537659731,
+    "wof:name":"Kulat",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.39001999999998,
+    52.31022,
+    78.39001999999998,
+    52.31022
+],
+  "geometry": {"coordinates":[78.39001999999998,52.31022],"type":"Point"}
+}

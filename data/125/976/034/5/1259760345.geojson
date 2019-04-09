@@ -1,0 +1,73 @@
+{
+  "id": 1259760345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.57579,49.58107,72.57579,49.58107",
+    "geom:latitude":49.58107,
+    "geom:longitude":72.57579,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Yubileynoye",
+    "gn:country_code":"KZ",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475726,
+    "gn:latitude":49.58107,
+    "gn:longitude":72.57579,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Yubileynoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Yub\u012bleynoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u042e\u0431\u0438\u043b\u0435\u0439\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475726
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5ba315161454d5f69284a826af0beaec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785649,
+            "locality_id":1259760345,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1259760345,
+    "wof:lastmodified":1537660156,
+    "wof:name":"Yubileynoye",
+    "wof:parent_id":1108785649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.57579,
+    49.58107,
+    72.57579,
+    49.58107
+],
+  "geometry": {"coordinates":[72.57579,49.58107],"type":"Point"}
+}

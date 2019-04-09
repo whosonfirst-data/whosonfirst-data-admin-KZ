@@ -1,0 +1,67 @@
+{
+  "id": 1259843081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.38333,43.93333,74.38333,43.93333",
+    "geom:latitude":43.93333,
+    "geom:longitude":74.38333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Botaborum",
+    "gn:country_code":"KZ",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525095,
+    "gn:latitude":43.93333,
+    "gn:longitude":74.38333,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Botaborum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525095
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2617f0af66719d2c5871eb3d78ec9680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785707,
+            "locality_id":1259843081,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1259843081,
+    "wof:lastmodified":1536836410,
+    "wof:name":"Botaborum",
+    "wof:parent_id":1108785707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.38333,
+    43.93333,
+    74.38333,
+    43.93333
+],
+  "geometry": {"coordinates":[74.38333,43.93333],"type":"Point"}
+}

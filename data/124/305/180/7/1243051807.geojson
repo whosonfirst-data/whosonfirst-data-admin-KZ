@@ -1,0 +1,73 @@
+{
+  "id": 1243051807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.3823,42.52434,70.3823,42.52434",
+    "geom:latitude":42.52434,
+    "geom:longitude":70.3823,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Maksim Gor'kiy",
+    "gn:country_code":"KZ",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10842225,
+    "gn:latitude":42.52434,
+    "gn:longitude":70.3823,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Maksim Gor\u2019kiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Maksim Gor\u2019kiy"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u043a\u0441\u0438\u043c \u0413\u043e\u0440\u044c\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10842225
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"43bcb0ac2c5b9e7af5a6751077f0c275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785605,
+            "locality_id":1243051807,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243051807,
+    "wof:lastmodified":1537660068,
+    "wof:name":"Maksim Gor'kiy",
+    "wof:parent_id":1108785605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.3823,
+    42.52434,
+    70.3823,
+    42.52434
+],
+  "geometry": {"coordinates":[70.3823,42.52434],"type":"Point"}
+}

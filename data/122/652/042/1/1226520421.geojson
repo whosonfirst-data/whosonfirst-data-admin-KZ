@@ -1,0 +1,80 @@
+{
+  "id": 1226520421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.92014,53.11594,75.92014,53.11594",
+    "geom:latitude":53.11594,
+    "geom:longitude":75.92014,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Os'meryzhsk",
+    "gn:country_code":"KZ",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520313,
+    "gn:latitude":53.11594,
+    "gn:longitude":75.92014,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Os\u2019meryzhsk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Os'meryzhsk"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0441\u044c\u043c\u0435\u0440\u044b\u0436\u0441\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u044c\u043c\u0435\u0440\u044b\u0436\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Os\u2019moryzhskiy",
+        "Os\u2019meryzhsk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520313
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"79d17def53b2d6f25354e76234c55427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785557,
+            "locality_id":1226520421,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1226520421,
+    "wof:lastmodified":1537659650,
+    "wof:name":"Os'meryzhsk",
+    "wof:parent_id":1108785557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.92014,
+    53.11594,
+    75.92014,
+    53.11594
+],
+  "geometry": {"coordinates":[75.92014,53.11594],"type":"Point"}
+}

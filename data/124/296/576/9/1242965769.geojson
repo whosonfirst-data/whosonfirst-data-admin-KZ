@@ -1,0 +1,67 @@
+{
+  "id": 1242965769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.56667,48.16667,53.56667,48.16667",
+    "geom:latitude":48.16667,
+    "geom:longitude":53.56667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dzhumagul",
+    "gn:country_code":"KZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609934,
+    "gn:latitude":48.16667,
+    "gn:longitude":53.56667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Dzhumagul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609934
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6f7e54eb40fe165acee2979db90a4748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785453,
+            "locality_id":1242965769,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1242965769,
+    "wof:lastmodified":1537000846,
+    "wof:name":"Dzhumagul",
+    "wof:parent_id":1108785453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.56667,
+    48.16667,
+    53.56667,
+    48.16667
+],
+  "geometry": {"coordinates":[53.56667,48.16667],"type":"Point"}
+}

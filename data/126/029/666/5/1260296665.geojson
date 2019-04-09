@@ -1,0 +1,77 @@
+{
+  "id": 1260296665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.32402,50.75996,72.32402,50.75996",
+    "geom:latitude":50.75996,
+    "geom:longitude":72.32402,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Turgenevka",
+    "gn:country_code":"KZ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517955,
+    "gn:latitude":50.75996,
+    "gn:longitude":72.32402,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Turgenevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "T\u016brgenevka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0443\u0440\u0433\u0435\u043d\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Turgenevskoye",
+        "Turgenevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517955
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"71b450e2ce35451e378d0f24effcb5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785443,
+            "locality_id":1260296665,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1260296665,
+    "wof:lastmodified":1537659544,
+    "wof:name":"Turgenevka",
+    "wof:parent_id":1108785443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.32401999999998,
+    50.75996,
+    72.32401999999998,
+    50.75996
+],
+  "geometry": {"coordinates":[72.32401999999998,50.75996],"type":"Point"}
+}

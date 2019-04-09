@@ -1,0 +1,70 @@
+{
+  "id": 1276518999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.41767,42.84074,73.41767,42.84074",
+    "geom:latitude":42.84074,
+    "geom:longitude":73.41767,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Voroshilovo",
+    "gn:country_code":"KZ",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8220829,
+    "gn:latitude":42.84074,
+    "gn:longitude":73.41767,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Voroshilovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8220829
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"005fe9e01dc500ce492fa9a48233dd1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785319,
+            "locality_id":1276518999,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1276518999,
+    "wof:lastmodified":1537660043,
+    "wof:name":"Voroshilovo",
+    "wof:parent_id":1108785319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.41767,
+    42.84074,
+    73.41767,
+    42.84074
+],
+  "geometry": {"coordinates":[73.41767,42.84074],"type":"Point"}
+}

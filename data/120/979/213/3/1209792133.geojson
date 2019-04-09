@@ -1,0 +1,83 @@
+{
+  "id": 1209792133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.58848,53.64975,65.58848,53.64975",
+    "geom:latitude":53.64975,
+    "geom:longitude":65.58848,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pavlysh Spasskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520225,
+    "gn:latitude":53.64975,
+    "gn:longitude":65.58848,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Pavlysh Spasskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pavlysh-Spassk"
+    ],
+    "name:kaz_x_preferred":[
+        "Pavlysh Spassk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u0430\u0432\u043b\u044b\u0448 \u0421\u043f\u0430\u0441\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u044b\u0448-\u0421\u043f\u0430\u0441\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Pavlysh-Spassk",
+        "Pavlysh Spasskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520225
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9dbb7c1da257e4c0a8051b1f7c8f1e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785569,
+            "locality_id":1209792133,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1209792133,
+    "wof:lastmodified":1537659645,
+    "wof:name":"Pavlysh Spasskiy",
+    "wof:parent_id":1108785569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.58848,
+    53.64975,
+    65.58848,
+    53.64975
+],
+  "geometry": {"coordinates":[65.58848,53.64975],"type":"Point"}
+}

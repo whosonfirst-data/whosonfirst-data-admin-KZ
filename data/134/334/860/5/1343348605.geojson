@@ -1,0 +1,79 @@
+{
+  "id": 1343348605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.22895,49.70707,76.22895,49.70707",
+    "geom:latitude":49.70707,
+    "geom:longitude":76.22895,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Qarakol",
+    "gn:country_code":"KZ",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492118,
+    "gn:latitude":49.70707,
+    "gn:longitude":76.22895,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Qarak\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarak\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Karakol\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492118
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"93a9bbfc81b6d7e97a0f30d1d9872cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1343348605,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1343348605,
+    "wof:lastmodified":1537660162,
+    "wof:name":"Qarakol",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.22895,
+    49.70707,
+    76.22895,
+    49.70707
+],
+  "geometry": {"coordinates":[76.22895,49.70707],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242863185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.99007,43.47005,68.99007,43.47005",
+    "geom:latitude":43.47005,
+    "geom:longitude":68.99007,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhamankytay",
+    "gn:country_code":"KZ",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055516,
+    "gn:latitude":43.47005,
+    "gn:longitude":68.99007,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Zhamankytay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043c\u0430\u043d\u043a\u044b\u0442\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055516
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f8c5c7a8f3f0d2a736c45ef29e7995e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785583,
+            "locality_id":1242863185,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1242863185,
+    "wof:lastmodified":1537660094,
+    "wof:name":"Zhamankytay",
+    "wof:parent_id":1108785583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.99006999999999,
+    43.47005,
+    68.99006999999999,
+    43.47005
+],
+  "geometry": {"coordinates":[68.99006999999999,43.47005],"type":"Point"}
+}

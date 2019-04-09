@@ -1,0 +1,76 @@
+{
+  "id": 1344148729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.50653,49.65743,49.50653,49.65743",
+    "geom:latitude":49.65743,
+    "geom:longitude":49.50653,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Karauzen'",
+    "gn:country_code":"KZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609528,
+    "gn:latitude":49.65743,
+    "gn:longitude":49.50653,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Karauzen\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karauzen'"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0443\u0437\u0435\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Karauzen\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609528
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0a73d266b06e63de6dd2722f960bf42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1344148729,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1344148729,
+    "wof:lastmodified":1537659415,
+    "wof:name":"Karauzen'",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.50653,
+    49.65743,
+    49.50653,
+    49.65743
+],
+  "geometry": {"coordinates":[49.50653,49.65743],"type":"Point"}
+}

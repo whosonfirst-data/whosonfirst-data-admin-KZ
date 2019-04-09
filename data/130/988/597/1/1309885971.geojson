@@ -1,0 +1,70 @@
+{
+  "id": 1309885971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.19854,48.59219,68.19854,48.59219",
+    "geom:latitude":48.59219,
+    "geom:longitude":68.19854,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Karabulak",
+    "gn:country_code":"KZ",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10910326,
+    "gn:latitude":48.59219,
+    "gn:longitude":68.19854,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Karabulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10910326
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ae0cc20c807853bd88d039d70356c097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785515,
+            "locality_id":1309885971,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1309885971,
+    "wof:lastmodified":1537660074,
+    "wof:name":"Karabulak",
+    "wof:parent_id":1108785515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.19854000000001,
+    48.59219,
+    68.19854000000001,
+    48.59219
+],
+  "geometry": {"coordinates":[68.19854000000001,48.59219],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243351645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.4047,53.40818,75.4047,53.40818",
+    "geom:latitude":53.40818,
+    "geom:longitude":75.4047,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kyzylzhar",
+    "gn:country_code":"KZ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533054,
+    "gn:latitude":53.40818,
+    "gn:longitude":75.4047,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kyzylzhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyzylzhar"
+    ],
+    "name:kaz_x_preferred":[
+        "Qyzylzhar"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u0436\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0436\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533054
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"41e517857b64073932cc7eba28c0b5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1243351645,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1243351645,
+    "wof:lastmodified":1537659975,
+    "wof:name":"Kyzylzhar",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.4047,
+    53.40818,
+    75.4047,
+    53.40818
+],
+  "geometry": {"coordinates":[75.40470000000001,53.40818],"type":"Point"}
+}

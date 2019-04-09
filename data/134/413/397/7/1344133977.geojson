@@ -1,0 +1,67 @@
+{
+  "id": 1344133977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6,51.1,73.6,51.1",
+    "geom:latitude":51.1,
+    "geom:longitude":73.6,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Osakarovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520326,
+    "gn:latitude":51.1,
+    "gn:longitude":73.6,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Osakarovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520326
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b01e4216fc42b930a2cf757b43997087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1344133977,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1344133977,
+    "wof:lastmodified":1536770059,
+    "wof:name":"Osakarovskiy",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6,
+    51.1,
+    73.6,
+    51.1
+],
+  "geometry": {"coordinates":[73.59999999999999,51.1],"type":"Point"}
+}

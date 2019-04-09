@@ -1,0 +1,67 @@
+{
+  "id": 1276742495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.29444,50.21111,67.29444,50.21111",
+    "geom:latitude":50.21111,
+    "geom:longitude":67.29444,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sovkhoz Molodezhnyy",
+    "gn:country_code":"KZ",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1483287,
+    "gn:latitude":50.21111,
+    "gn:longitude":67.29444,
+    "gn:modification_date":"1998-05-04",
+    "gn:name":"Sovkhoz Molodezhnyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1483287
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cb071b59be81e09af0faa6530eb2eb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785517,
+            "locality_id":1276742495,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1276742495,
+    "wof:lastmodified":1536728049,
+    "wof:name":"Sovkhoz Molodezhnyy",
+    "wof:parent_id":1108785517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.29444000000001,
+    50.21111,
+    67.29444000000001,
+    50.21111
+],
+  "geometry": {"coordinates":[67.29444000000001,50.21111],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327215967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.0777,54.27146,69.0777,54.27146",
+    "geom:latitude":54.27146,
+    "geom:longitude":69.0777,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bayandy",
+    "gn:country_code":"KZ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531086,
+    "gn:latitude":54.27146,
+    "gn:longitude":69.0777,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Bayandy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531086
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f7c71a1fe79c31f57334f6ad528b77fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785685,
+            "locality_id":1327215967,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1327215967,
+    "wof:lastmodified":1537659953,
+    "wof:name":"Bayandy",
+    "wof:parent_id":1108785685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.0777,
+    54.27146,
+    69.0777,
+    54.27146
+],
+  "geometry": {"coordinates":[69.07769999999999,54.27146],"type":"Point"}
+}

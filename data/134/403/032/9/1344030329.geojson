@@ -1,0 +1,83 @@
+{
+  "id": 1344030329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.89535,54.39518,67.89535,54.39518",
+    "geom:latitude":54.39518,
+    "geom:longitude":67.89535,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tauagash",
+    "gn:country_code":"KZ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526203,
+    "gn:latitude":54.39518,
+    "gn:longitude":67.89535,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Tauagash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ta\u016baghash"
+    ],
+    "name:kaz_x_preferred":[
+        "Ta\u016baghash"
+    ],
+    "name:kaz_x_variant":[
+        "Ta\u016bghash",
+        "\u0422\u0430\u0443\u0493\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0443\u0430\u0433\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Arkhangelka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526203
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7fb0ea38a61cdaf2c2d0bb44ea5e5ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785563,
+            "locality_id":1344030329,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1344030329,
+    "wof:lastmodified":1537659904,
+    "wof:name":"Tauagash",
+    "wof:parent_id":1108785563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.89535,
+    54.39518,
+    67.89535,
+    54.39518
+],
+  "geometry": {"coordinates":[67.89534999999999,54.39518],"type":"Point"}
+}

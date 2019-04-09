@@ -1,0 +1,84 @@
+{
+  "id": 1293771949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.34603,52.53483,77.34603,52.53483",
+    "geom:latitude":52.53483,
+    "geom:longitude":77.34603,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yefremovka",
+    "gn:country_code":"KZ",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517299,
+    "gn:latitude":52.53483,
+    "gn:longitude":77.34603,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Yefremovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yefremovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Efremovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u0444\u0440\u0435\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0444\u0440\u0435\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yefremovskiy",
+        "Yefremovskoye",
+        "Yefremovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517299
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ca86a6f69e0e60389d4c8f01d4c064fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785561,
+            "locality_id":1293771949,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1293771949,
+    "wof:lastmodified":1537659511,
+    "wof:name":"Yefremovka",
+    "wof:parent_id":1108785561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.34603,
+    52.53483000000001,
+    77.34603,
+    52.53483000000001
+],
+  "geometry": {"coordinates":[77.34603,52.53483000000001],"type":"Point"}
+}

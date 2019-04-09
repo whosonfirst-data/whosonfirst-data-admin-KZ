@@ -1,0 +1,73 @@
+{
+  "id": 1242949395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.23809,43.58546,71.23809,43.58546",
+    "geom:latitude":43.58546,
+    "geom:longitude":71.23809,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Talapty",
+    "gn:country_code":"KZ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10433491,
+    "gn:latitude":43.58546,
+    "gn:longitude":71.23809,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Talapty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Talapty"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0430\u043b\u0430\u043f\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10433491
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3fcc32a3dd2420bae22e429b44221cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785643,
+            "locality_id":1242949395,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1242949395,
+    "wof:lastmodified":1537660052,
+    "wof:name":"Talapty",
+    "wof:parent_id":1108785643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.23809,
+    43.58546,
+    71.23809,
+    43.58546
+],
+  "geometry": {"coordinates":[71.23809,43.58546],"type":"Point"}
+}

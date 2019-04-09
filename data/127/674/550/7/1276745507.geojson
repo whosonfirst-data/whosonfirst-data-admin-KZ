@@ -1,0 +1,73 @@
+{
+  "id": 1276745507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.95273,53.40474,67.95273,53.40474",
+    "geom:latitude":53.40474,
+    "geom:longitude":67.95273,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yeletskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517260,
+    "gn:latitude":53.40474,
+    "gn:longitude":67.95273,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Yeletskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Eletskoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u043b\u0435\u0446\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517260
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ef20cfe6a217785991bfc4315c7cc099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1276745507,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276745507,
+    "wof:lastmodified":1537659509,
+    "wof:name":"Yeletskoye",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.95273,
+    53.40474,
+    67.95273,
+    53.40474
+],
+  "geometry": {"coordinates":[67.95273,53.40474],"type":"Point"}
+}

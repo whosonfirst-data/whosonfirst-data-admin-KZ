@@ -1,0 +1,70 @@
+{
+  "id": 1209597491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.79379,53.02025,67.79379,53.02025",
+    "geom:latitude":53.02025,
+    "geom:longitude":67.79379,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Karlovka",
+    "gn:country_code":"KZ",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535435,
+    "gn:latitude":53.02025,
+    "gn:longitude":67.79379,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Karlovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karlovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535435
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"52bc43e87e64082fa6bfe4789faef868",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209597491
+        }
+    ],
+    "wof:id":1209597491,
+    "wof:lastmodified":1537659993,
+    "wof:name":"Karlovka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.79379,
+    53.02025,
+    67.79379,
+    53.02025
+],
+  "geometry": {"coordinates":[67.79379,53.02025],"type":"Point"}
+}

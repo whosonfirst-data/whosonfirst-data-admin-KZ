@@ -1,0 +1,67 @@
+{
+  "id": 1259793643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.06667,50.05,51.06667,50.05",
+    "geom:latitude":50.05,
+    "geom:longitude":51.06667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sergeyev",
+    "gn:country_code":"KZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608385,
+    "gn:latitude":50.05,
+    "gn:longitude":51.06667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Sergeyev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608385
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5e6c0afe489af745ed6128c207e65067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1259793643,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1259793643,
+    "wof:lastmodified":1536908737,
+    "wof:name":"Sergeyev",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.06667,
+    50.05,
+    51.06667,
+    50.05
+],
+  "geometry": {"coordinates":[51.06667,50.05],"type":"Point"}
+}

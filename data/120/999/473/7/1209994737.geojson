@@ -1,0 +1,70 @@
+{
+  "id": 1209994737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.51481,50.89743,75.51481,50.89743",
+    "geom:latitude":50.89743,
+    "geom:longitude":75.51481,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sarykamys",
+    "gn:country_code":"KZ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11175425,
+    "gn:latitude":50.89743,
+    "gn:longitude":75.51481,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Sarykamys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u043a\u0430\u043c\u044b\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11175425
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8ab0604bc7c0a12631c01dea9e5600b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1209994737,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1209994737,
+    "wof:lastmodified":1537660127,
+    "wof:name":"Sarykamys",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.51481,
+    50.89743,
+    75.51481,
+    50.89743
+],
+  "geometry": {"coordinates":[75.51481,50.89743],"type":"Point"}
+}

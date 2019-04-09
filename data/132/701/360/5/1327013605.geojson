@@ -1,0 +1,80 @@
+{
+  "id": 1327013605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.07359,41.29298,68.07359,41.29298",
+    "geom:latitude":41.29298,
+    "geom:longitude":68.07359,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yubileynoye",
+    "gn:country_code":"KZ",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532305,
+    "gn:latitude":41.29298,
+    "gn:longitude":68.07359,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Yubileynoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zha\u016bshyqum"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u0443\u0448\u044b\u049b\u04b1\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0431\u0438\u043b\u0435\u0439\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Yubileynyy",
+        "Zhaushikum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532305
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a1c32cff228c5dcb00a8238cf190b588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785365,
+            "locality_id":1327013605,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1327013605,
+    "wof:lastmodified":1537659964,
+    "wof:name":"Yubileynoye",
+    "wof:parent_id":1108785365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.07359,
+    41.29298,
+    68.07359,
+    41.29298
+],
+  "geometry": {"coordinates":[68.07359,41.29298],"type":"Point"}
+}

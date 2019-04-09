@@ -1,0 +1,67 @@
+{
+  "id": 1242587483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.31667,43.25,76.31667,43.25",
+    "geom:latitude":43.25,
+    "geom:longitude":76.31667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kuntek",
+    "gn:country_code":"KZ",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521786,
+    "gn:latitude":43.25,
+    "gn:longitude":76.31667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kuntek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521786
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ea004339eba3cb247045616d3fc95a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1242587483,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1242587483,
+    "wof:lastmodified":1537047306,
+    "wof:name":"Kuntek",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.31667,
+    43.25,
+    76.31667,
+    43.25
+],
+  "geometry": {"coordinates":[76.31667,43.25],"type":"Point"}
+}

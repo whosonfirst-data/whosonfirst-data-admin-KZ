@@ -1,0 +1,73 @@
+{
+  "id": 1343479305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.33531,43.58483,69.33531,43.58483",
+    "geom:latitude":43.58483,
+    "geom:longitude":69.33531,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Babaata",
+    "gn:country_code":"KZ",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525880,
+    "gn:latitude":43.58483,
+    "gn:longitude":69.33531,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Babaata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Babaata"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u0431\u0430\u0430\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525880
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"431d0e1de0d3a4ac2fe450d82220d55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785599,
+            "locality_id":1343479305,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1343479305,
+    "wof:lastmodified":1537659894,
+    "wof:name":"Babaata",
+    "wof:parent_id":1108785599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.33530999999999,
+    43.58483,
+    69.33530999999999,
+    43.58483
+],
+  "geometry": {"coordinates":[69.33530999999999,43.58483],"type":"Point"}
+}

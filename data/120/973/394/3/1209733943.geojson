@@ -1,0 +1,67 @@
+{
+  "id": 1209733943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.86667,51.9,78.86667,51.9",
+    "geom:latitude":51.9,
+    "geom:longitude":78.86667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kok-Terek",
+    "gn:country_code":"KZ",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522441,
+    "gn:latitude":51.9,
+    "gn:longitude":78.86667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kok-Terek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522441
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d679af8170a5e13df083b65cd254491d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785559,
+            "locality_id":1209733943,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1209733943,
+    "wof:lastmodified":1536375718,
+    "wof:name":"Kok-Terek",
+    "wof:parent_id":1108785559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.86667,
+    51.9,
+    78.86667,
+    51.9
+],
+  "geometry": {"coordinates":[78.86667,51.9],"type":"Point"}
+}

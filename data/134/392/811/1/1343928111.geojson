@@ -1,0 +1,76 @@
+{
+  "id": 1343928111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.24227,49.43159,81.24227,49.43159",
+    "geom:latitude":49.43159,
+    "geom:longitude":81.24227,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Koshek",
+    "gn:country_code":"KZ",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512812,
+    "gn:latitude":49.43159,
+    "gn:longitude":81.24227,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Koshek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "K\u00f6shek"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u04e9\u0448\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0448\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512812
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b17ec32fb37d8efda0719b7da21a6065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1343928111,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343928111,
+    "wof:lastmodified":1537660182,
+    "wof:name":"Koshek",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.24226999999998,
+    49.43159,
+    81.24226999999998,
+    49.43159
+],
+  "geometry": {"coordinates":[81.24226999999998,49.43159],"type":"Point"}
+}

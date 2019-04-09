@@ -1,0 +1,76 @@
+{
+  "id": 1259985847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.0259,50.98257,62.0259,50.98257",
+    "geom:latitude":50.98257,
+    "geom:longitude":62.0259,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sulukol'",
+    "gn:country_code":"KZ",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538960,
+    "gn:latitude":50.98257,
+    "gn:longitude":62.0259,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Sulukol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sulukol'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043b\u0443\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Sulukol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538960
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"eb4d4719ee4e2c2bf99a38a6863ebfb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1259985847,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1259985847,
+    "wof:lastmodified":1537660024,
+    "wof:name":"Sulukol'",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.0259,
+    50.98257,
+    62.0259,
+    50.98257
+],
+  "geometry": {"coordinates":[62.0259,50.98257],"type":"Point"}
+}

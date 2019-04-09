@@ -1,0 +1,72 @@
+{
+  "id": 1309917289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.7775,51.6253,70.7775,51.6253",
+    "geom:latitude":51.6253,
+    "geom:longitude":70.7775,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Altayskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520644,
+    "gn:latitude":51.6253,
+    "gn:longitude":70.7775,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Altayskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Novoaltayskiy",
+        "Safronovskoye",
+        "Altayskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520644
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ffa7eecb4ac5444bdd3de05dc4512838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785437,
+            "locality_id":1309917289,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1309917289,
+    "wof:lastmodified":1537659672,
+    "wof:name":"Altayskoye",
+    "wof:parent_id":1108785437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.7775,
+    51.6253,
+    70.7775,
+    51.6253
+],
+  "geometry": {"coordinates":[70.7775,51.6253],"type":"Point"}
+}

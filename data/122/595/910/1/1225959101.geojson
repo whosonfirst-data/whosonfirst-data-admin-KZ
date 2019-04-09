@@ -1,0 +1,67 @@
+{
+  "id": 1225959101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.33333,49.91667,53.33333,49.91667",
+    "geom:latitude":49.91667,
+    "geom:longitude":53.33333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Akkulaksayskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610747,
+    "gn:latitude":49.91667,
+    "gn:longitude":53.33333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Akkulaksayskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610747
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e9f83034f5229d8a8fa27b00194e18fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785493,
+            "locality_id":1225959101,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1225959101,
+    "wof:lastmodified":1536848863,
+    "wof:name":"Akkulaksayskiy",
+    "wof:parent_id":1108785493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.33333,
+    49.91667,
+    53.33333,
+    49.91667
+],
+  "geometry": {"coordinates":[53.33333,49.91667],"type":"Point"}
+}

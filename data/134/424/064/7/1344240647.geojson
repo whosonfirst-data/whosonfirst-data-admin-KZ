@@ -1,0 +1,67 @@
+{
+  "id": 1344240647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.91667,41.21667,67.91667,41.21667",
+    "geom:latitude":41.21667,
+    "geom:longitude":67.91667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bazar-Ak-Tyube",
+    "gn:country_code":"KZ",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525571,
+    "gn:latitude":41.21667,
+    "gn:longitude":67.91667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Bazar-Ak-Tyube",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525571
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"37c75860fb5aeb71785d643d4bf8d5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785365,
+            "locality_id":1344240647,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1344240647,
+    "wof:lastmodified":1536613186,
+    "wof:name":"Bazar-Ak-Tyube",
+    "wof:parent_id":1108785365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.91667,
+    41.21667,
+    67.91667,
+    41.21667
+],
+  "geometry": {"coordinates":[67.91667,41.21667],"type":"Point"}
+}

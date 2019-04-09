@@ -1,0 +1,77 @@
+{
+  "id": 1226266895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.00825,50.90442,58.00825,50.90442",
+    "geom:latitude":50.90442,
+    "geom:longitude":58.00825,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kherson",
+    "gn:country_code":"KZ",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609411,
+    "gn:latitude":50.90442,
+    "gn:longitude":58.00825,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kherson",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kherson"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0440\u0441\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Khersonskiy",
+        "Kherson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609411
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aa21b3f2e0a44a61e577be886b10a88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785697,
+            "locality_id":1226266895,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1226266895,
+    "wof:lastmodified":1537659411,
+    "wof:name":"Kherson",
+    "wof:parent_id":1108785697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.00825,
+    50.90442,
+    58.00825,
+    50.90442
+],
+  "geometry": {"coordinates":[58.00825,50.90442],"type":"Point"}
+}

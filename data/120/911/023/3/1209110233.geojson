@@ -1,0 +1,66 @@
+{
+  "id": 1209110233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.71274,46.16528,80.71274,46.16528",
+    "geom:latitude":46.16528,
+    "geom:longitude":80.71274,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Enbekshi",
+    "gn:country_code":"KZ",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517225,
+    "gn:latitude":46.16528,
+    "gn:longitude":80.71274,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Enbekshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yenbekshi",
+        "Enbekshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517225,
+        "wk:page":"Enbekshi"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9ace50a728bb42f9b473e95c40b089d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209110233
+        }
+    ],
+    "wof:id":1209110233,
+    "wof:lastmodified":1537659507,
+    "wof:name":"Enbekshi",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.71274,
+    46.16528,
+    80.71274,
+    46.16528
+],
+  "geometry": {"coordinates":[80.71274,46.16528],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327245663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.69709,43.40708,76.69709,43.40708",
+    "geom:latitude":43.40708,
+    "geom:longitude":76.69709,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhaugash",
+    "gn:country_code":"KZ",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11528044,
+    "gn:latitude":43.40708,
+    "gn:longitude":76.69709,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Zhaugash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zha\u016bghashty"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u0443\u0493\u0430\u0448\u0442\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0443\u0433\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11528044
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b1ab995c883efe82a6a72611825433ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785433,
+            "locality_id":1327245663,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1327245663,
+    "wof:lastmodified":1537660190,
+    "wof:name":"Zhaugash",
+    "wof:parent_id":1108785433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.69709,
+    43.40708,
+    76.69709,
+    43.40708
+],
+  "geometry": {"coordinates":[76.69709,43.40708],"type":"Point"}
+}

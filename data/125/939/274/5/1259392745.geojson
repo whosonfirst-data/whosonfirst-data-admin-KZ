@@ -1,0 +1,79 @@
+{
+  "id": 1259392745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.63333,51.55,50.63333,51.55",
+    "geom:latitude":51.55,
+    "geom:longitude":50.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Talovoye",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608108,
+    "gn:latitude":51.55,
+    "gn:longitude":50.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Talovoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Talovoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u043e\u0432\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Talovi",
+        "Talovka",
+        "Talovoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608108
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7d351afd011c4359f9eba460dff7b173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785331,
+            "locality_id":1259392745,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1259392745,
+    "wof:lastmodified":1537659360,
+    "wof:name":"Talovoye",
+    "wof:parent_id":1108785331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.63333,
+    51.55,
+    50.63333,
+    51.55
+],
+  "geometry": {"coordinates":[50.63333,51.55],"type":"Point"}
+}

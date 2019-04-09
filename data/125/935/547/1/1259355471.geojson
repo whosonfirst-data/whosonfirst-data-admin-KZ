@@ -1,0 +1,67 @@
+{
+  "id": 1259355471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.8,54.65,67.8,54.65",
+    "geom:latitude":54.65,
+    "geom:longitude":67.8,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Taldyk",
+    "gn:country_code":"KZ",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518560,
+    "gn:latitude":54.65,
+    "gn:longitude":67.8,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Taldyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518560
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"db52ed3771561230c77ce7f2f3a14df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1259355471,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259355471,
+    "wof:lastmodified":1537040942,
+    "wof:name":"Taldyk",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.8,
+    54.65,
+    67.8,
+    54.65
+],
+  "geometry": {"coordinates":[67.8,54.65],"type":"Point"}
+}

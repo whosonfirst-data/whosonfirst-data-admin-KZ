@@ -1,0 +1,79 @@
+{
+  "id": 1343240249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.68904,52.43732,76.68904,52.43732",
+    "geom:latitude":52.43732,
+    "geom:longitude":76.68904,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Qarakol",
+    "gn:country_code":"KZ",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10806766,
+    "gn:latitude":52.43732,
+    "gn:longitude":76.68904,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Qarak\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarak\u00f6l"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u043a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Karakol\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10806766
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6a15617701e4ee530291944d6e66c36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785551,
+            "locality_id":1343240249,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343240249,
+    "wof:lastmodified":1537660062,
+    "wof:name":"Qarakol",
+    "wof:parent_id":1108785551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.68904,
+    52.43731999999999,
+    76.68904,
+    52.43731999999999
+],
+  "geometry": {"coordinates":[76.68904000000001,52.43731999999999],"type":"Point"}
+}

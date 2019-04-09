@@ -1,0 +1,73 @@
+{
+  "id": 1309689487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.21667,48.75,76.21667,48.75",
+    "geom:latitude":48.75,
+    "geom:longitude":76.21667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Temirshi",
+    "gn:country_code":"KZ",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518263,
+    "gn:latitude":48.75,
+    "gn:longitude":76.21667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Temirshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Temerchi",
+        "Tyemirchi",
+        "Temirchi",
+        "Temirshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518263
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"20e82a5eae8ba11bdcf0fd4a4bee9e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1309689487,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1309689487,
+    "wof:lastmodified":1537659557,
+    "wof:name":"Temirshi",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.21667,
+    48.75,
+    76.21667,
+    48.75
+],
+  "geometry": {"coordinates":[76.21666999999999,48.75],"type":"Point"}
+}

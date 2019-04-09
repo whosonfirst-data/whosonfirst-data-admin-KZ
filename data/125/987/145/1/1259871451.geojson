@@ -1,0 +1,78 @@
+{
+  "id": 1259871451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.5207,51.36126,51.5207,51.36126",
+    "geom:latitude":51.36126,
+    "geom:longitude":51.5207,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Furmanovo",
+    "gn:country_code":"KZ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609904,
+    "gn:latitude":51.36126,
+    "gn:longitude":51.5207,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"F\u016brmanovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "F\u016brmanovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0443\u0440\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Furmanov",
+        "Furmazov",
+        "F\u016brmanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609904
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"08dca7ef93f0532771d2fdcdda0c8794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785331,
+            "locality_id":1259871451,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1259871451,
+    "wof:lastmodified":1537659426,
+    "wof:name":"Furmanovo",
+    "wof:parent_id":1108785331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.5207,
+    51.36126,
+    51.5207,
+    51.36126
+],
+  "geometry": {"coordinates":[51.5207,51.36126],"type":"Point"}
+}

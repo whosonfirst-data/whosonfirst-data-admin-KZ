@@ -1,0 +1,104 @@
+{
+  "id": 421167369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.98395,45.05053,64.98395,45.05053",
+    "geom:latitude":45.05053,
+    "geom:longitude":64.98395,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Terenozek"
+    ],
+    "name:eng_x_preferred":[
+        "Terenozek"
+    ],
+    "name:kaz_x_preferred":[
+        "Tereng\u00f6zek"
+    ],
+    "name:pol_x_preferred":[
+        "Tereng\u00f6zek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u043d\u043e\u0437\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Terenozek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u043d\u043e\u0437\u0435\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Teren\u2019-Uzyak"
+    ],
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1518203,
+    "qs:gn_pop":9661,
+    "qs:name":"Terenozek",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Qyzylorda",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":133188,
+    "qs:woe_adm0":23424871,
+    "qs:woe_id":2264942,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518203,
+        "gp:id":2264942,
+        "qs:id":133188,
+        "wd:id":"Q7702054",
+        "wk:page":"Terenozek"
+    },
+    "wof:country":"KZ",
+    "wof:created":1459008729,
+    "wof:geomhash":"56d3bbab59c89b7d5ed486de163cb001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421167369,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":421167369,
+    "wof:lastmodified":1553816355,
+    "wof:name":"Terenozek",
+    "wof:parent_id":85672885,
+    "wof:placetype":"locality",
+    "wof:population":9661,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.98395,
+    45.05053,
+    64.98395,
+    45.05053
+],
+  "geometry": {"coordinates":[64.98394999999999,45.05053],"type":"Point"}
+}

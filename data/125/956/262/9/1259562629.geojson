@@ -1,0 +1,70 @@
+{
+  "id": 1259562629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.44138,53.64194,64.44138,53.64194",
+    "geom:latitude":53.64194,
+    "geom:longitude":64.44138,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Novoborkovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11417097,
+    "gn:latitude":53.64194,
+    "gn:longitude":64.44138,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Novoborkovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0431\u043e\u0440\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11417097
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6df77b0271573aa296f7a3c250e7e1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785385,
+            "locality_id":1259562629,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1259562629,
+    "wof:lastmodified":1537660147,
+    "wof:name":"Novoborkovskiy",
+    "wof:parent_id":1108785385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.44138000000001,
+    53.64194000000001,
+    64.44138000000001,
+    53.64194000000001
+],
+  "geometry": {"coordinates":[64.44138000000001,53.64194000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259463181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.45,48.51667,76.45,48.51667",
+    "geom:latitude":48.51667,
+    "geom:longitude":76.45,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kyrgaz",
+    "gn:country_code":"KZ",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521598,
+    "gn:latitude":48.51667,
+    "gn:longitude":76.45,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kyrgaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521598
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"88a74c1e8398f8e853995a4b1a7e52f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1259463181,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1259463181,
+    "wof:lastmodified":1536887577,
+    "wof:name":"Kyrgaz",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.45,
+    48.51667,
+    76.45,
+    48.51667
+],
+  "geometry": {"coordinates":[76.45,48.51667],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1242765623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.15187,51.22127,78.15187,51.22127",
+    "geom:latitude":51.22127,
+    "geom:longitude":78.15187,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tegistik",
+    "gn:country_code":"KZ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518305,
+    "gn:latitude":51.22127,
+    "gn:longitude":78.15187,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Tegistik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tegistyk"
+    ],
+    "name:kaz_x_preferred":[
+        "Tegistik"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0435\u0433\u0456\u0441\u0442\u0456\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0433\u0438\u0441\u0442\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Tegistyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518305
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"30a7f0b910586b040e017ab52093bf21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785559,
+            "locality_id":1242765623,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1242765623,
+    "wof:lastmodified":1537659558,
+    "wof:name":"Tegistik",
+    "wof:parent_id":1108785559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.15187,
+    51.22127,
+    78.15187,
+    51.22127
+],
+  "geometry": {"coordinates":[78.15187,51.22127],"type":"Point"}
+}

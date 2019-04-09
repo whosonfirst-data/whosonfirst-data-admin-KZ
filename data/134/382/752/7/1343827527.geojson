@@ -1,0 +1,82 @@
+{
+  "id": 1343827527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.62506,54.89353,70.62506,54.89353",
+    "geom:latitude":54.89353,
+    "geom:longitude":70.62506,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Chistovskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524763,
+    "gn:latitude":54.89353,
+    "gn:longitude":70.62506,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Chistovskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ch\u012bstovskoe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0438\u0441\u0442\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0441\u0442\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Krasnyy Or\u00ebl",
+        "Chistovskiy",
+        "Chistovskoye",
+        "Ch\u012bstovskoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524763
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2e7044714b86411aa28420b0ac7cbedc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1343827527,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343827527,
+    "wof:lastmodified":1537659848,
+    "wof:name":"Chistovskoye",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.62505999999998,
+    54.89353000000001,
+    70.62505999999998,
+    54.89353000000001
+],
+  "geometry": {"coordinates":[70.62505999999998,54.89353000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243432423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.82461,51.88311,78.82461,51.88311",
+    "geom:latitude":51.88311,
+    "geom:longitude":78.82461,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zapadnyy Shalday",
+    "gn:country_code":"KZ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483498,
+    "gn:latitude":51.88311,
+    "gn:longitude":78.82461,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Zapadnyy Shalday",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0428\u0430\u043b\u0434\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483498
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"020cd5bf08f563681fefe8e57cebf096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785559,
+            "locality_id":1243432423,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1243432423,
+    "wof:lastmodified":1537660160,
+    "wof:name":"Zapadnyy Shalday",
+    "wof:parent_id":1108785559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.82460999999998,
+    51.88311,
+    78.82460999999998,
+    51.88311
+],
+  "geometry": {"coordinates":[78.82460999999998,51.88311],"type":"Point"}
+}

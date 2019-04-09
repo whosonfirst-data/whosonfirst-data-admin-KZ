@@ -1,0 +1,77 @@
+{
+  "id": 1259498073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.90303,49.25035,81.90303,49.25035",
+    "geom:latitude":49.25035,
+    "geom:longitude":81.90303,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Terent'yevka",
+    "gn:country_code":"KZ",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518200,
+    "gn:latitude":49.25035,
+    "gn:longitude":81.90303,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Terent\u2019yevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Terent'yevka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u043d\u0442\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tereol\u2019yevka",
+        "Terent\u2019yevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518200
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9adeb64f8a539a0722aad533096d90e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1259498073,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259498073,
+    "wof:lastmodified":1537659555,
+    "wof:name":"Terent'yevka",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.90303,
+    49.25035,
+    81.90303,
+    49.25035
+],
+  "geometry": {"coordinates":[81.90303,49.25035],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309777561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.63333,43.01667,70.63333,43.01667",
+    "geom:latitude":43.01667,
+    "geom:longitude":70.63333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Soyuz-Koshchi",
+    "gn:country_code":"KZ",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518827,
+    "gn:latitude":43.01667,
+    "gn:longitude":70.63333,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Soyuz-Koshchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soyuz-Koshgi",
+        "Soyuz-Koshchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518827
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4363166e6e5bc02232c6cd2ff4fd394c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785643,
+            "locality_id":1309777561,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1309777561,
+    "wof:lastmodified":1537659578,
+    "wof:name":"Soyuz-Koshchi",
+    "wof:parent_id":1108785643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.63333,
+    43.01667,
+    70.63333,
+    43.01667
+],
+  "geometry": {"coordinates":[70.63333,43.01667],"type":"Point"}
+}

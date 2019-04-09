@@ -1,0 +1,79 @@
+{
+  "id": 1276846885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.4382,53.39841,63.4382,53.39841",
+    "geom:latitude":53.39841,
+    "geom:longitude":63.4382,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sheminovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519227,
+    "gn:latitude":53.39841,
+    "gn:longitude":63.4382,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Sheminovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sheminovskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "Shem\u012bnovsk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0435\u043c\u0438\u043d\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043c\u0438\u043d\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519227
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b36fa5290ded0fedc8b386b64faf246f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1276846885,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1276846885,
+    "wof:lastmodified":1537659597,
+    "wof:name":"Sheminovskiy",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.4382,
+    53.39841,
+    63.4382,
+    53.39841
+],
+  "geometry": {"coordinates":[63.4382,53.39841],"type":"Point"}
+}

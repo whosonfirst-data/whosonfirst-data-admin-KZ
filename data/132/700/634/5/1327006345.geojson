@@ -1,0 +1,70 @@
+{
+  "id": 1327006345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.523,53.67765,62.523,53.67765",
+    "geom:latitude":53.67765,
+    "geom:longitude":62.523,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kravtsovo",
+    "gn:country_code":"KZ",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11416975,
+    "gn:latitude":53.67765,
+    "gn:longitude":62.523,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Kravtsovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0432\u0446\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11416975
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fa88ad3fe61c917bc712ed59f94d67ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1327006345,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1327006345,
+    "wof:lastmodified":1537660145,
+    "wof:name":"Kravtsovo",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.523,
+    53.67765,
+    62.523,
+    53.67765
+],
+  "geometry": {"coordinates":[62.523,53.67765],"type":"Point"}
+}

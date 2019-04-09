@@ -1,0 +1,67 @@
+{
+  "id": 1293760871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.25,49.01667,74.25,49.01667",
+    "geom:latitude":49.01667,
+    "geom:longitude":74.25,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mautan",
+    "gn:country_code":"KZ",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521071,
+    "gn:latitude":49.01667,
+    "gn:longitude":74.25,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Mautan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521071
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"529594bcfee142a798b8d78f78c61e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1293760871,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1293760871,
+    "wof:lastmodified":1536889679,
+    "wof:name":"Mautan",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.25,
+    49.01667,
+    74.25,
+    49.01667
+],
+  "geometry": {"coordinates":[74.25,49.01667],"type":"Point"}
+}

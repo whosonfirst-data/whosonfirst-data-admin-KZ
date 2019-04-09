@@ -1,0 +1,73 @@
+{
+  "id": 1360167665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.33622,48.37018,84.33622,48.37018",
+    "geom:latitude":48.37018,
+    "geom:longitude":84.33622,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kormotsekh",
+    "gn:country_code":"KZ",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11438606,
+    "gn:latitude":48.37018,
+    "gn:longitude":84.33622,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kormotsekh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kormotsekh"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u043e\u0440\u043c\u043e\u0446\u0435\u0445"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11438606
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aea0b8cec9bf70679d5d83c28efac9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1360167665,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1360167665,
+    "wof:lastmodified":1537660151,
+    "wof:name":"Kormotsekh",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.33622,
+    48.37018,
+    84.33622,
+    48.37018
+],
+  "geometry": {"coordinates":[84.33622,48.37018],"type":"Point"}
+}

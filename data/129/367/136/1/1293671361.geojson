@@ -1,0 +1,86 @@
+{
+  "id": 1293671361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.55197,53.75294,67.55197,53.75294",
+    "geom:latitude":53.75294,
+    "geom:longitude":67.55197,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Krivoshchekovo",
+    "gn:country_code":"KZ",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521956,
+    "gn:latitude":53.75294,
+    "gn:longitude":67.55197,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Krivoshch\u00ebkovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kr\u012bvoshchekovo"
+    ],
+    "name:kaz_x_preferred":[
+        "Kr\u012bvoshchekovo"
+    ],
+    "name:kaz_x_variant":[
+        "Kr\u012bvoshchyokovo",
+        "\u041a\u0440\u0438\u0432\u043e\u0449\u0451\u043a\u043e\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "Krivoshch\u00ebkovo"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0440\u0438\u0432\u043e\u0449\u0435\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Krivoshchekovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521956
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aa702924f7b8b424f7b6be58854d71df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1293671361,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293671361,
+    "wof:lastmodified":1537659734,
+    "wof:name":"Krivoshchekovo",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.55197,
+    53.75294,
+    67.55197,
+    53.75294
+],
+  "geometry": {"coordinates":[67.55197,53.75294],"type":"Point"}
+}

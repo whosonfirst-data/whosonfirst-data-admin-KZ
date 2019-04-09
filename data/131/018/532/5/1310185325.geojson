@@ -1,0 +1,75 @@
+{
+  "id": 1310185325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.02989,50.26163,73.02989,50.26163",
+    "geom:latitude":50.26163,
+    "geom:longitude":73.02989,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Astakhovka",
+    "gn:country_code":"KZ",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526062,
+    "gn:latitude":50.26163,
+    "gn:longitude":73.02989,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Astakhovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0410\u0441\u0442\u0430\u0445\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ostakhovka",
+        "Astakhovskoye",
+        "Astakhovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526062
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a89a31aeaf7d14187c9c51d25c3543f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1310185325,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1310185325,
+    "wof:lastmodified":1537659900,
+    "wof:name":"Astakhovka",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.02989000000002,
+    50.26163,
+    73.02989000000002,
+    50.26163
+],
+  "geometry": {"coordinates":[73.02989000000002,50.26163],"type":"Point"}
+}

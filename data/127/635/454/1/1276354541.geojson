@@ -1,0 +1,73 @@
+{
+  "id": 1276354541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.23368,50.26135,83.23368,50.26135",
+    "geom:latitude":50.26135,
+    "geom:longitude":83.23368,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Butakovo",
+    "gn:country_code":"KZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524945,
+    "gn:latitude":50.26135,
+    "gn:longitude":83.23368,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Butakovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Butakovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0442\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524945
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8c4bbdbc0b2326783ed3678068e0256a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785719,
+            "locality_id":1276354541,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276354541,
+    "wof:lastmodified":1537659856,
+    "wof:name":"Butakovo",
+    "wof:parent_id":1108785719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.23368,
+    50.26135,
+    83.23368,
+    50.26135
+],
+  "geometry": {"coordinates":[83.23368000000001,50.26135],"type":"Point"}
+}

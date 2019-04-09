@@ -1,0 +1,79 @@
+{
+  "id": 1210000451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.61184,42.34263,68.61184,42.34263",
+    "geom:latitude":42.34263,
+    "geom:longitude":68.61184,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yesqara",
+    "gn:country_code":"KZ",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11119326,
+    "gn:latitude":42.34263,
+    "gn:longitude":68.61184,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Yesqara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Yesqara"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u0441\u049b\u0430\u0440\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0441\u043a\u0430\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yeskara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11119326
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cd9605cdac055b0fcfdfc2577813a195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785581,
+            "locality_id":1210000451,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1210000451,
+    "wof:lastmodified":1537660105,
+    "wof:name":"Yesqara",
+    "wof:parent_id":1108785581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.61184,
+    42.34263,
+    68.61184,
+    42.34263
+],
+  "geometry": {"coordinates":[68.61184,42.34263],"type":"Point"}
+}

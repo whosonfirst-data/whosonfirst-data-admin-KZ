@@ -1,0 +1,79 @@
+{
+  "id": 1243542625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.30842,52.66765,74.30842,52.66765",
+    "geom:latitude":52.66765,
+    "geom:longitude":74.30842,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shiganak",
+    "gn:country_code":"KZ",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533810,
+    "gn:latitude":52.66765,
+    "gn:longitude":74.30842,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Shiganak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shiganak"
+    ],
+    "name:kaz_x_preferred":[
+        "Shyghanaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u044b\u0493\u0430\u043d\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0433\u0430\u043d\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533810
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"984cecb96eb765c4a93d3ab505c498b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785553,
+            "locality_id":1243542625,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1243542625,
+    "wof:lastmodified":1537659980,
+    "wof:name":"Shiganak",
+    "wof:parent_id":1108785553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.30842,
+    52.66765,
+    74.30842,
+    52.66765
+],
+  "geometry": {"coordinates":[74.30842,52.66765],"type":"Point"}
+}

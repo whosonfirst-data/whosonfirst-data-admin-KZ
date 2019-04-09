@@ -1,0 +1,70 @@
+{
+  "id": 1259956951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.248,48.54135,76.248,48.54135",
+    "geom:latitude":48.54135,
+    "geom:longitude":76.248,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Yekpin",
+    "gn:country_code":"KZ",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11494030,
+    "gn:latitude":48.54135,
+    "gn:longitude":76.248,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Yekpin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0415\u043a\u043f\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11494030
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a9167713c751a157e08a109ae6e3bea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1259956951,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1259956951,
+    "wof:lastmodified":1537660167,
+    "wof:name":"Yekpin",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.248,
+    48.54135,
+    76.248,
+    48.54135
+],
+  "geometry": {"coordinates":[76.248,48.54135],"type":"Point"}
+}

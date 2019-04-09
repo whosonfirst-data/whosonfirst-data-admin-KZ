@@ -1,0 +1,73 @@
+{
+  "id": 1226315987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.65192,49.52779,77.65192,49.52779",
+    "geom:latitude":49.52779,
+    "geom:longitude":77.65192,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Myrza",
+    "gn:country_code":"KZ",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11407842,
+    "gn:latitude":49.52779,
+    "gn:longitude":77.65192,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Myrza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Myrza"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u044b\u0440\u0437\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11407842
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"102b1c6d87cbaa9c8a4b89024a149e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1226315987,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226315987,
+    "wof:lastmodified":1537660132,
+    "wof:name":"Myrza",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.65191999999998,
+    49.52779,
+    77.65191999999998,
+    49.52779
+],
+  "geometry": {"coordinates":[77.65191999999998,49.52779],"type":"Point"}
+}

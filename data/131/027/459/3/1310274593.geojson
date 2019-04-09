@@ -1,0 +1,79 @@
+{
+  "id": 1310274593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.94559,55.15629,68.94559,55.15629",
+    "geom:latitude":55.15629,
+    "geom:longitude":68.94559,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Glubokoye",
+    "gn:country_code":"KZ",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530508,
+    "gn:latitude":55.15629,
+    "gn:longitude":68.94559,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Glubokoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Glubokoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Gl\u016bbokoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530508
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bead9c5b01fa46dc9008512be1d0f50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1310274593,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310274593,
+    "wof:lastmodified":1537659939,
+    "wof:name":"Glubokoye",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.94559,
+    55.15629000000001,
+    68.94559,
+    55.15629000000001
+],
+  "geometry": {"coordinates":[68.94559,55.15629000000001],"type":"Point"}
+}

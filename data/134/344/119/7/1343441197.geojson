@@ -1,0 +1,75 @@
+{
+  "id": 1343441197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.16818,49.04657,74.16818,49.04657",
+    "geom:latitude":49.04657,
+    "geom:longitude":74.16818,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Akbaur",
+    "gn:country_code":"KZ",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526885,
+    "gn:latitude":49.04657,
+    "gn:longitude":74.16818,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Akbaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0431\u0430\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Akbauyr",
+        "Aqba\u016byr",
+        "Akbaur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526885
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4a4eb818c406f0ad86cbfa635c909187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1343441197,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1343441197,
+    "wof:lastmodified":1537659928,
+    "wof:name":"Akbaur",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.16818,
+    49.04657,
+    74.16818,
+    49.04657
+],
+  "geometry": {"coordinates":[74.16818000000001,49.04657],"type":"Point"}
+}

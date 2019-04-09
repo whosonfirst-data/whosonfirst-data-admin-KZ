@@ -1,0 +1,80 @@
+{
+  "id": 1343649535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.26053,52.78482,77.26053,52.78482",
+    "geom:latitude":52.78482,
+    "geom:longitude":77.26053,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ravnopol'",
+    "gn:country_code":"KZ",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519899,
+    "gn:latitude":52.78482,
+    "gn:longitude":77.26053,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ravnopol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ravnopol'"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u043e\u043f\u043e\u043b\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u043e\u043f\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Ravnopol\u2019ye",
+        "Ravnopol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519899
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fdbc63e5048e174a73e567f722f00fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785351,
+            "locality_id":1343649535,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343649535,
+    "wof:lastmodified":1537659624,
+    "wof:name":"Ravnopol'",
+    "wof:parent_id":1108785351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.26053,
+    52.78482,
+    77.26053,
+    52.78482
+],
+  "geometry": {"coordinates":[77.26053,52.78482],"type":"Point"}
+}

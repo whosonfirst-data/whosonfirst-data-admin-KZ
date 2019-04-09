@@ -1,0 +1,79 @@
+{
+  "id": 1326541501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.0119,52.22294,72.0119,52.22294",
+    "geom:latitude":52.22294,
+    "geom:longitude":72.0119,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koksal",
+    "gn:country_code":"KZ",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522494,
+    "gn:latitude":52.22294,
+    "gn:longitude":72.0119,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Koksal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koksal"
+    ],
+    "name:kaz_x_preferred":[
+        "K\u00f6ksal"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u04e9\u043a\u0441\u0430\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0441\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522494
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"20391eb9f53a1b5b31072812a100ba4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785617,
+            "locality_id":1326541501,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1326541501,
+    "wof:lastmodified":1537659761,
+    "wof:name":"Koksal",
+    "wof:parent_id":1108785617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.0119,
+    52.22294,
+    72.0119,
+    52.22294
+],
+  "geometry": {"coordinates":[72.0119,52.22294],"type":"Point"}
+}

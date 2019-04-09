@@ -1,0 +1,67 @@
+{
+  "id": 1293302913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.88333,50.15,79.88333,50.15",
+    "geom:latitude":50.15,
+    "geom:longitude":79.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Konturz",
+    "gn:country_code":"KZ",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522302,
+    "gn:latitude":50.15,
+    "gn:longitude":79.88333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Konturz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522302
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dc5d73f1c96a82e05e0ddc314cdde695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1293302913,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293302913,
+    "wof:lastmodified":1537050866,
+    "wof:name":"Konturz",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.88333,
+    50.15,
+    79.88333,
+    50.15
+],
+  "geometry": {"coordinates":[79.88333,50.15],"type":"Point"}
+}

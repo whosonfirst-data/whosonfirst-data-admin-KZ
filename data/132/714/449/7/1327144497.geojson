@@ -1,0 +1,71 @@
+{
+  "id": 1327144497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.08546,49.92071,83.08546,49.92071",
+    "geom:latitude":49.92071,
+    "geom:longitude":83.08546,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Feklistovka",
+    "gn:country_code":"KZ",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524274,
+    "gn:latitude":49.92071,
+    "gn:longitude":83.08546,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Feklistovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Feklistovskiy",
+        "Feklistovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524274
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3eb32c91bf6849564dfd5f961510792c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785307,
+            "locality_id":1327144497,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327144497,
+    "wof:lastmodified":1537659830,
+    "wof:name":"Feklistovka",
+    "wof:parent_id":1108785307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.08546,
+    49.92071,
+    83.08546,
+    49.92071
+],
+  "geometry": {"coordinates":[83.08546,49.92071],"type":"Point"}
+}

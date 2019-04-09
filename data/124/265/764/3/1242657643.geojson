@@ -1,0 +1,80 @@
+{
+  "id": 1242657643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.92571,49.42663,72.92571,49.42663",
+    "geom:latitude":49.42663,
+    "geom:longitude":72.92571,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kulaygyr",
+    "gn:country_code":"KZ",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521902,
+    "gn:latitude":49.42663,
+    "gn:longitude":72.92571,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kulaygyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qulaayghyr"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u04b1\u043b\u0430\u0430\u0439\u0493\u044b\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0430\u0439\u0433\u044b\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kulaaygyr",
+        "Kulaygyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521902
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"00913c685009bf76678ef9d848be8eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785649,
+            "locality_id":1242657643,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1242657643,
+    "wof:lastmodified":1537659732,
+    "wof:name":"Kulaygyr",
+    "wof:parent_id":1108785649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92571,
+    49.42663,
+    72.92571,
+    49.42663
+],
+  "geometry": {"coordinates":[72.92571,49.42663],"type":"Point"}
+}

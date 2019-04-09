@@ -1,0 +1,67 @@
+{
+  "id": 1209235673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.12872,49.47798,49.12872,49.47798",
+    "geom:latitude":49.47798,
+    "geom:longitude":49.12872,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Abish",
+    "gn:country_code":"KZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610808,
+    "gn:latitude":49.47798,
+    "gn:longitude":49.12872,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Abish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abish"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0438\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610808
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d942dfa137ebcec8fc58849ab345881a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209235673
+        }
+    ],
+    "wof:id":1209235673,
+    "wof:lastmodified":1537659455,
+    "wof:name":"Abish",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.12872,
+    49.47798,
+    49.12872,
+    49.47798
+],
+  "geometry": {"coordinates":[49.12872,49.47798],"type":"Point"}
+}

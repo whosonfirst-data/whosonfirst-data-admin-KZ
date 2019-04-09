@@ -1,0 +1,73 @@
+{
+  "id": 1242874357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.26667,47.68333,55.26667,47.68333",
+    "geom:latitude":47.68333,
+    "geom:longitude":55.26667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Darelsay",
+    "gn:country_code":"KZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610056,
+    "gn:latitude":47.68333,
+    "gn:longitude":55.26667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Darelsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ver Alasha",
+        "Darelsai",
+        "Verkhnyaya Alasha",
+        "Darelsay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610056
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"468cdc5cfc586b2a1eed44df87821686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785399,
+            "locality_id":1242874357,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1242874357,
+    "wof:lastmodified":1537659429,
+    "wof:name":"Darelsay",
+    "wof:parent_id":1108785399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.26667,
+    47.68333,
+    55.26667,
+    47.68333
+],
+  "geometry": {"coordinates":[55.26667,47.68333],"type":"Point"}
+}

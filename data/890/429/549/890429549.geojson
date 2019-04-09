@@ -1,0 +1,92 @@
+{
+  "id": 890429549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.49101,53.74733,66.49101,53.74733",
+    "geom:latitude":53.74733,
+    "geom:longitude":66.49101,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
+    "gn:pop":4147,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Timiryazevka"
+    ],
+    "name:eng_x_preferred":[
+        "Timiryazevo"
+    ],
+    "name:kaz_x_preferred":[
+        "T\u012bm\u012bryazevo"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u043e",
+        "\u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0426\u0435\u043b\u0438\u043d\u043d\u044b\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Tselinnoy"
+    ],
+    "name:uzb_x_preferred":[
+        "Timiryazevka"
+    ],
+    "qs:name":"Timiryazevo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":93,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518009,
+        "gp:id":2264903,
+        "qs:id":1031625,
+        "wd:id":"Q32382",
+        "wk:page":"Timiryazev District"
+    },
+    "wof:country":"KZ",
+    "wof:created":1469051819,
+    "wof:geomhash":"f11551a8c46a2e04590c961d9ea13db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":890429549,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":890429549,
+    "wof:lastmodified":1527792796,
+    "wof:name":"Timiryazevo",
+    "wof:parent_id":85672907,
+    "wof:placetype":"locality",
+    "wof:population":4147,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.49101,
+    53.74733,
+    66.49101,
+    53.74733
+],
+  "geometry": {"coordinates":[66.49101,53.74733],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226832509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.46631,43.17014,71.46631,43.17014",
+    "geom:latitude":43.17014,
+    "geom:longitude":71.46631,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Intymak",
+    "gn:country_code":"KZ",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11118893,
+    "gn:latitude":43.17014,
+    "gn:longitude":71.46631,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Intymak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "M\u00e4d\u012bmar"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u04d9\u0434\u0438\u043c\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0442\u044b\u043c\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11118893
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ebd42c61aec5e7fd136699cfc45576e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785487,
+            "locality_id":1226832509,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1226832509,
+    "wof:lastmodified":1537660103,
+    "wof:name":"Intymak",
+    "wof:parent_id":1108785487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.46631,
+    43.17014,
+    71.46631,
+    43.17014
+],
+  "geometry": {"coordinates":[71.46630999999999,43.17014],"type":"Point"}
+}

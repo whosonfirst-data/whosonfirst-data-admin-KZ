@@ -1,0 +1,73 @@
+{
+  "id": 1243160135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.50421,51.49248,77.50421,51.49248",
+    "geom:latitude":51.49248,
+    "geom:longitude":77.50421,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ferma Nomer Tri Sovkhoza Zhaltyrskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516954,
+    "gn:latitude":51.49248,
+    "gn:longitude":77.50421,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ferma Nomer Tri Sovkhoza Zhaltyrskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Zhaltyrskiy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u043c\u0430 \u041d\u043e\u043c\u0435\u0440 \u0422\u0440\u0438 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u0416\u0430\u043b\u0442\u044b\u0440\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516954
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2fd9a267ed2c7f2dd32b1ca76995746b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1243160135,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1243160135,
+    "wof:lastmodified":1537659492,
+    "wof:name":"Ferma Nomer Tri Sovkhoza Zhaltyrskiy",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.50421,
+    51.49248,
+    77.50421,
+    51.49248
+],
+  "geometry": {"coordinates":[77.50421,51.49248],"type":"Point"}
+}

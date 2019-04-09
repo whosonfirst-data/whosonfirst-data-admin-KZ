@@ -1,0 +1,83 @@
+{
+  "id": 1243038341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.1753,49.22204,82.1753,49.22204",
+    "geom:latitude":49.22204,
+    "geom:longitude":82.1753,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Marinovka",
+    "gn:country_code":"KZ",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521114,
+    "gn:latitude":49.22204,
+    "gn:longitude":82.1753,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Marinovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Marinovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Bylqyldaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u044b\u043b\u049b\u044b\u043b\u0434\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Maringorskoye",
+        "Marinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521114
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4705acfd407677c1af9157f3a62d32a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1243038341,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1243038341,
+    "wof:lastmodified":1537659697,
+    "wof:name":"Marinovka",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.1753,
+    49.22204,
+    82.1753,
+    49.22204
+],
+  "geometry": {"coordinates":[82.17529999999999,49.22204],"type":"Point"}
+}

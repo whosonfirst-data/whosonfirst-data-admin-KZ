@@ -1,0 +1,73 @@
+{
+  "id": 1243548331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.08267,41.56611,69.08267,41.56611",
+    "geom:latitude":41.56611,
+    "geom:longitude":69.08267,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Darbaza",
+    "gn:country_code":"KZ",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524648,
+    "gn:latitude":41.56611,
+    "gn:longitude":69.08267,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Darbaza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Darbaza"
+    ],
+    "name:kaz_x_variant":[
+        "\u0414\u0430\u0440\u0431\u0430\u0437\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524648
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8be4659bdde5ef872d6d4a1b9be2e0d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1243548331,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243548331,
+    "wof:lastmodified":1537659845,
+    "wof:name":"Darbaza",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.08267,
+    41.56611,
+    69.08267,
+    41.56611
+],
+  "geometry": {"coordinates":[69.08266999999999,41.56611],"type":"Point"}
+}

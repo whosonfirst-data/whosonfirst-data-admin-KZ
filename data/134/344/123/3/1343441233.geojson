@@ -1,0 +1,73 @@
+{
+  "id": 1343441233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.84322,50.16933,76.84322,50.16933",
+    "geom:latitude":50.16933,
+    "geom:longitude":76.84322,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Aynabulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247211,
+    "gn:latitude":50.16933,
+    "gn:longitude":76.84322,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Aynabulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Aynabulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0439\u043d\u0430\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247211
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"71fe6bff730432f5a5530e971a107018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785507,
+            "locality_id":1343441233,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1343441233,
+    "wof:lastmodified":1537660129,
+    "wof:name":"Aynabulaq",
+    "wof:parent_id":1108785507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.84322,
+    50.16933,
+    76.84322,
+    50.16933
+],
+  "geometry": {"coordinates":[76.84322,50.16933],"type":"Point"}
+}

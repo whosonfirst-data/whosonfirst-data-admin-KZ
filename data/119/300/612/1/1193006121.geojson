@@ -1,0 +1,79 @@
+{
+  "id": 1193006121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.93233,50.74306,76.93233,50.74306",
+    "geom:latitude":50.74306,
+    "geom:longitude":76.93233,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Qarashenggel",
+    "gn:country_code":"KZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413727,
+    "gn:latitude":50.74306,
+    "gn:longitude":76.93233,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Qarashenggel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarashenggel"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0448\u0435\u04a3\u0433\u0435\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Karashengel\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u0448\u0435\u043d\u0433\u0435\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413727
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a0cd65784a7df303691250a06121383b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1193006121,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1193006121,
+    "wof:lastmodified":1537660139,
+    "wof:name":"Qarashenggel",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.93233000000002,
+    50.74306,
+    76.93233000000002,
+    50.74306
+],
+  "geometry": {"coordinates":[76.93233000000002,50.74306],"type":"Point"}
+}

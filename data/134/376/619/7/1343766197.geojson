@@ -1,0 +1,79 @@
+{
+  "id": 1343766197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.94804,44.47678,77.94804,44.47678",
+    "geom:latitude":44.47678,
+    "geom:longitude":77.94804,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zheldiqara",
+    "gn:country_code":"KZ",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055406,
+    "gn:latitude":44.47678,
+    "gn:longitude":77.94804,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Zheldiqara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zheldiqara"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0435\u043b\u0434\u0456\u049b\u0430\u0440\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u0421\u0430\u0440\u044b\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Otdeleniye Sovkhoza Sarybulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055406
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"907837577057b2225b878cdba64d4ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785423,
+            "locality_id":1343766197,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1343766197,
+    "wof:lastmodified":1537660093,
+    "wof:name":"Zheldiqara",
+    "wof:parent_id":1108785423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.94804,
+    44.47678,
+    77.94804,
+    44.47678
+],
+  "geometry": {"coordinates":[77.94804000000001,44.47678],"type":"Point"}
+}

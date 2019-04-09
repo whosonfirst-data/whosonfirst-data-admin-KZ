@@ -1,0 +1,71 @@
+{
+  "id": 1293595085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.8,48.9,54.8,48.9",
+    "geom:latitude":48.9,
+    "geom:longitude":54.8,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kurdakty",
+    "gn:country_code":"KZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609083,
+    "gn:latitude":48.9,
+    "gn:longitude":54.8,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kurdakty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurdakti",
+        "Kurdakty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609083
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8e60da72571d7df96318416903ee230a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785401,
+            "locality_id":1293595085,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293595085,
+    "wof:lastmodified":1537659398,
+    "wof:name":"Kurdakty",
+    "wof:parent_id":1108785401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.8,
+    48.9,
+    54.8,
+    48.9
+],
+  "geometry": {"coordinates":[54.8,48.9],"type":"Point"}
+}

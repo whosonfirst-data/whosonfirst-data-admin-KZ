@@ -1,0 +1,79 @@
+{
+  "id": 1193109587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.21383,54.00973,72.21383,54.00973",
+    "geom:latitude":54.00973,
+    "geom:longitude":72.21383,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zhanaturmys",
+    "gn:country_code":"KZ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532613,
+    "gn:latitude":54.00973,
+    "gn:longitude":72.21383,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Zhanaturmys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhanaturmys"
+    ],
+    "name:kaz_x_preferred":[
+        "Zhangaturmys"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430\u0442\u04b1\u0440\u043c\u044b\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0442\u0443\u0440\u043c\u044b\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532613
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"33a62f46d7d87dcc0d774c567ef2d671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785683,
+            "locality_id":1193109587,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1193109587,
+    "wof:lastmodified":1537659970,
+    "wof:name":"Zhanaturmys",
+    "wof:parent_id":1108785683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.21383,
+    54.00973000000001,
+    72.21383,
+    54.00973000000001
+],
+  "geometry": {"coordinates":[72.21383,54.00973000000001],"type":"Point"}
+}

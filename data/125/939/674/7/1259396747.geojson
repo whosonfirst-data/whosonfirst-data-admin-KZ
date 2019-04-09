@@ -1,0 +1,74 @@
+{
+  "id": 1259396747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.43632,43.24683,76.43632,43.24683",
+    "geom:latitude":43.24683,
+    "geom:longitude":76.43632,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kasymbek",
+    "gn:country_code":"KZ",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520561,
+    "gn:latitude":43.24683,
+    "gn:longitude":76.43632,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kasymbek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Novorossiysk",
+        "Novorossiyskiy",
+        "Novorossiyskoye",
+        "Kasymbek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520561,
+        "wk:page":"Kasymbek"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5a3863a444757fd01b09ef261fc27745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1259396747,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1259396747,
+    "wof:lastmodified":1537659665,
+    "wof:name":"Kasymbek",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.43632,
+    43.24683,
+    76.43632,
+    43.24683
+],
+  "geometry": {"coordinates":[76.43631999999999,43.24683],"type":"Point"}
+}

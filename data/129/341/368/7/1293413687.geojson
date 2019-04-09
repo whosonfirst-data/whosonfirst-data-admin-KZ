@@ -1,0 +1,67 @@
+{
+  "id": 1293413687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.78333,50.11667,61.78333,50.11667",
+    "geom:latitude":50.11667,
+    "geom:longitude":61.78333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhanakbay",
+    "gn:country_code":"KZ",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516865,
+    "gn:latitude":50.11667,
+    "gn:longitude":61.78333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Zhanakbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516865
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cc63e432299696ef45471c3f878b77b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785723,
+            "locality_id":1293413687,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293413687,
+    "wof:lastmodified":1536893190,
+    "wof:name":"Zhanakbay",
+    "wof:parent_id":1108785723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.78333000000001,
+    50.11667,
+    61.78333000000001,
+    50.11667
+],
+  "geometry": {"coordinates":[61.78333000000001,50.11667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243534537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.22043,50.38147,72.22043,50.38147",
+    "geom:latitude":50.38147,
+    "geom:longitude":72.22043,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sungqar",
+    "gn:country_code":"KZ",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518952,
+    "gn:latitude":50.38147,
+    "gn:longitude":72.22043,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Sungqar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sunkar"
+    ],
+    "name:kaz_x_variant":[
+        "Sungqar",
+        "\u0421\u04b1\u04a3\u049b\u0430\u0440",
+        "\u0421\u043a\u043e\u0431\u0435\u043b\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Skobelevskoye",
+        "Skobelevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518952
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5906bc9eca77037bc4e0a346b0506e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1243534537,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1243534537,
+    "wof:lastmodified":1537659584,
+    "wof:name":"Sungqar",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.22043000000002,
+    50.38147,
+    72.22043000000002,
+    50.38147
+],
+  "geometry": {"coordinates":[72.22043000000002,50.38147],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209685471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.92847,54.65975,68.92847,54.65975",
+    "geom:latitude":54.65975,
+    "geom:longitude":68.92847,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ivanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530941,
+    "gn:latitude":54.65975,
+    "gn:longitude":68.92847,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ivanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530941
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6f61fe736f464aa05c65efc1c710ef2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209685471
+        }
+    ],
+    "wof:id":1209685471,
+    "wof:lastmodified":1537659948,
+    "wof:name":"Ivanovka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.92846999999999,
+    54.65975,
+    68.92846999999999,
+    54.65975
+],
+  "geometry": {"coordinates":[68.92846999999999,54.65975],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242953287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.39154,49.64403,72.39154,49.64403",
+    "geom:latitude":49.64403,
+    "geom:longitude":72.39154,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Rodniki",
+    "gn:country_code":"KZ",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519873,
+    "gn:latitude":49.64403,
+    "gn:longitude":72.39154,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Rodniki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Rodn\u012bk\u012b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0420\u043e\u0434\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519873
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2905e3833efef2eb9a04a66cf0ac8236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785649,
+            "locality_id":1242953287,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1242953287,
+    "wof:lastmodified":1537659622,
+    "wof:name":"Rodniki",
+    "wof:parent_id":1108785649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.39154,
+    49.64403,
+    72.39154,
+    49.64403
+],
+  "geometry": {"coordinates":[72.39154000000001,49.64403],"type":"Point"}
+}

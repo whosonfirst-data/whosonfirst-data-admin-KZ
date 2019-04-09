@@ -1,0 +1,74 @@
+{
+  "id": 1243347343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.42525,40.78619,68.42525,40.78619",
+    "geom:latitude":40.78619,
+    "geom:longitude":68.42525,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Imeni Lenina",
+    "gn:country_code":"KZ",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523988,
+    "gn:latitude":40.78619,
+    "gn:longitude":68.42525,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Imeni Lenina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u041b\u0435\u043d\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Imeni Kirova",
+        "Imeni Lenina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523988
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"939b6bb5e49f65b652d988aeed393107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1243347343,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243347343,
+    "wof:lastmodified":1537659814,
+    "wof:name":"Imeni Lenina",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.42525,
+    40.78619000000001,
+    68.42525,
+    40.78619000000001
+],
+  "geometry": {"coordinates":[68.42525000000001,40.78619000000001],"type":"Point"}
+}

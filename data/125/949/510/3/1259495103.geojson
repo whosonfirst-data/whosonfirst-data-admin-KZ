@@ -1,0 +1,70 @@
+{
+  "id": 1259495103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.84028,52.58755,68.84028,52.58755",
+    "geom:latitude":52.58755,
+    "geom:longitude":68.84028,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shkola-Internat",
+    "gn:country_code":"KZ",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11149507,
+    "gn:latitude":52.58755,
+    "gn:longitude":68.84028,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Shkola-Internat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u043a\u043e\u043b\u0430-\u0418\u043d\u0442\u0435\u0440\u043d\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11149507
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"17d4a7330e23e6e86f6d4b65d36b3f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785397,
+            "locality_id":1259495103,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1259495103,
+    "wof:lastmodified":1537660124,
+    "wof:name":"Shkola-Internat",
+    "wof:parent_id":1108785397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.84028,
+    52.58755,
+    68.84028,
+    52.58755
+],
+  "geometry": {"coordinates":[68.84028000000001,52.58755],"type":"Point"}
+}

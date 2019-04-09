@@ -1,0 +1,76 @@
+{
+  "id": 1343837483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.16329,53.70031,63.16329,53.70031",
+    "geom:latitude":53.70031,
+    "geom:longitude":63.16329,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Zhangir",
+    "gn:country_code":"KZ",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507591,
+    "gn:latitude":53.70031,
+    "gn:longitude":63.16329,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Zhangir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zh\u00e4nggir"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u04d9\u04a3\u0433\u0456\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u0433\u0438\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507591
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5667ad1f8b7c0b0de27d633d0a415de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1343837483,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343837483,
+    "wof:lastmodified":1537660170,
+    "wof:name":"Zhangir",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.16329,
+    53.70031,
+    63.16329,
+    53.70031
+],
+  "geometry": {"coordinates":[63.16329,53.70031],"type":"Point"}
+}

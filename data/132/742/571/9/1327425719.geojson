@@ -1,0 +1,78 @@
+{
+  "id": 1327425719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.69358,51.10355,52.69358,51.10355",
+    "geom:latitude":51.10355,
+    "geom:longitude":52.69358,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Besagash",
+    "gn:country_code":"KZ",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610325,
+    "gn:latitude":51.10355,
+    "gn:longitude":52.69358,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Besagash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Besagash"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u0430\u0433\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Bisagach",
+        "Bes-Agach",
+        "Besagash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610325
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"06d223944e582055aff03286e5a0f057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785325,
+            "locality_id":1327425719,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1327425719,
+    "wof:lastmodified":1537659439,
+    "wof:name":"Besagash",
+    "wof:parent_id":1108785325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.69358,
+    51.10355,
+    52.69358,
+    51.10355
+],
+  "geometry": {"coordinates":[52.69358,51.10355],"type":"Point"}
+}

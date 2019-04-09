@@ -1,0 +1,67 @@
+{
+  "id": 1209928975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.9,49.03333,49.9,49.03333",
+    "geom:latitude":49.03333,
+    "geom:longitude":49.9,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mostekskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608799,
+    "gn:latitude":49.03333,
+    "gn:longitude":49.9,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Mostekskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608799
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"062d5d87f91aa405af4f30f154f1bf0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1209928975,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1209928975,
+    "wof:lastmodified":1536393591,
+    "wof:name":"Mostekskiy",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.9,
+    49.03333,
+    49.9,
+    49.03333
+],
+  "geometry": {"coordinates":[49.9,49.03333],"type":"Point"}
+}

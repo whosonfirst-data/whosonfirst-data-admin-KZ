@@ -1,0 +1,79 @@
+{
+  "id": 1276676669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.73493,50.32268,81.73493,50.32268",
+    "geom:latitude":50.32268,
+    "geom:longitude":81.73493,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ubinka",
+    "gn:country_code":"KZ",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517838,
+    "gn:latitude":50.32268,
+    "gn:longitude":81.73493,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ubinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ubinka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0431\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ubinsk Pristan",
+        "Ubinskoe",
+        "Ubinskoye",
+        "Ubinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517838
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"00445d6a659a115eb4c5ee22b17c98e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1276676669,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276676669,
+    "wof:lastmodified":1537659541,
+    "wof:name":"Ubinka",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.73493,
+    50.32268,
+    81.73493,
+    50.32268
+],
+  "geometry": {"coordinates":[81.73493000000001,50.32268],"type":"Point"}
+}

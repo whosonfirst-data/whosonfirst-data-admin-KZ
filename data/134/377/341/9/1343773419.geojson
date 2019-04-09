@@ -1,0 +1,67 @@
+{
+  "id": 1343773419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.77602,51.45495,69.77602,51.45495",
+    "geom:latitude":51.45495,
+    "geom:longitude":69.77602,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zelenoye",
+    "gn:country_code":"KZ",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537317,
+    "gn:latitude":51.45495,
+    "gn:longitude":69.77602,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Zelenoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537317
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9af524b96b024c3f3d05af030fd1a32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785391,
+            "locality_id":1343773419,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343773419,
+    "wof:lastmodified":1536792493,
+    "wof:name":"Zelenoye",
+    "wof:parent_id":1108785391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.77601999999999,
+    51.45495,
+    69.77601999999999,
+    51.45495
+],
+  "geometry": {"coordinates":[69.77601999999999,51.45495],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209228707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.35053,43.47324,77.35053,43.47324",
+    "geom:latitude":43.47324,
+    "geom:longitude":77.35053,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tastykara",
+    "gn:country_code":"KZ",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518376,
+    "gn:latitude":43.47324,
+    "gn:longitude":77.35053,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Tastykara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0441\u0442\u044b\u043a\u0430\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tashty-Kard",
+        "Tastykara",
+        "Tashty-Kara",
+        "Amangel\u2019dy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518376,
+        "wk:page":"Amangel%27dy"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c838bd3db3dcd6564f8aaa3790e8be39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209228707
+        }
+    ],
+    "wof:id":1209228707,
+    "wof:lastmodified":1537659561,
+    "wof:name":"Tastykara",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.35053,
+    43.47324,
+    77.35053,
+    43.47324
+],
+  "geometry": {"coordinates":[77.35053000000001,43.47324],"type":"Point"}
+}

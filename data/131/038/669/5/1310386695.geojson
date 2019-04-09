@@ -1,0 +1,79 @@
+{
+  "id": 1310386695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.10175,52.46473,76.10175,52.46473",
+    "geom:latitude":52.46473,
+    "geom:longitude":76.10175,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Toqashapqan",
+    "gn:country_code":"KZ",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10806915,
+    "gn:latitude":52.46473,
+    "gn:longitude":76.10175,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Toqashapqan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Toqashapqan"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u043e\u049b\u0430\u0448\u0430\u043f\u049b\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043a\u0430\u0448\u0430\u043f\u043a\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Tokashapkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10806915
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0a692688264e16814b1fb498078d30c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785551,
+            "locality_id":1310386695,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310386695,
+    "wof:lastmodified":1537660062,
+    "wof:name":"Toqashapqan",
+    "wof:parent_id":1108785551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.10175,
+    52.46473,
+    76.10175,
+    52.46473
+],
+  "geometry": {"coordinates":[76.10175,52.46473],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293572697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.08333,45.36667,64.08333,45.36667",
+    "geom:latitude":45.36667,
+    "geom:longitude":64.08333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sovkhoz Oktyabr'",
+    "gn:country_code":"KZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520446,
+    "gn:latitude":45.36667,
+    "gn:longitude":64.08333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sovkhoz Oktyabr\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Oktyabr\u2019"
+    ],
+    "name:rus_x_preferred":[
+        "Sovkhoz Oktyabr\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520446
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b9af612f1d1a2ed835277dd235ade5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785695,
+            "locality_id":1293572697,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1293572697,
+    "wof:lastmodified":1537659658,
+    "wof:name":"Sovkhoz Oktyabr'",
+    "wof:parent_id":1108785695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.08333,
+    45.36667,
+    64.08333,
+    45.36667
+],
+  "geometry": {"coordinates":[64.08333,45.36667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1210030979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.32212,49.97719,80.32212,49.97719",
+    "geom:latitude":49.97719,
+    "geom:longitude":80.32212,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Borly",
+    "gn:country_code":"KZ",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525147,
+    "gn:latitude":49.97719,
+    "gn:longitude":80.32212,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Borly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Borly"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043a\u0430\u043b\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Piket Arkalyskiy",
+        "Arkalyskiy",
+        "Arkalyk",
+        "Borly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525147
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4fedb55aeffac245c16fd64e7492045f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785641,
+            "locality_id":1210030979,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1210030979,
+    "wof:lastmodified":1537659862,
+    "wof:name":"Borly",
+    "wof:parent_id":1108785641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.32212,
+    49.97719,
+    80.32212,
+    49.97719
+],
+  "geometry": {"coordinates":[80.32212,49.97719],"type":"Point"}
+}

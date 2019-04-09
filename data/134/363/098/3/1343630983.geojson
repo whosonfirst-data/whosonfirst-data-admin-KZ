@@ -1,0 +1,79 @@
+{
+  "id": 1343630983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.46035,54.6952,67.46035,54.6952",
+    "geom:latitude":54.6952,
+    "geom:longitude":67.46035,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mirolyubovo",
+    "gn:country_code":"KZ",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530401,
+    "gn:latitude":54.6952,
+    "gn:longitude":67.46035,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Mirolyubovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mirolyubovo"
+    ],
+    "name:kaz_x_preferred":[
+        "M\u012brolyubovo"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0438\u0440\u043e\u043b\u044e\u0431\u043e\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u043e\u043b\u044e\u0431\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530401
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"241e484c801fb91196d6f33f0f47b8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1343630983,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343630983,
+    "wof:lastmodified":1537659937,
+    "wof:name":"Mirolyubovo",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.46035,
+    54.6952,
+    67.46035,
+    54.6952
+],
+  "geometry": {"coordinates":[67.46035000000001,54.6952],"type":"Point"}
+}

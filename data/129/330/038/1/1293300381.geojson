@@ -1,0 +1,74 @@
+{
+  "id": 1293300381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.19773,51.65635,68.19773,51.65635",
+    "geom:latitude":51.65635,
+    "geom:longitude":68.19773,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sergeevka",
+    "gn:country_code":"KZ",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519388,
+    "gn:latitude":51.65635,
+    "gn:longitude":68.19773,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sergeevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sergevskiy",
+        "Sergeyevskiy",
+        "Sergiyevskiy",
+        "Sergeyevka",
+        "Sergeevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519388
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e1cdc8947a7d6dedc078264540263972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785387,
+            "locality_id":1293300381,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1293300381,
+    "wof:lastmodified":1537659604,
+    "wof:name":"Sergeevka",
+    "wof:parent_id":1108785387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.19773,
+    51.65635,
+    68.19773,
+    51.65635
+],
+  "geometry": {"coordinates":[68.19773000000001,51.65635],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343339889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.28084,52.99434,77.28084,52.99434",
+    "geom:latitude":52.99434,
+    "geom:longitude":77.28084,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Travyanka",
+    "gn:country_code":"KZ",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518041,
+    "gn:latitude":52.99434,
+    "gn:longitude":77.28084,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Travyanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Travyanka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0440\u0430\u0432\u044f\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0430\u0432\u044f\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Travyanskoye",
+        "Travyanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518041
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e9e2d1af7c593722d12201fb7cb32084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785351,
+            "locality_id":1343339889,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1343339889,
+    "wof:lastmodified":1537659549,
+    "wof:name":"Travyanka",
+    "wof:parent_id":1108785351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.28084,
+    52.99434,
+    77.28084,
+    52.99434
+],
+  "geometry": {"coordinates":[77.28084,52.99434],"type":"Point"}
+}

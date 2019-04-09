@@ -1,0 +1,81 @@
+{
+  "id": 1343965607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.82146,51.64818,65.82146,51.64818",
+    "geom:latitude":51.64818,
+    "geom:longitude":65.82146,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Internatsional'nyy",
+    "gn:country_code":"KZ",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523799,
+    "gn:latitude":51.64818,
+    "gn:longitude":65.82146,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"\u012anternats\u012bonal\u2019nyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Internatsional'nyy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u012anternats\u012bonal\u2019nyy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0442\u0435\u0440\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Mayakovskiy",
+        "Imeni Mayakovskogo",
+        "Internatsional\u2019nyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523799
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"35be529ce5659beebd90e237abc51643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785621,
+            "locality_id":1343965607,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1343965607,
+    "wof:lastmodified":1537659807,
+    "wof:name":"Internatsional'nyy",
+    "wof:parent_id":1108785621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.82146,
+    51.64818,
+    65.82146,
+    51.64818
+],
+  "geometry": {"coordinates":[65.82146,51.64818],"type":"Point"}
+}

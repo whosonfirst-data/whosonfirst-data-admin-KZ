@@ -1,0 +1,83 @@
+{
+  "id": 1259559869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.10828,52.38301,61.10828,52.38301",
+    "geom:latitude":52.38301,
+    "geom:longitude":61.10828,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Chaykovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524088,
+    "gn:latitude":52.38301,
+    "gn:longitude":61.10828,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Chaykovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chaykovskiy"
+    ],
+    "name:kaz_x_preferred":[
+        "Chaykovsk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u0427\u0430\u0439\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0439\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Imeni Chaykovskogo",
+        "Chaykovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524088
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2bf7c4c9d693437cd27d14c801cb8d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785525,
+            "locality_id":1259559869,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1259559869,
+    "wof:lastmodified":1537659818,
+    "wof:name":"Chaykovskiy",
+    "wof:parent_id":1108785525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.10828000000001,
+    52.38301,
+    61.10828000000001,
+    52.38301
+],
+  "geometry": {"coordinates":[61.10828000000001,52.38301],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343753633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.52201,51.16619,53.52201,51.16619",
+    "geom:latitude":51.16619,
+    "geom:longitude":53.52201,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Amangeldi",
+    "gn:country_code":"KZ",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610633,
+    "gn:latitude":51.16619,
+    "gn:longitude":53.52201,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Amangeldi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amangeldi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u044c\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Amangel\u2019dy",
+        "Amangeldi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610633
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4dcf3d0b1aacc05fabf2010b172bf4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785711,
+            "locality_id":1343753633,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1343753633,
+    "wof:lastmodified":1537659449,
+    "wof:name":"Amangeldi",
+    "wof:parent_id":1108785711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.52201,
+    51.16619,
+    53.52201,
+    51.16619
+],
+  "geometry": {"coordinates":[53.52201,51.16619],"type":"Point"}
+}

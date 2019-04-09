@@ -1,0 +1,83 @@
+{
+  "id": 1343831053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.40139,50.77546,80.40139,50.77546",
+    "geom:latitude":50.77546,
+    "geom:longitude":80.40139,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Troitskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518027,
+    "gn:latitude":50.77546,
+    "gn:longitude":80.40139,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Troitskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Troitskoye"
+    ],
+    "name:kaz_x_preferred":[
+        "Tro\u012btskoye"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0440\u043e\u0438\u0446\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043e\u0438\u0446\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Troitskiy",
+        "Troitskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518027
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"20daa2b1ff5b8e4043b8fa5afbedf204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785305,
+            "locality_id":1343831053,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343831053,
+    "wof:lastmodified":1537659547,
+    "wof:name":"Troitskoye",
+    "wof:parent_id":1108785305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.40139,
+    50.77546,
+    80.40139,
+    50.77546
+],
+  "geometry": {"coordinates":[80.40139000000001,50.77546],"type":"Point"}
+}

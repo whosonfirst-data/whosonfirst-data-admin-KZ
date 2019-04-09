@@ -1,0 +1,73 @@
+{
+  "id": 1226626387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.57909,48.1629,75.57909,48.1629",
+    "geom:latitude":48.1629,
+    "geom:longitude":75.57909,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Agashkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11411618,
+    "gn:latitude":48.1629,
+    "gn:longitude":75.57909,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Agashkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Agashkol\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0433\u0430\u0448\u043a\u043e\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11411618
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"001d36266ef59e5514a9fbc19e40f859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785505,
+            "locality_id":1226626387,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1226626387,
+    "wof:lastmodified":1537660137,
+    "wof:name":"Agashkol'",
+    "wof:parent_id":1108785505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.57909000000002,
+    48.1629,
+    75.57909000000002,
+    48.1629
+],
+  "geometry": {"coordinates":[75.57909000000002,48.1629],"type":"Point"}
+}

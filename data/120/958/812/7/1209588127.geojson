@@ -1,0 +1,75 @@
+{
+  "id": 1209588127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.45075,53.32197,67.45075,53.32197",
+    "geom:latitude":53.32197,
+    "geom:longitude":67.45075,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kazanka",
+    "gn:country_code":"KZ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517069,
+    "gn:latitude":53.32197,
+    "gn:longitude":67.45075,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Kazanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kazanka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0430\u0437\u0430\u043d\u043a\u0430",
+        "Kazan",
+        "\u041a\u0430\u0437\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "Sovkhoz Zavet Il\u2019icha"
+    ],
+    "name:und_x_variant":[
+        "Kazanskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517069
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2aa977aadc5e5159923c4febec3c0306",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209588127
+        }
+    ],
+    "wof:id":1209588127,
+    "wof:lastmodified":1537659497,
+    "wof:name":"Kazanka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.45075,
+    53.32196999999999,
+    67.45075,
+    53.32196999999999
+],
+  "geometry": {"coordinates":[67.45075,53.32196999999999],"type":"Point"}
+}

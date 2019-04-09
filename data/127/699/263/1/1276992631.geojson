@@ -1,0 +1,72 @@
+{
+  "id": 1276992631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.12809,51.39496,67.12809,51.39496",
+    "geom:latitude":51.39496,
+    "geom:longitude":67.12809,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Esil",
+    "gn:country_code":"KZ",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523753,
+    "gn:latitude":51.39496,
+    "gn:longitude":67.12809,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Esil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ishimka",
+        "Ishimskoye",
+        "Esil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523753
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5d04541390acafdf98b6b277462ea6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785623,
+            "locality_id":1276992631,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1276992631,
+    "wof:lastmodified":1537659806,
+    "wof:name":"Esil",
+    "wof:parent_id":1108785623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.12809,
+    51.39496,
+    67.12809,
+    51.39496
+],
+  "geometry": {"coordinates":[67.12809,51.39496],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242654727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.46829,48.31766,71.46829,48.31766",
+    "geom:latitude":48.31766,
+    "geom:longitude":71.46829,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kuzhal",
+    "gn:country_code":"KZ",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11418870,
+    "gn:latitude":48.31766,
+    "gn:longitude":71.46829,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Kuzhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0436\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11418870
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1286b1ac49baa6b34e4f63dddda8eb2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785597,
+            "locality_id":1242654727,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1242654727,
+    "wof:lastmodified":1537660148,
+    "wof:name":"Kuzhal",
+    "wof:parent_id":1108785597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.46829,
+    48.31766,
+    71.46829,
+    48.31766
+],
+  "geometry": {"coordinates":[71.46829,48.31766],"type":"Point"}
+}

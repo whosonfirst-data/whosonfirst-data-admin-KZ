@@ -1,0 +1,67 @@
+{
+  "id": 1259994139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.25,48.8,83.25,48.8",
+    "geom:latitude":48.8,
+    "geom:longitude":83.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Imeni Dzhambula",
+    "gn:country_code":"KZ",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524061,
+    "gn:latitude":48.8,
+    "gn:longitude":83.25,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Imeni Dzhambula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524061
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"522ccb58304e81000f48025c3d986700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1259994139,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1259994139,
+    "wof:lastmodified":1536617512,
+    "wof:name":"Imeni Dzhambula",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.25,
+    48.8,
+    83.25,
+    48.8
+],
+  "geometry": {"coordinates":[83.25,48.8],"type":"Point"}
+}

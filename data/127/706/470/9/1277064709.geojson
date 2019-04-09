@@ -1,0 +1,81 @@
+{
+  "id": 1277064709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.73707,50.79131,76.73707,50.79131",
+    "geom:latitude":50.79131,
+    "geom:longitude":76.73707,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Novyy Akshman",
+    "gn:country_code":"KZ",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526682,
+    "gn:latitude":50.79131,
+    "gn:longitude":76.73707,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Novyy Akshman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhangaaqsh\u012bman"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0430\u04a3\u0430\u0430\u049b\u0448\u0438\u043c\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0410\u043a\u0448\u043c\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Akshimanskiy",
+        "Zhanaakshiman",
+        "Novyy Akshman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526682
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"38f6ee82a6727848210d2160157571b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1277064709,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1277064709,
+    "wof:lastmodified":1537659923,
+    "wof:name":"Novyy Akshman",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.73706999999997,
+    50.79131,
+    76.73706999999997,
+    50.79131
+],
+  "geometry": {"coordinates":[76.73706999999997,50.79131],"type":"Point"}
+}

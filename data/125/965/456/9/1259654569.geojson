@@ -1,0 +1,67 @@
+{
+  "id": 1259654569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.31667,44.7,61.31667,44.7",
+    "geom:latitude":44.7,
+    "geom:longitude":61.31667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Uzynkair",
+    "gn:country_code":"KZ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517530,
+    "gn:latitude":44.7,
+    "gn:longitude":61.31667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Uzynkair",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517530
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3cbfd27b4d279a62b8d64f3956c8865d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785613,
+            "locality_id":1259654569,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1259654569,
+    "wof:lastmodified":1536609720,
+    "wof:name":"Uzynkair",
+    "wof:parent_id":1108785613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.31667,
+    44.7,
+    61.31667,
+    44.7
+],
+  "geometry": {"coordinates":[61.31667,44.7],"type":"Point"}
+}

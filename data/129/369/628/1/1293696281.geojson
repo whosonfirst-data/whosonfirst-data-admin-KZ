@@ -1,0 +1,88 @@
+{
+  "id": 1293696281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.46286,43.98097,77.46286,43.98097",
+    "geom:latitude":43.98097,
+    "geom:longitude":77.46286,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shenggeldi",
+    "gn:country_code":"KZ",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519218,
+    "gn:latitude":43.98097,
+    "gn:longitude":77.46286,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Shenggeldi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shenggeldi"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0435\u04a3\u0433\u0435\u043b\u0434\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "Shengel\u2019dy"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0435\u043d\u0433\u0435\u043b\u044c\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Chingel\u2019dy",
+        "Kolodez Chingil\u2019dy",
+        "Chingil\u2019dinskiy",
+        "Chingild\u00f6",
+        "Chingil\u2019dy",
+        "Chingyl\u2019dy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519218,
+        "wk:page":"Shengel%27dy"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f721e88dfea1760f784308984467e822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785431,
+            "locality_id":1293696281,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1293696281,
+    "wof:lastmodified":1537659596,
+    "wof:name":"Shenggeldi",
+    "wof:parent_id":1108785431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.46285999999998,
+    43.98097,
+    77.46285999999998,
+    43.98097
+],
+  "geometry": {"coordinates":[77.46285999999998,43.98097],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242796105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.06667,49.78333,82.06667,49.78333",
+    "geom:latitude":49.78333,
+    "geom:longitude":82.06667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Svetlyye Klyuchi",
+    "gn:country_code":"KZ",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518668,
+    "gn:latitude":49.78333,
+    "gn:longitude":82.06667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Svetlyye Klyuchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518668
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"02fbf0617bcc1f8abba5d9282966d88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785473,
+            "locality_id":1242796105,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1242796105,
+    "wof:lastmodified":1536748758,
+    "wof:name":"Svetlyye Klyuchi",
+    "wof:parent_id":1108785473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.06667,
+    49.78333,
+    82.06667,
+    49.78333
+],
+  "geometry": {"coordinates":[82.06667,49.78333],"type":"Point"}
+}

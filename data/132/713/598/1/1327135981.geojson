@@ -1,0 +1,71 @@
+{
+  "id": 1327135981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.51835,51.56753,67.51835,51.56753",
+    "geom:latitude":51.56753,
+    "geom:longitude":67.51835,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yerkendyk",
+    "gn:country_code":"KZ",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517205,
+    "gn:latitude":51.56753,
+    "gn:longitude":67.51835,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Yerkendyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yerkindik",
+        "Yerkendyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517205
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e147fd3a4aa894193900aba27199c034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785623,
+            "locality_id":1327135981,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327135981,
+    "wof:lastmodified":1537659506,
+    "wof:name":"Yerkendyk",
+    "wof:parent_id":1108785623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.51835,
+    51.56753,
+    67.51835,
+    51.56753
+],
+  "geometry": {"coordinates":[67.51835,51.56753],"type":"Point"}
+}

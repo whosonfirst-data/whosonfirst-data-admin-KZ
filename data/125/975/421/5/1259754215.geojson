@@ -1,0 +1,67 @@
+{
+  "id": 1259754215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.32417,43.66278,67.32417,43.66278",
+    "geom:latitude":43.66278,
+    "geom:longitude":67.32417,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Uegent",
+    "gn:country_code":"KZ",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529717,
+    "gn:latitude":43.66278,
+    "gn:longitude":67.32417,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Uegent",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529717
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"33a88c9c18439c63a5485ada99168f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785669,
+            "locality_id":1259754215,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1259754215,
+    "wof:lastmodified":1536965155,
+    "wof:name":"Uegent",
+    "wof:parent_id":1108785669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.32417,
+    43.66278,
+    67.32417,
+    43.66278
+],
+  "geometry": {"coordinates":[67.32417,43.66278],"type":"Point"}
+}

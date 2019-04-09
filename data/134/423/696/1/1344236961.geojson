@@ -1,0 +1,70 @@
+{
+  "id": 1344236961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.84341,50.61952,73.84341,50.61952",
+    "geom:latitude":50.61952,
+    "geom:longitude":73.84341,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhaman-Kandyadyr",
+    "gn:country_code":"KZ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11452010,
+    "gn:latitude":50.61952,
+    "gn:longitude":73.84341,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Zhaman-Kandyadyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043c\u0430\u043d-\u041a\u0430\u043d\u0434\u044b\u0430\u0434\u044b\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11452010
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a27122a4e76e2c8424f96aa8495ecf72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1344236961,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1344236961,
+    "wof:lastmodified":1537660153,
+    "wof:name":"Zhaman-Kandyadyr",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.84340999999998,
+    50.61952,
+    73.84340999999998,
+    50.61952
+],
+  "geometry": {"coordinates":[73.84340999999998,50.61952],"type":"Point"}
+}

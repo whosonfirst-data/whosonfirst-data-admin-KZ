@@ -1,0 +1,76 @@
+{
+  "id": 1260160349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.54421,53.80392,64.54421,53.80392",
+    "geom:latitude":53.80392,
+    "geom:longitude":64.54421,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Khar'kovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540408,
+    "gn:latitude":53.80392,
+    "gn:longitude":64.54421,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Khar\u2019kovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Khar\u2019kovsk\u012by"
+    ],
+    "name:kaz_x_variant":[
+        "\u0425\u0430\u0440\u044c\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "Khar\u2019kovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540408
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"db37de454b5aa0bcd5d2feb3d710c987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785385,
+            "locality_id":1260160349,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1260160349,
+    "wof:lastmodified":1537660032,
+    "wof:name":"Khar'kovskiy",
+    "wof:parent_id":1108785385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.54420999999999,
+    53.80392,
+    64.54420999999999,
+    53.80392
+],
+  "geometry": {"coordinates":[64.54420999999999,53.80392],"type":"Point"}
+}

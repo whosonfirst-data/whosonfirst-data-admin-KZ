@@ -1,0 +1,67 @@
+{
+  "id": 1209224589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.66933,49.24401,81.66933,49.24401",
+    "geom:latitude":49.24401,
+    "geom:longitude":81.66933,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Korykshar",
+    "gn:country_code":"KZ",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522232,
+    "gn:latitude":49.24401,
+    "gn:longitude":81.66933,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Korykshar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Korykshar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0443\u043a\u0447\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522232
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"845d307a1a06dc213a06251b149b54e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209224589
+        }
+    ],
+    "wof:id":1209224589,
+    "wof:lastmodified":1537659749,
+    "wof:name":"Korykshar",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.66933,
+    49.24401,
+    81.66933,
+    49.24401
+],
+  "geometry": {"coordinates":[81.66933,49.24401],"type":"Point"}
+}

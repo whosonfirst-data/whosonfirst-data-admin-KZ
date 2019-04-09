@@ -1,0 +1,73 @@
+{
+  "id": 1243077745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.98333,49.06667,51.98333,49.06667",
+    "geom:latitude":49.06667,
+    "geom:longitude":51.98333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bayaktobe",
+    "gn:country_code":"KZ",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610395,
+    "gn:latitude":49.06667,
+    "gn:longitude":51.98333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bayaktobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bayaktobe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0442\u043e\u0431\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610395
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a03e666070f7f00d9cbbc127e1e56ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1243077745,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1243077745,
+    "wof:lastmodified":1537659442,
+    "wof:name":"Bayaktobe",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.98333,
+    49.06667,
+    51.98333,
+    49.06667
+],
+  "geometry": {"coordinates":[51.98333,49.06667],"type":"Point"}
+}

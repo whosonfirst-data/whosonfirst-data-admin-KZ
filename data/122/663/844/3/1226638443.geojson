@@ -1,0 +1,67 @@
+{
+  "id": 1226638443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.28333,47.7,53.28333,47.7",
+    "geom:latitude":47.7,
+    "geom:longitude":53.28333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhainbay",
+    "gn:country_code":"KZ",
+    "gn:dem":-21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607679,
+    "gn:latitude":47.7,
+    "gn:longitude":53.28333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Zhainbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607679
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dc9a13ab955437462a6ee3f6162c3f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785455,
+            "locality_id":1226638443,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1226638443,
+    "wof:lastmodified":1536868837,
+    "wof:name":"Zhainbay",
+    "wof:parent_id":1108785455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.28333000000001,
+    47.7,
+    53.28333000000001,
+    47.7
+],
+  "geometry": {"coordinates":[53.28333000000001,47.7],"type":"Point"}
+}

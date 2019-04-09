@@ -1,0 +1,73 @@
+{
+  "id": 1293856445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.50463,54.49673,68.50463,54.49673",
+    "geom:latitude":54.49673,
+    "geom:longitude":68.50463,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Novoaleksandrovka",
+    "gn:country_code":"KZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530961,
+    "gn:latitude":54.49673,
+    "gn:longitude":68.50463,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Novoaleksandrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Novoaleksandrovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0430\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530961
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"26289bd58c7683c808b62f1a96fc4c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1293856445,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293856445,
+    "wof:lastmodified":1537659949,
+    "wof:name":"Novoaleksandrovka",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.50463,
+    54.49673000000001,
+    68.50463,
+    54.49673000000001
+],
+  "geometry": {"coordinates":[68.50463000000001,54.49673000000001],"type":"Point"}
+}

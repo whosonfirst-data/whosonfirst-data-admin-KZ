@@ -1,0 +1,79 @@
+{
+  "id": 1327406379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.42946,53.62562,70.42946,53.62562",
+    "geom:latitude":53.62562,
+    "geom:longitude":70.42946,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Chkalovo",
+    "gn:country_code":"KZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524753,
+    "gn:latitude":53.62562,
+    "gn:longitude":70.42946,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Chkalovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chkalov"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u043a\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043a\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Chkalov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524753
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a31839c5f006b9652f791e66172976c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1327406379,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1327406379,
+    "wof:lastmodified":1537659847,
+    "wof:name":"Chkalovo",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.42945999999998,
+    53.62562,
+    70.42945999999998,
+    53.62562
+],
+  "geometry": {"coordinates":[70.42945999999998,53.62562],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310327313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64722,46.625,48.64722,46.625",
+    "geom:latitude":46.625,
+    "geom:longitude":48.64722,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhylandy",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607501,
+    "gn:latitude":46.625,
+    "gn:longitude":48.64722,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zhylandy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhylandy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u044b\u043b\u0430\u043d\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Zhilandy",
+        "Zhylandy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607501
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"3182abac7503a3d7771dea236ab1aa8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1310327313,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1310327313,
+    "wof:lastmodified":1537659337,
+    "wof:name":"Zhylandy",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64722,
+    46.625,
+    48.64722,
+    46.625
+],
+  "geometry": {"coordinates":[48.64722,46.625],"type":"Point"}
+}

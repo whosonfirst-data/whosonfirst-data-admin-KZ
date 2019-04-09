@@ -1,0 +1,71 @@
+{
+  "id": 1242585151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.77537,51.27202,70.77537,51.27202",
+    "geom:latitude":51.27202,
+    "geom:longitude":70.77537,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mortyk",
+    "gn:country_code":"KZ",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521104,
+    "gn:latitude":51.27202,
+    "gn:longitude":70.77537,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mortyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Martuk",
+        "Mortyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521104
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6d9044bb3176608d6e42635313ec468e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785625,
+            "locality_id":1242585151,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1242585151,
+    "wof:lastmodified":1537659696,
+    "wof:name":"Mortyk",
+    "wof:parent_id":1108785625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.77537,
+    51.27202,
+    70.77537,
+    51.27202
+],
+  "geometry": {"coordinates":[70.77537,51.27202],"type":"Point"}
+}

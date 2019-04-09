@@ -1,0 +1,76 @@
+{
+  "id": 1260098547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.14429,50.25843,54.14429,50.25843",
+    "geom:latitude":50.25843,
+    "geom:longitude":54.14429,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sorkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608209,
+    "gn:latitude":50.25843,
+    "gn:longitude":54.14429,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sorkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sorkol'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0440\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Sorkol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608209
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ea8b5c90274371b55a2021ba2661f7d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785711,
+            "locality_id":1260098547,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1260098547,
+    "wof:lastmodified":1537659364,
+    "wof:name":"Sorkol'",
+    "wof:parent_id":1108785711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.14429000000001,
+    50.25843,
+    54.14429000000001,
+    50.25843
+],
+  "geometry": {"coordinates":[54.14429000000001,50.25843],"type":"Point"}
+}

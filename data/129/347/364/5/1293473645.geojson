@@ -1,0 +1,75 @@
+{
+  "id": 1293473645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.10088,41.63928,68.10088,41.63928",
+    "geom:latitude":41.63928,
+    "geom:longitude":68.10088,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zimovka Kokshetogay",
+    "gn:country_code":"KZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532479,
+    "gn:latitude":41.63928,
+    "gn:longitude":68.10088,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Zimovka Kokshetogay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u043c\u043e\u0432\u043a\u0430 \u041a\u043e\u043a\u0448\u0435\u0442\u043e\u0433\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Zimovka Kokshatogay",
+        "K\u00f6kshetoghay",
+        "Zimovka Kokshetogay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532479
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e92efc6d1c714403aa0cbdac650220c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1293473645,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293473645,
+    "wof:lastmodified":1537659968,
+    "wof:name":"Zimovka Kokshetogay",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.10088,
+    41.63928,
+    68.10088,
+    41.63928
+],
+  "geometry": {"coordinates":[68.10088,41.63928],"type":"Point"}
+}

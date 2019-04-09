@@ -1,0 +1,67 @@
+{
+  "id": 1260303785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.83333,43.41667,77.83333,43.41667",
+    "geom:latitude":43.41667,
+    "geom:longitude":77.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhana-Turmys",
+    "gn:country_code":"KZ",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516818,
+    "gn:latitude":43.41667,
+    "gn:longitude":77.83333,
+    "gn:modification_date":"1994-04-08",
+    "gn:name":"Zhana-Turmys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516818
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b5de2f0b70ef409d8d5215285af90835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785427,
+            "locality_id":1260303785,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1260303785,
+    "wof:lastmodified":1536684631,
+    "wof:name":"Zhana-Turmys",
+    "wof:parent_id":1108785427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.83333,
+    43.41667,
+    77.83333,
+    43.41667
+],
+  "geometry": {"coordinates":[77.83333,43.41667],"type":"Point"}
+}

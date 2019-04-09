@@ -1,0 +1,74 @@
+{
+  "id": 1243063801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.01667,43.85,51.01667,43.85",
+    "geom:latitude":43.85,
+    "geom:longitude":51.01667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Segendy",
+    "gn:country_code":"KZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608398,
+    "gn:latitude":43.85,
+    "gn:longitude":51.01667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Segendy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Syghandy"
+    ],
+    "name:und_x_variant":[
+        "Sagyndy",
+        "Segendy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672923,
+        1108785341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608398
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8d5b46445b3aedc6ba1c0685c6057aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785341,
+            "locality_id":1243063801,
+            "region_id":85672923
+        }
+    ],
+    "wof:id":1243063801,
+    "wof:lastmodified":1537659370,
+    "wof:name":"Segendy",
+    "wof:parent_id":1108785341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.01667,
+    43.85,
+    51.01667,
+    43.85
+],
+  "geometry": {"coordinates":[51.01667,43.85],"type":"Point"}
+}

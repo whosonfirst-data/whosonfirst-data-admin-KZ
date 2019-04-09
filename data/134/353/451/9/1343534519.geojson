@@ -1,0 +1,74 @@
+{
+  "id": 1343534519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.18948,47.34244,81.18948,47.34244",
+    "geom:latitude":47.34244,
+    "geom:longitude":81.18948,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qarabuyrat",
+    "gn:country_code":"KZ",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520535,
+    "gn:latitude":47.34244,
+    "gn:longitude":81.18948,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Qarabuyrat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarabuyrat"
+    ],
+    "name:und_x_variant":[
+        "Novotroitskoye",
+        "Karabuyrat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520535
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"80107ef41caa499ab70ee45e5013360d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1343534519,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343534519,
+    "wof:lastmodified":1537659662,
+    "wof:name":"Qarabuyrat",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.18948,
+    47.34244,
+    81.18948,
+    47.34244
+],
+  "geometry": {"coordinates":[81.18948,47.34244],"type":"Point"}
+}

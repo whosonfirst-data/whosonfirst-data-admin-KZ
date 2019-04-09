@@ -1,0 +1,67 @@
+{
+  "id": 1327023757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.175,40.81639,68.175,40.81639",
+    "geom:latitude":40.81639,
+    "geom:longitude":68.175,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mineral'nyye Vody",
+    "gn:country_code":"KZ",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535819,
+    "gn:latitude":40.81639,
+    "gn:longitude":68.175,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Mineral\u2019nyye Vody",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535819
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a1822c27f731c3b6cfe5de1fcd20a264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1327023757,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1327023757,
+    "wof:lastmodified":1536773595,
+    "wof:name":"Mineral'nyye Vody",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.175,
+    40.81639000000001,
+    68.175,
+    40.81639000000001
+],
+  "geometry": {"coordinates":[68.175,40.81639000000001],"type":"Point"}
+}

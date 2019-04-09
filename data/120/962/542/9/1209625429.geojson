@@ -1,0 +1,61 @@
+{
+  "id": 1209625429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.75099,50.03722,79.75099,50.03722",
+    "geom:latitude":50.03722,
+    "geom:longitude":79.75099,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Suzdal'skiy",
+    "gn:country_code":"KZ",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518677,
+    "gn:latitude":50.03722,
+    "gn:longitude":79.75099,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Suzdal\u2019skiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518677
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"13806b10fe5d55778970a74ac3100e19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209625429
+        }
+    ],
+    "wof:id":1209625429,
+    "wof:lastmodified":1536281370,
+    "wof:name":"Suzdal'skiy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.75099,
+    50.03722,
+    79.75099,
+    50.03722
+],
+  "geometry": {"coordinates":[79.75099,50.03722],"type":"Point"}
+}

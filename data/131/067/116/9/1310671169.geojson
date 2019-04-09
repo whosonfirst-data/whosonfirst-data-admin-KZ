@@ -1,0 +1,77 @@
+{
+  "id": 1310671169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.75463,49.65843,83.75463,49.65843",
+    "geom:latitude":49.65843,
+    "geom:longitude":83.75463,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pribrezhnyy",
+    "gn:country_code":"KZ",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538011,
+    "gn:latitude":49.65843,
+    "gn:longitude":83.75463,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Pr\u012bbrezhnyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pr\u012bbrezhnyy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0431\u0440\u0435\u0436\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Pervomayskoye",
+        "Pr\u012bbrezhnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538011
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9a70e8e1c465a8f2aa0a0e7a0229fff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1310671169,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310671169,
+    "wof:lastmodified":1537660022,
+    "wof:name":"Pribrezhnyy",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.75463,
+    49.65843,
+    83.75463,
+    49.65843
+],
+  "geometry": {"coordinates":[83.75463000000001,49.65843],"type":"Point"}
+}

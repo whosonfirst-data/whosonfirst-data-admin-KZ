@@ -1,0 +1,67 @@
+{
+  "id": 1259400867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.76667,49.85,63.76667,49.85",
+    "geom:latitude":49.85,
+    "geom:longitude":63.76667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ol'zha",
+    "gn:country_code":"KZ",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520406,
+    "gn:latitude":49.85,
+    "gn:longitude":63.76667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Ol\u2019zha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520406
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b64cff7907a8f8de3da593ac592175b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1259400867,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1259400867,
+    "wof:lastmodified":1536976812,
+    "wof:name":"Ol'zha",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.76667,
+    49.85,
+    63.76667,
+    49.85
+],
+  "geometry": {"coordinates":[63.76667,49.85],"type":"Point"}
+}

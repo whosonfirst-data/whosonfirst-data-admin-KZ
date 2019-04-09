@@ -1,0 +1,77 @@
+{
+  "id": 1344028241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.08286,46.07487,82.08286,46.07487",
+    "geom:latitude":46.07487,
+    "geom:longitude":82.08286,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qabanbay",
+    "gn:country_code":"KZ",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516753,
+    "gn:latitude":46.07487,
+    "gn:longitude":82.08286,
+    "gn:modification_date":"2017-02-22",
+    "gn:name":"Qabanbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0440\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zharbulak",
+        "Kabanbay",
+        "Dzhar-Bulak",
+        "Jar-bulak",
+        "Qabanbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516753
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"06865c826104b7865c99cc9aeb40788f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1344028241,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1344028241,
+    "wof:lastmodified":1537659482,
+    "wof:name":"Qabanbay",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.08286,
+    46.07487,
+    82.08286,
+    46.07487
+],
+  "geometry": {"coordinates":[82.08286,46.07487],"type":"Point"}
+}

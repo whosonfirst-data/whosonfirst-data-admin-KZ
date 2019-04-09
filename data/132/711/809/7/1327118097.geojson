@@ -1,0 +1,79 @@
+{
+  "id": 1327118097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.13988,41.40454,69.13988,41.40454",
+    "geom:latitude":41.40454,
+    "geom:longitude":69.13988,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yntymak",
+    "gn:country_code":"KZ",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538022,
+    "gn:latitude":41.40454,
+    "gn:longitude":69.13988,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Yntymak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Yntymaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u042b\u043d\u0442\u044b\u043c\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u042b\u043d\u0442\u044b\u043c\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Intymak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538022
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"636bca7d18fc391522833bf62b13909e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785693,
+            "locality_id":1327118097,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1327118097,
+    "wof:lastmodified":1537660023,
+    "wof:name":"Yntymak",
+    "wof:parent_id":1108785693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.13988,
+    41.40454,
+    69.13988,
+    41.40454
+],
+  "geometry": {"coordinates":[69.13988000000001,41.40454],"type":"Point"}
+}

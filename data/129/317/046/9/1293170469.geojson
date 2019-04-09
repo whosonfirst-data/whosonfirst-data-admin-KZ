@@ -1,0 +1,82 @@
+{
+  "id": 1293170469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.16156,54.63842,70.16156,54.63842",
+    "geom:latitude":54.63842,
+    "geom:longitude":70.16156,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sartomar",
+    "gn:country_code":"KZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519684,
+    "gn:latitude":54.63842,
+    "gn:longitude":70.16156,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Sartomar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sartomar"
+    ],
+    "name:kaz_x_preferred":[
+        "Sarytomar"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0430\u0440\u044b\u0442\u043e\u043c\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0442\u043e\u043c\u0430\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0430\u0440\u0442\u043e\u043c\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519684
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e0905588a1f5f9aebce51cac1f684449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1293170469,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293170469,
+    "wof:lastmodified":1537659613,
+    "wof:name":"Sartomar",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.16156,
+    54.63842,
+    70.16156,
+    54.63842
+],
+  "geometry": {"coordinates":[70.16155999999999,54.63842],"type":"Point"}
+}

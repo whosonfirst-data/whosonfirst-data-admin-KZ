@@ -1,0 +1,83 @@
+{
+  "id": 1293192313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.34295,51.20711,53.34295,51.20711",
+    "geom:latitude":51.20711,
+    "geom:longitude":53.34295,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Berezovka",
+    "gn:country_code":"KZ",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610328,
+    "gn:latitude":51.20711,
+    "gn:longitude":53.34295,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Berezovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Berezovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Berezovka"
+    ],
+    "name:rus_x_preferred":[
+        "Ber\u00ebzovka"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u0440\u0435\u0437\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Berezovskiy",
+        "Berezovski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610328
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"54e3c8af4cc677534864b310a8971762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785325,
+            "locality_id":1293192313,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1293192313,
+    "wof:lastmodified":1537659440,
+    "wof:name":"Berezovka",
+    "wof:parent_id":1108785325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.34295,
+    51.20711,
+    53.34295,
+    51.20711
+],
+  "geometry": {"coordinates":[53.34295,51.20711],"type":"Point"}
+}

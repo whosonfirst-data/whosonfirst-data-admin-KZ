@@ -1,0 +1,76 @@
+{
+  "id": 1344031089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.31911,49.36962,86.31911,49.36962",
+    "geom:latitude":49.36962,
+    "geom:longitude":86.31911,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Verkhnyaya Sakhatushka",
+    "gn:country_code":"KZ",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534845,
+    "gn:latitude":49.36962,
+    "gn:longitude":86.31911,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Verkhnyaya Sakhatushka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shubaraghash"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u04b1\u0431\u0430\u0440\u0430\u0493\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u0421\u0430\u0445\u0430\u0442\u0443\u0448\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534845
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"289cc8cbc21a7b66a7a8aac7a195716f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785313,
+            "locality_id":1344031089,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1344031089,
+    "wof:lastmodified":1537659986,
+    "wof:name":"Verkhnyaya Sakhatushka",
+    "wof:parent_id":1108785313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.31911,
+    49.36962,
+    86.31911,
+    49.36962
+],
+  "geometry": {"coordinates":[86.31910999999999,49.36962],"type":"Point"}
+}

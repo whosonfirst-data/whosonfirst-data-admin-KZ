@@ -1,0 +1,70 @@
+{
+  "id": 1343430555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25457,54.86335,69.25457,54.86335",
+    "geom:latitude":54.86335,
+    "geom:longitude":69.25457,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Teplovskoye",
+    "gn:country_code":"KZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530615,
+    "gn:latitude":54.86335,
+    "gn:longitude":69.25457,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Teplovskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043f\u043b\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530615
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aae9b83774477efbdf657e5dc086b065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785355,
+            "locality_id":1343430555,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343430555,
+    "wof:lastmodified":1537659940,
+    "wof:name":"Teplovskoye",
+    "wof:parent_id":1108785355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25457,
+    54.86335,
+    69.25457,
+    54.86335
+],
+  "geometry": {"coordinates":[69.25457,54.86335],"type":"Point"}
+}

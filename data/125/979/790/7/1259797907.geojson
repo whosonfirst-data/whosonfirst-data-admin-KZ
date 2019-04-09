@@ -1,0 +1,73 @@
+{
+  "id": 1259797907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.85656,42.82477,79.85656,42.82477",
+    "geom:latitude":42.82477,
+    "geom:longitude":79.85656,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kokbal",
+    "gn:country_code":"KZ",
+    "gn:dem":1840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507896,
+    "gn:latitude":42.82477,
+    "gn:longitude":79.85656,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"K\u00f6kbal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "K\u00f6kbal"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u04e9\u043a\u0431\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507896
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"015171bd28f68f6a91ba174b1ddb9ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1259797907,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1259797907,
+    "wof:lastmodified":1537660174,
+    "wof:name":"Kokbal",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.85656,
+    42.82477,
+    79.85656,
+    42.82477
+],
+  "geometry": {"coordinates":[79.85656,42.82477],"type":"Point"}
+}

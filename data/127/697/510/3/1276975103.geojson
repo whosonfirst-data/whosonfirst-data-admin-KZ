@@ -1,0 +1,79 @@
+{
+  "id": 1276975103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.32774,40.77631,68.32774,40.77631",
+    "geom:latitude":40.77631,
+    "geom:longitude":68.32774,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dzhetysay",
+    "gn:country_code":"KZ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524385,
+    "gn:latitude":40.77631,
+    "gn:longitude":68.32774,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Dzhetysay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0416\u0435\u0442\u0456\u0441\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u0442\u044b\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Zhetysay",
+        "Jetisoy",
+        "Zhetisay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524385,
+        "wk:page":"Zhetisay"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4654559d03ed42a2bba0bca76333042d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1276975103,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276975103,
+    "wof:lastmodified":1537659833,
+    "wof:name":"Dzhetysay",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.32774,
+    40.77631,
+    68.32774,
+    40.77631
+],
+  "geometry": {"coordinates":[68.32774000000001,40.77631],"type":"Point"}
+}

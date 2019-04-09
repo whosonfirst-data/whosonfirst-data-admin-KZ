@@ -1,0 +1,78 @@
+{
+  "id": 1226352315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.13875,49.81697,83.13875,49.81697",
+    "geom:latitude":49.81697,
+    "geom:longitude":83.13875,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Severnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519376,
+    "gn:latitude":49.81697,
+    "gn:longitude":83.13875,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Severnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Severnoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Severny",
+        "Severnyy",
+        "Severnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519376
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0c233dc2ae4268da222e7b77e90695cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785461,
+            "locality_id":1226352315,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226352315,
+    "wof:lastmodified":1537659603,
+    "wof:name":"Severnoye",
+    "wof:parent_id":1108785461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.13875,
+    49.81697,
+    83.13875,
+    49.81697
+],
+  "geometry": {"coordinates":[83.13875,49.81697],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209085703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.07272,53.81118,62.07272,53.81118",
+    "geom:latitude":53.81118,
+    "geom:longitude":62.07272,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Voroshilovka",
+    "gn:country_code":"KZ",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11416962,
+    "gn:latitude":53.81118,
+    "gn:longitude":62.07272,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Voroshilovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Vorosh\u012blovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11416962
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"46bc908fd24c50d69f2b8d286d913614",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209085703
+        }
+    ],
+    "wof:id":1209085703,
+    "wof:lastmodified":1537660145,
+    "wof:name":"Voroshilovka",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.07272,
+    53.81118000000001,
+    62.07272,
+    53.81118000000001
+],
+  "geometry": {"coordinates":[62.07272,53.81118000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326525545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06667,42.93333,68.06667,42.93333",
+    "geom:latitude":42.93333,
+    "geom:longitude":68.06667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Akzhar",
+    "gn:country_code":"KZ",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526542,
+    "gn:latitude":42.93333,
+    "gn:longitude":68.06667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Akzhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ak-Dzhar",
+        "Akzhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526542
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"607a863bcc1c52734cda86eafc2ee4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785593,
+            "locality_id":1326525545,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1326525545,
+    "wof:lastmodified":1537659917,
+    "wof:name":"Akzhar",
+    "wof:parent_id":1108785593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06667,
+    42.93333,
+    68.06667,
+    42.93333
+],
+  "geometry": {"coordinates":[68.06667,42.93333],"type":"Point"}
+}

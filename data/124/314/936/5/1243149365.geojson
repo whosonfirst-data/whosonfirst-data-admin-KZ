@@ -1,0 +1,67 @@
+{
+  "id": 1243149365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.21667,48.8,72.21667,48.8",
+    "geom:latitude":48.8,
+    "geom:longitude":72.21667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Vozrozhdeniye",
+    "gn:country_code":"KZ",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517358,
+    "gn:latitude":48.8,
+    "gn:longitude":72.21667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Vozrozhdeniye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517358
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"52725df313fc545786fe28046855cf88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785509,
+            "locality_id":1243149365,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1243149365,
+    "wof:lastmodified":1536736956,
+    "wof:name":"Vozrozhdeniye",
+    "wof:parent_id":1108785509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.21667,
+    48.8,
+    72.21667,
+    48.8
+],
+  "geometry": {"coordinates":[72.21666999999999,48.8],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309730539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.78084,50.62536,53.78084,50.62536",
+    "geom:latitude":50.62536,
+    "geom:longitude":53.78084,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tyksay",
+    "gn:country_code":"KZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607893,
+    "gn:latitude":50.62536,
+    "gn:longitude":53.78084,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tyksay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiksay",
+        "Tyksay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607893
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"90a91de5d92cff513485447a0cd00d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785711,
+            "locality_id":1309730539,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1309730539,
+    "wof:lastmodified":1537659353,
+    "wof:name":"Tyksay",
+    "wof:parent_id":1108785711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.78084000000001,
+    50.62536,
+    53.78084000000001,
+    50.62536
+],
+  "geometry": {"coordinates":[53.78084000000001,50.62536],"type":"Point"}
+}

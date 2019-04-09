@@ -1,0 +1,67 @@
+{
+  "id": 1259985909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.36667,50.93333,58.36667,50.93333",
+    "geom:latitude":50.93333,
+    "geom:longitude":58.36667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ebita",
+    "gn:country_code":"KZ",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609929,
+    "gn:latitude":50.93333,
+    "gn:longitude":58.36667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Ebita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609929
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c5687df5feeb09dac5a707bf8ba2adbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785697,
+            "locality_id":1259985909,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1259985909,
+    "wof:lastmodified":1536629948,
+    "wof:name":"Ebita",
+    "wof:parent_id":1108785697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.36666999999999,
+    50.93333,
+    58.36666999999999,
+    50.93333
+],
+  "geometry": {"coordinates":[58.36666999999999,50.93333],"type":"Point"}
+}

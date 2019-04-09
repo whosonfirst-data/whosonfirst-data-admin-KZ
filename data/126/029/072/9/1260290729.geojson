@@ -1,0 +1,81 @@
+{
+  "id": 1260290729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.98333,47.26667,60.98333,47.26667",
+    "geom:latitude":47.26667,
+    "geom:longitude":60.98333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shokysu",
+    "gn:country_code":"KZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519097,
+    "gn:latitude":47.26667,
+    "gn:longitude":60.98333,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Shokysu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shoqys\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u043e\u049b\u044b\u0441\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043a\u044b\u0441\u0443"
+    ],
+    "name:und_x_variant":[
+        "Chokusu",
+        "Shokysy",
+        "Shokysu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519097
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fa158fb9fdb9d2919c1e1d69daff0317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785541,
+            "locality_id":1260290729,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1260290729,
+    "wof:lastmodified":1537659590,
+    "wof:name":"Shokysu",
+    "wof:parent_id":1108785541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.98333,
+    47.26667,
+    60.98333,
+    47.26667
+],
+  "geometry": {"coordinates":[60.98333,47.26667],"type":"Point"}
+}

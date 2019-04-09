@@ -1,0 +1,73 @@
+{
+  "id": 1276648977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.58333,47.6,51.58333,47.6",
+    "geom:latitude":47.6,
+    "geom:longitude":51.58333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhalgansay",
+    "gn:country_code":"KZ",
+    "gn:dem":-24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607663,
+    "gn:latitude":47.6,
+    "gn:longitude":51.58333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Zhalgansay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhalgansay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043b\u0433\u0430\u043d\u0441\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607663
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6c9c7c608e6058defa0c4f79813f541b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785457,
+            "locality_id":1276648977,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1276648977,
+    "wof:lastmodified":1537659345,
+    "wof:name":"Zhalgansay",
+    "wof:parent_id":1108785457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.58333,
+    47.6,
+    51.58333,
+    47.6
+],
+  "geometry": {"coordinates":[51.58333,47.6],"type":"Point"}
+}

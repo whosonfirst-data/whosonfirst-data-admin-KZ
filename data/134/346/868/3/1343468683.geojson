@@ -1,0 +1,67 @@
+{
+  "id": 1343468683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.03333,54.23333,65.03333,54.23333",
+    "geom:latitude":54.23333,
+    "geom:longitude":65.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lakovka",
+    "gn:country_code":"KZ",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521397,
+    "gn:latitude":54.23333,
+    "gn:longitude":65.03333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Lakovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521397
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"14ed6b779a6f1b6543ad029dd444225b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785687,
+            "locality_id":1343468683,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343468683,
+    "wof:lastmodified":1536734334,
+    "wof:name":"Lakovka",
+    "wof:parent_id":1108785687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.03333,
+    54.23333,
+    65.03333,
+    54.23333
+],
+  "geometry": {"coordinates":[65.03333000000001,54.23333],"type":"Point"}
+}

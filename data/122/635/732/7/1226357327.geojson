@@ -1,0 +1,67 @@
+{
+  "id": 1226357327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.2,51.03333,78.2,51.03333",
+    "geom:latitude":51.03333,
+    "geom:longitude":78.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aktaylak",
+    "gn:country_code":"KZ",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526597,
+    "gn:latitude":51.03333,
+    "gn:longitude":78.2,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Aktaylak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526597
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7a164c763b514c7dadbd2e210d5ec530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785639,
+            "locality_id":1226357327,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1226357327,
+    "wof:lastmodified":1536773379,
+    "wof:name":"Aktaylak",
+    "wof:parent_id":1108785639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.2,
+    51.03333,
+    78.2,
+    51.03333
+],
+  "geometry": {"coordinates":[78.2,51.03333],"type":"Point"}
+}

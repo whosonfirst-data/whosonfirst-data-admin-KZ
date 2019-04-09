@@ -1,0 +1,80 @@
+{
+  "id": 1209907987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.81536,51.44568,52.81536,51.44568",
+    "geom:latitude":51.44568,
+    "geom:longitude":52.81536,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bumakol'",
+    "gn:country_code":"KZ",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610174,
+    "gn:latitude":51.44568,
+    "gn:longitude":52.81536,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Bumakol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bumakol'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043c\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "Bumakol\u2019"
+    ],
+    "name:und_x_variant":[
+        "Buma",
+        "Bumakul\u2019skiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610174
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7a45880435c90639c3528de0382c47de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785325,
+            "locality_id":1209907987,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1209907987,
+    "wof:lastmodified":1537659433,
+    "wof:name":"Bumakol'",
+    "wof:parent_id":1108785325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.81536,
+    51.44568,
+    52.81536,
+    51.44568
+],
+  "geometry": {"coordinates":[52.81536,51.44568],"type":"Point"}
+}

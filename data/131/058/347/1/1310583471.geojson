@@ -1,0 +1,80 @@
+{
+  "id": 1310583471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.36604,52.97585,68.36604,52.97585",
+    "geom:latitude":52.97585,
+    "geom:longitude":68.36604,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Imantau",
+    "gn:country_code":"KZ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524125,
+    "gn:latitude":52.97585,
+    "gn:longitude":68.36604,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Imantau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u012amanta\u016b"
+    ],
+    "name:kaz_x_preferred":[
+        "\u012amanta\u016b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0430\u043d\u0442\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Imantav",
+        "Imantavskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524125
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cbeb64dccbece2533281f36cda1b498f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1310583471,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1310583471,
+    "wof:lastmodified":1537659820,
+    "wof:name":"Imantau",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.36604,
+    52.97585,
+    68.36604,
+    52.97585
+],
+  "geometry": {"coordinates":[68.36604,52.97585],"type":"Point"}
+}

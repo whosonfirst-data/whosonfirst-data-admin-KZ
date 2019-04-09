@@ -1,0 +1,78 @@
+{
+  "id": 1293363497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.40963,49.5326,82.40963,49.5326",
+    "geom:latitude":49.5326,
+    "geom:longitude":82.40963,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bozanbay",
+    "gn:country_code":"KZ",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520710,
+    "gn:latitude":49.5326,
+    "gn:longitude":82.40963,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bozanbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bozanbay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u0438\u0442\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bozanbai",
+        "N\u012bk\u012bt\u012bnka",
+        "Bozanbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520710
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"82b947897d3480217542521e847b87ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785473,
+            "locality_id":1293363497,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293363497,
+    "wof:lastmodified":1537659677,
+    "wof:name":"Bozanbay",
+    "wof:parent_id":1108785473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.40963,
+    49.5326,
+    82.40963,
+    49.5326
+],
+  "geometry": {"coordinates":[82.40963000000001,49.5326],"type":"Point"}
+}

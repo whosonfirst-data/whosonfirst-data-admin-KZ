@@ -1,0 +1,73 @@
+{
+  "id": 1276851017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.35512,50.43662,72.35512,50.43662",
+    "geom:latitude":50.43662,
+    "geom:longitude":72.35512,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sel'stroy",
+    "gn:country_code":"KZ",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140438,
+    "gn:latitude":50.43662,
+    "gn:longitude":72.35512,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Sel\u2019stroy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Sel\u2019stroy"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0435\u043b\u044c\u0441\u0442\u0440\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140438
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5844ddde829bdb470a8ba1c45f09e890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1276851017,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1276851017,
+    "wof:lastmodified":1537660119,
+    "wof:name":"Sel'stroy",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.35512,
+    50.43662,
+    72.35512,
+    50.43662
+],
+  "geometry": {"coordinates":[72.35512,50.43662],"type":"Point"}
+}

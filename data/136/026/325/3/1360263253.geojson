@@ -1,0 +1,76 @@
+{
+  "id": 1360263253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.38366,50.72964,75.38366,50.72964",
+    "geom:latitude":50.72964,
+    "geom:longitude":75.38366,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kyzylasker",
+    "gn:country_code":"KZ",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1521557,
+    "gn:latitude":50.72964,
+    "gn:longitude":75.38366,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kyzylasker",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qyzyl\u00e4sker"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u044b\u0437\u044b\u043b\u04d9\u0441\u043a\u0435\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0430\u0441\u043a\u0435\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1521557
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0b9cfd8dc5d012e5b81dbc98fd87161b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785655,
+            "locality_id":1360263253,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1360263253,
+    "wof:lastmodified":1537659721,
+    "wof:name":"Kyzylasker",
+    "wof:parent_id":1108785655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.38365999999998,
+    50.72964,
+    75.38365999999998,
+    50.72964
+],
+  "geometry": {"coordinates":[75.38365999999998,50.72964],"type":"Point"}
+}

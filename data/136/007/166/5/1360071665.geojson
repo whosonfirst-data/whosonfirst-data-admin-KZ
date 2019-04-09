@@ -1,0 +1,70 @@
+{
+  "id": 1360071665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.5979,54.07089,64.5979,54.07089",
+    "geom:latitude":54.07089,
+    "geom:longitude":64.5979,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kamyshnyy",
+    "gn:country_code":"KZ",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1541558,
+    "gn:latitude":54.07089,
+    "gn:longitude":64.5979,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Kamyshnyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u044b\u0448\u043d\u044b\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1541558
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f02388bacf6035b7da526fae1c0bb5db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785385,
+            "locality_id":1360071665,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1360071665,
+    "wof:lastmodified":1537660035,
+    "wof:name":"Kamyshnyy",
+    "wof:parent_id":1108785385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.5979,
+    54.07089000000001,
+    64.5979,
+    54.07089000000001
+],
+  "geometry": {"coordinates":[64.5979,54.07089000000001],"type":"Point"}
+}

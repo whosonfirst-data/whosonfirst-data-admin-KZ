@@ -1,0 +1,70 @@
+{
+  "id": 1310376425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.13333,46.18333,62.13333,46.18333",
+    "geom:latitude":46.18333,
+    "geom:longitude":62.13333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tridtsat' Let Kazakhstana",
+    "gn:country_code":"KZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518033,
+    "gn:latitude":46.18333,
+    "gn:longitude":62.13333,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Tridtsat\u2019 Let Kazakhstana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tridtsat\u2019 Let Kazakhstana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672885,
+        1108785633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518033
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"422b9484c9ce345f09c0c684093129e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785633,
+            "locality_id":1310376425,
+            "region_id":85672885
+        }
+    ],
+    "wof:id":1310376425,
+    "wof:lastmodified":1537659548,
+    "wof:name":"Tridtsat' Let Kazakhstana",
+    "wof:parent_id":1108785633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.13333000000001,
+    46.18333,
+    62.13333000000001,
+    46.18333
+],
+  "geometry": {"coordinates":[62.13333000000001,46.18333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310293191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.4,52.6,77.4,52.6",
+    "geom:latitude":52.6,
+    "geom:longitude":77.4,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Fedotovskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524275,
+    "gn:latitude":52.6,
+    "gn:longitude":77.4,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Fedotovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fedotovskoye",
+        "Fedotovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524275
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b99676e2125af2f91514f61a577d8b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785561,
+            "locality_id":1310293191,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310293191,
+    "wof:lastmodified":1537659830,
+    "wof:name":"Fedotovskiy",
+    "wof:parent_id":1108785561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.4,
+    52.6,
+    77.4,
+    52.6
+],
+  "geometry": {"coordinates":[77.40000000000001,52.6],"type":"Point"}
+}

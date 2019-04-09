@@ -1,0 +1,73 @@
+{
+  "id": 1343735313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.5409,48.14993,85.5409,48.14993",
+    "geom:latitude":48.14993,
+    "geom:longitude":85.5409,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zelenyy Log",
+    "gn:country_code":"KZ",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10867391,
+    "gn:latitude":48.14993,
+    "gn:longitude":85.5409,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Zel\u00ebnyy Log",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Zel\u00ebnyy Log"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0435\u043b\u0451\u043d\u044b\u0439 \u041b\u043e\u0433"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10867391
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cc6e6c35e8c887ef9600c3572946bd5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785471,
+            "locality_id":1343735313,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343735313,
+    "wof:lastmodified":1537660070,
+    "wof:name":"Zelenyy Log",
+    "wof:parent_id":1108785471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.5409,
+    48.14993,
+    85.5409,
+    48.14993
+],
+  "geometry": {"coordinates":[85.54089999999999,48.14993],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1310582395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.97679,52.10429,77.97679,52.10429",
+    "geom:latitude":52.10429,
+    "geom:longitude":77.97679,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Vostochnoe",
+    "gn:country_code":"KZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517375,
+    "gn:latitude":52.10429,
+    "gn:longitude":77.97679,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Vostochnoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vostochnyy"
+    ],
+    "name:kaz_x_preferred":[
+        "Vostochnoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Vostochnyy",
+        "Vostochnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517375
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"097e37fb94a97fc1cb34851459ffa303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785559,
+            "locality_id":1310582395,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1310582395,
+    "wof:lastmodified":1537659516,
+    "wof:name":"Vostochnoe",
+    "wof:parent_id":1108785559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.97679000000002,
+    52.10429,
+    77.97679000000002,
+    52.10429
+],
+  "geometry": {"coordinates":[77.97679000000002,52.10429],"type":"Point"}
+}

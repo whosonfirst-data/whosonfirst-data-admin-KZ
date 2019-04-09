@@ -1,0 +1,70 @@
+{
+  "id": 1242679669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.59517,52.72283,70.59517,52.72283",
+    "geom:latitude":52.72283,
+    "geom:longitude":70.59517,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baz",
+    "gn:country_code":"KZ",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11113318,
+    "gn:latitude":52.72283,
+    "gn:longitude":70.59517,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Baz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11113318
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"46a17bb9a1af9049f6f9776a15fbd858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785575,
+            "locality_id":1242679669,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1242679669,
+    "wof:lastmodified":1537660098,
+    "wof:name":"Baz",
+    "wof:parent_id":1108785575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.59517,
+    52.72283,
+    70.59517,
+    52.72283
+],
+  "geometry": {"coordinates":[70.59517,52.72283],"type":"Point"}
+}

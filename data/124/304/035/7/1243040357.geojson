@@ -1,0 +1,82 @@
+{
+  "id": 1243040357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.32964,53.69348,70.32964,53.69348",
+    "geom:latitude":53.69348,
+    "geom:longitude":70.32964,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Novoberyozovka",
+    "gn:country_code":"KZ",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520637,
+    "gn:latitude":53.69348,
+    "gn:longitude":70.32964,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Novoberyozovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novoberezovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Novoberyozovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0431\u0435\u0440\u0451\u0437\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0431\u0435\u0440\u0435\u0437\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novoberezovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520637
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e42c3df377afacdc581650ca26779d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1243040357,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1243040357,
+    "wof:lastmodified":1537659671,
+    "wof:name":"Novoberyozovka",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.32964,
+    53.69348000000001,
+    70.32964,
+    53.69348000000001
+],
+  "geometry": {"coordinates":[70.32964,53.69348000000001],"type":"Point"}
+}

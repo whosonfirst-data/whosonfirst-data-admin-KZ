@@ -1,0 +1,82 @@
+{
+  "id": 1327406999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.57253,49.84938,81.57253,49.84938",
+    "geom:latitude":49.84938,
+    "geom:longitude":81.57253,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Akshoky",
+    "gn:country_code":"KZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526670,
+    "gn:latitude":49.84938,
+    "gn:longitude":81.57253,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Akshoky",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "M\u00f6rtas"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u04e9\u0440\u0442\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0448\u043e\u043a\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0443\u0440\u0442\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Murtas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526670
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"aa2c0e771af7f560446c0c5e462d2e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1327406999,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327406999,
+    "wof:lastmodified":1537659922,
+    "wof:name":"Akshoky",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.57253,
+    49.84938,
+    81.57253,
+    49.84938
+],
+  "geometry": {"coordinates":[81.57253,49.84938],"type":"Point"}
+}

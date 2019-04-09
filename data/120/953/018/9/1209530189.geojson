@@ -1,0 +1,61 @@
+{
+  "id": 1209530189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4,49.91667,49.4,49.91667",
+    "geom:latitude":49.91667,
+    "geom:longitude":49.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Siksimbay",
+    "gn:country_code":"KZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608245,
+    "gn:latitude":49.91667,
+    "gn:longitude":49.4,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Siksimbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608245
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cc37ddfb4fb9df1e373b44a2a23d5e17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209530189
+        }
+    ],
+    "wof:id":1209530189,
+    "wof:lastmodified":1536284305,
+    "wof:name":"Siksimbay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4,
+    49.91667,
+    49.4,
+    49.91667
+],
+  "geometry": {"coordinates":[49.4,49.91667],"type":"Point"}
+}

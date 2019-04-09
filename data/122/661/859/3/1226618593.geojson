@@ -1,0 +1,79 @@
+{
+  "id": 1226618593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.5883,53.95218,73.5883,53.95218",
+    "geom:latitude":53.95218,
+    "geom:longitude":73.5883,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Malkara",
+    "gn:country_code":"KZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532820,
+    "gn:latitude":53.95218,
+    "gn:longitude":73.5883,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Malkara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malkara"
+    ],
+    "name:kaz_x_preferred":[
+        "Malqara"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0430\u043b\u049b\u0430\u0440\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u0430\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532820
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"db331d70467e04957417ce0e77e4497c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785367,
+            "locality_id":1226618593,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226618593,
+    "wof:lastmodified":1537659972,
+    "wof:name":"Malkara",
+    "wof:parent_id":1108785367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.5883,
+    53.95218000000001,
+    73.5883,
+    53.95218000000001
+],
+  "geometry": {"coordinates":[73.5883,53.95218000000001],"type":"Point"}
+}

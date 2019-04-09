@@ -1,0 +1,115 @@
+{
+  "id": 421167381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.99457,51.69946,70.99457,51.69946",
+    "geom:latitude":51.69946,
+    "geom:longitude":70.99457,
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0428\u043e\u0440\u0442\u0430\u043d\u0434\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u0648\u0631\u062a\u0646\u062f\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "District de Chortandy"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di \u0160ortandy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u043e\u0440\u0442\u0430\u043d\u0434\u044b \u0430\u0443\u0434\u0430\u043d\u044b"
+    ],
+    "name:kaz_x_variant":[
+        "Shortandy"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u043e\u0440\u0442\u0430\u043d\u0434\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Shortandy"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0634\u0648\u0631\u0679\u06cc\u0646\u0688\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u0440\u0442\u0430\u043d\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Shartandy"
+    ],
+    "name:uzb_x_preferred":[
+        "Sho\u02bbrtandi"
+    ],
+    "qs:gn_country":"KZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1519050,
+    "qs:gn_pop":6980,
+    "qs:name":"Shortandy",
+    "qs:name_adm0":"Kazakhstan",
+    "qs:name_adm1":"Aqmola",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":133204,
+    "qs:woe_adm0":23424871,
+    "qs:woe_id":2264883,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519050,
+        "gp:id":2264883,
+        "qs:id":133204,
+        "wd:id":"Q2556281"
+    },
+    "wof:country":"KZ",
+    "wof:created":1459008729,
+    "wof:geomhash":"b73e8750cb80765bec32a49925acd41b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421167381,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":421167381,
+    "wof:lastmodified":1527716163,
+    "wof:name":"Shortandy",
+    "wof:parent_id":85672897,
+    "wof:placetype":"locality",
+    "wof:population":6980,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.99457,
+    51.69946,
+    70.99457,
+    51.69946
+],
+  "geometry": {"coordinates":[70.99457,51.69946],"type":"Point"}
+}

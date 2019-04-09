@@ -1,0 +1,67 @@
+{
+  "id": 1226140617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7,47.4,48.7,47.4",
+    "geom:latitude":47.4,
+    "geom:longitude":48.7,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Imeni Kirova",
+    "gn:country_code":"KZ",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609824,
+    "gn:latitude":47.4,
+    "gn:longitude":48.7,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Imeni Kirova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609824
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"53173c8675674e3717a75fceb09af38f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1226140617,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1226140617,
+    "wof:lastmodified":1537081978,
+    "wof:name":"Imeni Kirova",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7,
+    47.4,
+    48.7,
+    47.4
+],
+  "geometry": {"coordinates":[48.7,47.4],"type":"Point"}
+}

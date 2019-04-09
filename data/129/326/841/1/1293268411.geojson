@@ -1,0 +1,70 @@
+{
+  "id": 1293268411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.92861,43.78372,69.92861,43.78372",
+    "geom:latitude":43.78372,
+    "geom:longitude":69.92861,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kommunar",
+    "gn:country_code":"KZ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522365,
+    "gn:latitude":43.78372,
+    "gn:longitude":69.92861,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Kommunar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u043c\u0443\u043d\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522365
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"eaf565f49b9ab19ebef6e348e5f61e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785511,
+            "locality_id":1293268411,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1293268411,
+    "wof:lastmodified":1537659756,
+    "wof:name":"Kommunar",
+    "wof:parent_id":1108785511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.92860999999999,
+    43.78372,
+    69.92860999999999,
+    43.78372
+],
+  "geometry": {"coordinates":[69.92860999999999,43.78372],"type":"Point"}
+}

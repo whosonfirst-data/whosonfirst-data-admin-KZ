@@ -1,0 +1,74 @@
+{
+  "id": 1327245661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.10563,43.69987,80.10563,43.69987",
+    "geom:latitude":43.69987,
+    "geom:longitude":80.10563,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kayshi",
+    "gn:country_code":"KZ",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522875,
+    "gn:latitude":43.69987,
+    "gn:longitude":80.10563,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Kayshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kaychi",
+        "Kayshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522875
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"ce9fde5aaee07406650a15a0d31fc3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785425,
+            "locality_id":1327245661,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1327245661,
+    "wof:lastmodified":1537659776,
+    "wof:name":"Kayshi",
+    "wof:parent_id":1108785425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.10563,
+    43.69987,
+    80.10563,
+    43.69987
+],
+  "geometry": {"coordinates":[80.10563,43.69987],"type":"Point"}
+}

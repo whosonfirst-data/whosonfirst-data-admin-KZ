@@ -1,0 +1,77 @@
+{
+  "id": 1343982131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.36441,49.62368,57.36441,49.62368",
+    "geom:latitude":49.62368,
+    "geom:longitude":57.36441,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zolotonosh",
+    "gn:country_code":"KZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607497,
+    "gn:latitude":49.62368,
+    "gn:longitude":57.36441,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Zolotonosh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zolotonosh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u043b\u043e\u0442\u043e\u043d\u043e\u0448"
+    ],
+    "name:und_x_variant":[
+        "Zolotonoshskiy",
+        "Zolotonosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607497
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0a2476a5b17afe0552a56e5df706b116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785725,
+            "locality_id":1343982131,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1343982131,
+    "wof:lastmodified":1537659337,
+    "wof:name":"Zolotonosh",
+    "wof:parent_id":1108785725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.36441,
+    49.62368,
+    57.36441,
+    49.62368
+],
+  "geometry": {"coordinates":[57.36441,49.62368],"type":"Point"}
+}

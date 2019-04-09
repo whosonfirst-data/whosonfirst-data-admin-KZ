@@ -1,0 +1,67 @@
+{
+  "id": 1309993039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.58109,49.95716,71.58109,49.95716",
+    "geom:latitude":49.95716,
+    "geom:longitude":71.58109,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kazgorodok",
+    "gn:country_code":"KZ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522838,
+    "gn:latitude":49.95716,
+    "gn:longitude":71.58109,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kazgorodok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522838
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"cc1a74109fe807009b115261390e10b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785499,
+            "locality_id":1309993039,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1309993039,
+    "wof:lastmodified":1536661334,
+    "wof:name":"Kazgorodok",
+    "wof:parent_id":1108785499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.58109,
+    49.95716,
+    71.58109,
+    49.95716
+],
+  "geometry": {"coordinates":[71.58109,49.95716],"type":"Point"}
+}

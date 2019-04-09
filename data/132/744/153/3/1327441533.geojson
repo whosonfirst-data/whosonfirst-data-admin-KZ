@@ -1,0 +1,67 @@
+{
+  "id": 1327441533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.76667,50.93333,66.76667,50.93333",
+    "geom:latitude":50.93333,
+    "geom:longitude":66.76667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gogolevskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524222,
+    "gn:latitude":50.93333,
+    "gn:longitude":66.76667,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Gogolevskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524222
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"be0937855ccc4f5fa10f95f75ab97454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785497,
+            "locality_id":1327441533,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1327441533,
+    "wof:lastmodified":1536667568,
+    "wof:name":"Gogolevskiy",
+    "wof:parent_id":1108785497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.76666999999999,
+    50.93333,
+    66.76666999999999,
+    50.93333
+],
+  "geometry": {"coordinates":[66.76666999999999,50.93333],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1259565513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.43635,53.31581,68.43635,53.31581",
+    "geom:latitude":53.31581,
+    "geom:longitude":68.43635,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Antonovka",
+    "gn:country_code":"KZ",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526282,
+    "gn:latitude":53.31581,
+    "gn:longitude":68.43635,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Antonovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Antonovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Antonovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Antonovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526282
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7729d353be362b3e018ee897e659eec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785579,
+            "locality_id":1259565513,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1259565513,
+    "wof:lastmodified":1537659906,
+    "wof:name":"Antonovka",
+    "wof:parent_id":1108785579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.43635,
+    53.31581,
+    68.43635,
+    53.31581
+],
+  "geometry": {"coordinates":[68.43635,53.31581],"type":"Point"}
+}

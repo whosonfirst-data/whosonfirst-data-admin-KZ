@@ -1,0 +1,67 @@
+{
+  "id": 1343468725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.73333,50.25,50.73333,50.25",
+    "geom:latitude":50.25,
+    "geom:longitude":50.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bannov",
+    "gn:country_code":"KZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610440,
+    "gn:latitude":50.25,
+    "gn:longitude":50.73333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Bannov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610440
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8940b9707a334f0f084470d2d6279130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785709,
+            "locality_id":1343468725,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1343468725,
+    "wof:lastmodified":1536734275,
+    "wof:name":"Bannov",
+    "wof:parent_id":1108785709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.73333,
+    50.25,
+    50.73333,
+    50.25
+],
+  "geometry": {"coordinates":[50.73333,50.25],"type":"Point"}
+}

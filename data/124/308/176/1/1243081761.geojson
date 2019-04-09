@@ -1,0 +1,73 @@
+{
+  "id": 1243081761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.18005,44.83443,76.18005,44.83443",
+    "geom:latitude":44.83443,
+    "geom:longitude":76.18005,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Boyauly",
+    "gn:country_code":"KZ",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523910,
+    "gn:latitude":44.83443,
+    "gn:longitude":76.18005,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Boya\u016bly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Boya\u016bly"
+    ],
+    "name:und_x_variant":[
+        "Imeni Molotova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523910
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7b499366e2697b8df11c4e165e2efa61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785403,
+            "locality_id":1243081761,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1243081761,
+    "wof:lastmodified":1537659812,
+    "wof:name":"Boyauly",
+    "wof:parent_id":1108785403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.18005,
+    44.83443,
+    76.18005,
+    44.83443
+],
+  "geometry": {"coordinates":[76.18004999999999,44.83443],"type":"Point"}
+}

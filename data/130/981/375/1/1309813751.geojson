@@ -1,0 +1,78 @@
+{
+  "id": 1309813751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.48333,51.33333,51.48333,51.33333",
+    "geom:latitude":51.33333,
+    "geom:longitude":51.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Makarovo",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608920,
+    "gn:latitude":51.33333,
+    "gn:longitude":51.48333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Makarovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makarovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Makarov",
+        "Makarovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608920
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"363af827d4c02113f5f5f659ffee5fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785331,
+            "locality_id":1309813751,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1309813751,
+    "wof:lastmodified":1537659391,
+    "wof:name":"Makarovo",
+    "wof:parent_id":1108785331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.48333,
+    51.33333,
+    51.48333,
+    51.33333
+],
+  "geometry": {"coordinates":[51.48333,51.33333],"type":"Point"}
+}

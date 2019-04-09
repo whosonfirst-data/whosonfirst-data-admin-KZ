@@ -1,0 +1,70 @@
+{
+  "id": 1293362909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.76862,53.91083,67.76862,53.91083",
+    "geom:latitude":53.91083,
+    "geom:longitude":67.76862,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Karachek",
+    "gn:country_code":"KZ",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532182,
+    "gn:latitude":53.91083,
+    "gn:longitude":67.76862,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Karachek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0447\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532182
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4a241bf2beb9519028b7be91f7423500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785567,
+            "locality_id":1293362909,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293362909,
+    "wof:lastmodified":1537659960,
+    "wof:name":"Karachek",
+    "wof:parent_id":1108785567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.76862,
+    53.91083,
+    67.76862,
+    53.91083
+],
+  "geometry": {"coordinates":[67.76862,53.91083],"type":"Point"}
+}

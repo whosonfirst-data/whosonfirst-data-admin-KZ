@@ -1,0 +1,61 @@
+{
+  "id": 1209120793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.53333,49.78333,48.53333,49.78333",
+    "geom:latitude":49.78333,
+    "geom:longitude":48.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kekey",
+    "gn:country_code":"KZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609451,
+    "gn:latitude":49.78333,
+    "gn:longitude":48.53333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Kekey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609451
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"dd4f80f2d90db170e38114fef8a44957",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209120793
+        }
+    ],
+    "wof:id":1209120793,
+    "wof:lastmodified":1536297105,
+    "wof:name":"Kekey",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.53333,
+    49.78333,
+    48.53333,
+    49.78333
+],
+  "geometry": {"coordinates":[48.53333,49.78333],"type":"Point"}
+}

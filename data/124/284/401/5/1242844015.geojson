@@ -1,0 +1,79 @@
+{
+  "id": 1242844015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.61673,54.73705,67.61673,54.73705",
+    "geom:latitude":54.73705,
+    "geom:longitude":67.61673,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kladbinka",
+    "gn:country_code":"KZ",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522584,
+    "gn:latitude":54.73705,
+    "gn:longitude":67.61673,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kladbinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kladb\u012bnka"
+    ],
+    "name:kaz_x_preferred":[
+        "Kladb\u012bnka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u043b\u0430\u0434\u0431\u0438\u043d\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0430\u0434\u0431\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522584
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5cf4d9ca4094a06c705f02e6c0b4b4ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1242844015,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1242844015,
+    "wof:lastmodified":1537659764,
+    "wof:name":"Kladbinka",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.61673,
+    54.73705,
+    67.61673,
+    54.73705
+],
+  "geometry": {"coordinates":[67.61673,54.73705],"type":"Point"}
+}

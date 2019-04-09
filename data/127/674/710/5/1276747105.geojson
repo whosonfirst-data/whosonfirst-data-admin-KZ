@@ -1,0 +1,70 @@
+{
+  "id": 1276747105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.26127,42.54161,70.26127,42.54161",
+    "geom:latitude":42.54161,
+    "geom:longitude":70.26127,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kabanbay",
+    "gn:country_code":"KZ",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10842206,
+    "gn:latitude":42.54161,
+    "gn:longitude":70.26127,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Kabanbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0430\u043d\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10842206
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fa512ec7f97e93291e4fe1508534072c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785605,
+            "locality_id":1276747105,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276747105,
+    "wof:lastmodified":1537660067,
+    "wof:name":"Kabanbay",
+    "wof:parent_id":1108785605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.26127,
+    42.54161,
+    70.26127,
+    42.54161
+],
+  "geometry": {"coordinates":[70.26127,42.54161],"type":"Point"}
+}

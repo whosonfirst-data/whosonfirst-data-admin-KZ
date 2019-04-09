@@ -1,0 +1,64 @@
+{
+  "id": 1209595575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.63633,49.69847,72.63633,49.69847",
+    "geom:latitude":49.69847,
+    "geom:longitude":72.63633,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Severo-Zapadnyy",
+    "gn:country_code":"KZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475819,
+    "gn:latitude":49.69847,
+    "gn:longitude":72.63633,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Severo-Zapadnyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475819
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"7b91caff8650c23d25f28f35fb4f0fad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209595575
+        }
+    ],
+    "wof:id":1209595575,
+    "wof:lastmodified":1537660157,
+    "wof:name":"Severo-Zapadnyy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.63633,
+    49.69847,
+    72.63633,
+    49.69847
+],
+  "geometry": {"coordinates":[72.63633,49.69847],"type":"Point"}
+}

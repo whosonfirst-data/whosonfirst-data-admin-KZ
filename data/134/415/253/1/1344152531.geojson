@@ -1,0 +1,81 @@
+{
+  "id": 1344152531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.61904,41.82733,69.61904,41.82733",
+    "geom:latitude":41.82733,
+    "geom:longitude":69.61904,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kochakarabau",
+    "gn:country_code":"KZ",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522555,
+    "gn:latitude":41.82733,
+    "gn:longitude":69.61904,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Kochakarabau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qaraba\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0431\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0447\u0430\u043a\u0430\u0440\u0430\u0431\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Karabau",
+        "Koga-Karabau",
+        "Kochakarabau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522555
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b0c1b190e8c7fee1d9fb22231be9c3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785585,
+            "locality_id":1344152531,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1344152531,
+    "wof:lastmodified":1537659763,
+    "wof:name":"Kochakarabau",
+    "wof:parent_id":1108785585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.61904,
+    41.82733,
+    69.61904,
+    41.82733
+],
+  "geometry": {"coordinates":[69.61904,41.82733],"type":"Point"}
+}

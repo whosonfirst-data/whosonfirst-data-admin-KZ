@@ -1,0 +1,61 @@
+{
+  "id": 1209607717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.31667,48.01667,48.31667,48.01667",
+    "geom:latitude":48.01667,
+    "geom:longitude":48.31667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Telep",
+    "gn:country_code":"KZ",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608042,
+    "gn:latitude":48.01667,
+    "gn:longitude":48.31667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Telep",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608042
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2da1c2580d148a970bd9c45af08b7138",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209607717
+        }
+    ],
+    "wof:id":1209607717,
+    "wof:lastmodified":1536281952,
+    "wof:name":"Telep",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.31667,
+    48.01667,
+    48.31667,
+    48.01667
+],
+  "geometry": {"coordinates":[48.31667,48.01667],"type":"Point"}
+}

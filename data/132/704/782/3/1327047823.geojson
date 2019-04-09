@@ -1,0 +1,81 @@
+{
+  "id": 1327047823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.88591,43.15325,79.88591,43.15325",
+    "geom:latitude":43.15325,
+    "geom:longitude":79.88591,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shiybut",
+    "gn:country_code":"KZ",
+    "gn:dem":2080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519143,
+    "gn:latitude":43.15325,
+    "gn:longitude":79.88591,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Shiybut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shalk\u00f6de"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0430\u043b\u043a\u04e9\u0434\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0439\u0431\u0443\u0442"
+    ],
+    "name:und_x_variant":[
+        "Chiybut",
+        "Shiybut",
+        "Koksay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519143
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"48bffceabfd9a97f43ed62822aaccea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785309,
+            "locality_id":1327047823,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1327047823,
+    "wof:lastmodified":1537659593,
+    "wof:name":"Shiybut",
+    "wof:parent_id":1108785309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.88591,
+    43.15325,
+    79.88591,
+    43.15325
+],
+  "geometry": {"coordinates":[79.88591,43.15325],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1326734457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.48724,43.53519,75.48724,43.53519",
+    "geom:latitude":43.53519,
+    "geom:longitude":75.48724,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chil'bastau",
+    "gn:country_code":"KZ",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1524795,
+    "gn:latitude":43.53519,
+    "gn:longitude":75.48724,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Chil\u2019bastau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shilibasta\u016b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u0456\u043b\u0456\u0431\u0430\u0441\u0442\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "Chil\u2019bastau"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0438\u043b\u044c\u0431\u0430\u0441\u0442\u0430\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1524795
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0314c19cb7d951e63855ceb012f726c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785481,
+            "locality_id":1326734457,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1326734457,
+    "wof:lastmodified":1537659849,
+    "wof:name":"Chil'bastau",
+    "wof:parent_id":1108785481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.48724,
+    43.53519,
+    75.48724,
+    43.53519
+],
+  "geometry": {"coordinates":[75.48724,43.53519],"type":"Point"}
+}

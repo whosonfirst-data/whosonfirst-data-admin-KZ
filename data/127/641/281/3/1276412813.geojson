@@ -1,0 +1,70 @@
+{
+  "id": 1276412813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.8,54.33333,66.8,54.33333",
+    "geom:latitude":54.33333,
+    "geom:longitude":66.8,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tyagishchil'",
+    "gn:country_code":"KZ",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517899,
+    "gn:latitude":54.33333,
+    "gn:longitude":66.8,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Tyagishchil\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tyagishchil\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517899
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"34fdf837e69bd18366aa23c09860fbbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1276412813,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1276412813,
+    "wof:lastmodified":1537659542,
+    "wof:name":"Tyagishchil'",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.8,
+    54.33333,
+    66.8,
+    54.33333
+],
+  "geometry": {"coordinates":[66.8,54.33333],"type":"Point"}
+}

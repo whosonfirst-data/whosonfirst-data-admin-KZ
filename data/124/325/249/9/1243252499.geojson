@@ -1,0 +1,76 @@
+{
+  "id": 1243252499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.62617,42.26127,69.62617,42.26127",
+    "geom:latitude":42.26127,
+    "geom:longitude":69.62617,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ordzhonikidze",
+    "gn:country_code":"KZ",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11120390,
+    "gn:latitude":42.26127,
+    "gn:longitude":69.62617,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Ordzhonikidze",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0434\u0436\u043e\u043d\u0438\u043a\u0438\u0434\u0437\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u0431\u0430\u0441\u0442\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Karabastau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11120390
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"13ef30db47e1af5f5d02b6ee5c35c452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785607,
+            "locality_id":1243252499,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243252499,
+    "wof:lastmodified":1537660112,
+    "wof:name":"Ordzhonikidze",
+    "wof:parent_id":1108785607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.62617,
+    42.26127,
+    69.62617,
+    42.26127
+],
+  "geometry": {"coordinates":[69.62617,42.26127],"type":"Point"}
+}

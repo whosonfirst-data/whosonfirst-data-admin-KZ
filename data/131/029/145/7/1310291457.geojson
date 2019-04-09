@@ -1,0 +1,73 @@
+{
+  "id": 1310291457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.90312,52.82096,63.90312,52.82096",
+    "geom:latitude":52.82096,
+    "geom:longitude":63.90312,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Semenovka",
+    "gn:country_code":"KZ",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519424,
+    "gn:latitude":52.82096,
+    "gn:longitude":63.90312,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sem\u00ebnovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sem\u00ebnovka"
+    ],
+    "name:und_x_variant":[
+        "Semenovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519424
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c3862752b2a5a89617ccff677eefb0e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1310291457,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1310291457,
+    "wof:lastmodified":1537659606,
+    "wof:name":"Semenovka",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.90312,
+    52.82096,
+    63.90312,
+    52.82096
+],
+  "geometry": {"coordinates":[63.90312,52.82096],"type":"Point"}
+}

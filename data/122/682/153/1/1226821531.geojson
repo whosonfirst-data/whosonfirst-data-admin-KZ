@@ -1,0 +1,67 @@
+{
+  "id": 1226821531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.20674,54.41452,66.20674,54.41452",
+    "geom:latitude":54.41452,
+    "geom:longitude":66.20674,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nurumbet",
+    "gn:country_code":"KZ",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520492,
+    "gn:latitude":54.41452,
+    "gn:longitude":66.20674,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Nurumbet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520492
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c9fab9ff627781b3eacaac9147c504ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1226821531,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226821531,
+    "wof:lastmodified":1536603392,
+    "wof:name":"Nurumbet",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.20674,
+    54.41452,
+    66.20674,
+    54.41452
+],
+  "geometry": {"coordinates":[66.20674,54.41452],"type":"Point"}
+}

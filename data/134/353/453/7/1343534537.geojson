@@ -1,0 +1,73 @@
+{
+  "id": 1343534537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.08467,49.59802,82.08467,49.59802",
+    "geom:latitude":49.59802,
+    "geom:longitude":82.08467,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kobay",
+    "gn:country_code":"KZ",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1483914,
+    "gn:latitude":49.59802,
+    "gn:longitude":82.08467,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kobay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kobay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1483914
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"33e99d0ecc6d99ab1fc943981e20418a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785473,
+            "locality_id":1343534537,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343534537,
+    "wof:lastmodified":1537659463,
+    "wof:name":"Kobay",
+    "wof:parent_id":1108785473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.08466999999997,
+    49.59802,
+    82.08466999999997,
+    49.59802
+],
+  "geometry": {"coordinates":[82.08466999999997,49.59802],"type":"Point"}
+}

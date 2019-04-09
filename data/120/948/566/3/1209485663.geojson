@@ -1,0 +1,73 @@
+{
+  "id": 1209485663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.47353,51.05277,79.47353,51.05277",
+    "geom:latitude":51.05277,
+    "geom:longitude":79.47353,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bukebay",
+    "gn:country_code":"KZ",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1534857,
+    "gn:latitude":51.05277,
+    "gn:longitude":79.47353,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Bukebay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bukebay"
+    ],
+    "name:kaz_x_preferred":[
+        "B\u00e4kebay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u04d9\u043a\u0435\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043a\u0435\u0431\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1534857
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a84a6d73fbe8224b2e5434ab2d3782b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209485663
+        }
+    ],
+    "wof:id":1209485663,
+    "wof:lastmodified":1537659986,
+    "wof:name":"Bukebay",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.47353000000003,
+    51.05277,
+    79.47353000000003,
+    51.05277
+],
+  "geometry": {"coordinates":[79.47353000000003,51.05277],"type":"Point"}
+}

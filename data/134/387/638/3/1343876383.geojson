@@ -1,0 +1,67 @@
+{
+  "id": 1343876383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.73333,49.26667,62.73333,49.26667",
+    "geom:latitude":49.26667,
+    "geom:longitude":62.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Akshiganak",
+    "gn:country_code":"KZ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526685,
+    "gn:latitude":49.26667,
+    "gn:longitude":62.73333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Akshiganak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526685
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"531b8510ea1201bcb039033b6223622f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785527,
+            "locality_id":1343876383,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343876383,
+    "wof:lastmodified":1536642913,
+    "wof:name":"Akshiganak",
+    "wof:parent_id":1108785527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.73333,
+    49.26667,
+    62.73333,
+    49.26667
+],
+  "geometry": {"coordinates":[62.73333,49.26667],"type":"Point"}
+}

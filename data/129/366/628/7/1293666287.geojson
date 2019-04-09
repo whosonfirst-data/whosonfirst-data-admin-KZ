@@ -1,0 +1,76 @@
+{
+  "id": 1293666287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.8002,50.73542,72.8002,50.73542",
+    "geom:latitude":50.73542,
+    "geom:longitude":72.8002,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kolkhoznoe",
+    "gn:country_code":"KZ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11415475,
+    "gn:latitude":50.73542,
+    "gn:longitude":72.8002,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Kolkhoznoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Kolkhoznoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u043e\u043b\u0445\u043e\u0437\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kolkhoznoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11415475
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4bab4e772d372db071500a2baf1b519a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785653,
+            "locality_id":1293666287,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1293666287,
+    "wof:lastmodified":1537660143,
+    "wof:name":"Kolkhoznoe",
+    "wof:parent_id":1108785653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.8002,
+    50.73542,
+    72.8002,
+    50.73542
+],
+  "geometry": {"coordinates":[72.8002,50.73542],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293360035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.99371,54.05084,68.99371,54.05084",
+    "geom:latitude":54.05084,
+    "geom:longitude":68.99371,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kramatorovka",
+    "gn:country_code":"KZ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531017,
+    "gn:latitude":54.05084,
+    "gn:longitude":68.99371,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kramatorovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u043c\u0430\u0442\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531017
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6f2fab96236ab7155bc69b9d7a0a0c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1293360035,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293360035,
+    "wof:lastmodified":1537659951,
+    "wof:name":"Kramatorovka",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.99371,
+    54.05084,
+    68.99371,
+    54.05084
+],
+  "geometry": {"coordinates":[68.99370999999999,54.05084],"type":"Point"}
+}

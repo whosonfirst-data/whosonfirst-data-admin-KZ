@@ -1,0 +1,67 @@
+{
+  "id": 1360164851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.75267,48.90032,71.75267,48.90032",
+    "geom:latitude":48.90032,
+    "geom:longitude":71.75267,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Intumak",
+    "gn:country_code":"KZ",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537173,
+    "gn:latitude":48.90032,
+    "gn:longitude":71.75267,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Intumak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537173
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6962105215e14f8dbaae5f23efa1d79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785597,
+            "locality_id":1360164851,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1360164851,
+    "wof:lastmodified":1536829659,
+    "wof:name":"Intumak",
+    "wof:parent_id":1108785597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.75267,
+    48.90032,
+    71.75267,
+    48.90032
+],
+  "geometry": {"coordinates":[71.75266999999999,48.90032],"type":"Point"}
+}

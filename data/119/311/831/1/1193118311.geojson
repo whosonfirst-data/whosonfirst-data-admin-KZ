@@ -1,0 +1,67 @@
+{
+  "id": 1193118311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.08333,52.23333,76.08333,52.23333",
+    "geom:latitude":52.23333,
+    "geom:longitude":76.08333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rovnoye",
+    "gn:country_code":"KZ",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519855,
+    "gn:latitude":52.23333,
+    "gn:longitude":76.08333,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Rovnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519855
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4680e1e4990baa06d56e6a5ac8d5c94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785551,
+            "locality_id":1193118311,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1193118311,
+    "wof:lastmodified":1536366151,
+    "wof:name":"Rovnoye",
+    "wof:parent_id":1108785551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.08333,
+    52.23333,
+    76.08333,
+    52.23333
+],
+  "geometry": {"coordinates":[76.08333,52.23333],"type":"Point"}
+}

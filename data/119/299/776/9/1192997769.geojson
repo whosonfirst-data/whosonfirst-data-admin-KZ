@@ -1,0 +1,77 @@
+{
+  "id": 1192997769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.88417,49.18444,64.88417,49.18444",
+    "geom:latitude":49.18444,
+    "geom:longitude":64.88417,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Talguy",
+    "gn:country_code":"KZ",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529816,
+    "gn:latitude":49.18444,
+    "gn:longitude":64.88417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Talguy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Talguy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0433\u0443\u0439"
+    ],
+    "name:und_x_variant":[
+        "Talgyy",
+        "Talguy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529816
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0bd1087c159473f1ae2186c8b77fdb0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785657,
+            "locality_id":1192997769,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1192997769,
+    "wof:lastmodified":1537659934,
+    "wof:name":"Talguy",
+    "wof:parent_id":1108785657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.88417,
+    49.18444,
+    64.88417,
+    49.18444
+],
+  "geometry": {"coordinates":[64.88417,49.18444],"type":"Point"}
+}

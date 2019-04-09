@@ -1,0 +1,82 @@
+{
+  "id": 1293378013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.01289,53.65726,75.01289,53.65726",
+    "geom:latitude":53.65726,
+    "geom:longitude":75.01289,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ul'guli",
+    "gn:country_code":"KZ",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532945,
+    "gn:latitude":53.65726,
+    "gn:longitude":75.01289,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Ul\u2019guli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ul'guli"
+    ],
+    "name:kaz_x_preferred":[
+        "\u00dclgili"
+    ],
+    "name:kaz_x_variant":[
+        "\u04ae\u043b\u0433\u0456\u043b\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u044c\u0433\u0443\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ul\u2019guli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532945
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5ab49e011c8f734004ca371feb8f60e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1293378013,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1293378013,
+    "wof:lastmodified":1537659973,
+    "wof:name":"Ul'guli",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.01289,
+    53.65726,
+    75.01289,
+    53.65726
+],
+  "geometry": {"coordinates":[75.01289,53.65726],"type":"Point"}
+}

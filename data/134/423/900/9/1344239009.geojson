@@ -1,0 +1,73 @@
+{
+  "id": 1344239009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.09207,53.81685,70.09207,53.81685",
+    "geom:latitude":53.81685,
+    "geom:longitude":70.09207,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ul'yanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532384,
+    "gn:latitude":53.81685,
+    "gn:longitude":70.09207,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Ul\u2019yanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ul\u2019yanovka"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532384
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e0f1bf9d3bf10466d7aa204882b341e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785577,
+            "locality_id":1344239009,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1344239009,
+    "wof:lastmodified":1537659967,
+    "wof:name":"Ul'yanovka",
+    "wof:parent_id":1108785577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.09206999999999,
+    53.81685,
+    70.09206999999999,
+    53.81685
+],
+  "geometry": {"coordinates":[70.09206999999999,53.81685],"type":"Point"}
+}

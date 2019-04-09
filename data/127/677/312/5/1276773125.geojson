@@ -1,0 +1,67 @@
+{
+  "id": 1276773125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.69361,48.52111,46.69361,48.52111",
+    "geom:latitude":48.52111,
+    "geom:longitude":46.69361,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Filimonov",
+    "gn:country_code":"KZ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609910,
+    "gn:latitude":48.52111,
+    "gn:longitude":46.69361,
+    "gn:modification_date":"1995-09-28",
+    "gn:name":"Filimonov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609910
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"666ef46971826fde13f9efd96244b7e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785701,
+            "locality_id":1276773125,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1276773125,
+    "wof:lastmodified":1536686449,
+    "wof:name":"Filimonov",
+    "wof:parent_id":1108785701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.69361,
+    48.52111,
+    46.69361,
+    48.52111
+],
+  "geometry": {"coordinates":[46.69361,48.52111],"type":"Point"}
+}

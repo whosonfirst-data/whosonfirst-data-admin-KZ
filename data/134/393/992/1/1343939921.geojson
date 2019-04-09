@@ -1,0 +1,80 @@
+{
+  "id": 1343939921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.43468,54.86973,70.43468,54.86973",
+    "geom:latitude":54.86973,
+    "geom:longitude":70.43468,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Medvezhka",
+    "gn:country_code":"KZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520986,
+    "gn:latitude":54.86973,
+    "gn:longitude":70.43468,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Medvezhka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Medvezhka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0436\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0436\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Medvezhinskiy",
+        "Medvezhka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520986
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2de17619ae1fe022a161f9e25ef87131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1343939921,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1343939921,
+    "wof:lastmodified":1537659692,
+    "wof:name":"Medvezhka",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.43468,
+    54.86973,
+    70.43468,
+    54.86973
+],
+  "geometry": {"coordinates":[70.43468,54.86973],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226160689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.31667,45.66667,74.31667,45.66667",
+    "geom:latitude":45.66667,
+    "geom:longitude":74.31667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kokkol'",
+    "gn:country_code":"KZ",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522521,
+    "gn:latitude":45.66667,
+    "gn:longitude":74.31667,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Kokkol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522521
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"491f6d16b14673fa62712b6a33eedffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785403,
+            "locality_id":1226160689,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1226160689,
+    "wof:lastmodified":1537053842,
+    "wof:name":"Kokkol'",
+    "wof:parent_id":1108785403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.31667,
+    45.66667,
+    74.31667,
+    45.66667
+],
+  "geometry": {"coordinates":[74.31667,45.66667],"type":"Point"}
+}

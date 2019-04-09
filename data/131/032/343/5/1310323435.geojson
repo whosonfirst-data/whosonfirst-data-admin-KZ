@@ -1,0 +1,67 @@
+{
+  "id": 1310323435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.73333,45.61667,79.73333,45.61667",
+    "geom:latitude":45.61667,
+    "geom:longitude":79.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Karaguzek",
+    "gn:country_code":"KZ",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523376,
+    "gn:latitude":45.61667,
+    "gn:longitude":79.73333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Karaguzek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523376
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2a440c83f7b08332709c0a963d3d3653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785407,
+            "locality_id":1310323435,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1310323435,
+    "wof:lastmodified":1536682043,
+    "wof:name":"Karaguzek",
+    "wof:parent_id":1108785407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.73333000000002,
+    45.61667,
+    79.73333000000002,
+    45.61667
+],
+  "geometry": {"coordinates":[79.73333000000002,45.61667],"type":"Point"}
+}

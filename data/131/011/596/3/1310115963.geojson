@@ -1,0 +1,77 @@
+{
+  "id": 1310115963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.96032,48.3292,82.96032,48.3292",
+    "geom:latitude":48.3292,
+    "geom:longitude":82.96032,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ushkomey",
+    "gn:country_code":"KZ",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517650,
+    "gn:latitude":48.3292,
+    "gn:longitude":82.96032,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ushkomey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ushkomey"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0448\u043a\u0443\u043c\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "Ushkumey",
+        "Ushkomey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517650
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9bd570cbb9a8013596bebfaffec90c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785463,
+            "locality_id":1310115963,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1310115963,
+    "wof:lastmodified":1537659533,
+    "wof:name":"Ushkomey",
+    "wof:parent_id":1108785463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.96032,
+    48.3292,
+    82.96032,
+    48.3292
+],
+  "geometry": {"coordinates":[82.96032,48.3292],"type":"Point"}
+}

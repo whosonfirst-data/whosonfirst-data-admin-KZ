@@ -1,0 +1,71 @@
+{
+  "id": 1360256667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.85,43.06667,71.85,43.06667",
+    "geom:latitude":43.06667,
+    "geom:longitude":71.85,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Shalkudysu",
+    "gn:country_code":"KZ",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519300,
+    "gn:latitude":43.06667,
+    "gn:longitude":71.85,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Shalkudysu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chalkudy-Su",
+        "Shalkudysu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519300
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"0e337edc4243ec8fd97c4028675e0b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785487,
+            "locality_id":1360256667,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1360256667,
+    "wof:lastmodified":1537659600,
+    "wof:name":"Shalkudysu",
+    "wof:parent_id":1108785487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.85,
+    43.06667,
+    71.85,
+    43.06667
+],
+  "geometry": {"coordinates":[71.84999999999999,43.06667],"type":"Point"}
+}

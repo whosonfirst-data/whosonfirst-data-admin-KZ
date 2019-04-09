@@ -1,0 +1,81 @@
+{
+  "id": 1276423707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.90366,48.91208,80.90366,48.91208",
+    "geom:latitude":48.91208,
+    "geom:longitude":80.90366,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qapanbulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1537338,
+    "gn:latitude":48.91208,
+    "gn:longitude":80.90366,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Qapanbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qapanbulaq"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u043f\u0430\u043d\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u0430\u043d\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kopanbulak",
+        "Kapanbulak",
+        "Qapanbulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1537338
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2b6349c52e20b0aff52b3df9ee52ce0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1276423707,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276423707,
+    "wof:lastmodified":1537660015,
+    "wof:name":"Qapanbulaq",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.90366,
+    48.91208,
+    80.90366,
+    48.91208
+],
+  "geometry": {"coordinates":[80.90366,48.91208],"type":"Point"}
+}

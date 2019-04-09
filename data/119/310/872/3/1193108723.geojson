@@ -1,0 +1,73 @@
+{
+  "id": 1193108723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.65529,42.96987,70.65529,42.96987",
+    "geom:latitude":42.96987,
+    "geom:longitude":70.65529,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Leninskiy Put'",
+    "gn:country_code":"KZ",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794461,
+    "gn:latitude":42.96987,
+    "gn:longitude":70.65529,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Leninskiy Put\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Leninskiy Put\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u041f\u0443\u0442\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672931,
+        1108785643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794461
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a68b217322ccd8ffe492ce14a6653363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785643,
+            "locality_id":1193108723,
+            "region_id":85672931
+        }
+    ],
+    "wof:id":1193108723,
+    "wof:lastmodified":1537660059,
+    "wof:name":"Leninskiy Put'",
+    "wof:parent_id":1108785643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.65529000000002,
+    42.96987,
+    70.65529000000002,
+    42.96987
+],
+  "geometry": {"coordinates":[70.65529000000002,42.96987],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309994119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.59988,52.23523,77.59988,52.23523",
+    "geom:latitude":52.23523,
+    "geom:longitude":77.59988,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Romanovka",
+    "gn:country_code":"KZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519865,
+    "gn:latitude":52.23523,
+    "gn:longitude":77.59988,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Romanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0420\u043e\u043c\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Romanovskoye",
+        "Romanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519865
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"616c98ed1ac94ecff260b1458e9c6976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785561,
+            "locality_id":1309994119,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1309994119,
+    "wof:lastmodified":1537659621,
+    "wof:name":"Romanovka",
+    "wof:parent_id":1108785561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.59988,
+    52.23523,
+    77.59988,
+    52.23523
+],
+  "geometry": {"coordinates":[77.59988,52.23523],"type":"Point"}
+}

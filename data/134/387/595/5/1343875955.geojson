@@ -1,0 +1,70 @@
+{
+  "id": 1343875955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.43288,43.47977,80.43288,43.47977",
+    "geom:latitude":43.47977,
+    "geom:longitude":80.43288,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kepebulak",
+    "gn:country_code":"KZ",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10946716,
+    "gn:latitude":43.47977,
+    "gn:longitude":80.43288,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Kepebulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043f\u0435\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10946716
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"2434bb9fa0e87f720159bc248f92f94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785425,
+            "locality_id":1343875955,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1343875955,
+    "wof:lastmodified":1537660075,
+    "wof:name":"Kepebulak",
+    "wof:parent_id":1108785425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.43288000000003,
+    43.47977,
+    80.43288000000003,
+    43.47977
+],
+  "geometry": {"coordinates":[80.43288000000003,43.47977],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360268189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.78583,47.22277,80.78583,47.22277",
+    "geom:latitude":47.22277,
+    "geom:longitude":80.78583,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Taskesken",
+    "gn:country_code":"KZ",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518416,
+    "gn:latitude":47.22277,
+    "gn:longitude":80.78583,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Taskesken",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taskisken",
+        "Teskesken",
+        "Taskesken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518416
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"40381fa9adc86252540dcfa7b763e64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1360268189,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1360268189,
+    "wof:lastmodified":1537659562,
+    "wof:name":"Taskesken",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.78583,
+    47.22277,
+    80.78583,
+    47.22277
+],
+  "geometry": {"coordinates":[80.78583,47.22277],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209432961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.31049,50.50836,53.31049,50.50836",
+    "geom:latitude":50.50836,
+    "geom:longitude":53.31049,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kenashchi",
+    "gn:country_code":"KZ",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609446,
+    "gn:latitude":50.50836,
+    "gn:longitude":53.31049,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kenashchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kenashchi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0430\u0449\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kinashe",
+        "Kenashchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609446
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"393c92d02b8c4fdba3898ff21dfaf68d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209432961
+        }
+    ],
+    "wof:id":1209432961,
+    "wof:lastmodified":1537659412,
+    "wof:name":"Kenashchi",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.31049,
+    50.50836,
+    53.31049,
+    50.50836
+],
+  "geometry": {"coordinates":[53.31049,50.50836],"type":"Point"}
+}

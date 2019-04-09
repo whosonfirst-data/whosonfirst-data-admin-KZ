@@ -1,0 +1,82 @@
+{
+  "id": 1209989607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.46404,50.80022,78.46404,50.80022",
+    "geom:latitude":50.80022,
+    "geom:longitude":78.46404,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bol'shoy Akzhar",
+    "gn:country_code":"KZ",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525186,
+    "gn:latitude":50.80022,
+    "gn:longitude":78.46404,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Bol\u2019shoy Akzhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u00dclken Aqzhar"
+    ],
+    "name:kaz_x_variant":[
+        "\u04ae\u043b\u043a\u0435\u043d \u0410\u049b\u0436\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "Bol\u2019shoy Akzhar"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0410\u043a\u0436\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Akzharskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525186
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c8f09d2c2ba28bccd191565942660dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1209989607,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1209989607,
+    "wof:lastmodified":1537659863,
+    "wof:name":"Bol'shoy Akzhar",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.46404,
+    50.80022,
+    78.46404,
+    50.80022
+],
+  "geometry": {"coordinates":[78.46404,50.80022],"type":"Point"}
+}

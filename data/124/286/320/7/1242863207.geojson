@@ -1,0 +1,70 @@
+{
+  "id": 1242863207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.45636,40.95781,68.45636,40.95781",
+    "geom:latitude":40.95781,
+    "geom:longitude":68.45636,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Otdeleniye Pravdy",
+    "gn:country_code":"KZ",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10956187,
+    "gn:latitude":40.95781,
+    "gn:longitude":68.45636,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Otdeleniye Pravdy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041f\u0440\u0430\u0432\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956187
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f3532790ce0c745b2b7210486f2aaafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1242863207,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1242863207,
+    "wof:lastmodified":1537660082,
+    "wof:name":"Otdeleniye Pravdy",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.45636,
+    40.95781,
+    68.45636,
+    40.95781
+],
+  "geometry": {"coordinates":[68.45636,40.95781],"type":"Point"}
+}

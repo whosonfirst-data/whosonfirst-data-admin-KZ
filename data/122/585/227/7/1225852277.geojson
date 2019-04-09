@@ -1,0 +1,83 @@
+{
+  "id": 1225852277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.51908,53.0411,69.51908,53.0411",
+    "geom:latitude":53.0411,
+    "geom:longitude":69.51908,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Oktyabr'",
+    "gn:country_code":"KZ",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516619,
+    "gn:latitude":53.0411,
+    "gn:longitude":69.51908,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Oktyabr\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oktyabr'"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:rus_x_variant":[
+        "Oktyabr\u2019",
+        "\u0416\u0435\u043b\u0442\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Zheltau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516619
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"acd65a8952748da4680792421e07bba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785721,
+            "locality_id":1225852277,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1225852277,
+    "wof:lastmodified":1537659478,
+    "wof:name":"Oktyabr'",
+    "wof:parent_id":1108785721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.51908,
+    53.0411,
+    69.51908,
+    53.0411
+],
+  "geometry": {"coordinates":[69.51908,53.0411],"type":"Point"}
+}

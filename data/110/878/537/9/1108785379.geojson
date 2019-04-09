@@ -1,0 +1,128 @@
+{
+  "id": 1108785379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000276,
+    "geom:area_square_m":1961923.289471,
+    "geom:bbox":"68.815220165,54.8391197414,68.8330332176,54.8585935622",
+    "geom:latitude":54.848319,
+    "geom:longitude":68.824151,
+    "iso:country":"KZ",
+    "lbl:latitude":54.848085,
+    "lbl:longitude":68.823981,
+    "meso:adm1_loc":"\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "meso:delete_fla":"2",
+    "meso:dissme":"\u041c\u0430\u043c\u043b\u044e\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+    "meso:gadm_adm1":"North Kazakhstan",
+    "meso:gadm_adm2":"Kyzylzharskiy",
+    "meso:gadm_alt":"Bishkul'skiy",
+    "meso:gadm_hasc":"KZ.NK.KY",
+    "meso:gaul_adm1":"Severo-kazachstanskaya",
+    "meso:gaul_adm2":"Kyzyljar",
+    "meso:mps_x":68.823981,
+    "meso:mps_y":54.848085,
+    "meso:name_en":"Kyzylzharskiy",
+    "meso:name_loc":"\u041c\u0430\u043c\u043b\u044e\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+    "meso:type_loc":"Rayon",
+    "mps:latitude":54.848085,
+    "mps:longitude":68.823981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043c\u043b\u044e\u0442\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Mamlyut District"
+    ],
+    "name:eng_x_preferred":[
+        "Kyzylzharskiy"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03b1\u03bc\u03bb\u03b9\u03bf\u03cd\u03c4"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Maml\u00fbt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e0\u30ea\u30e5\u30fc\u30c8\u5730\u533a"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043c\u043b\u044e\u0442 \u0430\u0443\u0434\u0430\u043d\u044b"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u0430\u043c\u043b\u0438\u0443\u0442"
+    ],
+    "name:may_x_preferred":[
+        "Daerah Mamlyut"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043c\u043b\u044e\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043c\u043b\u044e\u0442\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "\u041c\u0430\u043c\u043b\u044e\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Mamlyut"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"1999-04-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"1999-04-01",
+    "statoids:capital":"Bishkul`",
+    "statoids:country":"KZ",
+    "statoids:hasc":"KZ.NK",
+    "statoids:name":"Kyzylzharskiy",
+    "statoids:population":"50300",
+    "statoids:statoid":"KZ.NK.KY",
+    "statoids:timezone":"6",
+    "statoids:type":"rayon",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"KZ.NK.KY",
+        "wd:id":"Q32419"
+    },
+    "wof:country":"KZ",
+    "wof:created":1481837941,
+    "wof:geomhash":"14f81b05852d1ad78060db076aa5d720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785379,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1108785379,
+    "wof:lastmodified":1536615797,
+    "wof:name":"Kyzylzharskiy",
+    "wof:parent_id":85672907,
+    "wof:placetype":"county",
+    "wof:placetype_local":"rayon",
+    "wof:population":50300,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:shortcode":"KY",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.81522016500892,
+    54.83911974138017,
+    68.8330332176466,
+    54.85859356219613
+],
+  "geometry": {"coordinates":[[[68.81541431475245,54.84141827085505],[68.81522016500892,54.85194073115563],[68.82122767983037,54.85715270375008],[68.82623888310343,54.85859356219613],[68.83038497607912,54.85615274940034],[68.83273844022611,54.85231308372835],[68.8330332176466,54.84834292957517],[68.83212020303829,54.8440538837317],[68.83058756333402,54.84106784052446],[68.82863711744974,54.83915812982965],[68.82446547158341,54.83911974138017],[68.81993989316793,54.84026900611761],[68.81692284089094,54.84103518260923],[68.81541431475245,54.84141827085505]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276782177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.16697,46.14161,82.16697,46.14161",
+    "geom:latitude":46.14161,
+    "geom:longitude":82.16697,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Qarabulaq",
+    "gn:country_code":"KZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1519945,
+    "gn:latitude":46.14161,
+    "gn:longitude":82.16697,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Qarabulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karabulak",
+        "Qarabulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1519945
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c374eaf759e67e031d283985eb4dc6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785729,
+            "locality_id":1276782177,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276782177,
+    "wof:lastmodified":1537659626,
+    "wof:name":"Qarabulaq",
+    "wof:parent_id":1108785729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.16696999999998,
+    46.14161,
+    82.16696999999998,
+    46.14161
+],
+  "geometry": {"coordinates":[82.16696999999998,46.14161],"type":"Point"}
+}

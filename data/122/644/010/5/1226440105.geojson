@@ -1,0 +1,79 @@
+{
+  "id": 1226440105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61806,46.5975,48.61806,46.5975",
+    "geom:latitude":46.5975,
+    "geom:longitude":48.61806,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Koptogay",
+    "gn:cc2":"KZ",
+    "gn:country_code":"KZ",
+    "gn:dem":-24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609692,
+    "gn:latitude":46.5975,
+    "gn:longitude":48.61806,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Koptogay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koptogay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0442\u043e\u0433\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Panfilov",
+        "Kaptagay",
+        "Koptogay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609692
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6027a92205be08e9c773cd3f0abb1560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1226440105,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1226440105,
+    "wof:lastmodified":1537659420,
+    "wof:name":"Koptogay",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61806,
+    46.5975,
+    48.61806,
+    46.5975
+],
+  "geometry": {"coordinates":[48.61806,46.5975],"type":"Point"}
+}

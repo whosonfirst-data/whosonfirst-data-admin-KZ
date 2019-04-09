@@ -1,0 +1,79 @@
+{
+  "id": 1260280543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4749,49.6663,49.4749,49.6663",
+    "geom:latitude":49.6663,
+    "geom:longitude":49.4749,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zhalpaqtal",
+    "gn:country_code":"KZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609903,
+    "gn:latitude":49.6663,
+    "gn:longitude":49.4749,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zhalpaqtal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhalpaqtal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0443\u0440\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Furmanovo",
+        "Slomikhino",
+        "Slomikhinskaya",
+        "Zhalpaqtal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609903
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"f1d81b1c73cba6f926eb4a07b60f7e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785703,
+            "locality_id":1260280543,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1260280543,
+    "wof:lastmodified":1537659426,
+    "wof:name":"Zhalpaqtal",
+    "wof:parent_id":1108785703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4749,
+    49.6663,
+    49.4749,
+    49.6663
+],
+  "geometry": {"coordinates":[49.4749,49.6663],"type":"Point"}
+}

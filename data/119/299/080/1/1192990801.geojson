@@ -1,0 +1,77 @@
+{
+  "id": 1192990801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.45173,53.10652,67.45173,53.10652",
+    "geom:latitude":53.10652,
+    "geom:longitude":67.45173,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Frunze",
+    "gn:country_code":"KZ",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1535417,
+    "gn:latitude":53.10652,
+    "gn:longitude":67.45173,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Frunze",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0443\u043d\u0437\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043a\u043c\u043e\u043b\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Akmoldy",
+        "Frunze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1535417
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a796613a2334931f00a08960771cf7fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785571,
+            "locality_id":1192990801,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1192990801,
+    "wof:lastmodified":1537659993,
+    "wof:name":"Frunze",
+    "wof:parent_id":1108785571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.45173,
+    53.10652,
+    67.45173,
+    53.10652
+],
+  "geometry": {"coordinates":[67.45173,53.10652],"type":"Point"}
+}

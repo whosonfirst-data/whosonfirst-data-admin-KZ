@@ -1,0 +1,70 @@
+{
+  "id": 1293473685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.39563,40.66224,68.39563,40.66224",
+    "geom:latitude":40.66224,
+    "geom:longitude":68.39563,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Orken",
+    "gn:country_code":"KZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241635,
+    "gn:latitude":40.66224,
+    "gn:longitude":68.39563,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Orken",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Orken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241635
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"8e568dc9392b9e78ae65af892b44846d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1293473685,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1293473685,
+    "wof:lastmodified":1537660128,
+    "wof:name":"Orken",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.39563000000001,
+    40.66224,
+    68.39563000000001,
+    40.66224
+],
+  "geometry": {"coordinates":[68.39563000000001,40.66224],"type":"Point"}
+}

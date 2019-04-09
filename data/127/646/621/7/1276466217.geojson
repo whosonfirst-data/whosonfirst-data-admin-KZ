@@ -1,0 +1,67 @@
+{
+  "id": 1276466217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.86667,47.88333,47.86667,47.88333",
+    "geom:latitude":47.88333,
+    "geom:longitude":47.86667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dzhauken-Kstau",
+    "gn:country_code":"KZ",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793703,
+    "gn:latitude":47.88333,
+    "gn:longitude":47.86667,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Dzhauken-Kstau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793703
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"bef38b23c93976c3715e7cdc3259eddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1276466217,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1276466217,
+    "wof:lastmodified":1537094620,
+    "wof:name":"Dzhauken-Kstau",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.86667,
+    47.88333,
+    47.86667,
+    47.88333
+],
+  "geometry": {"coordinates":[47.86667,47.88333],"type":"Point"}
+}

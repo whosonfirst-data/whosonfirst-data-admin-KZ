@@ -1,0 +1,77 @@
+{
+  "id": 1243378393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.59385,50.74233,64.59385,50.74233",
+    "geom:latitude":50.74233,
+    "geom:longitude":64.59385,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Qarasu",
+    "gn:country_code":"KZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523154,
+    "gn:latitude":50.74233,
+    "gn:longitude":64.59385,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Qaras\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qaras\u016b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0441\u0443"
+    ],
+    "name:und_x_variant":[
+        "Karasu",
+        "Qaras\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523154
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"9b78a34d606989b65a160ddaa95c2e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785513,
+            "locality_id":1243378393,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1243378393,
+    "wof:lastmodified":1537659785,
+    "wof:name":"Qarasu",
+    "wof:parent_id":1108785513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.59385,
+    50.74233,
+    64.59385,
+    50.74233
+],
+  "geometry": {"coordinates":[64.59385,50.74233],"type":"Point"}
+}

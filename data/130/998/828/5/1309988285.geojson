@@ -1,0 +1,79 @@
+{
+  "id": 1309988285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.53814,53.84029,68.53814,53.84029",
+    "geom:latitude":53.84029,
+    "geom:longitude":68.53814,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dzhambul",
+    "gn:country_code":"KZ",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1532259,
+    "gn:latitude":53.84029,
+    "gn:longitude":68.53814,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Dzhambul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Gornoe"
+    ],
+    "name:kaz_x_variant":[
+        "\u0413\u043e\u0440\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0431\u0443\u043b"
+    ],
+    "name:und_x_variant":[
+        "Gornoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1532259
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"34090d1fdd479f2c9d2d7566b8cd716b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785563,
+            "locality_id":1309988285,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1309988285,
+    "wof:lastmodified":1537659963,
+    "wof:name":"Dzhambul",
+    "wof:parent_id":1108785563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.53814,
+    53.84029,
+    68.53814,
+    53.84029
+],
+  "geometry": {"coordinates":[68.53814,53.84029],"type":"Point"}
+}

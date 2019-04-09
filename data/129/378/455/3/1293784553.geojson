@@ -1,0 +1,71 @@
+{
+  "id": 1293784553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.00498,49.28681,58.00498,49.28681",
+    "geom:latitude":49.28681,
+    "geom:longitude":58.00498,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mikhaylovka",
+    "gn:country_code":"KZ",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608827,
+    "gn:latitude":49.28681,
+    "gn:longitude":58.00498,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Mikhaylovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mikhaylovskiy",
+        "Mikhaylovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608827
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d7dd78d04d02cb976c3151255afc6101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785725,
+            "locality_id":1293784553,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1293784553,
+    "wof:lastmodified":1537659390,
+    "wof:name":"Mikhaylovka",
+    "wof:parent_id":1108785725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.00498,
+    49.28681,
+    58.00498,
+    49.28681
+],
+  "geometry": {"coordinates":[58.00498,49.28681],"type":"Point"}
+}

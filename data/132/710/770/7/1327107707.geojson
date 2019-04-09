@@ -1,0 +1,76 @@
+{
+  "id": 1327107707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.15913,48.24186,81.15913,48.24186",
+    "geom:latitude":48.24186,
+    "geom:longitude":81.15913,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Issary",
+    "gn:country_code":"KZ",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527426,
+    "gn:latitude":48.24186,
+    "gn:longitude":81.15913,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Issary",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u012aissary"
+    ],
+    "name:kaz_x_variant":[
+        "\u0418\u0456\u0441\u0441\u0430\u0440\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u0441\u0430\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527426
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"562ceb209bf0254affcd8431b78f8f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785459,
+            "locality_id":1327107707,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1327107707,
+    "wof:lastmodified":1537660188,
+    "wof:name":"Issary",
+    "wof:parent_id":1108785459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.15913,
+    48.24186,
+    81.15913,
+    48.24186
+],
+  "geometry": {"coordinates":[81.15913,48.24186],"type":"Point"}
+}

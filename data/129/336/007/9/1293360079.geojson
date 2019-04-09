@@ -1,0 +1,79 @@
+{
+  "id": 1293360079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.51275,54.29601,70.51275,54.29601",
+    "geom:latitude":54.29601,
+    "geom:longitude":70.51275,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Maybalyk",
+    "gn:country_code":"KZ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1531138,
+    "gn:latitude":54.29601,
+    "gn:longitude":70.51275,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Maybalyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maybalyq"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0439\u0431\u0430\u043b\u044b\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0439\u0431\u0430\u043b\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Maybalyq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1531138
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1f61f33014678298bfe32a54ec23eb6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785353,
+            "locality_id":1293360079,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1293360079,
+    "wof:lastmodified":1537659955,
+    "wof:name":"Maybalyk",
+    "wof:parent_id":1108785353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.51275,
+    54.29601,
+    70.51275,
+    54.29601
+],
+  "geometry": {"coordinates":[70.51275,54.29601],"type":"Point"}
+}

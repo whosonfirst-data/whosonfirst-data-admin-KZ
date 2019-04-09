@@ -1,0 +1,82 @@
+{
+  "id": 1293562281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.12492,50.2335,82.12492,50.2335",
+    "geom:latitude":50.2335,
+    "geom:longitude":82.12492,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Beryozovka",
+    "gn:country_code":"KZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525448,
+    "gn:latitude":50.2335,
+    "gn:longitude":82.12492,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Beryozovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ber\u00ebzovka"
+    ],
+    "name:kaz_x_preferred":[
+        "Beryozovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u0440\u0451\u0437\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0437\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ber\u00ebzovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525448
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"6438e05893a93d0472b7d27e6e697609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785307,
+            "locality_id":1293562281,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293562281,
+    "wof:lastmodified":1537659876,
+    "wof:name":"Beryozovka",
+    "wof:parent_id":1108785307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.12491999999997,
+    50.2335,
+    82.12491999999997,
+    50.2335
+],
+  "geometry": {"coordinates":[82.12491999999997,50.2335],"type":"Point"}
+}

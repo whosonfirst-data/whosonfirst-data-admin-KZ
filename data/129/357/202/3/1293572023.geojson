@@ -1,0 +1,73 @@
+{
+  "id": 1293572023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.56802,50.18075,82.56802,50.18075",
+    "geom:latitude":50.18075,
+    "geom:longitude":82.56802,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Planidovka",
+    "gn:country_code":"KZ",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510250,
+    "gn:latitude":50.18075,
+    "gn:longitude":82.56802,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Planidovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Plan\u012bdovka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u043b\u0430\u043d\u0438\u0434\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510250
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b23489dfc88b9fb46cef5cce0e0d797a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785307,
+            "locality_id":1293572023,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1293572023,
+    "wof:lastmodified":1537660179,
+    "wof:name":"Planidovka",
+    "wof:parent_id":1108785307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.56801999999998,
+    50.18075,
+    82.56801999999998,
+    50.18075
+],
+  "geometry": {"coordinates":[82.56801999999998,50.18075],"type":"Point"}
+}

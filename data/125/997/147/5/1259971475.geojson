@@ -1,0 +1,78 @@
+{
+  "id": 1259971475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.79258,49.0928,49.79258,49.0928",
+    "geom:latitude":49.0928,
+    "geom:longitude":49.79258,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zhanazhol",
+    "gn:country_code":"KZ",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608814,
+    "gn:latitude":49.0928,
+    "gn:longitude":49.79258,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zhanazhol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhanazhol"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u0438\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mokrinskiy",
+        "Mokrinskoye",
+        "Zhanazhol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608814
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"52f7bfe6dc3cbda241f868f5487ec601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785647,
+            "locality_id":1259971475,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1259971475,
+    "wof:lastmodified":1537659389,
+    "wof:name":"Zhanazhol",
+    "wof:parent_id":1108785647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.79258,
+    49.0928,
+    49.79258,
+    49.0928
+],
+  "geometry": {"coordinates":[49.79258,49.0928],"type":"Point"}
+}

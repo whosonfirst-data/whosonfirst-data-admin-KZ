@@ -1,0 +1,76 @@
+{
+  "id": 1276967645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.11342,52.99013,74.11342,52.99013",
+    "geom:latitude":52.99013,
+    "geom:longitude":74.11342,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ferma Nomer Dva Sovkhoza Seletinskiy",
+    "gn:country_code":"KZ",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1533760,
+    "gn:latitude":52.99013,
+    "gn:longitude":74.11342,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Ferma Nomer Dva Sovkhoza Seletinskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Bulanbay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u04b1\u043b\u0430\u043d\u0431\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u043c\u0430 \u041d\u043e\u043c\u0435\u0440 \u0414\u0432\u0430 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u0421\u0435\u043b\u0435\u0442\u0438\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1533760
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"4ecd16bf8ce006d6c315cb63319269bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1276967645,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1276967645,
+    "wof:lastmodified":1537659979,
+    "wof:name":"Ferma Nomer Dva Sovkhoza Seletinskiy",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.11341999999998,
+    52.99013000000001,
+    74.11341999999998,
+    52.99013000000001
+],
+  "geometry": {"coordinates":[74.11341999999998,52.99013000000001],"type":"Point"}
+}

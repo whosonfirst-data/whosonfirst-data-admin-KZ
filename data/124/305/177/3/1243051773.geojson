@@ -1,0 +1,83 @@
+{
+  "id": 1243051773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.16093,43.78414,69.16093,43.78414",
+    "geom:latitude":43.78414,
+    "geom:longitude":69.16093,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhetkinshek",
+    "gn:country_code":"KZ",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10427244,
+    "gn:latitude":43.78414,
+    "gn:longitude":69.16093,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Zhetkinshek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zhetkinshek"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0435\u0442\u043a\u0456\u043d\u0448\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u0442\u043a\u0435\u043d\u0448\u0435\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u044e\u0440\u043e\u043a\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zhetkenshek",
+        "Byurokchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10427244
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"751fb31c8c5fadc7280581eff36c8c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785599,
+            "locality_id":1243051773,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1243051773,
+    "wof:lastmodified":1537660048,
+    "wof:name":"Zhetkinshek",
+    "wof:parent_id":1108785599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.16093000000001,
+    43.78414,
+    69.16093000000001,
+    43.78414
+],
+  "geometry": {"coordinates":[69.16093000000001,43.78414],"type":"Point"}
+}

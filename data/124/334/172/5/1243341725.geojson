@@ -1,0 +1,75 @@
+{
+  "id": 1243341725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.65397,53.12593,74.65397,53.12593",
+    "geom:latitude":53.12593,
+    "geom:longitude":74.65397,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kornilovka",
+    "gn:country_code":"KZ",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522251,
+    "gn:latitude":53.12593,
+    "gn:longitude":74.65397,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Kornilovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u0438\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kornilovskoye",
+        "Korn\u012blovka",
+        "Kornilovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522251
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"70618b397d0907d726e0857bfb51a551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785679,
+            "locality_id":1243341725,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1243341725,
+    "wof:lastmodified":1537659750,
+    "wof:name":"Kornilovka",
+    "wof:parent_id":1108785679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.65397,
+    53.12593,
+    74.65397,
+    53.12593
+],
+  "geometry": {"coordinates":[74.65397,53.12593],"type":"Point"}
+}

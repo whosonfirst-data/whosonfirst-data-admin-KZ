@@ -1,0 +1,70 @@
+{
+  "id": 1344174747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.36612,44.43273,78.36612,44.43273",
+    "geom:latitude":44.43273,
+    "geom:longitude":78.36612,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Krasnogorovka",
+    "gn:country_code":"KZ",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522027,
+    "gn:latitude":44.43273,
+    "gn:longitude":78.36612,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Krasnogorovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Krasnogorovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672921,
+        1108785423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522027
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e9f280bd65121f14df1938b1499199a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785423,
+            "locality_id":1344174747,
+            "region_id":85672921
+        }
+    ],
+    "wof:id":1344174747,
+    "wof:lastmodified":1537659738,
+    "wof:name":"Krasnogorovka",
+    "wof:parent_id":1108785423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.36612,
+    44.43273,
+    78.36612,
+    44.43273
+],
+  "geometry": {"coordinates":[78.36612,44.43273],"type":"Point"}
+}

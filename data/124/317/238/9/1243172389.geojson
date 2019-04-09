@@ -1,0 +1,77 @@
+{
+  "id": 1243172389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.53004,49.64885,56.53004,49.64885",
+    "geom:latitude":49.64885,
+    "geom:longitude":56.53004,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bolgarka",
+    "gn:country_code":"KZ",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610247,
+    "gn:latitude":49.64885,
+    "gn:longitude":56.53004,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Bolgarka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Aqtobe",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bolgarka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bolgarskiy",
+        "Bolgarka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672877,
+        1108785521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610247
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"db381d35e6a08a2185a8e858b413468e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785521,
+            "locality_id":1243172389,
+            "region_id":85672877
+        }
+    ],
+    "wof:id":1243172389,
+    "wof:lastmodified":1537659435,
+    "wof:name":"Bolgarka",
+    "wof:parent_id":1108785521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.53004,
+    49.64885,
+    56.53004,
+    49.64885
+],
+  "geometry": {"coordinates":[56.53004,49.64885],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360103189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.78333,51.33333,51.78333,51.33333",
+    "geom:latitude":51.33333,
+    "geom:longitude":51.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Galitsyn",
+    "gn:country_code":"KZ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609901,
+    "gn:latitude":51.33333,
+    "gn:longitude":51.78333,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Galitsyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609901
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5c1b9e9e487530f5cd668c29a4de7995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785331,
+            "locality_id":1360103189,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1360103189,
+    "wof:lastmodified":1536920138,
+    "wof:name":"Galitsyn",
+    "wof:parent_id":1108785331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.78333,
+    51.33333,
+    51.78333,
+    51.33333
+],
+  "geometry": {"coordinates":[51.78333,51.33333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243082111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.35734,50.36956,53.35734,50.36956",
+    "geom:latitude":50.36956,
+    "geom:longitude":53.35734,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zhanadym",
+    "gn:country_code":"KZ",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607642,
+    "gn:latitude":50.36956,
+    "gn:longitude":53.35734,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Zhanadym",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672893,
+        1108785495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607642
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e80b324adabe67d9ad70434674cfab34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785495,
+            "locality_id":1243082111,
+            "region_id":85672893
+        }
+    ],
+    "wof:id":1243082111,
+    "wof:lastmodified":1536832619,
+    "wof:name":"Zhanadym",
+    "wof:parent_id":1108785495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.35734,
+    50.36956,
+    53.35734,
+    50.36956
+],
+  "geometry": {"coordinates":[53.35734,50.36956],"type":"Point"}
+}

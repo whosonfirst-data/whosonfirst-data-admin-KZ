@@ -1,0 +1,70 @@
+{
+  "id": 1226314303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.4867,54.11033,63.4867,54.11033",
+    "geom:latitude":54.11033,
+    "geom:longitude":63.4867,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Usakovka",
+    "gn:country_code":"KZ",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11416633,
+    "gn:latitude":54.11033,
+    "gn:longitude":63.4867,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Usakovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u0430\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11416633
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"291be031861dd7cfee7d27fd128b106d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785335,
+            "locality_id":1226314303,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1226314303,
+    "wof:lastmodified":1537660143,
+    "wof:name":"Usakovka",
+    "wof:parent_id":1108785335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.4867,
+    54.11033000000001,
+    63.4867,
+    54.11033000000001
+],
+  "geometry": {"coordinates":[63.4867,54.11033000000001],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226454167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.97144,51.55003,72.97144,51.55003",
+    "geom:latitude":51.55003,
+    "geom:longitude":72.97144,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zvenigorodka",
+    "gn:country_code":"KZ",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516440,
+    "gn:latitude":51.55003,
+    "gn:longitude":72.97144,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Zvenigorodka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zven\u012bgorodka"
+    ],
+    "name:kaz_x_variant":[
+        "\u0417\u0432\u0435\u043d\u0438\u0433\u043e\u0440\u043e\u0434\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zvenigorodskoye",
+        "Zvenigorodka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516440
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"35646aa2cb5610d92d16326e8bcc3c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785619,
+            "locality_id":1226454167,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1226454167,
+    "wof:lastmodified":1537659469,
+    "wof:name":"Zvenigorodka",
+    "wof:parent_id":1108785619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.97144,
+    51.55003,
+    72.97144,
+    51.55003
+],
+  "geometry": {"coordinates":[72.97144,51.55003],"type":"Point"}
+}

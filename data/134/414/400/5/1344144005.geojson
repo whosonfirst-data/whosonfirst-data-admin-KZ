@@ -1,0 +1,70 @@
+{
+  "id": 1344144005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.88721,49.8952,72.88721,49.8952",
+    "geom:latitude":49.8952,
+    "geom:longitude":72.88721,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Timiryazevka",
+    "gn:country_code":"KZ",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475785,
+    "gn:latitude":49.8952,
+    "gn:longitude":72.88721,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Timiryazevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475785
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"242a9d6eb65d9b1b6c7b022446283376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1344144005,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1344144005,
+    "wof:lastmodified":1537660157,
+    "wof:name":"Timiryazevka",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.88721,
+    49.8952,
+    72.88721,
+    49.8952
+],
+  "geometry": {"coordinates":[72.88721,49.8952],"type":"Point"}
+}

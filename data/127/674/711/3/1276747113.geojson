@@ -1,0 +1,70 @@
+{
+  "id": 1276747113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.41352,40.94988,68.41352,40.94988",
+    "geom:latitude":40.94988,
+    "geom:longitude":68.41352,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Otdeleniye Nomer Dva",
+    "gn:country_code":"KZ",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10956171,
+    "gn:latitude":40.94988,
+    "gn:longitude":68.41352,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Otdeleniye Nomer Dva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u0414\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956171
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d13c23e14dd0dd9ea73f75dff4d7d5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785361,
+            "locality_id":1276747113,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1276747113,
+    "wof:lastmodified":1537660081,
+    "wof:name":"Otdeleniye Nomer Dva",
+    "wof:parent_id":1108785361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.41351999999999,
+    40.94988,
+    68.41351999999999,
+    40.94988
+],
+  "geometry": {"coordinates":[68.41351999999999,40.94988],"type":"Point"}
+}

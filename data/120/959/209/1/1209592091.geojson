@@ -1,0 +1,78 @@
+{
+  "id": 1209592091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.9849,54.31158,64.9849,54.31158",
+    "geom:latitude":54.31158,
+    "geom:longitude":64.9849,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Taysoygan",
+    "gn:country_code":"KZ",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1525909,
+    "gn:latitude":54.31158,
+    "gn:longitude":64.9849,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Taysoygan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Taysoygan"
+    ],
+    "name:kaz_x_preferred":[
+        "Taysoyghan"
+    ],
+    "name:kaz_x_variant":[
+        "\u0422\u0430\u0439\u0441\u043e\u0439\u0493\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u0441\u043e\u0439\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Aysagan",
+        "Aysugan",
+        "Taysoygan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1525909
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"18d1b34a3b0b23f94c1fd49f898216df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209592091
+        }
+    ],
+    "wof:id":1209592091,
+    "wof:lastmodified":1537659895,
+    "wof:name":"Taysoygan",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.9849,
+    54.31158000000001,
+    64.9849,
+    54.31158000000001
+],
+  "geometry": {"coordinates":[64.9849,54.31158000000001],"type":"Point"}
+}

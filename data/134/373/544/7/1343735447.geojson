@@ -1,0 +1,78 @@
+{
+  "id": 1343735447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.42624,49.21251,81.42624,49.21251",
+    "geom:latitude":49.21251,
+    "geom:longitude":81.42624,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Aqzhal",
+    "gn:country_code":"KZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526546,
+    "gn:latitude":49.21251,
+    "gn:longitude":81.42624,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Aqzhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aqzhal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0436\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Akdzhal",
+        "Akzhal",
+        "Aqzhal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526546
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"e2a061671b66c42e0ca1399ead432340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785467,
+            "locality_id":1343735447,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1343735447,
+    "wof:lastmodified":1537659918,
+    "wof:name":"Aqzhal",
+    "wof:parent_id":1108785467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.42624,
+    49.21251,
+    81.42624,
+    49.21251
+],
+  "geometry": {"coordinates":[81.42624000000001,49.21251],"type":"Point"}
+}

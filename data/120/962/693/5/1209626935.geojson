@@ -1,0 +1,74 @@
+{
+  "id": 1209626935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.49138,53.35628,69.49138,53.35628",
+    "geom:latitude":53.35628,
+    "geom:longitude":69.49138,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Stantsionnyy",
+    "gn:country_code":"KZ",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1518805,
+    "gn:latitude":53.35628,
+    "gn:longitude":69.49138,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Stantsionnyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Stants\u012bonnyy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u044b\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Stants\u012bonnyy",
+        "Stantsionnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1518805
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"27dc6d66644efbd21c2071d6b4581237",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209626935
+        }
+    ],
+    "wof:id":1209626935,
+    "wof:lastmodified":1537659577,
+    "wof:name":"Stantsionnyy",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.49138,
+    53.35628000000001,
+    69.49138,
+    53.35628000000001
+],
+  "geometry": {"coordinates":[69.49138000000001,53.35628000000001],"type":"Point"}
+}

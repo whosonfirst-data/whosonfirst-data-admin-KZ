@@ -1,0 +1,72 @@
+{
+  "id": 1209103773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.61667,47.86667,51.61667,47.86667",
+    "geom:latitude":47.86667,
+    "geom:longitude":51.61667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Karmanovo",
+    "gn:country_code":"KZ",
+    "gn:dem":-18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":609521,
+    "gn:latitude":47.86667,
+    "gn:longitude":51.61667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Karmanovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karmanovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Karmanovskaya",
+        "Karmanovo",
+        "Karmanov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":609521
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"124e7af918ea44e15f1f47407fc4f5fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209103773
+        }
+    ],
+    "wof:id":1209103773,
+    "wof:lastmodified":1537659414,
+    "wof:name":"Karmanovo",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.61667,
+    47.86667,
+    51.61667,
+    47.86667
+],
+  "geometry": {"coordinates":[51.61667,47.86667],"type":"Point"}
+}

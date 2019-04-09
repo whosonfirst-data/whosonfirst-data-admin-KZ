@@ -1,0 +1,79 @@
+{
+  "id": 1343437361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.08625,53.24892,64.08625,53.24892",
+    "geom:latitude":53.24892,
+    "geom:longitude":64.08625,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Shoqqaraghay",
+    "gn:country_code":"KZ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11508353,
+    "gn:latitude":53.24892,
+    "gn:longitude":64.08625,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shoqqaraghay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qyzylorda",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Shoqqaraghay"
+    ],
+    "name:kaz_x_variant":[
+        "\u0428\u043e\u049b\u049b\u0430\u0440\u0430\u0493\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043a\u043a\u0430\u0440\u0430\u0433\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Shokkaragay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672879,
+        1108785665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11508353
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"068e66303b8a475c530b2e3c6e8fdba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785665,
+            "locality_id":1343437361,
+            "region_id":85672879
+        }
+    ],
+    "wof:id":1343437361,
+    "wof:lastmodified":1537660176,
+    "wof:name":"Shoqqaraghay",
+    "wof:parent_id":1108785665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.08625,
+    53.24892,
+    64.08625,
+    53.24892
+],
+  "geometry": {"coordinates":[64.08625000000001,53.24892],"type":"Point"}
+}

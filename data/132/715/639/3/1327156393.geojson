@@ -1,0 +1,67 @@
+{
+  "id": 1327156393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3,47.83333,48.3,47.83333",
+    "geom:latitude":47.83333,
+    "geom:longitude":48.3,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ortakshil",
+    "gn:country_code":"KZ",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608658,
+    "gn:latitude":47.83333,
+    "gn:longitude":48.3,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Ortakshil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Atyrau",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672889,
+        1108785299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608658
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"73a19ae1bf65a739a72295a98be2e3f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785299,
+            "locality_id":1327156393,
+            "region_id":85672889
+        }
+    ],
+    "wof:id":1327156393,
+    "wof:lastmodified":1537076266,
+    "wof:name":"Ortakshil",
+    "wof:parent_id":1108785299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3,
+    47.83333,
+    48.3,
+    47.83333
+],
+  "geometry": {"coordinates":[48.3,47.83333],"type":"Point"}
+}

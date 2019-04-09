@@ -1,0 +1,79 @@
+{
+  "id": 1226722593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.66205,54.83761,67.66205,54.83761",
+    "geom:latitude":54.83761,
+    "geom:longitude":67.66205,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Utkino",
+    "gn:country_code":"KZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1530377,
+    "gn:latitude":54.83761,
+    "gn:longitude":67.66205,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Utkino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Utkino"
+    ],
+    "name:kaz_x_preferred":[
+        "\u016atk\u012bno"
+    ],
+    "name:kaz_x_variant":[
+        "\u0423\u0442\u043a\u0438\u043d\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0442\u043a\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672907,
+        1108785565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1530377
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"50c47b233b93447b0bc62687e59717f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785565,
+            "locality_id":1226722593,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":1226722593,
+    "wof:lastmodified":1537659937,
+    "wof:name":"Utkino",
+    "wof:parent_id":1108785565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.66205,
+    54.83761,
+    67.66205,
+    54.83761
+],
+  "geometry": {"coordinates":[67.66204999999999,54.83761],"type":"Point"}
+}

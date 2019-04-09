@@ -1,0 +1,74 @@
+{
+  "id": 1276741219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.74975,51.2951,77.74975,51.2951",
+    "geom:latitude":51.2951,
+    "geom:longitude":77.74975,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kazakhstan",
+    "gn:country_code":"KZ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1522870,
+    "gn:latitude":51.2951,
+    "gn:longitude":77.74975,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kazakhstan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Chapayevskiy",
+        "Kazakhstan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1522870
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"d1cb9de535d58f4f07cfb8e653f66049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785713,
+            "locality_id":1276741219,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1276741219,
+    "wof:lastmodified":1537659776,
+    "wof:name":"Kazakhstan",
+    "wof:parent_id":1108785713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.74975,
+    51.2951,
+    77.74975,
+    51.2951
+],
+  "geometry": {"coordinates":[77.74975000000001,51.2951],"type":"Point"}
+}

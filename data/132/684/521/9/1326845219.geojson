@@ -1,0 +1,67 @@
+{
+  "id": 1326845219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.45,47.88333,81.45,47.88333",
+    "geom:latitude":47.88333,
+    "geom:longitude":81.45,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ak-Zhaylyau",
+    "gn:country_code":"KZ",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526523,
+    "gn:latitude":47.88333,
+    "gn:longitude":81.45,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Ak-Zhaylyau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526523
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"a7c10d6b3699c99e169855cd27a29c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785459,
+            "locality_id":1326845219,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1326845219,
+    "wof:lastmodified":1537028734,
+    "wof:name":"Ak-Zhaylyau",
+    "wof:parent_id":1108785459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.45,
+    47.88333,
+    81.45,
+    47.88333
+],
+  "geometry": {"coordinates":[81.45,47.88333],"type":"Point"}
+}

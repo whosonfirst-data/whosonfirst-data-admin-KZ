@@ -1,0 +1,72 @@
+{
+  "id": 1310709327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.32673,51.54228,67.32673,51.54228",
+    "geom:latitude":51.54228,
+    "geom:longitude":67.32673,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Karakol'",
+    "gn:country_code":"KZ",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517167,
+    "gn:latitude":51.54228,
+    "gn:longitude":67.32673,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Karakol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yesil\u2019skiy Pervyy",
+        "Karakol\u2019sk",
+        "Karakol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672897,
+        1108785623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517167
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"12f16f485aa6b9b97b6980c669644632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785623,
+            "locality_id":1310709327,
+            "region_id":85672897
+        }
+    ],
+    "wof:id":1310709327,
+    "wof:lastmodified":1537659503,
+    "wof:name":"Karakol'",
+    "wof:parent_id":1108785623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.32673,
+    51.54228,
+    67.32673,
+    51.54228
+],
+  "geometry": {"coordinates":[67.32673,51.54228],"type":"Point"}
+}

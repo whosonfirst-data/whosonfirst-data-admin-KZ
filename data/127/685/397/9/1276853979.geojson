@@ -1,0 +1,67 @@
+{
+  "id": 1276853979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.72483,49.94892,82.72483,49.94892",
+    "geom:latitude":49.94892,
+    "geom:longitude":82.72483,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pitomnik",
+    "gn:country_code":"KZ",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1484618,
+    "gn:latitude":49.94892,
+    "gn:longitude":82.72483,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pitomnik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672915,
+        1108785307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1484618
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"63004aa76215fa5f4c83d506855d8459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785307,
+            "locality_id":1276853979,
+            "region_id":85672915
+        }
+    ],
+    "wof:id":1276853979,
+    "wof:lastmodified":1537072729,
+    "wof:name":"Pitomnik",
+    "wof:parent_id":1108785307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.72483000000003,
+    49.94892,
+    82.72483000000003,
+    49.94892
+],
+  "geometry": {"coordinates":[82.72483000000003,49.94892],"type":"Point"}
+}

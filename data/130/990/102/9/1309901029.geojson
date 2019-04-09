@@ -1,0 +1,76 @@
+{
+  "id": 1309901029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.13363,42.16282,68.13363,42.16282",
+    "geom:latitude":42.16282,
+    "geom:longitude":68.13363,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ferma Nomer Dva Sovkhoza Bairkum",
+    "gn:country_code":"KZ",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11119336,
+    "gn:latitude":42.16282,
+    "gn:longitude":68.13363,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Ferma Nomer Dva Sovkhoza Bairkum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Zh\u012bdeli"
+    ],
+    "name:kaz_x_variant":[
+        "\u0416\u0438\u0434\u0435\u043b\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u043c\u0430 \u041d\u043e\u043c\u0435\u0440 \u0414\u0432\u0430 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u0411\u0430\u0438\u0440\u043a\u0443\u043c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672927,
+        1108785581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11119336
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"c51f7ebb09c35bebb1314e4f53e95933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785581,
+            "locality_id":1309901029,
+            "region_id":85672927
+        }
+    ],
+    "wof:id":1309901029,
+    "wof:lastmodified":1537660106,
+    "wof:name":"Ferma Nomer Dva Sovkhoza Bairkum",
+    "wof:parent_id":1108785581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.13363000000001,
+    42.16282,
+    68.13363000000001,
+    42.16282
+],
+  "geometry": {"coordinates":[68.13363000000001,42.16282],"type":"Point"}
+}

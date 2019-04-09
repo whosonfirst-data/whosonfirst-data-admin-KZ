@@ -1,0 +1,82 @@
+{
+  "id": 1326517265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.38766,50.01362,73.38766,50.01362",
+    "geom:latitude":50.01362,
+    "geom:longitude":73.38766,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bayqadam",
+    "gn:country_code":"KZ",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1520928,
+    "gn:latitude":50.01362,
+    "gn:longitude":73.38766,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Bayqadam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Bayqadam"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0430\u0439\u049b\u0430\u0434\u0430\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u044c\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Min\u2019kovo",
+        "Min\u2019kovskiy",
+        "Min\u2019kovskoye",
+        "Min\u2019kovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672905,
+        1108785651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1520928
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"5cd28faeb64dc360582a27f173f32b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785651,
+            "locality_id":1326517265,
+            "region_id":85672905
+        }
+    ],
+    "wof:id":1326517265,
+    "wof:lastmodified":1537659688,
+    "wof:name":"Bayqadam",
+    "wof:parent_id":1108785651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.38766,
+    50.01362,
+    73.38766,
+    50.01362
+],
+  "geometry": {"coordinates":[73.38766,50.01362],"type":"Point"}
+}

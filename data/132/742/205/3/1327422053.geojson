@@ -1,0 +1,74 @@
+{
+  "id": 1327422053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.67714,52.33903,78.67714,52.33903",
+    "geom:latitude":52.33903,
+    "geom:longitude":78.67714,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Aleksandrovka",
+    "gn:country_code":"KZ",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1526461,
+    "gn:latitude":52.33903,
+    "gn:longitude":78.67714,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Aleksandrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Aleksandrovskiy",
+        "Aleksandrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632307,
+        85672911,
+        1108785615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1526461
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"1c2055092a981d9dab3c9cf1887e3f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "county_id":1108785615,
+            "locality_id":1327422053,
+            "region_id":85672911
+        }
+    ],
+    "wof:id":1327422053,
+    "wof:lastmodified":1537659915,
+    "wof:name":"Aleksandrovka",
+    "wof:parent_id":1108785615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.67714000000002,
+    52.33903,
+    78.67714000000002,
+    52.33903
+],
+  "geometry": {"coordinates":[78.67714000000002,52.33903],"type":"Point"}
+}

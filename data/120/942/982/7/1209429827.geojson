@@ -1,0 +1,61 @@
+{
+  "id": 1209429827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.8,50.98333,51.8,50.98333",
+    "geom:latitude":50.98333,
+    "geom:longitude":51.8,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chubarkul'",
+    "gn:country_code":"KZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610078,
+    "gn:latitude":50.98333,
+    "gn:longitude":51.8,
+    "gn:modification_date":"1994-03-01",
+    "gn:name":"Chubarkul\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Oral",
+    "iso:country":"KZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610078
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"b64f7e1f5857307c7507a5631ed9ed31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632307,
+            "locality_id":1209429827
+        }
+    ],
+    "wof:id":1209429827,
+    "wof:lastmodified":1536287268,
+    "wof:name":"Chubarkul'",
+    "wof:parent_id":85632307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.8,
+    50.98333,
+    51.8,
+    50.98333
+],
+  "geometry": {"coordinates":[51.8,50.98333],"type":"Point"}
+}
