@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.29334,
-    "geom:area_square_m":2641651750.624421,
+    "geom:area_square_m":2641651750.624557,
     "geom:bbox":"77.0067993395,42.9704552847,78.2901503119,43.7763269339",
     "geom:latitude":43.2564,
     "geom:longitude":77.408691,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Talgar Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":43.141383,
     "lbl:longitude":77.345255,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -37,6 +43,9 @@
         "Talgar District"
     ],
     "name:eng_x_preferred":[
+        "Talgar"
+    ],
+    "name:eng_x_variant":[
         "Talgar District"
     ],
     "name:fre_x_preferred":[
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1108785421,
-    "wof:lastmodified":1553816512,
+    "wof:lastmodified":1555220448,
     "wof:name":"Talgarskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

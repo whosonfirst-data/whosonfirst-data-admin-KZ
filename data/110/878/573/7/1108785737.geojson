@@ -10,6 +10,12 @@
     "geom:latitude":42.753942,
     "geom:longitude":70.710325,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Zhualynskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":42.770586,
     "lbl:longitude":70.617356,
     "meso:adm1_loc":"\u0416\u0430\u043c\u0431\u044b\u043b\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108785737,
-    "wof:lastmodified":1536615813,
+    "wof:lastmodified":1553718804,
     "wof:name":"Zhualynskiy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

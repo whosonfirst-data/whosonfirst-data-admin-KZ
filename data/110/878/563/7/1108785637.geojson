@@ -10,6 +10,12 @@
     "geom:latitude":46.810538,
     "geom:longitude":54.245296,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Zhylyoyskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":46.977965,
     "lbl:longitude":54.401202,
     "meso:adm1_loc":"\u0410\u0442\u044b\u0440\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108785637,
-    "wof:lastmodified":1536615809,
+    "wof:lastmodified":1553718801,
     "wof:name":"Zhylyoyskiy",
     "wof:parent_id":85672889,
     "wof:placetype":"county",

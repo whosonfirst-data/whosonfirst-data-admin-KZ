@@ -10,6 +10,12 @@
     "geom:latitude":45.256695,
     "geom:longitude":62.141119,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Kazalinskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":45.204262,
     "lbl:longitude":62.165271,
     "meso:adm1_loc":"\u041a\u044b\u0437\u044b\u043b\u043e\u0440\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108785613,
-    "wof:lastmodified":1536615808,
+    "wof:lastmodified":1553718800,
     "wof:name":"Kazalinskiy",
     "wof:parent_id":85672885,
     "wof:placetype":"county",

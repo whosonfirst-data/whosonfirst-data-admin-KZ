@@ -10,6 +10,12 @@
     "geom:latitude":53.091074,
     "geom:longitude":64.600708,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Altynsarinskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":53.059456,
     "lbl:longitude":64.657996,
     "meso:adm1_loc":"\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108785531,
-    "wof:lastmodified":1536615805,
+    "wof:lastmodified":1553718797,
     "wof:name":"Altynsarinskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

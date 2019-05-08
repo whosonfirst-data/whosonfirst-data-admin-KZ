@@ -10,6 +10,12 @@
     "geom:latitude":50.590038,
     "geom:longitude":73.008061,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Osakarovskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":50.573515,
     "lbl:longitude":72.989858,
     "meso:adm1_loc":"\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108785653,
-    "wof:lastmodified":1536615809,
+    "wof:lastmodified":1553718801,
     "wof:name":"Osakarovskiy",
     "wof:parent_id":85672905,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":53.698771,
     "geom:longitude":62.866533,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Fyodorovskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":53.760798,
     "lbl:longitude":62.810614,
     "meso:adm1_loc":"\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1108785335,
-    "wof:lastmodified":1536615796,
+    "wof:lastmodified":1553718790,
     "wof:name":"Fyodorovskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

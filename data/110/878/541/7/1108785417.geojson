@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.828204,
-    "geom:area_square_m":24141568341.126183,
+    "geom:area_square_m":24141568341.124405,
     "geom:bbox":"77.4657573159,45.027658,80.8060389289,47.2890267345",
     "geom:latitude":46.341594,
     "geom:longitude":78.988819,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Sarkandskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":46.472468,
     "lbl:longitude":79.102599,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108785417,
-    "wof:lastmodified":1553816512,
+    "wof:lastmodified":1555037222,
     "wof:name":"Sarkandskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

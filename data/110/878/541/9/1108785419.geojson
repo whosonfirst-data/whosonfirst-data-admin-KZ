@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.222584,
-    "geom:area_square_m":2007148614.959273,
+    "geom:area_square_m":2007148614.959561,
     "geom:bbox":"76.2803107589,42.904121,77.1117843665,43.6009507126",
     "geom:latitude":43.175006,
     "geom:longitude":76.655801,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Karasayskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":43.147282,
     "lbl:longitude":76.627508,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1108785419,
-    "wof:lastmodified":1553816512,
+    "wof:lastmodified":1555037221,
     "wof:name":"Karasayskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

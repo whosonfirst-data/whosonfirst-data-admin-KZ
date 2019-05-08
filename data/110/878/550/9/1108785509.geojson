@@ -10,6 +10,12 @@
     "geom:latitude":47.656122,
     "geom:longitude":72.873189,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Shetskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":48.235991,
     "lbl:longitude":73.008065,
     "meso:adm1_loc":"\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108785509,
-    "wof:lastmodified":1536615803,
+    "wof:lastmodified":1553718796,
     "wof:name":"Shetskiy",
     "wof:parent_id":85672905,
     "wof:placetype":"county",

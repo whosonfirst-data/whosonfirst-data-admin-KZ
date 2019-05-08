@@ -10,6 +10,12 @@
     "geom:latitude":41.934623,
     "geom:longitude":68.509595,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Otrarskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":41.912332,
     "lbl:longitude":68.509588,
     "meso:adm1_loc":"\u042e\u0436\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1108785691,
-    "wof:lastmodified":1536615811,
+    "wof:lastmodified":1553718802,
     "wof:name":"Otrarskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

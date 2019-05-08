@@ -10,6 +10,12 @@
     "geom:latitude":43.214961,
     "geom:longitude":76.941006,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Almaty City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":43.235937,
     "lbl:longitude":76.910369,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u044b \u0433.\u0430.",
@@ -77,6 +83,9 @@
     ],
     "name:eng_x_preferred":[
         "Almaty"
+    ],
+    "name:eng_x_variant":[
+        "Almaty City"
     ],
     "name:epo_x_preferred":[
         "Provinco Almato"
@@ -254,10 +263,11 @@
         }
     ],
     "wof:id":1108785435,
-    "wof:lastmodified":1544048196,
-    "wof:name":"Almaty City",
+    "wof:lastmodified":1554495749,
+    "wof:name":"Almaty",
     "wof:parent_id":85672937,
     "wof:placetype":"county",
+    "wof:placetype_local":"city",
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:superseded_by":[],
     "wof:supersedes":[],

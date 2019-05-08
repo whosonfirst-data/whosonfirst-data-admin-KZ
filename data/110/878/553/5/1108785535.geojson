@@ -10,6 +10,12 @@
     "geom:latitude":52.53954,
     "geom:longitude":62.793357,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Taranovskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":52.535733,
     "lbl:longitude":62.886657,
     "meso:adm1_loc":"\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108785535,
-    "wof:lastmodified":1536615805,
+    "wof:lastmodified":1553718797,
     "wof:name":"Taranovskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

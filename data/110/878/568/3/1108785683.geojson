@@ -10,6 +10,12 @@
     "geom:latitude":53.755945,
     "geom:longitude":71.708553,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Akzharskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":53.679968,
     "lbl:longitude":71.771889,
     "meso:adm1_loc":"\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108785683,
-    "wof:lastmodified":1536615810,
+    "wof:lastmodified":1553718803,
     "wof:name":"Akzharskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":44.263761,
     "geom:longitude":79.769199,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Panfilovskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":44.307593,
     "lbl:longitude":79.836639,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108785409,
-    "wof:lastmodified":1536615799,
+    "wof:lastmodified":1553718792,
     "wof:name":"Panfilovskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

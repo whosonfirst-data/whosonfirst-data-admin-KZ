@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.775108,
-    "geom:area_square_m":23095926896.856419,
+    "geom:area_square_m":23095926896.856636,
     "geom:bbox":"81.3971445449,46.966942,84.405715511,48.4987668604",
     "geom:latitude":47.695275,
     "geom:longitude":82.866496,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Tarbagatayskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":47.681512,
     "lbl:longitude":82.895077,
     "meso:adm1_loc":"\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108785469,
-    "wof:lastmodified":1553816512,
+    "wof:lastmodified":1555037219,
     "wof:name":"Tarbagatayskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

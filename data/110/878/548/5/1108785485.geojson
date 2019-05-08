@@ -10,6 +10,12 @@
     "geom:latitude":44.937559,
     "geom:longitude":72.71785,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Moyynkumskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":44.931404,
     "lbl:longitude":72.753779,
     "meso:adm1_loc":"\u0416\u0430\u043c\u0431\u044b\u043b\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108785485,
-    "wof:lastmodified":1536615802,
+    "wof:lastmodified":1553718794,
     "wof:name":"Moyynkumskiy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

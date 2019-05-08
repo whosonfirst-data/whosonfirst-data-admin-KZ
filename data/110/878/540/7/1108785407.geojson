@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.461828,
-    "geom:area_square_m":12662584093.817635,
+    "geom:area_square_m":12662584093.817299,
     "geom:bbox":"77.7884665148,44.9349382908,80.2290205814,46.2557631",
     "geom:latitude":45.52987,
     "geom:longitude":79.036837,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Aksu Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":45.446732,
     "lbl:longitude":79.156736,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -37,6 +43,9 @@
         "Aksu District"
     ],
     "name:eng_x_preferred":[
+        "Aksu"
+    ],
+    "name:eng_x_variant":[
         "Aksu District"
     ],
     "name:fre_x_preferred":[
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1108785407,
-    "wof:lastmodified":1553816511,
+    "wof:lastmodified":1555220448,
     "wof:name":"Aksuskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

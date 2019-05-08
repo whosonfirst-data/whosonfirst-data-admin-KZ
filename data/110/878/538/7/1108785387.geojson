@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.387935,
-    "geom:area_square_m":10690725729.109364,
+    "geom:area_square_m":10690725729.109261,
     "geom:bbox":"67.755799354,50.6168336983,69.3332971302,52.2131463007",
     "geom:latitude":51.468604,
     "geom:longitude":68.458759,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Atbasarskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":51.547401,
     "lbl:longitude":68.446818,
     "meso:adm1_loc":"\u0410\u043a\u043c\u043e\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108785387,
-    "wof:lastmodified":1553816511,
+    "wof:lastmodified":1555037224,
     "wof:name":"Atbasarskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

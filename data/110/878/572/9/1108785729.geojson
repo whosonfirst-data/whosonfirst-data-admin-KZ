@@ -10,6 +10,12 @@
     "geom:latitude":46.84964,
     "geom:longitude":81.528614,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Urdzharskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":46.939141,
     "lbl:longitude":81.552644,
     "meso:adm1_loc":"\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108785729,
-    "wof:lastmodified":1536615813,
+    "wof:lastmodified":1553718805,
     "wof:name":"Urdzharskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":52.737457,
     "geom:longitude":75.229226,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Aktogayskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":52.72916,
     "lbl:longitude":75.374339,
     "meso:adm1_loc":"\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108785553,
-    "wof:lastmodified":1536615805,
+    "wof:lastmodified":1553718797,
     "wof:name":"Aktogayskiy",
     "wof:parent_id":85672911,
     "wof:placetype":"county",

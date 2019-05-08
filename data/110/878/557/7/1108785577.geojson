@@ -10,6 +10,12 @@
     "geom:latitude":53.821542,
     "geom:longitude":69.981875,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Taiynshinskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":53.812104,
     "lbl:longitude":70.320438,
     "meso:adm1_loc":"\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108785577,
-    "wof:lastmodified":1536615806,
+    "wof:lastmodified":1553718798,
     "wof:name":"Taiynshinskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

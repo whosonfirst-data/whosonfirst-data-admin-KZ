@@ -10,6 +10,12 @@
     "geom:latitude":49.694415,
     "geom:longitude":82.402124,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Ulan Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":49.773337,
     "lbl:longitude":82.191307,
     "meso:adm1_loc":"\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -37,6 +43,9 @@
         "Ulan District"
     ],
     "name:eng_x_preferred":[
+        "Ulan"
+    ],
+    "name:eng_x_variant":[
         "Ulan District"
     ],
     "name:fre_x_preferred":[
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1108785473,
-    "wof:lastmodified":1536615802,
+    "wof:lastmodified":1555220448,
     "wof:name":"Ulanskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

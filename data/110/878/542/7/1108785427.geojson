@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.97032,
-    "geom:area_square_m":8702733215.945036,
+    "geom:area_square_m":8702733215.945055,
     "geom:bbox":"77.1396806,43.1231805216,79.1309739446,43.8499934405",
     "geom:latitude":43.502899,
     "geom:longitude":78.161884,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Enbekshikazakhskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":43.497865,
     "lbl:longitude":78.242265,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108785427,
-    "wof:lastmodified":1553816512,
+    "wof:lastmodified":1555037220,
     "wof:name":"Enbekshikazakhskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

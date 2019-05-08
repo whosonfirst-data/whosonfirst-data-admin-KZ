@@ -10,6 +10,12 @@
     "geom:latitude":51.004667,
     "geom:longitude":79.101149,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Beskaragayskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":50.989685,
     "lbl:longitude":79.164072,
     "meso:adm1_loc":"\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108785639,
-    "wof:lastmodified":1536615809,
+    "wof:lastmodified":1553718800,
     "wof:name":"Beskaragayskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

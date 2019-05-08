@@ -10,6 +10,12 @@
     "geom:latitude":44.241581,
     "geom:longitude":66.377699,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Shieli Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":44.464662,
     "lbl:longitude":66.465277,
     "meso:adm1_loc":"\u041a\u044b\u0437\u044b\u043b\u043e\u0440\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108785675,
-    "wof:lastmodified":1544048186,
+    "wof:lastmodified":1555220450,
     "wof:name":"Shieli",
     "wof:parent_id":85672885,
     "wof:placetype":"county",

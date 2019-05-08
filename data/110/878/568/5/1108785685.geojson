@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.645054,
-    "geom:area_square_m":4638938389.937101,
+    "geom:area_square_m":4638938389.936919,
     "geom:bbox":"68.9448506708,53.9659220097,70.155918851,54.9334450807",
     "geom:latitude":54.436836,
     "geom:longitude":69.588467,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Akkayin Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":54.4,
     "lbl:longitude":69.680192,
     "meso:adm1_loc":"\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -37,6 +43,9 @@
         "Akkayin District"
     ],
     "name:eng_x_preferred":[
+        "Akkayin"
+    ],
+    "name:eng_x_variant":[
         "Akkayin District"
     ],
     "name:fre_x_preferred":[
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1108785685,
-    "wof:lastmodified":1514469406,
+    "wof:lastmodified":1555220450,
     "wof:name":"Akkayin",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

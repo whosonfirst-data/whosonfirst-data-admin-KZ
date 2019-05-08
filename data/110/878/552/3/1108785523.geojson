@@ -10,6 +10,12 @@
     "geom:latitude":50.18468,
     "geom:longitude":58.832402,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Khromtauskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":50.176195,
     "lbl:longitude":58.851016,
     "meso:adm1_loc":"\u0410\u043a\u0442\u044e\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108785523,
-    "wof:lastmodified":1536615804,
+    "wof:lastmodified":1553718796,
     "wof:name":"Khromtauskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

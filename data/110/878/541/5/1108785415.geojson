@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.704999,
-    "geom:area_square_m":23326665313.87299,
+    "geom:area_square_m":23326665313.873119,
     "geom:bbox":"76.1769656267,44.9696006693,78.4697777643,46.6350471562",
     "geom:latitude":45.779391,
     "geom:longitude":77.18237,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Karatal`skiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":45.81062,
     "lbl:longitude":77.089515,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108785415,
-    "wof:lastmodified":1553816511,
+    "wof:lastmodified":1555037222,
     "wof:name":"Karatal`skiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

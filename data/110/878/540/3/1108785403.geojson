@@ -10,6 +10,12 @@
     "geom:latitude":45.582988,
     "geom:longitude":75.357109,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Balkhashskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":45.742133,
     "lbl:longitude":75.246769,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108785403,
-    "wof:lastmodified":1536615798,
+    "wof:lastmodified":1553718791,
     "wof:name":"Balkhashskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

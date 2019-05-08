@@ -10,6 +10,12 @@
     "geom:latitude":52.379387,
     "geom:longitude":68.682738,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Sandyktauskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":52.420159,
     "lbl:longitude":68.69604,
     "meso:adm1_loc":"\u0410\u043a\u043c\u043e\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108785397,
-    "wof:lastmodified":1536615798,
+    "wof:lastmodified":1553718790,
     "wof:name":"Sandyktauskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

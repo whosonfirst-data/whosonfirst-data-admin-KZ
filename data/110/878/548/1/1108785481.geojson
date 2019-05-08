@@ -10,6 +10,12 @@
     "geom:latitude":43.913657,
     "geom:longitude":75.640559,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Zhambylskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":43.85003,
     "lbl:longitude":75.656603,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -30,6 +36,9 @@
     "mps:longitude":75.656603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Zhambylskiy"
+    ],
     "name:und_x_variant":[
         "\u0416\u0430\u043c\u0431\u044b\u043b\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1108785481,
-    "wof:lastmodified":1536615802,
+    "wof:lastmodified":1555220449,
     "wof:name":"Zhambylskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":47.41033,
     "geom:longitude":48.818822,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Kurmangazy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":47.472143,
     "lbl:longitude":49.080116,
     "meso:adm1_loc":"\u0410\u0442\u044b\u0440\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -40,6 +46,9 @@
         "Kurmangazy District"
     ],
     "name:eng_x_preferred":[
+        "Kurmangazy"
+    ],
+    "name:eng_x_variant":[
         "Kurmangazy District"
     ],
     "name:fre_x_preferred":[
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1108785299,
-    "wof:lastmodified":1536615793,
+    "wof:lastmodified":1555220447,
     "wof:name":"Kurmangazinskiy",
     "wof:parent_id":85672889,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":49.667949,
     "geom:longitude":53.511062,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Karatobinskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":49.497315,
     "lbl:longitude":53.247463,
     "meso:adm1_loc":"\u0417\u0430\u043f\u0430\u0434\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108785493,
-    "wof:lastmodified":1536615803,
+    "wof:lastmodified":1553718794,
     "wof:name":"Karatobinskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

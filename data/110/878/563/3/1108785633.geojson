@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.183871,
-    "geom:area_square_m":52849885135.768768,
+    "geom:area_square_m":52849885135.767822,
     "geom:bbox":"58.9295167526,44.8153273373,62.9402940804,47.8412513522",
     "geom:latitude":46.273157,
     "geom:longitude":60.876327,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Aral`skiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":45.966163,
     "lbl:longitude":60.408838,
     "meso:adm1_loc":"\u041a\u044b\u0437\u044b\u043b\u043e\u0440\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108785633,
-    "wof:lastmodified":1553816513,
+    "wof:lastmodified":1555037218,
     "wof:name":"Aral`skiy",
     "wof:parent_id":85672885,
     "wof:placetype":"county",

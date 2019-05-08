@@ -10,6 +10,12 @@
     "geom:latitude":51.025711,
     "geom:longitude":70.987635,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Tselinogradskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":51.123294,
     "lbl:longitude":70.880899,
     "meso:adm1_loc":"\u0410\u043a\u043c\u043e\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108785625,
-    "wof:lastmodified":1536615808,
+    "wof:lastmodified":1553718800,
     "wof:name":"Tselinogradskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

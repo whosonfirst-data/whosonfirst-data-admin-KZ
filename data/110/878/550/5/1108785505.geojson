@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.843617,
-    "geom:area_square_m":57198081349.753502,
+    "geom:area_square_m":57198081349.754707,
     "geom:bbox":"73.2852762337,45.995,77.6792143402,48.9215437001",
     "geom:latitude":47.47063,
     "geom:longitude":75.449132,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Aktogay Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":47.752901,
     "lbl:longitude":75.598427,
     "meso:adm1_loc":"\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -37,6 +43,9 @@
         "Aktogay District"
     ],
     "name:eng_x_preferred":[
+        "Aktogay"
+    ],
+    "name:eng_x_variant":[
         "Aktogay District"
     ],
     "name:fre_x_preferred":[
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1108785505,
-    "wof:lastmodified":1553816512,
+    "wof:lastmodified":1555220449,
     "wof:name":"Aktogayskiy",
     "wof:parent_id":85672905,
     "wof:placetype":"county",

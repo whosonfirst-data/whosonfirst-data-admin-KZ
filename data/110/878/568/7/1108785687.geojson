@@ -10,6 +10,12 @@
     "geom:latitude":54.166416,
     "geom:longitude":65.485727,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Uzunkol`skiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":54.218432,
     "lbl:longitude":65.567577,
     "meso:adm1_loc":"\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108785687,
-    "wof:lastmodified":1536615810,
+    "wof:lastmodified":1553718803,
     "wof:name":"Uzunkol`skiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":51.854137,
     "geom:longitude":73.130675,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Ereymengauskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":51.897837,
     "lbl:longitude":73.208687,
     "meso:adm1_loc":"\u0410\u043a\u043c\u043e\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108785619,
-    "wof:lastmodified":1536615808,
+    "wof:lastmodified":1553718800,
     "wof:name":"Ereymengauskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

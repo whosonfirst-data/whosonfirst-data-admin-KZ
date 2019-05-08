@@ -10,6 +10,12 @@
     "geom:latitude":49.952995,
     "geom:longitude":57.059506,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Alginskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":49.981257,
     "lbl:longitude":56.70326,
     "meso:adm1_loc":"\u0410\u043a\u0442\u044e\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108785521,
-    "wof:lastmodified":1536615804,
+    "wof:lastmodified":1553718796,
     "wof:name":"Alginskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

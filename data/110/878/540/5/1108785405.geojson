@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.809142,
-    "geom:area_square_m":7101717540.911714,
+    "geom:area_square_m":7101717540.911468,
     "geom:bbox":"76.7333255649,44.4265114677,78.5519754454,45.1030416805",
     "geom:latitude":44.780882,
     "geom:longitude":77.611691,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Koksuskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":44.765935,
     "lbl:longitude":77.629036,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1108785405,
-    "wof:lastmodified":1553816511,
+    "wof:lastmodified":1555037223,
     "wof:name":"Koksuskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

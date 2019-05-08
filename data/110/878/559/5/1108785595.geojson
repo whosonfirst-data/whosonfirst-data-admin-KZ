@@ -10,6 +10,12 @@
     "geom:latitude":42.448306,
     "geom:longitude":69.761257,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Sayram Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":42.401854,
     "lbl:longitude":69.810356,
     "meso:adm1_loc":"\u042e\u0436\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -40,6 +46,9 @@
         "Sayram District"
     ],
     "name:eng_x_preferred":[
+        "Sayram"
+    ],
+    "name:eng_x_variant":[
         "Sayram District"
     ],
     "name:gre_x_preferred":[
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1108785595,
-    "wof:lastmodified":1536615807,
+    "wof:lastmodified":1555220449,
     "wof:name":"Sayramskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

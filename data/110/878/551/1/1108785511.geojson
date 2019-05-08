@@ -10,6 +10,12 @@
     "geom:latitude":44.992923,
     "geom:longitude":70.320625,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Sarysuskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":45.234718,
     "lbl:longitude":70.301916,
     "meso:adm1_loc":"\u0416\u0430\u043c\u0431\u044b\u043b\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108785511,
-    "wof:lastmodified":1536615804,
+    "wof:lastmodified":1553718795,
     "wof:name":"Sarysuskiy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":43.590912,
     "geom:longitude":71.739074,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Zhambyl Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":43.584282,
     "lbl:longitude":71.697177,
     "meso:adm1_loc":"\u0416\u0430\u043c\u0431\u044b\u043b\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108785477,
-    "wof:lastmodified":1544048200,
+    "wof:lastmodified":1555220448,
     "wof:name":"Zhambyl",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.294079,
-    "geom:area_square_m":11448166817.038948,
+    "geom:area_square_m":11448166817.039478,
     "geom:bbox":"76.8988429069,43.8283223349,79.999625,44.9107193291",
     "geom:latitude":44.319999,
     "geom:longitude":78.417868,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Kerbulakskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":44.214293,
     "lbl:longitude":78.441496,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108785423,
-    "wof:lastmodified":1553816512,
+    "wof:lastmodified":1555037220,
     "wof:name":"Kerbulakskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

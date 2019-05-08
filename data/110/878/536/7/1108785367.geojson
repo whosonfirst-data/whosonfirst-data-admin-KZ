@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.754418,
-    "geom:area_square_m":12956748568.759171,
+    "geom:area_square_m":12956748568.75959,
     "geom:bbox":"71.6027383395,52.5923716652,74.0407196319,54.137095",
     "geom:latitude":53.325322,
     "geom:longitude":72.8717,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Ualikhanovskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":53.480935,
     "lbl:longitude":72.788564,
     "meso:adm1_loc":"\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108785367,
-    "wof:lastmodified":1553816511,
+    "wof:lastmodified":1555037225,
     "wof:name":"Ualikhanovskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

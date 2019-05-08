@@ -10,6 +10,12 @@
     "geom:latitude":44.868663,
     "geom:longitude":68.569573,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Suzakskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":44.90492,
     "lbl:longitude":68.544464,
     "meso:adm1_loc":"\u042e\u0436\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108785599,
-    "wof:lastmodified":1536615807,
+    "wof:lastmodified":1553718799,
     "wof:name":"Suzakskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

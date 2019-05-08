@@ -10,6 +10,12 @@
     "geom:latitude":51.636514,
     "geom:longitude":78.287579,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Lebyazhinskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":51.520238,
     "lbl:longitude":78.442406,
     "meso:adm1_loc":"\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108785559,
-    "wof:lastmodified":1536615806,
+    "wof:lastmodified":1553718798,
     "wof:name":"Lebyazhinskiy",
     "wof:parent_id":85672911,
     "wof:placetype":"county",

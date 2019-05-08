@@ -10,6 +10,12 @@
     "geom:latitude":43.548405,
     "geom:longitude":79.812197,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Uygurskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":43.576818,
     "lbl:longitude":79.548434,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1108785425,
-    "wof:lastmodified":1536615800,
+    "wof:lastmodified":1553718792,
     "wof:name":"Uygurskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

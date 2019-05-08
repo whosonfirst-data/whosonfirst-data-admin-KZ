@@ -10,6 +10,12 @@
     "geom:latitude":50.789298,
     "geom:longitude":51.734346,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Terektinskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":50.715937,
     "lbl:longitude":51.538238,
     "meso:adm1_loc":"\u0417\u0430\u043f\u0430\u0434\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108785731,
-    "wof:lastmodified":1536615813,
+    "wof:lastmodified":1553718804,
     "wof:name":"Terektinskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

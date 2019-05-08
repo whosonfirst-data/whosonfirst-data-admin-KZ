@@ -10,6 +10,12 @@
     "geom:latitude":42.939367,
     "geom:longitude":79.353222,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Raiymbekskiy Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":42.82778,
     "lbl:longitude":79.63389,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108785309,
-    "wof:lastmodified":1536615793,
+    "wof:lastmodified":1553718788,
     "wof:name":"Raiymbekskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

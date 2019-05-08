@@ -10,6 +10,12 @@
     "geom:latitude":44.962965,
     "geom:longitude":78.816353,
     "iso:country":"KZ",
+    "label:eng_x_preferred_longname":[
+        "Taldyqorghan Maslikhat"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "maslikhat"
+    ],
     "lbl:latitude":44.957517,
     "lbl:longitude":78.645129,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108785635,
-    "wof:lastmodified":1536615809,
+    "wof:lastmodified":1553718801,
     "wof:name":"Taldyqorghan",
     "wof:parent_id":85672921,
     "wof:placetype":"county",
