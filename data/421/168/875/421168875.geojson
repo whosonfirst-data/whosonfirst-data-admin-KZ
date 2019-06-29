@@ -17,8 +17,8 @@
     "name:deu_x_preferred":[
         "Sarqan"
     ],
-    "name:dut_x_preferred":[
-        "Sarkand"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03ba\u03ac\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Sarkand"
@@ -29,15 +29,6 @@
     "name:fra_x_preferred":[
         "Sarkand"
     ],
-    "name:fre_x_preferred":[
-        "Sarkand"
-    ],
-    "name:ger_x_preferred":[
-        "Sarqan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03c1\u03ba\u03ac\u03bd\u03c4"
-    ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u0440\u049b\u0430\u043d"
     ],
@@ -47,14 +38,11 @@
     "name:lit_x_preferred":[
         "Sarkandas"
     ],
-    "name:may_x_preferred":[
-        "Sarkand"
-    ],
     "name:msa_x_preferred":[
         "Sarkand"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0631\u06a9\u0646\u062f"
+    "name:nld_x_preferred":[
+        "Sarkand"
     ],
     "name:pol_x_preferred":[
         "Sarkan"
@@ -218,7 +206,7 @@
         }
     ],
     "wof:id":421168875,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561828605,
     "wof:name":"Sarkand",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

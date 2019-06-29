@@ -17,9 +17,6 @@
     "name:deu_x_preferred":[
         "Jembi"
     ],
-    "name:dut_x_preferred":[
-        "Embi"
-    ],
     "name:eng_x_preferred":[
         "Emba"
     ],
@@ -28,12 +25,6 @@
     ],
     "name:fra_x_preferred":[
         "Emba"
-    ],
-    "name:fre_x_preferred":[
-        "Emba"
-    ],
-    "name:ger_x_preferred":[
-        "Jembi"
     ],
     "name:hun_x_preferred":[
         "Emba"
@@ -47,10 +38,10 @@
     "name:lit_x_preferred":[
         "Emba"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Embi"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Embi"
     ],
     "name:pol_x_preferred":[
@@ -209,7 +200,7 @@
         }
     ],
     "wof:id":421196521,
-    "wof:lastmodified":1553816384,
+    "wof:lastmodified":1561828609,
     "wof:name":"Emba",
     "wof:parent_id":85672877,
     "wof:placetype":"locality",

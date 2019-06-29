@@ -16,26 +16,14 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0441\u0430\u043a\u043e\u0432\u0441\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u85a9\u79d1\u592b\u65af\u514b"
-    ],
     "name:deu_x_preferred":[
         "Lissakowsk"
-    ],
-    "name:dut_x_preferred":[
-        "Lisakovsk"
     ],
     "name:eng_x_preferred":[
         "L\u012bsakovsk"
     ],
     "name:fra_x_preferred":[
         "Lissakovsk"
-    ],
-    "name:fre_x_preferred":[
-        "Lissakovsk"
-    ],
-    "name:ger_x_preferred":[
-        "Lissakowsk"
     ],
     "name:kaz_x_preferred":[
         "\u041b\u0438\u0441\u0430\u043a\u043e\u0432\u0441\u043a"
@@ -45,6 +33,9 @@
     ],
     "name:lit_x_preferred":[
         "Lisakovskas"
+    ],
+    "name:nld_x_preferred":[
+        "Lisakovsk"
     ],
     "name:pol_x_preferred":[
         "Lisakowsk"
@@ -116,7 +107,7 @@
         }
     ],
     "wof:id":421175791,
-    "wof:lastmodified":1527716335,
+    "wof:lastmodified":1561828608,
     "wof:name":"Lisakovsk",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

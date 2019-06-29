@@ -193,9 +193,6 @@
         "Kazakhstan",
         "Kazakstan"
     ],
-    "name:cze_x_preferred":[
-        "Kazachst\u00e1n"
-    ],
     "name:dan_x_preferred":[
         "Kasakhstan"
     ],
@@ -692,9 +689,6 @@
     "name:rue_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
     ],
-    "name:rum_x_preferred":[
-        "Kazahstan"
-    ],
     "name:run_x_preferred":[
         "Kazakisitani"
     ],
@@ -936,7 +930,6 @@
         "\u54c8\u8428\u514b\u65af\u5766"
     ],
     "name:zho_x_variant":[
-        "\u54c8\u8428\u514b\u65af\u5766",
         "\u54c8\u85a9\u514b"
     ],
     "name:zho_yue_x_preferred":[
@@ -1093,7 +1086,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1544059324,
+    "wof:lastmodified":1561828546,
     "wof:name":"Kazakhstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

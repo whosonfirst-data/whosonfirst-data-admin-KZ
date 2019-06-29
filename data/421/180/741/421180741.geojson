@@ -17,13 +17,13 @@
     "name:bel_x_preferred":[
         "\u0416\u043e\u0441\u0430\u043b\u044b"
     ],
-    "name:dut_x_preferred":[
-        "Zhosaly"
-    ],
     "name:eng_x_preferred":[
         "Zhosaly"
     ],
     "name:kaz_x_preferred":[
+        "Zhosaly"
+    ],
+    "name:nld_x_preferred":[
         "Zhosaly"
     ],
     "name:pol_x_preferred":[
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":421180741,
-    "wof:lastmodified":1514469582,
+    "wof:lastmodified":1561828607,
     "wof:name":"Dzhusaly",
     "wof:parent_id":85672885,
     "wof:placetype":"locality",

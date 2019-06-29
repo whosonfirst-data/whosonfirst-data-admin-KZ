@@ -17,17 +17,8 @@
     "name:ces_x_preferred":[
         "\u0160u"
     ],
-    "name:chi_x_preferred":[
-        "\u695a\u57ce"
-    ],
-    "name:cze_x_preferred":[
-        "\u0160u"
-    ],
     "name:deu_x_preferred":[
         "Schu"
-    ],
-    "name:dut_x_preferred":[
-        "Shu"
     ],
     "name:eng_x_preferred":[
         "Shu"
@@ -37,12 +28,6 @@
     ],
     "name:fra_x_preferred":[
         "Chou"
-    ],
-    "name:fre_x_preferred":[
-        "Chou"
-    ],
-    "name:ger_x_preferred":[
-        "Schu"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e5"
@@ -59,8 +44,8 @@
     "name:lit_x_preferred":[
         "\u0160u"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0648\u060c \u0698\u0645\u0628\u06cc\u0644"
+    "name:nld_x_preferred":[
+        "Shu"
     ],
     "name:pol_x_preferred":[
         "Szu"
@@ -227,7 +212,7 @@
         }
     ],
     "wof:id":421175785,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1561828608,
     "wof:name":"Shu",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

@@ -14,20 +14,14 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5091\u7279\u52a0\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Zhetikara"
+    "name:deu_x_preferred":[
+        "Schitiqara"
     ],
     "name:eng_x_preferred":[
         "Dzhetygara"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jitikara"
-    ],
-    "name:ger_x_preferred":[
-        "Schitiqara"
     ],
     "name:kaz_x_preferred":[
         "Zhetiqara"
@@ -37,6 +31,9 @@
     ],
     "name:lit_x_preferred":[
         "\u017ditikara"
+    ],
+    "name:nld_x_preferred":[
+        "Zhetikara"
     ],
     "name:pol_x_preferred":[
         "\u017bytykara"
@@ -55,6 +52,9 @@
     ],
     "name:uzb_x_preferred":[
         "Jitiqara"
+    ],
+    "name:zho_x_preferred":[
+        "\u5091\u7279\u52a0\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -193,7 +193,7 @@
         }
     ],
     "wof:id":421168865,
-    "wof:lastmodified":1514469582,
+    "wof:lastmodified":1561828605,
     "wof:name":"Dzhetygara",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

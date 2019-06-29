@@ -17,20 +17,11 @@
     "name:deu_x_preferred":[
         "Beineu"
     ],
-    "name:dut_x_preferred":[
-        "Beyneu"
-    ],
     "name:eng_x_preferred":[
         "Beyneu"
     ],
     "name:fra_x_preferred":[
         "Be\u00efn\u00e9ou"
-    ],
-    "name:fre_x_preferred":[
-        "Be\u00efn\u00e9ou"
-    ],
-    "name:ger_x_preferred":[
-        "Beineu"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d9\u05e0\u05d9\u05d5"
@@ -46,6 +37,9 @@
     ],
     "name:kaz_x_variant":[
         "Beyne\u016b"
+    ],
+    "name:nld_x_preferred":[
+        "Beyneu"
     ],
     "name:pol_x_preferred":[
         "Bejneu"
@@ -212,7 +206,7 @@
         }
     ],
     "wof:id":421196855,
-    "wof:lastmodified":1553816384,
+    "wof:lastmodified":1561828609,
     "wof:name":"Beyneu",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",

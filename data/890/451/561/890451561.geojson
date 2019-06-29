@@ -18,16 +18,13 @@
     "name:cat_x_preferred":[
         "Cachar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Katschar"
     ],
     "name:eng_x_preferred":[
         "Kachar"
     ],
-    "name:fre_x_preferred":[
-        "Katschar"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Katschar"
     ],
     "name:ita_x_preferred":[
@@ -35,6 +32,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u049a\u0430\u0448\u0430\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Katschar"
     ],
     "name:nob_x_preferred":[
         "Cachar"
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":890451561,
-    "wof:lastmodified":1527792936,
+    "wof:lastmodified":1561828612,
     "wof:name":"Kachar",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

@@ -33,14 +33,8 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d-\u0542\u0561\u0566\u0561\u056d\u057d\u057f\u0561\u0576\u0575\u0561\u0576 \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "\u015eimali Qazax\u0131stan vilay\u0259ti"
-    ],
-    "name:baq_x_preferred":[
-        "Iparraldeko Kazakhstan"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -63,20 +57,14 @@
     "name:che_x_preferred":[
         "\u041a\u044a\u0438\u043b\u0431\u0430\u0441\u0435\u0434\u0430-\u041a\u0445\u0430\u0437\u0430\u043a\u0445\u0441\u0442\u0430\u043d\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u54c8\u85a9\u514b\u65af\u5766\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Severokaza\u0161sk\u00e1 oblast"
-    ],
     "name:dan_x_preferred":[
         "North Kazakhstan Province"
     ],
     "name:deu_x_preferred":[
         "Nordkasachstan"
     ],
-    "name:dut_x_preferred":[
-        "Oblast Noord-Kazachstan"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u039a\u03b1\u03b6\u03b1\u03ba\u03c3\u03c4\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Soltustik Qazaqstan"
@@ -99,17 +87,8 @@
     "name:fra_x_preferred":[
         "Kazakhstan-Septentrional"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Kazakhstan septentrional"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7 \u10e7\u10d0\u10d6\u10d0\u10ee\u10d4\u10d7\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Nordkasachstan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u039a\u03b1\u03b6\u03b1\u03ba\u03c3\u03c4\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa4\u0acd\u0aa4\u0ab0 \u0a95\u0a9d\u0abe\u0a95\u0ab8\u0acd\u0aa4\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -119,9 +98,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0540\u0575\u0578\u0582\u057d\u056b\u057d-\u0542\u0561\u0566\u0561\u056d\u057d\u057f\u0561\u0576\u0575\u0561\u0576 \u0574\u0561\u0580\u0566"
-    ],
-    "name:ice_x_preferred":[
-        "Nor\u00f0ur-Kasakstanfylki"
     ],
     "name:ind_x_preferred":[
         "Provinsi Kazakhstan Utara"
@@ -158,17 +134,14 @@
     "name:lit_x_preferred":[
         "\u0160iaur\u0117s Kazachstano sritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0915\u091d\u093e\u0915\u0938\u094d\u0924\u093e\u0928"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Kazakhstan Utara"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u043a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
     ],
     "name:msa_x_preferred":[
         "Wilayah Kazakhstan Utara"
@@ -185,9 +158,6 @@
     "name:pan_x_preferred":[
         "\u0a09\u0a71\u0a24\u0a30\u0a40 \u0a15\u0a1c\u0a3c\u0a3e\u0a16\u0a3c\u0a3f\u0a38\u0a24\u0a3e\u0a28 \u0a38\u0a42\u0a2c\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646 \u0634\u0645\u0627\u0644\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u062a\u0644\u0627 \u0642\u0627\u0632\u0642\u0633\u062a\u0627\u0646"
     ],
@@ -198,9 +168,6 @@
         "Cazaquist\u00e3o do Norte"
     ],
     "name:ron_x_preferred":[
-        "Provincia Kazahstanul de Nord"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Kazahstanul de Nord"
     ],
     "name:rus_x_preferred":[
@@ -392,7 +359,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1553550517,
+    "wof:lastmodified":1561828555,
     "wof:name":"North Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

@@ -26,8 +26,8 @@
     "name:deu_x_preferred":[
         "Jessil"
     ],
-    "name:dut_x_preferred":[
-        "Esil"
+    "name:ell_x_preferred":[
+        "\u0395\u03c3\u03af\u03bb"
     ],
     "name:eng_x_preferred":[
         "Esil"
@@ -41,14 +41,8 @@
     "name:fra_x_preferred":[
         "Essil"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Esil"
-    ],
-    "name:ger_x_preferred":[
-        "Jessil"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c3\u03af\u03bb"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e1\u05d9\u05dc"
@@ -65,8 +59,8 @@
     "name:nds_x_preferred":[
         "Jessil"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0635\u06cc\u0644"
+    "name:nld_x_preferred":[
+        "Esil"
     ],
     "name:pol_x_preferred":[
         "Jesyl"
@@ -230,7 +224,7 @@
         }
     ],
     "wof:id":421168893,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561828605,
     "wof:name":"Esil",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

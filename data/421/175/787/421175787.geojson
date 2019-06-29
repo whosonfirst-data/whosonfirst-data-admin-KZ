@@ -17,20 +17,11 @@
     "name:afr_x_preferred":[
         "Semey"
     ],
-    "name:alb_x_preferred":[
-        "Semej"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u0627\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0565\u0574\u0565\u0575"
-    ],
     "name:bak_x_preferred":[
         "\u0421\u0435\u043c\u0435\u0439"
-    ],
-    "name:baq_x_preferred":[
-        "Semei"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0435\u043c\u0435\u0439"
@@ -53,26 +44,17 @@
     "name:che_x_preferred":[
         "\u0421\u0435\u043c\u0435\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u7c73\u4f0a"
-    ],
     "name:ckb_x_preferred":[
         "\u0633\u06ce\u0645\u06ce\u06cc"
     ],
     "name:cym_x_preferred":[
         "Semey"
     ],
-    "name:cze_x_preferred":[
-        "Semej"
-    ],
     "name:dan_x_preferred":[
         "Semey"
     ],
     "name:deu_x_preferred":[
         "Semei"
-    ],
-    "name:dut_x_preferred":[
-        "Semey"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b5\u03bc\u03ad\u03b9"
@@ -106,18 +88,6 @@
     "name:fra_x_preferred":[
         "Seme\u00ef"
     ],
-    "name:fre_x_preferred":[
-        "Seme\u00ef"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10db\u10d4\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Semei"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b5\u03bc\u03ad\u03b9"
-    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aae\u0ac7\u0aaf"
     ],
@@ -130,6 +100,9 @@
     "name:hun_x_preferred":[
         "Szemej"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0574\u0565\u0575"
+    ],
     "name:ind_x_preferred":[
         "Semey"
     ],
@@ -141,6 +114,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cc7\u0cae\u0cc6\u0caf\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10db\u10d4\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0435\u043c\u0435\u0439"
@@ -160,11 +136,11 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u092e\u0947\u092f"
     ],
-    "name:may_x_preferred":[
-        "Semey"
-    ],
     "name:mon_x_preferred":[
         "\u0421\u0435\u043c\u0435\u0439"
+    ],
+    "name:msa_x_preferred":[
+        "Semey"
     ],
     "name:nld_x_preferred":[
         "Semey"
@@ -181,9 +157,6 @@
     "name:oci_x_preferred":[
         "Semey"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0645\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Semej"
     ],
@@ -191,9 +164,6 @@
         "Semei"
     ],
     "name:ron_x_preferred":[
-        "Semei"
-    ],
-    "name:rum_x_preferred":[
         "Semei"
     ],
     "name:rup_x_preferred":[
@@ -222,6 +192,9 @@
     ],
     "name:spa_x_preferred":[
         "Semey"
+    ],
+    "name:sqi_x_preferred":[
+        "Semej"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u043c\u0435\u0458"
@@ -272,9 +245,6 @@
         "Semey"
     ],
     "name:war_x_preferred":[
-        "Semey"
-    ],
-    "name:wel_x_preferred":[
         "Semey"
     ],
     "name:zho_x_preferred":[
@@ -421,7 +391,7 @@
         }
     ],
     "wof:id":421175787,
-    "wof:lastmodified":1527716346,
+    "wof:lastmodified":1561828608,
     "wof:name":"Semey",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

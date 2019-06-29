@@ -20,7 +20,7 @@
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0445\u0430\u043c\u0431\u0435\u0442"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Makhambet"
     ],
     "name:rus_x_preferred":[
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":421184935,
-    "wof:lastmodified":1514469706,
+    "wof:lastmodified":1561828610,
     "wof:name":"Makhambet",
     "wof:parent_id":85672889,
     "wof:placetype":"locality",

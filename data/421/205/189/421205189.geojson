@@ -14,20 +14,20 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Ba\u0142ykszy"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bb\u03af\u03ba\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Balyqshy"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bb\u03af\u03ba\u03c3\u03b9"
-    ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u043b\u044b\u049b\u0448\u044b \u043a\u0435\u043d\u0442\u0456"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Balyqshy"
+    ],
+    "name:nld_x_preferred":[
+        "Ba\u0142ykszy"
     ],
     "name:pol_x_preferred":[
         "Ba\u0142ykszy"
@@ -177,7 +177,7 @@
         }
     ],
     "wof:id":421205189,
-    "wof:lastmodified":1514469561,
+    "wof:lastmodified":1561828607,
     "wof:name":"Balykshi",
     "wof:parent_id":85672889,
     "wof:placetype":"locality",

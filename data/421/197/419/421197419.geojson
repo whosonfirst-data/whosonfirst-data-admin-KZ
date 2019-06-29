@@ -16,14 +16,11 @@
     "name:ara_x_preferred":[
         "\u0622\u0628\u0627\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u62dc"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Abaj"
     ],
-    "name:dut_x_preferred":[
-        "Abay"
+    "name:deu_x_preferred":[
+        "Abai"
     ],
     "name:eng_x_preferred":[
         "Abay"
@@ -31,11 +28,11 @@
     "name:est_x_preferred":[
         "Abaj"
     ],
-    "name:fre_x_preferred":[
-        "Aba\u00ef"
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u06cc"
     ],
-    "name:ger_x_preferred":[
-        "Abai"
+    "name:fra_x_preferred":[
+        "Aba\u00ef"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0431\u0430\u0439"
@@ -43,8 +40,8 @@
     "name:lit_x_preferred":[
         "Abajus"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0628\u06cc"
+    "name:nld_x_preferred":[
+        "Abay"
     ],
     "name:pol_x_preferred":[
         "Abaj"
@@ -69,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "Abay"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u62dc"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":421197419,
-    "wof:lastmodified":1553816385,
+    "wof:lastmodified":1561828610,
     "wof:name":"Aby",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

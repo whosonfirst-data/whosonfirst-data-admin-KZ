@@ -16,19 +16,13 @@
     "name:ara_x_preferred":[
         "\u062f\u0631\u0648\u0632\u0647\u0628\u0627\u060c \u0643\u0627\u062a\u0644\u0648\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u65af\u7279\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "Dostyq"
+    "name:deu_x_preferred":[
+        "Dostyk"
     ],
     "name:eng_x_preferred":[
         "Dostyk"
     ],
-    "name:fre_x_preferred":[
-        "Dostyk"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dostyk"
     ],
     "name:jpn_x_preferred":[
@@ -37,11 +31,14 @@
     "name:kaz_x_preferred":[
         "\u0414\u043e\u0441\u0442\u044b\u049b"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0414\u043e\u0441\u0442\u0438\u043a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dostyk"
+    ],
+    "name:nld_x_preferred":[
+        "Dostyq"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0440\u0443\u0436\u0431\u0430"
@@ -57,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Dostyk"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u65af\u7279\u514b"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":421167427,
-    "wof:lastmodified":1553816355,
+    "wof:lastmodified":1561828607,
     "wof:name":"Druzhba",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

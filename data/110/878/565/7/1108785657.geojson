@@ -39,17 +39,17 @@
     "name:bul_x_preferred":[
         "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u0434\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Amangeldi District"
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03bc\u03b1\u03bd\u03b3\u03ba\u03b5\u03bb\u03bd\u03c4\u03af"
     ],
     "name:eng_x_preferred":[
         "Amangel`dinskiy"
     ],
-    "name:fre_x_preferred":[
-        "district d\u2019Amangeldi"
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0627\u0645\u0627\u0646\u06af\u0644\u062f\u06cc"
     ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03bc\u03b1\u03bd\u03b3\u03ba\u03b5\u03bb\u03bd\u03c4\u03af"
+    "name:fra_x_preferred":[
+        "district d\u2019Amangeldi"
     ],
     "name:ita_x_preferred":[
         "Distretto di Amangeld\u00ed"
@@ -57,14 +57,14 @@
     "name:kaz_x_preferred":[
         "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u0434\u0456 \u0430\u0443\u0434\u0430\u043d\u044b"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u0434\u0438"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Amangeldi"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u062e\u0634 \u0627\u0645\u0627\u0646\u06af\u0644\u062f\u06cc"
+    "name:nld_x_preferred":[
+        "Amangeldi District"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u0430\u043d\u0433\u0435\u043b\u044c\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1108785657,
-    "wof:lastmodified":1553718802,
+    "wof:lastmodified":1561828592,
     "wof:name":"Amangel`dinskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

@@ -20,20 +20,17 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u0439\u0441\u0430\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Zaysan"
+    "name:deu_x_preferred":[
+        "Saissan"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03ca\u03c3\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Zaysan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Za\u00efssan"
-    ],
-    "name:ger_x_preferred":[
-        "Saissan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03b1\u03ca\u03c3\u03ac\u03bd"
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05d0\u05d9\u05e1\u05df"
@@ -46,6 +43,9 @@
     ],
     "name:lit_x_preferred":[
         "Zaisanas"
+    ],
+    "name:nld_x_preferred":[
+        "Zaysan"
     ],
     "name:pol_x_preferred":[
         "Zajsan"
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":421167359,
-    "wof:lastmodified":1553816355,
+    "wof:lastmodified":1561828606,
     "wof:name":"Zaysan",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

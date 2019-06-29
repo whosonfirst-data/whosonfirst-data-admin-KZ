@@ -20,25 +20,19 @@
     "name:deu_x_preferred":[
         "Saryschaghan"
     ],
-    "name:dut_x_preferred":[
-        "Saryshaghan"
-    ],
     "name:eng_x_preferred":[
         "Saryshaghan"
     ],
     "name:fra_x_preferred":[
         "Sarychagan"
     ],
-    "name:fre_x_preferred":[
-        "Sarychagan"
-    ],
-    "name:ger_x_preferred":[
-        "Saryschaghan"
-    ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u0440\u044b\u0448\u0430\u0493\u0430\u043d"
     ],
     "name:kaz_x_variant":[
+        "Saryshaghan"
+    ],
+    "name:nld_x_preferred":[
         "Saryshaghan"
     ],
     "name:pol_x_preferred":[
@@ -191,7 +185,7 @@
         }
     ],
     "wof:id":421179995,
-    "wof:lastmodified":1527717708,
+    "wof:lastmodified":1561828610,
     "wof:name":"Saryshagan",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

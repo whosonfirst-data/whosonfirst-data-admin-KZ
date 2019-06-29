@@ -17,14 +17,8 @@
     "name:ara_x_preferred":[
         "\u0623\u062a\u064a\u0631\u0627\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u057f\u056b\u0580\u0561\u0578\u0582"
-    ],
     "name:aze_x_preferred":[
         "At\u0131rau"
-    ],
-    "name:baq_x_preferred":[
-        "Atyrau"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0442\u044b\u0440\u0430\u0443"
@@ -47,17 +41,11 @@
     "name:che_x_preferred":[
         "\u0410\u0442\u044b\u0440\u0430\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7279\u52de"
-    ],
     "name:ckb_x_preferred":[
         "\u0626\u0627\u062a\u0631\u0627\u0648"
     ],
     "name:crh_x_preferred":[
         "At\u0131rav"
-    ],
-    "name:cze_x_preferred":[
-        "Atyrau"
     ],
     "name:dan_x_preferred":[
         "Atyrau"
@@ -65,8 +53,8 @@
     "name:deu_x_preferred":[
         "Atyrau"
     ],
-    "name:dut_x_preferred":[
-        "At\u0131raw"
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03b9\u03c1\u03ac\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Atyrau"
@@ -89,18 +77,6 @@
     "name:fra_x_preferred":[
         "Atyraou"
     ],
-    "name:fre_x_preferred":[
-        "Atyraou"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e2\u10d8\u10e0\u10d0\u10e3"
-    ],
-    "name:ger_x_preferred":[
-        "Atyrau"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c4\u03b9\u03c1\u03ac\u03bf\u03c5"
-    ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a9f\u0ac0\u0ab0\u0abe\u0a89\u0a82"
     ],
@@ -112,6 +88,9 @@
     ],
     "name:hun_x_preferred":[
         "Atyrau"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u057f\u056b\u0580\u0561\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Atyrau"
@@ -155,9 +134,6 @@
     "name:mar_x_preferred":[
         "\u0907\u091f\u093e\u0930\u093e\u090a"
     ],
-    "name:may_x_preferred":[
-        "Atyrau"
-    ],
     "name:msa_x_preferred":[
         "Atyrau"
     ],
@@ -176,9 +152,6 @@
     "name:pan_x_preferred":[
         "\u0a05\u0a24\u0a41\u0a30\u0a4c"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u062a\u06cc\u0631\u0627\u0626\u0648\u060c \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0622\u062a\u06cc\u0631\u0627\u0624"
     ],
@@ -189,9 +162,6 @@
         "Atyrau"
     ],
     "name:ron_x_preferred":[
-        "At\u00eerau"
-    ],
-    "name:rum_x_preferred":[
         "At\u00eerau"
     ],
     "name:rup_x_preferred":[
@@ -395,7 +365,7 @@
         }
     ],
     "wof:id":421181511,
-    "wof:lastmodified":1527716326,
+    "wof:lastmodified":1561828608,
     "wof:name":"Atyrau",
     "wof:parent_id":85672889,
     "wof:placetype":"locality",

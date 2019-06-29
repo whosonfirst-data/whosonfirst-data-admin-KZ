@@ -22,31 +22,28 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Saran"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u044c"
-    ],
-    "name:chi_x_preferred":[
-        "\u85a9\u862d"
     ],
     "name:ckb_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Saran"
     ],
     "name:eng_x_preferred":[
         "Saran"
     ],
+    "name:eus_x_preferred":[
+        "Saran"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u0627\u0646\u060c \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Saran"
     ],
-    "name:fre_x_preferred":[
-        "Saran"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Saran"
     ],
     "name:ita_x_preferred":[
@@ -62,8 +59,8 @@
     "name:lit_x_preferred":[
         "Saranas"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0631\u0627\u0646\u060c \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Saran"
     ],
     "name:pol_x_preferred":[
         "Saran"
@@ -85,6 +82,9 @@
     ],
     "name:unk_x_variant":[
         "Saran\u2019"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u862d"
     ],
     "qs_pg:aaroncc":"KZ",
     "qs_pg:gn_country":"KZ",
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":1125820555,
-    "wof:lastmodified":1514469893,
+    "wof:lastmodified":1561828612,
     "wof:name":"Sorang",
     "wof:parent_id":1108785651,
     "wof:placetype":"locality",

@@ -16,7 +16,7 @@
     "name:eng_x_preferred":[
         "Mayqayyng"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mayqayyng"
     ],
     "name:kaz_x_preferred":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":421167399,
-    "wof:lastmodified":1514469720,
+    "wof:lastmodified":1561828606,
     "wof:name":"Maykain",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

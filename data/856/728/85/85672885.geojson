@@ -33,14 +33,8 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u064a\u0632\u064a\u0644\u0648\u0631\u062f\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0566\u0568\u056c-\u0555\u0580\u0564\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "Q\u0131z\u0131lorda vilay\u0259ti"
-    ],
-    "name:baq_x_preferred":[
-        "Kyzylorda probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b\u0430\u0440\u0434\u0437\u0456\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -54,20 +48,20 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Khizilord\u00e0"
     ],
+    "name:ces_x_preferred":[
+        "Kyzylordsk\u00e1 oblast"
+    ],
     "name:che_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b\u043e\u0440\u0434\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:chi_x_preferred":[
-        "\u514b\u5b5c\u52d2\u5967\u723e\u9054\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Kyzylordsk\u00e1 oblast"
     ],
     "name:dan_x_preferred":[
         "Kyzylorda Province"
     ],
-    "name:dut_x_preferred":[
-        "Oblast Q\u0131z\u0131lorda"
+    "name:deu_x_preferred":[
+        "Qysylorda"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b9\u03b6\u03b9\u03bb\u03cc\u03c1\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Qyzylorda"
@@ -78,20 +72,17 @@
     "name:est_x_preferred":[
         "K\u00f5z\u00f5lorda oblast"
     ],
+    "name:eus_x_preferred":[
+        "Kyzylorda probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0642\u06cc\u0632\u06cc\u0644\u200c\u0627\u0648\u0631\u062f\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kyzyl-Ordan alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oblys de Kyzylorda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e7\u10d8\u10d6\u10d8\u10da\u10dd\u10e0\u10d3\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Qysylorda"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b9\u03b6\u03b9\u03bb\u03cc\u03c1\u03bd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac0\u0a9d\u0ac0\u0ab2\u0acb\u0ab0\u0acd\u0aa1\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -99,11 +90,14 @@
     "name:hin_x_preferred":[
         "\u0915\u093f\u091c\u093c\u093f\u0932\u0913\u0930\u0926\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:ice_x_preferred":[
-        "Kusul\u00f3rdafylki"
+    "name:hye_x_preferred":[
+        "\u053f\u0566\u0568\u056c-\u0555\u0580\u0564\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Provinsi Qyzylorda"
+    ],
+    "name:isl_x_preferred":[
+        "Kusul\u00f3rdafylki"
     ],
     "name:ita_x_preferred":[
         "Regione di Qyzylorda"
@@ -113,6 +107,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cbf\u0c9c\u0cbf\u0cb2\u0ccb\u0cb0\u0ccd\u0ca1\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d8\u10d6\u10d8\u10da\u10dd\u10e0\u10d3\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:kaz_x_preferred":[
         "Qyzylorda Oblysy"
@@ -134,23 +131,23 @@
     "name:lit_x_preferred":[
         "Kyzylordos sritis"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0438\u0437\u0438\u043b\u043e\u0440\u0434\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u093f\u091d\u093f\u0932\u094b\u0930\u094d\u0926\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041a\u0438\u0437\u0438\u043b\u043e\u0440\u0434\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Kyzylorda"
+    ],
+    "name:nld_x_preferred":[
+        "Oblast Q\u0131z\u0131lorda"
     ],
     "name:nno_x_preferred":[
         "Kyzylorda oblast"
     ],
     "name:nob_x_preferred":[
         "Q\u0131z\u0131lorda"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0642\u06cc\u0632\u06cc\u0644\u200c\u0627\u0648\u0631\u062f\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0642\u0632\u0644 \u0627\u0648\u0631\u062f\u0627"
@@ -161,7 +158,7 @@
     "name:por_x_preferred":[
         "Qyzylorda"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia K\u00eez\u00eelorda"
     ],
     "name:rus_x_preferred":[
@@ -222,6 +219,9 @@
     ],
     "name:war_x_preferred":[
         "Kyzylorda"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5b5c\u52d2\u5967\u723e\u9054\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"KAZ",
@@ -346,7 +346,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1553550422,
+    "wof:lastmodified":1561828553,
     "wof:name":"Qyzylorda",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

@@ -13,8 +13,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Saryagash"
+    "name:deu_x_preferred":[
+        "Saryaghasch"
     ],
     "name:eng_x_preferred":[
         "Saryagash"
@@ -22,11 +22,8 @@
     "name:fin_x_preferred":[
         "Sar\u0131a\u011fa\u015f"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Saryaghach"
-    ],
-    "name:ger_x_preferred":[
-        "Saryaghasch"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e8\u05d9\u05d9\u05d2\u05e9"
@@ -39,6 +36,9 @@
     ],
     "name:lit_x_preferred":[
         "Saryaga\u0161as"
+    ],
+    "name:nld_x_preferred":[
+        "Saryagash"
     ],
     "name:pol_x_preferred":[
         "Saryagasz"
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":421188333,
-    "wof:lastmodified":1514469879,
+    "wof:lastmodified":1561828608,
     "wof:name":"Saryaghash",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

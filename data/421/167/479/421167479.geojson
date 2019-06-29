@@ -16,14 +16,8 @@
     "name:ara_x_preferred":[
         "\u0633\u062a\u064a\u0628\u0646\u0648\u063a\u0648\u0631\u0633\u0643"
     ],
-    "name:baq_x_preferred":[
-        "Stepnogorsk"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0442\u0435\u043f\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
-    ],
-    "name:chi_x_preferred":[
-        "\u65af\u6377\u666e\u8afe\u6208\u723e\u65af\u514b"
     ],
     "name:ckb_x_preferred":[
         "\u0633\u062a\u06ce\u067e\u0646\u06c6\u06af\u06c6\u0631\u0633\u06a9"
@@ -31,8 +25,8 @@
     "name:deu_x_preferred":[
         "Stepnogor"
     ],
-    "name:dut_x_preferred":[
-        "Stepnogorsk"
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b5\u03c0\u03bd\u03bf\u03b3\u03ba\u03cc\u03c1\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Stepnogorsk"
@@ -46,15 +40,6 @@
     "name:fra_x_preferred":[
         "Stepnogorsk"
     ],
-    "name:fre_x_preferred":[
-        "Stepnogorsk"
-    ],
-    "name:ger_x_preferred":[
-        "Stepnogor"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c4\u03b5\u03c0\u03bd\u03bf\u03b3\u03ba\u03cc\u03c1\u03c3\u03ba"
-    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d8\u05e4\u05e0\u05d5\u05d2\u05d5\u05e8\u05e1\u05e7"
     ],
@@ -67,8 +52,8 @@
     "name:lit_x_preferred":[
         "Stepnogorskas"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u067e\u0646\u0648\u06af\u0648\u0631\u0633\u06a9\u060c \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Stepnogorsk"
     ],
     "name:pol_x_preferred":[
         "Stiepnogorsk"
@@ -143,7 +128,7 @@
         }
     ],
     "wof:id":421167479,
-    "wof:lastmodified":1527716154,
+    "wof:lastmodified":1561828606,
     "wof:name":"Stepnogorsk",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

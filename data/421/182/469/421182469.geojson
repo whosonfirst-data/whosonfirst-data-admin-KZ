@@ -23,9 +23,6 @@
     "name:afr_x_preferred":[
         "Astana"
     ],
-    "name:alb_x_preferred":[
-        "Astana"
-    ],
     "name:amh_x_preferred":[
         "\u12a0\u1235\u1273\u1293"
     ],
@@ -34,9 +31,6 @@
     ],
     "name:arg_x_preferred":[
         "Astan\u00e1"
-    ],
-    "name:arm_x_preferred":[
-        "\u0531\u057d\u057f\u0561\u0576\u0561"
     ],
     "name:ast_x_preferred":[
         "Astan\u00e1"
@@ -53,14 +47,14 @@
     "name:bak_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
     ],
-    "name:baq_x_preferred":[
-        "Astana"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0441\u0442\u0430\u043d\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b8\u09cd\u09a4\u09be\u09a8\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f68\u0f0b\u0f66\u0f72\u0f0b\u0f50\u0f0b\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Astana"
@@ -86,13 +80,10 @@
     "name:che_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u65af\u5854\u7d0d"
-    ],
     "name:ckb_x_preferred":[
         "\u0626\u0627\u0633\u062a\u0627\u0646\u0627"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Astana"
     ],
     "name:dan_x_preferred":[
@@ -107,11 +98,11 @@
     "name:dsb_x_preferred":[
         "Astana"
     ],
-    "name:dut_x_preferred":[
-        "Astana"
-    ],
     "name:ell_x_preferred":[
         "A\u03c3\u03c4\u03ac\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c3\u03c4\u03b1\u03bd\u03ac"
     ],
     "name:eng_x_preferred":[
         "Astana"
@@ -134,9 +125,6 @@
     "name:fra_x_preferred":[
         "Astana"
     ],
-    "name:fre_x_preferred":[
-        "Astana"
-    ],
     "name:frp_x_preferred":[
         "Astana"
     ],
@@ -147,12 +135,6 @@
         "Astana"
     ],
     "name:gag_x_preferred":[
-        "Astana"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e1\u10e2\u10d0\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Astana"
     ],
     "name:gla_x_preferred":[
@@ -166,9 +148,6 @@
     ],
     "name:glv_x_preferred":[
         "Astana"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c3\u03c4\u03b1\u03bd\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab8\u0a9f\u0abe\u0aa8\u0abe"
@@ -199,9 +178,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u057d\u057f\u0561\u0576\u0561"
-    ],
-    "name:ice_x_preferred":[
-        "Astana"
     ],
     "name:ido_x_preferred":[
         "Astana"
@@ -290,22 +266,16 @@
     "name:lzh_x_preferred":[
         "\u963f\u65af\u5854\u7d0d"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0441\u0442\u0430\u043d\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d38\u0d4d\u0d24\u0d3e\u0d28"
-    ],
-    "name:mao_x_preferred":[
-        "Astana"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0938\u094d\u0924\u093e\u0928\u093e"
     ],
-    "name:may_x_preferred":[
-        "Astana"
-    ],
     "name:mhr_x_preferred":[
+        "\u0410\u0441\u0442\u0430\u043d\u0430"
+    ],
+    "name:mkd_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
     ],
     "name:mlg_x_preferred":[
@@ -314,8 +284,14 @@
     "name:mon_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
     ],
+    "name:mri_x_preferred":[
+        "Astana"
+    ],
     "name:mrj_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Astana"
     ],
     "name:myv_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430 \u043e\u0448"
@@ -365,9 +341,6 @@
     "name:pap_x_preferred":[
         "Astana"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0633\u062a\u0627\u0646\u0647"
-    ],
     "name:pms_x_preferred":[
         "Astana"
     ],
@@ -386,7 +359,7 @@
     "name:que_x_preferred":[
         "Astana"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Astana"
     ],
     "name:rup_x_preferred":[
@@ -413,9 +386,6 @@
     "name:slk_x_preferred":[
         "Astana"
     ],
-    "name:slo_x_preferred":[
-        "Astana"
-    ],
     "name:slv_x_preferred":[
         "Astana"
     ],
@@ -424,6 +394,9 @@
     ],
     "name:spa_x_preferred":[
         "Astan\u00e1"
+    ],
+    "name:sqi_x_preferred":[
+        "Astana"
     ],
     "name:srd_x_preferred":[
         "Astan\u00e0"
@@ -457,9 +430,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e2a\u0e15\u0e32\u0e19\u0e32"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f0b\u0f66\u0f72\u0f0b\u0f50\u0f0b\u0f53\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Astana"
@@ -506,9 +476,6 @@
     "name:war_x_preferred":[
         "Astana"
     ],
-    "name:wel_x_preferred":[
-        "Astana"
-    ],
     "name:wol_x_preferred":[
         "Astana"
     ],
@@ -526,6 +493,9 @@
     ],
     "name:zha_x_preferred":[
         "Astana"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u65af\u5854\u7d0d"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -664,7 +634,7 @@
         }
     ],
     "wof:id":421182469,
-    "wof:lastmodified":1514469477,
+    "wof:lastmodified":1561828611,
     "wof:name":"Aqmola",
     "wof:parent_id":85672941,
     "wof:placetype":"locality",

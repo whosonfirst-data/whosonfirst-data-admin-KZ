@@ -39,8 +39,8 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u043f\u043a\u0430\u0440\u0430\u0433\u0430\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Tupkaragan District"
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03bf\u03c5\u03c0\u03ba\u03b1\u03c1\u03b1\u03b3\u03ba\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Tupkaragan"
@@ -48,11 +48,8 @@
     "name:eng_x_variant":[
         "Tupkaragan District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "district de Tupkaragan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03bf\u03c5\u03c0\u03ba\u03b1\u03c1\u03b1\u03b3\u03ba\u03ac\u03bd"
     ],
     "name:ita_x_preferred":[
         "Distretto di Tupqara\u01e7an"
@@ -60,11 +57,14 @@
     "name:kaz_x_preferred":[
         "\u0422\u04af\u043f\u049b\u0430\u0440\u0430\u0493\u0430\u043d \u0430\u0443\u0434\u0430\u043d\u044b"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0422\u0443\u043f\u043a\u0430\u0440\u0430\u0433\u0430\u043d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Tupkaragan"
+    ],
+    "name:nld_x_preferred":[
+        "Tupkaragan District"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u043f\u043a\u0430\u0440\u0430\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1108785341,
-    "wof:lastmodified":1555220448,
+    "wof:lastmodified":1561828580,
     "wof:name":"Tupkaraganskiy",
     "wof:parent_id":85672923,
     "wof:placetype":"county",

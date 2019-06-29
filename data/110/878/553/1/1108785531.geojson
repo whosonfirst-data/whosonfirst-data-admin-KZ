@@ -39,17 +39,17 @@
     "name:bul_x_preferred":[
         "\u0410\u043b\u0442\u044a\u043d\u0441\u0430\u0440\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Altynsarin District"
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03bb\u03c4\u03b9\u03bd\u03c3\u03b1\u03c1\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Altynsarinskiy"
     ],
-    "name:fre_x_preferred":[
-        "district d'Altynsarin"
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0627\u0644\u062a\u06cc\u0646\u0633\u0627\u0631\u06cc\u0646"
     ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03bb\u03c4\u03b9\u03bd\u03c3\u03b1\u03c1\u03af\u03bd"
+    "name:fra_x_preferred":[
+        "district d'Altynsarin"
     ],
     "name:ita_x_preferred":[
         "Distretto di Altynsarin"
@@ -57,14 +57,14 @@
     "name:kaz_x_preferred":[
         "\u0410\u043b\u0442\u044b\u043d\u0441\u0430\u0440\u0438\u043d \u0430\u0443\u0434\u0430\u043d\u044b"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u043b\u0442\u0438\u043d\u0441\u0430\u0440\u0438\u043d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Altynsarin"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u062e\u0634 \u0627\u0644\u062a\u06cc\u0646\u0633\u0627\u0631\u06cc\u0646"
+    "name:nld_x_preferred":[
+        "Altynsarin District"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0442\u044b\u043d\u0441\u0430\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1108785531,
-    "wof:lastmodified":1553718797,
+    "wof:lastmodified":1561828593,
     "wof:name":"Altynsarinskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

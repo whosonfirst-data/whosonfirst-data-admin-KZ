@@ -13,14 +13,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Ayteke Bi"
+    "name:ell_x_preferred":[
+        "\u0391\u03ca\u03c4\u03ad\u03ba\u03b5 \u039c\u03c0\u03b9"
     ],
     "name:eng_x_preferred":[
         "Ayteke Bi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03ca\u03c4\u03ad\u03ba\u03b5 \u039c\u03c0\u03b9"
     ],
     "name:kaz_x_preferred":[
         "\u04d8\u0439\u0442\u0435\u043a\u0435 \u0431\u0438 \u043a\u0435\u043d\u0442\u0456"
@@ -30,6 +27,9 @@
     ],
     "name:lav_x_preferred":[
         "Eitekebija"
+    ],
+    "name:nld_x_preferred":[
+        "Ayteke Bi"
     ],
     "name:pol_x_preferred":[
         "\u00c4jteke Bi"
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":421167355,
-    "wof:lastmodified":1553816355,
+    "wof:lastmodified":1561828606,
     "wof:name":"Ayteke Bi",
     "wof:parent_id":85672885,
     "wof:placetype":"locality",

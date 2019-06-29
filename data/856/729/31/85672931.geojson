@@ -36,26 +36,20 @@
     "name:aze_x_preferred":[
         "Cambul vilay\u0259ti"
     ],
-    "name:baq_x_preferred":[
-        "Zhambyl"
-    ],
     "name:bul_x_preferred":[
         "\u0416\u0430\u043c\u0431\u044a\u043b\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de J\u00e0mbil"
     ],
+    "name:ces_x_preferred":[
+        "\u017dambylsk\u00e1 oblast"
+    ],
     "name:che_x_preferred":[
         "\u0416\u0430\u043c\u0431\u044b\u043b\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:chi_x_preferred":[
-        "\u6c5f\u5e03\u723e\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "\u017dambylsk\u00e1 oblast"
-    ],
-    "name:dut_x_preferred":[
-        "Oblast Jamb\u0131l"
+    "name:deu_x_preferred":[
+        "Schambyl"
     ],
     "name:eng_x_preferred":[
         "Zhambyl"
@@ -66,32 +60,35 @@
     "name:est_x_preferred":[
         "\u017damb\u00f5li oblast"
     ],
+    "name:eus_x_preferred":[
+        "Zhambyl"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0698\u0645\u0628\u06cc\u0644"
+    ],
     "name:fin_x_preferred":[
         "Jamb\u0131lin alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oblys de Djamboul"
-    ],
-    "name:geo_x_preferred":[
-        "\u10df\u10d0\u10db\u10d1\u10d8\u10da\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Schambyl"
     ],
     "name:hin_x_preferred":[
         "\u091d\u093c\u093e\u092e\u092c\u093f\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:ice_x_preferred":[
-        "Djamb\u00fdlfylki"
-    ],
     "name:ind_x_preferred":[
         "Provinsi Zhambyl"
+    ],
+    "name:isl_x_preferred":[
+        "Djamb\u00fdlfylki"
     ],
     "name:ita_x_preferred":[
         "Regione di \u017dambyl"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30f3\u30d6\u30fc\u30eb\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10df\u10d0\u10db\u10d1\u10d8\u10da\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:kaz_x_preferred":[
         "Zhambyl Oblysy"
@@ -113,20 +110,20 @@
     "name:lit_x_preferred":[
         "\u017dambylo sritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0416\u0430\u043c\u0431\u0438\u043b"
-    ],
     "name:mar_x_preferred":[
         "\u091d\u093e\u0902\u092c\u0940\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0416\u0430\u043c\u0431\u0438\u043b"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Zhambyl"
+    ],
+    "name:nld_x_preferred":[
+        "Oblast Jamb\u0131l"
     ],
     "name:nno_x_preferred":[
         "Zjambyl oblast"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0698\u0645\u0628\u06cc\u0644"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0622\u0642\u062a\u0648\u0628\u06d2"
@@ -137,7 +134,7 @@
     "name:por_x_preferred":[
         "Jambyl"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Jamb\u00eel"
     ],
     "name:rus_x_preferred":[
@@ -186,6 +183,9 @@
     ],
     "name:war_x_preferred":[
         "Zhambyl"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c5f\u5e03\u723e\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"KAZ",
@@ -310,7 +310,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1553550447,
+    "wof:lastmodified":1561828555,
     "wof:name":"Zhambyl",
     "wof:parent_id":85632307,
     "wof:placetype":"region",
