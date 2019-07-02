@@ -39,17 +39,17 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0439\u0437\u0430\u043a\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Bayzak District"
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03b1\u03ca\u03b6\u03ac\u03ba"
     ],
     "name:eng_x_preferred":[
         "Bayzakskiy"
     ],
-    "name:fre_x_preferred":[
-        "district de Bayzak"
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u0627\u06cc\u0632\u0642"
     ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03b1\u03ca\u03b6\u03ac\u03ba"
+    "name:fra_x_preferred":[
+        "district de Bayzak"
     ],
     "name:ita_x_preferred":[
         "Distretto di Bajzaq"
@@ -57,14 +57,14 @@
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0439\u0437\u0430\u049b \u0430\u0443\u0434\u0430\u043d\u044b"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0411\u0430\u0458\u0437\u0430\u043a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Bayzak"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u0627\u06cc\u0632\u0642"
+    "name:nld_x_preferred":[
+        "Bayzak District"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0439\u0437\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":1108785487,
-    "wof:lastmodified":1553718794,
+    "wof:lastmodified":1561828598,
     "wof:name":"Bayzakskiy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

@@ -20,13 +20,7 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u0644\u0648\u062f\u0627\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u057e\u056c\u0578\u0564\u0561\u0580"
-    ],
     "name:aze_x_preferred":[
-        "Pavlodar"
-    ],
-    "name:baq_x_preferred":[
         "Pavlodar"
     ],
     "name:bel_x_preferred":[
@@ -50,23 +44,14 @@
     "name:che_x_preferred":[
         "\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u752b\u6d1b\u9054\u723e"
-    ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u06a4\u0644\u06c6\u062f\u0627\u0631"
-    ],
-    "name:cze_x_preferred":[
-        "Pavlodar"
     ],
     "name:dan_x_preferred":[
         "Pavlodar"
     ],
     "name:deu_x_preferred":[
         "Pawlodar"
-    ],
-    "name:dut_x_preferred":[
-        "Pavlodar"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03b2\u03bb\u03bf\u03bd\u03c4\u03ac\u03c1"
@@ -92,18 +77,6 @@
     "name:fra_x_preferred":[
         "Pavlodar"
     ],
-    "name:fre_x_preferred":[
-        "Pavlodar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10d5\u10da\u10dd\u10d3\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Pawlodar"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03b2\u03bb\u03bf\u03bd\u03c4\u03ac\u03c1"
-    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0ab5\u0ab2\u0acb\u0aa6\u0ab0"
     ],
@@ -115,6 +88,9 @@
     ],
     "name:hun_x_preferred":[
         "Pavlodar"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u057e\u056c\u0578\u0564\u0561\u0580"
     ],
     "name:ind_x_preferred":[
         "Pavlodar"
@@ -149,17 +125,17 @@
     "name:lit_x_preferred":[
         "Pavlodaras"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u093e\u0935\u094d\u0932\u094b\u0926\u0930"
     ],
-    "name:may_x_preferred":[
-        "Pavlodar"
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440"
     ],
     "name:mon_x_preferred":[
         "\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Pavlodar"
     ],
     "name:nld_x_preferred":[
         "Pavlodar"
@@ -176,9 +152,6 @@
     "name:pan_x_preferred":[
         "\u0a2a\u0a3e\u0a35\u0a32\u0a4b\u0a26\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0648\u0644\u0648\u062f\u0627\u0631\u060c \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u067e\u0627\u0648\u0644\u0648\u062f\u0631"
     ],
@@ -189,9 +162,6 @@
         "Pavlodar"
     ],
     "name:ron_x_preferred":[
-        "Pavlodar"
-    ],
-    "name:rum_x_preferred":[
         "Pavlodar"
     ],
     "name:rup_x_preferred":[
@@ -402,7 +372,7 @@
         }
     ],
     "wof:id":421176001,
-    "wof:lastmodified":1527726471,
+    "wof:lastmodified":1561828611,
     "wof:name":"Pavlodar",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

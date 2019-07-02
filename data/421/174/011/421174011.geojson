@@ -17,19 +17,13 @@
     "name:deu_x_preferred":[
         "Makinsk"
     ],
-    "name:dut_x_preferred":[
-        "Makinsk"
-    ],
     "name:eng_x_preferred":[
         "Mak\u012bnsk"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u06a9\u06cc\u0646\u0633\u06a9"
     ],
-    "name:fre_x_preferred":[
-        "Makinsk"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Makinsk"
     ],
     "name:ita_x_preferred":[
@@ -41,8 +35,8 @@
     "name:lit_x_preferred":[
         "Makinskas"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u06a9\u06cc\u0646\u0633\u06a9"
+    "name:nld_x_preferred":[
+        "Makinsk"
     ],
     "name:pol_x_preferred":[
         "Makinsk"
@@ -200,7 +194,7 @@
         }
     ],
     "wof:id":421174011,
-    "wof:lastmodified":1527716229,
+    "wof:lastmodified":1561828607,
     "wof:name":"Makinsk",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

@@ -22,8 +22,8 @@
     "name:deu_x_preferred":[
         "Merki"
     ],
-    "name:dut_x_preferred":[
-        "Merki"
+    "name:ell_x_preferred":[
+        "\u039c\u03ad\u03c1\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Merki"
@@ -34,14 +34,8 @@
     "name:fra_x_preferred":[
         "Merke"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Merki"
-    ],
-    "name:ger_x_preferred":[
-        "Merki"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ad\u03c1\u03ba\u03b9"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05e7\u05d9"
@@ -55,8 +49,8 @@
     "name:kaz_x_variant":[
         "Merke"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0631\u06a9\u0647"
+    "name:nld_x_preferred":[
+        "Merki"
     ],
     "name:pol_x_preferred":[
         "Merke"
@@ -116,7 +110,7 @@
         }
     ],
     "wof:id":421205513,
-    "wof:lastmodified":1553816391,
+    "wof:lastmodified":1561828607,
     "wof:name":"Merke",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

@@ -22,13 +22,7 @@
     "name:ara_x_preferred":[
         "\u0637\u0631\u0627\u0632"
     ],
-    "name:arm_x_preferred":[
-        "\u0539\u0561\u0580\u0561\u0566"
-    ],
     "name:aze_x_preferred":[
-        "Taraz"
-    ],
-    "name:baq_x_preferred":[
         "Taraz"
     ],
     "name:bel_x_preferred":[
@@ -43,26 +37,20 @@
     "name:cat_x_preferred":[
         "Taraz"
     ],
+    "name:ces_x_preferred":[
+        "Taraz"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0437"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u62c9\u5179"
-    ],
     "name:chv_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0437"
-    ],
-    "name:cze_x_preferred":[
-        "Taraz"
     ],
     "name:dan_x_preferred":[
         "Taraz"
     ],
     "name:deu_x_preferred":[
         "Taras"
-    ],
-    "name:dut_x_preferred":[
-        "Taraz"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03c1\u03ac\u03b6"
@@ -76,6 +64,9 @@
     "name:est_x_preferred":[
         "Taraz"
     ],
+    "name:eus_x_preferred":[
+        "Taraz"
+    ],
     "name:fas_x_preferred":[
         "\u0637\u0631\u0627\u0632"
     ],
@@ -85,20 +76,8 @@
     "name:fra_x_preferred":[
         "Taraz"
     ],
-    "name:fre_x_preferred":[
-        "Taraz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e0\u10d0\u10d6\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Taras"
-    ],
     "name:gle_x_preferred":[
         "Taraz"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03c1\u03ac\u03b6"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ab0\u0abe\u0a9d"
@@ -154,20 +133,20 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u0930\u0947\u091c"
     ],
-    "name:may_x_preferred":[
-        "Taraz"
-    ],
     "name:mon_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0437"
+    ],
+    "name:msa_x_preferred":[
+        "Taraz"
+    ],
+    "name:nld_x_preferred":[
+        "Taraz"
     ],
     "name:nno_x_preferred":[
         "Taraz"
     ],
     "name:nob_x_preferred":[
         "Taraz"
-    ],
-    "name:per_x_preferred":[
-        "\u0637\u0631\u0627\u0632"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u0631\u0627\u0632"
@@ -178,7 +157,7 @@
     "name:por_x_preferred":[
         "Taraz"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Taraz"
     ],
     "name:rup_x_preferred":[
@@ -358,7 +337,7 @@
         }
     ],
     "wof:id":890437805,
-    "wof:lastmodified":1527729750,
+    "wof:lastmodified":1561828611,
     "wof:name":"Taraz",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

@@ -16,17 +16,14 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0443\u043a"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Martuk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03c4\u03bf\u03cd\u03ba"
     ],
     "name:eng_x_preferred":[
         "Mortyq"
-    ],
-    "name:ger_x_preferred":[
-        "Martuk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c1\u03c4\u03bf\u03cd\u03ba"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05d8\u05d5\u05e7"
@@ -43,7 +40,10 @@
     "name:kaz_x_preferred":[
         "Mortyq"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Martuk"
+    ],
+    "name:nld_x_preferred":[
         "Martuk"
     ],
     "name:por_x_preferred":[
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":421168479,
-    "wof:lastmodified":1527716092,
+    "wof:lastmodified":1561828605,
     "wof:name":"Martok",
     "wof:parent_id":85672877,
     "wof:placetype":"locality",

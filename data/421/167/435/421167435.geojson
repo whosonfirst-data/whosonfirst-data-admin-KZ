@@ -19,14 +19,14 @@
     "name:deu_x_preferred":[
         "Borowski"
     ],
+    "name:deu_x_variant":[
+        "Borovskoy"
+    ],
     "name:eng_x_preferred":[
         "Borovskoy"
     ],
     "name:fra_x_preferred":[
         "Borowski"
-    ],
-    "name:ger_x_preferred":[
-        "Borovskoy"
     ],
     "name:hun_x_preferred":[
         "Borovszky"
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":421167435,
-    "wof:lastmodified":1527716161,
+    "wof:lastmodified":1561828607,
     "wof:name":"Borovskoye",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

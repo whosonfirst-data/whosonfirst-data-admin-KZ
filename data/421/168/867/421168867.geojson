@@ -14,17 +14,17 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Urzhar"
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03c1\u03b6\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Urzhar"
     ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03c1\u03b6\u03ac\u03c1"
-    ],
     "name:kaz_x_preferred":[
         "Uryzhar"
+    ],
+    "name:nld_x_preferred":[
+        "Urzhar"
     ],
     "name:pol_x_preferred":[
         "\u00dcr\u017car"
@@ -179,7 +179,7 @@
         }
     ],
     "wof:id":421168867,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561828605,
     "wof:name":"Urdzhar",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

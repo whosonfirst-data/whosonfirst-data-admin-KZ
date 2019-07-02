@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Saumalkol"
-    ],
     "name:eng_x_preferred":[
         "Saumalkol'"
     ],
@@ -24,6 +21,9 @@
     ],
     "name:kaz_x_variant":[
         "\u0421\u0430\u0443\u043c\u0430\u043b\u043a\u04e9\u043b"
+    ],
+    "name:nld_x_preferred":[
+        "Saumalkol"
     ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u043e\u0435"
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":421190553,
-    "wof:lastmodified":1514469939,
+    "wof:lastmodified":1561828609,
     "wof:name":"Volodarskoe",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

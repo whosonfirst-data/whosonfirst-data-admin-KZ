@@ -19,26 +19,23 @@
     "name:cat_x_preferred":[
         "Aksu"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u514b\u8607"
-    ],
-    "name:dut_x_preferred":[
-        "Aksu"
+    "name:deu_x_preferred":[
+        "Aqsu"
     ],
     "name:eng_x_preferred":[
         "Aqs\u016b"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0633\u0648\u060c \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Aqsw"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aksou"
     ],
     "name:fur_x_preferred":[
         "Aksu"
-    ],
-    "name:ger_x_preferred":[
-        "Aqsu"
     ],
     "name:ita_x_preferred":[
         "Aksu"
@@ -49,8 +46,8 @@
     "name:lit_x_preferred":[
         "Aksu"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06a9\u0633\u0648\u060c \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Aksu"
     ],
     "name:pol_x_preferred":[
         "Aksu"
@@ -75,6 +72,9 @@
     ],
     "name:vec_x_preferred":[
         "Aksu"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u514b\u8607"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":421194407,
-    "wof:lastmodified":1553816382,
+    "wof:lastmodified":1561828606,
     "wof:name":"Yermak",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

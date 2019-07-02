@@ -14,16 +14,13 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Ertis"
-    ],
     "name:eng_x_preferred":[
         "Ertis"
     ],
     "name:est_x_preferred":[
         "Jertis"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ertis"
     ],
     "name:ita_x_preferred":[
@@ -34,6 +31,9 @@
     ],
     "name:lit_x_preferred":[
         "Jertisas"
+    ],
+    "name:nld_x_preferred":[
+        "Ertis"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0440\u0442\u044b\u0448\u0441\u043a"
@@ -186,7 +186,7 @@
         }
     ],
     "wof:id":421168523,
-    "wof:lastmodified":1527716100,
+    "wof:lastmodified":1561828605,
     "wof:name":"Ertis",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

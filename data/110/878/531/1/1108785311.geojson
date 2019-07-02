@@ -39,17 +39,14 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u0439\u0441\u0430\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Zaysan District"
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0396\u03ad\u03b9\u03c3\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Zaysanskiy"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "district de Za\u00efssan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0396\u03ad\u03b9\u03c3\u03b5\u03bd"
     ],
     "name:ita_x_preferred":[
         "Distretto di Zajsan"
@@ -57,11 +54,14 @@
     "name:kaz_x_preferred":[
         "\u0417\u0430\u0439\u0441\u0430\u043d \u0430\u0443\u0434\u0430\u043d\u044b"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0417\u0430\u0458\u0441\u0430\u043d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Zaysan"
+    ],
+    "name:nld_x_preferred":[
+        "Zaysan District"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u0439\u0441\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1108785311,
-    "wof:lastmodified":1553718787,
+    "wof:lastmodified":1561828591,
     "wof:name":"Zaysanskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

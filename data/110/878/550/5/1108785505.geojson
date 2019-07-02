@@ -39,8 +39,8 @@
     "name:bul_x_preferred":[
         "\u0410\u043a\u0442\u043e\u0433\u0430\u0439\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Aktogay District"
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03ba\u03c4\u03bf\u03b3\u03ba\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Aktogay"
@@ -48,11 +48,11 @@
     "name:eng_x_variant":[
         "Aktogay District"
     ],
-    "name:fre_x_preferred":[
-        "district d\u2019Aktoga\u00ef"
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0627\u06a9\u062a\u0648\u06af\u0627\u06cc\u060c \u0627\u0633\u062a\u0627\u0646 \u06a9\u0627\u0631\u0627\u06af\u0648\u06cc"
     ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03ba\u03c4\u03bf\u03b3\u03ba\u03ac\u03b9"
+    "name:fra_x_preferred":[
+        "district d\u2019Aktoga\u00ef"
     ],
     "name:ita_x_preferred":[
         "Distretto di Aqto\u01e7aj"
@@ -63,14 +63,14 @@
     "name:kaz_x_preferred":[
         "\u0410\u049b\u0442\u043e\u0493\u0430\u0439 \u0430\u0443\u0434\u0430\u043d\u044b"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u043a\u0442\u043e\u0433\u0430\u0458"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Aktogay"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u062e\u0634 \u0627\u06a9\u062a\u0648\u06af\u0627\u06cc\u060c \u0627\u0633\u062a\u0627\u0646 \u06a9\u0627\u0631\u0627\u06af\u0648\u06cc"
+    "name:nld_x_preferred":[
+        "Aktogay District"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0442\u043e\u0433\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1108785505,
-    "wof:lastmodified":1555220449,
+    "wof:lastmodified":1561828583,
     "wof:name":"Aktogayskiy",
     "wof:parent_id":85672905,
     "wof:placetype":"county",

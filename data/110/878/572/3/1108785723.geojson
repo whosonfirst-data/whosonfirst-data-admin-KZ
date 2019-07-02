@@ -39,17 +39,14 @@
     "name:bul_x_preferred":[
         "\u0410\u0439\u0442\u0435\u043a\u0435\u0431\u0438\u0439\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:dut_x_preferred":[
-        "\u00c4yteke B\u00ef"
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03ca\u03c4\u03ad\u03ba\u03b5 \u039c\u03c0\u03b9"
     ],
     "name:eng_x_preferred":[
         "Aytekebiyskiy"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "district d'Ayteke Bi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03ca\u03c4\u03ad\u03ba\u03b5 \u039c\u03c0\u03b9"
     ],
     "name:ita_x_preferred":[
         "Distretto di \u00c4jteke Bi"
@@ -60,11 +57,14 @@
     "name:kor_x_preferred":[
         "\uc560\uc774\ud14c\ucf00\ube44 \uad70"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u0458\u0442\u0435\u043a\u0435 \u0411\u0438"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Ayteke Bi"
+    ],
+    "name:nld_x_preferred":[
+        "\u00c4yteke B\u00ef"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0622\u06d3\u062a\u06cc\u06a9\u06cc \u0628\u0627\u0626"
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1108785723,
-    "wof:lastmodified":1553718805,
+    "wof:lastmodified":1561828585,
     "wof:name":"Aytekebiyskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

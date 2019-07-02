@@ -19,16 +19,13 @@
     "name:dan_x_preferred":[
         "Beskol"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Beskol"
     ],
     "name:eng_x_preferred":[
         "Bishkul"
     ],
-    "name:fre_x_preferred":[
-        "Beskol"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Beskol"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +41,9 @@
         "\u0411\u0435\u0441\u043a\u043e\u043b"
     ],
     "name:msa_x_preferred":[
+        "Beskol"
+    ],
+    "name:nld_x_preferred":[
         "Beskol"
     ],
     "name:oci_x_preferred":[
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":421193287,
-    "wof:lastmodified":1527716140,
+    "wof:lastmodified":1561828606,
     "wof:name":"Beskol",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

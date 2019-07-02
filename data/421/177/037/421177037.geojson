@@ -17,14 +17,8 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u064a\u0633"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u96f7\u897f"
-    ],
     "name:deu_x_preferred":[
         "Arys"
-    ],
-    "name:dut_x_preferred":[
-        "Ar\u0131s"
     ],
     "name:eng_x_preferred":[
         "Arys"
@@ -33,12 +27,6 @@
         "Ar\u0131s"
     ],
     "name:fra_x_preferred":[
-        "Arys"
-    ],
-    "name:fre_x_preferred":[
-        "Arys"
-    ],
-    "name:ger_x_preferred":[
         "Arys"
     ],
     "name:jpn_x_preferred":[
@@ -221,7 +209,7 @@
         }
     ],
     "wof:id":421177037,
-    "wof:lastmodified":1527716480,
+    "wof:lastmodified":1561828610,
     "wof:name":"Arys",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

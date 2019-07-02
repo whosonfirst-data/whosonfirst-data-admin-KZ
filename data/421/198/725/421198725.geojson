@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Jereimentau"
     ],
-    "name:dut_x_preferred":[
-        "Ereymentau"
-    ],
     "name:eng_x_preferred":[
         "Ereymentau"
     ],
@@ -34,12 +31,6 @@
     ],
     "name:fra_x_preferred":[
         "Ere\u00efmentaou"
-    ],
-    "name:fre_x_preferred":[
-        "Ere\u00efmentaou"
-    ],
-    "name:ger_x_preferred":[
-        "Jereimentau"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05e8\u05d9\u05de\u05e0\u05d8\u05d0\u05d5"
@@ -53,8 +44,8 @@
     "name:lit_x_preferred":[
         "Jereimentau"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u06cc\u0645\u0646\u062a\u0627\u0648"
+    "name:nld_x_preferred":[
+        "Ereymentau"
     ],
     "name:pol_x_preferred":[
         "Jerejmentau"
@@ -221,7 +212,7 @@
         }
     ],
     "wof:id":421198725,
-    "wof:lastmodified":1527716352,
+    "wof:lastmodified":1561828609,
     "wof:name":"Ereymentau",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

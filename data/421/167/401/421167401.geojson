@@ -13,13 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Matay"
-    ],
     "name:eng_x_preferred":[
         "Matay"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Matay"
+    ],
+    "name:nld_x_preferred":[
         "Matay"
     ],
     "name:unk_x_variant":[
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":421167401,
-    "wof:lastmodified":1514469720,
+    "wof:lastmodified":1561828606,
     "wof:name":"Matay",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",
