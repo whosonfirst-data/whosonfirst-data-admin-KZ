@@ -36,6 +36,9 @@
     "mps:longitude":54.635531,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u0456\u044f\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043a\u0438\u0439\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:eng_x_preferred":[
         "Karakiyanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Karakiya District"
     ],
     "name:fra_x_preferred":[
         "district de Karakia"
@@ -70,6 +76,9 @@
         "\u041a\u0430\u0440\u0430\u043a\u0438\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:spa_x_preferred":[
+        "Karakiya"
+    ],
+    "name:tur_x_preferred":[
         "Karakiya"
     ],
     "name:ukr_x_preferred":[
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1108785363,
-    "wof:lastmodified":1561828592,
+    "wof:lastmodified":1563249690,
     "wof:name":"Karakiyanskiy",
     "wof:parent_id":85672923,
     "wof:placetype":"county",

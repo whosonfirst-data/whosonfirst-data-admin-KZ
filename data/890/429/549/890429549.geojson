@@ -15,8 +15,17 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Timiryazevo"
+    ],
     "name:eng_x_preferred":[
         "Timiryazevo"
+    ],
+    "name:eng_x_variant":[
+        "Timiryazevka"
     ],
     "name:kaz_x_preferred":[
         "T\u012bm\u012bryazevo"
@@ -33,6 +42,12 @@
     ],
     "name:rus_x_variant":[
         "\u0426\u0435\u043b\u0438\u043d\u043d\u044b\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Timirjazevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043c\u0456\u0440\u044f\u0437\u0454\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Tselinnoy"
@@ -71,7 +86,7 @@
         }
     ],
     "wof:id":890429549,
-    "wof:lastmodified":1561828612,
+    "wof:lastmodified":1563250113,
     "wof:name":"Timiryazevo",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

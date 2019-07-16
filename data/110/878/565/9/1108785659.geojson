@@ -39,6 +39,9 @@
     "name:bel_x_preferred":[
         "\u0410\u045e\u043b\u0456\u0435\u043a\u043e\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:bel_x_variant":[
+        "Tselinogradskiy"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0443\u043b\u0438\u0435\u043a\u043e\u043b\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:eng_x_preferred":[
         "Auliekol`skiy"
+    ],
+    "name:eng_x_variant":[
+        "Auliekol District"
     ],
     "name:fra_x_preferred":[
         "district d\u2019Auliekol"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108785659,
-    "wof:lastmodified":1561828592,
+    "wof:lastmodified":1563249693,
     "wof:name":"Auliekol`skiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

@@ -16,11 +16,17 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u0435\u043c\u0435\u0442\u043d\u043e\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Peremetnoe"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b5\u03bc\u03b9\u03cc\u03c4\u03bd\u03bf\u03b3\u03b9\u03b5"
     ],
     "name:eng_x_preferred":[
         "Peremetnoe"
+    ],
+    "name:eng_x_variant":[
+        "Peremyotnoye"
     ],
     "name:kaz_x_preferred":[
         "\u041f\u0435\u0440\u0435\u043c\u0435\u0442\u043d\u043e\u0435"
@@ -42,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Perem\u00ebtnoye"
+    ],
+    "name:uzb_x_preferred":[
+        "Lenger"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":421168619,
-    "wof:lastmodified":1561828605,
+    "wof:lastmodified":1563250012,
     "wof:name":"Peremetnoye",
     "wof:parent_id":85672893,
     "wof:placetype":"locality",

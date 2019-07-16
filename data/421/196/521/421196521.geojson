@@ -14,17 +14,26 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Embi"
+    ],
     "name:deu_x_preferred":[
         "Jembi"
     ],
     "name:eng_x_preferred":[
         "Emba"
     ],
+    "name:eng_x_variant":[
+        "Embi"
+    ],
     "name:est_x_preferred":[
         "Jembi"
     ],
     "name:fra_x_preferred":[
         "Emba"
+    ],
+    "name:hsb_x_preferred":[
+        "Embi"
     ],
     "name:hun_x_preferred":[
         "Emba"
@@ -200,7 +209,7 @@
         }
     ],
     "wof:id":421196521,
-    "wof:lastmodified":1561828609,
+    "wof:lastmodified":1563250078,
     "wof:name":"Emba",
     "wof:parent_id":85672877,
     "wof:placetype":"locality",

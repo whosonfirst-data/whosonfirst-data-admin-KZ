@@ -36,8 +36,14 @@
     "mps:longitude":70.370876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0430\u0440\u043a\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0416\u0430\u043d\u0430\u0430\u0440\u043a\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Suzakskiy"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0396\u03b1\u03bd\u03b1\u03ac\u03c1\u03ba\u03b1"
@@ -45,8 +51,14 @@
     "name:eng_x_preferred":[
         "Zhanaarkinskiy"
     ],
+    "name:eng_x_variant":[
+        "Zhanaarka District"
+    ],
     "name:fra_x_preferred":[
         "district de Janaarka"
+    ],
+    "name:hye_x_preferred":[
+        "\u053a\u0561\u0576\u0561\u0561\u0580\u056f\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Distretto di \u017da\u0144aarqa"
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1108785597,
-    "wof:lastmodified":1561828581,
+    "wof:lastmodified":1563249641,
     "wof:name":"Zhanaarkinskiy",
     "wof:parent_id":85672905,
     "wof:placetype":"county",

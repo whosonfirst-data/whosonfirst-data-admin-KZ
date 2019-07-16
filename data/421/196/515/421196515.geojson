@@ -13,11 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Chingirlau"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03bd\u03b3\u03ba\u03b9\u03c1\u03bb\u03ac\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Chingirlau"
+    ],
+    "name:eng_x_variant":[
+        "Shyngyrlau"
     ],
     "name:heb_x_preferred":[
         "\u05e6'\u05d9\u05e0\u05d2\u05d9\u05e8\u05dc\u05d0\u05d5"
@@ -39,6 +45,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0438\u043d\u0433\u0456\u0440\u043b\u0430\u0443"
+    ],
+    "name:war_x_preferred":[
+        "Beyneu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7533\u683c\u5c14\u52b3"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":421196515,
-    "wof:lastmodified":1561828609,
+    "wof:lastmodified":1563250079,
     "wof:name":"Chingirlau",
     "wof:parent_id":85672893,
     "wof:placetype":"locality",

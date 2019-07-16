@@ -14,6 +14,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sarkand"
+    ],
+    "name:cym_x_preferred":[
+        "Sarkand"
+    ],
     "name:deu_x_preferred":[
         "Sarqan"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:fra_x_preferred":[
         "Sarkand"
+    ],
+    "name:hsb_x_preferred":[
+        "Sarkan"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u0440\u049b\u0430\u043d"
@@ -57,6 +66,9 @@
         "Sarkand"
     ],
     "name:tat_x_preferred":[
+        "\u0421\u0430\u0440\u043a\u0430\u043d\u0434"
+    ],
+    "name:udm_x_preferred":[
         "\u0421\u0430\u0440\u043a\u0430\u043d\u0434"
     ],
     "name:ukr_x_preferred":[
@@ -206,7 +218,7 @@
         }
     ],
     "wof:id":421168875,
-    "wof:lastmodified":1561828605,
+    "wof:lastmodified":1563250015,
     "wof:name":"Sarkand",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

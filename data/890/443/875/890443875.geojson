@@ -15,6 +15,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043a\u0442\u0430\u0431\u044d"
+    ],
     "name:eng_x_preferred":[
         "Koktobe"
     ],
@@ -26,6 +29,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u044c\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043a\u0442\u043e\u0431\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043a\u0442\u043e\u0431\u0435"
     ],
     "name:unk_x_variant":[
         "Byelogor\u2019ye"
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":890443875,
-    "wof:lastmodified":1561828611,
+    "wof:lastmodified":1563250111,
     "wof:name":"K\u00f6kt\u00f6be",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

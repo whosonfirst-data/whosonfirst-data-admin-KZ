@@ -16,6 +16,15 @@
     "name:ara_x_preferred":[
         "\u0634\u062a\u0634\u0648\u062a\u0634\u064a\u0646\u0633\u0643"
     ],
+    "name:bel_x_preferred":[
+        "\u0428\u0447\u0443\u0447\u044b\u043d\u0441\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0447\u0443\u0447\u0438\u043d\u0441\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Shch\u016bch\u012bnsk"
+    ],
     "name:ckb_x_preferred":[
         "\u0634\u0686\u0648\u0686\u06cc\u0646\u0633\u06a9"
     ],
@@ -28,11 +37,17 @@
     "name:eng_x_preferred":[
         "Shch\u016bch\u012bnsk"
     ],
+    "name:eng_x_variant":[
+        "Shchuchinsk"
+    ],
     "name:eus_x_preferred":[
         "Stxutxinsk"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0686\u0648\u0686\u06cc\u0646\u0633\u06a9\u060c \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0686\u0648\u0686\u06cc\u0646\u0633\u06a9"
     ],
     "name:fin_x_preferred":[
         "\u0160t\u0161ut\u0161insk"
@@ -42,6 +57,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d5\u05e9\u05d9\u05e0\u05e1\u05e7"
+    ],
+    "name:hsb_x_preferred":[
+        "\u0160\u0107u\u010dinsk"
     ],
     "name:ita_x_preferred":[
         "Shchuchinsk"
@@ -61,6 +79,9 @@
     "name:pol_x_preferred":[
         "Szczuczy\u0144sk"
     ],
+    "name:pol_x_variant":[
+        "Szczuczinsk"
+    ],
     "name:rus_x_preferred":[
         "\u0429\u0443\u0447\u0438\u043d\u0441\u043a"
     ],
@@ -69,6 +90,12 @@
     ],
     "name:swe_x_preferred":[
         "Sjtjutjinsk"
+    ],
+    "name:tat_x_preferred":[
+        "\u0429\u0443\u0447\u0438\u043d\u0441\u043a"
+    ],
+    "name:udm_x_preferred":[
+        "\u0429\u0443\u0447\u0438\u043d\u0441\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u0429\u0443\u0447\u0438\u043d\u0441\u044c\u043a"
@@ -131,7 +158,7 @@
         }
     ],
     "wof:id":421167385,
-    "wof:lastmodified":1561828606,
+    "wof:lastmodified":1563250041,
     "wof:name":"Shchuchinsk",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

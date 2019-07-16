@@ -36,6 +36,12 @@
     "mps:longitude":67.202101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "Tupkaraganskiy"
+    ],
+    "name:bel_x_variant":[
+        "\u0416\u0430\u043d\u0430\u043a\u0430\u0440\u0433\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0416\u0430\u043d\u0430\u043a\u043e\u0440\u0433\u0430\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -44,6 +50,9 @@
     ],
     "name:eng_x_preferred":[
         "Zhanakorganskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zhanakorgan District"
     ],
     "name:fra_x_preferred":[
         "district de Janakorgan"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1108785669,
-    "wof:lastmodified":1561828581,
+    "wof:lastmodified":1563249638,
     "wof:name":"Zhanakorganskiy",
     "wof:parent_id":85672885,
     "wof:placetype":"county",

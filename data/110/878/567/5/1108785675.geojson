@@ -36,6 +36,12 @@
     "mps:longitude":66.465277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "Zhalagashskiy"
+    ],
+    "name:bel_x_variant":[
+        "\u0427\u044b\u0456\u043b\u0456\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0428\u0438\u0435\u043b\u0438\u0439\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -46,7 +52,8 @@
         "Shieli"
     ],
     "name:eng_x_variant":[
-        "NULL"
+        "NULL",
+        "Shieli District"
     ],
     "name:fra_x_preferred":[
         "district de Chieli"
@@ -98,7 +105,7 @@
         }
     ],
     "wof:id":1108785675,
-    "wof:lastmodified":1561828579,
+    "wof:lastmodified":1563249631,
     "wof:name":"Shieli",
     "wof:parent_id":85672885,
     "wof:placetype":"county",

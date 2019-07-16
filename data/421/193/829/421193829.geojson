@@ -20,8 +20,14 @@
     "name:eng_x_preferred":[
         "B\u016blaevo"
     ],
+    "name:eng_x_variant":[
+        "Bulayev"
+    ],
     "name:fra_x_preferred":[
         "Bulayev"
+    ],
+    "name:hsb_x_preferred":[
+        "Bulajewo"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30e9\u30a8\u30dc"
@@ -50,6 +56,12 @@
     "name:spa_x_preferred":[
         "Bulayev"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u043b\u0430\u0435\u0432"
+    ],
+    "name:udm_x_preferred":[
+        "\u0411\u0443\u043b\u0430\u0435\u0432\u043e"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043b\u0430\u0454\u0432\u043e"
     ],
@@ -58,6 +70,9 @@
     ],
     "name:uzb_x_preferred":[
         "Bulayev"
+    ],
+    "name:uzb_x_variant":[
+        "Bulaev"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -198,7 +213,7 @@
         }
     ],
     "wof:id":421193829,
-    "wof:lastmodified":1561828606,
+    "wof:lastmodified":1563250030,
     "wof:name":"Bulaevo",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

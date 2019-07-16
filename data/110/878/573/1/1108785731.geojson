@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Terektinskiy"
     ],
+    "name:eng_x_variant":[
+        "Terekti District"
+    ],
     "name:fra_x_preferred":[
         "district de Terekti"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108785731,
-    "wof:lastmodified":1561828587,
+    "wof:lastmodified":1563249668,
     "wof:name":"Terektinskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

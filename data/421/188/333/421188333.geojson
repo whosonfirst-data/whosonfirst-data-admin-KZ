@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0440\u044f\u0433\u0445\u0430\u0448"
+    ],
+    "name:ceb_x_preferred":[
+        "Saryaghash"
+    ],
     "name:deu_x_preferred":[
         "Saryaghasch"
     ],
@@ -27,6 +33,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e8\u05d9\u05d9\u05d2\u05e9"
+    ],
+    "name:hsb_x_preferred":[
+        "Saryaga\u0161"
+    ],
+    "name:ita_x_preferred":[
+        "Sarya\u01e7a\u0161"
     ],
     "name:kaz_x_preferred":[
         "Saryaghash"
@@ -48,6 +60,15 @@
     ],
     "name:rus_x_variant":[
         "\u0421\u0430\u0440\u044b\u0430\u0433\u0430\u0447"
+    ],
+    "name:swe_x_preferred":[
+        "Saryagasj"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0430\u0433\u0430\u0447"
+    ],
+    "name:udm_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0430\u0433\u0430\u0448"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0438\u0430\u0433\u0430\u0448"
@@ -102,7 +123,7 @@
         }
     ],
     "wof:id":421188333,
-    "wof:lastmodified":1561828608,
+    "wof:lastmodified":1563250064,
     "wof:name":"Saryaghash",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

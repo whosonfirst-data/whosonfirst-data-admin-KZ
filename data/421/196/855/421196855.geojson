@@ -14,6 +14,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0439\u043d\u0435\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Beyneu"
+    ],
     "name:deu_x_preferred":[
         "Beineu"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d9\u05e0\u05d9\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d9\u05d9\u05e0\u05d0\u05d5"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30a4\u30ce\u30a4"
@@ -62,8 +71,14 @@
     "name:uzb_x_preferred":[
         "Beyneu"
     ],
+    "name:uzb_x_variant":[
+        "Beynev"
+    ],
     "name:war_x_preferred":[
         "Beyneu"
+    ],
+    "name:zho_x_preferred":[
+        "\u522b\u4f0a\u6d85\u4e4c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -206,7 +221,7 @@
         }
     ],
     "wof:id":421196855,
-    "wof:lastmodified":1561828609,
+    "wof:lastmodified":1563250079,
     "wof:name":"Beyneu",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",

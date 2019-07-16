@@ -17,11 +17,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0633\u062a\u0646\u0627\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0648\u0633\u062a\u0627\u0646\u0627\u064a"
+    ],
     "name:aze_x_preferred":[
         "Qostanay"
     ],
+    "name:aze_x_variant":[
+        "Kostanay"
+    ],
     "name:bak_x_preferred":[
         "\u04a0\u043e\u0441\u0442\u0430\u043d\u0430\u0439"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0430\u043d\u0430\u0439"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b8\u09cd\u099f\u09be\u09a8\u09cd\u09af\u09be\u09af\u09bc"
@@ -71,6 +80,9 @@
     "name:fas_x_preferred":[
         "\u0642\u0648\u0633\u062a\u0627\u0646\u0627\u06cc\u060c \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0642\u0648\u0633\u062a\u0627\u0646\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Qostanay"
     ],
@@ -80,11 +92,17 @@
     "name:glg_x_preferred":[
         "Qostanay"
     ],
+    "name:glg_x_variant":[
+        "Qostanai"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab8\u0acd\u0a9f\u0ac7\u0aa8\u0abe\u0aaf"
     ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u0938\u094d\u0924\u093e\u0928\u0947"
+    ],
+    "name:hsb_x_preferred":[
+        "Kostonaj"
     ],
     "name:hun_x_preferred":[
         "Kosztanaj"
@@ -155,6 +173,9 @@
     "name:ron_x_preferred":[
         "Kostanai"
     ],
+    "name:ron_x_variant":[
+        "Qostana\u0131"
+    ],
     "name:rup_x_preferred":[
         "Kostanay"
     ],
@@ -176,6 +197,9 @@
     "name:srp_x_preferred":[
         "\u041a\u0443\u0441\u0442\u0430\u043d\u0430\u0458"
     ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0458"
+    ],
     "name:swe_x_preferred":[
         "Qostanaj"
     ],
@@ -194,6 +218,9 @@
     "name:tur_x_preferred":[
         "Kostanay"
     ],
+    "name:udm_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439"
     ],
@@ -205,6 +232,9 @@
     ],
     "name:uzb_x_preferred":[
         "Qo\u02bbstanay"
+    ],
+    "name:uzb_x_variant":[
+        "Qo\u02bbstanoy"
     ],
     "name:vep_x_preferred":[
         "Kostanai"
@@ -356,7 +386,7 @@
         }
     ],
     "wof:id":421203967,
-    "wof:lastmodified":1561828607,
+    "wof:lastmodified":1563250058,
     "wof:name":"Qostanay",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

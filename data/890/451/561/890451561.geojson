@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Kachar"
     ],
+    "name:eng_x_variant":[
+        "Katschar"
+    ],
     "name:fra_x_preferred":[
         "Katschar"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890451561,
-    "wof:lastmodified":1561828612,
+    "wof:lastmodified":1563250115,
     "wof:name":"Kachar",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

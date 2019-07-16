@@ -13,11 +13,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0428\u044d\u0442\u043f\u0435"
+    ],
     "name:bul_x_preferred":[
         "\u0428\u0435\u0442\u043f\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Shetpe"
+    ],
     "name:eng_x_preferred":[
         "Shetpe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u200c\u062a\u067e\u0647"
     ],
     "name:kaa_x_preferred":[
         "Shetpe"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":421173993,
-    "wof:lastmodified":1561828607,
+    "wof:lastmodified":1563250063,
     "wof:name":"Shetpe",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",

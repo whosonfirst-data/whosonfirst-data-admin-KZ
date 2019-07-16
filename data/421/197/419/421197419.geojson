@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0622\u0628\u0627\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0431\u0430\u0439"
+    ],
+    "name:ceb_x_preferred":[
+        "Abay"
+    ],
     "name:ces_x_preferred":[
         "Abaj"
     ],
@@ -34,8 +40,20 @@
     "name:fra_x_preferred":[
         "Aba\u00ef"
     ],
+    "name:hsb_x_preferred":[
+        "Abaj"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d1\u10d0\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0410\u0431\u0430\u0439"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0431\u0430\u0439 \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:lav_x_preferred":[
+        "Abaja"
     ],
     "name:lit_x_preferred":[
         "Abajus"
@@ -54,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Abaj"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0431\u0430\u0439"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0430\u0439"
@@ -115,7 +136,7 @@
         }
     ],
     "wof:id":421197419,
-    "wof:lastmodified":1561828610,
+    "wof:lastmodified":1563250083,
     "wof:name":"Aby",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

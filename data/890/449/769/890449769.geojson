@@ -14,11 +14,17 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0440\u044d\u0442\u0430\u043c"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u043e\u0440\u0435\u0442\u0430\u043c"
     ],
     "name:cat_x_preferred":[
         "Tyuratam"
+    ],
+    "name:ceb_x_preferred":[
+        "Baykonyr"
     ],
     "name:dan_x_preferred":[
         "Tjuratam"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":890449769,
-    "wof:lastmodified":1561828611,
+    "wof:lastmodified":1563250101,
     "wof:name":"Tyuratam",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

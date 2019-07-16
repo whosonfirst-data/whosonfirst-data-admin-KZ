@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Karabalykskiy"
     ],
+    "name:eng_x_variant":[
+        "Karabalyk District"
+    ],
     "name:fra_x_preferred":[
         "district de Karabalyk"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Karabalyk"
+    ],
+    "name:msa_x_variant":[
+        "Zelenovskiy"
     ],
     "name:nld_x_preferred":[
         "Karabalyk District"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108785333,
-    "wof:lastmodified":1561828580,
+    "wof:lastmodified":1563249635,
     "wof:name":"Karabalykskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

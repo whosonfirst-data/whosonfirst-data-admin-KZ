@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Kaztalovskiy"
     ],
+    "name:eng_x_variant":[
+        "Kaztal District"
+    ],
     "name:fra_x_preferred":[
         "district de Kaztal"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1108785703,
-    "wof:lastmodified":1561828597,
+    "wof:lastmodified":1563249715,
     "wof:name":"Kaztalovskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

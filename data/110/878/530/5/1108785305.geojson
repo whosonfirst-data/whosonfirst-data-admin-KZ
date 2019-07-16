@@ -36,6 +36,12 @@
     "mps:longitude":81.175322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "Kurmangazinskiy"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0430\u0440\u0430\u0434\u0443\u043b\u0456\u0445\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0434\u0443\u043b\u0438\u0445\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -44,6 +50,9 @@
     ],
     "name:eng_x_preferred":[
         "Borodulikhinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Borodulikha District"
     ],
     "name:fra_x_preferred":[
         "district de Borodulikha"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1108785305,
-    "wof:lastmodified":1561828587,
+    "wof:lastmodified":1563249673,
     "wof:name":"Borodulikhinskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

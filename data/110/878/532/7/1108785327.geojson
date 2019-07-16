@@ -39,11 +39,17 @@
     "name:bul_x_preferred":[
         "\u0416\u0430\u043d\u0438\u0431\u0435\u043a\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Zh\u00e4nibek A\u016bdany"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0396\u03b1\u03bd\u03b9\u03bc\u03c0\u03ad\u03ba"
     ],
     "name:eng_x_preferred":[
         "Dzhanybekskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zhanybek District"
     ],
     "name:fra_x_preferred":[
         "district de Janybek"
@@ -66,11 +72,17 @@
     "name:rus_x_preferred":[
         "\u0416\u0430\u043d\u0438\u0431\u0435\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:swe_x_preferred":[
+        "Zh\u00e4nibek A\u016bdany"
+    ],
     "name:ukr_x_preferred":[
         "\u0416\u0430\u043d\u0456\u0431\u0435\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:und_x_variant":[
         "\u0416\u0430\u043d\u0438\u0431\u0435\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d3e\u5185\u8d1d\u514b\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1108785327,
-    "wof:lastmodified":1561828584,
+    "wof:lastmodified":1563249653,
     "wof:name":"Dzhanybekskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

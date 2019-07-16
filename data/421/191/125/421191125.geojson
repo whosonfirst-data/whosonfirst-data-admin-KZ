@@ -16,26 +16,50 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:abk_x_preferred":[
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
+    ],
     "name:ace_x_preferred":[
         "Astana"
+    ],
+    "name:ace_x_variant":[
+        "Nur-Sultan"
     ],
     "name:ady_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
     ],
+    "name:ady_x_variant":[
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
+    ],
     "name:afr_x_preferred":[
         "Astana"
+    ],
+    "name:afr_x_variant":[
+        "Noersoeltan"
     ],
     "name:amh_x_preferred":[
         "\u12a0\u1235\u1273\u1293"
     ],
+    "name:amh_x_variant":[
+        "\u1291\u122d\u1221\u120d\u1273\u1295"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0633\u062a\u0627\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0648\u0631 \u0633\u0644\u0637\u0627\u0646"
     ],
     "name:arg_x_preferred":[
         "Astan\u00e1"
     ],
+    "name:arg_x_variant":[
+        "Nursultano"
+    ],
     "name:ast_x_preferred":[
         "Astan\u00e1"
+    ],
+    "name:ast_x_variant":[
+        "Nur-Sult\u00e1n"
     ],
     "name:ava_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
@@ -43,17 +67,35 @@
     "name:azb_x_preferred":[
         "\u0622\u0633\u062a\u0627\u0646\u0627"
     ],
+    "name:azb_x_variant":[
+        "\u0646\u0648\u0631\u0633\u0644\u0637\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "Astana"
+    ],
+    "name:aze_x_variant":[
+        "Nur-Sultan"
     ],
     "name:bak_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
     ],
+    "name:bak_x_variant":[
+        "\u041d\u0443\u0440-\u0441\u043e\u043b\u0442\u0430\u043d"
+    ],
+    "name:bcl_x_preferred":[
+        "Nur-Sultan"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0441\u0442\u0430\u043d\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b8\u09cd\u09a4\u09be\u09a8\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09a8\u09c2\u09b0\u09b8\u09c1\u09b2\u09a4\u09be\u09a8"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f0b\u0f66\u0f72\u0f0b\u0f50\u0f0b\u0f53\u0f0d"
@@ -61,23 +103,44 @@
     "name:bos_x_preferred":[
         "Astana"
     ],
+    "name:bos_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:bre_x_preferred":[
         "Astana"
+    ],
+    "name:bre_x_variant":[
+        "Nur-Sultan"
     ],
     "name:bul_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
+    ],
     "name:bxr_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
+    ],
+    "name:bxr_x_variant":[
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
     ],
     "name:cat_x_preferred":[
         "Astan\u00e0"
     ],
+    "name:cat_x_variant":[
+        "Nursultan"
+    ],
     "name:cdo_x_preferred":[
         "Astana"
     ],
+    "name:ceb_x_preferred":[
+        "Nur-Sultan"
+    ],
     "name:ces_x_preferred":[
         "Astana"
+    ],
+    "name:ces_x_variant":[
+        "Nur-Sultan"
     ],
     "name:che_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
@@ -88,131 +151,269 @@
     "name:cym_x_preferred":[
         "Astana"
     ],
+    "name:cym_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:dan_x_preferred":[
         "Astana"
+    ],
+    "name:dan_x_variant":[
+        "Nur-Sultan"
     ],
     "name:deu_x_preferred":[
         "Astana"
     ],
+    "name:deu_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:diq_x_preferred":[
         "Astana"
+    ],
+    "name:diq_x_variant":[
+        "Nur-Sultan"
     ],
     "name:dsb_x_preferred":[
         "Astana"
     ],
+    "name:dsb_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03c4\u03b1\u03bd\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03bf\u03c5\u03c1\u03c3\u03bf\u03c5\u03bb\u03c4\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Astana"
     ],
+    "name:eng_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:epo_x_preferred":[
         "Astano"
+    ],
+    "name:epo_x_variant":[
+        "Nur-Sultano"
     ],
     "name:est_x_preferred":[
         "Astana"
     ],
+    "name:est_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:eus_x_preferred":[
         "Astana"
+    ],
+    "name:eus_x_variant":[
+        "Nur-Sultan"
     ],
     "name:fas_x_preferred":[
         "\u0622\u0633\u062a\u0627\u0646\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0648\u0631\u0633\u0644\u0637\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Astana"
+    ],
+    "name:fin_x_variant":[
+        "Nur-Sultan"
     ],
     "name:fra_x_preferred":[
         "Astana"
     ],
+    "name:fra_x_variant":[
+        "Noursoultan"
+    ],
     "name:frp_x_preferred":[
         "Astana"
+    ],
+    "name:frp_x_variant":[
+        "Nur-Sultan"
     ],
     "name:frr_x_preferred":[
         "Astana"
     ],
+    "name:frr_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:fry_x_preferred":[
         "Astana"
+    ],
+    "name:fry_x_variant":[
+        "Nur-Sultan"
     ],
     "name:gag_x_preferred":[
         "Astana"
     ],
+    "name:gag_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:gla_x_preferred":[
         "Astana"
+    ],
+    "name:gla_x_variant":[
+        "Nur-Sultan"
     ],
     "name:gle_x_preferred":[
         "Astana"
     ],
+    "name:gle_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:glg_x_preferred":[
         "Astana"
+    ],
+    "name:glg_x_variant":[
+        "Nur-Sultan"
     ],
     "name:glv_x_preferred":[
         "Astana"
     ],
+    "name:glv_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab8\u0a9f\u0abe\u0aa8\u0abe"
+    ],
+    "name:guj_x_variant":[
+        "\u0aa8\u0ab0\u0acd\u0ab8\u0ab2\u0acd\u0a9f\u0aa8"
     ],
     "name:hak_x_preferred":[
         "Astana"
     ],
+    "name:hak_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:hat_x_preferred":[
         "Astana"
+    ],
+    "name:hat_x_variant":[
+        "Nur-Sultan"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e1\u05d8\u05e0\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05e0\u05d5\u05e8-\u05e1\u05d5\u05dc\u05d8\u05df"
+    ],
     "name:hif_x_preferred":[
         "Astana"
+    ],
+    "name:hif_x_variant":[
+        "Nur-Sultan"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0938\u094d\u0924\u093e\u0928\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u0928\u0942\u0930\u094d\u0938\u0941\u0932\u094d\u0924\u093e\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Astana"
+    ],
+    "name:hrv_x_variant":[
+        "Nur-Sultan"
     ],
     "name:hsb_x_preferred":[
         "Astana"
     ],
+    "name:hsb_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:hun_x_preferred":[
         "Asztana"
+    ],
+    "name:hun_x_variant":[
+        "Nur-Szultan"
     ],
     "name:hye_x_preferred":[
         "\u0531\u057d\u057f\u0561\u0576\u0561"
     ],
+    "name:hye_x_variant":[
+        "\u0546\u0578\u0582\u0580-\u054d\u0578\u0582\u056c\u0569\u0561\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u057d\u0569\u0561\u0576\u0561"
+    ],
     "name:ido_x_preferred":[
         "Astana"
+    ],
+    "name:ido_x_variant":[
+        "Nur-Sultan"
     ],
     "name:ile_x_preferred":[
         "Astana"
     ],
+    "name:ile_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:ilo_x_preferred":[
         "Astana"
+    ],
+    "name:ilo_x_variant":[
+        "Nur-Sultan"
+    ],
+    "name:ina_x_preferred":[
+        "Nur-Sultan"
     ],
     "name:ind_x_preferred":[
         "Astana"
     ],
+    "name:ind_x_variant":[
+        "Nur-Sultan"
+    ],
+    "name:inh_x_preferred":[
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
+    ],
     "name:isl_x_preferred":[
         "Astana"
+    ],
+    "name:isl_x_variant":[
+        "Nur-Sultan"
     ],
     "name:ita_x_preferred":[
         "Astana"
     ],
+    "name:ita_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:jav_x_preferred":[
         "Astana"
+    ],
+    "name:jav_x_variant":[
+        "Nur-Sultan"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30b9\u30bf\u30ca"
     ],
+    "name:jpn_x_variant":[
+        "\u30cc\u30eb-\u30b9\u30eb\u30bf\u30f3"
+    ],
     "name:kaa_x_preferred":[
         "Astana"
+    ],
+    "name:kaa_x_variant":[
+        "Nur-Sultan"
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0cb8\u0ccd\u0ca4\u0cbe\u0ca8"
     ],
+    "name:kan_x_variant":[
+        "\u0ca8-\u0cb8\u0cc1\u0cb2\u0ccd\u0ca4\u0cbe\u0ca8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10e1\u10e2\u10d0\u10dc\u10d0"
     ],
+    "name:kat_x_variant":[
+        "\u10dc\u10e3\u10e0-\u10e1\u10e3\u10da\u10d7\u10d0\u10dc\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430 \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u04b1\u0440-\u0441\u04b1\u043b\u0442\u0430\u043d"
     ],
     "name:kbd_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
@@ -220,8 +421,14 @@
     "name:kin_x_preferred":[
         "Astana"
     ],
+    "name:kin_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:kir_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
+    ],
+    "name:kir_x_variant":[
+        "\u041d\u0443\u0440-\u0441\u0443\u043b\u0442\u0430\u043d"
     ],
     "name:koi_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
@@ -232,41 +439,86 @@
     "name:kon_x_preferred":[
         "Astana"
     ],
+    "name:kon_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc2a4\ud0c0\ub098"
+    ],
+    "name:kor_x_variant":[
+        "\ub204\ub974\uc220\ud0c4"
     ],
     "name:kur_x_preferred":[
         "Astana"
     ],
+    "name:kur_x_variant":[
+        "Nur-Sultan"
+    ],
+    "name:lad_x_preferred":[
+        "Nur-Sultan"
+    ],
     "name:lat_x_preferred":[
         "Astana"
+    ],
+    "name:lat_x_variant":[
+        "Nur-Sultan"
     ],
     "name:lav_x_preferred":[
         "Astana"
     ],
+    "name:lav_x_variant":[
+        "Nursultana"
+    ],
     "name:lez_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
+    ],
+    "name:lfn_x_preferred":[
+        "Nur-Sultan"
     ],
     "name:lij_x_preferred":[
         "Astana"
     ],
+    "name:lij_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:lit_x_preferred":[
         "Astana"
+    ],
+    "name:lit_x_variant":[
+        "Nur-Sultanas"
     ],
     "name:lmo_x_preferred":[
         "Astana"
     ],
+    "name:lmo_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0627\u0646\u0647"
+    ],
+    "name:lrc_x_variant":[
+        "\u0622\u0633\u062a\u0627\u0646\u0671"
     ],
     "name:ltz_x_preferred":[
         "Astana"
     ],
+    "name:ltz_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:lzh_x_preferred":[
         "\u963f\u65af\u5854\u7d0d"
     ],
+    "name:lzh_x_variant":[
+        "\u52aa\u723e-\u8607\u4e39"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u0938\u094d\u0924\u093e\u0928\u093e"
+    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d38\u0d4d\u0d24\u0d3e\u0d28"
+    ],
+    "name:mal_x_variant":[
+        "\u0d28\u0d42\u0d7c-\u0d38\u0d41\u0d7d\u0d24\u0d4d\u0d24\u0d3e\u0d7b"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0938\u094d\u0924\u093e\u0928\u093e"
@@ -274,17 +526,35 @@
     "name:mhr_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
     ],
+    "name:mhr_x_variant":[
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
     ],
     "name:mlg_x_preferred":[
         "Astana"
     ],
+    "name:mlg_x_variant":[
+        "Nur-Sultan"
+    ],
+    "name:mlt_x_preferred":[
+        "Nur-Sultan"
+    ],
     "name:mon_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
     ],
+    "name:mon_x_variant":[
+        "\u041d\u0443\u0440-\u0441\u0443\u043b\u0442\u0430\u043d"
+    ],
     "name:mri_x_preferred":[
         "Astana"
+    ],
+    "name:mri_x_variant":[
+        "Nur-Sultan"
     ],
     "name:mrj_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
@@ -292,8 +562,14 @@
     "name:msa_x_preferred":[
         "Astana"
     ],
+    "name:msa_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:myv_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430 \u043e\u0448"
+    ],
+    "name:myv_x_variant":[
+        "\u0410\u0441\u0442\u0430\u043d\u0430"
     ],
     "name:mzn_x_preferred":[
         "\u0622\u0633\u062a\u0627\u0646\u0647"
@@ -301,29 +577,56 @@
     "name:nah_x_preferred":[
         "Astana"
     ],
+    "name:nah_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:nan_x_preferred":[
         "Astana"
+    ],
+    "name:nan_x_variant":[
+        "Nur-Sultan"
     ],
     "name:nep_x_preferred":[
         "\u0905\u0938\u094d\u091f\u093e\u0928\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u0905\u0938\u094d\u0924\u093e\u0928\u093e"
+    ],
     "name:nld_x_preferred":[
         "Astana"
+    ],
+    "name:nld_x_variant":[
+        "Noersoeltan"
     ],
     "name:nno_x_preferred":[
         "Astana"
     ],
+    "name:nno_x_variant":[
+        "Nursultan"
+    ],
     "name:nob_x_preferred":[
         "Astana"
+    ],
+    "name:nob_x_variant":[
+        "Nur-Sultan"
     ],
     "name:nov_x_preferred":[
         "Astana"
     ],
+    "name:nov_x_variant":[
+        "Nur-sultan"
+    ],
     "name:oci_x_preferred":[
         "Astana"
     ],
+    "name:oci_x_variant":[
+        "Nor-soltan"
+    ],
     "name:olo_x_preferred":[
         "Astana"
+    ],
+    "name:olo_x_variant":[
+        "Nur-sultan"
     ],
     "name:ori_x_preferred":[
         "\u0b05\u0b38\u0b4d\u0b24\u0b3e\u0b28\u0b3e"
@@ -331,23 +634,44 @@
     "name:oss_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
     ],
+    "name:oss_x_variant":[
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
+    ],
     "name:pan_x_preferred":[
         "\u0a05\u0a38\u0a24\u0a3e\u0a28\u0a3e"
+    ],
+    "name:pan_x_variant":[
+        "\u0a28\u0a30\u0a38\u0a42\u0a32\u0a24\u0a3e\u0a28"
     ],
     "name:pap_x_preferred":[
         "Astana"
     ],
+    "name:pap_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:pms_x_preferred":[
         "Astana"
+    ],
+    "name:pms_x_variant":[
+        "Nur-Sultan"
     ],
     "name:pnb_x_preferred":[
         "\u0622\u0633\u062a\u0627\u0646\u06c1 \u0634\u06c1\u0631"
     ],
+    "name:pnb_x_variant":[
+        "\u0646\u0648\u0631 \u0633\u0644\u0637\u0627\u0646"
+    ],
     "name:pol_x_preferred":[
         "Astana"
     ],
+    "name:pol_x_variant":[
+        "Nur-Su\u0142tan"
+    ],
     "name:por_x_preferred":[
         "Astana"
+    ],
+    "name:por_x_variant":[
+        "Nur-Sultan"
     ],
     "name:pus_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646\u0647"
@@ -355,14 +679,26 @@
     "name:que_x_preferred":[
         "Astana"
     ],
+    "name:que_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:ron_x_preferred":[
         "Astana"
+    ],
+    "name:ron_x_variant":[
+        "Nur-Sultan"
     ],
     "name:rup_x_preferred":[
         "Astana"
     ],
+    "name:rup_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
     ],
     "name:sah_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
@@ -370,29 +706,56 @@
     "name:scn_x_preferred":[
         "Astana"
     ],
+    "name:scn_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:sco_x_preferred":[
         "Astana"
+    ],
+    "name:sco_x_variant":[
+        "Nur-Sultan"
     ],
     "name:sgs_x_preferred":[
         "Astana"
     ],
+    "name:sgs_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:sin_x_preferred":[
         "\u0d85\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dcf"
+    ],
+    "name:sin_x_variant":[
+        "\u0db1\u0dd6\u0dbb\u0dca-\u0dc3\u0dd4\u0dbd\u0dca\u0dad\u0dcf\u0db1\u0dca"
     ],
     "name:slk_x_preferred":[
         "Astana"
     ],
+    "name:slk_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:slv_x_preferred":[
         "Astana"
+    ],
+    "name:slv_x_variant":[
+        "Nur-Sultan"
     ],
     "name:sna_x_preferred":[
         "Astana"
     ],
+    "name:sna_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:spa_x_preferred":[
         "Astan\u00e1"
     ],
+    "name:spa_x_variant":[
+        "Nur-Sult\u00e1n"
+    ],
     "name:sqi_x_preferred":[
         "Astana"
+    ],
+    "name:sqi_x_variant":[
+        "Nur-Sultan"
     ],
     "name:srd_x_preferred":[
         "Astan\u00e0"
@@ -400,38 +763,74 @@
     "name:srp_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
     ],
+    "name:srp_x_variant":[
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
+    ],
     "name:swa_x_preferred":[
         "Astana"
+    ],
+    "name:swa_x_variant":[
+        "Nur-Sultan"
     ],
     "name:swe_x_preferred":[
         "Astana"
     ],
+    "name:swe_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:szl_x_preferred":[
         "Astana"
+    ],
+    "name:szl_x_variant":[
+        "Nur-Sultan"
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0ba8\u0bc1\u0bb0\u0bcd-\u0b9a\u0bc1\u0bb2\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
+    ],
+    "name:tat_x_variant":[
+        "\u041d\u0443\u0440-\u0421\u043e\u043b\u0442\u0430\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c3e"
     ],
+    "name:tel_x_variant":[
+        "\u0c28\u0c42\u0c30\u0c4d-\u0c38\u0c41\u0c32\u0c4d\u0c24\u0c3e\u0c28\u0c4d"
+    ],
     "name:tgk_x_preferred":[
         "\u041e\u0441\u0442\u043e\u043d\u0430"
+    ],
+    "name:tgk_x_variant":[
+        "\u041d\u0443\u0440-\u0441\u0443\u043b\u0442\u043e\u043d"
     ],
     "name:tgl_x_preferred":[
         "Astana"
     ],
+    "name:tgl_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e2a\u0e15\u0e32\u0e19\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e19\u0e39\u0e23\u0e4c-\u0e0b\u0e38\u0e25\u0e15\u0e31\u0e19"
     ],
     "name:tuk_x_preferred":[
         "Astana"
     ],
+    "name:tuk_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:tur_x_preferred":[
         "Astana"
+    ],
+    "name:tur_x_variant":[
+        "Nursultan"
     ],
     "name:tyv_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
@@ -442,53 +841,110 @@
     "name:uig_x_preferred":[
         "Astana"
     ],
+    "name:uig_x_variant":[
+        "\u0626\u0627\u0633\u062a\u0627\u0646\u0627"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0633\u062a\u0627\u0646\u06c1"
     ],
+    "name:urd_x_variant":[
+        "\u0646\u0648\u0631\u0633\u0644\u0637\u0627\u0646"
+    ],
     "name:uzb_x_preferred":[
         "Ostona"
+    ],
+    "name:uzb_x_variant":[
+        "Nur-Sulton"
     ],
     "name:vec_x_preferred":[
         "Astana"
     ],
+    "name:vec_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:vep_x_preferred":[
         "Astan"
+    ],
+    "name:vep_x_variant":[
+        "Nur-Sultan"
     ],
     "name:vie_x_preferred":[
         "Astana"
     ],
+    "name:vie_x_variant":[
+        "Nur-Sultan"
+    ],
+    "name:vls_x_preferred":[
+        "Nur-Sultan"
+    ],
     "name:vol_x_preferred":[
         "Astana"
+    ],
+    "name:vol_x_variant":[
+        "Nur-Sultan"
     ],
     "name:vro_x_preferred":[
         "Astana"
     ],
+    "name:vro_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:war_x_preferred":[
         "Astana"
+    ],
+    "name:war_x_variant":[
+        "Nur-Sultan"
     ],
     "name:wol_x_preferred":[
         "Astana"
     ],
+    "name:wol_x_variant":[
+        "Nur-Sultan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u52aa\u5c14\u82cf\u4e39"
+    ],
     "name:xmf_x_preferred":[
         "\u10d0\u10e1\u10e2\u10d0\u10dc\u10d0"
+    ],
+    "name:xmf_x_variant":[
+        "\u10dc\u10e3\u10e0\u10e1\u10e3\u10da\u10d7\u10d0\u10dc\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05e1\u05d8\u05d0\u05e0\u05d0"
     ],
+    "name:yid_x_variant":[
+        "\u05e0\u05d5\u05e8\u05e1\u05d5\u05dc\u05d8\u05d0\u05b7\u05df"
+    ],
     "name:yor_x_preferred":[
         "Astana"
+    ],
+    "name:yor_x_variant":[
+        "Nur-Sultan"
     ],
     "name:yue_x_preferred":[
         "\u963f\u65af\u5854\u7d0d"
     ],
+    "name:yue_x_variant":[
+        "\u52aa\u723e\u8607\u4e39"
+    ],
     "name:zha_x_preferred":[
         "Astana"
     ],
+    "name:zha_x_variant":[
+        "Nur-Sultan"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u65af\u5854\u7d0d"
+    ],
+    "name:zho_x_variant":[
+        "\u52aa\u5c14-\u82cf\u4e39"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -545,7 +1001,7 @@
         }
     ],
     "wof:id":421191125,
-    "wof:lastmodified":1561828609,
+    "wof:lastmodified":1563250080,
     "wof:name":"Astana",
     "wof:parent_id":85672941,
     "wof:placetype":"locality",

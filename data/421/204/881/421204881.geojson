@@ -14,11 +14,20 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Maqat"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03ba\u03ac\u03c4"
     ],
     "name:eng_x_preferred":[
         "Maqat"
+    ],
+    "name:eng_x_variant":[
+        "Makat"
     ],
     "name:fra_x_preferred":[
         "Makat"
@@ -28,6 +37,9 @@
     ],
     "name:kaz_x_preferred":[
         "Maqat"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0430\u049b\u0430\u0442"
     ],
     "name:msa_x_preferred":[
         "Maqat"
@@ -41,8 +53,14 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043a\u0430\u0442"
     ],
+    "name:swe_x_preferred":[
+        "Makat"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0430\u0442"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
     ],
     "name:unk_x_variant":[
         "Makat"
@@ -52,6 +70,9 @@
     ],
     "name:war_x_preferred":[
         "Maqat"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5361\u7279"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -189,7 +210,7 @@
         }
     ],
     "wof:id":421204881,
-    "wof:lastmodified":1561828607,
+    "wof:lastmodified":1563250055,
     "wof:name":"Maqat",
     "wof:parent_id":85672889,
     "wof:placetype":"locality",

@@ -45,6 +45,12 @@
     "name:eng_x_preferred":[
         "Temirskiy"
     ],
+    "name:eng_x_variant":[
+        "Temir District"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0645\u06cc\u0631"
+    ],
     "name:fra_x_preferred":[
         "district de Temir"
     ],
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108785705,
-    "wof:lastmodified":1561828597,
+    "wof:lastmodified":1563249716,
     "wof:name":"Temirskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

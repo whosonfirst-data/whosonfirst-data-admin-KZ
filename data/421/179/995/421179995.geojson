@@ -14,8 +14,14 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u0428\u0430\u0433\u0430\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u0440\u0439\u0448\u0430\u0433\u0445\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Saryshaghan"
     ],
     "name:deu_x_preferred":[
         "Saryschaghan"
@@ -25,6 +31,9 @@
     ],
     "name:fra_x_preferred":[
         "Sarychagan"
+    ],
+    "name:ita_x_preferred":[
+        "Sary\u0161agan"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u0440\u044b\u0448\u0430\u0493\u0430\u043d"
@@ -44,8 +53,17 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u044b-\u0428\u0430\u0433\u0430\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0430\u0440\u044b\u0448\u0430\u0433\u0430\u043d"
+    ],
     "name:swe_x_preferred":[
         "Saryshaghan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0440\u0438\u0448\u0430\u0433\u0430\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u96f7\u6c99\u7518"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -185,7 +203,7 @@
         }
     ],
     "wof:id":421179995,
-    "wof:lastmodified":1561828610,
+    "wof:lastmodified":1563250091,
     "wof:name":"Saryshagan",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

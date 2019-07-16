@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0627\u063a\u0646\u062f\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Karagand\u00e1"
+    ],
     "name:aze_x_preferred":[
         "Qaraqanda"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0430"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0425\u0430\u0440\u0433\u0430\u043d\u0430\u0442\u0430"
     ],
     "name:cat_x_preferred":[
         "Kharagand\u00ed"
@@ -59,6 +65,9 @@
     ],
     "name:eng_x_preferred":[
         "Karagandy"
+    ],
+    "name:eng_x_variant":[
+        "Karaganda"
     ],
     "name:epo_x_preferred":[
         "Karagando"
@@ -99,11 +108,17 @@
     "name:hrv_x_preferred":[
         "Karaganda"
     ],
+    "name:hsb_x_preferred":[
+        "Karaganda"
+    ],
     "name:hun_x_preferred":[
         "Karagandi"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0580\u0561\u0563\u0561\u0576\u0564\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0533\u0561\u0580\u0561\u056f\u0561\u0576\u057f\u0561"
     ],
     "name:ile_x_preferred":[
         "Karaganda"
@@ -113,6 +128,9 @@
     ],
     "name:ita_x_preferred":[
         "Qara\u01e7andy"
+    ],
+    "name:ita_x_variant":[
+        "Karaganda"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30e9\u30ac\u30f3\u30c0"
@@ -125,6 +143,9 @@
     ],
     "name:kaz_x_preferred":[
         "Qara\u011fand\u0131"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0493\u0430\u043d\u0434\u044b"
     ],
     "name:kbd_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0430"
@@ -189,6 +210,9 @@
     "name:ron_x_preferred":[
         "Karagand\u00ee"
     ],
+    "name:ron_x_variant":[
+        "Qara\u01f5andy"
+    ],
     "name:rup_x_preferred":[
         "Karaganda"
     ],
@@ -209,6 +233,9 @@
     ],
     "name:spa_x_preferred":[
         "Karagand\u00e1"
+    ],
+    "name:sqi_x_preferred":[
+        "Karaganda"
     ],
     "name:srd_x_preferred":[
         "Karaganda"
@@ -233,6 +260,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e23\u0e32\u0e01\u0e31\u0e19\u0e14\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e06\u0e32\u0e23\u0e32\u0e06\u0e31\u0e19\u0e40\u0e14\u0e2d"
     ],
     "name:tuk_x_preferred":[
         "Garaganda"
@@ -298,7 +328,7 @@
         }
     ],
     "wof:id":890441713,
-    "wof:lastmodified":1561828611,
+    "wof:lastmodified":1563250103,
     "wof:name":"Karagandy",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

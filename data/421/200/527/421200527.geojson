@@ -19,6 +19,12 @@
     "name:eng_x_preferred":[
         "Sergeevka"
     ],
+    "name:eng_x_variant":[
+        "Sergeyevka"
+    ],
+    "name:hsb_x_preferred":[
+        "Sergejewka"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0435\u0440\u0433\u0435\u0435\u0432"
     ],
@@ -38,8 +44,23 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0433\u0435\u0435\u0432\u043a\u0430"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u0440\u0433\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:udm_x_preferred":[
+        "\u0421\u0435\u0440\u0433\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0440\u0433\u0456\u0454\u0432\u043a\u0430"
+    ],
     "name:uzb_x_preferred":[
         "Sergeyevka"
+    ],
+    "name:uzb_x_variant":[
+        "Sergeevka"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u57fa\u5df4\u65af\u5716\u8332"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -86,7 +107,7 @@
         }
     ],
     "wof:id":421200527,
-    "wof:lastmodified":1561828610,
+    "wof:lastmodified":1563250085,
     "wof:name":"Sergeyevka",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Kargalinskiy"
     ],
+    "name:eng_x_variant":[
+        "Kargaly District"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0627\u0631\u06af\u0627\u0644\u06cc"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1108785697,
-    "wof:lastmodified":1561828578,
+    "wof:lastmodified":1563249626,
     "wof:name":"Kargalinskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

@@ -39,11 +39,20 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0439\u0437\u0430\u043a\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Bayzak District"
+    ],
+    "name:ces_x_preferred":[
+        "Bajzack\u00fd raj\u00f3n"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03b1\u03ca\u03b6\u03ac\u03ba"
     ],
     "name:eng_x_preferred":[
         "Bayzakskiy"
+    ],
+    "name:eng_x_variant":[
+        "Bayzak District"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u0627\u06cc\u0632\u0642"
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":1108785487,
-    "wof:lastmodified":1561828598,
+    "wof:lastmodified":1563249717,
     "wof:name":"Bayzakskiy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

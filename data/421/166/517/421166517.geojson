@@ -16,8 +16,20 @@
     "name:deu_x_preferred":[
         "Korgas"
     ],
+    "name:eng_x_preferred":[
+        "Khorgas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0648\u0631\u063a\u0627\u0633"
+    ],
     "name:fra_x_preferred":[
         "Khorgos"
+    ],
+    "name:fra_x_variant":[
+        "Khorgas"
+    ],
+    "name:gan_x_preferred":[
+        "\u970d\u5c14\u679c\u65af\u5e02"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30eb\u30ac\u30b9\u5e02"
@@ -28,17 +40,38 @@
     "name:kik_x_preferred":[
         "Khorgas"
     ],
+    "name:nan_x_preferred":[
+        "Khorgas-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Khorgos"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0440\u0433\u043e\u0441"
     ],
     "name:spa_x_preferred":[
         "Horgos"
     ],
+    "name:tur_x_preferred":[
+        "Korgas"
+    ],
+    "name:uig_x_preferred":[
+        "\u0642\u0648\u0631\u063a\u0627\u0633 \u0634\u06d5\u06be\u0649\u0631\u0649"
+    ],
     "name:unk_x_variant":[
         "Qorghas"
     ],
     "name:urd_x_preferred":[
         "\u0642\u0648\u0631\u063a\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Khorgas"
+    ],
+    "name:wuu_x_preferred":[
+        "\u970d\u5c14\u679c\u65af\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u970d\u723e\u679c\u65af"
     ],
     "name:zho_x_preferred":[
         "\u970d\u5c14\u679c\u65af\u5e02"
@@ -95,7 +128,7 @@
         }
     ],
     "wof:id":421166517,
-    "wof:lastmodified":1527716103,
+    "wof:lastmodified":1563250025,
     "wof:name":"Khorgos",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

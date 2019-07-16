@@ -14,16 +14,31 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043a\u0456\u043d\u0441\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Mak\u012bnsk"
+    ],
     "name:deu_x_preferred":[
         "Makinsk"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03ba\u03af\u03bd\u03c3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Mak\u012bnsk"
+    ],
+    "name:eng_x_variant":[
+        "Makinsk"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u06a9\u06cc\u0646\u0633\u06a9"
     ],
     "name:fra_x_preferred":[
+        "Makinsk"
+    ],
+    "name:hsb_x_preferred":[
         "Makinsk"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +61,12 @@
     ],
     "name:swe_x_preferred":[
         "Makinsk"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u043a\u0438\u043d\u0441\u043a"
+    ],
+    "name:udm_x_preferred":[
+        "\u041c\u0430\u043a\u0438\u043d\u0441\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0456\u043d\u0441\u044c\u043a"
@@ -194,7 +215,7 @@
         }
     ],
     "wof:id":421174011,
-    "wof:lastmodified":1561828607,
+    "wof:lastmodified":1563250061,
     "wof:name":"Makinsk",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

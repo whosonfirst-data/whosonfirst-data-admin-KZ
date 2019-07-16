@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0623\u062a\u0627\u0633\u0648"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0442\u0430\u0441\u0443"
+    ],
     "name:deu_x_preferred":[
         "Atassu"
     ],
@@ -42,6 +45,9 @@
         "\u0410\u0442\u0430\u0441\u0443"
     ],
     "name:rus_x_preferred":[
+        "\u0410\u0442\u0430\u0441\u0443"
+    ],
+    "name:ukr_x_preferred":[
         "\u0410\u0442\u0430\u0441\u0443"
     ],
     "name:unk_x_variant":[
@@ -190,7 +196,7 @@
         }
     ],
     "wof:id":421175803,
-    "wof:lastmodified":1561828608,
+    "wof:lastmodified":1563250068,
     "wof:name":"Atasu",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

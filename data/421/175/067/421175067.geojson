@@ -13,11 +13,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043b\u0431\u0430\u0442\u0430\u0443"
+    ],
     "name:eng_x_preferred":[
         "Georg\u012bevka"
     ],
+    "name:eng_x_variant":[
+        "Kalbataou"
+    ],
     "name:fra_x_preferred":[
         "Kalbataou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30d0\u30bf\u30a4"
     ],
     "name:kaz_x_preferred":[
         "\u0413\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u043a\u0430"
@@ -27,6 +36,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u043b\u0431\u0430\u0442\u0430\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0431\u0430\u0442\u0430\u0443"
     ],
     "name:unk_x_variant":[
         "Georgiyevka"
@@ -75,7 +90,7 @@
         }
     ],
     "wof:id":421175067,
-    "wof:lastmodified":1561828608,
+    "wof:lastmodified":1563250072,
     "wof:name":"Georgievka",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

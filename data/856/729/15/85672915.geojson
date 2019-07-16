@@ -33,8 +33,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646 \u0627\u0644\u0634\u0631\u0642\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u063a\u0648 \u0642\u0627\u0632\u0627\u062e\u06cc\u0633\u062a\u0627\u0646 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "\u015e\u0259rqi Qazax\u0131stan vilay\u0259ti"
+    ],
+    "name:aze_x_variant":[
+        "\u015e\u0259rqi Qazax\u0131stan \u0259yal\u0259ti"
     ],
     "name:bel_x_preferred":[
         "\u0423\u0441\u0445\u043e\u0434\u043d\u0435-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -51,8 +57,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia del Kazakhstan Oriental"
     ],
+    "name:cat_x_variant":[
+        "prov\u00edncia del Kazakhstan Oriental"
+    ],
+    "name:ceb_x_preferred":[
+        "Shyghys Qazaqstan Oblysy"
+    ],
     "name:ces_x_preferred":[
         "V\u00fdchodokaza\u0161sk\u00e1 oblast"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u043b\u0445\u0431\u0430\u043b\u0435\u043d-\u041a\u0445\u0430\u0437\u0430\u043a\u0445\u0441\u0442\u0430\u043d\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:chv_x_preferred":[
         "\u0425\u0115\u0432\u0435\u043b\u0442\u0443\u0445\u0103\u00e7-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d \u043e\u0431\u043b\u0430\u00e7\u0115"
@@ -97,11 +112,20 @@
     "name:fra_x_variant":[
         "Kazakhstan oriental"
     ],
+    "name:frr_x_preferred":[
+        "Uastkasachstaan"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac2\u0ab0\u0acd\u0ab5 \u0a95\u0a9d\u0abe\u0a96\u0ab8\u0acd\u0aa4\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d4\u05de\u05d6\u05e8\u05d7"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u0942\u0930\u094d\u0935 \u0915\u093c\u093e\u091c\u093c\u093e\u0915\u093c\u0938\u094d\u0924\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0587\u0565\u056c\u0561\u0572\u0561\u0566\u0561\u056d\u0561\u056f\u0561\u0576 \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Provinsi Kazakhstan Timur"
@@ -111,6 +135,9 @@
     ],
     "name:ita_x_preferred":[
         "Oblys del Kazakistan Orientale"
+    ],
+    "name:ita_x_variant":[
+        "regione del Kazakistan Orientale"
     ],
     "name:jpn_x_preferred":[
         "\u6771\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3\u5dde"
@@ -131,6 +158,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub3d9\uce74\uc790\ud750\uc2a4\ud0c4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc2dc\uae30\uc2a4\uce74\uc791\uc2a4\ud0c4 \uc8fc"
     ],
     "name:lav_x_preferred":[
         "Austrumkazahst\u0101nas apgabals"
@@ -161,6 +191,9 @@
     ],
     "name:nob_x_preferred":[
         "\u00d8st-Kasakhstan"
+    ],
+    "name:nob_x_variant":[
+        "Vest Kazakhstan region"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0686\u0691\u06be\u062f\u0627 \u0642\u0627\u0632\u0642\u0633\u062a\u0627\u0646"
@@ -214,8 +247,14 @@
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e0b\u0e31\u0e04\u0e2a\u0e16\u0e32\u0e19\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e04\u0e32\u0e0b\u0e31\u0e04\u0e2a\u0e16\u0e32\u0e19\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01"
+    ],
     "name:tur_x_preferred":[
         "Do\u011fu Kazakistan Eyaleti"
+    ],
+    "name:uig_x_preferred":[
+        "\u0634\u06d5\u0631\u0642\u0649\u064a \u0642\u0627\u0632\u0627\u0642\u0649\u0633\u062a\u0627\u0646 \u0626\u0648\u0628\u0644\u0627\u0633\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0445\u0456\u0434\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -232,6 +271,9 @@
     ],
     "name:uzb_x_preferred":[
         "Sharqiy Qozog\u02bbiston"
+    ],
+    "name:uzb_x_variant":[
+        "Sharqiy Qozog\u02bbiston viloyati"
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4ng Kazakhstan"
@@ -366,7 +408,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1561828556,
+    "wof:lastmodified":1563248872,
     "wof:name":"East Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

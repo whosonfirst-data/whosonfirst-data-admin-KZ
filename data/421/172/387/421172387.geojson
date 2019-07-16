@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0421\u0446\u044f\u043f\u043d\u044f\u043a"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03c4\u03b5\u03c0\u03bd\u03b3\u03b9\u03ac\u03ba"
     ],
@@ -21,6 +24,12 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u067e\u0646\u06cc\u0627\u06a9\u060c \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u067e\u0646\u06cc\u0627\u06a9"
+    ],
+    "name:hsb_x_preferred":[
+        "Stepnjak"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0442\u0435\u043f\u043d\u044f\u043a"
@@ -40,14 +49,26 @@
     "name:rus_x_variant":[
         "\u0421\u043f\u0435\u043f\u043d\u044f\u043a"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u043d\u044f\u043a"
+    ],
+    "name:udm_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u043d\u044f\u043a"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u043f\u043d\u044f\u043a"
+    ],
+    "name:ukr_x_variant":[
+        "\u0428\u0430\u0440"
     ],
     "name:unk_x_variant":[
         "Stepniak"
     ],
     "name:uzb_x_preferred":[
         "Stepnyak"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u6377\u666e\u5c3c\u4e9a\u514b"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -94,7 +115,7 @@
         }
     ],
     "wof:id":421172387,
-    "wof:lastmodified":1561828608,
+    "wof:lastmodified":1563250065,
     "wof:name":"Stepnyak",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

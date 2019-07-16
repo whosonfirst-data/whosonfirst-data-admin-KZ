@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Kerbulakskiy"
     ],
+    "name:eng_x_variant":[
+        "Kerbulak District"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0642\u0631\u0628\u0648\u0644\u0627\u0642"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06a9\u0631\u0628\u0648\u0644\u06a9"
+    ],
+    "name:pnb_x_variant":[
+        "Talgarskiy"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0440\u0431\u0443\u043b\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1108785423,
-    "wof:lastmodified":1561828586,
+    "wof:lastmodified":1563249667,
     "wof:name":"Kerbulakskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

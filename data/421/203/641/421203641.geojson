@@ -16,8 +16,11 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0633\u0627\u0631\u064a"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041a\u0443\u043b\u044c\u0441\u0430\u0440\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Qulsary"
     ],
     "name:deu_x_preferred":[
         "Qulsary"
@@ -36,6 +39,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05dc\u05e1\u05e8\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Kulsary"
     ],
     "name:kaz_x_preferred":[
         "\u049a\u04b1\u043b\u0441\u0430\u0440\u044b"
@@ -67,8 +73,14 @@
     "name:swe_x_preferred":[
         "Kulsary"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u043b\u0441\u0430\u0440\u044b"
+    ],
     "name:tuk_x_preferred":[
         "Qulsary"
+    ],
+    "name:udm_x_preferred":[
+        "\u041a\u0443\u043b\u0441\u0430\u0440\u044b"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043b\u044c\u0441\u0430\u0440\u0438"
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":421203641,
-    "wof:lastmodified":1561828607,
+    "wof:lastmodified":1563250059,
     "wof:name":"Kulsary",
     "wof:parent_id":85672889,
     "wof:placetype":"locality",

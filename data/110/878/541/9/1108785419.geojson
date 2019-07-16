@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Karasayskiy"
     ],
+    "name:eng_x_variant":[
+        "Karasay District"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0642\u0631\u0647\u200c\u0633\u0627\u06cc"
     ],
@@ -72,6 +75,9 @@
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06a9\u0627\u0631\u0627\u0633\u06d2"
     ],
+    "name:por_x_preferred":[
+        "Karasay"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0441\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -83,6 +89,9 @@
     ],
     "name:und_x_variant":[
         "\u041a\u0430\u0440\u0430\u0441\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0636\u0644\u0639 \u0642\u0627\u0631\u0627\u0633\u0627\u0626\u06cc"
     ],
     "name:uzb_x_preferred":[
         "Qorasoy"
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":1108785419,
-    "wof:lastmodified":1561828596,
+    "wof:lastmodified":1563249709,
     "wof:name":"Karasayskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

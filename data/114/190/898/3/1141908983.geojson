@@ -14,6 +14,12 @@
     "lbl:longitude":55.100037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0439\u043d\u0435\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Beyneu"
+    ],
     "name:deu_x_preferred":[
         "Beineu"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d9\u05e0\u05d9\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d9\u05d9\u05e0\u05d0\u05d5"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30a4\u30ce\u30a4"
@@ -58,6 +67,9 @@
     ],
     "name:war_x_preferred":[
         "Beyneu"
+    ],
+    "name:zho_x_preferred":[
+        "\u522b\u4f0a\u6d85\u4e4c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -176,7 +188,7 @@
         }
     ],
     "wof:id":1141908983,
-    "wof:lastmodified":1561828628,
+    "wof:lastmodified":1563250673,
     "wof:name":"Beyneu",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",

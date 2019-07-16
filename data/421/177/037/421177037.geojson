@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u064a\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Arys"
+    ],
     "name:deu_x_preferred":[
         "Arys"
     ],
@@ -27,6 +30,12 @@
         "Ar\u0131s"
     ],
     "name:fra_x_preferred":[
+        "Arys"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d9\u05e1"
+    ],
+    "name:hsb_x_preferred":[
         "Arys"
     ],
     "name:jpn_x_preferred":[
@@ -59,6 +68,15 @@
     "name:rus_x_variant":[
         "\u0410\u0440\u044b\u0441\u044c",
         "Arys\u2019"
+    ],
+    "name:swe_x_preferred":[
+        "Arys"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0440\u044b\u0441"
+    ],
+    "name:udm_x_preferred":[
+        "\u0410\u0440\u044b\u0441"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0438\u0441\u044c"
@@ -209,7 +227,7 @@
         }
     ],
     "wof:id":421177037,
-    "wof:lastmodified":1561828610,
+    "wof:lastmodified":1563250089,
     "wof:name":"Arys",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

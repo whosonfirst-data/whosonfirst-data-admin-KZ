@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Akzharskiy"
     ],
+    "name:eng_x_variant":[
+        "Akzhar District"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u062e\u0634 \u0627\u06a9\u0632\u0627\u0631"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0436\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Uzunkol`skiy"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0436\u0430\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108785683,
-    "wof:lastmodified":1561828582,
+    "wof:lastmodified":1563249648,
     "wof:name":"Akzharskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

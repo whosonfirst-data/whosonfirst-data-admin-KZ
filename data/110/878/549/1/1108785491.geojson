@@ -45,8 +45,14 @@
     "name:eng_x_preferred":[
         "Khobdinskiy"
     ],
+    "name:eng_x_variant":[
+        "Kobda District"
+    ],
     "name:fra_x_preferred":[
         "district de Kobda"
+    ],
+    "name:hun_x_preferred":[
+        "Kobda j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Qobda"
@@ -65,6 +71,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06a9\u0648\u0628\u0688\u0627"
+    ],
+    "name:pnb_x_variant":[
+        "Zharkainskiy"
     ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0431\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":1108785491,
-    "wof:lastmodified":1561828594,
+    "wof:lastmodified":1563249701,
     "wof:name":"Khobdinskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

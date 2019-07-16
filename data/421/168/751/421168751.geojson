@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0646\u064a\u0628\u0643"
     ],
+    "name:ceb_x_preferred":[
+        "Zh\u00e4nibek"
+    ],
     "name:deu_x_preferred":[
         "Sch\u00e4nibek"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:eng_x_preferred":[
         "Zh\u00e4nibek"
+    ],
+    "name:eng_x_variant":[
+        "Zhanybek"
     ],
     "name:kaz_x_preferred":[
         "\u0416\u04d9\u043d\u0456\u0431\u0435\u043a \u0430\u0443\u044b\u043b\u044b"
@@ -38,11 +44,20 @@
     "name:rus_x_variant":[
         "\u0414\u0436\u0430\u043d\u044b\u0431\u0435\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Dzjanybek"
+    ],
     "name:ukr_x_preferred":[
         "\u0416\u0430\u043d\u0456\u0431\u0435\u043a"
     ],
     "name:unk_x_variant":[
         "Djanibek"
+    ],
+    "name:uzb_x_preferred":[
+        "Qandiag\u02bbash"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d3e\u5185\u8d1d\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -182,7 +197,7 @@
         }
     ],
     "wof:id":421168751,
-    "wof:lastmodified":1561828605,
+    "wof:lastmodified":1563250020,
     "wof:name":"Dzhanybek",
     "wof:parent_id":85672893,
     "wof:placetype":"locality",

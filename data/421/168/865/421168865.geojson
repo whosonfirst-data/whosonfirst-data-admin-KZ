@@ -14,14 +14,29 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0414\u0436\u0435\u0442\u0439\u0433\u0430\u0440\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Dzhetygara"
+    ],
+    "name:ces_x_preferred":[
+        "Zhetikara"
+    ],
     "name:deu_x_preferred":[
         "Schitiqara"
     ],
     "name:eng_x_preferred":[
         "Dzhetygara"
     ],
+    "name:eng_x_variant":[
+        "Zhetikara"
+    ],
     "name:fra_x_preferred":[
         "Jitikara"
+    ],
+    "name:hsb_x_preferred":[
+        "\u017ditikara"
     ],
     "name:kaz_x_preferred":[
         "Zhetiqara"
@@ -41,8 +56,17 @@
     "name:rus_x_preferred":[
         "\u0414\u0436\u0435\u0442\u044b\u0433\u0430\u0440\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0416\u0438\u0442\u0438\u043a\u0430\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Zjitiqara"
+    ],
     "name:tat_x_preferred":[
         "\u0496\u0435\u0442\u0435\u043a\u0430\u0440\u0430"
+    ],
+    "name:udm_x_preferred":[
+        "\u0416\u0438\u0442\u0438\u043a\u0430\u0440\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0442\u0456\u043a\u0430\u0440\u0430"
@@ -193,7 +217,7 @@
         }
     ],
     "wof:id":421168865,
-    "wof:lastmodified":1561828605,
+    "wof:lastmodified":1563250024,
     "wof:name":"Dzhetygara",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

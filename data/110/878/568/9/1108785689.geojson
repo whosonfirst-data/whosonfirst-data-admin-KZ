@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Timiryazevskiy"
     ],
+    "name:eng_x_variant":[
+        "Timiryazev District"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Timir\u00e2zev"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108785689,
-    "wof:lastmodified":1561828582,
+    "wof:lastmodified":1563249646,
     "wof:name":"Timiryazevskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",
