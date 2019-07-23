@@ -45,11 +45,17 @@
     "name:eng_x_preferred":[
         "Sarykol`skiy"
     ],
+    "name:eng_x_variant":[
+        "Sarykol District"
+    ],
     "name:fra_x_preferred":[
         "district de Sarykol"
     ],
     "name:ita_x_preferred":[
         "Distretto di Saryk\u00f6l"
+    ],
+    "name:jpn_x_preferred":[
+        "Ulytauskiy"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u0440\u044b\u043a\u04e9\u043b \u0430\u0443\u0434\u0430\u043d\u044b"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108785569,
-    "wof:lastmodified":1561828578,
+    "wof:lastmodified":1563249624,
     "wof:name":"Sarykol`skiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

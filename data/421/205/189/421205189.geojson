@@ -14,6 +14,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043b\u044b\u043a\u0448\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Balyqshy"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03bb\u03af\u03ba\u03c3\u03b9"
     ],
@@ -35,8 +41,14 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u044b\u043a\u0448\u0438"
     ],
+    "name:swe_x_preferred":[
+        "Balyksji"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043a\u0448\u0456"
+    ],
+    "name:ukr_x_variant":[
+        "Zyryanovsk"
     ],
     "name:unk_x_variant":[
         "Belykshi"
@@ -177,7 +189,7 @@
         }
     ],
     "wof:id":421205189,
-    "wof:lastmodified":1561828607,
+    "wof:lastmodified":1563250060,
     "wof:name":"Balykshi",
     "wof:parent_id":85672889,
     "wof:placetype":"locality",

@@ -48,6 +48,9 @@
     "name:eng_x_preferred":[
         "Karatobinskiy"
     ],
+    "name:eng_x_variant":[
+        "Karatobe District"
+    ],
     "name:fra_x_preferred":[
         "district de Karatobe"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1108785493,
-    "wof:lastmodified":1561828594,
+    "wof:lastmodified":1563249701,
     "wof:name":"Karatobinskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

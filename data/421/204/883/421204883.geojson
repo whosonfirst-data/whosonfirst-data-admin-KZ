@@ -17,23 +17,44 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0632\u0643\u0627\u0632\u063a\u0627\u0646"
     ],
-    "name:bel_x_variant":[
+    "name:aze_x_preferred":[
+        "Cezqazqan"
+    ],
+    "name:bak_x_preferred":[
+        "\u0415\u0499\u04a1\u0430\u0499\u0493\u0430\u043d"
+    ],
+    "name:bel_x_preferred":[
         "\u0416\u044d\u0437\u043a\u0430\u0437\u0433\u0430\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c7\u099c\u0995\u09be\u09af\u0997\u09be\u09a8"
     ],
     "name:bul_x_preferred":[
         "\u0416\u0435\u0437\u043a\u0430\u0437\u0433\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Zhezqazghan"
+    ],
     "name:che_x_preferred":[
         "\u0416\u0435\u0437\u043a\u0430\u0437\u0433\u0430\u043d"
     ],
+    "name:dan_x_preferred":[
+        "Jezkazgan"
+    ],
     "name:deu_x_preferred":[
         "Schesqasghan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b5\u03b6\u03ba\u03b1\u03b6\u03b3\u03ba\u03ac\u03bd"
     ],
     "name:eng_x_historical":[
         "Dzhezkazgan"
     ],
     "name:eng_x_preferred":[
         "Dzhezkazgan"
+    ],
+    "name:eng_x_variant":[
+        "Jezkazgan"
     ],
     "name:est_x_preferred":[
         "\u017dezkazgan"
@@ -50,8 +71,32 @@
     "name:fra_x_preferred":[
         "Jezkazgan"
     ],
+    "name:fra_x_variant":[
+        "Djezkazgan"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0ac7\u0a9d\u0a95\u0a9d\u0a97\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0947\u091c\u093c\u0915\u093e\u091c\u093c\u094d\u0917\u093e\u0928"
+    ],
+    "name:hsb_x_preferred":[
+        "\u017dezkazgan"
+    ],
     "name:hun_x_preferred":[
         "Zsezkazgan"
+    ],
+    "name:ind_x_preferred":[
+        "Jezqaz\u011fan"
+    ],
+    "name:ita_x_preferred":[
+        "Zhezkazgan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30a7\u30ba\u30ab\u30ba\u30ac\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cc6\u0c9c\u0ccd\u0c95\u0cbe\u0c9c\u0ccd\u0c97\u0ca8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10df\u10d4\u10d6\u10e7\u10d0\u10d6\u10e6\u10d0\u10dc\u10d8"
@@ -65,16 +110,28 @@
     "name:kir_x_preferred":[
         "\u0416\u0435\u0437\u043a\u0430\u0437\u0433\u0430\u043d"
     ],
+    "name:kor_x_preferred":[
+        "\uc81c\uc988\uce74\uc794"
+    ],
     "name:lav_x_preferred":[
         "\u017dezkazghana"
     ],
     "name:lit_x_preferred":[
         "\u017dezkazganas"
     ],
+    "name:mar_x_preferred":[
+        "\u091c\u0947\u091d\u0915\u093e\u091d\u0928"
+    ],
+    "name:msa_x_preferred":[
+        "Jezkazgan"
+    ],
     "name:nld_x_preferred":[
         "Jezqaz\u011fan"
     ],
     "name:nno_x_preferred":[
+        "Dzjezkazgan"
+    ],
+    "name:nob_x_preferred":[
         "Dzjezkazgan"
     ],
     "name:nor_x_preferred":[
@@ -85,6 +142,9 @@
     ],
     "name:por_x_preferred":[
         "Dzhezkazgan"
+    ],
+    "name:rup_x_preferred":[
+        "Zhezkazgan"
     ],
     "name:rus_x_historical":[
         "\u0414\u0436\u0435\u0437\u043a\u0430\u0437\u0433\u0430\u043d"
@@ -99,11 +159,35 @@
     "name:sco_x_preferred":[
         "Jezkazgan"
     ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0dda\u0dc3\u0dca\u0d9a\u0dc3\u0dca\u0d9c\u0db1\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Zhezkazgan"
     ],
     "name:srp_x_preferred":[
         "\u0416\u0435\u0441\u043a\u0430\u0437\u0433\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Zjezkazgan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bc6\u0bb8\u0bcd\u0b95\u0bbe\u0bb8\u0bcd\u0b95\u0ba3\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0496\u0438\u0437\u043a\u0430\u0437\u0433\u0430\u043d"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c46\u0c1c\u0c4d\u0c15\u0c1c\u0c4d\u0c17\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e08\u0e0b\u0e01\u0e32\u0e2a\u0e01\u0e31\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Jezkazgan"
+    ],
+    "name:udm_x_preferred":[
+        "\u0416\u0435\u0437\u043a\u0430\u0437\u0433\u0430\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0435\u0437\u043a\u0430\u0437\u0433\u0430\u043d"
@@ -261,7 +345,7 @@
         }
     ],
     "wof:id":421204883,
-    "wof:lastmodified":1527716184,
+    "wof:lastmodified":1563250056,
     "wof:name":"Dzhezkazgan",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

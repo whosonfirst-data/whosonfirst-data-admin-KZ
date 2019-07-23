@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Syrymskiy"
     ],
+    "name:eng_x_variant":[
+        "Syrym District"
+    ],
     "name:fra_x_preferred":[
         "district de Syrym"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108785495,
-    "wof:lastmodified":1561828594,
+    "wof:lastmodified":1563249702,
     "wof:name":"Syrymskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

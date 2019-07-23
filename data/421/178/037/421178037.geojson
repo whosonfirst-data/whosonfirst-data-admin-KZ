@@ -17,6 +17,9 @@
     "name:eng_x_preferred":[
         "Kishkenekol'"
     ],
+    "name:eng_x_variant":[
+        "Kishkenekol"
+    ],
     "name:fra_x_preferred":[
         "Kishkenekol"
     ],
@@ -36,6 +39,9 @@
     "name:rus_x_variant":[
         "Kishkenekol\u2019",
         "\u041a\u0437\u044b\u043b\u0442\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0448\u043a\u0435\u043d\u0435\u043a\u043e\u043b\u044c"
     ],
     "name:unk_x_variant":[
         "Qyzylt\u016b"
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":421178037,
-    "wof:lastmodified":1561828610,
+    "wof:lastmodified":1563250092,
     "wof:name":"Kishkenekol'",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

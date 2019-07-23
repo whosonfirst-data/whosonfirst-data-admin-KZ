@@ -38,6 +38,9 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d6'\u05e8\u05e7\u05e0\u05d8"
     ],
+    "name:hsb_x_preferred":[
+        "\u017darkent"
+    ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30eb\u30b1\u30f3\u30c8"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:lit_x_preferred":[
         "\u017darkentas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0416\u0430\u0440\u043a\u0435\u043d\u0442"
     ],
     "name:msa_x_preferred":[
         "Zharkent"
@@ -64,6 +70,12 @@
     ],
     "name:rus_x_variant":[
         "\u041f\u0430\u043d\u0444\u0438\u043b\u043e\u0432"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u0440\u043a\u04d9\u043d\u0442"
+    ],
+    "name:udm_x_preferred":[
+        "\u0416\u0430\u0440\u043a\u0435\u043d\u0442"
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0430\u0440\u043a\u0435\u043d\u0442"
@@ -214,7 +226,7 @@
         }
     ],
     "wof:id":421198739,
-    "wof:lastmodified":1561828609,
+    "wof:lastmodified":1563250074,
     "wof:name":"Panfilov",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

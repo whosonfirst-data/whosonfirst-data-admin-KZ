@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u0637\u0631\u0627\u0632"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0627\u0631\u0627\u0632"
+    ],
     "name:aze_x_preferred":[
         "Taraz"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u0440\u0430\u0437"
+    ],
+    "name:bel_x_variant":[
+        "\u0422\u0430\u0440\u0430\u0437"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b0\u09be\u099c"
@@ -35,6 +41,9 @@
         "\u0422\u0430\u0440\u0430\u0437"
     ],
     "name:cat_x_preferred":[
+        "Taraz"
+    ],
+    "name:ceb_x_preferred":[
         "Taraz"
     ],
     "name:ces_x_preferred":[
@@ -88,10 +97,16 @@
     "name:hin_x_preferred":[
         "\u0924\u093e\u0930\u093e\u091c\u093c"
     ],
+    "name:hsb_x_preferred":[
+        "Taraz"
+    ],
     "name:hun_x_preferred":[
         "Taraz"
     ],
     "name:hye_x_preferred":[
+        "\u0539\u0561\u0580\u0561\u0566"
+    ],
+    "name:hyw_x_preferred":[
         "\u0539\u0561\u0580\u0561\u0566"
     ],
     "name:ind_x_preferred":[
@@ -181,6 +196,9 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0bb0\u0bbe\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0437"
+    ],
     "name:tel_x_preferred":[
         "\u0c24\u0c3e\u0c30\u0c3e\u0c1c\u0c4d"
     ],
@@ -189,6 +207,12 @@
     ],
     "name:tur_x_preferred":[
         "Taraz"
+    ],
+    "name:udm_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0437"
+    ],
+    "name:uig_x_preferred":[
+        "\u062a\u0627\u0631\u0627\u0632"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0437"
@@ -337,7 +361,7 @@
         }
     ],
     "wof:id":890437805,
-    "wof:lastmodified":1561828611,
+    "wof:lastmodified":1563250105,
     "wof:name":"Taraz",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "name:afr_x_preferred":[
         "Almati"
     ],
+    "name:afr_x_variant":[
+        "Almaty"
+    ],
     "name:amh_x_preferred":[
         "\u12a0\u120d\u121b\u1272"
     ],
@@ -58,14 +61,23 @@
     "name:bos_x_preferred":[
         "Almati"
     ],
+    "name:bos_x_variant":[
+        "Almaty"
+    ],
     "name:bre_x_preferred":[
         "Almaty"
     ],
     "name:bul_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u0438"
     ],
+    "name:bxr_x_preferred":[
+        "\u0410\u043b\u0438\u043c\u0442\u0430"
+    ],
     "name:cat_x_preferred":[
         "Almati"
+    ],
+    "name:ceb_x_preferred":[
+        "Almaty"
     ],
     "name:ces_x_preferred":[
         "Almaty"
@@ -154,6 +166,9 @@
     "name:hrv_x_preferred":[
         "Almati"
     ],
+    "name:hsb_x_preferred":[
+        "Almaty"
+    ],
     "name:hun_x_preferred":[
         "Almati"
     ],
@@ -205,14 +220,23 @@
     "name:kir_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u0430"
     ],
+    "name:kir_x_variant":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
+    ],
     "name:kon_x_preferred":[
         "Almaty"
     ],
     "name:kor_x_preferred":[
         "\uc54c\ub9c8\ud2f0"
     ],
+    "name:lad_x_preferred":[
+        "Almaty"
+    ],
     "name:lat_x_preferred":[
         "Almaty"
+    ],
+    "name:lat_x_variant":[
+        "Almata"
     ],
     "name:lav_x_preferred":[
         "Almati"
@@ -257,6 +281,9 @@
         "\u0410\u043b\u043c\u0430\u0442\u044b"
     ],
     "name:msa_x_preferred":[
+        "Almaty"
+    ],
+    "name:nan_x_preferred":[
         "Almaty"
     ],
     "name:nap_x_preferred":[
@@ -312,6 +339,9 @@
     ],
     "name:ron_x_preferred":[
         "Almat\u00ee"
+    ],
+    "name:ron_x_variant":[
+        "Almaty"
     ],
     "name:rup_x_preferred":[
         "Almaty"
@@ -386,11 +416,17 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25\u0e21\u0e32\u0e15\u0e35"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e25\u0e21\u0e32\u0e40\u0e15\u0e2d"
+    ],
     "name:tuk_x_preferred":[
         "Almaty"
     ],
     "name:tur_x_preferred":[
         "Almat\u0131"
+    ],
+    "name:tyv_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
     ],
     "name:udm_x_preferred":[
         "\u0410\u043b\u043c\u0430-\u0410\u0442\u0430"
@@ -601,7 +637,7 @@
         }
     ],
     "wof:id":421176003,
-    "wof:lastmodified":1561828611,
+    "wof:lastmodified":1563250098,
     "wof:name":"Almaty",
     "wof:parent_id":85672937,
     "wof:placetype":"locality",

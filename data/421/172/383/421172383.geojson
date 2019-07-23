@@ -17,11 +17,17 @@
     "name:bul_x_preferred":[
         "\u0427\u0430\u043f\u0430\u0435\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Chapaev"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03b1\u03c0\u03ac\u03b3\u03b9\u03b5\u03c6"
     ],
     "name:eng_x_preferred":[
         "Chapaev"
+    ],
+    "name:heb_x_preferred":[
+        "Saryaghash"
     ],
     "name:kaz_x_preferred":[
         "\u0427\u0430\u043f\u0430\u0435\u0432"
@@ -37,6 +43,9 @@
     ],
     "name:swe_x_preferred":[
         "Tjapajev"
+    ],
+    "name:tur_x_preferred":[
+        "Chapaev"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043f\u0430\u0454\u0432"
@@ -185,7 +194,7 @@
         }
     ],
     "wof:id":421172383,
-    "wof:lastmodified":1561828608,
+    "wof:lastmodified":1563250064,
     "wof:name":"Chapayev",
     "wof:parent_id":85672893,
     "wof:placetype":"locality",

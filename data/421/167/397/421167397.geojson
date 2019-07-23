@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043b\u0430\u043b\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Molaly"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03bb\u03ac\u03bb\u03b9"
     ],
@@ -40,8 +43,14 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043b\u0430\u043b\u0438"
     ],
+    "name:ukr_x_variant":[
+        "\u0410\u0439\u0442\u0435\u043a\u0435-\u0431\u0456"
+    ],
     "name:unk_x_variant":[
         "Molaly"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u62c9\u96f7"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":421167397,
-    "wof:lastmodified":1561828606,
+    "wof:lastmodified":1563250034,
     "wof:name":"Mulaly",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

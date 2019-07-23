@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0644\u064a\u0633 \u0623\u0643\u062a\u0648\u0628\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0622\u0642\u200c\u062a\u067e\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Aqt\u00f6be vilay\u0259ti"
     ],
@@ -48,8 +51,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Aktob\u00e9"
     ],
+    "name:cat_x_variant":[
+        "prov\u00edncia d'Aktob\u00e9"
+    ],
+    "name:ceb_x_preferred":[
+        "Aktyubinskaya Oblast'"
+    ],
     "name:ces_x_preferred":[
         "Ak\u0165ubinsk\u00e1 oblast"
+    ],
+    "name:ces_x_variant":[
+        "Aktobsk\u00e1 oblast"
     ],
     "name:dan_x_preferred":[
         "Aktjubinsk oblast"
@@ -62,6 +74,9 @@
     ],
     "name:eng_x_preferred":[
         "Aqtobe"
+    ],
+    "name:eng_x_variant":[
+        "Aktobe Region"
     ],
     "name:epo_x_preferred":[
         "Provinco Aktobe"
@@ -81,8 +96,17 @@
     "name:fra_x_preferred":[
         "Oblys d'Aqt\u00f6be"
     ],
+    "name:fra_x_variant":[
+        "Aqt\u00f6be"
+    ],
+    "name:frr_x_preferred":[
+        "Aqt\u00f6be"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0a95\u0acd\u0a9f\u0acb\u0aac\u0ac7 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e7\u05d8\u05d5\u05d1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0915\u0924\u094b\u092c\u0947 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -123,6 +147,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc545\ud1f4\ubca0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc545\ud1f4\ubca0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Aktebes apgabals"
@@ -200,8 +227,14 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e01\u0e42\u0e15\u0e40\u0e1a"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e2d\u0e31\u0e01\u0e40\u0e15\u0e2d\u0e40\u0e1a\u0e35\u0e22"
+    ],
     "name:tur_x_preferred":[
         "Akt\u00f6be eyaleti"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u0627\u0642\u062a\u06c6\u0628\u06d5 \u0626\u0648\u0628\u0644\u0627\u0633\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0442\u044e\u0431\u0456\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -354,7 +387,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1561828552,
+    "wof:lastmodified":1563248856,
     "wof:name":"Aqt\u00f6be",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

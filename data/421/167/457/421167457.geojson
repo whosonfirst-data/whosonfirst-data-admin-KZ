@@ -14,6 +14,18 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bak_x_preferred":[
+        "\u0410\u044f\u0433\u04af\u0499"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u044f\u0433\u043e\u0437"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u044f\u0433\u043e\u0437"
+    ],
+    "name:ceb_x_preferred":[
+        "Ayagoz"
+    ],
     "name:deu_x_preferred":[
         "Ajag\u00f6s"
     ],
@@ -34,6 +46,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05d9\u05d2\u05d5\u05d6"
+    ],
+    "name:hsb_x_preferred":[
+        "Ajagoz"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10d0\u10e5\u10dd\u10d6\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u044f\u0433\u04e9\u0437"
@@ -60,11 +78,23 @@
     "name:rus_x_preferred":[
         "\u0410\u044f\u0433\u043e\u0437"
     ],
+    "name:rus_x_variant":[
+        "\u0410\u044f\u0433\u0443\u0437"
+    ],
     "name:spa_x_preferred":[
         "Ayagoz"
     ],
     "name:swe_x_preferred":[
         "Ajaguz"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u044f\u0433\u04af\u0437"
+    ],
+    "name:udm_x_preferred":[
+        "\u0410\u044f\u0433\u043e\u0437"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u044f\u0433\u043e\u0437"
     ],
     "name:unk_x_variant":[
         "Ayagoz"
@@ -218,7 +248,7 @@
         }
     ],
     "wof:id":421167457,
-    "wof:lastmodified":1561828607,
+    "wof:lastmodified":1563250049,
     "wof:name":"Ayaguz",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

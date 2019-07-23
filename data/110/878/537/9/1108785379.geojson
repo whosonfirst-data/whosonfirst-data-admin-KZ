@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Kyzylzharskiy"
     ],
+    "name:eng_x_variant":[
+        "Mamlyut District"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Maml\u00fbt"
     ],
@@ -74,6 +77,9 @@
     ],
     "name:uzb_x_preferred":[
         "Mamlyut"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u57fa\u5df4\u65af\u5716\u8332"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108785379,
-    "wof:lastmodified":1561828587,
+    "wof:lastmodified":1563249670,
     "wof:name":"Kyzylzharskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

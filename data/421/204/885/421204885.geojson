@@ -38,6 +38,12 @@
     "name:cat_x_preferred":[
         "Khizilord\u00e0"
     ],
+    "name:cat_x_variant":[
+        "Kizilord\u00e0"
+    ],
+    "name:ceb_x_preferred":[
+        "Kyzylorda"
+    ],
     "name:ces_x_preferred":[
         "Kyzylorda"
     ],
@@ -89,8 +95,17 @@
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0a9d\u0ac0\u0ab2\u0acb\u0ab0\u0acd\u0aa1\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d6\u05dc\u05d5\u05e8\u05d3\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u091c\u093c\u093f\u0932\u0913\u0930\u0921\u093e"
+    ],
+    "name:hsb_x_preferred":[
+        "Kyzylorda"
+    ],
+    "name:hun_x_preferred":[
+        "Kizilorda"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0566\u0568\u056c-\u0555\u0580\u0564\u0561"
@@ -115,6 +130,9 @@
     ],
     "name:kaz_x_variant":[
         "Q\u0131z\u0131lorda"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041e\u0440\u0434\u043e"
     ],
     "name:kor_x_preferred":[
         "\ud0a4\uc9c8\ub85c\ub974\ub2e4"
@@ -154,6 +172,9 @@
     ],
     "name:ron_x_preferred":[
         "K\u00eez\u00eelorda"
+    ],
+    "name:ron_x_variant":[
+        "Qyzylorda"
     ],
     "name:rup_x_preferred":[
         "Kyzylorda"
@@ -205,6 +226,9 @@
     ],
     "name:tur_x_preferred":[
         "K\u0131z\u0131lorda"
+    ],
+    "name:udm_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u043e\u0440\u0434\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0438\u0437\u0438\u043b\u043e\u0440\u0434\u0430"
@@ -365,7 +389,7 @@
         }
     ],
     "wof:id":421204885,
-    "wof:lastmodified":1561828607,
+    "wof:lastmodified":1563250057,
     "wof:name":"Qyzylorda",
     "wof:parent_id":85672885,
     "wof:placetype":"locality",

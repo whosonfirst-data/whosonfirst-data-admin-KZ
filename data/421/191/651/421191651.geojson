@@ -16,11 +16,17 @@
     "name:bul_x_preferred":[
         "\u0414\u0436\u0430\u043c\u0431\u0435\u0439\u0442\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Dzhambeyty"
+    ],
     "name:ell_x_preferred":[
         "\u0396\u03b9\u03bc\u03c0\u03af\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Zhymp\u012bty"
+    ],
+    "name:eng_x_variant":[
+        "Zhympity"
     ],
     "name:heb_x_preferred":[
         "\u05d6'\u05d9\u05de\u05e4\u05d9\u05d8\u05d9"
@@ -45,6 +51,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0438\u043c\u043f\u0456\u0442\u0438"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0438\u043d\u0433\u0456\u0440\u043b\u0430\u0443"
     ],
     "name:unk_x_variant":[
         "Dzhambeyty"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":421191651,
-    "wof:lastmodified":1561828609,
+    "wof:lastmodified":1563250080,
     "wof:name":"Zhympity",
     "wof:parent_id":85672893,
     "wof:placetype":"locality",

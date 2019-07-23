@@ -25,8 +25,14 @@
     "name:eng_x_preferred":[
         "Bishkul"
     ],
+    "name:eng_x_variant":[
+        "Beskol"
+    ],
     "name:fra_x_preferred":[
         "Beskol"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e1\u05e7\u05d5\u05dc"
     ],
     "name:ita_x_preferred":[
         "Beskol"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421193287,
-    "wof:lastmodified":1561828606,
+    "wof:lastmodified":1563250030,
     "wof:name":"Beskol",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

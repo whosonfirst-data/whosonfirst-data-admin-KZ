@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Kamystinskiy"
     ],
+    "name:eng_x_variant":[
+        "Kamysty District"
+    ],
     "name:fra_x_preferred":[
         "district de Kamysty"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u0438\u0441\u0442\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "Aktogayskiy"
     ],
     "name:und_x_variant":[
         "\u041a\u0430\u043c\u044b\u0441\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108785529,
-    "wof:lastmodified":1561828588,
+    "wof:lastmodified":1563249677,
     "wof:name":"Kamystinskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u0439\u0441\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Zaysan"
+    ],
     "name:deu_x_preferred":[
         "Saissan"
     ],
@@ -35,11 +38,17 @@
     "name:heb_x_preferred":[
         "\u05d6\u05d0\u05d9\u05e1\u05df"
     ],
+    "name:hsb_x_preferred":[
+        "\u017dajsan"
+    ],
     "name:jpn_x_preferred":[
         "\u30b6\u30a4\u30b5\u30f3"
     ],
     "name:kaz_x_preferred":[
         "Zaysan"
+    ],
+    "name:kaz_x_variant":[
+        "\u0417\u0430\u0439\u0441\u0430\u043d"
     ],
     "name:lit_x_preferred":[
         "Zaisanas"
@@ -62,8 +71,17 @@
     "name:swe_x_preferred":[
         "Zaysan"
     ],
+    "name:tat_x_preferred":[
+        "\u0417\u04d9\u0439\u0441\u04d9\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0439\u0441\u0430\u043d"
+    ],
     "name:unk_x_variant":[
         "Zaisan"
+    ],
+    "name:zho_x_preferred":[
+        "\u658b\u6851"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -202,7 +220,7 @@
         }
     ],
     "wof:id":421167359,
-    "wof:lastmodified":1561828606,
+    "wof:lastmodified":1563250043,
     "wof:name":"Zaysan",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

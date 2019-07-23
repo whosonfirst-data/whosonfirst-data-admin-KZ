@@ -39,11 +39,17 @@
     "name:bul_x_preferred":[
         "\u0422\u044e\u043b\u043a\u0443\u0431\u0430\u0441\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "T\u00fclkibas A\u016bdany"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03bf\u03c5\u03bb\u03ba\u03b9\u03bc\u03c0\u03ac\u03c2"
     ],
     "name:eng_x_preferred":[
         "Tyul`kubaskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tulkibas District"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u0644\u06a9\u06cc\u0628\u0627\u0633"
@@ -66,6 +72,9 @@
     "name:rus_x_preferred":[
         "\u0422\u044e\u043b\u044c\u043a\u0443\u0431\u0430\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:swe_x_preferred":[
+        "T\u00fclkibas A\u016bdany"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u044e\u043b\u044c\u043a\u0443\u0431\u0430\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -74,6 +83,9 @@
     ],
     "name:uzb_x_preferred":[
         "Tulkibosh"
+    ],
+    "name:zho_x_preferred":[
+        "Zhambylskiy"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":1108785605,
-    "wof:lastmodified":1561828579,
+    "wof:lastmodified":1563249629,
     "wof:name":"Tyul`kubaskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Zhualynskiy"
     ],
+    "name:eng_x_variant":[
+        "Zhualy District"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0698\u0648\u0622\u0644\u06cc"
     ],
@@ -75,8 +78,17 @@
     "name:rus_x_preferred":[
         "\u0416\u0443\u0430\u043b\u044b\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:tat_x_preferred":[
+        "\u0496\u0443\u0430\u043b\u044b \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
+    "name:tur_x_preferred":[
+        "Zhualy"
+    ],
     "name:ukr_x_preferred":[
         "\u0416\u0443\u0430\u043b\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "Uygurskiy"
     ],
     "name:und_x_variant":[
         "\u0416\u0443\u0430\u043b\u044b\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":1108785737,
-    "wof:lastmodified":1561828587,
+    "wof:lastmodified":1563249668,
     "wof:name":"Zhualynskiy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

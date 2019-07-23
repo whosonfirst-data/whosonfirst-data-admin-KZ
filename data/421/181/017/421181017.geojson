@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Esik"
+    ],
     "name:deu_x_preferred":[
         "Jessik"
     ],
@@ -32,6 +35,9 @@
     "name:heb_x_preferred":[
         "\u05d9\u05d9\u05e1\u05d9\u05e7"
     ],
+    "name:hsb_x_preferred":[
+        "Jesik"
+    ],
     "name:ita_x_preferred":[
         "Esik"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:kaz_x_preferred":[
         "Esik"
+    ],
+    "name:kaz_x_variant":[
+        "\u0415\u0441\u0456\u043a"
     ],
     "name:lit_x_preferred":[
         "Jesikas"
@@ -56,6 +65,9 @@
     "name:pol_x_preferred":[
         "Jesyk"
     ],
+    "name:por_x_preferred":[
+        "Esik"
+    ],
     "name:rus_x_preferred":[
         "\u0415\u0441\u0438\u043a"
     ],
@@ -64,6 +76,12 @@
     ],
     "name:swe_x_preferred":[
         "Issyk"
+    ],
+    "name:tat_x_preferred":[
+        "\u0418\u0448\u0435\u043a"
+    ],
+    "name:udm_x_preferred":[
+        "\u0415\u0441\u0438\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u0404\u0441\u0456\u043a"
@@ -214,7 +232,7 @@
         }
     ],
     "wof:id":421181017,
-    "wof:lastmodified":1561828608,
+    "wof:lastmodified":1563250067,
     "wof:name":"Issyk",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

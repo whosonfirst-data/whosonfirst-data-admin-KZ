@@ -48,6 +48,9 @@
     "name:eng_x_preferred":[
         "Mugalzharskiy"
     ],
+    "name:eng_x_variant":[
+        "Mugalzhar District"
+    ],
     "name:fra_x_preferred":[
         "district de Mugaljar"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0645\u063a\u0644\u0632\u06c1\u0631"
+    ],
+    "name:pnb_x_variant":[
+        "Aytekebiyskiy"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0433\u0430\u043b\u0436\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1108785725,
-    "wof:lastmodified":1561828585,
+    "wof:lastmodified":1563249657,
     "wof:name":"Mugalzharskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

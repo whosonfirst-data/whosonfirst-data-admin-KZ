@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Zelenovskiy"
     ],
+    "name:eng_x_variant":[
+        "Bayterek District"
+    ],
     "name:fra_x_preferred":[
         "district de Zelenov"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108785331,
-    "wof:lastmodified":1561828580,
+    "wof:lastmodified":1563249634,
     "wof:name":"Zelenovskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

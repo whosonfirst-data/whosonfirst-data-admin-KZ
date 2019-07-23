@@ -26,6 +26,12 @@
     "name:eng_x_preferred":[
         "Shemona\u012bkha"
     ],
+    "name:eng_x_variant":[
+        "Shemonaikha"
+    ],
+    "name:hsb_x_preferred":[
+        "\u0160emonaicha"
+    ],
     "name:kaz_x_preferred":[
         "\u0428\u0435\u043c\u043e\u043d\u0430\u0438\u0445\u0430"
     ],
@@ -38,11 +44,26 @@
     "name:pol_x_preferred":[
         "Szemonaicha"
     ],
+    "name:pol_x_variant":[
+        "Taranovskoye"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0435\u043c\u043e\u043d\u0430\u0438\u0445\u0430"
     ],
+    "name:tat_x_preferred":[
+        "\u0428\u0435\u043c\u043e\u043d\u0430\u0438\u0445\u0430"
+    ],
+    "name:udm_x_preferred":[
+        "\u0428\u0435\u043c\u043e\u043d\u0430\u0438\u0445\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043c\u043e\u043d\u0430\u0457\u0445\u0430"
+    ],
     "name:unk_x_variant":[
         "Shemona\u012bkha"
+    ],
+    "name:zho_x_preferred":[
+        "\u820d\u83ab\u5948\u54c8"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -181,7 +202,7 @@
         }
     ],
     "wof:id":421179991,
-    "wof:lastmodified":1561828610,
+    "wof:lastmodified":1563250090,
     "wof:name":"Shemonaikha",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Irgizskiy"
     ],
+    "name:eng_x_variant":[
+        "Yrgyz District"
+    ],
     "name:fra_x_preferred":[
         "district d'Yrgyz"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06cc\u0631\u06af\u06cc\u0632"
+    ],
+    "name:pnb_x_variant":[
+        "Mayskiy"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0440\u0433\u0438\u0437\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1108785715,
-    "wof:lastmodified":1561828594,
+    "wof:lastmodified":1563249704,
     "wof:name":"Irgizskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

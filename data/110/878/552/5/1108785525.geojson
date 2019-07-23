@@ -36,8 +36,14 @@
     "mps:longitude":61.114866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0416\u044b\u0442\u044b\u043a\u0430\u0440\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0416\u0438\u0442\u0438\u043a\u0430\u0440\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Zhetiqara Qalasy"
     ],
     "name:ces_x_preferred":[
         "\u017ditikarsk\u00fd rajon"
@@ -47,6 +53,9 @@
     ],
     "name:eng_x_preferred":[
         "Zhitikarinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zhetikara District"
     ],
     "name:fra_x_preferred":[
         "district de Jitikara"
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":1108785525,
-    "wof:lastmodified":1561828589,
+    "wof:lastmodified":1563249679,
     "wof:name":"Zhitikarinskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

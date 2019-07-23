@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Shu"
+    ],
     "name:ces_x_preferred":[
         "\u0160u"
     ],
@@ -26,8 +29,17 @@
     "name:fas_x_preferred":[
         "\u0634\u0648\u060c \u0698\u0645\u0628\u06cc\u0644"
     ],
+    "name:fas_x_variant":[
+        "\u0634\u0648"
+    ],
     "name:fra_x_preferred":[
         "Chou"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5"
+    ],
+    "name:hsb_x_preferred":[
+        "\u0160u"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e5"
@@ -62,13 +74,22 @@
     "name:swe_x_preferred":[
         "Sju"
     ],
+    "name:tat_x_preferred":[
+        "\u0427\u0443"
+    ],
     "name:tur_x_preferred":[
         "\u015eu"
+    ],
+    "name:udm_x_preferred":[
+        "\u0428\u0443"
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0443"
     ],
     "name:unk_x_variant":[
+        "Chu"
+    ],
+    "name:uzb_x_preferred":[
         "Chu"
     ],
     "name:zho_x_preferred":[
@@ -212,7 +233,7 @@
         }
     ],
     "wof:id":421175785,
-    "wof:lastmodified":1561828608,
+    "wof:lastmodified":1563250069,
     "wof:name":"Shu",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

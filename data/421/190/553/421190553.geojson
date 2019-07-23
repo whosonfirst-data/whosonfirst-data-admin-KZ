@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Saumalkol'"
     ],
+    "name:eng_x_variant":[
+        "Saumalkol"
+    ],
     "name:kaz_x_preferred":[
         "Sa\u016bmalk\u00f6l"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421190553,
-    "wof:lastmodified":1561828609,
+    "wof:lastmodified":1563250081,
     "wof:name":"Volodarskoe",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Chingirlauskiy"
     ],
+    "name:eng_x_variant":[
+        "Shyngyrlau District"
+    ],
     "name:fra_x_preferred":[
         "district de Chynguirlaou"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:und_x_variant":[
         "\u0427\u0438\u043d\u0433\u0438\u0440\u043b\u0430\u0443\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u7533\u683c\u5c14\u52b3\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108785711,
-    "wof:lastmodified":1561828594,
+    "wof:lastmodified":1563249702,
     "wof:name":"Chingirlauskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

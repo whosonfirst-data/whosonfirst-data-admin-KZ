@@ -23,6 +23,9 @@
     "name:kaz_x_preferred":[
         "Zhosaly"
     ],
+    "name:kaz_x_variant":[
+        "\u0416\u043e\u0441\u0430\u043b\u044b \u043a\u0435\u043d\u0442\u0456"
+    ],
     "name:nld_x_preferred":[
         "Zhosaly"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0443\u0441\u0430\u043b\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0416\u043e\u0441\u0430\u043b\u044b"
     ],
     "name:ukr_x_preferred":[
         "\u0416\u043e\u0441\u0430\u043b\u0438"
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":421180741,
-    "wof:lastmodified":1561828607,
+    "wof:lastmodified":1563250062,
     "wof:name":"Dzhusaly",
     "wof:parent_id":85672885,
     "wof:placetype":"locality",

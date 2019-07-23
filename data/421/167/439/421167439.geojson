@@ -17,8 +17,14 @@
     "name:eng_x_preferred":[
         "Best\u00f6be"
     ],
+    "name:eng_x_variant":[
+        "Bestobe"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u0435\u0441\u0442\u04e9\u0431\u0435"
+    ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u0441\u0442\u04e9\u0431\u0435 \u043a\u0435\u043d\u0442\u0456"
     ],
     "name:nld_x_preferred":[
         "Bestobe"
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":421167439,
-    "wof:lastmodified":1561828606,
+    "wof:lastmodified":1563250037,
     "wof:name":"Bestobe",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

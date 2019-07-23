@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Karasuskiy"
     ],
+    "name:eng_x_variant":[
+        "Karasu District"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0642\u0631\u0647 \u0633\u0648"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:spa_x_preferred":[
         "Karasu"
+    ],
+    "name:spa_x_variant":[
+        "Altynsarinskiy"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0441\u0443\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1108785533,
-    "wof:lastmodified":1561828593,
+    "wof:lastmodified":1563249697,
     "wof:name":"Karasuskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

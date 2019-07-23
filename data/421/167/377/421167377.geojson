@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Sm\u012brnovo"
     ],
+    "name:eng_x_variant":[
+        "Smirnovo"
+    ],
     "name:fra_x_preferred":[
         "Smirnovo"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:swe_x_preferred":[
         "Smirnovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043c\u0438\u0440\u043d\u043e\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Sm\u012birnovo"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421167377,
-    "wof:lastmodified":1561828606,
+    "wof:lastmodified":1563250040,
     "wof:name":"Smirnovo",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

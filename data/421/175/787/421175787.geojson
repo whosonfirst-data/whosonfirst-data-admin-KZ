@@ -38,6 +38,12 @@
     "name:cat_x_preferred":[
         "Semei"
     ],
+    "name:cat_x_variant":[
+        "Semipalatinsk"
+    ],
+    "name:ceb_x_preferred":[
+        "Semey"
+    ],
     "name:ces_x_preferred":[
         "Semej"
     ],
@@ -96,6 +102,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u092e\u0947"
+    ],
+    "name:hsb_x_preferred":[
+        "Semej"
     ],
     "name:hun_x_preferred":[
         "Szemej"
@@ -163,8 +172,14 @@
     "name:por_x_preferred":[
         "Semei"
     ],
+    "name:por_x_variant":[
+        "Semey"
+    ],
     "name:ron_x_preferred":[
         "Semei"
+    ],
+    "name:ron_x_variant":[
+        "Seme\u0131"
     ],
     "name:rup_x_preferred":[
         "Semey"
@@ -223,8 +238,14 @@
     "name:tuk_x_preferred":[
         "Semey"
     ],
+    "name:tuk_x_variant":[
+        "Semipalatinsk"
+    ],
     "name:tur_x_preferred":[
         "Semey"
+    ],
+    "name:udm_x_preferred":[
+        "\u0421\u0435\u043c\u0435\u0439"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043c\u0435\u0439"
@@ -391,7 +412,7 @@
         }
     ],
     "wof:id":421175787,
-    "wof:lastmodified":1561828608,
+    "wof:lastmodified":1563250073,
     "wof:name":"Semey",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

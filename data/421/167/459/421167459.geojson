@@ -17,6 +17,12 @@
     "name:ara_x_preferred":[
         "\u0623\u062a\u0628\u0627\u0633\u0627\u0631"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0442\u0431\u0430\u0441\u0430\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Atbasar"
+    ],
     "name:deu_x_preferred":[
         "Atbassar"
     ],
@@ -35,6 +41,9 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d8\u05d1\u05e1\u05e8"
     ],
+    "name:hsb_x_preferred":[
+        "Atbasar"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0569\u0562\u0561\u057d\u0561\u0580"
     ],
@@ -43,6 +52,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30c8\u30d0\u30b5\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d7\u10d1\u10d0\u10e1\u10d0\u10e0\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0442\u0431\u0430\u0441\u0430\u0440"
@@ -69,6 +81,9 @@
         "Atbasar"
     ],
     "name:tat_x_preferred":[
+        "\u0410\u0442\u0431\u0430\u0441\u0430\u0440"
+    ],
+    "name:udm_x_preferred":[
         "\u0410\u0442\u0431\u0430\u0441\u0430\u0440"
     ],
     "name:ukr_x_preferred":[
@@ -221,7 +236,7 @@
         }
     ],
     "wof:id":421167459,
-    "wof:lastmodified":1561828607,
+    "wof:lastmodified":1563250050,
     "wof:name":"Atbasar",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

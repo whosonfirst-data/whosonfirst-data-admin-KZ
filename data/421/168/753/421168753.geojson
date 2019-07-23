@@ -23,6 +23,9 @@
     "name:bak_x_preferred":[
         "\u0410\u04a1\u0442\u04af\u0431\u04d9"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0442\u0430\u0431\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u0995\u09a4\u09cb\u09ac\u09c7"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:cat_x_preferred":[
         "Aktob\u00e9"
+    ],
+    "name:ceb_x_preferred":[
+        "Aqt\u00f6be"
     ],
     "name:ces_x_preferred":[
         "Aktobe"
@@ -53,6 +59,9 @@
     "name:eng_x_preferred":[
         "Aqt\u00f6be"
     ],
+    "name:eng_x_variant":[
+        "Aktobe"
+    ],
     "name:epo_x_preferred":[
         "Aktobe"
     ],
@@ -64,6 +73,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0622\u0642\u062a\u0648\u0628\u0647\u060c \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0642\u062a\u0648\u0628\u0647"
     ],
     "name:fin_x_preferred":[
         "Aqt\u00f6be"
@@ -83,6 +95,9 @@
     "name:hin_x_preferred":[
         "\u0905\u0915\u094d\u091f\u094b\u092c\u0947"
     ],
+    "name:hsb_x_preferred":[
+        "Aktobe"
+    ],
     "name:hun_x_preferred":[
         "Akt\u00f6be"
     ],
@@ -97,6 +112,9 @@
     ],
     "name:ita_x_preferred":[
         "Aktobe"
+    ],
+    "name:ita_x_variant":[
+        "Aqt\u00f6be"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30af\u30c8\u30d9"
@@ -146,6 +164,9 @@
     "name:nob_x_preferred":[
         "Aktobe"
     ],
+    "name:oss_x_preferred":[
+        "\u0410\u043a\u0442\u043e\u0431\u0435"
+    ],
     "name:pan_x_preferred":[
         "\u0a05\u0a15\u0a24\u0a4b\u0a2c\u0a47"
     ],
@@ -154,6 +175,9 @@
     ],
     "name:pol_x_preferred":[
         "Aktiube"
+    ],
+    "name:pol_x_variant":[
+        "Aktobe"
     ],
     "name:por_x_preferred":[
         "Aqt\u00f6be"
@@ -177,6 +201,9 @@
         "\u0d85\u0d9a\u0dca\u0da7\u0ddd\u0db6\u0dda"
     ],
     "name:spa_x_preferred":[
+        "Aktobe"
+    ],
+    "name:sqi_x_preferred":[
         "Aktobe"
     ],
     "name:srp_x_preferred":[
@@ -369,7 +396,7 @@
         }
     ],
     "wof:id":421168753,
-    "wof:lastmodified":1561828605,
+    "wof:lastmodified":1563250011,
     "wof:name":"Aqtobe",
     "wof:parent_id":85672877,
     "wof:placetype":"locality",

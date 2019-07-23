@@ -36,8 +36,14 @@
     "mps:longitude":67.411286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "Zhanaarkinskiy"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0442\u0440\u0430\u0440\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Otyrar A\u016bdany"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039f\u03c4\u03b9\u03c1\u03ac\u03c1"
@@ -68,6 +74,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041e\u0442\u044b\u0440\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Otyrar A\u016bdany"
     ],
     "name:tat_x_preferred":[
         "\u0423\u0442\u0440\u0430\u0440 \u0440\u0430\u0439\u043e\u043d\u044b"
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1108785593,
-    "wof:lastmodified":1561828581,
+    "wof:lastmodified":1563249641,
     "wof:name":"Otrarskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

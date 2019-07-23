@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Taskalinskiy"
     ],
+    "name:eng_x_variant":[
+        "Taskala District"
+    ],
     "name:fra_x_preferred":[
         "district de Taskala"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:und_x_variant":[
         "\u0422\u0430\u0441\u043a\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u65af\u5361\u62c9\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108785329,
-    "wof:lastmodified":1561828584,
+    "wof:lastmodified":1563249653,
     "wof:name":"Taskalinskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

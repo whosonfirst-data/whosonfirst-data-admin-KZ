@@ -39,11 +39,17 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0439\u0434\u0438\u0431\u0435\u043a\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Alghabas A\u016bdany"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03b1\u03ca\u03bd\u03c4\u03b9\u03bc\u03c0\u03ad\u03ba"
     ],
     "name:eng_x_preferred":[
         "Baydibekskiy"
+    ],
+    "name:eng_x_variant":[
+        "Baydibek District"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u06cc\u062f\u06cc\u0628\u06a9"
@@ -65,6 +71,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0439\u0434\u0438\u0431\u0435\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Alghabas A\u016bdany"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u0411\u0430\u0439\u0434\u0456\u0431\u0435\u043a\u0430"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1108785583,
-    "wof:lastmodified":1561828579,
+    "wof:lastmodified":1563249632,
     "wof:name":"Baydibekskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

@@ -30,11 +30,20 @@
     "name:ace_x_preferred":[
         "Propinsi Kazakhstan Utara"
     ],
+    "name:ace_x_variant":[
+        "Propinsi Kazakhstan Bar\u00f4h"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0632\u0626\u06cc \u0642\u0627\u0632\u0627\u062e\u06cc\u0633\u062a\u0627\u0646 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "\u015eimali Qazax\u0131stan vilay\u0259ti"
+    ],
+    "name:aze_x_variant":[
+        "\u015eimal\u0131 Qazax\u0131stan vilay\u0259ti"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -50,6 +59,12 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia del Kazakhstan Septentrional"
+    ],
+    "name:cat_x_variant":[
+        "prov\u00edncia del Kazakhstan Septentrional"
+    ],
+    "name:ceb_x_preferred":[
+        "Severo-Kazakhstanskaya Oblast'"
     ],
     "name:ces_x_preferred":[
         "Severokaza\u0161sk\u00e1 oblast"
@@ -68,6 +83,9 @@
     ],
     "name:eng_x_preferred":[
         "Soltustik Qazaqstan"
+    ],
+    "name:eng_x_variant":[
+        "North Kazakhstan Region"
     ],
     "name:epo_x_preferred":[
         "Provinco Norda Kaza\u0125io"
@@ -90,8 +108,14 @@
     "name:fra_x_variant":[
         "Kazakhstan septentrional"
     ],
+    "name:frr_x_preferred":[
+        "Nuurdkasachstaan"
+    ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa4\u0acd\u0aa4\u0ab0 \u0a95\u0a9d\u0abe\u0a95\u0ab8\u0acd\u0aa4\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0915\u093c\u093e\u091c\u093c\u093e\u0915\u093c\u0938\u094d\u0924\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -107,6 +131,9 @@
     ],
     "name:ita_x_preferred":[
         "Oblys del Kazakistan Settentrionale"
+    ],
+    "name:ita_x_variant":[
+        "regione del Kazakistan Settentrionale"
     ],
     "name:jpn_x_preferred":[
         "\u5317\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3\u5dde"
@@ -127,6 +154,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd81\uce74\uc790\ud750\uc2a4\ud0c4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc194\ud280\uc2a4\ud2f1\uce74\uc791\uc2a4\ud0c4 \uc8fc"
     ],
     "name:lav_x_preferred":[
         "Zieme\u013ckazahst\u0101nas apgabals"
@@ -207,8 +237,14 @@
     "name:tha_x_preferred":[
         "\u0e19\u0e2d\u0e23\u0e4c\u0e17 \u0e04\u0e32\u0e0b\u0e31\u0e04\u0e2a\u0e16\u0e32\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e04\u0e32\u0e0b\u0e31\u0e04\u0e2a\u0e16\u0e32\u0e19\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
     "name:tur_x_preferred":[
         "Kuzey Kazakistan Eyaleti"
+    ],
+    "name:uig_x_preferred":[
+        "\u0634\u0649\u0645\u0627\u0644\u0649\u064a \u0642\u0627\u0632\u0627\u0642\u0649\u0633\u062a\u0627\u0646 \u0626\u0648\u0628\u0644\u0627\u0633\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -225,6 +261,9 @@
     ],
     "name:uzb_x_preferred":[
         "Shimoliy Qozog\u02bbiston"
+    ],
+    "name:uzb_x_variant":[
+        "Shimoliy Qozog\u02bbiston viloyati"
     ],
     "name:vie_x_preferred":[
         "B\u1eafc Kazakhstan"
@@ -359,7 +398,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1561828555,
+    "wof:lastmodified":1563248866,
     "wof:name":"North Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

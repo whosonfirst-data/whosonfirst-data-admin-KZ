@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Balkhashskiy"
     ],
+    "name:eng_x_variant":[
+        "Balkhash District"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u0627\u0644\u062e\u0627\u0634"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0628\u0644\u06a9\u06be\u0627\u0634"
+    ],
+    "name:por_x_preferred":[
+        "Balkhash"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0445\u0430\u0448\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1108785403,
-    "wof:lastmodified":1561828595,
+    "wof:lastmodified":1563249708,
     "wof:name":"Balkhashskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

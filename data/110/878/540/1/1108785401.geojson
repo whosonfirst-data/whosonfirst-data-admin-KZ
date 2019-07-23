@@ -45,8 +45,14 @@
     "name:eng_x_preferred":[
         "Uilskiy"
     ],
+    "name:eng_x_variant":[
+        "Oiyl District"
+    ],
     "name:fra_x_preferred":[
         "district d'Oiyl"
+    ],
+    "name:fra_x_variant":[
+        "Oiyl"
     ],
     "name:ita_x_preferred":[
         "Distretto di Ojyl"
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1108785401,
-    "wof:lastmodified":1561828595,
+    "wof:lastmodified":1563249708,
     "wof:name":"Uilskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

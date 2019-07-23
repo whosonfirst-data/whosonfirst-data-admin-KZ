@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Moyynkumskiy"
     ],
+    "name:eng_x_variant":[
+        "Moiynkum District"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0639\u06cc\u0646\u200c\u0642\u0648\u0645"
     ],
@@ -72,8 +75,14 @@
     "name:spa_x_preferred":[
         "Moiynkum"
     ],
+    "name:tur_x_preferred":[
+        "Moiynkum"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0439\u0438\u043d\u043a\u0443\u043c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "Zhambylskiy"
     ],
     "name:und_x_variant":[
         "\u041c\u043e\u0439\u044b\u043d\u043a\u0443\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":1108785485,
-    "wof:lastmodified":1561828598,
+    "wof:lastmodified":1563249717,
     "wof:name":"Moyynkumskiy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

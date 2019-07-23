@@ -36,6 +36,12 @@
     "mps:longitude":66.556727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "Nurinskiy"
+    ],
+    "name:bel_x_variant":[
+        "\u0416\u0430\u0440\u043a\u0430\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0416\u0430\u0440\u043a\u0430\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -44,6 +50,9 @@
     ],
     "name:eng_x_preferred":[
         "Zharkainskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zharkain District"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0698\u0627\u0631\u06a9\u0627\u06cc\u0646"
@@ -71,6 +80,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0416\u0430\u0440\u043a\u0430\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0430\u0440\u043a\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:und_x_variant":[
         "\u0416\u0430\u0440\u043a\u0430\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1108785497,
-    "wof:lastmodified":1561828594,
+    "wof:lastmodified":1563249700,
     "wof:name":"Zharkainskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

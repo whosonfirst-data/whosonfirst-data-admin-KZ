@@ -36,6 +36,12 @@
     "mps:longitude":69.076872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "Karkaralinskiy"
+    ],
+    "name:bel_x_variant":[
+        "\u0415\u0433\u0456\u043d\u0434\u044b\u043a\u043e\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u0433\u0438\u043d\u0434\u044a\u043a\u043e\u043b\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -44,6 +50,9 @@
     ],
     "name:eng_x_preferred":[
         "Egindykol`skiy"
+    ],
+    "name:eng_x_variant":[
+        "Egindikol District"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u06af\u06cc\u0646\u062f\u06cc\u200c\u06a9\u0648\u0644"
@@ -71,6 +80,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0415\u0433\u0438\u043d\u0434\u044b\u043a\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0433\u0456\u043d\u0434\u0438\u043a\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:und_x_variant":[
         "\u0415\u0433\u0438\u043d\u0434\u044b\u043a\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1108785503,
-    "wof:lastmodified":1561828583,
+    "wof:lastmodified":1563249650,
     "wof:name":"Egindykol`skiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Burlinskiy"
     ],
+    "name:eng_x_variant":[
+        "Borili District"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0648\u0631\u06cc\u0644\u06cc"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1108785325,
-    "wof:lastmodified":1561828584,
+    "wof:lastmodified":1563249654,
     "wof:name":"Burlinskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

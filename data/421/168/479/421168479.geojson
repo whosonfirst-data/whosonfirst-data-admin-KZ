@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0443\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Martuk"
+    ],
     "name:deu_x_preferred":[
         "Martuk"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:eng_x_preferred":[
         "Mortyq"
+    ],
+    "name:eng_x_variant":[
+        "Martuk"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05d8\u05d5\u05e7"
@@ -37,8 +43,14 @@
     "name:jpn_x_preferred":[
         "\u30de\u30fc\u30c8\u30af"
     ],
+    "name:jpn_x_variant":[
+        "\u30de\u30eb\u30c4\u30af"
+    ],
     "name:kaz_x_preferred":[
         "Mortyq"
+    ],
+    "name:kaz_x_variant":[
+        "\u041c\u0430\u0440\u0442\u04e9\u043a"
     ],
     "name:msa_x_preferred":[
         "Martuk"
@@ -58,6 +70,9 @@
     "name:swe_x_preferred":[
         "Martuk"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u04d9\u0440\u0442\u04e9\u043a"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0443\u043a"
     ],
@@ -66,6 +81,9 @@
     ],
     "name:uzb_x_preferred":[
         "Martuk"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u59c6\u80af\u7279"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -112,7 +130,7 @@
         }
     ],
     "wof:id":421168479,
-    "wof:lastmodified":1561828605,
+    "wof:lastmodified":1563250014,
     "wof:name":"Martok",
     "wof:parent_id":85672877,
     "wof:placetype":"locality",

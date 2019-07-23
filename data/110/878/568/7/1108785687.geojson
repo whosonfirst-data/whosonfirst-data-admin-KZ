@@ -42,8 +42,14 @@
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039f\u03c5\u03b6\u03bf\u03c5\u03bd\u03ba\u03cc\u03bb"
     ],
+    "name:ell_x_variant":[
+        "Timiryazevskiy"
+    ],
     "name:eng_x_preferred":[
         "Uzunkol`skiy"
+    ],
+    "name:eng_x_variant":[
+        "Uzunkol District"
     ],
     "name:fra_x_preferred":[
         "district d'Uzunkol"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108785687,
-    "wof:lastmodified":1561828582,
+    "wof:lastmodified":1563249647,
     "wof:name":"Uzunkol`skiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

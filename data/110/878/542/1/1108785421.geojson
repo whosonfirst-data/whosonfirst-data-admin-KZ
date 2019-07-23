@@ -75,6 +75,9 @@
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0679\u0627\u0644\u06af\u0627\u0631"
     ],
+    "name:por_x_preferred":[
+        "Talgar"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -89,6 +92,9 @@
     ],
     "name:uzb_x_preferred":[
         "Talg\u02bbar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5c14\u52a0\u5c14\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108785421,
-    "wof:lastmodified":1561828586,
+    "wof:lastmodified":1563249666,
     "wof:name":"Talgarskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Denisovskiy"
     ],
+    "name:eng_x_variant":[
+        "Denisov District"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u062f\u0646\u06cc\u0633\u0648\u0641"
     ],
@@ -80,6 +83,9 @@
     ],
     "name:uzb_x_preferred":[
         "Denisov"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a81\u53a5\u65af\u5766"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1108785661,
-    "wof:lastmodified":1561828581,
+    "wof:lastmodified":1563249639,
     "wof:name":"Denisovskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

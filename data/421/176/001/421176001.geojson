@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Pavlodar"
     ],
+    "name:ceb_x_preferred":[
+        "Pavlodar"
+    ],
     "name:ces_x_preferred":[
         "Pavlodar"
     ],
@@ -71,10 +74,16 @@
     "name:fas_x_preferred":[
         "\u067e\u0627\u0648\u0644\u0648\u062f\u0627\u0631\u060c \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u0648\u0644\u0648\u062f\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Pavlodar"
     ],
     "name:fra_x_preferred":[
+        "Pavlodar"
+    ],
+    "name:glg_x_preferred":[
         "Pavlodar"
     ],
     "name:guj_x_preferred":[
@@ -85,6 +94,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092a\u093e\u0935\u094d\u0932\u094b\u0926\u093e\u0930"
+    ],
+    "name:hsb_x_preferred":[
+        "Pawlodar"
     ],
     "name:hun_x_preferred":[
         "Pavlodar"
@@ -372,7 +384,7 @@
         }
     ],
     "wof:id":421176001,
-    "wof:lastmodified":1561828611,
+    "wof:lastmodified":1563250096,
     "wof:name":"Pavlodar",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

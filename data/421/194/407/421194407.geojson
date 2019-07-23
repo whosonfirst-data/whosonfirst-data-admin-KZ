@@ -16,8 +16,20 @@
     "name:ara_x_preferred":[
         "\u0623\u0643\u0633\u0648\u060c \u0623\u0643\u0645\u0648\u0644\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0643\u0633\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0441\u0443"
+    ],
     "name:cat_x_preferred":[
         "Aksu"
+    ],
+    "name:ceb_x_preferred":[
+        "Aksu"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043a\u0441\u0443"
     ],
     "name:deu_x_preferred":[
         "Aqsu"
@@ -25,8 +37,14 @@
     "name:eng_x_preferred":[
         "Aqs\u016b"
     ],
+    "name:eng_x_variant":[
+        "Aksu"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06a9\u0633\u0648\u060c \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06a9\u0633\u0648"
     ],
     "name:fin_x_preferred":[
         "Aqsw"
@@ -35,6 +53,9 @@
         "Aksou"
     ],
     "name:fur_x_preferred":[
+        "Aksu"
+    ],
+    "name:hsb_x_preferred":[
         "Aksu"
     ],
     "name:ita_x_preferred":[
@@ -63,6 +84,15 @@
     ],
     "name:swe_x_preferred":[
         "Jermak"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043a\u0441\u0443"
+    ],
+    "name:udm_x_preferred":[
+        "\u0410\u043a\u0441\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043a\u0441\u0443"
     ],
     "name:unk_x_variant":[
         "Aksu"
@@ -121,7 +151,7 @@
         }
     ],
     "wof:id":421194407,
-    "wof:lastmodified":1561828606,
+    "wof:lastmodified":1563250028,
     "wof:name":"Yermak",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

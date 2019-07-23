@@ -13,8 +13,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u0440\u044b\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0440\u0439\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Kuryk"
+    ],
     "name:eng_x_preferred":[
         "Quryq"
+    ],
+    "name:eng_x_variant":[
+        "Kuryk"
+    ],
+    "name:fra_x_preferred":[
+        "Kourik"
     ],
     "name:kaz_x_preferred":[
         "Quryq"
@@ -30,6 +45,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0415\u0440\u0430\u043b\u0438\u0435\u0432"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u0440\u044b\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Jeralijev"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0438\u043a"
@@ -84,7 +105,7 @@
         }
     ],
     "wof:id":421177039,
-    "wof:lastmodified":1561828610,
+    "wof:lastmodified":1563250090,
     "wof:name":"Yeraliyev",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",
