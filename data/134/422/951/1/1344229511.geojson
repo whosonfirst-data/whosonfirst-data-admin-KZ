@@ -25,7 +25,22 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0426\u0456\u0448\u0447\u0430\u043d\u043a\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Tischtschenko"
+    ],
+    "name:fra_x_preferred":[
+        "Tichtchenko"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30fc\u30b7\u30c1\u30a7\u30f3\u30b3"
+    ],
     "name:rus_x_preferred":[
+        "\u0422\u0438\u0449\u0435\u043d\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
         "\u0422\u0438\u0449\u0435\u043d\u043a\u043e"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1344229511,
-    "wof:lastmodified":1537659943,
+    "wof:lastmodified":1564150840,
     "wof:name":"Tishchenko",
     "wof:parent_id":1108785353,
     "wof:placetype":"locality",

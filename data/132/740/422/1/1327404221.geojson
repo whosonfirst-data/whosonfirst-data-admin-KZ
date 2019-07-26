@@ -25,14 +25,47 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u062a\u0627\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Altay"
+    ],
+    "name:bre_x_preferred":[
+        "Altay"
+    ],
+    "name:ceb_x_preferred":[
+        "Altay"
+    ],
+    "name:deu_x_preferred":[
+        "Altay"
+    ],
+    "name:hun_x_preferred":[
+        "Altaj j\u00e1r\u00e1s"
+    ],
     "name:kaz_x_preferred":[
         "Altay"
     ],
     "name:kaz_x_variant":[
         "\u0410\u043b\u0442\u0430\u0439"
     ],
+    "name:mlg_x_preferred":[
+        "Altay"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u043b\u0442\u0430\u0439 \u0441\u0443\u043c"
+    ],
+    "name:pol_x_preferred":[
+        "Altay"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u0440\u0435\u0447\u043d\u043e\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Altay"
+    ],
+    "name:tur_x_preferred":[
+        "Altay"
     ],
     "name:und_x_variant":[
         "Prirechnoye"
@@ -60,7 +93,7 @@
         }
     ],
     "wof:id":1327404221,
-    "wof:lastmodified":1537660071,
+    "wof:lastmodified":1564150661,
     "wof:name":"Altay",
     "wof:parent_id":1108785471,
     "wof:placetype":"locality",

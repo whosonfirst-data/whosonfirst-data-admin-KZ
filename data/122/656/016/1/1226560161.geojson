@@ -31,6 +31,9 @@
     "name:kaz_x_variant":[
         "\u041a\u04e9\u043a\u0441\u0443"
     ],
+    "name:msa_x_preferred":[
+        "Koksu"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043a\u0441\u0443"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226560161,
-    "wof:lastmodified":1537659760,
+    "wof:lastmodified":1564152639,
     "wof:name":"Koksu",
     "wof:parent_id":1108785365,
     "wof:placetype":"locality",

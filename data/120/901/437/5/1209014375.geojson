@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0420\u043e\u0434\u043d\u0438\u043a"
     ],
+    "name:sco_x_preferred":[
+        "Rodniki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632307
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209014375,
-    "wof:lastmodified":1537659376,
+    "wof:lastmodified":1564151498,
     "wof:name":"Rodniki",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

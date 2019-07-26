@@ -28,6 +28,9 @@
     "name:kaz_x_preferred":[
         "Qaraqastek"
     ],
+    "name:msa_x_preferred":[
+        "Karakastek"
+    ],
     "name:und_x_variant":[
         "Kastek",
         "Kara-K\u00f6stak",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1310115381,
-    "wof:lastmodified":1537659791,
+    "wof:lastmodified":1564151933,
     "wof:name":"Karakastek",
     "wof:parent_id":1108785481,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zhambyl"
+    ],
     "name:eng_x_preferred":[
         "Zhambyl"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0415\u043d\u0431\u0435\u043a\u0448\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Zhambyl"
     ],
     "name:und_x_variant":[
         "Enbekshi",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1309804257,
-    "wof:lastmodified":1537659426,
+    "wof:lastmodified":1564152134,
     "wof:name":"Zhambyl",
     "wof:parent_id":1108785725,
     "wof:placetype":"locality",

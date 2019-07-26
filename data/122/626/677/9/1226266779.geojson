@@ -28,8 +28,14 @@
     "name:eng_x_preferred":[
         "Aqkemer"
     ],
+    "name:ind_x_preferred":[
+        "Akkemer"
+    ],
     "name:kaz_x_preferred":[
         "Aqkemer"
+    ],
+    "name:msa_x_preferred":[
+        "Akkemer"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u043a\u0435\u043c\u0435\u0440"
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1226266779,
-    "wof:lastmodified":1537659454,
+    "wof:lastmodified":1564152595,
     "wof:name":"Akkemer",
     "wof:parent_id":1108785725,
     "wof:placetype":"locality",

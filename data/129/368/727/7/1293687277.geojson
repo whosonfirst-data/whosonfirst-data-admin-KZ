@@ -25,7 +25,13 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b5\u03c1\u03bd\u03bf\u03b2\u03cc\u03bd\u03c4\u03c3\u03ba"
+    ],
     "name:eng_x_preferred":[
+        "Chernovodsk"
+    ],
+    "name:msa_x_preferred":[
         "Chernovodsk"
     ],
     "name:rus_x_preferred":[
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1293687277,
-    "wof:lastmodified":1537659431,
+    "wof:lastmodified":1564151158,
     "wof:name":"Chernovodsk",
     "wof:parent_id":1108785521,
     "wof:placetype":"locality",

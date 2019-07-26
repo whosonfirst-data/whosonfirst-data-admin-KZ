@@ -25,6 +25,27 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u044f\u043b\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Miyaly"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u044f\u043b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u044f\u043b\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Mijaly"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u044f\u043b\u0438"
+    ],
+    "name:uzb_x_preferred":[
+        "Miyali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632307
@@ -42,7 +63,7 @@
         }
     ],
     "wof:id":1209220597,
-    "wof:lastmodified":1536293976,
+    "wof:lastmodified":1564151587,
     "wof:name":"Miyaly",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

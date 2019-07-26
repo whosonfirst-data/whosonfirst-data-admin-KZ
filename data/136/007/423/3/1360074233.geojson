@@ -25,11 +25,23 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Berezovka"
+    ],
+    "name:lav_x_preferred":[
+        "Berezovka"
+    ],
+    "name:lit_x_preferred":[
+        "Berezovka"
+    ],
     "name:rus_x_preferred":[
         "Ber\u00ebzovka"
     ],
     "name:rus_x_variant":[
         "\u0411\u0435\u0440\u0451\u0437\u043e\u0432\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Berezovka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1360074233,
-    "wof:lastmodified":1537659876,
+    "wof:lastmodified":1564152016,
     "wof:name":"Berezovka",
     "wof:parent_id":1108785589,
     "wof:placetype":"locality",

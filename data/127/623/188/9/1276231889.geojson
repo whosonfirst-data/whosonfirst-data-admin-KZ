@@ -25,8 +25,32 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0631\u064a\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u06cc\u0631\u06cc\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "\u015eirin"
+    ],
+    "name:deu_x_preferred":[
+        "Schirin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0631\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Chirine"
+    ],
+    "name:ita_x_preferred":[
+        "Shirin"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0438\u0440\u0438\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06cc\u0631\u06cc\u06ba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1276231889,
-    "wof:lastmodified":1537660072,
+    "wof:lastmodified":1564151396,
     "wof:name":"Shirin",
     "wof:parent_id":1108785425,
     "wof:placetype":"locality",

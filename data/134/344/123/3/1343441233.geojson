@@ -31,6 +31,18 @@
     "name:kaz_x_variant":[
         "\u0410\u0439\u043d\u0430\u0431\u04b1\u043b\u0430\u049b"
     ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0458\u043d\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Aynabulaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043d\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1343441233,
-    "wof:lastmodified":1537660129,
+    "wof:lastmodified":1564151034,
     "wof:name":"Aynabulaq",
     "wof:parent_id":1108785507,
     "wof:placetype":"locality",

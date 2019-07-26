@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
     "name:eng_x_preferred":[
         "Solonovka"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226215817,
-    "wof:lastmodified":1537659581,
+    "wof:lastmodified":1564152588,
     "wof:name":"Solonovka",
     "wof:parent_id":1108785313,
     "wof:placetype":"locality",

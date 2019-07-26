@@ -31,6 +31,9 @@
     "name:kaz_x_variant":[
         "\u0420\u043e\u0434\u043d\u0438\u043a\u0438"
     ],
+    "name:sco_x_preferred":[
+        "Rodniki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1242953287,
-    "wof:lastmodified":1537659622,
+    "wof:lastmodified":1564152250,
     "wof:name":"Rodniki",
     "wof:parent_id":1108785649,
     "wof:placetype":"locality",

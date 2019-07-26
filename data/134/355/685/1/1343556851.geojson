@@ -25,10 +25,28 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sauran"
+    ],
+    "name:ita_x_preferred":[
+        "Sauran"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u0443\u0440\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0443\u0440\u0430\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Sapran"
+    ],
     "name:und_x_variant":[
         "Souram",
         "Sauran",
         "Novyy Sauran"
+    ],
+    "name:uzb_x_preferred":[
+        "Sabron"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1343556851,
-    "wof:lastmodified":1537659661,
+    "wof:lastmodified":1564150826,
     "wof:name":"Novyy Sauran",
     "wof:parent_id":1108785667,
     "wof:placetype":"locality",

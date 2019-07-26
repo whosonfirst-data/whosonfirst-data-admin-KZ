@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0434\u044b\u043a\u043e\u0432"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343680203,
-    "wof:lastmodified":1536927277,
+    "wof:lastmodified":1564150923,
     "wof:name":"Sadykov",
     "wof:parent_id":1108785327,
     "wof:placetype":"locality",

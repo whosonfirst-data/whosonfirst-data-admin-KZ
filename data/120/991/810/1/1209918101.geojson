@@ -25,6 +25,12 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u040f\u0430\u043d\u0435\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Dzhanek"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209918101,
-    "wof:lastmodified":1537567790,
+    "wof:lastmodified":1564151487,
     "wof:name":"Dzhanek",
     "wof:parent_id":1108785433,
     "wof:placetype":"locality",

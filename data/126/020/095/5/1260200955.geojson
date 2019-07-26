@@ -28,6 +28,9 @@
     "name:kaz_x_preferred":[
         "Qyzylqayrat"
     ],
+    "name:msa_x_preferred":[
+        "Qyzylqayrat"
+    ],
     "name:und_x_variant":[
         "Kolkhoz Kyzyl-Karat",
         "Kolkhoz Kyzyl-Kayrot",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1260200955,
-    "wof:lastmodified":1537659720,
+    "wof:lastmodified":1564151794,
     "wof:name":"Kyzyl Gayrat",
     "wof:parent_id":1108785421,
     "wof:placetype":"locality",

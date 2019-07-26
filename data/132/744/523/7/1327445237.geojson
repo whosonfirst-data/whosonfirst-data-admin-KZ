@@ -28,8 +28,20 @@
     "name:eng_x_preferred":[
         "Mynbayevo"
     ],
+    "name:kaz_x_preferred":[
+        "\u041c\u044b\u04a3\u0431\u0430\u0435\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "Mynbayevo"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u044b\u043d\u0431\u0430\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u043d\u0431\u0430\u0454\u0432\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0646\u0628\u0627\u06cc\u0648\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1327445237,
-    "wof:lastmodified":1537660024,
+    "wof:lastmodified":1564150774,
     "wof:name":"Mynbayevo",
     "wof:parent_id":1108785481,
     "wof:placetype":"locality",

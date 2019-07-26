@@ -25,11 +25,32 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Basqynshy"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c3\u03ba\u03b9\u03bd\u03c3\u03af"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0441\u049b\u044b\u043d\u0448\u044b"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0441\u043a\u0438\u043d\u0448\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Basqynshy"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0441\u043a\u0443\u043d\u0447\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0441\u043a\u0443\u043d\u0448\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Basqynshy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0441\u043a\u0443\u043d\u0448\u0456"
     ],
     "name:und_x_variant":[
         "Baskunchak",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1310015413,
-    "wof:lastmodified":1537659887,
+    "wof:lastmodified":1564151912,
     "wof:name":"Basqynshy",
     "wof:parent_id":1108785409,
     "wof:placetype":"locality",

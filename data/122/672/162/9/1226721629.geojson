@@ -34,6 +34,9 @@
     "name:rus_x_preferred":[
         "\u0414\u0438\u043a\u0430\u043d"
     ],
+    "name:srp_x_preferred":[
+        "\u0414\u0438\u043a\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226721629,
-    "wof:lastmodified":1537660068,
+    "wof:lastmodified":1564152570,
     "wof:name":"Dikan",
     "wof:parent_id":1108785737,
     "wof:placetype":"locality",

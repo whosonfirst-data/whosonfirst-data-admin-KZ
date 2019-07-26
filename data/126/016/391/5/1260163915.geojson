@@ -25,11 +25,29 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dolon"
+    ],
+    "name:deu_x_preferred":[
+        "Dolon"
+    ],
     "name:eng_x_preferred":[
+        "Dolon"
+    ],
+    "name:fra_x_preferred":[
+        "Dolon"
+    ],
+    "name:ita_x_preferred":[
         "Dolon"
     ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u043b\u043e\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u043e\u043b\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dolon"
     ],
     "name:und_x_variant":[
         "Dolonskaya",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1260163915,
-    "wof:lastmodified":1537659840,
+    "wof:lastmodified":1564151798,
     "wof:name":"Dolon",
     "wof:parent_id":1108785639,
     "wof:placetype":"locality",

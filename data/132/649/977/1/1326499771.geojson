@@ -25,6 +25,15 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0410\u0432\u0440\u0430\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0432\u0440\u0430\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0432\u0440\u0430\u043c\u043e\u0432\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326499771,
-    "wof:lastmodified":1537029645,
+    "wof:lastmodified":1564150709,
     "wof:name":"Avramovka",
     "wof:parent_id":1108785577,
     "wof:placetype":"locality",

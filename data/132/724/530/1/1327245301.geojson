@@ -25,7 +25,13 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0411\u0443\u0433\u043e\u0440"
+    ],
     "name:rus_x_preferred":[
+        "\u0411\u0443\u0433\u043e\u0440"
+    ],
+    "name:tgk_x_preferred":[
         "\u0411\u0443\u0433\u043e\u0440"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1327245301,
-    "wof:lastmodified":1537660046,
+    "wof:lastmodified":1564150671,
     "wof:name":"Bugor",
     "wof:parent_id":1108785431,
     "wof:placetype":"locality",

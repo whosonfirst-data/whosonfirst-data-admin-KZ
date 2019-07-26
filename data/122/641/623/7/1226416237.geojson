@@ -28,6 +28,12 @@
     "name:kaz_x_preferred":[
         "\u0422\u0430\u043b\u0430\u043f"
     ],
+    "name:mal_x_preferred":[
+        "\u0d24\u0d33\u0d3e\u0d2a\u0d4d\u0d2a\u0d4d"
+    ],
+    "name:msa_x_preferred":[
+        "Talap"
+    ],
     "name:und_x_variant":[
         "Kelintobe",
         "Talab",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1226416237,
-    "wof:lastmodified":1537659774,
+    "wof:lastmodified":1564152712,
     "wof:name":"Talap",
     "wof:parent_id":1108785669,
     "wof:placetype":"locality",

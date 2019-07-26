@@ -25,8 +25,26 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Oku"
+    ],
+    "name:deu_x_preferred":[
+        "Oku"
+    ],
+    "name:fra_x_preferred":[
+        "Oku"
+    ],
     "name:kaz_x_preferred":[
         "\u00dcki"
+    ],
+    "name:por_x_preferred":[
+        "Oku"
+    ],
+    "name:slk_x_preferred":[
+        "Oku"
+    ],
+    "name:swe_x_preferred":[
+        "Oku"
     ],
     "name:und_x_variant":[
         "Uki"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1259490795,
-    "wof:lastmodified":1537659655,
+    "wof:lastmodified":1564152475,
     "wof:name":"Oku",
     "wof:parent_id":1108785623,
     "wof:placetype":"locality",

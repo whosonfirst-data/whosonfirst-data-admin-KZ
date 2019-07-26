@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pechersk"
+    ],
     "name:eng_x_preferred":[
         "Pechersk"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1343836385,
-    "wof:lastmodified":1537659645,
+    "wof:lastmodified":1564150879,
     "wof:name":"Pechersk",
     "wof:parent_id":1108785679,
     "wof:placetype":"locality",

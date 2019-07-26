@@ -25,17 +25,74 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0646\u0627\u0648\u0632\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0430\u0437\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Zhanaozen"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0698\u0627\u0646\u0627\u0626\u06c6\u0632\u06ce\u0646"
+    ],
     "name:deu_x_preferred":[
         "Schanga\u00f6sen"
     ],
     "name:eng_x_preferred":[
         "Zhanga\u00f6zen"
     ],
+    "name:eus_x_preferred":[
+        "Zhanaozen"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0646\u0627\u0627\u0648\u0632\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Ja\u00f1a\u00f6zen"
+    ],
+    "name:fra_x_preferred":[
+        "Ja\u00f1a\u00f6zen"
+    ],
+    "name:hsb_x_preferred":[
+        "\u017danaozen"
+    ],
+    "name:hye_x_preferred":[
+        "\u053a\u0561\u0576\u0561\u0585\u0566\u0565\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053a\u0561\u0576\u0561\u0585\u0566\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Ja\u00f1a\u00f6zen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30ca\u30aa\u30bc\u30f3"
+    ],
+    "name:kaa_x_preferred":[
+        "Jan'ao'zen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10df\u10d0\u10dc\u10d0\u10dd\u10d6\u10d4\u10dc\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0416\u0430\u04a3\u0430\u04e9\u0437\u0435\u043d"
     ],
     "name:kaz_x_variant":[
         "Zhanga\u00f6zen"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\ub098\uc624\uc820"
+    ],
+    "name:lit_x_preferred":[
+        "\u017danaozenas"
+    ],
+    "name:nld_x_preferred":[
+        "Zjanaozen"
+    ],
+    "name:pol_x_preferred":[
+        "\u017banga\u00f6zen"
     ],
     "name:rus_x_historical":[
         "\u041d\u043e\u0432\u044b\u0439 \u0423\u0437\u0435\u043d\u044c"
@@ -46,8 +103,41 @@
     "name:rus_x_variant":[
         "\u041d\u043e\u0432\u044b\u0439 \u0423\u0437\u0435\u043d\u044c"
     ],
+    "name:spa_x_preferred":[
+        "Janaozen"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0430\u043d\u0433\u0430\u043e\u0437\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Novyj Uzen"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u04a3\u0430 \u04ae\u0437\u04d9\u043d"
+    ],
+    "name:tuk_x_preferred":[
+        "Jana\u00f6zen"
+    ],
+    "name:tur_x_preferred":[
+        "Zhanaozen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u043e\u0437\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Novyy Uzen\u2019"
+    ],
+    "name:urd_x_preferred":[
+        "\u0698\u0627\u0646\u0627\u0624\u0632\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Janao\u02bbzen"
+    ],
+    "name:vie_x_preferred":[
+        "Zhanaozen"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u7459\u6d25"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +164,7 @@
         }
     ],
     "wof:id":1343847853,
-    "wof:lastmodified":1537659342,
+    "wof:lastmodified":1564150886,
     "wof:name":"Zhanaozen",
     "wof:parent_id":1108785363,
     "wof:placetype":"locality",

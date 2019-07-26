@@ -25,8 +25,44 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dostyq"
+    ],
+    "name:deu_x_preferred":[
+        "Dostyk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03c3\u03c4\u03af\u03ba"
+    ],
+    "name:fra_x_preferred":[
+        "Dostyk"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u0441\u0442\u044b\u049b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u0441\u0442\u0438\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Dostyk"
+    ],
+    "name:nld_x_preferred":[
+        "Dostyq"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u0441\u0442\u044b\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Dostyk"
+    ],
+    "name:tur_x_preferred":[
+        "Dost\u0131k"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0441\u0442\u0438\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u65af\u7279\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1276995291,
-    "wof:lastmodified":1537660046,
+    "wof:lastmodified":1564151424,
     "wof:name":"Dostyk",
     "wof:parent_id":1108785433,
     "wof:placetype":"locality",

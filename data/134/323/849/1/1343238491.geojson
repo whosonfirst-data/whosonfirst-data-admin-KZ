@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Loba"
+    ],
     "name:eng_x_preferred":[
         "Loba"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Loba"
+    ],
+    "name:swe_x_preferred":[
+        "Loba"
     ],
     "name:und_x_variant":[
         "Doba",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1343238491,
-    "wof:lastmodified":1537659841,
+    "wof:lastmodified":1564150894,
     "wof:name":"Loba",
     "wof:parent_id":1108785385,
     "wof:placetype":"locality",

@@ -36,6 +36,42 @@
     "mps:longitude":77.955337,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Semey"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0645\u0627\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u043c\u0435\u0439"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u043c\u0435\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Semei"
+    ],
+    "name:ceb_x_preferred":[
+        "Semey"
+    ],
+    "name:ces_x_preferred":[
+        "Semej"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043c\u0435\u0439"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u06ce\u0645\u06ce\u06cc"
+    ],
+    "name:cym_x_preferred":[
+        "Semey"
+    ],
+    "name:deu_x_preferred":[
+        "Semei"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bc\u03ad\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Semey"
     ],
@@ -43,11 +79,135 @@
         "Semey City Area",
         "Semey C. A."
     ],
+    "name:epo_x_preferred":[
+        "Semej"
+    ],
+    "name:est_x_preferred":[
+        "Semej"
+    ],
+    "name:eus_x_preferred":[
+        "Semei"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Semey"
+    ],
+    "name:fra_x_preferred":[
+        "Seme\u00ef"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05de\u05d9\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Semej"
+    ],
+    "name:hun_x_preferred":[
+        "Szemej"
+    ],
+    "name:ind_x_preferred":[
+        "Semey"
+    ],
+    "name:ita_x_preferred":[
+        "Semej"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30e1\u30a4"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0435\u043c\u0438\u043f\u0430\u043b\u0430\u0442\u0438\u043d\u0441\u043a"
     ],
     "name:kaz_x_variant":[
-        "\u0421\u0435\u043c\u0438\u043f\u0430\u043b\u0430\u0442\u0438\u043d\u0441\u043a \u0433.\u0430."
+        "\u0421\u0435\u043c\u0438\u043f\u0430\u043b\u0430\u0442\u0438\u043d\u0441\u043a \u0433.\u0430.",
+        "\u0421\u0435\u043c\u0435\u0439"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uba54\uc774"
+    ],
+    "name:lav_x_preferred":[
+        "Semeja"
+    ],
+    "name:lit_x_preferred":[
+        "Semejus"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0435\u043c\u0435\u0439"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Semipalatinsk"
+    ],
+    "name:nld_x_preferred":[
+        "Semey"
+    ],
+    "name:nno_x_preferred":[
+        "Semipalatinsk"
+    ],
+    "name:nor_x_preferred":[
+        "Semej"
+    ],
+    "name:pol_x_preferred":[
+        "Semej"
+    ],
+    "name:por_x_preferred":[
+        "Semei"
+    ],
+    "name:ron_x_preferred":[
+        "Seme\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043c\u0435\u0439"
+    ],
+    "name:sah_x_preferred":[
+        "\u0421\u0435\u043c\u0435\u0439"
+    ],
+    "name:sco_x_preferred":[
+        "Semey"
+    ],
+    "name:slv_x_preferred":[
+        "Semipalatinsk"
+    ],
+    "name:spa_x_preferred":[
+        "Semey"
+    ],
+    "name:sqi_x_preferred":[
+        "Semej"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043c\u0435\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Semej"
+    ],
+    "name:szl_x_preferred":[
+        "Semej"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0438\u043c\u04d9\u0439"
+    ],
+    "name:tuk_x_preferred":[
+        "Semey"
+    ],
+    "name:tur_x_preferred":[
+        "Semey"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043c\u0435\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0645\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Semey"
+    ],
+    "name:vep_x_preferred":[
+        "Semei"
+    ],
+    "name:war_x_preferred":[
+        "Semey"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u7c73\u4f0a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -70,7 +230,7 @@
         }
     ],
     "wof:id":1108785641,
-    "wof:lastmodified":1555220449,
+    "wof:lastmodified":1564151842,
     "wof:name":"Semey",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

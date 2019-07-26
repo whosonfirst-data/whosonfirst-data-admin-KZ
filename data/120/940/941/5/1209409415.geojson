@@ -25,8 +25,23 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Saule"
+    ],
     "name:eng_x_preferred":[
         "Saule"
+    ],
+    "name:fra_x_preferred":[
+        "Saule"
+    ],
+    "name:ita_x_preferred":[
+        "Saule"
+    ],
+    "name:lav_x_preferred":[
+        "Saule"
+    ],
+    "name:lit_x_preferred":[
+        "Saul\u0117"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0443\u043b\u0435"
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1209409415,
-    "wof:lastmodified":1537659371,
+    "wof:lastmodified":1564151565,
     "wof:name":"Saule",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

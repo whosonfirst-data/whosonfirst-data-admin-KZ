@@ -25,7 +25,13 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0421\u0430\u0432\u0438\u043d\u043a\u0430"
+    ],
     "name:eng_x_preferred":[
+        "Savinka"
+    ],
+    "name:ita_x_preferred":[
         "Savinka"
     ],
     "name:kaz_x_preferred":[
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1310509113,
-    "wof:lastmodified":1537659608,
+    "wof:lastmodified":1564151977,
     "wof:name":"Savinka",
     "wof:parent_id":1108785629,
     "wof:placetype":"locality",

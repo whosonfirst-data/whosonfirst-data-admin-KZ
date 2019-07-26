@@ -25,16 +25,49 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Schetissai"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b5\u03c4\u03b9\u03c3\u03ac\u03b9"
+    ],
+    "name:hsb_x_preferred":[
+        "\u017detisaj"
+    ],
+    "name:ita_x_preferred":[
+        "\u017det\u00ecsaj"
+    ],
     "name:kaz_x_preferred":[
         "\u0416\u0435\u0442\u0456\u0441\u0430\u0439"
     ],
+    "name:lit_x_preferred":[
+        "\u017detysajus"
+    ],
+    "name:pol_x_preferred":[
+        "\u017betysaj"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0435\u0442\u044b\u0441\u0430\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u0416\u0435\u0442\u044b\u0441\u0430\u0439"
+    ],
+    "name:tat_x_preferred":[
+        "\u0496\u0435\u0442\u0435\u0441\u0430\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0435\u0442\u0438\u0441\u0430\u0439"
     ],
     "name:und_x_variant":[
         "Zhetysay",
         "Jetisoy",
         "Zhetisay"
+    ],
+    "name:uzb_x_preferred":[
+        "Jetisay"
+    ],
+    "name:zho_x_preferred":[
+        "\u71b1\u7279\u8cfd"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +93,7 @@
         }
     ],
     "wof:id":1276975103,
-    "wof:lastmodified":1537659833,
+    "wof:lastmodified":1564151438,
     "wof:name":"Dzhetysay",
     "wof:parent_id":1108785361,
     "wof:placetype":"locality",

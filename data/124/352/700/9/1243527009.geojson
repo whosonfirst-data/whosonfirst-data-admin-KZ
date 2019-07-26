@@ -25,14 +25,32 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sibirisches Kosakenheer"
+    ],
     "name:eng_x_preferred":[
         "Aryqbalyq"
+    ],
+    "name:ita_x_preferred":[
+        "Cosacchi siberiani"
     ],
     "name:kaz_x_preferred":[
         "Aryqbalyq"
     ],
+    "name:pol_x_preferred":[
+        "Kozacy syberyjscy"
+    ],
+    "name:por_x_preferred":[
+        "Cossacos siberianos"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u044b\u043a\u0431\u0430\u043b\u044b\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0435 \u043a\u0430\u0437\u0430\u043a\u0438"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u4f2f\u5229\u4e9e\u54e5\u85a9\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1243527009,
-    "wof:lastmodified":1537659902,
+    "wof:lastmodified":1564152210,
     "wof:name":"Arykbalyk",
     "wof:parent_id":1108785579,
     "wof:placetype":"locality",

@@ -25,11 +25,17 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03ba\u03b5\u03bc\u03ad\u03c1"
+    ],
     "name:kaz_x_preferred":[
         "Qarakemer"
     ],
     "name:kaz_x_variant":[
         "\u049a\u0430\u0440\u0430\u043a\u0435\u043c\u0435\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Karakemer"
     ],
     "name:und_x_variant":[
         "Kara-Kemm",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1225961941,
-    "wof:lastmodified":1537659791,
+    "wof:lastmodified":1564152665,
     "wof:name":"Qarakemer",
     "wof:parent_id":1108785427,
     "wof:placetype":"locality",

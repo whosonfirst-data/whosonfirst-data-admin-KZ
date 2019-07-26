@@ -34,8 +34,14 @@
     "name:kaz_x_variant":[
         "\u0411\u0430\u043b\u044b\u049b\u0442\u044b"
     ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u043b\u044b\u043a\u0442\u044b"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u044b\u043a\u0442\u044b"
+    ],
+    "name:uzb_x_preferred":[
+        "Baliqti"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1243540743,
-    "wof:lastmodified":1537660035,
+    "wof:lastmodified":1564152193,
     "wof:name":"Balykty",
     "wof:parent_id":1108785385,
     "wof:placetype":"locality",

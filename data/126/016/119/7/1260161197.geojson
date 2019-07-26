@@ -31,6 +31,9 @@
     "name:kaz_x_variant":[
         "\u042b\u043d\u0442\u044b\u043c\u0430\u049b"
     ],
+    "name:msa_x_preferred":[
+        "Intymak"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u043d\u0442\u044b\u043c\u0430\u043a"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1260161197,
-    "wof:lastmodified":1537659831,
+    "wof:lastmodified":1564151801,
     "wof:name":"Intymak",
     "wof:parent_id":1108785651,
     "wof:placetype":"locality",

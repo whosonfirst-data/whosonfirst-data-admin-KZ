@@ -28,8 +28,17 @@
     "name:eng_x_preferred":[
         "Sretenka"
     ],
+    "name:kir_x_preferred":[
+        "\u0421\u0440\u0435\u0442\u0435\u043d\u043a\u0430"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0440\u0435\u0442\u0435\u043d\u043a\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Sretenka"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5217\u575a\u5361"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1260303823,
-    "wof:lastmodified":1537659577,
+    "wof:lastmodified":1564151779,
     "wof:name":"Sretenka",
     "wof:parent_id":1108785687,
     "wof:placetype":"locality",

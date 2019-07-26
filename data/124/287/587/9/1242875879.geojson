@@ -31,6 +31,12 @@
     "name:rus_x_preferred":[
         "Sem\u00ebnovka"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u043c\u0451\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Semyonovka"
+    ],
     "name:und_x_variant":[
         "Semenovskiy",
         "Semenovskoye"
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1242875879,
-    "wof:lastmodified":1537659606,
+    "wof:lastmodified":1564152216,
     "wof:name":"Semyonovka",
     "wof:parent_id":1108785625,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:kaz_x_preferred":[
         "Shair"
     ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u0639\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1242868661,
-    "wof:lastmodified":1537659369,
+    "wof:lastmodified":1564152226,
     "wof:name":"Shair",
     "wof:parent_id":1108785543,
     "wof:placetype":"locality",

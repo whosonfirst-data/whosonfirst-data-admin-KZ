@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Aqqum"
     ],
+    "name:msa_x_preferred":[
+        "Aqqum"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u0440\u0448\u0430"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1344133379,
-    "wof:lastmodified":1537659580,
+    "wof:lastmodified":1564150843,
     "wof:name":"Aqqum",
     "wof:parent_id":1108785527,
     "wof:placetype":"locality",

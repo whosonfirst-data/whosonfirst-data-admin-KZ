@@ -25,6 +25,12 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0415\u043a\u043f\u0438\u043d\u0434\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Ekpindi"
+    ],
     "name:und_x_variant":[
         "Yekpindy",
         "Ekpindi"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343972321,
-    "wof:lastmodified":1537660021,
+    "wof:lastmodified":1564150827,
     "wof:name":"Ekpindi",
     "wof:parent_id":1108785413,
     "wof:placetype":"locality",

@@ -25,8 +25,23 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ush-Tyube"
+    ],
+    "name:deu_x_preferred":[
+        "\u00dcscht\u00f6be"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03c3\u03c4\u03bf\u03bc\u03c0\u03ad"
+    ],
     "name:eng_x_preferred":[
         "Ushtobe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0686\u200c\u062a\u067e\u0647"
+    ],
+    "name:hsb_x_preferred":[
+        "U\u0161tobe"
     ],
     "name:kaz_x_preferred":[
         "\u00dcsht\u00f6be"
@@ -34,8 +49,32 @@
     "name:kaz_x_variant":[
         "\u04ae\u0448\u0442\u04e9\u0431\u0435"
     ],
+    "name:lit_x_preferred":[
+        "U\u0161tob\u0117"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0423\u0448\u0442\u043e\u0431\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Ushtobe"
+    ],
+    "name:pol_x_preferred":[
+        "\u00dcszt\u00f6be"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0448\u0442\u043e\u0431\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Usjtobe"
+    ],
+    "name:tat_x_preferred":[
+        "\u04e8\u0447\u0442\u04af\u0431\u04d9"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0448\u0442\u043e\u0431\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Uchtepa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +99,7 @@
         }
     ],
     "wof:id":1343344295,
-    "wof:lastmodified":1537659980,
+    "wof:lastmodified":1564150952,
     "wof:name":"Ushtobe",
     "wof:parent_id":1108785313,
     "wof:placetype":"locality",

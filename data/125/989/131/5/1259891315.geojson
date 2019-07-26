@@ -37,6 +37,12 @@
     "name:rus_x_preferred":[
         "\u0423\u0433\u043e\u043b\u043a\u0438"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0442\u043e\u0447\u043a\u0438"
+    ],
+    "name:zho_x_preferred":[
+        "\u9650\u9077\u8df3\u68cb"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1259891315,
-    "wof:lastmodified":1537659963,
+    "wof:lastmodified":1564152538,
     "wof:name":"Ugolki",
     "wof:parent_id":1108785721,
     "wof:placetype":"locality",

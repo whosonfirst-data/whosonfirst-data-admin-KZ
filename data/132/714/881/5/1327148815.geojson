@@ -26,6 +26,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Maylybay"
+    ],
     "name:und_x_variant":[
         "Maylybay Pervyy",
         "Maylybay"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327148815,
-    "wof:lastmodified":1537660020,
+    "wof:lastmodified":1564150655,
     "wof:name":"Maylybay",
     "wof:parent_id":1108785415,
     "wof:placetype":"locality",

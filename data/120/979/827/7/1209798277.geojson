@@ -25,8 +25,17 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zubair"
+    ],
+    "name:deu_x_preferred":[
+        "Zubair"
+    ],
     "name:eng_x_preferred":[
         "Zubair"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ba\u30d0\u30a4\u30eb"
     ],
     "name:kaz_x_preferred":[
         "Z\u016bba\u012br"
@@ -36,6 +45,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0417\u0443\u0431\u0430\u0438\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Zubair"
     ],
     "name:und_x_variant":[
         "Zuboirovka",
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":1209798277,
-    "wof:lastmodified":1537659469,
+    "wof:lastmodified":1564151547,
     "wof:name":"Zubair",
     "wof:parent_id":1108785641,
     "wof:placetype":"locality",

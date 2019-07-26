@@ -25,11 +25,26 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u0440\u043b\u0456\u043a"
+    ],
     "name:eng_x_preferred":[
+        "Utery"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0456\u0440\u043b\u0456\u043a"
+    ],
+    "name:msa_x_preferred":[
         "Utery"
     ],
     "name:rus_x_preferred":[
         "\u0423\u0442\u0435\u0440\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0438\u0440\u043b\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0440\u043b\u0456\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1310593819,
-    "wof:lastmodified":1537659351,
+    "wof:lastmodified":1564151975,
     "wof:name":"Utery",
     "wof:parent_id":1108785299,
     "wof:placetype":"locality",

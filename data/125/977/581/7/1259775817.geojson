@@ -25,6 +25,15 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Inder"
+    ],
+    "name:deu_x_preferred":[
+        "Inder"
+    ],
+    "name:swe_x_preferred":[
+        "Inder"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1259775817,
-    "wof:lastmodified":1536934980,
+    "wof:lastmodified":1564152444,
     "wof:name":"Inder",
     "wof:parent_id":1108785445,
     "wof:placetype":"locality",

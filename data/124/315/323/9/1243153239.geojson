@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u043e\u0432\u043a\u0430"
+    ],
     "name:eng_x_preferred":[
         "Markovka"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1243153239,
-    "wof:lastmodified":1537659696,
+    "wof:lastmodified":1564152283,
     "wof:name":"Markovka",
     "wof:parent_id":1108785551,
     "wof:placetype":"locality",

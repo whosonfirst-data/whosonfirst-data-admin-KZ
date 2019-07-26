@@ -39,41 +39,110 @@
     "name:ace_x_preferred":[
         "Propinsi Almaty"
     ],
+    "name:afr_x_preferred":[
+        "Almati"
+    ],
+    "name:amh_x_preferred":[
+        "\u12a0\u120d\u121b\u1272"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0644\u064a\u0633 \u0623\u0644\u0645\u0627\u0637\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0644\u0645\u0627\u062a\u064a"
+    ],
+    "name:arg_x_preferred":[
+        "Almaty"
+    ],
+    "name:ast_x_preferred":[
+        "Almat\u00fd"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0644\u0645\u0627\u062a\u06cc"
     ],
     "name:aze_x_preferred":[
         "Almat\u0131 vilay\u0259ti"
     ],
+    "name:aze_x_variant":[
+        "Almat\u0131"
+    ],
     "name:bak_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u044b \u04e9\u043b\u043a\u04d9\u04bb\u0435"
+    ],
+    "name:bak_x_variant":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
     ],
     "name:bel_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0446\u0456\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
     ],
+    "name:bel_x_variant":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2\u09ae\u09be\u099f\u09bf \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:ben_x_variant":[
+        "\u0986\u09b2\u09ae\u09be\u099f\u09bf"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f68\u0f71\u0f63\u0f0b\u0f58\u0f0b\u0f4a\u0f72\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Almati"
+    ],
+    "name:bre_x_preferred":[
+        "Almaty"
     ],
     "name:bul_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
+    "name:bul_x_variant":[
+        "\u0410\u043b\u043c\u0430\u0442\u0438"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0410\u043b\u0438\u043c\u0442\u0430"
+    ],
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Almati"
+    ],
+    "name:cat_x_variant":[
+        "Almati"
+    ],
+    "name:ceb_x_preferred":[
+        "Almaty"
     ],
     "name:ces_x_preferred":[
         "Almatinsk\u00e1 oblast"
     ],
+    "name:ces_x_variant":[
+        "Almaty"
+    ],
     "name:che_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
+    "name:che_x_variant":[
+        "\u0410\u043b\u043c\u0430-\u0410\u0442\u0430"
+    ],
+    "name:chv_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
+    ],
+    "name:crh_x_preferred":[
+        "Almat\u0131"
+    ],
     "name:dan_x_preferred":[
         "Almaty Region"
+    ],
+    "name:dan_x_variant":[
+        "Almaty"
     ],
     "name:deu_x_preferred":[
         "Almaty"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03bb\u03bc\u03ac\u03c4\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bb\u03bc\u03ac\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Almaty"
@@ -84,50 +153,131 @@
     "name:epo_x_preferred":[
         "Provinco Almato"
     ],
+    "name:epo_x_variant":[
+        "Almato"
+    ],
     "name:est_x_preferred":[
         "Almat\u00f5 oblast"
+    ],
+    "name:est_x_variant":[
+        "Almat\u00f5"
     ],
     "name:eus_x_preferred":[
         "Almatyko probintzia"
     ],
+    "name:eus_x_variant":[
+        "Almaty"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0645\u0627\u062a\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0644\u0645\u0627\u062a\u06cc"
     ],
     "name:fin_x_preferred":[
         "Almaty maakunta"
     ],
+    "name:fin_x_variant":[
+        "Almaty"
+    ],
     "name:fra_x_preferred":[
         "Oblys d'Almaty"
+    ],
+    "name:fra_x_variant":[
+        "Almaty"
+    ],
+    "name:frp_x_preferred":[
+        "Almaty"
+    ],
+    "name:gag_x_preferred":[
+        "Almat\u0131"
+    ],
+    "name:gla_x_preferred":[
+        "Almaty"
+    ],
+    "name:gle_x_preferred":[
+        "Almaty"
     ],
     "name:glg_x_preferred":[
         "Provincia de Almati"
     ],
+    "name:glg_x_variant":[
+        "Almati"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2\u0acd\u0aae\u0abe\u0a9f\u0ac0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05de\u05d8\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0932\u092e\u093e\u0924\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:hin_x_variant":[
+        "\u0905\u0932\u092e\u093e\u0924\u0940"
+    ],
+    "name:hrv_x_preferred":[
+        "Almati"
+    ],
+    "name:hsb_x_preferred":[
+        "Almaty"
+    ],
+    "name:hun_x_preferred":[
+        "Almati"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u056c\u0574\u0561\u0569\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u056c\u0574\u0561\u0569\u056b"
+    ],
+    "name:ido_x_preferred":[
+        "Almaty"
+    ],
+    "name:ile_x_preferred":[
+        "Almaty"
+    ],
+    "name:ilo_x_preferred":[
+        "Almaty"
+    ],
+    "name:ina_x_preferred":[
+        "Almaty"
     ],
     "name:ind_x_preferred":[
         "Provinsi Almaty"
     ],
+    "name:ind_x_variant":[
+        "Almaty"
+    ],
     "name:isl_x_preferred":[
         "Almatyfylki"
+    ],
+    "name:isl_x_variant":[
+        "Almaty"
     ],
     "name:ita_x_preferred":[
         "Regione di Almaty"
     ],
+    "name:ita_x_variant":[
+        "Almaty"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30de\u30c8\u30a4\u5dde"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30eb\u30de\u30c8\u30a4"
+    ],
+    "name:kaa_x_preferred":[
+        "Almati"
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0cb2\u0ccd\u0cae\u0cbe\u0c9f\u0cbf \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10da\u10db\u10d0\u10d7\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10da\u10db\u10d0\u10d7\u10d8"
     ],
     "name:kaz_x_preferred":[
         "Almaty Oblysy"
@@ -141,69 +291,172 @@
     "name:kir_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u044b \u043e\u0431\u043b\u0443\u0441\u0443"
     ],
+    "name:kir_x_variant":[
+        "\u0410\u043b\u043c\u0430\u0442\u0430"
+    ],
     "name:kor_x_preferred":[
         "\uc54c\ub9c8\ud2f0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc54c\ub9c8\ud2f0"
+    ],
+    "name:lad_x_preferred":[
+        "Almaty"
+    ],
+    "name:lat_x_preferred":[
+        "Almata"
     ],
     "name:lav_x_preferred":[
         "Almati apgabals"
     ],
+    "name:lav_x_variant":[
+        "Almati"
+    ],
+    "name:lbe_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
+    ],
+    "name:lez_x_preferred":[
+        "\u0410\u043b\u043c\u0430-\u0410\u0442\u0430"
+    ],
     "name:lit_x_preferred":[
         "Almatos sritis"
+    ],
+    "name:lit_x_variant":[
+        "Almata"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d7d\u0d2e\u0d3e\u0d1f\u0d4d\u0d1f\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0932\u094d\u092e\u093e\u091f\u0940"
     ],
+    "name:mhr_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u0438"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
     ],
     "name:msa_x_preferred":[
         "Wilayah Almaty"
     ],
+    "name:msa_x_variant":[
+        "Almaty"
+    ],
     "name:nld_x_preferred":[
         "Oblast Almaty"
+    ],
+    "name:nld_x_variant":[
+        "Alma-Ata"
     ],
     "name:nno_x_preferred":[
         "Almaty oblast"
     ],
+    "name:nno_x_variant":[
+        "Almaty"
+    ],
     "name:nob_x_preferred":[
         "Almaty region"
+    ],
+    "name:nor_x_preferred":[
+        "Almaty"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
+    ],
+    "name:pam_x_preferred":[
+        "Almaty"
     ],
     "name:pan_x_preferred":[
         "\u0a05\u0a32\u0a2e\u0a3e\u0a1f\u0a40 \u0a38\u0a42\u0a2c\u0a3e"
     ],
+    "name:pan_x_variant":[
+        "\u0a05\u0a32\u0a2e\u0a3e\u0a1f\u0a40"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0622\u0644\u0645\u0627\u062a\u06cc"
+    ],
     "name:pol_x_preferred":[
         "Obw\u00f3d a\u0142macki"
+    ],
+    "name:pol_x_variant":[
+        "A\u0142maty"
     ],
     "name:por_x_preferred":[
         "Almaty "
     ],
+    "name:por_x_variant":[
+        "Almaty"
+    ],
     "name:ron_x_preferred":[
         "Provincia Almat\u00ee"
+    ],
+    "name:ron_x_variant":[
+        "Almaty"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:rus_x_variant":[
         "Almatinskaya Oblast\u2019",
-        "\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "\u0410\u043b\u043c\u0430-\u0410\u0442\u0430"
+    ],
+    "name:sah_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
+    ],
+    "name:scn_x_preferred":[
+        "Almaty"
     ],
     "name:sco_x_preferred":[
         "Almaty Province"
     ],
+    "name:sco_x_variant":[
+        "Almaty"
+    ],
     "name:sin_x_preferred":[
         "\u0d85\u0dbd\u0dca\u0db8\u0dd9\u0da7\u0dd2 \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
+    "name:slk_x_preferred":[
+        "Alma-Ata"
     ],
     "name:spa_x_preferred":[
         "Provincia de Almaty"
     ],
+    "name:spa_x_variant":[
+        "Almat\u00fd"
+    ],
+    "name:sqi_x_preferred":[
+        "Almaty"
+    ],
+    "name:srd_x_preferred":[
+        "Almaty"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:srp_x_variant":[
+        "\u0410\u043b\u043c\u0430\u0442\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Almaty"
     ],
     "name:swe_x_preferred":[
         "Almaty"
     ],
+    "name:szl_x_preferred":[
+        "A\u0142maty"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb3\u0bcd\u0bae\u0bbe\u0b9f\u0bbf  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tam_x_variant":[
+        "\u0b85\u0bb2\u0bcd\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
     ],
     "name:tel_x_preferred":[
         "\u0c06\u0c32\u0c4d\u0c2e\u0c3e\u0c1f\u0c40 \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -211,14 +464,41 @@
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0410\u043b\u043c\u0430\u0442\u0439"
     ],
+    "name:tgk_x_variant":[
+        "\u0410\u043b\u043c\u0430\u0442\u0438"
+    ],
+    "name:tgl_x_preferred":[
+        "Almaty"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25\u0e21\u0e32\u0e15\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e25\u0e21\u0e32\u0e40\u0e15\u0e2d"
+    ],
+    "name:tuk_x_preferred":[
+        "Almaty"
     ],
     "name:tur_x_preferred":[
         "Almat\u0131 Eyaleti"
     ],
+    "name:tur_x_variant":[
+        "Almat\u0131"
+    ],
+    "name:tyv_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
+    ],
+    "name:udm_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0442\u044b"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u0627\u0644\u0645\u06c7\u062a\u0627"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:ukr_x_variant":[
+        "\u0410\u043b\u043c\u0430\u0442\u0438"
     ],
     "name:und_x_variant":[
         "Almatinskaya",
@@ -227,8 +507,17 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u0645\u0627\u062a\u06cc \u0635\u0648\u0628\u06c1"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0644\u0645\u0627\u062a\u06cc"
+    ],
     "name:uzb_x_preferred":[
         "Almati"
+    ],
+    "name:uzb_x_variant":[
+        "Olmaota"
+    ],
+    "name:vep_x_preferred":[
+        "Alma-At"
     ],
     "name:vie_x_preferred":[
         "Almaty"
@@ -236,8 +525,20 @@
     "name:war_x_preferred":[
         "Almaty"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10da\u10db\u10d0\u10d7\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05dc\u05de\u05d0\u05d8\u05d9\u05e2"
+    ],
+    "name:yor_x_preferred":[
+        "Almaty"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u62c9\u6728\u5716\u5dde"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u62c9\u6728\u5716"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -263,7 +564,7 @@
         }
     ],
     "wof:id":1108785435,
-    "wof:lastmodified":1561828585,
+    "wof:lastmodified":1564151836,
     "wof:name":"Almaty",
     "wof:parent_id":85672937,
     "wof:placetype":"county",

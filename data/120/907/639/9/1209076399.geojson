@@ -25,8 +25,17 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0434\u043a\u0430"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0434\u043a\u0430"
+    ],
     "name:eng_x_preferred":[
         "Medvedka"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u0564\u057e\u0565\u0564\u056f\u0561"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0434\u0432\u0435\u0434\u043a\u0430"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209076399,
-    "wof:lastmodified":1537659692,
+    "wof:lastmodified":1564151480,
     "wof:name":"Medvedka",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

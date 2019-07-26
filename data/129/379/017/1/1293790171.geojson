@@ -28,8 +28,20 @@
     "name:eng_x_preferred":[
         "Altyndy"
     ],
+    "name:ind_x_preferred":[
+        "Altyndy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u0442\u044b\u043d\u0434\u044b"
+    ],
+    "name:msa_x_preferred":[
+        "Altyndy"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0442\u044b\u043d\u0434\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0442\u0438\u043d\u0434\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293790171,
-    "wof:lastmodified":1537659461,
+    "wof:lastmodified":1564151103,
     "wof:name":"Altyndy",
     "wof:parent_id":1108785725,
     "wof:placetype":"locality",

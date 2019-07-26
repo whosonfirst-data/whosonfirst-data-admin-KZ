@@ -25,11 +25,17 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pervoye Maya"
+    ],
     "name:kaz_x_preferred":[
         "Pervoe Maya"
     ],
     "name:kaz_x_variant":[
         "\u041f\u0435\u0440\u0432\u043e\u0435 \u041c\u0430\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Pervoye Maya"
     ],
     "name:und_x_variant":[
         "Zharlygan",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1326718457,
-    "wof:lastmodified":1537659643,
+    "wof:lastmodified":1564150711,
     "wof:name":"Pervoye Maya",
     "wof:parent_id":1108785655,
     "wof:placetype":"locality",

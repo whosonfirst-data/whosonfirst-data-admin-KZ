@@ -31,6 +31,9 @@
     "name:kaz_x_variant":[
         "\u0410\u049b\u0434\u0430\u043b\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Aqdala"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0432\u0446\u0435\u0432\u043e\u0434\u0447\u0435\u0441\u043a\u0430\u044f \u0422\u043e\u0432\u0430\u0440\u043d\u0430\u044f \u0424\u0435\u0440\u043c\u0430 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u0411\u0430\u0438\u0440\u043a\u0443\u043c"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1260177235,
-    "wof:lastmodified":1537660065,
+    "wof:lastmodified":1564151808,
     "wof:name":"Aqdala",
     "wof:parent_id":1108785365,
     "wof:placetype":"locality",

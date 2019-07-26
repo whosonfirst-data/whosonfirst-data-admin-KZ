@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aksay"
+    ],
     "name:kaz_x_preferred":[
         "Aqsay"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0441\u0430\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Aksay"
+    ],
+    "name:tgl_x_preferred":[
+        "Aksay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1209120061,
-    "wof:lastmodified":1537659923,
+    "wof:lastmodified":1564151558,
     "wof:name":"Aksay",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

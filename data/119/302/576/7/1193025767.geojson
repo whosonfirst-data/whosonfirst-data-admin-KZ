@@ -25,10 +25,16 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0420\u0430\u0437\u0438\u043d\u043e"
+    ],
     "name:eng_x_preferred":[
         "Razino"
     ],
     "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0438\u043d\u043e"
+    ],
+    "name:tgk_x_preferred":[
         "\u0420\u0430\u0437\u0438\u043d\u043e"
     ],
     "name:und_x_variant":[
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1193025767,
-    "wof:lastmodified":1537659623,
+    "wof:lastmodified":1564151736,
     "wof:name":"Razino",
     "wof:parent_id":1108785611,
     "wof:placetype":"locality",

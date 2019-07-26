@@ -25,8 +25,20 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0416\u0430\u0441\u0430\u043b\u044b"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u043e\u0441\u0430\u043b\u044b"
+    ],
+    "name:pol_x_preferred":[
+        "\u017bosa\u0142y"
+    ],
     "name:rus_x_preferred":[
         "\u0416\u043e\u0441\u0430\u043b\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u043e\u0441\u0430\u043b\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1226506047,
-    "wof:lastmodified":1537660086,
+    "wof:lastmodified":1564152659,
     "wof:name":"Zhosaly",
     "wof:parent_id":1108785707,
     "wof:placetype":"locality",

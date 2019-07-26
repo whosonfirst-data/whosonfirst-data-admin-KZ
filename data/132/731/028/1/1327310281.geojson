@@ -25,8 +25,44 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0628\u0627\u0642\u0627\u0646 \u0686\u0627\u06cc\u06cc"
+    ],
+    "name:bel_x_preferred":[
+        "\u0423\u0431\u0430\u0433\u0430\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0431\u0430\u0433\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Obaghan"
+    ],
+    "name:ces_x_preferred":[
+        "Ubagan"
+    ],
+    "name:chv_x_preferred":[
+        "\u0423\u0431\u0430\u0433\u0430\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Ubagan"
+    ],
     "name:eng_x_preferred":[
         "Obaghan"
+    ],
+    "name:est_x_preferred":[
+        "Ubagan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062f \u0627\u0648\u0628\u0627\u06af\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Ubagan"
+    ],
+    "name:fra_x_preferred":[
+        "Oubagan"
+    ],
+    "name:ita_x_preferred":[
+        "Ubagan"
     ],
     "name:kaz_x_preferred":[
         "Obaghan"
@@ -34,11 +70,23 @@
     "name:kaz_x_variant":[
         "\u041e\u0431\u0430\u0493\u0430\u043d"
     ],
+    "name:pol_x_preferred":[
+        "Obagan"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0431\u0430\u0433\u0430\u043d"
     ],
+    "name:spa_x_preferred":[
+        "R\u00edo Ubagan"
+    ],
+    "name:tur_x_preferred":[
+        "Oba\u011fan Nehri"
+    ],
     "name:und_x_variant":[
         "Ubagan"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u5df4\u7518\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +112,7 @@
         }
     ],
     "wof:id":1327310281,
-    "wof:lastmodified":1537660032,
+    "wof:lastmodified":1564150593,
     "wof:name":"Obaghan",
     "wof:parent_id":1108785687,
     "wof:placetype":"locality",

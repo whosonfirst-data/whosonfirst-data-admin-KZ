@@ -25,7 +25,34 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaraqum"
+    ],
+    "name:ceb_x_preferred":[
+        "Karakum"
+    ],
+    "name:est_x_preferred":[
+        "Karakum"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0647\u200c\u0642\u0648\u0645"
+    ],
+    "name:ita_x_preferred":[
+        "Karakum"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u0440\u0430\u049b\u04b1\u043c"
+    ],
+    "name:pol_x_preferred":[
+        "Karakum"
+    ],
     "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u0443\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Karakum"
+    ],
+    "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043a\u0443\u043c"
     ],
     "src:geom":"geonames",
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1343449951,
-    "wof:lastmodified":1537660106,
+    "wof:lastmodified":1564151032,
     "wof:name":"Karakum",
     "wof:parent_id":1108785581,
     "wof:placetype":"locality",

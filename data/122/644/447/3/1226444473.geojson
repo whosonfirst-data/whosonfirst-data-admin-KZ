@@ -25,8 +25,14 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0443\u0436\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0436\u0443\u043c"
+    ],
+    "name:uzb_x_preferred":[
+        "Bujum"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226444473,
-    "wof:lastmodified":1537660118,
+    "wof:lastmodified":1564152579,
     "wof:name":"Buzhum",
     "wof:parent_id":1108785617,
     "wof:placetype":"locality",

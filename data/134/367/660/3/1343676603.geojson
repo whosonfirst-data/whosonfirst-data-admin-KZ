@@ -25,6 +25,24 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Iwanow"
+    ],
+    "name:est_x_preferred":[
+        "Ivanov"
+    ],
+    "name:pol_x_preferred":[
+        "Iwanow"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Ivanov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0432\u0430\u043d\u043e\u0432"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1343676603,
-    "wof:lastmodified":1536932450,
+    "wof:lastmodified":1564150934,
     "wof:name":"Ivanov",
     "wof:parent_id":1108785709,
     "wof:placetype":"locality",

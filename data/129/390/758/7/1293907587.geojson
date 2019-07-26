@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Kurayli"
     ],
+    "name:kaz_x_preferred":[
+        "\u049a\u0443\u0440\u0430\u0439\u043b\u044b"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0440\u0430\u0439\u043b\u0438"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293907587,
-    "wof:lastmodified":1537659399,
+    "wof:lastmodified":1564151091,
     "wof:name":"Kurayli",
     "wof:parent_id":1108785631,
     "wof:placetype":"locality",

@@ -25,8 +25,23 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u0997\u09be\u099a \u0996\u09be\u09a6"
+    ],
+    "name:cat_x_preferred":[
+        "Cr\u00e0ter Khigaix"
+    ],
+    "name:deu_x_preferred":[
+        "Bigach"
+    ],
     "name:eng_x_preferred":[
         "B\u012bghash"
+    ],
+    "name:pol_x_preferred":[
+        "Bigasz"
+    ],
+    "name:ron_x_preferred":[
+        "Craterul Bigach"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0438\u0433\u0430\u0448"
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1343634497,
-    "wof:lastmodified":1537659872,
+    "wof:lastmodified":1564150831,
     "wof:name":"Bighash",
     "wof:parent_id":1108785463,
     "wof:placetype":"locality",

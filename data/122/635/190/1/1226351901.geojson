@@ -25,13 +25,31 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Akozek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0648\u0632\u06a9"
+    ],
     "name:kaz_x_preferred":[
         "Aq\u00f6zek"
     ],
     "name:kaz_x_variant":[
         "\u0410\u049b\u04e9\u0437\u0435\u043a"
     ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043a\u043e\u0437\u0435\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Akozek"
+    ],
     "name:rus_x_preferred":[
+        "\u0410\u043a\u043e\u0437\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Akozek"
+    ],
+    "name:ukr_x_preferred":[
         "\u0410\u043a\u043e\u0437\u0435\u043a"
     ],
     "src:geom":"geonames",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1226351901,
-    "wof:lastmodified":1537659933,
+    "wof:lastmodified":1564152647,
     "wof:name":"Akozek",
     "wof:parent_id":1108785431,
     "wof:placetype":"locality",

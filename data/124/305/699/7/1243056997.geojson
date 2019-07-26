@@ -31,6 +31,12 @@
     "name:kaz_x_variant":[
         "\u0410\u049b\u0436\u0430\u0440"
     ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043a\u0436\u0430\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Aqzhar"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0436\u0430\u0440"
     ],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1243056997,
-    "wof:lastmodified":1537660112,
+    "wof:lastmodified":1564152330,
     "wof:name":"Aqzhar",
     "wof:parent_id":1108785585,
     "wof:placetype":"locality",

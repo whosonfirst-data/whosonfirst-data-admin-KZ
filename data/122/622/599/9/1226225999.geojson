@@ -31,6 +31,12 @@
     "name:kaz_x_variant":[
         "\u0422\u0430\u043b\u0430\u043f"
     ],
+    "name:mal_x_preferred":[
+        "\u0d24\u0d33\u0d3e\u0d2a\u0d4d\u0d2a\u0d4d"
+    ],
+    "name:msa_x_preferred":[
+        "Talap"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226225999,
-    "wof:lastmodified":1537660056,
+    "wof:lastmodified":1564152685,
     "wof:name":"Talap",
     "wof:parent_id":1108785583,
     "wof:placetype":"locality",

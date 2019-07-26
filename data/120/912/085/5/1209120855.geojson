@@ -25,6 +25,48 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Partizan"
+    ],
+    "name:ceb_x_preferred":[
+        "Partizan"
+    ],
+    "name:deu_x_preferred":[
+        "Partizan"
+    ],
+    "name:fra_x_preferred":[
+        "Partizan"
+    ],
+    "name:hrv_x_preferred":[
+        "Partizan"
+    ],
+    "name:hun_x_preferred":[
+        "Partiz\u00e1n"
+    ],
+    "name:kor_x_preferred":[
+        "\ube68\uce58\uc0b0"
+    ],
+    "name:mon_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d"
+    ],
+    "name:ron_x_preferred":[
+        "Partizan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Partizan"
+    ],
+    "name:tur_x_preferred":[
+        "Partizan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632307
@@ -42,7 +84,7 @@
         }
     ],
     "wof:id":1209120855,
-    "wof:lastmodified":1536297103,
+    "wof:lastmodified":1564151556,
     "wof:name":"Partizan",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

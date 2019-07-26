@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yelenovka"
+    ],
     "name:und_x_variant":[
         "Yelenovskoye",
         "Yel\u00ebnovka"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1360172635,
-    "wof:lastmodified":1537659509,
+    "wof:lastmodified":1564152055,
     "wof:name":"Yelenovka",
     "wof:parent_id":1108785615,
     "wof:placetype":"locality",

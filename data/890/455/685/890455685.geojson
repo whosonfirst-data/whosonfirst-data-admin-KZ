@@ -15,11 +15,41 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Schalqar"
+    ],
+    "name:fra_x_preferred":[
+        "Chalkar"
+    ],
+    "name:hsb_x_preferred":[
+        "\u0160alkar"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0430\u043b\u049b\u0430\u0440"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160alkaras"
+    ],
+    "name:msa_x_preferred":[
+        "Shalkar"
+    ],
+    "name:pol_x_preferred":[
+        "Sza\u0142kar"
+    ],
     "name:rus_x_preferred":[
+        "\u0428\u0430\u043b\u043a\u0430\u0440"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0430\u043b\u043a\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
         "\u0428\u0430\u043b\u043a\u0430\u0440"
     ],
     "name:unk_x_variant":[
         "Chalkhar"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u723e\u5361\u723e"
     ],
     "qs:name":"Shalkar",
     "qs:photos_9r":0,
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":890455685,
-    "wof:lastmodified":1527735397,
+    "wof:lastmodified":1564152177,
     "wof:name":"Shalkar",
     "wof:parent_id":85672889,
     "wof:placetype":"locality",

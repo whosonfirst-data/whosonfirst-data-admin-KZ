@@ -31,6 +31,9 @@
     "name:kaz_x_variant":[
         "\u041a\u0435\u0440\u0431\u04b1\u043b\u0430\u049b"
     ],
+    "name:msa_x_preferred":[
+        "Kerbulak"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0440\u0431\u0443\u043b\u0430\u043a"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1226056695,
-    "wof:lastmodified":1537659933,
+    "wof:lastmodified":1564152632,
     "wof:name":"Kerbulak",
     "wof:parent_id":1108785431,
     "wof:placetype":"locality",

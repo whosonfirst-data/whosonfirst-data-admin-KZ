@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Anastas'yevka"
     ],
+    "name:ind_x_preferred":[
+        "Anastas'yevka"
+    ],
+    "name:msa_x_preferred":[
+        "Anastas'yevka"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u044c\u0435\u0432\u043a\u0430"
     ],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1343347721,
-    "wof:lastmodified":1537659908,
+    "wof:lastmodified":1564150953,
     "wof:name":"Anastas'yevka",
     "wof:parent_id":1108785531,
     "wof:placetype":"locality",

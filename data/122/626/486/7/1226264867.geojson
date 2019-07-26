@@ -25,11 +25,20 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Monash"
+    ],
+    "name:deu_x_preferred":[
+        "Monash"
+    ],
     "name:eng_x_preferred":[
         "Monash"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Monash"
     ],
     "name:und_x_variant":[
         "Manash"
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1226264867,
-    "wof:lastmodified":1537659389,
+    "wof:lastmodified":1564152595,
     "wof:name":"Monash",
     "wof:parent_id":1108785449,
     "wof:placetype":"locality",

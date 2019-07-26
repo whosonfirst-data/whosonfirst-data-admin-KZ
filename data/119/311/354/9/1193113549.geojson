@@ -31,6 +31,9 @@
     "name:rus_x_variant":[
         "\u041b\u0435\u0441\u0445\u043e\u0437"
     ],
+    "name:tgl_x_preferred":[
+        "Ostrovnoy"
+    ],
     "name:und_x_variant":[
         "Leskhoz"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1193113549,
-    "wof:lastmodified":1537660172,
+    "wof:lastmodified":1564151744,
     "wof:name":"Ostrovnoy",
     "wof:parent_id":1108785569,
     "wof:placetype":"locality",

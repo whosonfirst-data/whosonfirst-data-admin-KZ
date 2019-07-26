@@ -31,6 +31,12 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0441\u043b\u043e\u0432"
     ],
+    "name:slv_x_preferred":[
+        "Maslov"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u65af\u6d1b\u592b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243546175,
-    "wof:lastmodified":1537659390,
+    "wof:lastmodified":1564152192,
     "wof:name":"Maslov",
     "wof:parent_id":1108785703,
     "wof:placetype":"locality",

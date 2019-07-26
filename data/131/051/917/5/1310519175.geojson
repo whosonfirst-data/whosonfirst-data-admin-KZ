@@ -25,8 +25,35 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Abay"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0431\u0430\u0439"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0431\u0430\u0458"
+    ],
+    "name:msa_x_preferred":[
+        "Abay"
+    ],
+    "name:por_x_preferred":[
+        "Abay"
+    ],
     "name:rus_x_preferred":[
         "Oktyabr\u2019skoye Desyatoye"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0431\u0430\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Abay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0431\u0430\u0439"
     ],
     "name:und_x_variant":[
         "Imeni Abaya",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1310519175,
-    "wof:lastmodified":1537659656,
+    "wof:lastmodified":1564152001,
     "wof:name":"Abay",
     "wof:parent_id":1108785419,
     "wof:placetype":"locality",

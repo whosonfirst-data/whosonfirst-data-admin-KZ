@@ -25,11 +25,20 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03bd\u03b1\u03ba\u03b1\u03bb\u03ac"
+    ],
     "name:kaz_x_preferred":[
         "\u0416\u0430\u04a3\u0430\u049b\u0430\u043b\u0430"
     ],
     "name:rus_x_preferred":[
         "\u0416\u0430\u043d\u0430\u043a\u0430\u043b\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0416\u0430\u043d\u0433\u0430\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0430\u043d\u0433\u0430\u043b\u0430"
     ],
     "name:und_x_variant":[
         "Zhana-Kola",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1327320817,
-    "wof:lastmodified":1537659489,
+    "wof:lastmodified":1564150695,
     "wof:name":"Zhanakala",
     "wof:parent_id":1108785651,
     "wof:placetype":"locality",

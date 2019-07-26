@@ -25,11 +25,26 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09b6\u09cb\u09ad\u09be"
+    ],
     "name:eng_x_preferred":[
         "Shoba"
     ],
+    "name:mal_x_preferred":[
+        "\u0d36\u0d4b\u0d2d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0936\u094b\u092d\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0936\u094b\u092d\u093e"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u043e\u0431\u0430"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb7\u0bcb\u0baa\u0bbe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1260102279,
-    "wof:lastmodified":1537659366,
+    "wof:lastmodified":1564151810,
     "wof:name":"Shoba",
     "wof:parent_id":1108785453,
     "wof:placetype":"locality",

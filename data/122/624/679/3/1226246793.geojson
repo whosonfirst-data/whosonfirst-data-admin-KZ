@@ -29,6 +29,9 @@
     "name:kaz_x_preferred":[
         "Kishi Qaraoy"
     ],
+    "name:msa_x_preferred":[
+        "Kishi qaraoy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1226246793,
-    "wof:lastmodified":1537660028,
+    "wof:lastmodified":1564152700,
     "wof:name":"Maloye Karaoy",
     "wof:parent_id":1108785433,
     "wof:placetype":"locality",

@@ -25,10 +25,61 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u042f\u0441\u0456\u043b\u044c"
+    ],
+    "name:ceb_x_preferred":[
+        "Esil"
+    ],
+    "name:deu_x_preferred":[
+        "Jessil"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c3\u03af\u03bb"
+    ],
+    "name:est_x_preferred":[
+        "Jesil"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0635\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Essil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05d9\u05dc"
+    ],
+    "name:hsb_x_preferred":[
+        "Jesil"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0415\u0441\u0456\u043b"
+    ],
+    "name:lit_x_preferred":[
+        "Jesilas"
+    ],
+    "name:pol_x_preferred":[
+        "Jesyl"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0441\u0438\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Esil"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u0448\u0435\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0441\u0456\u043b\u044c"
+    ],
     "name:und_x_variant":[
         "Ishimka",
         "Ishimskoye",
         "Esil"
+    ],
+    "name:uzb_x_preferred":[
+        "Yesil"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1276992631,
-    "wof:lastmodified":1537659806,
+    "wof:lastmodified":1564151427,
     "wof:name":"Esil",
     "wof:parent_id":1108785623,
     "wof:placetype":"locality",

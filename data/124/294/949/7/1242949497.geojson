@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alakol"
+    ],
     "name:eng_x_preferred":[
         "Alakol'"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Alakol"
     ],
     "name:und_x_variant":[
         "Zhanaiyum",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1242949497,
-    "wof:lastmodified":1537659489,
+    "wof:lastmodified":1564152253,
     "wof:name":"Alakol",
     "wof:parent_id":1108785657,
     "wof:placetype":"locality",

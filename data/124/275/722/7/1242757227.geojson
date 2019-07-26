@@ -25,8 +25,17 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0644\u064a"
+    ],
     "name:eng_x_preferred":[
         "Sh\u012bli"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0644\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Shili"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0438\u043b\u0438"
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1242757227,
-    "wof:lastmodified":1537659592,
+    "wof:lastmodified":1564152231,
     "wof:name":"Shili",
     "wof:parent_id":1108785527,
     "wof:placetype":"locality",

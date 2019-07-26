@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bf\u03c5\u03bb\u03b9\u03b5\u03ba\u03cc\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Sem\u012bozernoe"
     ],
@@ -38,12 +41,19 @@
         "Semioz\u00ebrnoye"
     ],
     "name:rus_x_variant":[
-        "\u0421\u0435\u043c\u0438\u043e\u0437\u0435\u0440\u043d\u043e\u0435"
+        "\u0421\u0435\u043c\u0438\u043e\u0437\u0435\u0440\u043d\u043e\u0435",
+        "\u0410\u0443\u043b\u0438\u0435\u043a\u043e\u043b\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0443\u043b\u0456\u0454\u043a\u043e\u043b\u044c"
     ],
     "name:und_x_variant":[
         "Semiozerny",
         "Semiozernyy",
         "\u00c4ul\u012bek\u00f6l"
+    ],
+    "name:uzb_x_preferred":[
+        "Avliyoko\u02bbl"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +79,7 @@
         }
     ],
     "wof:id":1326916559,
-    "wof:lastmodified":1537659606,
+    "wof:lastmodified":1564150755,
     "wof:name":"Semiozernoye",
     "wof:parent_id":1108785659,
     "wof:placetype":"locality",

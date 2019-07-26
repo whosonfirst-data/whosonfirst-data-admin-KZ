@@ -31,8 +31,14 @@
     "name:kaz_x_variant":[
         "\u049a\u043e\u0439\u0442\u0430\u0441"
     ],
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0421\u0430\u0437"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0441\u0430\u0437"
+    ],
+    "name:uzb_x_preferred":[
+        "Qora-Soz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1226219627,
-    "wof:lastmodified":1537659787,
+    "wof:lastmodified":1564152582,
     "wof:name":"Karasaz",
     "wof:parent_id":1108785509,
     "wof:placetype":"locality",

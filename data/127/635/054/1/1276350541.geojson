@@ -25,6 +25,12 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0415\u043d\u0431\u0435\u043a\u0448\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Enbekshi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276350541,
-    "wof:lastmodified":1536755424,
+    "wof:lastmodified":1564151347,
     "wof:name":"Enbekshi",
     "wof:parent_id":1108785701,
     "wof:placetype":"locality",

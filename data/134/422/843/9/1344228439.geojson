@@ -25,11 +25,26 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Toli\u00e9 Bi"
+    ],
     "name:kaz_x_preferred":[
         "\u0422\u04e9\u043b\u0435 \u0411\u0438"
     ],
+    "name:kaz_x_variant":[
+        "\u0422\u04e9\u043b\u0435 \u0431\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "T\u00f6le Bi"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0442\u0440\u043e\u0438\u0446\u043a\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u043e\u043b\u0435 \u0411\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043b\u0435-\u0431\u0456"
     ],
     "name:und_x_variant":[
         "Novo-Troitsk",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1344228439,
-    "wof:lastmodified":1537659662,
+    "wof:lastmodified":1564150839,
     "wof:name":"Novotroitskoye",
     "wof:parent_id":1108785707,
     "wof:placetype":"locality",

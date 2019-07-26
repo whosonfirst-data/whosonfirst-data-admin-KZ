@@ -32,6 +32,12 @@
     "name:rus_x_preferred":[
         "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e"
     ],
+    "name:slk_x_preferred":[
+        "\u0160ev\u010denko"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160ev\u010denko"
+    ],
     "name:und_x_variant":[
         "Shevchenkovskiy",
         "Shevchenko"
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1243178169,
-    "wof:lastmodified":1537659367,
+    "wof:lastmodified":1564152389,
     "wof:name":"Shevchenko",
     "wof:parent_id":1108785697,
     "wof:placetype":"locality",

@@ -25,14 +25,33 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ali"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u06cc"
+    ],
     "name:kaz_x_preferred":[
         "\u00d6l\u012b"
     ],
     "name:kaz_x_variant":[
-        "\u04e8\u043b\u0438"
+        "\u04e8\u043b\u0438",
+        "\u04d8\u043b\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Ali"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ali"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0456"
     ],
     "name:und_x_variant":[
         "Aliy",
@@ -62,7 +81,7 @@
         }
     ],
     "wof:id":1226554109,
-    "wof:lastmodified":1537659912,
+    "wof:lastmodified":1564152724,
     "wof:name":"Ali",
     "wof:parent_id":1108785433,
     "wof:placetype":"locality",
