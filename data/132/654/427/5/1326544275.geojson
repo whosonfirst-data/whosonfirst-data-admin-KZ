@@ -25,6 +25,21 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u049b\u0431\u0430\u049b\u0442\u044b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u043a\u0431\u0430\u043a\u0442\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Baqbaqty"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043a\u0431\u0430\u043a\u0442\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043a\u0431\u0430\u043a\u0442\u0438"
+    ],
     "name:und_x_variant":[
         "Bakbakty",
         "Bakpakty",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1326544275,
-    "wof:lastmodified":1537659893,
+    "wof:lastmodified":1564150765,
     "wof:name":"Baqbaqty",
     "wof:parent_id":1108785403,
     "wof:placetype":"locality",

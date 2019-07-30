@@ -34,6 +34,9 @@
     "name:kaz_x_variant":[
         "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043a\u0430"
     ],
+    "name:lav_x_preferred":[
+        "Borisovka"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043a\u0430"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1343542331,
-    "wof:lastmodified":1537659862,
+    "wof:lastmodified":1564150809,
     "wof:name":"Borisovka",
     "wof:parent_id":1108785351,
     "wof:placetype":"locality",

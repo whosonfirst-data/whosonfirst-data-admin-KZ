@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slv_x_preferred":[
+        "Gor\u0161kov"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310319979,
-    "wof:lastmodified":1536686989,
+    "wof:lastmodified":1564151896,
     "wof:name":"Gorshkov",
     "wof:parent_id":1108785709,
     "wof:placetype":"locality",

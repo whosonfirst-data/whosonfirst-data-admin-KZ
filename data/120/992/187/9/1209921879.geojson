@@ -25,8 +25,32 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Akan"
+    ],
+    "name:ces_x_preferred":[
+        "Akan"
+    ],
+    "name:deu_x_preferred":[
+        "Akan"
+    ],
     "name:eng_x_preferred":[
         "Akan"
+    ],
+    "name:fra_x_preferred":[
+        "Akan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056f\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Akan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ab\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d9\u10d0\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "Aqan"
@@ -34,7 +58,34 @@
     "name:kaz_x_variant":[
         "\u0410\u049b\u0430\u043d"
     ],
+    "name:nld_x_preferred":[
+        "Akan"
+    ],
+    "name:pol_x_preferred":[
+        "Akan"
+    ],
+    "name:por_x_preferred":[
+        "Akan"
+    ],
+    "name:ron_x_preferred":[
+        "Akan"
+    ],
     "name:rus_x_preferred":[
+        "\u0410\u043a\u0430\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Akan"
+    ],
+    "name:spa_x_preferred":[
+        "Akan"
+    ],
+    "name:swe_x_preferred":[
+        "Akan"
+    ],
+    "name:tur_x_preferred":[
+        "Akan"
+    ],
+    "name:ukr_x_preferred":[
         "\u0410\u043a\u0430\u043d"
     ],
     "src:geom":"geonames",
@@ -60,7 +111,7 @@
         }
     ],
     "wof:id":1209921879,
-    "wof:lastmodified":1537659995,
+    "wof:lastmodified":1564151601,
     "wof:name":"Akan",
     "wof:parent_id":1108785721,
     "wof:placetype":"locality",

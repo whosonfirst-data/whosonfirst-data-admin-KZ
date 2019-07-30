@@ -26,11 +26,26 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kulakow"
+    ],
     "name:eng_x_preferred":[
         "Kulakov"
     ],
+    "name:lav_x_preferred":[
+        "Kulakovs"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u043b\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u043b\u0430\u043a\u043e\u0432"
+    ],
+    "name:slv_x_preferred":[
+        "Kulakov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043b\u0430\u043a\u043e\u0432"
     ],
     "name:und_x_variant":[
         "Kulakova",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1326644705,
-    "wof:lastmodified":1537659400,
+    "wof:lastmodified":1564150738,
     "wof:name":"Kulakov",
     "wof:parent_id":1108785329,
     "wof:placetype":"locality",

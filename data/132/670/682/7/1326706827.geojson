@@ -25,10 +25,19 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0420\u0435\u0447\u043d\u0438"
+    ],
     "name:kaz_x_preferred":[
         "Rechnoe"
     ],
     "name:kaz_x_variant":[
+        "\u0420\u0435\u0447\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0447\u043d\u043e\u0435"
+    ],
+    "name:tgk_x_preferred":[
         "\u0420\u0435\u0447\u043d\u043e\u0435"
     ],
     "name:und_x_variant":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1326706827,
-    "wof:lastmodified":1537659854,
+    "wof:lastmodified":1564150717,
     "wof:name":"Rechnoye",
     "wof:parent_id":1108785687,
     "wof:placetype":"locality",

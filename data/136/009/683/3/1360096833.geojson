@@ -25,6 +25,15 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Romanovka"
+    ],
+    "name:lav_x_preferred":[
+        "Romanovka"
+    ],
+    "name:swe_x_preferred":[
+        "Romanovka"
+    ],
     "name:und_x_variant":[
         "Romanovskoye",
         "Romanovskiy",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1360096833,
-    "wof:lastmodified":1537659621,
+    "wof:lastmodified":1564152025,
     "wof:name":"Romanovka",
     "wof:parent_id":1108785625,
     "wof:placetype":"locality",

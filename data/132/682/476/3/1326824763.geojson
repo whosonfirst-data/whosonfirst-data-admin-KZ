@@ -26,6 +26,12 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0422\u0430\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u043e\u0432\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Talovokiy",
         "Talovka"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326824763,
-    "wof:lastmodified":1537659360,
+    "wof:lastmodified":1564150707,
     "wof:name":"Talovka",
     "wof:parent_id":1108785327,
     "wof:placetype":"locality",

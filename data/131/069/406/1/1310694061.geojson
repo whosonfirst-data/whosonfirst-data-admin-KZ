@@ -25,9 +25,27 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0456\u0441\u0442\u0430\u0443"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u049b\u049b\u044b\u0441\u0442\u0430\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Aqqystau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043a\u0438\u0441\u0442\u0430\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043a\u043a\u0456\u0441\u0442\u0430\u0443"
+    ],
     "name:und_x_variant":[
         "Akkstau",
         "Akkystau"
+    ],
+    "name:uzb_x_preferred":[
+        "Aqqistau"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1310694061,
-    "wof:lastmodified":1537659453,
+    "wof:lastmodified":1564151993,
     "wof:name":"Akkystau",
     "wof:parent_id":1108785453,
     "wof:placetype":"locality",

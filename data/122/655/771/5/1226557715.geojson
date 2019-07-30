@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kalkaman"
+    ],
     "name:und_x_variant":[
         "Nizhnyaya Kamenka",
         "Kalkaman"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1226557715,
-    "wof:lastmodified":1537660026,
+    "wof:lastmodified":1564152723,
     "wof:name":"Kalkaman",
     "wof:parent_id":1108785435,
     "wof:placetype":"locality",

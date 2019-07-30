@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:ceb_x_preferred":[
+        "Kulan"
+    ],
+    "name:deu_x_preferred":[
+        "Kulan"
+    ],
     "name:kaz_x_preferred":[
         "Qulan"
     ],
@@ -24,6 +30,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u0433\u043e\u0432\u043e\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kulan"
     ],
     "name:unk_x_variant":[
         "Lugovaya"
@@ -150,7 +159,7 @@
         }
     ],
     "wof:id":890437807,
-    "wof:lastmodified":1527729753,
+    "wof:lastmodified":1564152176,
     "wof:name":"Kulan",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

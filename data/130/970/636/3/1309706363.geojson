@@ -26,9 +26,48 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarabulaq"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:ita_x_preferred":[
+        "Karabulak"
+    ],
+    "name:kaa_x_preferred":[
+        "Qarabulaq"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u0440\u0430\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:mon_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Karabu\u0142ak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u043e\u043b\u0430\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Karabulak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Qarabulaq",
         "Karabulak"
+    ],
+    "name:uzb_x_preferred":[
+        "Qorabuloq"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +93,7 @@
         }
     ],
     "wof:id":1309706363,
-    "wof:lastmodified":1537660017,
+    "wof:lastmodified":1564152098,
     "wof:name":"Karabulak",
     "wof:parent_id":1108785595,
     "wof:placetype":"locality",

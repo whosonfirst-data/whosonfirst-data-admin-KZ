@@ -31,6 +31,12 @@
     "name:kaz_x_variant":[
         "\u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432\u043a\u0430"
     ],
+    "name:lav_x_preferred":[
+        "Maksimovka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Zhana-Zhol",
         "Maksimovskoye",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1343449085,
-    "wof:lastmodified":1537659702,
+    "wof:lastmodified":1564151029,
     "wof:name":"Maksimovka",
     "wof:parent_id":1108785561,
     "wof:placetype":"locality",

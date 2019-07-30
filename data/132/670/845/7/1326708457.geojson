@@ -25,11 +25,26 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bogdanovka"
+    ],
+    "name:deu_x_preferred":[
+        "Bogdanowka"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d2\u05d3\u05e0\u05d5\u05d1\u05e7\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Bogdanovka"
+    ],
     "name:kaz_x_preferred":[
         "Bogdanovka"
     ],
     "name:kaz_x_variant":[
         "\u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Bogdanovka"
     ],
     "name:und_x_variant":[
         "Bogdanovskoye"
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1326708457,
-    "wof:lastmodified":1537659867,
+    "wof:lastmodified":1564150715,
     "wof:name":"Bogdanovka",
     "wof:parent_id":1108785561,
     "wof:placetype":"locality",

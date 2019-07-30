@@ -14,6 +14,9 @@
     "lbl:longitude":57.334991,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Algha"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
     "ne:ADM0_A3":"KAZ",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1141907849,
-    "wof:lastmodified":1508889539,
+    "wof:lastmodified":1564152772,
     "wof:name":"Algha",
     "wof:parent_id":85672877,
     "wof:placetype":"locality",

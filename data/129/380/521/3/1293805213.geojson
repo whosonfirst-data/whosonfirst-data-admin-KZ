@@ -26,6 +26,12 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Fedotov"
+    ],
+    "name:slv_x_preferred":[
+        "Fedjotov"
+    ],
     "name:und_x_variant":[
         "Khutor Fedos\u2019yev",
         "Fedotov"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293805213,
-    "wof:lastmodified":1537659426,
+    "wof:lastmodified":1564151231,
     "wof:name":"Fedotov",
     "wof:parent_id":1108785703,
     "wof:placetype":"locality",

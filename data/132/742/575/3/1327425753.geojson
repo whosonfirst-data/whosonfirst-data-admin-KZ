@@ -25,7 +25,13 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03ba\u03b5\u03bc\u03ad\u03c1"
+    ],
     "name:eng_x_preferred":[
+        "Karakemer"
+    ],
+    "name:msa_x_preferred":[
         "Karakemer"
     ],
     "name:rus_x_preferred":[
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1327425753,
-    "wof:lastmodified":1537659418,
+    "wof:lastmodified":1564150787,
     "wof:name":"Karakemer",
     "wof:parent_id":1108785325,
     "wof:placetype":"locality",

@@ -25,11 +25,23 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarabulaq"
+    ],
+    "name:ceb_x_preferred":[
+        "Qarabulaq"
+    ],
+    "name:ita_x_preferred":[
+        "Qarabulaq"
+    ],
     "name:kaz_x_preferred":[
         "\u049a\u0430\u0440\u0430\u0431\u04b1\u043b\u0430\u049b"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Qarabulaq"
     ],
     "name:und_x_variant":[
         "Karabulag",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1242962477,
-    "wof:lastmodified":1537659626,
+    "wof:lastmodified":1564152362,
     "wof:name":"Qarabulaq",
     "wof:parent_id":1108785595,
     "wof:placetype":"locality",

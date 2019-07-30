@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:crh_x_preferred":[
+        "Tulup zurna"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u043b\u044b\u043d\u043a\u0430"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276966367,
-    "wof:lastmodified":1537659519,
+    "wof:lastmodified":1564151452,
     "wof:name":"Volynka",
     "wof:parent_id":1108785651,
     "wof:placetype":"locality",

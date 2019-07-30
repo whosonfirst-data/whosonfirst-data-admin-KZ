@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0443\u0448"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0443\u0448"
+    ],
     "name:und_x_variant":[
         "T\u00e4\u016bish"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1260262173,
-    "wof:lastmodified":1537659560,
+    "wof:lastmodified":1564151811,
     "wof:name":"Taush",
     "wof:parent_id":1108785527,
     "wof:placetype":"locality",

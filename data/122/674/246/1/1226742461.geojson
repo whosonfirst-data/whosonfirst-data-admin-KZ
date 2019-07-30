@@ -32,12 +32,16 @@
         "Pamyat\u2019 \u012al\u2019\u012bcha"
     ],
     "name:kaz_x_variant":[
-        "\u041f\u0430\u043c\u044f\u0442\u044c \u0418\u043b\u044c\u0438\u0447\u0430"
+        "\u041f\u0430\u043c\u044f\u0442\u044c \u0418\u043b\u044c\u0438\u0447\u0430",
+        "\u0411\u0435\u0440\u0435\u043a\u0435"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043c\u044f\u0442\u044c \u0418\u043b\u044c\u0438\u0447\u0430"
     ],
     "name:rus_x_variant":[
+        "\u0411\u0435\u0440\u0435\u043a\u0435"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0435\u043a\u0435"
     ],
     "name:und_x_variant":[
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1226742461,
-    "wof:lastmodified":1537659381,
+    "wof:lastmodified":1564152606,
     "wof:name":"Bereke",
     "wof:parent_id":1108785457,
     "wof:placetype":"locality",

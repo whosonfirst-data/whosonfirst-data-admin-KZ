@@ -28,6 +28,12 @@
     "name:kaz_x_preferred":[
         "Maks\u012bmovka"
     ],
+    "name:lav_x_preferred":[
+        "Maksimovka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Maksimovskoye",
         "Maksimovskiy"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1344058855,
-    "wof:lastmodified":1537659702,
+    "wof:lastmodified":1564150977,
     "wof:name":"Maksimovka",
     "wof:parent_id":1108785625,
     "wof:placetype":"locality",

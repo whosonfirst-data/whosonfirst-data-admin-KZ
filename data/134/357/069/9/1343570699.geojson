@@ -25,14 +25,26 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03b6\u03af\u03bb\u03c4\u03bf\u03c5"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a3\u30ba\u30a3\u30eb\u30c4"
+    ],
     "name:kaz_x_preferred":[
         "Qyzylt\u016b"
     ],
     "name:kaz_x_variant":[
         "\u049a\u044b\u0437\u044b\u043b\u0442\u0443"
     ],
+    "name:msa_x_preferred":[
+        "Qyzyltu"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b\u0442\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0437\u0438\u043b\u0442\u0443"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1343570699,
-    "wof:lastmodified":1537659717,
+    "wof:lastmodified":1564150928,
     "wof:name":"Kyzyltu",
     "wof:parent_id":1108785421,
     "wof:placetype":"locality",

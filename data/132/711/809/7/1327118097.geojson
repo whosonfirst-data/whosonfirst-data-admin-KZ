@@ -31,11 +31,23 @@
     "name:kaz_x_variant":[
         "\u042b\u043d\u0442\u044b\u043c\u0430\u049b"
     ],
+    "name:kir_x_preferred":[
+        "\u042b\u043d\u0442\u044b\u043c\u0430\u043a"
+    ],
     "name:rus_x_preferred":[
+        "\u042b\u043d\u0442\u044b\u043c\u0430\u043a"
+    ],
+    "name:tat_x_preferred":[
         "\u042b\u043d\u0442\u044b\u043c\u0430\u043a"
     ],
     "name:und_x_variant":[
         "Intymak"
+    ],
+    "name:uzb_x_preferred":[
+        "Intimoq"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u63d0\u9a6c\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1327118097,
-    "wof:lastmodified":1537660023,
+    "wof:lastmodified":1564150794,
     "wof:name":"Yntymak",
     "wof:parent_id":1108785693,
     "wof:placetype":"locality",

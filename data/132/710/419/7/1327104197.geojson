@@ -25,8 +25,20 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u0440\u0430\u0432\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kirovo"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0438\u0440\u043e\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "K\u012brov"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0580\u0578\u057e\u0578"
     ],
     "name:kaz_x_preferred":[
         "K\u012brovo"
@@ -34,8 +46,17 @@
     "name:kaz_x_variant":[
         "\u041a\u0438\u0440\u043e\u0432\u043e"
     ],
+    "name:lav_x_preferred":[
+        "Kirovo"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0438\u0440\u043e\u0432\u043e"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Imeni Kirova",
@@ -66,7 +87,7 @@
         }
     ],
     "wof:id":1327104197,
-    "wof:lastmodified":1537659814,
+    "wof:lastmodified":1564150785,
     "wof:name":"Kirovo",
     "wof:parent_id":1108785577,
     "wof:placetype":"locality",

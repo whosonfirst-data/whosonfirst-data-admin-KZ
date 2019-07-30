@@ -31,6 +31,9 @@
     "name:kaz_x_variant":[
         "\u0410\u049b\u049b\u04b1\u043c"
     ],
+    "name:msa_x_preferred":[
+        "Aqqum"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u043a\u0443\u043c"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1309982383,
-    "wof:lastmodified":1537660051,
+    "wof:lastmodified":1564152080,
     "wof:name":"Aqqum",
     "wof:parent_id":1108785643,
     "wof:placetype":"locality",

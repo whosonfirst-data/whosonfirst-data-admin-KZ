@@ -28,10 +28,28 @@
     "name:eng_x_preferred":[
         "Grach\u012b"
     ],
+    "name:fra_x_preferred":[
+        "Grachi"
+    ],
+    "name:ita_x_preferred":[
+        "Grachi"
+    ],
     "name:kaz_x_preferred":[
         "\u0413\u0440\u0430\u0447\u0438"
     ],
+    "name:pol_x_preferred":[
+        "Grachi"
+    ],
+    "name:por_x_preferred":[
+        "Grachi"
+    ],
     "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0447\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Grachi"
+    ],
+    "name:srp_x_preferred":[
         "\u0413\u0440\u0430\u0447\u0438"
     ],
     "name:und_x_variant":[
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1209786059,
-    "wof:lastmodified":1537659824,
+    "wof:lastmodified":1564151567,
     "wof:name":"Grachi",
     "wof:parent_id":1108785713,
     "wof:placetype":"locality",

@@ -25,11 +25,20 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kulan"
+    ],
+    "name:deu_x_preferred":[
+        "Kulan"
+    ],
     "name:kaz_x_preferred":[
         "\u049a\u04b1\u043b\u0430\u043d"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u043b\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kulan"
     ],
     "name:und_x_variant":[
         "Qulan"
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1259472083,
-    "wof:lastmodified":1537659731,
+    "wof:lastmodified":1564152469,
     "wof:name":"Kulan",
     "wof:parent_id":1108785605,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u043d\u0444\u0438\u043b\u043e\u0432\u043e"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043d\u0444\u0456\u043b\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1277060253,
-    "wof:lastmodified":1537660111,
+    "wof:lastmodified":1564151271,
     "wof:name":"Panfilovo",
     "wof:parent_id":1108785589,
     "wof:placetype":"locality",

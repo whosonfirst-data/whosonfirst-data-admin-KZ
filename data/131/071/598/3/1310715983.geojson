@@ -31,6 +31,9 @@
     "name:kaz_x_variant":[
         "\u041f\u04d9\u043d\u0436\u0438\u043c"
     ],
+    "name:msa_x_preferred":[
+        "Panzhim"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u043d\u0434\u0436\u0438\u043c"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1310715983,
-    "wof:lastmodified":1537659525,
+    "wof:lastmodified":1564151872,
     "wof:name":"Pendzhim",
     "wof:parent_id":1108785409,
     "wof:placetype":"locality",

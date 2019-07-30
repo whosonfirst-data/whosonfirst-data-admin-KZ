@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Burli"
+    ],
     "name:eng_x_preferred":[
         "Burli"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1310184473,
-    "wof:lastmodified":1537659857,
+    "wof:lastmodified":1564151926,
     "wof:name":"Burli",
     "wof:parent_id":1108785333,
     "wof:placetype":"locality",

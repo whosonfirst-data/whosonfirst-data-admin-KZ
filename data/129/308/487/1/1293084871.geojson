@@ -25,12 +25,63 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u06cc\u0631\u0627\u0645"
+    ],
+    "name:aze_x_preferred":[
+        "Sayram"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0439\u0440\u0430\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Sairam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u06cc\u062c\u0627\u0628"
+    ],
+    "name:fra_x_preferred":[
+        "Sayram"
+    ],
+    "name:ind_x_preferred":[
+        "Sayram"
+    ],
+    "name:ita_x_preferred":[
+        "Sayram"
+    ],
     "name:kaz_x_preferred":[
+        "\u0421\u0430\u0439\u0440\u0430\u043c"
+    ],
+    "name:lit_x_preferred":[
+        "Sairamas"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0430\u0439\u0440\u0430\u043c"
+    ],
+    "name:nld_x_preferred":[
+        "Sayram"
+    ],
+    "name:pol_x_preferred":[
+        "Sajram"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0439\u0440\u0430\u043c"
+    ],
+    "name:tur_x_preferred":[
+        "Sayram"
+    ],
+    "name:ukr_x_preferred":[
         "\u0421\u0430\u0439\u0440\u0430\u043c"
     ],
     "name:und_x_variant":[
         "Sairam",
         "Sayram"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0631\u0627\u0645"
+    ],
+    "name:uzb_x_preferred":[
+        "Sayrom"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1293084871,
-    "wof:lastmodified":1537659608,
+    "wof:lastmodified":1564151076,
     "wof:name":"Sayram",
     "wof:parent_id":1108785595,
     "wof:placetype":"locality",

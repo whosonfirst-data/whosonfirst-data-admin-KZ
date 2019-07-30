@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bogatyrovka"
+    ],
     "name:eng_x_preferred":[
         "Bogatyrevka"
     ],
@@ -34,12 +37,19 @@
     "name:kaz_x_variant":[
         "\u0411\u043e\u0433\u0430\u0442\u044b\u0440\u043e\u0432\u043a\u0430"
     ],
+    "name:kir_x_preferred":[
+        "\u0411\u043e\u0433\u0430\u0442\u044b\u0440\u043e\u0432\u043a\u0430"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0442\u044b\u0440\u043e\u0432\u043a\u0430"
     ],
     "name:rus_x_variant":[
         "Bogatyr\u00ebvka",
-        "\u0411\u043e\u0433\u0430\u0442\u044b\u0440\u0451\u0432\u043a\u0430"
+        "\u0411\u043e\u0433\u0430\u0442\u044b\u0440\u0451\u0432\u043a\u0430",
+        "\u0411\u043e\u0433\u0430\u0442\u044b\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bogatyrovka"
     ],
     "name:und_x_variant":[
         "Bogatyrevka"
@@ -67,7 +77,7 @@
         }
     ],
     "wof:id":1193000515,
-    "wof:lastmodified":1537659965,
+    "wof:lastmodified":1564151705,
     "wof:name":"Bogatyrovka",
     "wof:parent_id":1108785577,
     "wof:placetype":"locality",

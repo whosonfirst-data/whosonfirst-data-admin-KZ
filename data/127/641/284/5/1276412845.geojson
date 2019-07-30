@@ -34,6 +34,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0435\u043d\u0438\u0437"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u0435\u043d\u0433\u0438\u0437"
+    ],
     "name:und_x_variant":[
         "Teniz"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1276412845,
-    "wof:lastmodified":1537660069,
+    "wof:lastmodified":1564151409,
     "wof:name":"Tengiz",
     "wof:parent_id":1108785577,
     "wof:placetype":"locality",

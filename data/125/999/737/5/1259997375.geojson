@@ -25,14 +25,36 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043b\u044b\u043a\u0448\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Balyqshy"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bb\u03af\u03ba\u03c3\u03b9"
+    ],
     "name:kaz_x_preferred":[
         "Balyqshy"
     ],
     "name:kaz_x_variant":[
-        "\u0411\u0430\u043b\u044b\u049b\u0448\u044b"
+        "\u0411\u0430\u043b\u044b\u049b\u0448\u044b",
+        "\u0411\u0430\u043b\u044b\u049b\u0448\u044b \u043a\u0435\u043d\u0442\u0456"
+    ],
+    "name:msa_x_preferred":[
+        "Balyqshy"
+    ],
+    "name:pol_x_preferred":[
+        "Ba\u0142ykszy"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u044b\u043a\u0448\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Balyksji"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u043a\u0448\u0456"
     ],
     "name:und_x_variant":[
         "Balykshi"
@@ -60,7 +82,7 @@
         }
     ],
     "wof:id":1259997375,
-    "wof:lastmodified":1537660063,
+    "wof:lastmodified":1564152434,
     "wof:name":"Balyqshy",
     "wof:parent_id":1108785413,
     "wof:placetype":"locality",

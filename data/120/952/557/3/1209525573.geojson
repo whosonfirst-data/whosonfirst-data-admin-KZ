@@ -25,6 +25,12 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u0438\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Kalinin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632307
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209525573,
-    "wof:lastmodified":1536284441,
+    "wof:lastmodified":1564151530,
     "wof:name":"Imeni Kalinina",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

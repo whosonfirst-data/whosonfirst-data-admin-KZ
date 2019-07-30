@@ -35,7 +35,8 @@
         "Oktyabr\u2019"
     ],
     "name:rus_x_variant":[
-        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c",
+        "\u0410\u0440\u0430\u0439"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1326513935,
-    "wof:lastmodified":1537660002,
+    "wof:lastmodified":1564150625,
     "wof:name":"Aray",
     "wof:parent_id":1108785361,
     "wof:placetype":"locality",

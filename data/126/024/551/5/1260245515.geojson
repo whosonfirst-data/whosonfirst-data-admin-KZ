@@ -31,8 +31,14 @@
     "name:kaz_x_variant":[
         "\u0416\u0430\u0439\u044b\u043b\u043c\u0430"
     ],
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u0438\u043d"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u043c\u0435\u043d\u0438 \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Kalinin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1260245515,
-    "wof:lastmodified":1537659815,
+    "wof:lastmodified":1564151755,
     "wof:name":"Imeni Kalinina",
     "wof:parent_id":1108785511,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:kaz_x_variant":[
         "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043a\u0430"
     ],
+    "name:lav_x_preferred":[
+        "Borisovka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293087513,
-    "wof:lastmodified":1537660168,
+    "wof:lastmodified":1564151075,
     "wof:name":"Borisovka",
     "wof:parent_id":1108785333,
     "wof:placetype":"locality",

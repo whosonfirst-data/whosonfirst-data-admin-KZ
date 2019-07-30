@@ -28,7 +28,13 @@
     "name:eng_x_preferred":[
         "Ashchisay"
     ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0449\u044b\u0441\u0430\u0439"
+    ],
     "name:rus_x_preferred":[
+        "\u0410\u0449\u0438\u0441\u0430\u0439"
+    ],
+    "name:ukr_x_preferred":[
         "\u0410\u0449\u0438\u0441\u0430\u0439"
     ],
     "name:und_x_variant":[
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1293224723,
-    "wof:lastmodified":1537659447,
+    "wof:lastmodified":1564151142,
     "wof:name":"Ashchisay",
     "wof:parent_id":1108785725,
     "wof:placetype":"locality",

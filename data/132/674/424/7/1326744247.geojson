@@ -28,7 +28,16 @@
     "name:kaz_x_preferred":[
         "\u0410\u0439\u043d\u0430\u0431\u04b1\u043b\u0430\u049b"
     ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0458\u043d\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Aynabulaq"
+    ],
     "name:rus_x_preferred":[
+        "\u0410\u0439\u043d\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
         "\u0410\u0439\u043d\u0430\u0431\u0443\u043b\u0430\u043a"
     ],
     "name:und_x_variant":[
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1326744247,
-    "wof:lastmodified":1537659896,
+    "wof:lastmodified":1564150615,
     "wof:name":"Aynabulak",
     "wof:parent_id":1108785405,
     "wof:placetype":"locality",

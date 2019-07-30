@@ -28,13 +28,25 @@
     "name:eng_x_preferred":[
         "Aktas"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u062a\u0627\u0633"
+    ],
     "name:kaz_x_preferred":[
         "Aqtas"
     ],
     "name:kaz_x_variant":[
         "\u0410\u049b\u0442\u0430\u0441"
     ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043a\u0442\u0430\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Aktas"
+    ],
     "name:rus_x_preferred":[
+        "\u0410\u043a\u0442\u0430\u0441"
+    ],
+    "name:ukr_x_preferred":[
         "\u0410\u043a\u0442\u0430\u0441"
     ],
     "src:geom":"geonames",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1259465125,
-    "wof:lastmodified":1537659962,
+    "wof:lastmodified":1564152461,
     "wof:name":"Aktas",
     "wof:parent_id":1108785563,
     "wof:placetype":"locality",

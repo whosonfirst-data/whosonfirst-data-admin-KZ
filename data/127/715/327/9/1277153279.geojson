@@ -34,6 +34,9 @@
     "name:rus_x_preferred":[
         "\u0414\u0438\u043a\u0430\u043d"
     ],
+    "name:srp_x_preferred":[
+        "\u0414\u0438\u043a\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Dyykan",
         "Dekhkan",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1277153279,
-    "wof:lastmodified":1537659843,
+    "wof:lastmodified":1564151364,
     "wof:name":"Dikan",
     "wof:parent_id":1108785487,
     "wof:placetype":"locality",

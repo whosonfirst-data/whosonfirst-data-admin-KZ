@@ -29,8 +29,14 @@
     "name:eng_x_preferred":[
         "Kzyloba"
     ],
+    "name:msa_x_preferred":[
+        "Kzyloba"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0437\u044b\u043b\u043e\u0431\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u0437\u0430\u0442\u0430 \u0410\u043b\u0456\u043f\u043e\u0432\u0430"
     ],
     "name:und_x_variant":[
         "Kyzyloba",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1293681631,
-    "wof:lastmodified":1537659395,
+    "wof:lastmodified":1564151157,
     "wof:name":"Kzyloba",
     "wof:parent_id":1108785299,
     "wof:placetype":"locality",

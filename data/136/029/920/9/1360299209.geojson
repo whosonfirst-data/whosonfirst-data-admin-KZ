@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ashchysay"
+    ],
     "name:kaz_x_preferred":[
         "Qaraturyq"
     ],
@@ -33,8 +36,20 @@
         "\u0410\u0449\u044b\u0441\u0430\u0439",
         "\u049a\u0430\u0440\u0430\u0442\u04b1\u0440\u044b\u049b"
     ],
+    "name:msa_x_preferred":[
+        "Karaturyk"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0442\u0443\u0440\u0443\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u0442\u0443\u0440\u044b\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Ashchysay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0442\u0443\u0440\u0438\u043a"
     ],
     "name:und_x_variant":[
         "Karaturyk",
@@ -66,7 +81,7 @@
         }
     ],
     "wof:id":1360299209,
-    "wof:lastmodified":1537659782,
+    "wof:lastmodified":1564152052,
     "wof:name":"Ashchysay",
     "wof:parent_id":1108785427,
     "wof:placetype":"locality",

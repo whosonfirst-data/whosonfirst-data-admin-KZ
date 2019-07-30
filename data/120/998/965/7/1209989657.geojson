@@ -25,6 +25,15 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarabulaq"
+    ],
+    "name:ceb_x_preferred":[
+        "Qarabulaq"
+    ],
+    "name:ita_x_preferred":[
+        "Qarabulaq"
+    ],
     "name:kaz_x_preferred":[
         "Qarabulaq"
     ],
@@ -33,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0417\u0438\u043c\u043e\u0432\u043a\u0430 \u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Qarabulaq"
     ],
     "name:und_x_variant":[
         "Zimovka Karabulak"
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1209989657,
-    "wof:lastmodified":1537660183,
+    "wof:lastmodified":1564151485,
     "wof:name":"Qarabulaq",
     "wof:parent_id":1108785727,
     "wof:placetype":"locality",

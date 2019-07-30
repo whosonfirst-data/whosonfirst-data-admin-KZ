@@ -28,6 +28,15 @@
     "name:eng_x_preferred":[
         "Algabas"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06af\u0627\u0628\u0627\u0633"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0433\u0430\u0431\u0430\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Algabas"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0433\u0430\u0431\u0430\u0441"
     ],
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209103877,
-    "wof:lastmodified":1537659450,
+    "wof:lastmodified":1564151680,
     "wof:name":"Algabas",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

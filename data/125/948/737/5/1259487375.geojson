@@ -31,7 +31,13 @@
     "name:kaz_x_variant":[
         "\u049a\u0430\u0440\u0430\u043e\u0439"
     ],
+    "name:msa_x_preferred":[
+        "Karaoy"
+    ],
     "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043e\u0439"
+    ],
+    "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043e\u0439"
     ],
     "name:und_x_variant":[
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1259487375,
-    "wof:lastmodified":1537659780,
+    "wof:lastmodified":1564152441,
     "wof:name":"Karaoy",
     "wof:parent_id":1108785433,
     "wof:placetype":"locality",

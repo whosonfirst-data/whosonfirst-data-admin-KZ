@@ -28,8 +28,14 @@
     "name:eng_x_preferred":[
         "Aqshata\u016b"
     ],
+    "name:ind_x_preferred":[
+        "Akshatau"
+    ],
     "name:kaz_x_preferred":[
         "Aqshata\u016b"
+    ],
+    "name:msa_x_preferred":[
+        "Akshatau"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0448\u0430\u0442\u0430\u0443"
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1226651917,
-    "wof:lastmodified":1537659452,
+    "wof:lastmodified":1564152745,
     "wof:name":"Akshatau",
     "wof:parent_id":1108785401,
     "wof:placetype":"locality",

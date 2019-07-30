@@ -31,6 +31,9 @@
     "name:kaz_x_variant":[
         "\u0410\u043b\u0493\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Algha"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0433\u0430"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1225951849,
-    "wof:lastmodified":1537660121,
+    "wof:lastmodified":1564152567,
     "wof:name":"Algha",
     "wof:parent_id":1108785575,
     "wof:placetype":"locality",

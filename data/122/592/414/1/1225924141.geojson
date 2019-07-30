@@ -31,6 +31,9 @@
     "name:kaz_x_variant":[
         "\u049a\u0430\u0440\u0430\u0493\u0430\u0439\u043b\u044b"
     ],
+    "name:msa_x_preferred":[
+        "Karagayly"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0433\u0430\u0439\u043b\u044b"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1225924141,
-    "wof:lastmodified":1537659625,
+    "wof:lastmodified":1564152558,
     "wof:name":"Karagayly",
     "wof:parent_id":1108785507,
     "wof:placetype":"locality",

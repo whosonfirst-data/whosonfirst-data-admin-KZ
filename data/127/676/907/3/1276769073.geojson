@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Alpyspay"
     ],
+    "name:ind_x_preferred":[
+        "Alpyspay"
+    ],
+    "name:msa_x_preferred":[
+        "Alpyspay"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u043f\u044b\u0441\u043f\u0430\u0439"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1276769073,
-    "wof:lastmodified":1537659449,
+    "wof:lastmodified":1564151384,
     "wof:name":"Alpyspay",
     "wof:parent_id":1108785491,
     "wof:placetype":"locality",

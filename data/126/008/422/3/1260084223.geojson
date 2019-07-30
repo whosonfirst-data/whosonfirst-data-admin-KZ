@@ -25,8 +25,29 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kapal"
+    ],
     "name:kaz_x_preferred":[
         "Qapal"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u043f\u0430\u043b"
+    ],
+    "name:lit_x_preferred":[
+        "Kapalas"
+    ],
+    "name:msa_x_preferred":[
+        "Qapal"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u0430\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Qapal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043f\u0430\u043b"
     ],
     "name:und_x_variant":[
         "Kopal"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1260084223,
-    "wof:lastmodified":1537659795,
+    "wof:lastmodified":1564151781,
     "wof:name":"Kapal",
     "wof:parent_id":1108785407,
     "wof:placetype":"locality",

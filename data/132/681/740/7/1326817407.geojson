@@ -31,6 +31,9 @@
     "name:rus_x_variant":[
         "\u041a\u0430\u0439\u043d\u0430\u0440\u0431\u0443\u043b\u0430\u043a"
     ],
+    "name:tur_x_preferred":[
+        "Saz"
+    ],
     "name:und_x_variant":[
         "Kaynarbulak"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1326817407,
-    "wof:lastmodified":1537660166,
+    "wof:lastmodified":1564150607,
     "wof:name":"Saz",
     "wof:parent_id":1108785507,
     "wof:placetype":"locality",

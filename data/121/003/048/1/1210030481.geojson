@@ -31,6 +31,9 @@
     "name:kaz_x_variant":[
         "\u041a\u04e9\u043a\u0442\u0443\u043c\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Koktuma"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043a\u0442\u0443\u043c\u0430"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1210030481,
-    "wof:lastmodified":1537659759,
+    "wof:lastmodified":1564151695,
     "wof:name":"Koktuma",
     "wof:parent_id":1108785413,
     "wof:placetype":"locality",

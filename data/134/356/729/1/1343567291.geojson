@@ -25,6 +25,15 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0410\u0449\u044b\u0441\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0449\u0438\u0441\u0430\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0449\u0438\u0441\u0430\u0439"
+    ],
     "name:und_x_variant":[
         "Ashche-Say",
         "Ashchisay"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343567291,
-    "wof:lastmodified":1537659446,
+    "wof:lastmodified":1564150932,
     "wof:name":"Ashchisay",
     "wof:parent_id":1108785323,
     "wof:placetype":"locality",

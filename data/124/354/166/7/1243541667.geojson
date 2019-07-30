@@ -25,14 +25,29 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Atasu"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03ac\u03c3\u03bf\u03c5"
+    ],
     "name:kaz_x_preferred":[
         "Atas\u016b"
     ],
     "name:kaz_x_variant":[
         "\u0410\u0442\u0430\u0441\u0443"
     ],
+    "name:pol_x_preferred":[
+        "Atasu"
+    ],
+    "name:swe_x_preferred":[
+        "Atasu"
+    ],
     "name:und_x_variant":[
         "Stantsiya Atasu",
+        "Atasu"
+    ],
+    "name:vie_x_preferred":[
         "Atasu"
     ],
     "src:geom":"geonames",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1243541667,
-    "wof:lastmodified":1537659899,
+    "wof:lastmodified":1564152191,
     "wof:name":"Atasu",
     "wof:parent_id":1108785597,
     "wof:placetype":"locality",

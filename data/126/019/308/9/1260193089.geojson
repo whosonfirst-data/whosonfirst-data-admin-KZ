@@ -25,6 +25,33 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0643"
+    ],
+    "name:deu_x_preferred":[
+        "Brik-Teig"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Brik"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d9\u05e7"
+    ],
+    "name:pol_x_preferred":[
+        "Brik"
+    ],
+    "name:por_x_preferred":[
+        "Brik"
+    ],
+    "name:spa_x_preferred":[
+        "Brik"
+    ],
+    "name:swe_x_preferred":[
+        "Brik"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1260193089,
-    "wof:lastmodified":1536833668,
+    "wof:lastmodified":1564151814,
     "wof:name":"Brik",
     "wof:parent_id":1108785703,
     "wof:placetype":"locality",

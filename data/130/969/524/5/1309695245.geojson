@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Urunkhayka"
+    ],
     "name:eng_x_preferred":[
         "Urunkhayka"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0423\u0440\u0443\u043d\u0445\u0430\u0439\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Urunkhayka"
     ],
     "name:und_x_variant":[
         "Urunkhaika",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1309695245,
-    "wof:lastmodified":1537659535,
+    "wof:lastmodified":1564152129,
     "wof:name":"Urunkhayka",
     "wof:parent_id":1108785471,
     "wof:placetype":"locality",

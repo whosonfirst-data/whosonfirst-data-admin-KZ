@@ -25,11 +25,29 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043d\u0442\u0435\u043c\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u043d\u0442\u0435\u043c\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Kantemirowka"
+    ],
+    "name:hsb_x_preferred":[
+        "Kantemirowka"
+    ],
+    "name:ita_x_preferred":[
+        "Kantemirovka"
+    ],
     "name:kaz_x_preferred":[
         "\u049a\u043e\u0448\u049b\u0430\u0440\u0430\u0442\u0430"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0442\u0435\u043c\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0442\u0435\u043c\u0438\u0440\u0456\u0432\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Koshkarata",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1260051479,
-    "wof:lastmodified":1537659796,
+    "wof:lastmodified":1564151825,
     "wof:name":"Kantemirovka",
     "wof:parent_id":1108785737,
     "wof:placetype":"locality",

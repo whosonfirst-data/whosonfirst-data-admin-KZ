@@ -25,8 +25,14 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c3\u03c4\u03b1\u03bc\u03ac\u03ba"
+    ],
     "name:kaz_x_preferred":[
         "Bestamaq"
+    ],
+    "name:msa_x_preferred":[
+        "Bestamak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226753713,
-    "wof:lastmodified":1537659438,
+    "wof:lastmodified":1564152573,
     "wof:name":"Bestamak",
     "wof:parent_id":1108785401,
     "wof:placetype":"locality",

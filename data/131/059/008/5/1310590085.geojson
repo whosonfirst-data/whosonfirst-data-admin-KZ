@@ -25,8 +25,14 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Akbay"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0431\u0430\u0439"
+    ],
+    "name:tur_x_preferred":[
+        "Akbay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310590085,
-    "wof:lastmodified":1537660109,
+    "wof:lastmodified":1564151974,
     "wof:name":"Akbay",
     "wof:parent_id":1108785595,
     "wof:placetype":"locality",

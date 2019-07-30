@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Intymak"
+    ],
     "name:und_x_variant":[
         "Yntymak",
         "Intymak"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1309706439,
-    "wof:lastmodified":1537659807,
+    "wof:lastmodified":1564152096,
     "wof:name":"Intymak",
     "wof:parent_id":1108785599,
     "wof:placetype":"locality",

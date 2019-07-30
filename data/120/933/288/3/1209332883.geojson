@@ -25,6 +25,15 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nuke"
+    ],
+    "name:fra_x_preferred":[
+        "Nuke"
+    ],
+    "name:nld_x_preferred":[
+        "Nuke"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632307
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209332883,
-    "wof:lastmodified":1536290317,
+    "wof:lastmodified":1564151633,
     "wof:name":"Nuke",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

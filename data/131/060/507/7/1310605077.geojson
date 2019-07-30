@@ -25,8 +25,14 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chapayevo"
+    ],
     "name:kaz_x_preferred":[
         "\u0427\u0430\u043f\u0430\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Chapayevo"
     ],
     "name:und_x_variant":[
         "Imeni Chapayeva",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1310605077,
-    "wof:lastmodified":1537659819,
+    "wof:lastmodified":1564152009,
     "wof:name":"Chapayevo",
     "wof:parent_id":1108785433,
     "wof:placetype":"locality",

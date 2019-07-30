@@ -29,8 +29,20 @@
     "name:eng_x_preferred":[
         "Kalmyk"
     ],
+    "name:fra_x_preferred":[
+        "Kalmouk"
+    ],
+    "name:ita_x_preferred":[
+        "Calmucco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30e0\u30a4\u30af"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u043c\u044b\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u043b\u043c\u044b\u043a\u0438\u044f"
     ],
     "name:und_x_variant":[
         "Kalmyki",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1293610513,
-    "wof:lastmodified":1537659421,
+    "wof:lastmodified":1564151144,
     "wof:name":"Kalmyk",
     "wof:parent_id":1108785329,
     "wof:placetype":"locality",

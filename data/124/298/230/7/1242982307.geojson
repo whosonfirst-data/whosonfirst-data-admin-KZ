@@ -25,6 +25,12 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zhambyl"
+    ],
+    "name:swe_x_preferred":[
+        "Zhambyl"
+    ],
     "name:und_x_variant":[
         "Sotsialisticheskiy Kurlys",
         "Dzhambul",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1242982307,
-    "wof:lastmodified":1537659579,
+    "wof:lastmodified":1564152360,
     "wof:name":"Zhambyl",
     "wof:parent_id":1108785391,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Karagayly"
     ],
+    "name:msa_x_preferred":[
+        "Karagayly"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u0430\u0433\u0430\u0439\u043b\u044b"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1193151833,
-    "wof:lastmodified":1537660005,
+    "wof:lastmodified":1564151713,
     "wof:name":"Karagayly",
     "wof:parent_id":1108785513,
     "wof:placetype":"locality",

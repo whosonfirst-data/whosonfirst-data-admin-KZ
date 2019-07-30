@@ -25,11 +25,17 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pervoye Maya"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u0435 \u041c\u0430\u044f"
     ],
     "name:rus_x_variant":[
         "\u041a\u0430\u0440\u0430\u0442\u043e\u0431\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Pervoye Maya"
     ],
     "name:und_x_variant":[
         "Karatobe"
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1193036159,
-    "wof:lastmodified":1537660111,
+    "wof:lastmodified":1564151732,
     "wof:name":"Pervoye Maya",
     "wof:parent_id":1108785589,
     "wof:placetype":"locality",

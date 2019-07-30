@@ -28,6 +28,9 @@
     "name:kaz_x_preferred":[
         "\u04b0\u0437\u044b\u043d\u0431\u04b1\u043b\u0430\u049b"
     ],
+    "name:msa_x_preferred":[
+        "Uzynbulaq"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0437\u0443\u043d\u0431\u0443\u043b\u0430\u043a"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1327122363,
-    "wof:lastmodified":1537659528,
+    "wof:lastmodified":1564150667,
     "wof:name":"Uzynbulaq",
     "wof:parent_id":1108785655,
     "wof:placetype":"locality",

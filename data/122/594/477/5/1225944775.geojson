@@ -25,11 +25,17 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c3\u03c4\u03b1\u03bc\u03ac\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Bestamaq"
     ],
     "name:kaz_x_preferred":[
         "Bestamaq"
+    ],
+    "name:msa_x_preferred":[
+        "Bestamak"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0441\u0442\u0430\u043c\u0430\u043a"
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1225944775,
-    "wof:lastmodified":1537659438,
+    "wof:lastmodified":1564152553,
     "wof:name":"Bestamak",
     "wof:parent_id":1108785521,
     "wof:placetype":"locality",

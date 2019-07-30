@@ -25,6 +25,15 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qala"
+    ],
+    "name:ceb_x_preferred":[
+        "Qala"
+    ],
+    "name:swe_x_preferred":[
+        "Qala"
+    ],
     "name:und_x_variant":[
         "Kala",
         "Imeni Kaganovicha",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1327144389,
-    "wof:lastmodified":1537659801,
+    "wof:lastmodified":1564150656,
     "wof:name":"Qala",
     "wof:parent_id":1108785517,
     "wof:placetype":"locality",

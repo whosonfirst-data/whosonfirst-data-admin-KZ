@@ -25,14 +25,23 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0643\u0648\u0645"
+    ],
     "name:kaz_x_preferred":[
         "\u0410\u049b\u049b\u04b1\u043c"
+    ],
+    "name:pol_x_preferred":[
+        "Akkum"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u043a\u0443\u043c"
     ],
     "name:und_x_variant":[
         "Aqqum"
+    ],
+    "name:vie_x_preferred":[
+        "Akkum"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1209398503,
-    "wof:lastmodified":1537659924,
+    "wof:lastmodified":1564151505,
     "wof:name":"Akkum",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:kaz_x_preferred":[
         "Belogorka"
     ],
+    "name:kaz_x_variant":[
+        "\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Belogorka"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u043a\u0430"
     ],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1327225489,
-    "wof:lastmodified":1537659440,
+    "wof:lastmodified":1564150652,
     "wof:name":"Belogorka",
     "wof:parent_id":1108785711,
     "wof:placetype":"locality",

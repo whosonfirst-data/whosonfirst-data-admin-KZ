@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u043e\u0437\u0451\u0440\u043a\u0430"
+    ],
     "name:eng_x_preferred":[
         "Semiozerka"
     ],
@@ -38,7 +41,11 @@
         "\u0421\u0435\u043c\u0438\u043e\u0437\u0435\u0440\u043a\u0430"
     ],
     "name:rus_x_variant":[
-        "Semioz\u00ebrka"
+        "Semioz\u00ebrka",
+        "\u0421\u0435\u043c\u0438\u043e\u0437\u0451\u0440\u043a\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u043e\u0437\u0435\u0440\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Semiozerka"
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":1209788299,
-    "wof:lastmodified":1537659606,
+    "wof:lastmodified":1564151567,
     "wof:name":"Semiozyorka",
     "wof:parent_id":1108785565,
     "wof:placetype":"locality",

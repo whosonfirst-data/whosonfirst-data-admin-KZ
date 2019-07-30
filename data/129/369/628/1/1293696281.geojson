@@ -25,11 +25,17 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bd\u03b3\u03ba\u03ad\u03bb\u03bd\u03c4\u03b9"
+    ],
     "name:kaz_x_preferred":[
         "Shenggeldi"
     ],
     "name:kaz_x_variant":[
         "\u0428\u0435\u04a3\u0433\u0435\u043b\u0434\u0456"
+    ],
+    "name:msa_x_preferred":[
+        "Shengel'dy"
     ],
     "name:rus_x_preferred":[
         "Shengel\u2019dy"
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1293696281,
-    "wof:lastmodified":1537659596,
+    "wof:lastmodified":1564151164,
     "wof:name":"Shenggeldi",
     "wof:parent_id":1108785431,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Apteka"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043f\u0442\u0435\u043a\u0430"
+    ],
+    "name:szl_x_preferred":[
+        "Apteka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1225832021,
-    "wof:lastmodified":1537659906,
+    "wof:lastmodified":1564152769,
     "wof:name":"Apteka",
     "wof:parent_id":1108785509,
     "wof:placetype":"locality",

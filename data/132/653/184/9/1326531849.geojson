@@ -25,11 +25,83 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u062a\u0634\u0648\u062a\u0634\u064a\u0646\u0633\u0643"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u0447\u0443\u0447\u044b\u043d\u0441\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0447\u0443\u0447\u0438\u043d\u0441\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Shch\u016bch\u012bnsk"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0634\u0686\u0648\u0686\u06cc\u0646\u0633\u06a9"
+    ],
+    "name:deu_x_preferred":[
+        "Schtschutschinsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03c3\u03bf\u03c5\u03c4\u03c3\u03af\u03bd\u03c3\u03ba"
+    ],
+    "name:eus_x_preferred":[
+        "Stxutxinsk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0686\u0648\u0686\u06cc\u0646\u0633\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "\u0160t\u0161ut\u0161insk"
+    ],
+    "name:fra_x_preferred":[
+        "Chtchoutchinsk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05e9\u05d9\u05e0\u05e1\u05e7"
+    ],
+    "name:hsb_x_preferred":[
+        "\u0160\u0107u\u010dinsk"
+    ],
+    "name:ita_x_preferred":[
+        "Shchuchinsk"
+    ],
     "name:kaz_x_preferred":[
         "Shch\u016bch\u012bnsk"
     ],
     "name:kaz_x_variant":[
         "\u0429\u0443\u0447\u0438\u043d\u0441\u043a"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160\u010du\u010dinskas"
+    ],
+    "name:pol_x_preferred":[
+        "Szczuczy\u0144sk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0429\u0443\u0447\u0438\u043d\u0441\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Shchuchinsk"
+    ],
+    "name:swe_x_preferred":[
+        "Sjtjutjinsk"
+    ],
+    "name:tat_x_preferred":[
+        "\u0429\u0443\u0447\u0438\u043d\u0441\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0429\u0443\u0447\u0438\u043d\u0441\u044c\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0686\u0648\u0626\u06cc\u0646\u0633\u06a9"
+    ],
+    "name:uzb_x_preferred":[
+        "Shuchinsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f11\u6b3d\u65af\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +126,7 @@
         }
     ],
     "wof:id":1326531849,
-    "wof:lastmodified":1537660096,
+    "wof:lastmodified":1564150761,
     "wof:name":"Shchuchinsk",
     "wof:parent_id":1108785629,
     "wof:placetype":"locality",

@@ -25,7 +25,13 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Almaly"
+    ],
     "name:kaz_x_preferred":[
+        "Almaly"
+    ],
+    "name:swe_x_preferred":[
         "Almaly"
     ],
     "name:und_x_variant":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1209733323,
-    "wof:lastmodified":1537659637,
+    "wof:lastmodified":1564151650,
     "wof:name":"Almaly",
     "wof:parent_id":1108785417,
     "wof:placetype":"locality",

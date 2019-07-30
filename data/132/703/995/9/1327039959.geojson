@@ -32,6 +32,9 @@
     "name:rus_x_preferred":[
         "\u0426\u044b\u0433\u0430\u043d\u043e\u0432\u043e"
     ],
+    "name:slv_x_preferred":[
+        "Ciganov"
+    ],
     "name:und_x_variant":[
         "Tsygonov",
         "Tsyganov"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1327039959,
-    "wof:lastmodified":1537659354,
+    "wof:lastmodified":1564150699,
     "wof:name":"Tsyganov",
     "wof:parent_id":1108785331,
     "wof:placetype":"locality",

@@ -25,11 +25,23 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarabulaq"
+    ],
+    "name:ceb_x_preferred":[
+        "Qarabulaq"
+    ],
     "name:eng_x_preferred":[
+        "Qarabulaq"
+    ],
+    "name:ita_x_preferred":[
         "Qarabulaq"
     ],
     "name:rus_x_preferred":[
         "\u0412\u044b\u0441\u043e\u043a\u043e\u0433\u043e\u0440\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Qarabulaq"
     ],
     "name:und_x_variant":[
         "Vysokogorskiy",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1343671901,
-    "wof:lastmodified":1537659626,
+    "wof:lastmodified":1564150936,
     "wof:name":"Qarabulaq",
     "wof:parent_id":1108785471,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alakol"
+    ],
     "name:eng_x_preferred":[
         "Alak\u00f6l"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:rus_x_variant":[
         "Alakol\u2019"
+    ],
+    "name:swe_x_preferred":[
+        "Alakol"
     ],
     "name:und_x_variant":[
         "XIX Partsezd Atyndaghy",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1259361195,
-    "wof:lastmodified":1537659916,
+    "wof:lastmodified":1564152408,
     "wof:name":"Alakol",
     "wof:parent_id":1108785349,
     "wof:placetype":"locality",

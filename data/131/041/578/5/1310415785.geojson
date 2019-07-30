@@ -26,6 +26,33 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u043b\u0456\u043a"
+    ],
+    "name:ces_x_preferred":[
+        "Kulik"
+    ],
+    "name:deu_x_preferred":[
+        "Kulik"
+    ],
+    "name:fra_x_preferred":[
+        "Kulik"
+    ],
+    "name:ita_x_preferred":[
+        "Kulik"
+    ],
+    "name:pol_x_preferred":[
+        "Kulik"
+    ],
+    "name:ron_x_preferred":[
+        "Kulik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0438\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Kulik"
+    ],
     "name:und_x_variant":[
         "Kentubek",
         "Kentyubek",
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1310415785,
-    "wof:lastmodified":1537659771,
+    "wof:lastmodified":1564151859,
     "wof:name":"Kulik",
     "wof:parent_id":1108785657,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aktuma"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u062a\u0627\u0645\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u049b\u0442\u04b1\u043c\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043a\u0442\u0443\u043c\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Aktuma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0442\u0443\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Aktuma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043a\u0442\u0443\u043c\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1327249523,
-    "wof:lastmodified":1536945260,
+    "wof:lastmodified":1564150669,
     "wof:name":"Aktuma",
     "wof:parent_id":1108785635,
     "wof:placetype":"locality",

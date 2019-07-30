@@ -25,6 +25,12 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u049a\u0443\u0440\u0430\u0439\u043b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0430\u0439\u043b\u0438"
+    ],
     "name:und_x_variant":[
         "Kurali",
         "Kurayli"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343245585,
-    "wof:lastmodified":1537659728,
+    "wof:lastmodified":1564150887,
     "wof:name":"Kurayli",
     "wof:parent_id":1108785671,
     "wof:placetype":"locality",

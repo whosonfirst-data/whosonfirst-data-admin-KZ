@@ -25,15 +25,195 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0643\u062a\u0648\u0628\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Aqt\u00f6be"
+    ],
+    "name:bak_x_preferred":[
+        "\u0410\u04a1\u0442\u04af\u0431\u04d9"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0442\u0430\u0431\u044d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043a\u0442\u043e\u0431\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Aktob\u00e9"
+    ],
+    "name:ceb_x_preferred":[
+        "Aqt\u00f6be"
+    ],
+    "name:ces_x_preferred":[
+        "Aktobe"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043a\u0442\u043e\u0431\u0435"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u0627\u0642\u062a\u0648\u06ce\u0628\u06ce"
+    ],
+    "name:deu_x_preferred":[
+        "Aqt\u00f6be"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03ba\u03c4\u03bf\u03bc\u03c0\u03ad"
+    ],
+    "name:epo_x_preferred":[
+        "Aktobe"
+    ],
+    "name:est_x_preferred":[
+        "Akt\u00f6be"
+    ],
+    "name:eus_x_preferred":[
+        "Aktobe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0642\u200c\u062a\u067e\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Aqt\u00f6be"
+    ],
+    "name:fra_x_preferred":[
+        "Aktioub\u00e9"
+    ],
+    "name:gle_x_preferred":[
+        "Aktobe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e7\u05d8\u05d5\u05d1\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Aktobe"
+    ],
+    "name:hun_x_preferred":[
+        "Akt\u00f6be"
+    ],
+    "name:ina_x_preferred":[
+        "Aktobe"
+    ],
+    "name:ind_x_preferred":[
+        "Aktobe"
+    ],
+    "name:ita_x_preferred":[
+        "Aqt\u00f6be"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30af\u30c8\u30d9"
+    ],
+    "name:kaa_x_preferred":[
+        "Aqto'be"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e5\u10e2\u10dd\u10d1\u10d4"
+    ],
     "name:kaz_x_preferred":[
         "\u0410\u049b\u0442\u04e9\u0431\u0435"
     ],
+    "name:kir_x_preferred":[
+        "\u0410\u043a\u0442\u04e9\u0431\u04e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc545\ud1f4\ubca0"
+    ],
+    "name:lat_x_preferred":[
+        "Aktobe"
+    ],
+    "name:lav_x_preferred":[
+        "Aktebe"
+    ],
+    "name:lit_x_preferred":[
+        "Aktob\u0117"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u043a\u0442\u04e9\u0431\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Aktobe"
+    ],
+    "name:nld_x_preferred":[
+        "Aqt\u00f6be"
+    ],
+    "name:nno_x_preferred":[
+        "Aktobe"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u043a\u0442\u043e\u0431\u0435"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a05\u0a15\u0a24\u0a4b\u0a2c\u0a47"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0642\u062a\u0648\u0628\u06d2"
+    ],
+    "name:pol_x_preferred":[
+        "Aktobe"
+    ],
+    "name:por_x_preferred":[
+        "Aqt\u00f6be"
+    ],
+    "name:ron_x_preferred":[
+        "Aktobe"
+    ],
     "name:rus_x_preferred":[
+        "\u0410\u043a\u0442\u043e\u0431\u0435"
+    ],
+    "name:sah_x_preferred":[
+        "\u0410\u043a\u0442\u04e9\u0431\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Aktobe"
+    ],
+    "name:spa_x_preferred":[
+        "Aktob\u00e9"
+    ],
+    "name:sqi_x_preferred":[
+        "Aktobe"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043a\u0442\u043e\u0431\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Aqt\u00f6be"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043a\u0442\u04af\u0431\u04d9"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e01\u0e40\u0e15\u0e2d\u0e40\u0e1a"
+    ],
+    "name:tuk_x_preferred":[
+        "Aqt\u00f6be"
+    ],
+    "name:tur_x_preferred":[
+        "Akt\u00f6be"
+    ],
+    "name:ukr_x_preferred":[
         "\u0410\u043a\u0442\u043e\u0431\u0435"
     ],
     "name:und_x_variant":[
         "Ak-Tyube",
         "Aqt\u00f6be"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0642\u062a\u0648\u0628\u06d2"
+    ],
+    "name:uzb_x_preferred":[
+        "Aqto\u02bbbe"
+    ],
+    "name:vep_x_preferred":[
+        "Aktobe"
+    ],
+    "name:vie_x_preferred":[
+        "Aktobe"
+    ],
+    "name:war_x_preferred":[
+        "Aktobe"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u514b\u6258\u6bd4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +238,7 @@
         }
     ],
     "wof:id":1226429587,
-    "wof:lastmodified":1537659919,
+    "wof:lastmodified":1564152603,
     "wof:name":"Aktobe",
     "wof:parent_id":1108785651,
     "wof:placetype":"locality",

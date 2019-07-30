@@ -25,7 +25,16 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u0440\u0430\u043e\u0439"
+    ],
+    "name:msa_x_preferred":[
+        "Karaoy"
+    ],
     "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043e\u0439"
+    ],
+    "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043e\u0439"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1276562125,
-    "wof:lastmodified":1537660190,
+    "wof:lastmodified":1564151339,
     "wof:name":"Karaoy",
     "wof:parent_id":1108785433,
     "wof:placetype":"locality",

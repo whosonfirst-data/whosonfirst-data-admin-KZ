@@ -25,6 +25,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03ba\u03c4\u03c3\u03af"
+    ],
     "name:eng_x_preferred":[
         "Akchi"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343776745,
-    "wof:lastmodified":1537659454,
+    "wof:lastmodified":1564150881,
     "wof:name":"Akchi",
     "wof:parent_id":1108785711,
     "wof:placetype":"locality",

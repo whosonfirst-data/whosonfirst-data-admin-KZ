@@ -31,7 +31,13 @@
     "name:kaz_x_preferred":[
         "B\u00f6getsay"
     ],
+    "name:kaz_x_variant":[
+        "\u0411\u04e9\u0433\u0435\u0442\u0441\u0430\u0439"
+    ],
     "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0435\u0442\u0441\u0430\u0439"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u043e\u0433\u0435\u0442\u0441\u0430\u0439"
     ],
     "name:und_x_variant":[
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1343762401,
-    "wof:lastmodified":1537659436,
+    "wof:lastmodified":1564150900,
     "wof:name":"Bogetsay",
     "wof:parent_id":1108785523,
     "wof:placetype":"locality",

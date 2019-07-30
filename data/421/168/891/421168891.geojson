@@ -17,6 +17,9 @@
     "name:aze_x_preferred":[
         "Komsomoles"
     ],
+    "name:ceb_x_preferred":[
+        "Komsomolets"
+    ],
     "name:eng_x_preferred":[
         "Komsomolets"
     ],
@@ -51,6 +54,9 @@
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u0435\u0446"
     ],
     "name:spa_x_preferred":[
+        "Komsomolets"
+    ],
+    "name:swe_x_preferred":[
         "Komsomolets"
     ],
     "name:ukr_x_preferred":[
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":421168891,
-    "wof:lastmodified":1527716098,
+    "wof:lastmodified":1564152158,
     "wof:name":"Komsomolets",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slv_x_preferred":[
+        "Gri\u0161in"
+    ],
     "name:und_x_variant":[
         "Khutor Grishin",
         "Grishin"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1309924141,
-    "wof:lastmodified":1537659424,
+    "wof:lastmodified":1564152115,
     "wof:name":"Grishin",
     "wof:parent_id":1108785327,
     "wof:placetype":"locality",
