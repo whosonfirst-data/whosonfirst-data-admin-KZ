@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QO"
+    ],
     "lbl:latitude":45.253166,
     "lbl:longitude":63.647847,
     "meso:name_alt2":"Kyzylordinskaya",
@@ -371,9 +374,6 @@
         }
     ],
     "wof:id":85672885,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus",
         "kaz"
@@ -382,7 +382,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1563248858,
+    "wof:lastmodified":1565726083,
     "wof:name":"Qyzylorda",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

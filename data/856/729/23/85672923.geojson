@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MG"
+    ],
     "lbl:latitude":44.160623,
     "lbl:longitude":54.174005,
     "meso:name_alt2":"Mangistauskaya",
@@ -368,9 +371,6 @@
         }
     ],
     "wof:id":85672923,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus",
         "kaz"
@@ -379,7 +379,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1563248871,
+    "wof:lastmodified":1565726087,
     "wof:name":"Mangghystau",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

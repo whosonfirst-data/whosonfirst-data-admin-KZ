@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NK"
+    ],
     "lbl:latitude":54.449804,
     "lbl:longitude":69.222628,
     "meso:name_alt2":"Severo-kazachstanskaya",
@@ -387,9 +390,6 @@
         }
     ],
     "wof:id":85672907,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus",
         "kaz"
@@ -398,7 +398,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1563248866,
+    "wof:lastmodified":1565726086,
     "wof:name":"North Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

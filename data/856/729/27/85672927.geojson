@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SK"
+    ],
     "lbl:latitude":42.470247,
     "lbl:longitude":68.697132,
     "meso:name_alt2":"Yujno-kazachstanskaya",
@@ -424,9 +427,6 @@
         }
     ],
     "wof:id":85672927,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus",
         "kaz"
@@ -435,7 +435,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1563248860,
+    "wof:lastmodified":1565726084,
     "wof:name":"South Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

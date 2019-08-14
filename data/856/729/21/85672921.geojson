@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AA"
+    ],
     "lbl:latitude":44.879712,
     "lbl:longitude":78.231895,
     "meso:name_alt2":"Almaty City area",
@@ -378,9 +381,6 @@
         }
     ],
     "wof:id":85672921,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus",
         "kaz"
@@ -389,7 +389,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1563248864,
+    "wof:lastmodified":1565726085,
     "wof:name":"Almaty",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

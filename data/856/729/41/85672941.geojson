@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city with regional status"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AS"
+    ],
     "lbl:latitude":51.139011,
     "lbl:longitude":71.411896,
     "meso:name_alt2":"Astana City area",
@@ -163,9 +166,6 @@
         }
     ],
     "wof:id":85672941,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus",
         "kaz"
@@ -174,7 +174,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1553559963,
+    "wof:lastmodified":1565726087,
     "wof:name":"Astana",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

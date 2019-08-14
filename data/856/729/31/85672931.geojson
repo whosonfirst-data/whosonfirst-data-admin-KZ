@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZM"
+    ],
     "lbl:latitude":44.377467,
     "lbl:longitude":72.211207,
     "meso:name_alt2":"Jambylslkaya",
@@ -341,9 +344,6 @@
         }
     ],
     "wof:id":85672931,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus",
         "kaz"
@@ -352,7 +352,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1563248868,
+    "wof:lastmodified":1565726086,
     "wof:name":"Zhambyl",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

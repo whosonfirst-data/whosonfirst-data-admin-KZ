@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PA"
+    ],
     "lbl:latitude":52.224212,
     "lbl:longitude":76.005291,
     "meso:name_alt2":"Pavlodarskaya",
@@ -371,9 +374,6 @@
         }
     ],
     "wof:id":85672911,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus",
         "kaz"
@@ -382,7 +382,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1563248862,
+    "wof:lastmodified":1565726085,
     "wof:name":"Pavlodar",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

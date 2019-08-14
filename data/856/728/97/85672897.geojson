@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AM"
+    ],
     "lbl:latitude":51.861143,
     "lbl:longitude":69.908713,
     "meso:name_alt2":"Akmolinskaya",
@@ -380,9 +383,6 @@
         }
     ],
     "wof:id":85672897,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus",
         "kaz"
@@ -391,7 +391,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1563248852,
+    "wof:lastmodified":1565726081,
     "wof:name":"Aqmola",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "lbl:latitude":47.602282,
     "lbl:longitude":53.749917,
     "meso:name_alt2":"Atyrauskaya",
@@ -377,9 +380,6 @@
         }
     ],
     "wof:id":85672889,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus",
         "kaz"
@@ -388,7 +388,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1563248850,
+    "wof:lastmodified":1565726081,
     "wof:name":"Atyrau",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

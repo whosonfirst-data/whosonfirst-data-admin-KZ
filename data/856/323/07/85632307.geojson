@@ -15,6 +15,9 @@
     "itu:country_code":[
         "7"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KZ"
+    ],
     "lbl:latitude":48.401963,
     "lbl:longitude":69.258345,
     "mps:latitude":48.401963,
@@ -1192,9 +1195,6 @@
         }
     ],
     "wof:id":85632307,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus",
         "kaz"
@@ -1203,7 +1203,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1563248841,
+    "wof:lastmodified":1565726075,
     "wof:name":"Kazakhstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

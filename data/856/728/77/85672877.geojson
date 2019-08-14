@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AT"
+    ],
     "lbl:latitude":48.298652,
     "lbl:longitude":58.073005,
     "meso:name_alt2":"Aktyubinskaya",
@@ -376,9 +379,6 @@
         }
     ],
     "wof:id":85672877,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus",
         "kaz"
@@ -387,7 +387,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1563248856,
+    "wof:lastmodified":1565726083,
     "wof:name":"Aqt\u00f6be",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

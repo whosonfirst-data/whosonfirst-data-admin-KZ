@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EK"
+    ],
     "lbl:latitude":48.672122,
     "lbl:longitude":81.455084,
     "meso:name_alt2":"Vostochno-kazachstanskaya",
@@ -397,9 +400,6 @@
         }
     ],
     "wof:id":85672915,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus",
         "kaz"
@@ -408,7 +408,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1563248872,
+    "wof:lastmodified":1565726087,
     "wof:name":"East Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Baykonur"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BY"
+    ],
     "lbl:latitude":45.978331,
     "lbl:longitude":63.383897,
     "mps:latitude":45.978331,
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":85681265,
-    "wof:lastmodified":1554939572,
+    "wof:lastmodified":1565726080,
     "wof:name":"Baykonur lease in Qyzylorda",
     "wof:parent_id":85632685,
     "wof:placetype":"region",

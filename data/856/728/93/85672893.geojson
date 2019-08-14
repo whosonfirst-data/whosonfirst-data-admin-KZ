@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WK"
+    ],
     "lbl:latitude":49.799045,
     "lbl:longitude":50.275542,
     "meso:name_alt2":"Zapadno-kazachstanskaya",
@@ -389,9 +392,6 @@
         }
     ],
     "wof:id":85672893,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "rus",
         "kaz"
@@ -400,7 +400,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1563248848,
+    "wof:lastmodified":1565726080,
     "wof:name":"West Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",
