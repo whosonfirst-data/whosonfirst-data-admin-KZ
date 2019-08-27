@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"82.40069,49.95812,82.44069,49.99812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kazach'ye"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293766553,
-    "wof:lastmodified":1537659464,
+    "wof:lastmodified":1566591369,
     "wof:name":"Kazach'ye",
     "wof:parent_id":1108785473,
     "wof:placetype":"locality",

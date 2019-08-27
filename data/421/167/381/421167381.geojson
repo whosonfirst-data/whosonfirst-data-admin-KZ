@@ -10,8 +10,12 @@
     "geom:latitude":51.69946,
     "geom:longitude":70.99457,
     "iso:country":"KZ",
+    "lbl:bbox":"70.97457,51.67946,71.01457,51.71946",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0428\u0430\u0440\u0442\u0430\u043d\u0434\u0437\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
@@ -58,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u043e\u0440\u0442\u0430\u043d\u0434\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shartandy"
     ],
     "name:uzb_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1519050,
         "gp:id":2264883,
-        "qs:id":133204,
+        "qs_pg:id":133204,
         "wd:id":"Q2556281"
     },
     "wof:country":"KZ",
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421167381,
-    "wof:lastmodified":1563250053,
+    "wof:lastmodified":1566591984,
     "wof:name":"Shortandy",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"84.5655,49.16075,84.6055,49.20075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zhuldyz"
     ],
@@ -35,8 +39,7 @@
         "\u0416\u0443\u043b\u0434\u044b\u0437"
     ],
     "name:und_x_variant":[
-        "Zhulduz",
-        "Zhuldyz"
+        "Zhulduz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1310571569,
-    "wof:lastmodified":1537659473,
+    "wof:lastmodified":1566591875,
     "wof:name":"Zhuldyz",
     "wof:parent_id":1108785313,
     "wof:placetype":"locality",

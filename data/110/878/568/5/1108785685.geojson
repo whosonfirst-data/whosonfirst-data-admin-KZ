@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":54.4,
     "lbl:longitude":69.680192,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:delete_fla":"2",
     "meso:dissme":"\u0410\u043a\u043a\u0430\u0439\u044b\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
@@ -36,6 +38,7 @@
     "mps:longitude":69.680192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0410\u043a\u043a\u0430\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -78,14 +81,11 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u043a\u0430\u0439\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0410\u043a\u043a\u0430\u0439\u044b\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:uzb_x_preferred":[
         "Oqqayin"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632307,
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1108785685,
-    "wof:lastmodified":1563249648,
+    "wof:lastmodified":1566591758,
     "wof:name":"Akkayin",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

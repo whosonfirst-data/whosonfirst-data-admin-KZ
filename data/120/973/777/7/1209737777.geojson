@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Atyrau",
     "iso:country":"KZ",
+    "lbl:bbox":"48.63528,46.59028,48.67528,46.63028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0428\u0430\u0440\u0442\u0430\u043d\u0431\u0430\u0439"
     ],
@@ -46,8 +50,7 @@
     ],
     "name:und_x_variant":[
         "Chertanbay",
-        "Chertonbay",
-        "Shortanbay"
+        "Chertonbay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1209737777,
-    "wof:lastmodified":1564151650,
+    "wof:lastmodified":1566591640,
     "wof:name":"Shortanbay",
     "wof:parent_id":1108785299,
     "wof:placetype":"locality",

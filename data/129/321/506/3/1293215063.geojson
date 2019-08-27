@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"79.28547,50.37606,79.32547,50.41606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ush-Aga",
         "Ushasha Pervaya"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293215063,
-    "wof:lastmodified":1537659534,
+    "wof:lastmodified":1566591432,
     "wof:name":"Ushasha Pervaya",
     "wof:parent_id":1108785641,
     "wof:placetype":"locality",

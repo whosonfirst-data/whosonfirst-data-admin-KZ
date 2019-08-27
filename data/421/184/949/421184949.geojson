@@ -10,8 +10,12 @@
     "geom:latitude":49.14132,
     "geom:longitude":57.12855,
     "iso:country":"KZ",
+    "lbl:bbox":"57.10855,49.12132,57.14855,49.16132",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Temir"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":608036,
         "gp:id":2264936,
-        "qs:id":1308374,
+        "qs_pg:id":1308374,
         "wd:id":"Q4454439",
         "wk:page":"Temir"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421184949,
-    "wof:lastmodified":1563250087,
+    "wof:lastmodified":1566591995,
     "wof:name":"Temir",
     "wof:parent_id":85672877,
     "wof:placetype":"locality",

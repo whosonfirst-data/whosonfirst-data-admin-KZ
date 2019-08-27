@@ -10,8 +10,12 @@
     "geom:latitude":51.19925,
     "geom:longitude":50.85544,
     "iso:country":"KZ",
+    "lbl:bbox":"50.83544,51.17925,50.87544,51.21925",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u0435\u043c\u0435\u0442\u043d\u043e\u0435"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0435\u043c\u0456\u0442\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Perem\u00ebtnoye"
     ],
     "name:uzb_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":608629,
         "gp:id":2264772,
-        "qs:id":1308318,
+        "qs_pg:id":1308318,
         "wd:id":"Q4350661",
         "wk:page":"Peremyotnoye"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421168619,
-    "wof:lastmodified":1563250012,
+    "wof:lastmodified":1566591974,
     "wof:name":"Peremetnoye",
     "wof:parent_id":85672893,
     "wof:placetype":"locality",

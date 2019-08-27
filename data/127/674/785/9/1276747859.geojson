@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aqtau",
     "iso:country":"KZ",
+    "lbl:bbox":"51.30611,43.67861,51.34611,43.71861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mangghyshlaq"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0433\u044b\u0448\u043b\u0430\u043a"
-    ],
-    "name:und_x_variant":[
-        "Mangghyshlaq"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1276747859,
-    "wof:lastmodified":1537659391,
+    "wof:lastmodified":1566591461,
     "wof:name":"Mangyshlak",
     "wof:parent_id":1108785381,
     "wof:placetype":"locality",

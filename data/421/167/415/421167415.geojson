@@ -10,8 +10,12 @@
     "geom:latitude":44.90225,
     "geom:longitude":78.23157,
     "iso:country":"KZ",
+    "lbl:bbox":"78.21157,44.88225,78.25157,44.92225",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Balpyk B\u012b"
@@ -61,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u043f\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u012brovsk\u012by"
     ],
     "name:uzb_x_preferred":[
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":1522642,
         "gp:id":2264542,
-        "qs:id":133324,
+        "qs_pg:id":133324,
         "wd:id":"Q4076856",
         "wk:page":"Balpyk Bi"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421167415,
-    "wof:lastmodified":1563250036,
+    "wof:lastmodified":1566591979,
     "wof:name":"Kirovskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

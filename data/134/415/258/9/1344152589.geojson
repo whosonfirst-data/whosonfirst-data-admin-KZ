@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.40434,40.84149,68.44434,40.88149",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Otdeleniye Nomer Payt\u2019 Dzhetysayskogo Sovkhoza"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344152589,
-    "wof:lastmodified":1537660081,
+    "wof:lastmodified":1566591218,
     "wof:name":"Otdeleniye Nomer Payt' Dzhetysayskogo Sovkhoza",
     "wof:parent_id":1108785361,
     "wof:placetype":"locality",

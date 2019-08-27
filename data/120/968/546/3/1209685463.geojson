@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"66.4699,54.6418,66.5099,54.6818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kaban'"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209685463,
-    "wof:lastmodified":1537659803,
+    "wof:lastmodified":1566591609,
     "wof:name":"Kaban'",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

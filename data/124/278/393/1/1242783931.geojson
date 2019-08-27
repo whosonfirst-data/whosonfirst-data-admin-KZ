@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aqtobe",
     "iso:country":"KZ",
+    "lbl:bbox":"57.30415,50.3015,57.34415,50.3415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Qarghaly"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242783931,
-    "wof:lastmodified":1537659455,
+    "wof:lastmodified":1566592091,
     "wof:name":"Qarghaly",
     "wof:parent_id":1108785631,
     "wof:placetype":"locality",

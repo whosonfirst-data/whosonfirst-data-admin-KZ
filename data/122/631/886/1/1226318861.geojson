@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"74.53289,43.12813,74.57289,43.16813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0421\u043b\u0430\u0432\u043d\u043e\u0435"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226318861,
-    "wof:lastmodified":1537660040,
+    "wof:lastmodified":1566592315,
     "wof:name":"Slavnoye",
     "wof:parent_id":1108785317,
     "wof:placetype":"locality",

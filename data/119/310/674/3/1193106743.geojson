@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.13741,54.43354,68.17741,54.47354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Zhekekol\u2019"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193106743,
-    "wof:lastmodified":1537659949,
+    "wof:lastmodified":1566591695,
     "wof:name":"Zhekekol'",
     "wof:parent_id":1108785359,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":49.63389,
     "geom:longitude":63.49806,
     "iso:country":"KZ",
+    "lbl:bbox":"63.47806,49.61389,63.51806,49.65389",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":8.0,
@@ -20,7 +23,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0443\u0440\u0433\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Torgay"
     ],
     "ne:ADM0CAP":0.0,
@@ -144,7 +147,7 @@
     "wof:concordances":{
         "gn:id":1518062,
         "gp:id":2262729,
-        "qs:id":1031633
+        "qs_pg:id":1031633
     },
     "wof:country":"KZ",
     "wof:created":1459009079,
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":421175783,
-    "wof:lastmodified":1505340625,
+    "wof:lastmodified":1566591990,
     "wof:name":"Torghay",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

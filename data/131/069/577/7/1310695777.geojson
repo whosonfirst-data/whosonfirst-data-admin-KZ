@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.61546,42.45836,69.65546,42.49836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "K\u00f6meshbulaq"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310695777,
-    "wof:lastmodified":1537659578,
+    "wof:lastmodified":1566591885,
     "wof:name":"Sovetskoye",
     "wof:parent_id":1108785595,
     "wof:placetype":"locality",

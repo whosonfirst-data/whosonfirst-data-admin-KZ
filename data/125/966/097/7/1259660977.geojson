@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"71.7076,49.72718,71.7476,49.76718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zakharovskoye",
         "Zakharovskiy",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259660977,
-    "wof:lastmodified":1537659500,
+    "wof:lastmodified":1566592178,
     "wof:name":"Zakharovka",
     "wof:parent_id":1108785499,
     "wof:placetype":"locality",

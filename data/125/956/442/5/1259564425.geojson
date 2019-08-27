@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"76.4073,53.13185,76.4473,53.17185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Baysmak"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259564425,
-    "wof:lastmodified":1537659999,
+    "wof:lastmodified":1566592191,
     "wof:name":"Baysmak",
     "wof:parent_id":1108785557,
     "wof:placetype":"locality",

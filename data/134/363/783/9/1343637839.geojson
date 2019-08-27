@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"61.53779,52.09294,61.57779,52.13294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tokhtarovo"
     ],
@@ -44,8 +48,7 @@
         "Imeni Tokhtarova",
         "Maksimovka",
         "Imeni Takhtarova",
-        "Takhtarovo",
-        "Tokhtarovo"
+        "Takhtarovo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1343637839,
-    "wof:lastmodified":1537659809,
+    "wof:lastmodified":1566591208,
     "wof:name":"Tokhtarovo",
     "wof:parent_id":1108785525,
     "wof:placetype":"locality",

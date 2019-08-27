@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"65.65361,51.06056,65.69361,51.10056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zapadnyy"
     ],
@@ -33,8 +37,7 @@
     ],
     "name:und_x_variant":[
         "Kyzyltal",
-        "Qyzyltal",
-        "Zapadnyy"
+        "Qyzyltal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1310013303,
-    "wof:lastmodified":1537659499,
+    "wof:lastmodified":1566591838,
     "wof:name":"Zapadnyy",
     "wof:parent_id":1108785497,
     "wof:placetype":"locality",

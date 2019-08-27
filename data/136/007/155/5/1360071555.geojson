@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"63.95216,53.70856,63.99216,53.74856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "R\u016bssk\u012by"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360071555,
-    "wof:lastmodified":1537660170,
+    "wof:lastmodified":1566591897,
     "wof:name":"Russkiy",
     "wof:parent_id":1108785385,
     "wof:placetype":"locality",

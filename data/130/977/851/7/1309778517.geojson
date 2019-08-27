@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"72.8765,53.95879,72.9165,53.99879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Undiris"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1309778517,
-    "wof:lastmodified":1537659971,
+    "wof:lastmodified":1566591941,
     "wof:name":"Undiris",
     "wof:parent_id":1108785367,
     "wof:placetype":"locality",

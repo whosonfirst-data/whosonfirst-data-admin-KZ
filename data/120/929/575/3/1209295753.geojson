@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"77.97667,52.24337,78.01667,52.28337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sakhnovka"
     ],
@@ -37,8 +41,7 @@
     "name:und_x_variant":[
         "Karabiday",
         "Sosnovskoye",
-        "Sakhovka",
-        "Sakhnovka"
+        "Sakhovka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1209295753,
-    "wof:lastmodified":1537659616,
+    "wof:lastmodified":1566591635,
     "wof:name":"Sakhnovka",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

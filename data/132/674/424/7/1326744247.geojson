@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"77.9719,44.60493,78.0119,44.64493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "\u0410\u0439\u043d\u0430\u0431\u04b1\u043b\u0430\u049b"
     ],
@@ -43,8 +47,7 @@
     "name:und_x_variant":[
         "Aybulak",
         "Aynabulak",
-        "Ayna-Bulan",
-        "Aynabulaq"
+        "Ayna-Bulan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1326744247,
-    "wof:lastmodified":1564150615,
+    "wof:lastmodified":1566591102,
     "wof:name":"Aynabulak",
     "wof:parent_id":1108785405,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"66.78,54.31333,66.82,54.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Tyagishchil\u2019"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276412813,
-    "wof:lastmodified":1537659542,
+    "wof:lastmodified":1566591507,
     "wof:name":"Tyagishchil'",
     "wof:parent_id":1108785565,
     "wof:placetype":"locality",

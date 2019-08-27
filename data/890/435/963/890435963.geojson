@@ -11,10 +11,14 @@
     "geom:longitude":76.2,
     "gn:country":"KZ",
     "gn:fcode":"PPL",
-    "gn:pop":2672,
+    "gn:population":2672,
     "iso:country":"KZ",
+    "lbl:bbox":"76.18,46.51333,76.22,46.55333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Karabas"
     ],
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1523470,
-        "qs:id":1031778,
+        "qs_pg:id":1031778,
         "wk:page":"Karabas"
     },
     "wof:country":"KZ",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890435963,
-    "wof:lastmodified":1564152182,
+    "wof:lastmodified":1566592004,
     "wof:name":"Karabas",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

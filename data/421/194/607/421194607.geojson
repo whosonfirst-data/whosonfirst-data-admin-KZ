@@ -10,8 +10,12 @@
     "geom:latitude":47.52722,
     "geom:longitude":52.98111,
     "iso:country":"KZ",
+    "lbl:bbox":"52.96111,47.50722,53.00111,47.54722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0414\u0430\u0441\u043e\u0440"
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0441\u0441\u043e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bos-Sor"
     ],
     "qs:gn_country":"KZ",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":610023,
         "gp:id":2264345,
-        "qs:id":1308191,
+        "qs_pg:id":1308191,
         "wd:id":"Q4167209"
     },
     "wof:country":"KZ",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421194607,
-    "wof:lastmodified":1563250029,
+    "wof:lastmodified":1566591977,
     "wof:name":"Dossor",
     "wof:parent_id":85672889,
     "wof:placetype":"locality",

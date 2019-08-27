@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"67.43258,43.83879,67.47258,43.87879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Birlik"
     ],
@@ -44,8 +48,7 @@
         "\u0411\u0456\u0440\u043b\u0456\u043a"
     ],
     "name:und_x_variant":[
-        "Kol\u2019togan",
-        "Birlik"
+        "Kol\u2019togan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1259566815,
-    "wof:lastmodified":1564152521,
+    "wof:lastmodified":1566592189,
     "wof:name":"Birlik",
     "wof:parent_id":1108785669,
     "wof:placetype":"locality",

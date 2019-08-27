@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"79.05338,42.88925,79.09338,42.92925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0428\u0438\u0440\u0433\u0430\u043d\u0430\u043a"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209833463,
-    "wof:lastmodified":1537660173,
+    "wof:lastmodified":1566591581,
     "wof:name":"Shirganak",
     "wof:parent_id":1108785309,
     "wof:placetype":"locality",

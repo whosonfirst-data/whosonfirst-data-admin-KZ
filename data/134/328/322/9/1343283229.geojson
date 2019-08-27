@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"49.76815,49.48719,49.80815,49.52719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zhas"
     ],
@@ -32,8 +36,7 @@
         "\u0416\u0430\u0441"
     ],
     "name:und_x_variant":[
-        "Kokterek",
-        "Zhas"
+        "Kokterek"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1343283229,
-    "wof:lastmodified":1537659341,
+    "wof:lastmodified":1566591298,
     "wof:name":"Zhas",
     "wof:parent_id":1108785703,
     "wof:placetype":"locality",

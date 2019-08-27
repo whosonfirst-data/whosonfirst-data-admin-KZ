@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"65.74923,54.47951,65.78923,54.51951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Presnogor'kovka"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1226121893,
-    "wof:lastmodified":1537659634,
+    "wof:lastmodified":1566592286,
     "wof:name":"Presnogor'kovka",
     "wof:parent_id":1108785687,
     "wof:placetype":"locality",

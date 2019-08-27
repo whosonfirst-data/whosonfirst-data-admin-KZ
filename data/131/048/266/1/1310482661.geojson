@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"78.2344,51.39953,78.2744,51.43953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dyuzkaragay"
     ],
@@ -39,7 +43,6 @@
     ],
     "name:und_x_variant":[
         "Dyuskaragan",
-        "Dyuzkaragay",
         "Zhuzkaragay"
     ],
     "src:geom":"geonames",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1310482661,
-    "wof:lastmodified":1537659836,
+    "wof:lastmodified":1566591810,
     "wof:name":"Zhuzkaragay",
     "wof:parent_id":1108785559,
     "wof:placetype":"locality",

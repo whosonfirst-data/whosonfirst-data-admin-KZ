@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"74.56333,47.73,74.60333,47.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jamchi",
         "Dzhamkhi",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260263031,
-    "wof:lastmodified":1537659492,
+    "wof:lastmodified":1566591730,
     "wof:name":"Zhamshi",
     "wof:parent_id":1108785505,
     "wof:placetype":"locality",

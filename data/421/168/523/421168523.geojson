@@ -10,6 +10,9 @@
     "geom:latitude":53.33367,
     "geom:longitude":75.45901,
     "iso:country":"KZ",
+    "lbl:bbox":"75.43901,53.31367,75.47901,53.35367",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0440\u0442\u0438\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Irtysh"
     ],
     "name:uzb_x_preferred":[
@@ -180,7 +183,7 @@
     "wof:concordances":{
         "gn:id":1523768,
         "gp:id":2257422,
-        "qs:id":462815,
+        "qs_pg:id":462815,
         "wd:id":"Q1047734"
     },
     "wof:country":"KZ",
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421168523,
-    "wof:lastmodified":1563250025,
+    "wof:lastmodified":1566591976,
     "wof:name":"Ertis",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

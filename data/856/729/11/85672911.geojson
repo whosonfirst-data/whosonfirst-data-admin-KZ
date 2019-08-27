@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":52.224212,
     "lbl:longitude":76.005291,
+    "lbl:min_zoom":8.0,
     "meso:name_alt2":"Pavlodarskaya",
     "meso:name_loc":"\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "mps:latitude":52.203501,
@@ -214,7 +215,7 @@
         "Pavlodar"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbe\u0bb5\u0bcd\u0bb2\u0bcb\u0b9f\u0bb0\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0bbe\u0bb5\u0bcd\u0bb2\u0bcb\u0b9f\u0bb0\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440 \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -242,9 +243,6 @@
     ],
     "name:und_x_variant":[
         "Pavlodarskaya",
-        "\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
         "Pavlodar Oblast"
     ],
     "name:urd_x_preferred":[
@@ -334,9 +332,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-02-25",
+    "src:population_date":"2009-02-25",
     "statoids:area_km":"124,800",
     "statoids:area_mi":"48,200",
     "statoids:as_of_date":"2009-02-25",
@@ -360,7 +358,7 @@
         "gp:id":2345993,
         "hasc:id":"KZ.PA",
         "iso:id":"KZ-PAV",
-        "qs:id":890083,
+        "qs_pg:id":890083,
         "wd:id":"Q486144",
         "wk:page":"Pavlodar Region"
     },
@@ -382,11 +380,10 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1565726085,
+    "wof:lastmodified":1566591325,
     "wof:name":"Pavlodar",
     "wof:parent_id":85632307,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":742475,
     "wof:population_rank":11,

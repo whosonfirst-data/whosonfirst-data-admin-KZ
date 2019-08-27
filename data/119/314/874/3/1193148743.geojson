@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"71.17497,51.42633,71.21497,51.46633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "T\u00f6ngkeris"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193148743,
-    "wof:lastmodified":1537659565,
+    "wof:lastmodified":1566591679,
     "wof:name":"Tongkeris",
     "wof:parent_id":1108785437,
     "wof:placetype":"locality",

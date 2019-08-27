@@ -11,10 +11,14 @@
     "geom:longitude":49.4,
     "gn:country":"KZ",
     "gn:fcode":"PPL",
-    "gn:pop":6834,
+    "gn:population":6834,
     "iso:country":"KZ",
+    "lbl:bbox":"49.38,49.31333,49.42,49.35333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Zhumysker",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":607510,
         "gp:id":2264983,
-        "qs:id":550235
+        "qs_pg:id":550235
     },
     "wof:country":"KZ",
     "wof:created":1469052971,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890455679,
-    "wof:lastmodified":1505343665,
+    "wof:lastmodified":1566592000,
     "wof:name":"Zhumysker",
     "wof:parent_id":85672893,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.72914,51.95879,68.76914,51.99879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Novyy Polestinsk",
         "Novopalestinovka"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326637481,
-    "wof:lastmodified":1537659666,
+    "wof:lastmodified":1566591169,
     "wof:name":"Novopalestinovka",
     "wof:parent_id":1108785387,
     "wof:placetype":"locality",

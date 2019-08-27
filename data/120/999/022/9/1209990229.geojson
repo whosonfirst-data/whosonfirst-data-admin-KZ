@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"67.2219,43.72552,67.2619,43.76552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0448\u0430"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209990229,
-    "wof:lastmodified":1537660073,
+    "wof:lastmodified":1566591576,
     "wof:name":"Karasha",
     "wof:parent_id":1108785669,
     "wof:placetype":"locality",

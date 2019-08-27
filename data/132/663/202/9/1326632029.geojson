@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"72.33452,52.08417,72.37452,52.12417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Khlebopriy\u00ebmnoye"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326632029,
-    "wof:lastmodified":1537660064,
+    "wof:lastmodified":1566591169,
     "wof:name":"Khlebopriyemnoye",
     "wof:parent_id":1108785617,
     "wof:placetype":"locality",

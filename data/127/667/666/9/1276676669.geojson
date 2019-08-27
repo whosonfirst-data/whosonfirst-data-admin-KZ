@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"81.71493,50.30268,81.75493,50.34268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ubinka"
     ],
@@ -34,8 +38,7 @@
     "name:und_x_variant":[
         "Ubinsk Pristan",
         "Ubinskoe",
-        "Ubinskoye",
-        "Ubinka"
+        "Ubinskoye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1276676669,
-    "wof:lastmodified":1537659541,
+    "wof:lastmodified":1566591474,
     "wof:name":"Ubinka",
     "wof:parent_id":1108785305,
     "wof:placetype":"locality",

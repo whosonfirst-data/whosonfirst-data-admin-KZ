@@ -10,8 +10,12 @@
     "geom:latitude":48.56603,
     "geom:longitude":83.66146,
     "iso:country":"KZ",
+    "lbl:bbox":"83.64146,48.54603,83.68146,48.58603",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u041a\u0443\u0440\u0448\u044b\u043c"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0447\u0443\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kumashenkino"
     ],
     "name:vie_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1521762,
         "gp:id":2264609,
-        "qs:id":133307,
+        "qs_pg:id":133307,
         "wd:id":"Q1046498",
         "wk:page":"Kurshim"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421167409,
-    "wof:lastmodified":1563250038,
+    "wof:lastmodified":1566591980,
     "wof:name":"Kurchum",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

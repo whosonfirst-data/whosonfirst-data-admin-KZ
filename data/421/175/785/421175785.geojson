@@ -10,6 +10,9 @@
     "geom:latitude":43.59833,
     "geom:longitude":73.76139,
     "iso:country":"KZ",
+    "lbl:bbox":"73.74139,43.57833,73.78139,43.61833",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -85,9 +88,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0443"
-    ],
-    "name:unk_x_variant":[
-        "Chu"
     ],
     "name:uzb_x_preferred":[
         "Chu"
@@ -217,7 +217,7 @@
     "wof:concordances":{
         "gn:id":1519030,
         "gp:id":2261977,
-        "qs:id":1031660,
+        "qs_pg:id":1031660,
         "wd:id":"Q145802",
         "wk:page":"Shu, Jambyl"
     },
@@ -233,7 +233,7 @@
         }
     ],
     "wof:id":421175785,
-    "wof:lastmodified":1563250069,
+    "wof:lastmodified":1566591990,
     "wof:name":"Shu",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

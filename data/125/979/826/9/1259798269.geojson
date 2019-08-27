@@ -23,16 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"81.70676,50.40242,81.74676,50.44242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Volch\u00ebvka"
     ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u043b\u0447\u043e\u0432\u043a\u0430"
-    ],
-    "name:und_x_variant":[
-        "Volch\u00ebvka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1259798269,
-    "wof:lastmodified":1537659520,
+    "wof:lastmodified":1566592151,
     "wof:name":"Volchevka",
     "wof:parent_id":1108785611,
     "wof:placetype":"locality",

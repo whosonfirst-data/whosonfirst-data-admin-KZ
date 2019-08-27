@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"53.84015,51.11025,53.88015,51.15025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kopa"
     ],
@@ -65,8 +69,7 @@
         "\u041a\u043e\u043f\u0430"
     ],
     "name:und_x_variant":[
-        "Kupa",
-        "Kopa"
+        "Kupa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1209725447,
-    "wof:lastmodified":1564151688,
+    "wof:lastmodified":1566591658,
     "wof:name":"Kopa",
     "wof:parent_id":1108785711,
     "wof:placetype":"locality",

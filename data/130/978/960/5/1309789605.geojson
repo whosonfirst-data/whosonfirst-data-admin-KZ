@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.7653,42.55047,69.8053,42.59047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u043e\u0436\u0430\u043a\u043e\u0440\u0433\u0430\u043d"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309789605,
-    "wof:lastmodified":1537660115,
+    "wof:lastmodified":1566591947,
     "wof:name":"Kozhakorgan",
     "wof:parent_id":1108785595,
     "wof:placetype":"locality",

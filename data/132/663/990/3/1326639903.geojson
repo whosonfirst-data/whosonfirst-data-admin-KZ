@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"79.51333,45.38,79.55333,45.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ush-Tyube"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1326639903,
-    "wof:lastmodified":1564150747,
+    "wof:lastmodified":1566591168,
     "wof:name":"Ushtobe",
     "wof:parent_id":1108785407,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"64.17102,52.02595,64.21102,52.06595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fedoseyevka"
     ],
@@ -32,8 +36,7 @@
         "\u0424\u0435\u0434\u043e\u0441\u0435\u0435\u0432\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Fedoseyeva",
-        "Fedoseyevka"
+        "Fedoseyeva"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1344243187,
-    "wof:lastmodified":1537659830,
+    "wof:lastmodified":1566591222,
     "wof:name":"Fedoseyevka",
     "wof:parent_id":1108785659,
     "wof:placetype":"locality",

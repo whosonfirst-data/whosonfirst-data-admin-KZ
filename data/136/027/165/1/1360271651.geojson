@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"62.01199,51.78177,62.05199,51.82177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aday"
     ],
@@ -34,8 +38,7 @@
     "name:und_x_variant":[
         "Adayevka",
         "Adaevski",
-        "Adayevskiy",
-        "Aday"
+        "Adayevskiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1360271651,
-    "wof:lastmodified":1537659931,
+    "wof:lastmodified":1566591912,
     "wof:name":"Aday",
     "wof:parent_id":1108785529,
     "wof:placetype":"locality",

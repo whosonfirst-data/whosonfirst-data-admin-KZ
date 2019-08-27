@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"82.14697,46.12161,82.18697,46.16161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qarabulaq"
     ],
@@ -38,8 +42,7 @@
         "Qarabulaq"
     ],
     "name:und_x_variant":[
-        "Karabulak",
-        "Qarabulaq"
+        "Karabulak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1276782177,
-    "wof:lastmodified":1564151390,
+    "wof:lastmodified":1566591498,
     "wof:name":"Qarabulaq",
     "wof:parent_id":1108785729,
     "wof:placetype":"locality",

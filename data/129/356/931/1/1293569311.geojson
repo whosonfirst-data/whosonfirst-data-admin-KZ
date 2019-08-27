@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"74.8116,50.17841,74.8516,50.21841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "\u0421\u0435\u043c\u0456\u0437\u0431\u04b1\u0493\u044b"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1293569311,
-    "wof:lastmodified":1537659605,
+    "wof:lastmodified":1566591391,
     "wof:name":"Semizbughy",
     "wof:parent_id":1108785651,
     "wof:placetype":"locality",

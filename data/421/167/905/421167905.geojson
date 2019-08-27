@@ -10,6 +10,9 @@
     "geom:latitude":45.76278,
     "geom:longitude":62.1075,
     "iso:country":"KZ",
+    "lbl:bbox":"62.0875,45.74278,62.1275,45.78278",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -68,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0437\u0430\u043b\u0456\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kasalinsk"
     ],
     "name:zho_x_preferred":[
@@ -195,7 +198,7 @@
     "wof:concordances":{
         "gn:id":1522862,
         "gp:id":2258590,
-        "qs:id":274006,
+        "qs_pg:id":274006,
         "wd:id":"Q1557559",
         "wk:page":"Kazaly"
     },
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":421167905,
-    "wof:lastmodified":1563250045,
+    "wof:lastmodified":1566591982,
     "wof:name":"Kazalinsk",
     "wof:parent_id":85672885,
     "wof:placetype":"locality",

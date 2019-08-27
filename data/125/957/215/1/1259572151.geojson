@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.60021,41.90914,69.64021,41.94914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "\u0416\u0430\u04a3\u0430\u0431\u0430\u0437\u0430\u0440"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259572151,
-    "wof:lastmodified":1537659490,
+    "wof:lastmodified":1566592172,
     "wof:name":"Zhanabazar",
     "wof:parent_id":1108785585,
     "wof:placetype":"locality",

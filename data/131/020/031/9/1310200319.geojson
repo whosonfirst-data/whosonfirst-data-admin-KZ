@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.5633,42.72881,69.6033,42.76881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Zarechnoe"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310200319,
-    "wof:lastmodified":1537660055,
+    "wof:lastmodified":1566591845,
     "wof:name":"Zarechnoe",
     "wof:parent_id":1108785589,
     "wof:placetype":"locality",

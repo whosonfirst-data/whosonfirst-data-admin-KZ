@@ -10,6 +10,9 @@
     "geom:latitude":48.82981,
     "geom:longitude":58.15042,
     "iso:country":"KZ",
+    "lbl:bbox":"58.13042,48.80981,58.17042,48.84981",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -68,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043c\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amba"
     ],
     "ne:ADM0CAP":0.0,
@@ -193,7 +196,7 @@
     "wof:concordances":{
         "gn:id":609924,
         "gp:id":2264368,
-        "qs:id":1308204,
+        "qs_pg:id":1308204,
         "wd:id":"Q2378028",
         "wk:page":"Embi"
     },
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":421196521,
-    "wof:lastmodified":1563250078,
+    "wof:lastmodified":1566591992,
     "wof:name":"Emba",
     "wof:parent_id":85672877,
     "wof:placetype":"locality",

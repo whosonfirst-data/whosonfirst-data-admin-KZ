@@ -11,17 +11,21 @@
     "geom:longitude":73.40382,
     "gn:country":"KZ",
     "gn:fcode":"PPL",
-    "gn:pop":3920,
+    "gn:population":3920,
     "iso:country":"KZ",
+    "lbl:bbox":"73.38382,50.21058,73.42382,50.25058",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:kaz_x_preferred":[
         "\u049a\u0443\u0448\u043e\u049b\u044b"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0448\u043e\u043a\u044b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kushoky"
     ],
     "qs:name":"Q\u016bshoqy",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1521677,
         "gp:id":2264939,
-        "qs:id":1031730
+        "qs_pg:id":1031730
     },
     "wof:country":"KZ",
     "wof:created":1469052441,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890443871,
-    "wof:lastmodified":1505343596,
+    "wof:lastmodified":1566592002,
     "wof:name":"Q\u016bshoqy",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

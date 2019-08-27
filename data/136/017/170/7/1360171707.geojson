@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"75.49214,49.28049,75.53214,49.32049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Komissarovskoye",
         "Komissarovskiy"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360171707,
-    "wof:lastmodified":1537659756,
+    "wof:lastmodified":1566591919,
     "wof:name":"Komissarovskiy",
     "wof:parent_id":1108785507,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.59344,54.95454,68.63344,54.99454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Maatskaplike vooruitgang"
     ],
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1209484901,
-    "wof:lastmodified":1564151539,
+    "wof:lastmodified":1566591579,
     "wof:name":"Progress",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"67.18,43.47916,67.22,43.51916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Apanqaq"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209398323,
-    "wof:lastmodified":1537660073,
+    "wof:lastmodified":1566591561,
     "wof:name":"Apanqaq",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

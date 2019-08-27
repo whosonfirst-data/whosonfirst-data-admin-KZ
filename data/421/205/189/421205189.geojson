@@ -10,6 +10,9 @@
     "geom:latitude":47.06667,
     "geom:longitude":51.86667,
     "iso:country":"KZ",
+    "lbl:bbox":"51.84667,47.04667,51.88667,47.08667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -50,7 +53,7 @@
     "name:ukr_x_variant":[
         "Zyryanovsk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belykshi"
     ],
     "ne:ADM0CAP":0.0,
@@ -174,7 +177,7 @@
     "wof:concordances":{
         "gn:id":610445,
         "gp:id":2256236,
-        "qs:id":257587,
+        "qs_pg:id":257587,
         "wd:id":"Q4077051"
     },
     "wof:country":"KZ",
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":421205189,
-    "wof:lastmodified":1563250060,
+    "wof:lastmodified":1566591987,
     "wof:name":"Balykshi",
     "wof:parent_id":85672889,
     "wof:placetype":"locality",

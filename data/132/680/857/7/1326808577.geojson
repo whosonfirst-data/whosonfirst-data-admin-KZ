@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"75.73354,50.38723,75.77354,50.42723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Yuzhnoe"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326808577,
-    "wof:lastmodified":1537660156,
+    "wof:lastmodified":1566591100,
     "wof:name":"Yuzhnoe",
     "wof:parent_id":1108785655,
     "wof:placetype":"locality",

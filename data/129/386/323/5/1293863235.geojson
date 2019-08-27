@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"64.09132,52.96804,64.13132,53.00804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Pervomaysk\u012by"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293863235,
-    "wof:lastmodified":1537659644,
+    "wof:lastmodified":1566591436,
     "wof:name":"Pervomayskiy",
     "wof:parent_id":1108785531,
     "wof:placetype":"locality",

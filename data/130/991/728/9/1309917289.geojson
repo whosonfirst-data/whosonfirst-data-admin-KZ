@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.7575,51.6053,70.7975,51.6453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Novoaltayskiy",
         "Safronovskoye",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309917289,
-    "wof:lastmodified":1537659672,
+    "wof:lastmodified":1566591936,
     "wof:name":"Altayskoye",
     "wof:parent_id":1108785437,
     "wof:placetype":"locality",

@@ -23,16 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aqtau",
     "iso:country":"KZ",
+    "lbl:bbox":"52.06809,44.46069,52.10809,44.50069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "T\u012bgen"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u0433\u0435\u043d"
-    ],
-    "name:und_x_variant":[
-        "T\u012bgen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1276785085,
-    "wof:lastmodified":1537659356,
+    "wof:lastmodified":1566591498,
     "wof:name":"Tigen",
     "wof:parent_id":1108785543,
     "wof:placetype":"locality",

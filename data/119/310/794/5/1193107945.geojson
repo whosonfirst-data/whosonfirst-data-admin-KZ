@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"64.21333,45.24667,64.25333,45.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193107945,
-    "wof:lastmodified":1536376440,
+    "wof:lastmodified":1566591696,
     "wof:name":"Imeni Engel'sa",
     "wof:parent_id":1108785695,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"46.94667,48.91333,46.98667,48.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Okhon-kul\u2019",
         "Okhon-Kul\u2019 Vtoroy",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343780081,
-    "wof:lastmodified":1537659383,
+    "wof:lastmodified":1566591248,
     "wof:name":"Okhonkol'",
     "wof:parent_id":1108785701,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.98634,42.20656,69.02634,42.24656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Toghansay"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1326613993,
-    "wof:lastmodified":1537660115,
+    "wof:lastmodified":1566591117,
     "wof:name":"Toghansay",
     "wof:parent_id":1108785581,
     "wof:placetype":"locality",

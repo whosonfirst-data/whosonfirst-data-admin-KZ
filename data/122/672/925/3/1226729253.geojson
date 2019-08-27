@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"61.44335,52.00734,61.48335,52.04734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Kamennyy Kar\u2019yer"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226729253,
-    "wof:lastmodified":1537660186,
+    "wof:lastmodified":1566592217,
     "wof:name":"Kamennyy Kar'yer",
     "wof:parent_id":1108785525,
     "wof:placetype":"locality",

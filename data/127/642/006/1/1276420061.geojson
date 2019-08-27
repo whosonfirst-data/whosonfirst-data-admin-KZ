@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"65.91585,53.76093,65.95585,53.80093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u043e\u0432\u0430\u043b\u0435\u0432\u043a\u0430"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276420061,
-    "wof:lastmodified":1537660172,
+    "wof:lastmodified":1566591456,
     "wof:name":"Kovalevka",
     "wof:parent_id":1108785569,
     "wof:placetype":"locality",

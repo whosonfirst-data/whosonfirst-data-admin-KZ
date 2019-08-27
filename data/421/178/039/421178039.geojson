@@ -10,8 +10,12 @@
     "geom:latitude":43.02055,
     "geom:longitude":79.22194,
     "iso:country":"KZ",
+    "lbl:bbox":"79.20194,43.00055,79.24194,43.04055",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kegen"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":1522818,
         "gp:id":2264523,
-        "qs:id":276662,
+        "qs_pg:id":276662,
         "wd:id":"Q4218840",
         "wk:page":"Kegen"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421178039,
-    "wof:lastmodified":1563250093,
+    "wof:lastmodified":1566591997,
     "wof:name":"Kegen",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

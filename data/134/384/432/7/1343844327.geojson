@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"61.50244,52.24031,61.54244,52.28031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Tobol\u2019skiy"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343844327,
-    "wof:lastmodified":1537660185,
+    "wof:lastmodified":1566591236,
     "wof:name":"Tobol'skiy",
     "wof:parent_id":1108785525,
     "wof:placetype":"locality",

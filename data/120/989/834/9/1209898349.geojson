@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"66.54003,53.59215,66.58003,53.63215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u043a\u0441\u0443\u0430\u0442"
     ],
@@ -44,8 +48,7 @@
         "\u0410\u043a\u0441\u0443\u0430\u0442"
     ],
     "name:und_x_variant":[
-        "Aqs\u016bat",
-        "Aksuat"
+        "Aqs\u016bat"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1209898349,
-    "wof:lastmodified":1564151656,
+    "wof:lastmodified":1566591644,
     "wof:name":"Aksuat",
     "wof:parent_id":1108785689,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"72.07884,50.26217,72.11884,50.30217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "\u0421\u0430\u0434\u043e\u0432\u043e\u0435"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226119709,
-    "wof:lastmodified":1537660013,
+    "wof:lastmodified":1566592241,
     "wof:name":"Sadovoye",
     "wof:parent_id":1108785653,
     "wof:placetype":"locality",

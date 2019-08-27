@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"67.6692,52.55476,67.7092,52.59476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kovyl'noye"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1243245671,
-    "wof:lastmodified":1537659744,
+    "wof:lastmodified":1566592054,
     "wof:name":"Kovyl'noye",
     "wof:parent_id":1108785571,
     "wof:placetype":"locality",

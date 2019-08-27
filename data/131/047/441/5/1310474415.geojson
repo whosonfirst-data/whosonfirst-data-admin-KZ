@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"67.43101,53.30146,67.47101,53.34146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0437\u0430\u043d\u043a\u0430"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1310474415,
-    "wof:lastmodified":1564151880,
+    "wof:lastmodified":1566591822,
     "wof:name":"Kazanka",
     "wof:parent_id":1108785579,
     "wof:placetype":"locality",

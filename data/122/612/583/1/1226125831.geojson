@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"71.41571,42.97784,71.45571,43.01784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041f\u043e\u043b\u0438\u0442\u043e\u0442\u0434\u0435\u043b"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226125831,
-    "wof:lastmodified":1537660103,
+    "wof:lastmodified":1566592287,
     "wof:name":"Politotdel",
     "wof:parent_id":1108785487,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"73.31941,48.89269,73.35941,48.93269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Qaramys"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209792895,
-    "wof:lastmodified":1537660011,
+    "wof:lastmodified":1566591584,
     "wof:name":"Karamys",
     "wof:parent_id":1108785509,
     "wof:placetype":"locality",

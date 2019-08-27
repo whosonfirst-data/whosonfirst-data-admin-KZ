@@ -10,6 +10,9 @@
     "geom:latitude":43.33333,
     "geom:longitude":68.25,
     "iso:country":"KZ",
+    "lbl:bbox":"68.23,43.31333,68.27,43.35333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -153,9 +156,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u043a\u0435\u0441\u0442\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Turkestan"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u06a9\u0633\u062a\u0627\u0646"
     ],
@@ -286,7 +286,7 @@
     "wof:concordances":{
         "gn:id":1517945,
         "gp:id":2264971,
-        "qs:id":493449,
+        "qs_pg:id":493449,
         "wd:id":"Q848638",
         "wk:page":"Turkistan (city)"
     },
@@ -302,7 +302,7 @@
         }
     ],
     "wof:id":421168871,
-    "wof:lastmodified":1563250023,
+    "wof:lastmodified":1566591976,
     "wof:name":"Turkistan",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

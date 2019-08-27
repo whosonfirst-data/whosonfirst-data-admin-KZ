@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"65.16929,54.01668,65.20929,54.05668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041e\u0442\u043d\u0430\u0433\u0430\u0448"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293177369,
-    "wof:lastmodified":1537660144,
+    "wof:lastmodified":1566591423,
     "wof:name":"Otnagash",
     "wof:parent_id":1108785687,
     "wof:placetype":"locality",

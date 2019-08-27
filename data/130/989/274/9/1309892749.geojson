@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"66.33532,47.85636,66.37532,47.89636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0438\u043e\u043d\u0435\u0440"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1309892749,
-    "wof:lastmodified":1564152136,
+    "wof:lastmodified":1566591963,
     "wof:name":"Pioner",
     "wof:parent_id":1108785515,
     "wof:placetype":"locality",

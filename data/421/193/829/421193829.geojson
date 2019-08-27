@@ -10,6 +10,9 @@
     "geom:latitude":54.90521,
     "geom:longitude":70.44622,
     "iso:country":"KZ",
+    "lbl:bbox":"70.42622,54.88521,70.46622,54.92521",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -65,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043b\u0430\u0454\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bulayevo"
     ],
     "name:uzb_x_preferred":[
@@ -198,7 +201,7 @@
     "wof:concordances":{
         "gn:id":1525014,
         "gp:id":2256891,
-        "qs:id":462816,
+        "qs_pg:id":462816,
         "wd:id":"Q30520"
     },
     "wof:country":"KZ",
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421193829,
-    "wof:lastmodified":1563250030,
+    "wof:lastmodified":1566591978,
     "wof:name":"Bulaevo",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

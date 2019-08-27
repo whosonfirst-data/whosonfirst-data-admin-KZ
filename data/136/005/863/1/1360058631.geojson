@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"81.2041,48.47872,81.2441,48.51872",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Qaratoghan"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1360058631,
-    "wof:lastmodified":1537660188,
+    "wof:lastmodified":1566591931,
     "wof:name":"Qaratoghan",
     "wof:parent_id":1108785467,
     "wof:placetype":"locality",

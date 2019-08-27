@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":50.078979,
     "lbl:longitude":66.81473,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:delete_fla":"0",
     "meso:dissme":"\u0410\u0440\u043a\u0430\u043b\u044b\u043a \u0433.\u0430.\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -36,6 +38,7 @@
     "mps:longitude":66.81473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0643\u0627\u0644\u064a\u0643"
     ],
@@ -133,9 +136,9 @@
         "\u963f\u5c14\u5361\u96f7\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-04-01",
+    "src:population_date":"1999-04-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"1999-04-01",
     "statoids:capital":"",
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":1108785517,
-    "wof:lastmodified":1564151826,
+    "wof:lastmodified":1566591738,
     "wof:name":"Arkalyk",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

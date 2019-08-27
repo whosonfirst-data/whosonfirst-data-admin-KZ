@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aqtobe",
     "iso:country":"KZ",
+    "lbl:bbox":"58.53,50.61333,58.57,50.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kayraktysay"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343964035,
-    "wof:lastmodified":1537659413,
+    "wof:lastmodified":1566591196,
     "wof:name":"Kayraktysay",
     "wof:parent_id":1108785697,
     "wof:placetype":"locality",

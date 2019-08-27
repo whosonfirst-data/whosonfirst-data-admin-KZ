@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"78.42056,44.31583,78.46056,44.35583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Altynemel"
     ],
@@ -55,7 +59,6 @@
         "Altyn-Emel\u2019skaya",
         "Alt\u00f6n-Emel\u2019",
         "Altin-Emel",
-        "Altynemel",
         "Altynemel\u2019"
     ],
     "src:geom":"geonames",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1310519153,
-    "wof:lastmodified":1564151998,
+    "wof:lastmodified":1566591886,
     "wof:name":"Altynemel",
     "wof:parent_id":1108785423,
     "wof:placetype":"locality",

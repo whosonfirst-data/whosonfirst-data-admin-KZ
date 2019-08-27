@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"73.35802,43.12416,73.39802,43.16416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Aqk\u00f6z-Qaynar"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209391081,
-    "wof:lastmodified":1537660041,
+    "wof:lastmodified":1566591563,
     "wof:name":"Akkoz-Kaynar",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

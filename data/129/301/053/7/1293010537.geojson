@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"50.91333,51.34667,50.95333,51.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Verkhne-Gremyachiy"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Gremyachiy",
-        "Verkhniy Gremyachiy",
-        "Verkhne-Gremyachiy"
+        "Verkhniy Gremyachiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1293010537,
-    "wof:lastmodified":1537659350,
+    "wof:lastmodified":1566591349,
     "wof:name":"Verkhne-Gremyachiy",
     "wof:parent_id":1108785331,
     "wof:placetype":"locality",

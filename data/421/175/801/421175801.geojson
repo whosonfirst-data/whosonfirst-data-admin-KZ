@@ -10,8 +10,12 @@
     "geom:latitude":50.71841,
     "geom:longitude":80.9295,
     "iso:country":"KZ",
+    "lbl:bbox":"80.9095,50.69841,80.9495,50.73841",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "Fedorovka"
@@ -64,9 +68,6 @@
     "name:ukr_x_variant":[
         "\u0411\u043e\u0440\u043e\u0434\u0443\u043b\u0456\u0445\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Borod\u016bl\u012bkha"
-    ],
     "name:vie_x_preferred":[
         "Borodulikha"
     ],
@@ -100,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1525134,
         "gp:id":2256808,
-        "qs:id":1031817,
+        "qs_pg:id":1031817,
         "wd:id":"Q2550746"
     },
     "wof:country":"KZ",
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":421175801,
-    "wof:lastmodified":1563250070,
+    "wof:lastmodified":1566591990,
     "wof:name":"Borodulikha",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

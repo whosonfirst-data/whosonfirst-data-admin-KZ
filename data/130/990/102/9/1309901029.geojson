@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.11363,42.14282,68.15363,42.18282",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Zh\u012bdeli"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309901029,
-    "wof:lastmodified":1537660106,
+    "wof:lastmodified":1566591938,
     "wof:name":"Ferma Nomer Dva Sovkhoza Bairkum",
     "wof:parent_id":1108785581,
     "wof:placetype":"locality",

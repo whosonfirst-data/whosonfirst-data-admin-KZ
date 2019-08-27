@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.52309,41.82475,69.56309,41.86475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0410\u0449\u0438\u043a\u0430\u0440\u0430\u0431\u0430\u0443"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310684905,
-    "wof:lastmodified":1537659901,
+    "wof:lastmodified":1566591878,
     "wof:name":"Ashchikarabau",
     "wof:parent_id":1108785585,
     "wof:placetype":"locality",

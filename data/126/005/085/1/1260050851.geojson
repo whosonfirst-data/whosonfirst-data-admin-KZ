@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"62.61778,45.79833,62.65778,45.83833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maylibash",
         "Mailibash",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260050851,
-    "wof:lastmodified":1537659694,
+    "wof:lastmodified":1566591736,
     "wof:name":"Maylybas",
     "wof:parent_id":1108785613,
     "wof:placetype":"locality",

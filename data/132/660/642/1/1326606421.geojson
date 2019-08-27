@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"66.24586,53.14151,66.28586,53.18151",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leningradskiy"
     ],
@@ -40,7 +44,6 @@
     "name:und_x_variant":[
         "Pregradny",
         "Pregradnyy",
-        "Leningradskiy",
         "Sovkhoz Leningradskiy"
     ],
     "src:geom":"geonames",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1326606421,
-    "wof:lastmodified":1537659712,
+    "wof:lastmodified":1566591113,
     "wof:name":"Leningradskiy",
     "wof:parent_id":1108785569,
     "wof:placetype":"locality",

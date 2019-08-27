@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"67.18807,53.42509,67.22807,53.46509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rasinka"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u044f\u0441\u0438\u043d\u043a\u0430"
-    ],
-    "name:und_x_variant":[
-        "Rasinka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1276520017,
-    "wof:lastmodified":1537659619,
+    "wof:lastmodified":1566591521,
     "wof:name":"Ryasinka",
     "wof:parent_id":1108785567,
     "wof:placetype":"locality",

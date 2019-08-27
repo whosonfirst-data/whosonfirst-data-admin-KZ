@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":49.480736,
     "lbl:longitude":69.459869,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:delete_fla":"2",
     "meso:dissme":"H\u0443\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -36,6 +38,7 @@
     "mps:longitude":69.459869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nurinskiy"
     ],
@@ -43,9 +46,9 @@
         "H\u0443\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-04-01",
+    "src:population_date":"1999-04-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"1999-04-01",
     "statoids:capital":"Kievka",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108785499,
-    "wof:lastmodified":1553718795,
+    "wof:lastmodified":1566591789,
     "wof:name":"Nurinskiy",
     "wof:parent_id":85672905,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"47.46333,49.21333,47.50333,49.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "N\u0259riman"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1293696789,
-    "wof:lastmodified":1564151165,
+    "wof:lastmodified":1566591390,
     "wof:name":"Nariman",
     "wof:parent_id":1108785327,
     "wof:placetype":"locality",

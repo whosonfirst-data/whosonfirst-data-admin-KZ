@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aqtau",
     "iso:country":"KZ",
+    "lbl:bbox":"50.59379,44.42732,50.63379,44.46732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qaraqum"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1193267965,
-    "wof:lastmodified":1564151752,
+    "wof:lastmodified":1566591696,
     "wof:name":"Karakum",
     "wof:parent_id":1108785341,
     "wof:placetype":"locality",

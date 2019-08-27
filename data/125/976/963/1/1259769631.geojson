@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"65.63067,52.11719,65.67067,52.15719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chelgashi"
     ],
@@ -43,7 +47,6 @@
         "\u0427\u0435\u043b\u0433\u0430\u0449\u0438"
     ],
     "name:und_x_variant":[
-        "Chelgashi",
         "Chelgashchi"
     ],
     "src:geom":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1259769631,
-    "wof:lastmodified":1537660018,
+    "wof:lastmodified":1566592167,
     "wof:name":"Shalghysh",
     "wof:parent_id":1108785533,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":53.53944,
     "geom:longitude":75.31452,
     "iso:country":"KZ",
+    "lbl:bbox":"75.29452,53.51944,75.33452,53.55944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0416\u0430\u043b\u0435\u0437\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
@@ -58,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u0435\u043b\u0435\u0437\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zheleznenka"
     ],
     "name:uzb_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1516634,
         "gp:id":2265083,
-        "qs:id":133118,
+        "qs_pg:id":133118,
         "wd:id":"Q44486"
     },
     "wof:country":"KZ",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421167349,
-    "wof:lastmodified":1563250042,
+    "wof:lastmodified":1566591981,
     "wof:name":"Zhelezinka",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

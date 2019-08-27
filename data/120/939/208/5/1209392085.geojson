@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"72.57776,49.48583,72.61776,49.52583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Severnoe"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209392085,
-    "wof:lastmodified":1537660157,
+    "wof:lastmodified":1566591564,
     "wof:name":"Severnoe",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

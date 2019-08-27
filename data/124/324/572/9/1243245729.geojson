@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.93553,53.74414,68.97553,53.78414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Volynsk"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243245729,
-    "wof:lastmodified":1537659964,
+    "wof:lastmodified":1566592055,
     "wof:name":"Volynsk",
     "wof:parent_id":1108785577,
     "wof:placetype":"locality",

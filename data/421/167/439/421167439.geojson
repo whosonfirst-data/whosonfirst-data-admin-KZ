@@ -10,6 +10,9 @@
     "geom:latitude":52.50171,
     "geom:longitude":73.09584,
     "iso:country":"KZ",
+    "lbl:bbox":"73.07584,52.48171,73.11584,52.52171",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0441\u0442\u043e\u0431\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bestyube"
     ],
     "ne:ADM0CAP":0.0,
@@ -162,7 +165,7 @@
     "wof:concordances":{
         "gn:id":1525376,
         "gp:id":2264271,
-        "qs:id":133388,
+        "qs_pg:id":133388,
         "wd:id":"Q6352163"
     },
     "wof:country":"KZ",
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":421167439,
-    "wof:lastmodified":1563250037,
+    "wof:lastmodified":1566591980,
     "wof:name":"Bestobe",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

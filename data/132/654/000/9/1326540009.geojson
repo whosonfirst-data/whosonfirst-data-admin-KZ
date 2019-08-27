@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"84.91824,47.63846,84.95824,47.67846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Muzhuk-Su",
         "Muzhiksu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326540009,
-    "wof:lastmodified":1537659681,
+    "wof:lastmodified":1566591176,
     "wof:name":"Muzhiksu",
     "wof:parent_id":1108785311,
     "wof:placetype":"locality",

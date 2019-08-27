@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"76.22702,52.01122,76.26702,52.05122",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tort-Kuduk"
     ],
@@ -38,7 +42,6 @@
         "\u0422\u043e\u0440\u0442\u043a\u0443\u0434\u0443\u043a"
     ],
     "name:und_x_variant":[
-        "Tort-Kuduk",
         "Tortkuduk"
     ],
     "src:geom":"geonames",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1210004931,
-    "wof:lastmodified":1537659549,
+    "wof:lastmodified":1566591661,
     "wof:name":"Tortkuduk",
     "wof:parent_id":1108785551,
     "wof:placetype":"locality",

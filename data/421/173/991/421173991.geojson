@@ -10,6 +10,9 @@
     "geom:latitude":50.25117,
     "geom:longitude":58.44003,
     "iso:country":"KZ",
+    "lbl:bbox":"58.42003,50.23117,58.46003,50.27117",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0440\u043e\u043c\u0442\u0430\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khrom-Tai"
     ],
     "name:uzb_x_preferred":[
@@ -214,7 +217,7 @@
     "wof:concordances":{
         "gn:id":609404,
         "gp:id":2264538,
-        "qs:id":645886,
+        "qs_pg:id":645886,
         "wd:id":"Q1087785",
         "wk:page":"Khromtau"
     },
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":421173991,
-    "wof:lastmodified":1563250062,
+    "wof:lastmodified":1566591988,
     "wof:name":"Khromtau",
     "wof:parent_id":85672877,
     "wof:placetype":"locality",

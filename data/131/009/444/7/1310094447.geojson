@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.71552,41.99656,69.75552,42.03656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Sots\u012bal"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310094447,
-    "wof:lastmodified":1537660114,
+    "wof:lastmodified":1566591830,
     "wof:name":"Sotsial",
     "wof:parent_id":1108785585,
     "wof:placetype":"locality",

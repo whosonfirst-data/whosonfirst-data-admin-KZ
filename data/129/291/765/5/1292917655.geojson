@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"78.08852,43.25451,78.12852,43.29451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0410\u0441\u044b"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1292917655,
-    "wof:lastmodified":1537660162,
+    "wof:lastmodified":1566591402,
     "wof:name":"Asy",
     "wof:parent_id":1108785427,
     "wof:placetype":"locality",

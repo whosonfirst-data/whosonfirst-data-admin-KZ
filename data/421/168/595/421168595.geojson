@@ -10,8 +10,12 @@
     "geom:latitude":51.91058,
     "geom:longitude":67.31665,
     "iso:country":"KZ",
+    "lbl:bbox":"67.29665,51.89058,67.33665,51.93058",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0416\u0430\u043a\u0441\u044b"
@@ -28,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u0430\u043a\u0441\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzhaksy"
     ],
     "name:uzb_x_preferred":[
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":1517020,
         "gp:id":2265050,
-        "qs:id":1093805
+        "qs_pg:id":1093805
     },
     "wof:country":"KZ",
     "wof:created":1459008770,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421168595,
-    "wof:lastmodified":1564152157,
+    "wof:lastmodified":1566591973,
     "wof:name":"Zhaksy",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

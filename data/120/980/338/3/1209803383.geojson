@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"76.08889,53.7825,76.12889,53.8225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Qozhanbay"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1209803383,
-    "wof:lastmodified":1537660063,
+    "wof:lastmodified":1566591642,
     "wof:name":"Qozhanbay",
     "wof:parent_id":1108785349,
     "wof:placetype":"locality",

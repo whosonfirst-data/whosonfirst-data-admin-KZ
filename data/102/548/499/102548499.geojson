@@ -12,6 +12,7 @@
     "iso:country":"KZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:aze_x_preferred":[
         "Aqt\u00f6be beyn\u0259lxalq hava liman\u0131"
     ],
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":102548499,
-    "wof:lastmodified":1563248622,
+    "wof:lastmodified":1566591191,
     "wof:name":"Aktyubinsk Airport",
     "wof:parent_id":85672877,
     "wof:placetype":"campus",

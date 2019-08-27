@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"72.71954,50.15854,72.75954,50.19854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Tsentral\u2019noe"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343338759,
-    "wof:lastmodified":1537659545,
+    "wof:lastmodified":1566591268,
     "wof:name":"Tsentral'noe",
     "wof:parent_id":1108785651,
     "wof:placetype":"locality",

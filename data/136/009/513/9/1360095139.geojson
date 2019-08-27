@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"81.43157,50.53685,81.47157,50.57685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Potapenkovskiy"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360095139,
-    "wof:lastmodified":1537659635,
+    "wof:lastmodified":1566591902,
     "wof:name":"Potapenkovskiy",
     "wof:parent_id":1108785305,
     "wof:placetype":"locality",

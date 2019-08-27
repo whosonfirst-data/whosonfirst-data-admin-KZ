@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"84.71245,48.31116,84.75245,48.35116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Teriskey B\u00f6kenbay"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1225818593,
-    "wof:lastmodified":1537660152,
+    "wof:lastmodified":1566592265,
     "wof:name":"Severnyy Bukombay",
     "wof:parent_id":1108785471,
     "wof:placetype":"locality",

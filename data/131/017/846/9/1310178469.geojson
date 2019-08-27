@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"81.79468,50.72461,81.83468,50.76461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lugovoye"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310178469,
-    "wof:lastmodified":1537659987,
+    "wof:lastmodified":1566591856,
     "wof:name":"Lugovoye",
     "wof:parent_id":1108785611,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":51.520238,
     "lbl:longitude":78.442406,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:delete_fla":"2",
     "meso:dissme":"\u041b\u0435\u0431\u044f\u0436\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -36,6 +38,7 @@
     "mps:longitude":78.442406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041b\u044f\u0431\u044f\u0436\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -84,16 +87,13 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u043a\u0443\u043b\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041b\u0435\u0431\u044f\u0436\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:uzb_x_preferred":[
         "Lebyaji"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-04-01",
+    "src:population_date":"1999-04-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"1999-04-01",
     "statoids:capital":"Lebyazh`ye",
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":1108785559,
-    "wof:lastmodified":1563249675,
+    "wof:lastmodified":1566591775,
     "wof:name":"Lebyazhinskiy",
     "wof:parent_id":85672911,
     "wof:placetype":"county",

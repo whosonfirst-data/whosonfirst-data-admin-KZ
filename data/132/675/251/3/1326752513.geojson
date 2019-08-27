@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Atyrau",
     "iso:country":"KZ",
+    "lbl:bbox":"48.88611,46.57861,48.92611,46.61861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zormata"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Zarmuta",
-        "Borsk",
-        "Zormata"
+        "Borsk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1326752513,
-    "wof:lastmodified":1537659346,
+    "wof:lastmodified":1566591097,
     "wof:name":"Zormata",
     "wof:parent_id":1108785299,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"62.18737,53.70521,62.22737,53.74521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tel'manovskiy"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1327213195,
-    "wof:lastmodified":1537659557,
+    "wof:lastmodified":1566591184,
     "wof:name":"Tel'manovka",
     "wof:parent_id":1108785335,
     "wof:placetype":"locality",

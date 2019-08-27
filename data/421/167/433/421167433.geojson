@@ -10,8 +10,12 @@
     "geom:latitude":43.02972,
     "geom:longitude":69.37722,
     "iso:country":"KZ",
+    "lbl:bbox":"69.35722,43.00972,69.39722,43.04972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fas_x_preferred":[
         "\u0686\u0627\u06cc\u0627\u0646"
@@ -22,7 +26,7 @@
     "name:rus_x_preferred":[
         "\u0427\u0430\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shayan"
     ],
     "qs:gn_country":"KZ",
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1524871,
         "gp:id":2264316,
-        "qs:id":133358
+        "qs_pg:id":133358
     },
     "wof:country":"KZ",
     "wof:created":1459008731,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421167433,
-    "wof:lastmodified":1564152164,
+    "wof:lastmodified":1566591983,
     "wof:name":"Chayan",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

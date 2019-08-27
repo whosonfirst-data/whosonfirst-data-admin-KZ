@@ -10,6 +10,9 @@
     "geom:latitude":43.86681,
     "geom:longitude":77.06304,
     "iso:country":"KZ",
+    "lbl:bbox":"77.04304,43.84681,77.08304,43.88681",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -98,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043f\u0447\u0430\u0433\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ili"
     ],
     "name:uzb_x_preferred":[
@@ -232,7 +235,7 @@
     "wof:concordances":{
         "gn:id":1519948,
         "gp:id":2264443,
-        "qs:id":211636,
+        "qs_pg:id":211636,
         "wd:id":"Q1816833",
         "wk:page":"Kapchagay"
     },
@@ -248,7 +251,7 @@
         }
     ],
     "wof:id":421201501,
-    "wof:lastmodified":1563250086,
+    "wof:lastmodified":1566591995,
     "wof:name":"Kapchagay",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

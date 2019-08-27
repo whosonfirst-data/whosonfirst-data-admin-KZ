@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"49.12881,49.87051,49.16881,49.91051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bayturgan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243255209,
-    "wof:lastmodified":1537659441,
+    "wof:lastmodified":1566592065,
     "wof:name":"Bayturgan",
     "wof:parent_id":1108785703,
     "wof:placetype":"locality",

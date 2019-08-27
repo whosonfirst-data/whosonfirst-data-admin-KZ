@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"66.70354,53.02138,66.74354,53.06138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Birlikskoye"
     ],
@@ -38,7 +42,6 @@
         "Birlik",
         "Berlikskoye",
         "Birlikskiy",
-        "Birlikskoye",
         "Sovkhoz Birlikskiy"
     ],
     "src:geom":"geonames",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1209196535,
-    "wof:lastmodified":1537659870,
+    "wof:lastmodified":1566591651,
     "wof:name":"Birlikskoye",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

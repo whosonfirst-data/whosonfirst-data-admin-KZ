@@ -10,6 +10,9 @@
     "geom:latitude":50.34413,
     "geom:longitude":83.51287,
     "iso:country":"KZ",
+    "lbl:bbox":"83.49287,50.32413,83.53287,50.36413",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -113,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0434\u0434\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Len\u012bnogorsk"
     ],
     "name:urd_x_preferred":[
@@ -249,7 +252,7 @@
     "wof:concordances":{
         "gn:id":1521370,
         "gp:id":2259862,
-        "qs:id":274002,
+        "qs_pg:id":274002,
         "wd:id":"Q986100",
         "wk:page":"Ridder, Kazakhstan"
     },
@@ -265,7 +268,7 @@
         }
     ],
     "wof:id":421168885,
-    "wof:lastmodified":1563250023,
+    "wof:lastmodified":1566591976,
     "wof:name":"Leninogor",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

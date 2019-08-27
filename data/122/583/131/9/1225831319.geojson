@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"61.81321,53.68067,61.85321,53.72067",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Terent'yevka"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1225831319,
-    "wof:lastmodified":1537659555,
+    "wof:lastmodified":1566592326,
     "wof:name":"Terent'yevka",
     "wof:parent_id":1108785333,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"67.48176,52.73741,67.52176,52.77741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novosvetlovka"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1276960957,
-    "wof:lastmodified":1537659663,
+    "wof:lastmodified":1566591532,
     "wof:name":"Novosvetlovka",
     "wof:parent_id":1108785579,
     "wof:placetype":"locality",

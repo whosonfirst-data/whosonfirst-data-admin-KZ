@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"64.94222,44.87306,64.98222,44.91306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chagan",
         "Shagan",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193116061,
-    "wof:lastmodified":1537659602,
+    "wof:lastmodified":1566591693,
     "wof:name":"Shaghan",
     "wof:parent_id":1108785671,
     "wof:placetype":"locality",

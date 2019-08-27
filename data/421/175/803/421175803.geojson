@@ -10,6 +10,9 @@
     "geom:latitude":48.68659,
     "geom:longitude":71.64469,
     "iso:country":"KZ",
+    "lbl:bbox":"71.62469,48.66659,71.66469,48.70659",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u0430\u0441\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Atasuskiy"
     ],
     "name:vie_x_preferred":[
@@ -181,7 +184,7 @@
     "wof:concordances":{
         "gn:id":1526041,
         "gp:id":2264211,
-        "qs:id":1031844,
+        "qs_pg:id":1031844,
         "wd:id":"Q753744"
     },
     "wof:country":"KZ",
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":421175803,
-    "wof:lastmodified":1563250068,
+    "wof:lastmodified":1566591989,
     "wof:name":"Atasu",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

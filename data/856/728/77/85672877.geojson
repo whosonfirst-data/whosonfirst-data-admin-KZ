@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":48.298652,
     "lbl:longitude":58.073005,
+    "lbl:min_zoom":8.0,
     "meso:name_alt2":"Aktyubinskaya",
     "meso:name_loc":"\u0410\u043a\u0442\u044e\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "mps:latitude":48.517665,
@@ -244,9 +245,6 @@
     ],
     "name:und_x_variant":[
         "Aktyubinskaya",
-        "\u0410\u043a\u0442\u044e\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
         "Aktyubinsk Oblast"
     ],
     "name:urd_x_preferred":[
@@ -339,9 +337,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-02-25",
+    "src:population_date":"2009-02-25",
     "statoids:area_km":"300,600",
     "statoids:area_mi":"116,100",
     "statoids:as_of_date":"2009-02-25",
@@ -365,7 +363,7 @@
         "gp:id":2345980,
         "hasc:id":"KZ.AT",
         "iso:id":"KZ-AKT",
-        "qs:id":1222522,
+        "qs_pg:id":1222522,
         "wd:id":"Q485437",
         "wk:page":"Aktobe Region"
     },
@@ -387,11 +385,10 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1565726083,
+    "wof:lastmodified":1566591321,
     "wof:name":"Aqt\u00f6be",
     "wof:parent_id":85632307,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":757768,
     "wof:population_rank":11,

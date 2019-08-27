@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"65.96067,54.49983,66.00067,54.53983",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Kamyshlovka"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260059579,
-    "wof:lastmodified":1537659798,
+    "wof:lastmodified":1566591736,
     "wof:name":"Kamyshlovka",
     "wof:parent_id":1108785687,
     "wof:placetype":"locality",

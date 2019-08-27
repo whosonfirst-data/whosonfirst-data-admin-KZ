@@ -10,6 +10,9 @@
     "geom:latitude":51.95495,
     "geom:longitude":66.40841,
     "iso:country":"KZ",
+    "lbl:bbox":"66.38841,51.93495,66.42841,51.97495",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -220,7 +223,7 @@
     "wof:concordances":{
         "gn:id":1524296,
         "gp:id":2257426,
-        "qs:id":274007,
+        "qs_pg:id":274007,
         "wd:id":"Q1238323",
         "wk:page":"Esil"
     },
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":421168893,
-    "wof:lastmodified":1563250017,
+    "wof:lastmodified":1566591974,
     "wof:name":"Esil",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

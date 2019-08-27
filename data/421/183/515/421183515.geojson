@@ -10,8 +10,12 @@
     "geom:latitude":52.83554,
     "geom:longitude":62.52078,
     "iso:country":"KZ",
+    "lbl:bbox":"62.50078,52.81554,62.54078,52.85554",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Taranovskoe"
@@ -25,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0438\u043a\u0442\u043e\u0440\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bolchaia Viktorovka"
     ],
     "qs:gn_country":"KZ",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":1518462,
         "gp:id":2264916,
-        "qs:id":1031653
+        "qs_pg:id":1031653
     },
     "wof:country":"KZ",
     "wof:created":1459009372,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":421183515,
-    "wof:lastmodified":1505340686,
+    "wof:lastmodified":1566591996,
     "wof:name":"Taranovskoye",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

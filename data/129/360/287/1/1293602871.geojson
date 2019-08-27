@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"79.48222,45.36861,79.52222,45.40861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dzhansugirov"
     ],
@@ -69,8 +73,7 @@
         "Dzhansugurov",
         "Abakumovskaya",
         "Dzhangusurov",
-        "Abakumovka",
-        "Dzhansugirov"
+        "Abakumovka"
     ],
     "name:uzb_x_preferred":[
         "Jansugurov"
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1293602871,
-    "wof:lastmodified":1564151180,
+    "wof:lastmodified":1566591397,
     "wof:name":"Dzhansugirov",
     "wof:parent_id":1108785407,
     "wof:placetype":"locality",

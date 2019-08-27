@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.44841,40.71342,68.48841,40.75342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Imeni Oktyabr\u2019skoy Revolyutsii"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293772755,
-    "wof:lastmodified":1537660080,
+    "wof:lastmodified":1566591360,
     "wof:name":"Imeni Oktyabr'skoy Revolyutsii",
     "wof:parent_id":1108785361,
     "wof:placetype":"locality",

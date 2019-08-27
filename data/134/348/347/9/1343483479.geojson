@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Atyrau",
     "iso:country":"KZ",
+    "lbl:bbox":"51.55667,47.69861,51.59667,47.73861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u0440\u044b\u0442\u0430\u0433\u0430\u0439"
     ],
@@ -45,8 +49,7 @@
         "\u0421\u0430\u0440\u0438\u0442\u043e\u0433\u0430\u0439"
     ],
     "name:und_x_variant":[
-        "Sarytogay",
-        "Sarytoghay"
+        "Sarytogay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1343483479,
-    "wof:lastmodified":1564150884,
+    "wof:lastmodified":1566591235,
     "wof:name":"Sarytoghay",
     "wof:parent_id":1108785457,
     "wof:placetype":"locality",

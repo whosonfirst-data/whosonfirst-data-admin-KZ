@@ -11,8 +11,11 @@
     "geom:longitude":72.72066,
     "gn:country":"KZ",
     "gn:fcode":"PPL",
-    "gn:pop":13128,
+    "gn:population":13128,
     "iso:country":"KZ",
+    "lbl:bbox":"72.70066,42.8901,72.74066,42.9301",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -34,7 +37,7 @@
     "name:swe_x_preferred":[
         "Kulan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lugovaya"
     ],
     "ne:ADM0CAP":0.0,
@@ -144,7 +147,7 @@
     "wof:concordances":{
         "gn:id":1521292,
         "gp:id":2259930,
-        "qs:id":133304,
+        "qs_pg:id":133304,
         "wk:page":"Kulan"
     },
     "wof:country":"KZ",
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":890437807,
-    "wof:lastmodified":1564152176,
+    "wof:lastmodified":1566592000,
     "wof:name":"Kulan",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

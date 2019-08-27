@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.26333,43.66333,68.30333,43.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Solyk-Bulak",
         "Solek-Bulak",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343257949,
-    "wof:lastmodified":1537659806,
+    "wof:lastmodified":1566591250,
     "wof:name":"Isa-Kulokanov",
     "wof:parent_id":1108785667,
     "wof:placetype":"locality",

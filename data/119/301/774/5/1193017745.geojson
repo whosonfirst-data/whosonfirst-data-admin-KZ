@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"72.77648,50.9902,72.81648,51.0302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Seyten"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1193017745,
-    "wof:lastmodified":1537659602,
+    "wof:lastmodified":1566591671,
     "wof:name":"Seyten",
     "wof:parent_id":1108785443,
     "wof:placetype":"locality",

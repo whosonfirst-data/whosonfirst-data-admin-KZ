@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"71.07625,42.58871,71.11625,42.62871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Oktyabr\u2019skoe"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310381729,
-    "wof:lastmodified":1537660074,
+    "wof:lastmodified":1566591824,
     "wof:name":"Oktyabr'skoye",
     "wof:parent_id":1108785737,
     "wof:placetype":"locality",

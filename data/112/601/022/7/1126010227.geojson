@@ -9,17 +9,20 @@
     "geom:bbox":"70.00194,44.83056,70.00194,44.83056",
     "geom:latitude":44.83056,
     "geom:longitude":70.00194,
-    "gn:gn_country":"KZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2405,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
     "gn:population":2405,
     "iso:country":"KZ",
+    "lbl:bbox":"69.98194,44.81056,70.02194,44.85056",
     "lbl:latitude":44.83056,
     "lbl:longitude":70.00194,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiganak"
     ],
     "qs_pg:aaroncc":"KZ",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":556803,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1126010227,
-    "wof:lastmodified":1509406628,
+    "wof:lastmodified":1566592005,
     "wof:name":"Shyghanaq",
     "wof:parent_id":1108785511,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":103598,
     "gn:timezone":"Asia/Aqtau",
     "iso:country":"KZ",
+    "lbl:bbox":"52.84192,43.32116,52.88192,43.36116",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0646\u0627\u0648\u0632\u0646"
     ],
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":1343847853,
-    "wof:lastmodified":1564150886,
+    "wof:lastmodified":1566591235,
     "wof:name":"Zhanaozen",
     "wof:parent_id":1108785363,
     "wof:placetype":"locality",

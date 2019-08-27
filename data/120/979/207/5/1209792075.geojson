@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"64.83391,52.52887,64.87391,52.56887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novopavlovka"
     ],
@@ -32,8 +36,7 @@
         "\u041f\u0430\u0432\u043b\u043e\u0432\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Klyuchevoy",
-        "Novopavlovka"
+        "Klyuchevoy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1209792075,
-    "wof:lastmodified":1537659666,
+    "wof:lastmodified":1566591586,
     "wof:name":"Novopavlovka",
     "wof:parent_id":1108785659,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"49.48653,49.63743,49.52653,49.67743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karauzen'"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344148729,
-    "wof:lastmodified":1537659415,
+    "wof:lastmodified":1566591215,
     "wof:name":"Karauzen'",
     "wof:parent_id":1108785703,
     "wof:placetype":"locality",

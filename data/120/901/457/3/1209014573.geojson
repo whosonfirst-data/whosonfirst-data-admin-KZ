@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"47.19667,48.28,47.23667,48.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632307
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209014573,
-    "wof:lastmodified":1536300337,
+    "wof:lastmodified":1566591560,
     "wof:name":"Sarsymbay",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

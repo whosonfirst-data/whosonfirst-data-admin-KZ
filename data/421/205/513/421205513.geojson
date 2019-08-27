@@ -10,8 +10,12 @@
     "geom:latitude":42.86772,
     "geom:longitude":73.17623,
     "iso:country":"KZ",
+    "lbl:bbox":"73.15623,42.84772,73.19623,42.88772",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Merke"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1520969,
         "gp:id":2264687,
-        "qs:id":263487,
+        "qs_pg:id":263487,
         "wd:id":"Q1921811",
         "wk:page":"Merki"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421205513,
-    "wof:lastmodified":1563250060,
+    "wof:lastmodified":1566591987,
     "wof:name":"Merke",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

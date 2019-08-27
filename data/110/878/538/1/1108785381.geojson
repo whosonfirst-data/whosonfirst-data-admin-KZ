@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":43.658149,
     "lbl:longitude":51.305549,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:delete_fla":"0",
     "meso:dissme":"\u0410\u043a\u0442\u0430\u0443 \u0433.\u0430.\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -36,6 +38,7 @@
     "mps:longitude":51.305549,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Aqtau"
     ],
@@ -43,7 +46,7 @@
         "\u0410\u043a\u0442\u0430\u0443 \u0433.\u0430."
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632307,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108785381,
-    "wof:lastmodified":1555220448,
+    "wof:lastmodified":1566591781,
     "wof:name":"Aqtau",
     "wof:parent_id":85672923,
     "wof:placetype":"county",

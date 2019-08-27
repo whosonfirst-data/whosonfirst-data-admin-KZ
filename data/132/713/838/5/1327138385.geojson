@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"77.24767,43.38006,77.28767,43.42006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Avat"
     ],
@@ -44,8 +48,7 @@
         "\u0410\u0432\u0430\u0442"
     ],
     "name:und_x_variant":[
-        "Novyy Mir",
-        "Avat"
+        "Novyy Mir"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1327138385,
-    "wof:lastmodified":1564150654,
+    "wof:lastmodified":1566591124,
     "wof:name":"Avat",
     "wof:parent_id":1108785427,
     "wof:placetype":"locality",

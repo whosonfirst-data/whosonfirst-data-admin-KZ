@@ -11,10 +11,14 @@
     "geom:longitude":52.10861,
     "gn:country":"KZ",
     "gn:fcode":"PPL",
-    "gn:pop":4085,
+    "gn:population":4085,
     "iso:country":"KZ",
+    "lbl:bbox":"52.08861,43.47111,52.12861,43.51111",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041c\u0443\u043d\u0430\u0439\u0448\u044b"
     ],
@@ -48,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u043d\u0430\u0439\u0448\u0438"
     ],
-    "name:unk_x_variant":[
-        "Munayshi"
-    ],
     "qs:name":"Munayshy",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -65,7 +66,7 @@
     "wof:concordances":{
         "gn:id":608778,
         "gp:id":12514531,
-        "qs:id":275118,
+        "qs_pg:id":275118,
         "wd:id":"Q12555151"
     },
     "wof:country":"KZ",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":890431269,
-    "wof:lastmodified":1563250107,
+    "wof:lastmodified":1566592001,
     "wof:name":"Munayshy",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",

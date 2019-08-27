@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"67.10809,51.37496,67.14809,51.41496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u042f\u0441\u0456\u043b\u044c"
     ],
@@ -75,8 +79,7 @@
     ],
     "name:und_x_variant":[
         "Ishimka",
-        "Ishimskoye",
-        "Esil"
+        "Ishimskoye"
     ],
     "name:uzb_x_preferred":[
         "Yesil"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1276992631,
-    "wof:lastmodified":1564151427,
+    "wof:lastmodified":1566591518,
     "wof:name":"Esil",
     "wof:parent_id":1108785623,
     "wof:placetype":"locality",

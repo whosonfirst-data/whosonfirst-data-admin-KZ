@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"65.99083,44.64972,66.03083,44.68972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259667353,
-    "wof:lastmodified":1537087069,
+    "wof:lastmodified":1566592179,
     "wof:name":"Kochertke",
     "wof:parent_id":1108785675,
     "wof:placetype":"locality",

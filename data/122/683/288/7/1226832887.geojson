@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.24667,42.63,68.28667,42.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Aksu"
     ],
@@ -92,8 +96,7 @@
         "\u0410\u043a\u0441\u0443"
     ],
     "name:und_x_variant":[
-        "Ak-Su-Kenez",
-        "Aksu"
+        "Ak-Su-Kenez"
     ],
     "name:vie_x_preferred":[
         "Aksu"
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1226832887,
-    "wof:lastmodified":1564152717,
+    "wof:lastmodified":1566592294,
     "wof:name":"Aksu",
     "wof:parent_id":1108785593,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"73.13303,49.91787,73.17303,49.95787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0426\u0435\u043c\u0437\u0430\u0432\u043e\u0434"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226322881,
-    "wof:lastmodified":1564152650,
+    "wof:lastmodified":1566592259,
     "wof:name":"Tsemzavod",
     "wof:parent_id":1108785651,
     "wof:placetype":"locality",

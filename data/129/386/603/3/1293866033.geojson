@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"67.56261,52.61482,67.60261,52.65482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taqtabrod"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1293866033,
-    "wof:lastmodified":1537659567,
+    "wof:lastmodified":1566591436,
     "wof:name":"Takhtabrod",
     "wof:parent_id":1108785571,
     "wof:placetype":"locality",

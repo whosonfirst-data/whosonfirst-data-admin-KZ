@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"77.94396,44.23853,77.98396,44.27853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Ayg\u00fcl"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293306755,
-    "wof:lastmodified":1537660092,
+    "wof:lastmodified":1566591342,
     "wof:name":"Aygul",
     "wof:parent_id":1108785423,
     "wof:placetype":"locality",

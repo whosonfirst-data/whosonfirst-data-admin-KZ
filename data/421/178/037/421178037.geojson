@@ -10,6 +10,9 @@
     "geom:latitude":53.63589,
     "geom:longitude":72.34079,
     "iso:country":"KZ",
+    "lbl:bbox":"72.32079,53.61589,72.36079,53.65589",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0448\u043a\u0435\u043d\u0435\u043a\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qyzylt\u016b"
     ],
     "name:uzb_x_preferred":[
@@ -173,7 +176,7 @@
     "wof:concordances":{
         "gn:id":1521401,
         "gp:id":2264638,
-        "qs:id":276657,
+        "qs_pg:id":276657,
         "wd:id":"Q30505",
         "wk:page":"Kishkenekol"
     },
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":421178037,
-    "wof:lastmodified":1563250092,
+    "wof:lastmodified":1566591997,
     "wof:name":"Kishkenekol'",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

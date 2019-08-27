@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"66.39667,44.34667,66.43667,44.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kana-Talap",
         "Kanya-Talop"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260256361,
-    "wof:lastmodified":1537659796,
+    "wof:lastmodified":1566591703,
     "wof:name":"Kanya-Talop",
     "wof:parent_id":1108785675,
     "wof:placetype":"locality",

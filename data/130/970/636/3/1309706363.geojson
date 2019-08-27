@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.75389,42.50472,69.79389,42.54472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qarabulaq"
     ],
@@ -62,10 +66,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0430\u043a"
     ],
-    "name:und_x_variant":[
-        "Qarabulaq",
-        "Karabulak"
-    ],
     "name:uzb_x_preferred":[
         "Qorabuloq"
     ],
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1309706363,
-    "wof:lastmodified":1564152098,
+    "wof:lastmodified":1566591944,
     "wof:name":"Karabulak",
     "wof:parent_id":1108785595,
     "wof:placetype":"locality",

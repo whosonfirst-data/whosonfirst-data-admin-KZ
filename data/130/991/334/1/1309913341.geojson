@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.52015,52.13413,68.56015,52.17413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Spasskoye"
     ],
@@ -38,8 +42,7 @@
         "\u0421\u043f\u0430\u0441\u0441\u043a\u043e\u0435"
     ],
     "name:und_x_variant":[
-        "Spasskiy",
-        "Spasskoye"
+        "Spasskiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1309913341,
-    "wof:lastmodified":1537659578,
+    "wof:lastmodified":1566591935,
     "wof:name":"Spasskoye",
     "wof:parent_id":1108785397,
     "wof:placetype":"locality",

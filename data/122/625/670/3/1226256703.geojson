@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"79.15372,42.86624,79.19372,42.90624",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Akbulak"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1226256703,
-    "wof:lastmodified":1564152681,
+    "wof:lastmodified":1566592276,
     "wof:name":"Akbulak",
     "wof:parent_id":1108785309,
     "wof:placetype":"locality",

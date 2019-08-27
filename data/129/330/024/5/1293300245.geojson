@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.79482,52.03588,70.83482,52.07588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Podoz\u00ebrnyy"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293300245,
-    "wof:lastmodified":1537660125,
+    "wof:lastmodified":1566591341,
     "wof:name":"Podozernyy",
     "wof:parent_id":1108785617,
     "wof:placetype":"locality",

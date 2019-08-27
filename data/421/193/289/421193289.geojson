@@ -10,8 +10,12 @@
     "geom:latitude":48.55,
     "geom:longitude":51.78333,
     "iso:country":"KZ",
+    "lbl:bbox":"51.76333,48.53,51.80333,48.57",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0406\u043d\u0434\u044d\u0440\u0431\u043e\u0440\u0441\u043a\u0456"
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0435\u0441\u043a\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Inderborstroy"
     ],
     "name:uzb_x_preferred":[
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":609798,
         "gp:id":2264411,
-        "qs:id":1308202,
+        "qs_pg:id":1308202,
         "wd:id":"Q3259794"
     },
     "wof:country":"KZ",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421193289,
-    "wof:lastmodified":1563250030,
+    "wof:lastmodified":1566591978,
     "wof:name":"Inderborskiy",
     "wof:parent_id":85672889,
     "wof:placetype":"locality",

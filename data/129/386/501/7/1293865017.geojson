@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"74.42506,53.03917,74.46506,53.07917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tokhta"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293865017,
-    "wof:lastmodified":1537659979,
+    "wof:lastmodified":1566591437,
     "wof:name":"Tokhta",
     "wof:parent_id":1108785679,
     "wof:placetype":"locality",

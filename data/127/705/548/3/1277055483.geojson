@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"63.81706,53.71206,63.85706,53.75206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "T\u00f6legen"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1277055483,
-    "wof:lastmodified":1537660170,
+    "wof:lastmodified":1566591488,
     "wof:name":"Tulegen",
     "wof:parent_id":1108785665,
     "wof:placetype":"locality",

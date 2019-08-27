@@ -10,8 +10,12 @@
     "geom:latitude":42.4219,
     "geom:longitude":69.82795,
     "iso:country":"KZ",
+    "lbl:bbox":"69.80795,42.4019,69.84795,42.4419",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:kaz_x_preferred":[
         "Aqs\u016b"
@@ -25,7 +29,7 @@
     "name:rus_x_variant":[
         "\u0411\u0435\u043b\u044b\u0435 \u0412\u043e\u0434\u044b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belye Vody"
     ],
     "qs:gn_country":"KZ",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":1525462,
         "gp:id":2264266,
-        "qs:id":184941
+        "qs_pg:id":184941
     },
     "wof:country":"KZ",
     "wof:created":1459009958,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":421198729,
-    "wof:lastmodified":1505340757,
+    "wof:lastmodified":1566591992,
     "wof:name":"Belyye Vody",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

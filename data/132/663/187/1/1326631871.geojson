@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.94673,52.6843,70.98673,52.7243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vostochnyy"
     ],
@@ -41,7 +45,6 @@
         "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439"
     ],
     "name:und_x_variant":[
-        "Vostochnyy",
         "Birsuat"
     ],
     "src:geom":"geonames",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1326631871,
-    "wof:lastmodified":1537659516,
+    "wof:lastmodified":1566591169,
     "wof:name":"Birsuat",
     "wof:parent_id":1108785575,
     "wof:placetype":"locality",

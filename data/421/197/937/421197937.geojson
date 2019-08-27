@@ -10,6 +10,9 @@
     "geom:latitude":52.45107,
     "geom:longitude":64.61977,
     "iso:country":"KZ",
+    "lbl:bbox":"64.59977,52.43107,64.63977,52.47107",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -22,9 +25,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0448\u043c\u0443\u0440\u0443\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Kushmurun"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -147,7 +147,7 @@
     "wof:concordances":{
         "gn:id":1519924,
         "gp:id":2261249,
-        "qs:id":273997
+        "qs_pg:id":273997
     },
     "wof:country":"KZ",
     "wof:created":1459009930,
@@ -161,7 +161,7 @@
         }
     ],
     "wof:id":421197937,
-    "wof:lastmodified":1505340753,
+    "wof:lastmodified":1566591993,
     "wof:name":"Qusmuryn",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

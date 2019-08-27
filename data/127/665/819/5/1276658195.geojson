@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aqtobe",
     "iso:country":"KZ",
+    "lbl:bbox":"59.44023,50.54425,59.48023,50.58425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aralcha"
     ],
@@ -32,8 +36,7 @@
         "\u0410\u0440\u0430\u043b\u0447\u0430"
     ],
     "name:und_x_variant":[
-        "Zara",
-        "Aralcha"
+        "Zara"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1276658195,
-    "wof:lastmodified":1537659448,
+    "wof:lastmodified":1566591533,
     "wof:name":"Aralcha",
     "wof:parent_id":1108785523,
     "wof:placetype":"locality",

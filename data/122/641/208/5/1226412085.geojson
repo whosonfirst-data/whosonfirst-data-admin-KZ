@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"66.90605,53.82509,66.94605,53.86509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0414\u0440\u0443\u0436\u0431\u0430"
     ],
@@ -77,9 +81,7 @@
         "\u0414\u0440\u0443\u0436\u0431\u0430"
     ],
     "name:und_x_variant":[
-        "Internatsional\u2019nyy",
-        "Dr\u016bzhba",
-        "Druzhba"
+        "Internatsional\u2019nyy"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u9b6f\u65e5\u5df4"
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":1226412085,
-    "wof:lastmodified":1564152713,
+    "wof:lastmodified":1566592292,
     "wof:name":"Druzhba",
     "wof:parent_id":1108785689,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.69804,41.7455,69.73804,41.7855",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kalak"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326825317,
-    "wof:lastmodified":1564150708,
+    "wof:lastmodified":1566591152,
     "wof:name":"Kalak",
     "wof:parent_id":1108785585,
     "wof:placetype":"locality",

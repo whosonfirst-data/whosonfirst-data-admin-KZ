@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"51.96333,49.14667,52.00333,49.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kydyrbay",
         "Seksen"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259501683,
-    "wof:lastmodified":1537659370,
+    "wof:lastmodified":1566592169,
     "wof:name":"Seksen",
     "wof:parent_id":1108785709,
     "wof:placetype":"locality",

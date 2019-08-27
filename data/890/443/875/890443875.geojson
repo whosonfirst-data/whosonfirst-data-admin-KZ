@@ -11,10 +11,14 @@
     "geom:longitude":77.47177,
     "gn:country":"KZ",
     "gn:fcode":"PPL",
-    "gn:pop":3610,
+    "gn:population":3610,
     "iso:country":"KZ",
+    "lbl:bbox":"77.45177,51.50844,77.49177,51.54844",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043a\u0442\u0430\u0431\u044d"
     ],
@@ -36,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043a\u0442\u043e\u0431\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Byelogor\u2019ye"
     ],
     "name:uzb_x_preferred":[
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":1525504,
         "gp:id":2259843,
-        "qs:id":1031829,
+        "qs_pg:id":1031829,
         "wd:id":"Q4227473"
     },
     "wof:country":"KZ",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890443875,
-    "wof:lastmodified":1563250111,
+    "wof:lastmodified":1566592002,
     "wof:name":"K\u00f6kt\u00f6be",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

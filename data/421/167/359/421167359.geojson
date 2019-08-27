@@ -10,6 +10,9 @@
     "geom:latitude":47.46783,
     "geom:longitude":84.88111,
     "iso:country":"KZ",
+    "lbl:bbox":"84.86111,47.44783,84.90111,47.48783",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0439\u0441\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zaisan"
     ],
     "name:zho_x_preferred":[
@@ -204,7 +207,7 @@
     "wof:concordances":{
         "gn:id":1517060,
         "gp:id":2265046,
-        "qs:id":133151,
+        "qs_pg:id":133151,
         "wd:id":"Q1881641",
         "wk:page":"Zaysan (town)"
     },
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":421167359,
-    "wof:lastmodified":1563250043,
+    "wof:lastmodified":1566591982,
     "wof:name":"Zaysan",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

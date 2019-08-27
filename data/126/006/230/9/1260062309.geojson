@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.52351,54.95292,70.56351,54.99292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Proletarka"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Znamenka",
-        "Proletarskoye",
-        "Proletarka"
+        "Proletarskoye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1260062309,
-    "wof:lastmodified":1537659629,
+    "wof:lastmodified":1566591718,
     "wof:name":"Proletarka",
     "wof:parent_id":1108785353,
     "wof:placetype":"locality",

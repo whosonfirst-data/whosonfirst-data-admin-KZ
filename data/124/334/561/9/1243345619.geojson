@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"67.98328,54.44088,68.02328,54.48088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novoye"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243345619,
-    "wof:lastmodified":1537659949,
+    "wof:lastmodified":1566592075,
     "wof:name":"Novoye",
     "wof:parent_id":1108785359,
     "wof:placetype":"locality",

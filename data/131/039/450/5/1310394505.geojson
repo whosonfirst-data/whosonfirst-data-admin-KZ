@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.47163,43.35352,68.51163,43.39352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Qoshqorghan"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310394505,
-    "wof:lastmodified":1537659747,
+    "wof:lastmodified":1566591842,
     "wof:name":"Qoshqorghan",
     "wof:parent_id":1108785667,
     "wof:placetype":"locality",

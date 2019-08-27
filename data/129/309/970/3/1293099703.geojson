@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aqtobe",
     "iso:country":"KZ",
+    "lbl:bbox":"61.41333,48.36333,61.45333,48.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Aral"
     ],
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1293099703,
-    "wof:lastmodified":1564151053,
+    "wof:lastmodified":1566591338,
     "wof:name":"Aral",
     "wof:parent_id":1108785715,
     "wof:placetype":"locality",

@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"78.33,51.53,78.37,51.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Arik"
     ],
     "name:und_x_variant":[
-        "Aryn",
-        "Arik"
+        "Aryn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1327048277,
-    "wof:lastmodified":1564150701,
+    "wof:lastmodified":1566591148,
     "wof:name":"Arik",
     "wof:parent_id":1108785559,
     "wof:placetype":"locality",

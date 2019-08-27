@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"52.77025,50.28652,52.81025,50.32652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mukay"
     ],
@@ -32,8 +36,7 @@
         "\u041c\u0443\u043a\u0430\u0439"
     ],
     "name:und_x_variant":[
-        "Internatsional",
-        "Mukay"
+        "Internatsional"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1293798499,
-    "wof:lastmodified":1537659388,
+    "wof:lastmodified":1566591359,
     "wof:name":"Mukay",
     "wof:parent_id":1108785495,
     "wof:placetype":"locality",

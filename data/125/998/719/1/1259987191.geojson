@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"71.17166,52.26658,71.21166,52.30658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Prioz\u00ebrnoye"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u043e\u0437\u0435\u0440\u043d\u043e\u0435"
-    ],
-    "name:und_x_variant":[
-        "Prioz\u00ebrnoye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1259987191,
-    "wof:lastmodified":1537659632,
+    "wof:lastmodified":1566592131,
     "wof:name":"Priozernoye",
     "wof:parent_id":1108785617,
     "wof:placetype":"locality",

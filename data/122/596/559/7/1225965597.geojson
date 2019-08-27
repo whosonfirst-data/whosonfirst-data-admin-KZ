@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"49.03528,50.19111,49.07528,50.23111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yalovo"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Tolstov",
-        "Yalov",
-        "Yalovo"
+        "Yalov"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1225965597,
-    "wof:lastmodified":1537659349,
+    "wof:lastmodified":1566592267,
     "wof:name":"Yalovo",
     "wof:parent_id":1108785703,
     "wof:placetype":"locality",

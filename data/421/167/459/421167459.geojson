@@ -10,6 +10,9 @@
     "geom:latitude":51.80652,
     "geom:longitude":68.35996,
     "iso:country":"KZ",
+    "lbl:bbox":"68.33996,51.78652,68.37996,51.82652",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u0431\u0430\u0441\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Atbasa"
     ],
     "name:uzb_x_preferred":[
@@ -220,7 +223,7 @@
     "wof:concordances":{
         "gn:id":1526038,
         "gp:id":2264212,
-        "qs:id":133404,
+        "qs_pg:id":133404,
         "wd:id":"Q612144",
         "wk:page":"Atbasar"
     },
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":421167459,
-    "wof:lastmodified":1563250050,
+    "wof:lastmodified":1566591983,
     "wof:name":"Atbasar",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

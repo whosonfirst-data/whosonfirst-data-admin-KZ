@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":51.620284,
     "lbl:longitude":71.157225,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u0410\u043a\u043c\u043e\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:delete_fla":"2",
     "meso:dissme":"\u0428\u043e\u0440\u0442\u0430\u043d\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u0410\u043a\u043c\u043e\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -36,6 +38,7 @@
     "mps:longitude":71.157225,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0428\u0430\u0440\u0442\u0430\u043d\u0434\u0437\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -84,16 +87,13 @@
     "name:ukr_x_preferred":[
         "\u0428\u043e\u0440\u0442\u0430\u043d\u0434\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0428\u043e\u0440\u0442\u0430\u043d\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:uzb_x_preferred":[
         "Sho\u02bbrtandi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-04-01",
+    "src:population_date":"1999-04-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"1999-04-01",
     "statoids:capital":"Shortandy",
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":1108785437,
-    "wof:lastmodified":1563249658,
+    "wof:lastmodified":1566591766,
     "wof:name":"Shortandinskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

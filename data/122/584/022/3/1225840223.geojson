@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.1727,42.55957,69.2127,42.59957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0411\u0435\u0439\u043d\u0435\u0442\u043a\u0435\u0440"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225840223,
-    "wof:lastmodified":1537659872,
+    "wof:lastmodified":1566592323,
     "wof:name":"Beynetker",
     "wof:parent_id":1108785589,
     "wof:placetype":"locality",

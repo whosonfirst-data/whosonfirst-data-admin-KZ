@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"52.07724,50.2536,52.11724,50.2936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293210525,
-    "wof:lastmodified":1536689339,
+    "wof:lastmodified":1566591431,
     "wof:name":"Karakuduk",
     "wof:parent_id":1108785495,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"50.11333,49.58,50.15333,49.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mulda-Shegen"
     ],
@@ -33,8 +37,7 @@
         "\u041c\u043e\u043b\u0434\u0430\u0448\u0435\u0433\u0435\u043d"
     ],
     "name:und_x_variant":[
-        "Mulda-Shigen",
-        "Mulda-Shegen"
+        "Mulda-Shigen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1276128715,
-    "wof:lastmodified":1537659388,
+    "wof:lastmodified":1566591506,
     "wof:name":"Mulda-Shegen",
     "wof:parent_id":1108785647,
     "wof:placetype":"locality",
