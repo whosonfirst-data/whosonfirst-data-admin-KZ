@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"67.76111,43.88278,67.80111,43.92278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260253537,
-    "wof:lastmodified":1536752453,
+    "wof:lastmodified":1566591701,
     "wof:name":"Imeni Kosiyenko",
     "wof:parent_id":1108785669,
     "wof:placetype":"locality",

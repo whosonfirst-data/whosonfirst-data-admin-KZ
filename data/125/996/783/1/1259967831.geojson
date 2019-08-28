@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"78.52403,52.05965,78.56403,52.09965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Arbigen'"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1259967831,
-    "wof:lastmodified":1537659905,
+    "wof:lastmodified":1566592134,
     "wof:name":"Arbagen",
     "wof:parent_id":1108785615,
     "wof:placetype":"locality",

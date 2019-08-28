@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.26505,42.53312,70.30505,42.57312",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Azatlyq"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242773087,
-    "wof:lastmodified":1537660065,
+    "wof:lastmodified":1566592085,
     "wof:name":"Azatlyq",
     "wof:parent_id":1108785605,
     "wof:placetype":"locality",

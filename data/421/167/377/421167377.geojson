@@ -10,8 +10,12 @@
     "geom:latitude":54.5148,
     "geom:longitude":69.42732,
     "iso:country":"KZ",
+    "lbl:bbox":"69.40732,54.4948,69.44732,54.5348",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Sm\u012brnovo"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043c\u0438\u0440\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sm\u012birnovo"
     ],
     "name:uzb_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":1518936,
         "gp:id":2262069,
-        "qs:id":133201,
+        "qs_pg:id":133201,
         "wd:id":"Q30508"
     },
     "wof:country":"KZ",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421167377,
-    "wof:lastmodified":1563250040,
+    "wof:lastmodified":1566591981,
     "wof:name":"Smirnovo",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

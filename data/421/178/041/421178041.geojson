@@ -10,6 +10,9 @@
     "geom:latitude":51.09922,
     "geom:longitude":66.31557,
     "iso:country":"KZ",
+    "lbl:bbox":"66.29557,51.07922,66.33557,51.11922",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0440\u0436\u0430\u0432\u0456\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Derzhavinskiy"
     ],
     "name:uzb_x_preferred":[
@@ -187,7 +190,7 @@
     "wof:concordances":{
         "gn:id":1524606,
         "gp:id":2264337,
-        "qs:id":276674,
+        "qs_pg:id":276674,
         "wd:id":"Q2374413",
         "wk:page":"Derzhavinsk"
     },
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":421178041,
-    "wof:lastmodified":1563250092,
+    "wof:lastmodified":1566591997,
     "wof:name":"Derzhavinsk",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":44.377467,
     "lbl:longitude":72.211207,
+    "lbl:min_zoom":8.0,
     "meso:name_alt2":"Jambylslkaya",
     "meso:name_loc":"\u0416\u0430\u043c\u0431\u044b\u043b\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "mps:latitude":44.355313,
@@ -212,9 +213,6 @@
     ],
     "name:und_x_variant":[
         "Jambylslkaya",
-        "\u0416\u0430\u043c\u0431\u044b\u043b\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
         "Dzhambul Oblast"
     ],
     "name:urd_x_preferred":[
@@ -304,9 +302,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-02-25",
+    "src:population_date":"2009-02-25",
     "statoids:area_km":"144,300",
     "statoids:area_mi":"55,700",
     "statoids:as_of_date":"2009-02-25",
@@ -330,7 +328,7 @@
         "gp:id":2345983,
         "hasc:id":"KZ.ZM",
         "iso:id":"KZ-ZHA",
-        "qs:id":318524,
+        "qs_pg:id":318524,
         "wd:id":"Q486657",
         "wk:page":"Jambyl Region"
     },
@@ -352,11 +350,10 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1565726086,
+    "wof:lastmodified":1566591328,
     "wof:name":"Zhambyl",
     "wof:parent_id":85632307,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1022129,
     "wof:population_rank":12,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"71.93,51.71333,71.97,51.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Poselok Ol\u2019dzhibayevskiy",
         "Ol\u2019zhabay"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242892177,
-    "wof:lastmodified":1537659654,
+    "wof:lastmodified":1566592022,
     "wof:name":"Ol'zhabay",
     "wof:parent_id":1108785437,
     "wof:placetype":"locality",

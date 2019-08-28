@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"71.62182,43.04043,71.66182,43.08043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "K\u00f6kbasta\u016b"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310176847,
-    "wof:lastmodified":1537659762,
+    "wof:lastmodified":1566591856,
     "wof:name":"Kokbastau",
     "wof:parent_id":1108785487,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.73758,42.2825,69.77758,42.3225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u06cc\u0631\u0627\u0645"
     ],
@@ -73,10 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0439\u0440\u0430\u043c"
     ],
-    "name:und_x_variant":[
-        "Sairam",
-        "Sayram"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0631\u0627\u0645"
     ],
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1293084871,
-    "wof:lastmodified":1564151076,
+    "wof:lastmodified":1566591348,
     "wof:name":"Sayram",
     "wof:parent_id":1108785595,
     "wof:placetype":"locality",

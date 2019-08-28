@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"67.14667,43.91333,67.18667,43.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Khuday-Kul\u2019"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259667269,
-    "wof:lastmodified":1537659768,
+    "wof:lastmodified":1566592181,
     "wof:name":"Khuday-Kul'",
     "wof:parent_id":1108785669,
     "wof:placetype":"locality",

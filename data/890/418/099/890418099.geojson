@@ -11,17 +11,20 @@
     "geom:longitude":68.5775,
     "gn:country":"KZ",
     "gn:fcode":"PPLX",
-    "gn:pop":10186,
+    "gn:population":10186,
     "iso:country":"KZ",
+    "lbl:bbox":"68.5725,43.52139,68.5825,43.53139",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:kaz_x_preferred":[
         "\u0425\u0430\u043d\u0442\u0430\u0493\u044b"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0442\u0430\u0433\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kantagi"
     ],
     "qs:name":"Khantaghy",
@@ -37,7 +40,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1523512,
-        "qs:id":1031780
+        "qs_pg:id":1031780
     },
     "wof:country":"KZ",
     "wof:created":1469051234,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":890418099,
-    "wof:lastmodified":1505343442,
+    "wof:lastmodified":1566592003,
     "wof:name":"Khantaghy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

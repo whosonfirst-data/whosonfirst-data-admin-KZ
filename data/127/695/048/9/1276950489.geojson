@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.32209,54.33479,68.36209,54.37479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Amangel'dinskoye"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1276950489,
-    "wof:lastmodified":1537659910,
+    "wof:lastmodified":1566591479,
     "wof:name":"Amankeldi",
     "wof:parent_id":1108785563,
     "wof:placetype":"locality",

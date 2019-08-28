@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"77.0506,43.39539,77.0906,43.43539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03b6\u03af\u03bb\u03c4\u03bf\u03c5"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1343570699,
-    "wof:lastmodified":1564150928,
+    "wof:lastmodified":1566591257,
     "wof:name":"Kyzyltu",
     "wof:parent_id":1108785421,
     "wof:placetype":"locality",

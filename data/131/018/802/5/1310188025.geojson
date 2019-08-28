@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"81.37866,49.40954,81.41866,49.44954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Pokrovka"
     ],
@@ -70,7 +74,6 @@
         "Pokrovskaya",
         "Karazhal",
         "Pokrovskoye",
-        "Pokrovka",
         "Qarazhar"
     ],
     "name:zho_x_preferred":[
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1310188025,
-    "wof:lastmodified":1564151927,
+    "wof:lastmodified":1566591848,
     "wof:name":"Pokrovka",
     "wof:parent_id":1108785467,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.94303,42.64442,70.98303,42.68442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0422\u0435\u0440\u0438\u0441-\u0410\u0449\u044b\u0431\u0443\u043b\u0430\u043a"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243239839,
-    "wof:lastmodified":1537660069,
+    "wof:lastmodified":1566592056,
     "wof:name":"Teris-Ashchybulak",
     "wof:parent_id":1108785737,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":75.04028,
     "gn:country":"KZ",
     "gn:fcode":"PPL",
-    "gn:pop":3563,
+    "gn:population":3563,
     "iso:country":"KZ",
+    "lbl:bbox":"75.02028,46.79694,75.06028,46.83694",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Rybtrest"
     ],
     "qs:name":"Shash\u016bbay",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":1537253,
         "gp:id":2256224,
-        "qs:id":276704
+        "qs_pg:id":276704
     },
     "wof:country":"KZ",
     "wof:created":1469051338,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890420415,
-    "wof:lastmodified":1505343457,
+    "wof:lastmodified":1566592003,
     "wof:name":"Shash\u016bbay",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

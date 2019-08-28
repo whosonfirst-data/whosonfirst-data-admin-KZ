@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"53.76084,50.60536,53.80084,50.64536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tiksay",
         "Tyksay"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309730539,
-    "wof:lastmodified":1537659353,
+    "wof:lastmodified":1566591961,
     "wof:name":"Tyksay",
     "wof:parent_id":1108785711,
     "wof:placetype":"locality",

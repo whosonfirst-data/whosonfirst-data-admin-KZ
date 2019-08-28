@@ -10,6 +10,9 @@
     "geom:latitude":52.9729,
     "geom:longitude":63.11677,
     "iso:country":"KZ",
+    "lbl:bbox":"63.09677,52.9529,63.13677,52.9929",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -283,7 +286,7 @@
     "wof:concordances":{
         "gn:id":1519843,
         "gp:id":2264807,
-        "qs:id":184950,
+        "qs_pg:id":184950,
         "wd:id":"Q1008853",
         "wk:page":"Rudny, Kazakhstan"
     },
@@ -299,7 +302,7 @@
         }
     ],
     "wof:id":421198737,
-    "wof:lastmodified":1563250074,
+    "wof:lastmodified":1566591991,
     "wof:name":"Rudnyy",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"49.905,50.75222,49.945,50.79222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalmakshabyn"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Kalmyk-Chaban",
-        "Kalmykshaban",
-        "Kalmakshabyn"
+        "Kalmykshaban"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1242569523,
-    "wof:lastmodified":1537659421,
+    "wof:lastmodified":1566592046,
     "wof:name":"Kalmakshabyn",
     "wof:parent_id":1108785329,
     "wof:placetype":"locality",

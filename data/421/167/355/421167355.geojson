@@ -10,8 +10,12 @@
     "geom:latitude":45.84608,
     "geom:longitude":62.15264,
     "iso:country":"KZ",
+    "lbl:bbox":"62.13264,45.82608,62.17264,45.86608",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0410\u0439\u0442\u044d\u043a\u0435-\u0411\u0456"
@@ -52,7 +56,7 @@
     "name:ukr_x_variant":[
         "\u0410\u0439\u0442\u0435\u043a\u0435 \u0411\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zhangaqazaly"
     ],
     "name:zho_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":1516789,
         "gp:id":2263840,
-        "qs:id":133130,
+        "qs_pg:id":133130,
         "wd:id":"Q2380922",
         "wk:page":"Ayteke Bi"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421167355,
-    "wof:lastmodified":1563250034,
+    "wof:lastmodified":1566591979,
     "wof:name":"Ayteke Bi",
     "wof:parent_id":85672885,
     "wof:placetype":"locality",

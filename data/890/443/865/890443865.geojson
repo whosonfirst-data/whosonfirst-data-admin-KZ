@@ -11,8 +11,11 @@
     "geom:longitude":78.37389,
     "gn:country":"KZ",
     "gn:fcode":"PPLA",
-    "gn:pop":116558,
+    "gn:population":116558,
     "iso:country":"KZ",
+    "lbl:bbox":"78.35389,44.99556,78.39389,45.03556",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -205,7 +208,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043b\u0434\u0438\u043a\u043e\u0440\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gavrilovskoye"
     ],
     "name:urd_x_preferred":[
@@ -330,7 +333,7 @@
     "wof:concordances":{
         "gn:id":1518542,
         "gp:id":2262387,
-        "qs:id":1031649,
+        "qs_pg:id":1031649,
         "wd:id":"Q491102",
         "wk:page":"Taldykorgan"
     },
@@ -346,7 +349,7 @@
         }
     ],
     "wof:id":890443865,
-    "wof:lastmodified":1563250113,
+    "wof:lastmodified":1566592003,
     "wof:name":"Taldyqorghan",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

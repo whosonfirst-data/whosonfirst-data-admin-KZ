@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"65.56333,50.13,65.60333,50.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310511247,
-    "wof:lastmodified":1536908821,
+    "wof:lastmodified":1566591888,
     "wof:name":"Ak-Otkel'",
     "wof:parent_id":1108785657,
     "wof:placetype":"locality",

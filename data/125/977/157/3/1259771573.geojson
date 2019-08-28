@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"77.7164,52.16536,77.7564,52.20536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0411\u0435\u0437\u0432\u043e\u0434\u043d\u043e\u0435"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259771573,
-    "wof:lastmodified":1537660060,
+    "wof:lastmodified":1566592147,
     "wof:name":"Bezvodnoye",
     "wof:parent_id":1108785561,
     "wof:placetype":"locality",

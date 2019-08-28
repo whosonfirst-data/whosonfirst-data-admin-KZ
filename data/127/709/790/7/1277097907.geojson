@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"49.59667,50.60667,49.63667,50.64667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krushino-Kanava"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Krushcheny-Kanau",
-        "Krusheny-Kanau",
-        "Krushino-Kanava"
+        "Krusheny-Kanau"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1277097907,
-    "wof:lastmodified":1537659401,
+    "wof:lastmodified":1566591443,
     "wof:name":"Krushino-Kanava",
     "wof:parent_id":1108785329,
     "wof:placetype":"locality",

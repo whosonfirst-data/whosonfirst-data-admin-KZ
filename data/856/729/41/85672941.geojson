@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":51.139011,
     "lbl:longitude":71.411896,
+    "lbl:min_zoom":8.0,
     "meso:name_alt2":"Astana City area",
     "meso:name_loc":"\u0410\u0441\u0442\u0430\u043d\u0430",
     "mps:latitude":51.152879,
@@ -45,11 +46,7 @@
         "\u0413\u043e\u0440\u043e\u0434 \u0410\u0441\u0442\u0430\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Astana City area",
-        "\u0410\u0441\u0442\u0430\u043d\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Astana Qalasy"
+        "Astana City area"
     ],
     "ne:abbrev":"Ast.",
     "ne:adm0_a3":"KAZ",
@@ -123,9 +120,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-02-25",
+    "src:population_date":"2009-02-25",
     "statoids:area_km":"700",
     "statoids:area_mi":"300",
     "statoids:as_of_date":"2009-02-25",
@@ -150,7 +147,7 @@
         "gp:id":20070181,
         "hasc:id":"KZ.AS",
         "iso:id":"KZ-AST",
-        "qs:id":349676,
+        "qs_pg:id":349676,
         "unlc:id":"KZ-AST"
     },
     "wof:coterminous":[
@@ -174,11 +171,10 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1565726087,
+    "wof:lastmodified":1566591329,
     "wof:name":"Astana",
     "wof:parent_id":85632307,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city with regional status",
     "wof:population":613006,
     "wof:population_rank":11,

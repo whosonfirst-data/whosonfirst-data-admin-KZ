@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"71.57768,51.10481,71.61768,51.14481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Priishimskiy",
         "Internatsional\u2019nyy",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276880683,
-    "wof:lastmodified":1537659807,
+    "wof:lastmodified":1566591450,
     "wof:name":"Internatsional'noye",
     "wof:parent_id":1108785439,
     "wof:placetype":"locality",

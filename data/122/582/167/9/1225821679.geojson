@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"61.76813,52.04957,61.80813,52.08957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "K\u00f6benov"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1225821679,
-    "wof:lastmodified":1537660186,
+    "wof:lastmodified":1566592318,
     "wof:name":"Kubenovka",
     "wof:parent_id":1108785529,
     "wof:placetype":"locality",

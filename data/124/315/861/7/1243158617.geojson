@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"63.34254,48.65302,63.38254,48.69302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kishik\u00f6l"
     ],
@@ -32,8 +36,7 @@
         "\u041a\u0438\u0448\u0438\u043a\u043e\u043b\u044c"
     ],
     "name:und_x_variant":[
-        "Kishikol\u2019",
-        "Kishik\u00f6l"
+        "Kishikol\u2019"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1243158617,
-    "wof:lastmodified":1537659935,
+    "wof:lastmodified":1566592058,
     "wof:name":"Kishikol",
     "wof:parent_id":1108785527,
     "wof:placetype":"locality",

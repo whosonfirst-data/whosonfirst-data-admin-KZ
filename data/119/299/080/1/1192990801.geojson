@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"67.43173,53.08652,67.47173,53.12652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0424\u0440\u0443\u043d\u0437\u0435"
     ],
@@ -110,8 +114,7 @@
         "\u0424\u0440\u0443\u043d\u0437\u0435"
     ],
     "name:und_x_variant":[
-        "Akmoldy",
-        "Frunze"
+        "Akmoldy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1192990801,
-    "wof:lastmodified":1564151740,
+    "wof:lastmodified":1566591689,
     "wof:name":"Frunze",
     "wof:parent_id":1108785571,
     "wof:placetype":"locality",

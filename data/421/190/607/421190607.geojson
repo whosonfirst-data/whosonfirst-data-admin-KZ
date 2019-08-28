@@ -10,17 +10,18 @@
     "geom:latitude":43.59417,
     "geom:longitude":52.07889,
     "iso:country":"KZ",
+    "lbl:bbox":"52.05889,43.57417,52.09889,43.61417",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Zhetibay"
     ],
     "name:rus_x_preferred":[
         "\u0416\u0435\u0442\u044b\u0431\u0430\u0439"
-    ],
-    "name:unk_x_variant":[
-        "Zhetibay"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -51,7 +52,7 @@
     "wof:concordances":{
         "gn:id":607551,
         "gp:id":2265085,
-        "qs:id":1308434
+        "qs_pg:id":1308434
     },
     "wof:country":"KZ",
     "wof:created":1459009663,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":421190607,
-    "wof:lastmodified":1505340717,
+    "wof:lastmodified":1566591993,
     "wof:name":"Zhetybay",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",

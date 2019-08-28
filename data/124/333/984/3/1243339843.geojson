@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"74.70648,43.28404,74.74648,43.32404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "K\u00f6kadyr"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243339843,
-    "wof:lastmodified":1537660040,
+    "wof:lastmodified":1566592079,
     "wof:name":"Kokadyr",
     "wof:parent_id":1108785317,
     "wof:placetype":"locality",

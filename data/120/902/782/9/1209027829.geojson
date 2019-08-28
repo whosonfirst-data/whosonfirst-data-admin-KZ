@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"52.56654,49.87563,52.60654,49.91563",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zhetik\u00f6l"
     ],
@@ -32,8 +36,7 @@
         "\u0416\u0435\u0442\u044b\u043a\u043e\u043b\u044c"
     ],
     "name:und_x_variant":[
-        "Zhetykol\u2019",
-        "Zhetik\u00f6l"
+        "Zhetykol\u2019"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209027829,
-    "wof:lastmodified":1537659340,
+    "wof:lastmodified":1566591630,
     "wof:name":"Zhetikol",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

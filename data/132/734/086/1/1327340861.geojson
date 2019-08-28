@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.16244,52.19551,70.20244,52.23551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yerkindyk"
     ],
@@ -41,7 +45,6 @@
         "\u0415\u0440\u043a\u0438\u043d\u0434\u0438\u043a"
     ],
     "name:und_x_variant":[
-        "Yerkindyk",
         "Yerkindik"
     ],
     "src:geom":"geonames",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1327340861,
-    "wof:lastmodified":1537659506,
+    "wof:lastmodified":1566591142,
     "wof:name":"Yerkindik",
     "wof:parent_id":1108785389,
     "wof:placetype":"locality",

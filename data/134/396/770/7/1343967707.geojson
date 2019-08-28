@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"77.38165,43.43054,77.42165,43.47054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Kul\u2019zhinskoye"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343967707,
-    "wof:lastmodified":1537660046,
+    "wof:lastmodified":1566591195,
     "wof:name":"Kul'zhinskoye",
     "wof:parent_id":1108785427,
     "wof:placetype":"locality",

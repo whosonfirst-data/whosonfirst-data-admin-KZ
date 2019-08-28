@@ -10,8 +10,12 @@
     "geom:latitude":43.765,
     "geom:longitude":69.18139,
     "iso:country":"KZ",
+    "lbl:bbox":"69.16139,43.745,69.20139,43.785",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:kaz_x_preferred":[
         "Sholaqqkorghan"
@@ -23,7 +27,7 @@
     "name:rus_x_preferred":[
         "\u0427\u0443\u043b\u0430\u043a\u043a\u0443\u0440\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sholakkorgan"
     ],
     "qs:gn_country":"KZ",
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1524703,
         "gp:id":2264333,
-        "qs:id":1031803
+        "qs_pg:id":1031803
     },
     "wof:country":"KZ",
     "wof:created":1459009079,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421175797,
-    "wof:lastmodified":1505340625,
+    "wof:lastmodified":1566591989,
     "wof:name":"Chulakkurgan",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

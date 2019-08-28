@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.24599,41.5829,69.28599,41.6229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Chengel\u2019dy"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243347189,
-    "wof:lastmodified":1537660024,
+    "wof:lastmodified":1566592078,
     "wof:name":"Chengel'dy",
     "wof:parent_id":1108785693,
     "wof:placetype":"locality",

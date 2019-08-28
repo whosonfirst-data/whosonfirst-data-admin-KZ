@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"73.87421,52.94564,73.91421,52.98564",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sladkovodskoe"
     ],
@@ -38,8 +42,7 @@
         "\u0421\u043b\u0430\u0434\u043a\u043e\u0432\u043e\u0434\u0441\u043a"
     ],
     "name:und_x_variant":[
-        "Sladkovodskoye",
-        "Sladkovodskoe"
+        "Sladkovodskoye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1293179197,
-    "wof:lastmodified":1537659584,
+    "wof:lastmodified":1566591425,
     "wof:name":"Sladkovodsk",
     "wof:parent_id":1108785679,
     "wof:placetype":"locality",

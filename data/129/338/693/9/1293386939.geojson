@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"48.30936,49.21912,48.34936,49.25912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saralzhin"
     ],
@@ -34,8 +38,7 @@
     "name:und_x_variant":[
         "Imeni Kirova",
         "Saranzhinkol\u2019",
-        "Saralzhinkol\u2019",
-        "Saralzhin"
+        "Saralzhinkol\u2019"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1293386939,
-    "wof:lastmodified":1537659373,
+    "wof:lastmodified":1566591334,
     "wof:name":"Saralzhin",
     "wof:parent_id":1108785703,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":44.16882,
     "geom:longitude":66.73887,
     "iso:country":"KZ",
+    "lbl:bbox":"66.71887,44.14882,66.75887,44.18882",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0438\u0454\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sh\u012beli"
     ],
     "ne:ADM0CAP":0.0,
@@ -168,7 +171,7 @@
     "wof:concordances":{
         "gn:id":1524801,
         "gp:id":2257072,
-        "qs:id":184929,
+        "qs_pg:id":184929,
         "wd:id":"Q4523710"
     },
     "wof:country":"KZ",
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":421198727,
-    "wof:lastmodified":1563250077,
+    "wof:lastmodified":1566591992,
     "wof:name":"Chiili",
     "wof:parent_id":85672885,
     "wof:placetype":"locality",

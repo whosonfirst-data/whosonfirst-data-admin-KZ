@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aqtobe",
     "iso:country":"KZ",
+    "lbl:bbox":"60.06835,48.34447,60.10835,48.38447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1292938841,
-    "wof:lastmodified":1537077972,
+    "wof:lastmodified":1566591356,
     "wof:name":"Tumalykol",
     "wof:parent_id":1108785541,
     "wof:placetype":"locality",

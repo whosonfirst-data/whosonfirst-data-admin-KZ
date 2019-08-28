@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"77.0345,52.11874,77.0745,52.15874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Baydala"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293577399,
-    "wof:lastmodified":1537660060,
+    "wof:lastmodified":1566591387,
     "wof:name":"Baydala",
     "wof:parent_id":1108785561,
     "wof:placetype":"locality",

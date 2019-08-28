@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"81.48669,49.67854,81.52669,49.71854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shalobay"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u043b\u0430\u0431\u0430\u0439"
-    ],
-    "name:und_x_variant":[
-        "Shalobay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1293472673,
-    "wof:lastmodified":1537659600,
+    "wof:lastmodified":1566591376,
     "wof:name":"Shalabay",
     "wof:parent_id":1108785467,
     "wof:placetype":"locality",

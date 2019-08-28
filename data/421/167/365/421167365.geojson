@@ -10,8 +10,12 @@
     "geom:latitude":54.44316,
     "geom:longitude":66.07523,
     "iso:country":"KZ",
+    "lbl:bbox":"66.05523,54.42316,66.09523,54.46316",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Troyebratskiy"
@@ -25,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0440\u043e\u0435\u0431\u0440\u0430\u0442\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Troyebratnoye"
     ],
     "qs:gn_country":"KZ",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":1518019,
         "gp:id":2264958,
-        "qs:id":133184
+        "qs_pg:id":133184
     },
     "wof:country":"KZ",
     "wof:created":1459008728,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":421167365,
-    "wof:lastmodified":1505340585,
+    "wof:lastmodified":1566591978,
     "wof:name":"Troyebratskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.96139,42.92509,70.00139,42.96509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Shuqyrshaq"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276537843,
-    "wof:lastmodified":1537660056,
+    "wof:lastmodified":1566591537,
     "wof:name":"Shuqyrshaq",
     "wof:parent_id":1108785583,
     "wof:placetype":"locality",

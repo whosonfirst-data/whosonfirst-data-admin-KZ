@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"77.52698,51.41201,77.56698,51.45201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0456\u0440\u0430\u0432\u0430"
     ],
@@ -54,8 +58,7 @@
     ],
     "name:und_x_variant":[
         "Imeni Kirova",
-        "K\u012brovo",
-        "Kirovo"
+        "K\u012brovo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1193125327,
-    "wof:lastmodified":1564151714,
+    "wof:lastmodified":1566591675,
     "wof:name":"Kirovo",
     "wof:parent_id":1108785713,
     "wof:placetype":"locality",

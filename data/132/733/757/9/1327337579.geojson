@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"77.9131,44.08287,77.9531,44.12287",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "\u049a\u0430\u0440\u0430\u0448\u043e\u049b\u044b"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327337579,
-    "wof:lastmodified":1537659786,
+    "wof:lastmodified":1566591143,
     "wof:name":"Karashoky",
     "wof:parent_id":1108785423,
     "wof:placetype":"locality",

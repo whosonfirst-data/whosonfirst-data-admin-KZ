@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"77.20081,52.76672,77.24081,52.80672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Konstant\u012bnovka"
     ],
@@ -42,7 +46,6 @@
     ],
     "name:und_x_variant":[
         "Konstantinovskiy",
-        "Konstant\u012bnovka",
         "Kostantinovka"
     ],
     "src:geom":"geonames",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1226123587,
-    "wof:lastmodified":1537659752,
+    "wof:lastmodified":1566592286,
     "wof:name":"Kostantinovka",
     "wof:parent_id":1108785351,
     "wof:placetype":"locality",

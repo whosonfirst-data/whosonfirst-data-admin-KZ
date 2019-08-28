@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"84.23242,49.87932,84.27242,49.91932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bobrovka"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Bobrovskaya",
-        "Bobrovskiy",
-        "Bobrovka"
+        "Bobrovskiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1276305695,
-    "wof:lastmodified":1537659868,
+    "wof:lastmodified":1566591528,
     "wof:name":"Bobrovka",
     "wof:parent_id":1108785461,
     "wof:placetype":"locality",

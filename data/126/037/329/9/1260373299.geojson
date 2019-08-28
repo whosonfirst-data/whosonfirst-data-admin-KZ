@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"82.33863,48.60303,82.37863,48.64303",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Uzunbulak"
     ],
@@ -40,8 +44,7 @@
     "name:und_x_variant":[
         "Tyulengut",
         "Uzynbulak",
-        "Uzynbulakskiy",
-        "Uzunbulak"
+        "Uzynbulakskiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1260373299,
-    "wof:lastmodified":1564151787,
+    "wof:lastmodified":1566591716,
     "wof:name":"Uzynbulaq",
     "wof:parent_id":1108785463,
     "wof:placetype":"locality",

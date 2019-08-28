@@ -10,8 +10,12 @@
     "geom:latitude":51.05412,
     "geom:longitude":69.47928,
     "iso:country":"KZ",
+    "lbl:bbox":"69.45928,51.03412,69.49928,51.07412",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0415\u0433\u0456\u043d\u0434\u044b\u043a\u043e\u043b\u044c"
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u0433\u0456\u043d\u0434\u0438\u043a\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shunkyrkol\u2019"
     ],
     "name:uzb_x_preferred":[
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":1521998,
         "gp:id":2259324,
-        "qs:id":1308050,
+        "qs_pg:id":1308050,
         "wd:id":"Q3644611",
         "wk:page":"Egindikol"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421184919,
-    "wof:lastmodified":1563250088,
+    "wof:lastmodified":1566591996,
     "wof:name":"Krasnoznamenka",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

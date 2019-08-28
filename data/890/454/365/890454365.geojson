@@ -11,10 +11,14 @@
     "geom:longitude":73.70247,
     "gn:country":"KZ",
     "gn:fcode":"PPL",
-    "gn:pop":13457,
+    "gn:population":13457,
     "iso:country":"KZ",
+    "lbl:bbox":"73.68247,46.01106,73.72247,46.05106",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041f\u0440\u044b\u0430\u0437\u0451\u0440\u0441\u043a"
     ],
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":7536148,
         "gp:id":2264558,
-        "qs:id":692663,
+        "qs_pg:id":692663,
         "wd:id":"Q1019405",
         "wk:page":"Priozersk"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890454365,
-    "wof:lastmodified":1563250109,
+    "wof:lastmodified":1566592001,
     "wof:name":"Priozersk",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

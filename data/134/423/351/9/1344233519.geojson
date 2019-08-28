@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"60.44068,51.95323,60.48068,51.99323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khozret"
     ],
@@ -39,8 +43,7 @@
         "Khozretov",
         "Khozeret Aul",
         "Khavretov",
-        "Khazret",
-        "Khozret"
+        "Khazret"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1344233519,
-    "wof:lastmodified":1537659770,
+    "wof:lastmodified":1566591224,
     "wof:name":"Khozret",
     "wof:parent_id":1108785525,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":75.58438,
     "gn:country":"KZ",
     "gn:fcode":"PPL",
-    "gn:pop":3563,
+    "gn:population":3563,
     "iso:country":"KZ",
+    "lbl:bbox":"75.56438,49.67244,75.60438,49.71244",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:kaz_x_preferred":[
         "Aqzhol"
     ],
@@ -27,7 +31,7 @@
     "name:rus_x_variant":[
         "\u0410\u043a\u0436\u043e\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akzhol"
     ],
     "qs:name":"Akzhal",
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1526522,
         "gp:id":2260961,
-        "qs:id":276689
+        "qs_pg:id":276689
     },
     "wof:country":"KZ",
     "wof:created":1469052267,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890440237,
-    "wof:lastmodified":1505343575,
+    "wof:lastmodified":1566591998,
     "wof:name":"Akzhal",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

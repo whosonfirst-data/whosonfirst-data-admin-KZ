@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"48.83,50.33,48.87,50.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khutor Vas\u2019kin-Kuduk",
         "Vas\u2019kin-Kuduk"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343571357,
-    "wof:lastmodified":1537659350,
+    "wof:lastmodified":1566591255,
     "wof:name":"Vas'kin-Kuduk",
     "wof:parent_id":1108785703,
     "wof:placetype":"locality",

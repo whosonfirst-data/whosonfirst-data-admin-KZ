@@ -10,8 +10,12 @@
     "geom:latitude":51.46088,
     "geom:longitude":75.80481,
     "iso:country":"KZ",
+    "lbl:bbox":"75.78481,51.44088,75.82481,51.48088",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u041c\u0430\u0439\u043a\u0430\u0456\u043d"
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0439\u043a\u0430\u0457\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maykainskiy"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":1521048,
         "gp:id":2264680,
-        "qs:id":133288,
+        "qs_pg:id":133288,
         "wd:id":"Q4274825"
     },
     "wof:country":"KZ",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421167399,
-    "wof:lastmodified":1563250033,
+    "wof:lastmodified":1566591978,
     "wof:name":"Maykain",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

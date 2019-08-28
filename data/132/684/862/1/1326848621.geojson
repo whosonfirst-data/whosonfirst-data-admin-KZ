@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"64.66333,50.63,64.70333,50.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sary-Uzen\u2019",
         "Saryozek"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326848621,
-    "wof:lastmodified":1537659610,
+    "wof:lastmodified":1566591161,
     "wof:name":"Saryozek",
     "wof:parent_id":1108785657,
     "wof:placetype":"locality",

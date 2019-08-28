@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"52.62644,50.48769,52.66644,50.52769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Araltobe"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "Zhembeytinskiy",
-        "Araltyube",
-        "Araltobe"
+        "Araltyube"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1209928987,
-    "wof:lastmodified":1564151604,
+    "wof:lastmodified":1566591613,
     "wof:name":"Araltobe",
     "wof:parent_id":1108785495,
     "wof:placetype":"locality",

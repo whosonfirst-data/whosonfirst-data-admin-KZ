@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"74.89667,49.71333,74.93667,49.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Ural\u2019skiy"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276535675,
-    "wof:lastmodified":1537659537,
+    "wof:lastmodified":1566591536,
     "wof:name":"Ural'skiy",
     "wof:parent_id":1108785507,
     "wof:placetype":"locality",

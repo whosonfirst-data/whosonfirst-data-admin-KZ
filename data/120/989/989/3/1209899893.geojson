@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.88,41.76333,68.92,41.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0632\u0645\u0627\u0626\u06cc\u0644"
     ],
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":1209899893,
-    "wof:lastmodified":1564151659,
+    "wof:lastmodified":1566591645,
     "wof:name":"Izmail",
     "wof:parent_id":1108785693,
     "wof:placetype":"locality",

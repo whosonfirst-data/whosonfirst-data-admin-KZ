@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"80.01364,48.12794,80.05364,48.16794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "D\u00f6nenbay"
     ],
@@ -37,8 +41,7 @@
     "name:und_x_variant":[
         "Akshatau",
         "Donenbay",
-        "Dunanbay",
-        "D\u00f6nenbay"
+        "Dunanbay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1360167609,
-    "wof:lastmodified":1537659837,
+    "wof:lastmodified":1566591916,
     "wof:name":"Dunenbay",
     "wof:parent_id":1108785459,
     "wof:placetype":"locality",

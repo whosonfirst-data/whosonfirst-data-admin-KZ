@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"82.65263,49.8729,82.69263,49.9129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u041f\u043e\u0434\u0433\u043e\u0440\u043d\u0438"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1242847639,
-    "wof:lastmodified":1564152332,
+    "wof:lastmodified":1566592083,
     "wof:name":"Podgornoye",
     "wof:parent_id":1108785475,
     "wof:placetype":"locality",

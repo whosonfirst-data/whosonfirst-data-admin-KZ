@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.15624,40.80383,68.19624,40.84383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Brigada Nomer Tri Otdeleniya Nomer Pyat\u2019 Sovkhoza Imeni Sorokoletiya Uzbekskoy Sovetskoy Sotsialistkoy Respubliky"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226326359,
-    "wof:lastmodified":1537660080,
+    "wof:lastmodified":1566592259,
     "wof:name":"Brigada Nomer Tri Otdeleniya Nomer Pyat' Sovkhoza Imeni Sorokoletiya Uzbekskoy Sovetskoy Sotsialistkoy Respubliky",
     "wof:parent_id":1108785361,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"65.53384,54.04601,65.57384,54.08601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ryazhskoye"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "Ryasskiy",
-        "Ryasskoye",
-        "Ryazhskoye"
+        "Ryasskoye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1259762609,
-    "wof:lastmodified":1537659619,
+    "wof:lastmodified":1566592168,
     "wof:name":"Ryazhskoye",
     "wof:parent_id":1108785687,
     "wof:placetype":"locality",

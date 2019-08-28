@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"84.13,49.18,84.17,49.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Trushnikova",
         "Trushnikovo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243572269,
-    "wof:lastmodified":1537659546,
+    "wof:lastmodified":1566592066,
     "wof:name":"Trushnikovo",
     "wof:parent_id":1108785463,
     "wof:placetype":"locality",

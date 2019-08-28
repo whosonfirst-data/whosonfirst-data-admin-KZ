@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"67.5492,52.22999,67.5892,52.26999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalininskiy"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "Komsomol\u2019skiy",
-        "Kalinino",
-        "Kalininskiy"
+        "Kalinino"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1242789261,
-    "wof:lastmodified":1537659755,
+    "wof:lastmodified":1566592091,
     "wof:name":"Kalininskiy",
     "wof:parent_id":1108785623,
     "wof:placetype":"locality",

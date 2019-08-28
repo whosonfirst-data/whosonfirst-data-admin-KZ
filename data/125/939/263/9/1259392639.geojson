@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"80.40999,45.62458,80.44999,45.66458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041b\u0435\u043d\u0456\u043d\u0441\u043a"
     ],
@@ -77,8 +81,7 @@
         "\u041b\u0435\u043d\u0456\u043d\u0441\u044c\u043a"
     ],
     "name:und_x_variant":[
-        "Vyselok",
-        "Leninsk"
+        "Vyselok"
     ],
     "name:vep_x_preferred":[
         "Leninsk"
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1259392639,
-    "wof:lastmodified":1564152429,
+    "wof:lastmodified":1566592138,
     "wof:name":"Leninsk",
     "wof:parent_id":1108785417,
     "wof:placetype":"locality",

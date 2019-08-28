@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"74.6291,43.03212,74.6691,43.07212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Krasnyy Part\u012bzan"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259855711,
-    "wof:lastmodified":1537659674,
+    "wof:lastmodified":1566592163,
     "wof:name":"Krasnyy Partizan",
     "wof:parent_id":1091691655,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"79.24822,42.7363,79.28822,42.7763",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041c\u044b\u043d\u0436\u0438\u043b\u043a\u044b"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259487277,
-    "wof:lastmodified":1537660173,
+    "wof:lastmodified":1566592147,
     "wof:name":"Mynzhilky",
     "wof:parent_id":1108785309,
     "wof:placetype":"locality",

@@ -9,17 +9,20 @@
     "geom:bbox":"65.58796,44.81162,65.58796,44.81162",
     "geom:latitude":44.81162,
     "geom:longitude":65.58796,
-    "gn:gn_country":"KZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1486,
+    "gn:country":"KZ",
+    "gn:fcode":"PPL",
     "gn:population":1486,
     "iso:country":"KZ",
+    "lbl:bbox":"65.56796,44.79162,65.60796,44.83162",
     "lbl:latitude":44.81162,
     "lbl:longitude":65.58796,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belkul\u2019"
     ],
     "qs_pg:aaroncc":"KZ",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":133442,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125938827,
-    "wof:lastmodified":1509401953,
+    "wof:lastmodified":1566592004,
     "wof:name":"Belk\u00f6l",
     "wof:parent_id":1108785677,
     "wof:placetype":"locality",

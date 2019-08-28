@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"63.1112,50.11738,63.1512,50.15738",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tuz"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1326716627,
-    "wof:lastmodified":1564150713,
+    "wof:lastmodified":1566591154,
     "wof:name":"Tuz",
     "wof:parent_id":1108785527,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"52.67358,51.08355,52.71358,51.12355",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b5\u03c3\u03b1\u03b3\u03ba\u03ac\u03c2"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "Bisagach",
-        "Bes-Agach",
-        "Besagash"
+        "Bes-Agach"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1327425719,
-    "wof:lastmodified":1564150789,
+    "wof:lastmodified":1566591187,
     "wof:name":"Besagash",
     "wof:parent_id":1108785325,
     "wof:placetype":"locality",

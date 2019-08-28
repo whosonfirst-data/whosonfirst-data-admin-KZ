@@ -10,6 +10,9 @@
     "geom:latitude":50.62811,
     "geom:longitude":81.91213,
     "iso:country":"KZ",
+    "lbl:bbox":"81.89213,50.60811,81.93213,50.64811",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -58,9 +61,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043c\u043e\u043d\u0430\u0457\u0445\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Shemona\u012bkha"
     ],
     "name:zho_x_preferred":[
         "\u820d\u83ab\u5948\u54c8"
@@ -187,7 +187,7 @@
     "wof:concordances":{
         "gn:id":1519226,
         "gp:id":2264863,
-        "qs:id":273993,
+        "qs_pg:id":273993,
         "wd:id":"Q1047824"
     },
     "wof:country":"KZ",
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":421179991,
-    "wof:lastmodified":1563250090,
+    "wof:lastmodified":1566591996,
     "wof:name":"Shemonaikha",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

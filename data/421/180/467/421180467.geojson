@@ -10,8 +10,12 @@
     "geom:latitude":50.14112,
     "geom:longitude":82.31329,
     "iso:country":"KZ",
+    "lbl:bbox":"82.29329,50.12112,82.33329,50.16112",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Gl\u016bbokoe"
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1524227,
         "gp:id":2264385,
-        "qs:id":433033
+        "qs_pg:id":433033
     },
     "wof:country":"KZ",
     "wof:created":1459009260,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421180467,
-    "wof:lastmodified":1527716240,
+    "wof:lastmodified":1566591988,
     "wof:name":"Glubokoye",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

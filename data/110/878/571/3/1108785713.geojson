@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":51.019518,
     "lbl:longitude":77.411526,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:delete_fla":"2",
     "meso:dissme":"\u041c\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -36,6 +38,7 @@
     "mps:longitude":77.411526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -75,9 +78,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041c\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:uzb_x_preferred":[
         "May"
     ],
@@ -85,9 +85,9 @@
         "Chingirlauskiy"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-04-01",
+    "src:population_date":"1999-04-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"1999-04-01",
     "statoids:capital":"Koktobe",
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":1108785713,
-    "wof:lastmodified":1563249703,
+    "wof:lastmodified":1566591792,
     "wof:name":"Mayskiy",
     "wof:parent_id":85672911,
     "wof:placetype":"county",

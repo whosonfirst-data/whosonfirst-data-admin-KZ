@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.80817,50.82419,70.84817,50.86419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0415\u0433\u0456\u043d\u0434\u044b\u043a\u043e\u043b\u044c"
     ],
@@ -51,8 +55,7 @@
         "Yegendy",
         "Yegindykul\u2019",
         "Yegindykol\u2019",
-        "Yegindy",
-        "Egindik\u00f6l"
+        "Yegindy"
     ],
     "name:uzb_x_preferred":[
         "Yegindiko\u02bbl"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1226755159,
-    "wof:lastmodified":1564152575,
+    "wof:lastmodified":1566592221,
     "wof:name":"Egindikol",
     "wof:parent_id":1108785625,
     "wof:placetype":"locality",

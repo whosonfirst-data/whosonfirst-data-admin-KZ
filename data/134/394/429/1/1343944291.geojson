@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"61.98287,53.62754,62.02287,53.66754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Rybk\u012bno"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343944291,
-    "wof:lastmodified":1537660145,
+    "wof:lastmodified":1566591264,
     "wof:name":"Rybkino",
     "wof:parent_id":1108785333,
     "wof:placetype":"locality",

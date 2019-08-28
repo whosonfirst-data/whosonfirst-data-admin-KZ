@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"72.95888,49.93564,72.99888,49.97564",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0422\u0435\u0433\u0438\u0441-\u0416\u043e\u043b"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260377929,
-    "wof:lastmodified":1537660157,
+    "wof:lastmodified":1566591715,
     "wof:name":"Tegis-Zhol",
     "wof:parent_id":1108785651,
     "wof:placetype":"locality",

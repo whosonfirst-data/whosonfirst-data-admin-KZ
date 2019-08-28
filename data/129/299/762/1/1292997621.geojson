@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"48.58515,49.7063,48.62515,49.7463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bespshen"
     ],
@@ -34,8 +38,7 @@
     "name:und_x_variant":[
         "Imeni Engel\u2019sa",
         "Bespishen",
-        "Bespyshin",
-        "Bespshen"
+        "Bespyshin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1292997621,
-    "wof:lastmodified":1537659439,
+    "wof:lastmodified":1566591405,
     "wof:name":"Bespshen",
     "wof:parent_id":1108785703,
     "wof:placetype":"locality",

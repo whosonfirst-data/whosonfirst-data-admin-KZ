@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"85.14543,49.31668,85.18543,49.35668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pechi"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293275171,
-    "wof:lastmodified":1537659644,
+    "wof:lastmodified":1566591411,
     "wof:name":"Pechi",
     "wof:parent_id":1108785313,
     "wof:placetype":"locality",

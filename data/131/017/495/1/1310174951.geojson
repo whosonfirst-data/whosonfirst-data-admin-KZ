@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.15471,54.04039,68.19471,54.08039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Tamambay"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310174951,
-    "wof:lastmodified":1537659951,
+    "wof:lastmodified":1566591857,
     "wof:name":"Tamambay",
     "wof:parent_id":1108785563,
     "wof:placetype":"locality",

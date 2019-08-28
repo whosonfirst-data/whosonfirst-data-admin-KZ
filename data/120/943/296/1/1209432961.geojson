@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"53.29049,50.48836,53.33049,50.52836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kenashchi"
     ],
@@ -32,8 +36,7 @@
         "\u041a\u0435\u043d\u0430\u0449\u0438"
     ],
     "name:und_x_variant":[
-        "Kinashe",
-        "Kenashchi"
+        "Kinashe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209432961,
-    "wof:lastmodified":1537659412,
+    "wof:lastmodified":1566591657,
     "wof:name":"Kenashchi",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

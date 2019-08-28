@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.92683,42.09497,69.96683,42.13497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0415\u043a\u043f\u0438\u043d\u0434\u0438"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310089379,
-    "wof:lastmodified":1537660114,
+    "wof:lastmodified":1566591834,
     "wof:name":"Yekpindi",
     "wof:parent_id":1108785369,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.96737,52.67167,69.00737,52.71167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aydabul"
     ],
@@ -35,8 +39,7 @@
         "\u0410\u0439\u0434\u0430\u0431\u0443\u043b"
     ],
     "name:und_x_variant":[
-        "Aydabul\u2019skiy",
-        "Aydabul"
+        "Aydabul\u2019skiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1293362905,
-    "wof:lastmodified":1537659898,
+    "wof:lastmodified":1566591337,
     "wof:name":"Aydabul",
     "wof:parent_id":1108785721,
     "wof:placetype":"locality",

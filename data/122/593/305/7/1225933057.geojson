@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.62013,42.14441,69.66013,42.18441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Tekes\u016b"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225933057,
-    "wof:lastmodified":1537659557,
+    "wof:lastmodified":1566592209,
     "wof:name":"Tekesu",
     "wof:parent_id":1108785607,
     "wof:placetype":"locality",

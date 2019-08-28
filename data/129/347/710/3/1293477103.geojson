@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.53994,50.08481,70.57994,50.12481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aul Shura",
         "Shura",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293477103,
-    "wof:lastmodified":1537659731,
+    "wof:lastmodified":1566591377,
     "wof:name":"Qulanotpes",
     "wof:parent_id":1108785499,
     "wof:placetype":"locality",

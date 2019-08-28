@@ -10,8 +10,12 @@
     "geom:latitude":50.62178,
     "geom:longitude":79.24743,
     "iso:country":"KZ",
+    "lbl:bbox":"79.22743,50.60178,79.26743,50.64178",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0427\u0430\u0433\u0430\u043d"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shagan"
     ],
     "qs:gn_country":"KZ",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":1524917,
         "gp:id":2256973,
-        "qs:id":462818,
+        "qs_pg:id":462818,
         "wd:id":"Q12569994"
     },
     "wof:country":"KZ",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421173667,
-    "wof:lastmodified":1563250063,
+    "wof:lastmodified":1566591988,
     "wof:name":"Chagan",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

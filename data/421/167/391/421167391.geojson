@@ -10,8 +10,12 @@
     "geom:latitude":49.7065,
     "geom:longitude":72.70807,
     "iso:country":"KZ",
+    "lbl:bbox":"72.68807,49.6865,72.72807,49.7265",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:kaz_x_preferred":[
         "Novodol\u012bnsk\u012by"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1520627,
         "gp:id":2260539,
-        "qs:id":133271
+        "qs_pg:id":133271
     },
     "wof:country":"KZ",
     "wof:created":1459008729,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":421167391,
-    "wof:lastmodified":1505340585,
+    "wof:lastmodified":1566591978,
     "wof:name":"Novodolinskiy",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

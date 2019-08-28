@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"63.60484,53.31902,63.64484,53.35902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Samyr"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343547577,
-    "wof:lastmodified":1537660171,
+    "wof:lastmodified":1566591198,
     "wof:name":"Samyr",
     "wof:parent_id":1108785665,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"71.48441,53.69777,71.52441,53.73777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Qyzylt\u016b"
     ],
@@ -38,8 +42,7 @@
         "\u041a\u044b\u0437\u044b\u043b\u0442\u0443\u0441\u043a\u043e\u0435"
     ],
     "name:und_x_variant":[
-        "Kyzyltuskiy",
-        "Qyzylt\u016b"
+        "Kyzyltuskiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1259656219,
-    "wof:lastmodified":1537659716,
+    "wof:lastmodified":1566592131,
     "wof:name":"Kyzyltuskoye",
     "wof:parent_id":1108785683,
     "wof:placetype":"locality",

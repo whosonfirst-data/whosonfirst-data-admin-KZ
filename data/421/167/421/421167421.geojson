@@ -10,8 +10,12 @@
     "geom:latitude":43.42684,
     "geom:longitude":77.01908,
     "iso:country":"KZ",
+    "lbl:bbox":"76.99908,43.40684,77.03908,43.44684",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Otegen Batyra"
@@ -56,9 +60,6 @@
     "name:ukr_x_variant":[
         "Ilich"
     ],
-    "name:unk_x_variant":[
-        "Otegen Batyra"
-    ],
     "name:uzb_x_preferred":[
         "O\u02bbtegen-Botir"
     ],
@@ -91,7 +92,7 @@
     "wof:concordances":{
         "gn:id":1524308,
         "gp:id":2257414,
-        "qs:id":133346,
+        "qs_pg:id":133346,
         "wd:id":"Q4163271",
         "wk:page":"Otegen Batyr"
     },
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":421167421,
-    "wof:lastmodified":1563250046,
+    "wof:lastmodified":1566591982,
     "wof:name":"Energeticheskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

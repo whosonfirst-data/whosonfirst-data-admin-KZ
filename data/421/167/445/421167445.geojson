@@ -10,8 +10,12 @@
     "geom:latitude":50.79304,
     "geom:longitude":75.70123,
     "iso:country":"KZ",
+    "lbl:bbox":"75.68123,50.77304,75.72123,50.81304",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0430\u0443\u043b"
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0430\u0443\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bayan-Aul\u2019skoye"
     ],
     "name:uzb_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1525650,
         "gp:id":2264248,
-        "qs:id":133382,
+        "qs_pg:id":133382,
         "wd:id":"Q486407"
     },
     "wof:country":"KZ",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421167445,
-    "wof:lastmodified":1563250047,
+    "wof:lastmodified":1566591983,
     "wof:name":"Bayanaul",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

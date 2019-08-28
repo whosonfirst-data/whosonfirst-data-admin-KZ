@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.39237,41.68173,68.43237,41.72173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "\u00c4limta\u016b"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243247251,
-    "wof:lastmodified":1537659969,
+    "wof:lastmodified":1566592055,
     "wof:name":"Malaykuduk",
     "wof:parent_id":1108785693,
     "wof:placetype":"locality",

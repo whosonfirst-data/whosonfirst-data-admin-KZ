@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"71.99343,52.14707,72.03343,52.18707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041c\u0443\u043b\u043b\u0430\u0448\u0430\u0440\u0438\u043f"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193148733,
-    "wof:lastmodified":1537660064,
+    "wof:lastmodified":1566591679,
     "wof:name":"Mullasharip",
     "wof:parent_id":1108785617,
     "wof:placetype":"locality",

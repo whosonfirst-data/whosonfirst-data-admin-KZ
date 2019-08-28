@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"65.21432,53.6255,65.25432,53.6655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zhanatalap"
     ],
@@ -41,7 +45,6 @@
         "\u041a\u0443\u043d\u0442\u0438\u043c\u0435\u0441"
     ],
     "name:und_x_variant":[
-        "Zhanatalap",
         "Kuntimes"
     ],
     "src:geom":"geonames",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1344136229,
-    "wof:lastmodified":1537659487,
+    "wof:lastmodified":1566591214,
     "wof:name":"Kuntimes",
     "wof:parent_id":1108785569,
     "wof:placetype":"locality",

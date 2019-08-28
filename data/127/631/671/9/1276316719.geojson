@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"71.25523,42.76281,71.29523,42.80281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Chal\u2019dala"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276316719,
-    "wof:lastmodified":1537660105,
+    "wof:lastmodified":1566591540,
     "wof:name":"Chal'dala",
     "wof:parent_id":1108785487,
     "wof:placetype":"locality",

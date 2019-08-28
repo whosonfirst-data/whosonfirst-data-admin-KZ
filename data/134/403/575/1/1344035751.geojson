@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"75.53846,53.21131,75.57846,53.25131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kenes"
     ],
@@ -38,8 +42,7 @@
         "\u041a\u0435\u043d\u0435\u0441"
     ],
     "name:und_x_variant":[
-        "Kozheke",
-        "Kenes"
+        "Kozheke"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1344035751,
-    "wof:lastmodified":1537659741,
+    "wof:lastmodified":1566591281,
     "wof:name":"Kenes",
     "wof:parent_id":1108785679,
     "wof:placetype":"locality",

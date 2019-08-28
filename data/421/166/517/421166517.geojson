@@ -10,8 +10,12 @@
     "geom:latitude":44.22429,
     "geom:longitude":80.38538,
     "iso:country":"KZ",
+    "lbl:bbox":"80.36538,44.20429,80.40538,44.24429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Korgas"
@@ -58,7 +62,7 @@
     "name:uig_x_preferred":[
         "\u0642\u0648\u0631\u063a\u0627\u0633 \u0634\u06d5\u06be\u0649\u0631\u0649"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qorghas"
     ],
     "name:urd_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1522684,
         "gp:id":2264537,
-        "qs:id":266939,
+        "qs_pg:id":266939,
         "wd:id":"Q10565907"
     },
     "wof:country":"KZ",
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":421166517,
-    "wof:lastmodified":1563250025,
+    "wof:lastmodified":1566591976,
     "wof:name":"Khorgos",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

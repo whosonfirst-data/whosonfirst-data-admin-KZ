@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.59163,51.55701,69.63163,51.59701",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tavolzhanskiy",
         "Tavolzhanskoye",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209517063,
-    "wof:lastmodified":1537659559,
+    "wof:lastmodified":1566591627,
     "wof:name":"Tavolzhanka",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

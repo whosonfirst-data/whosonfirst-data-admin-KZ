@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.56429,55.1385,68.60429,55.1785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Studenoye"
     ],
@@ -39,9 +43,6 @@
     ],
     "name:rus_x_variant":[
         "Stud\u00ebnoye"
-    ],
-    "name:und_x_variant":[
-        "Studenoye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1276208611,
-    "wof:lastmodified":1537659938,
+    "wof:lastmodified":1566591465,
     "wof:name":"Studyonoe",
     "wof:parent_id":1108785359,
     "wof:placetype":"locality",

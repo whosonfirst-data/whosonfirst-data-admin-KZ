@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":43.147282,
     "lbl:longitude":76.627508,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:delete_fla":"2",
     "meso:dissme":"\u041a\u0430\u0440\u0430\u0441\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -36,6 +38,7 @@
     "mps:longitude":76.627508,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0441\u0430\u0439\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -87,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0441\u0430\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0430\u0440\u0430\u0441\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:urd_x_preferred":[
         "\u0636\u0644\u0639 \u0642\u0627\u0631\u0627\u0633\u0627\u0626\u06cc"
     ],
@@ -97,9 +97,9 @@
         "Qorasoy"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-04-01",
+    "src:population_date":"1999-04-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"1999-04-01",
     "statoids:capital":"Karasay",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1108785419,
-    "wof:lastmodified":1563249709,
+    "wof:lastmodified":1566591796,
     "wof:name":"Karasayskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

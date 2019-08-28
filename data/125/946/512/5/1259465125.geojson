@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.18604,53.83066,68.22604,53.87066",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aktas"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1259465125,
-    "wof:lastmodified":1564152461,
+    "wof:lastmodified":1566592156,
     "wof:name":"Aktas",
     "wof:parent_id":1108785563,
     "wof:placetype":"locality",

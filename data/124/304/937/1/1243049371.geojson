@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"75.43368,52.74486,75.47368,52.78486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Raz\u016bmovka"
     ],
@@ -35,7 +39,6 @@
         "\u0420\u0430\u0437\u0443\u043c\u043e\u0432\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Raz\u016bmovka",
         "Razumovka"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1243049371,
-    "wof:lastmodified":1537659623,
+    "wof:lastmodified":1566592068,
     "wof:name":"Razumovka",
     "wof:parent_id":1108785553,
     "wof:placetype":"locality",

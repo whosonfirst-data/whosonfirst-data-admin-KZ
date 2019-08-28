@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"65.51255,52.92753,65.55255,52.96753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bylkyldak"
     ],
@@ -33,7 +37,6 @@
     ],
     "name:und_x_variant":[
         "Bylkuldak",
-        "Bylkyldak",
         "Razvaliny Bylkyldak"
     ],
     "src:geom":"geonames",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1327343657,
-    "wof:lastmodified":1537659855,
+    "wof:lastmodified":1566591140,
     "wof:name":"Bylkyldak",
     "wof:parent_id":1108785533,
     "wof:placetype":"locality",

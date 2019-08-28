@@ -10,6 +10,9 @@
     "geom:latitude":49.72654,
     "geom:longitude":84.27318,
     "iso:country":"KZ",
+    "lbl:bbox":"84.25318,49.70654,84.29318,49.74654",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -123,7 +126,7 @@
     "name:ukr_x_variant":[
         "\u0410\u043b\u0442\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zyranovskoye"
     ],
     "name:zho_x_preferred":[
@@ -256,7 +259,7 @@
     "wof:concordances":{
         "gn:id":1516438,
         "gp:id":2265108,
-        "qs:id":263497,
+        "qs_pg:id":263497,
         "wd:id":"Q2139924",
         "wk:page":"Zyryanovsk"
     },
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":421205519,
-    "wof:lastmodified":1563250059,
+    "wof:lastmodified":1566591986,
     "wof:name":"Zyryanovsk",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.34113,43.36319,68.38113,43.40319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lav_x_preferred":[
         "Borisovka"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344046463,
-    "wof:lastmodified":1564150990,
+    "wof:lastmodified":1566591285,
     "wof:name":"Borisovka",
     "wof:parent_id":1108785667,
     "wof:placetype":"locality",

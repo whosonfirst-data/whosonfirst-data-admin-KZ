@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.8692,54.90487,69.9092,54.94487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u042f\u043a\u043e\u0432\u043b\u0435\u0432\u043a\u0430"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276627391,
-    "wof:lastmodified":1537659940,
+    "wof:lastmodified":1566591529,
     "wof:name":"Yakovlevka",
     "wof:parent_id":1108785353,
     "wof:placetype":"locality",

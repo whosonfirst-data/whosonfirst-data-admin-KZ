@@ -11,10 +11,14 @@
     "geom:longitude":68.31667,
     "gn:country":"KZ",
     "gn:fcode":"PPL",
-    "gn:pop":2276,
+    "gn:population":2276,
     "iso:country":"KZ",
+    "lbl:bbox":"68.29667,42.81333,68.33667,42.85333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:kaz_x_preferred":[
         "Qogham"
     ],
@@ -24,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0433\u0430\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baladyr"
     ],
     "qs:name":"Bayaldyr",
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1525658,
         "gp:id":2261805,
-        "qs:id":276679
+        "qs_pg:id":276679
     },
     "wof:country":"KZ",
     "wof:created":1469051892,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890431483,
-    "wof:lastmodified":1505343524,
+    "wof:lastmodified":1566592001,
     "wof:name":"Bayaldyr",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

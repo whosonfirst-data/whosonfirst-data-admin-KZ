@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"76.43224,52.68319,76.47224,52.72319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Spartak"
     ],
@@ -71,8 +75,7 @@
         "Spartak"
     ],
     "name:und_x_variant":[
-        "Karaoba",
-        "Spartak"
+        "Karaoba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1209796647,
-    "wof:lastmodified":1564151551,
+    "wof:lastmodified":1566591586,
     "wof:name":"Spartak",
     "wof:parent_id":1108785553,
     "wof:placetype":"locality",

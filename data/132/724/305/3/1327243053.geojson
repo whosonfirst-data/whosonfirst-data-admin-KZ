@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.6598,52.16619,70.6998,52.20619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ornek"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1327243053,
-    "wof:lastmodified":1537659651,
+    "wof:lastmodified":1566591133,
     "wof:name":"Ornek",
     "wof:parent_id":1108785617,
     "wof:placetype":"locality",

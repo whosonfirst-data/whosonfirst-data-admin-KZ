@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.74402,42.55085,69.78402,42.59085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041d\u043e\u0440\u0436\u0430\u043d\u043a\u043e\u0440\u0433\u0430\u043d"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310490633,
-    "wof:lastmodified":1537660108,
+    "wof:lastmodified":1566591818,
     "wof:name":"Norzhankorgan",
     "wof:parent_id":1108785595,
     "wof:placetype":"locality",

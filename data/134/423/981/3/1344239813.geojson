@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"80.58719,47.46834,80.62719,47.50834",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0622\u064a"
     ],
@@ -108,7 +112,6 @@
         "Piket Ay",
         "Tessek-tasskiy",
         "Tesek-Tasskiy",
-        "Ay",
         "Pik-Ay"
     ],
     "name:vie_x_preferred":[
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1344239813,
-    "wof:lastmodified":1564150864,
+    "wof:lastmodified":1566591225,
     "wof:name":"Ay",
     "wof:parent_id":1108785729,
     "wof:placetype":"locality",

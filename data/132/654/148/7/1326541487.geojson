@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.0195,52.292,68.0595,52.332",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chashke"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "Shashke",
-        "Barankul\u2019skiy",
-        "Chashke"
+        "Barankul\u2019skiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1326541487,
-    "wof:lastmodified":1537659599,
+    "wof:lastmodified":1566591178,
     "wof:name":"Chashke",
     "wof:parent_id":1108785397,
     "wof:placetype":"locality",

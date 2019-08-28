@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"86.40919,49.35252,86.44919,49.39252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Berel"
     ],
@@ -41,8 +45,7 @@
         "Berel\u2019"
     ],
     "name:und_x_variant":[
-        "Kalmachikha",
-        "Berel"
+        "Kalmachikha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1260151003,
-    "wof:lastmodified":1537659876,
+    "wof:lastmodified":1566591700,
     "wof:name":"Bergiel",
     "wof:parent_id":1108785313,
     "wof:placetype":"locality",

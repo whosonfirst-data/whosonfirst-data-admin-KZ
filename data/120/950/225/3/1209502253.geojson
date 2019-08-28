@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"72.79093,50.09088,72.83093,50.13088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Samarkand"
     ],
@@ -357,7 +361,7 @@
         }
     ],
     "wof:id":1209502253,
-    "wof:lastmodified":1564151592,
+    "wof:lastmodified":1566591606,
     "wof:name":"Samarkand",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",

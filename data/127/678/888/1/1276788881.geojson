@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Atyrau",
     "iso:country":"KZ",
+    "lbl:bbox":"52.61361,47.19722,52.65361,47.23722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eskene"
     ],
@@ -34,8 +38,7 @@
     "name:und_x_variant":[
         "Iskinskiy",
         "Iskine",
-        "Iskininskiy",
-        "Eskene"
+        "Iskininskiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1276788881,
-    "wof:lastmodified":1537659422,
+    "wof:lastmodified":1566591498,
     "wof:name":"Iskininskiy",
     "wof:parent_id":1108785455,
     "wof:placetype":"locality",

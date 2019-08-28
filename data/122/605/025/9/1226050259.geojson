@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"72.67557,50.83348,72.71557,50.87348",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0441\u0442\u0430\u043d\u0446\u0456\u043d\u0430\u045e\u043a\u0430"
     ],
@@ -61,8 +65,7 @@
     "name:und_x_variant":[
         "Konstantinovskoye",
         "Konstantinovskiy",
-        "Konstant\u012bnovka",
-        "Konstantinovka"
+        "Konstant\u012bnovka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1226050259,
-    "wof:lastmodified":1564152631,
+    "wof:lastmodified":1566592249,
     "wof:name":"Konstantinovka",
     "wof:parent_id":1108785443,
     "wof:placetype":"locality",

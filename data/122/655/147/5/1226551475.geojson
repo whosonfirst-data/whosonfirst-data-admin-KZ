@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"72.10982,51.35673,72.14982,51.39673",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u041a\u0438\u0439\u043a\u0430"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226551475,
-    "wof:lastmodified":1537660025,
+    "wof:lastmodified":1566592298,
     "wof:name":"Razvaliny Kiyka",
     "wof:parent_id":1108785443,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.49335,54.46148,70.53335,54.50148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tamanskoye"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "Imeni Tamanskoy Divizii",
-        "Uzun-Kol\u2019",
-        "Tamanskoye"
+        "Uzun-Kol\u2019"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1343830369,
-    "wof:lastmodified":1537659810,
+    "wof:lastmodified":1566591231,
     "wof:name":"Tamanskoye",
     "wof:parent_id":1108785353,
     "wof:placetype":"locality",

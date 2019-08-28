@@ -10,8 +10,12 @@
     "geom:latitude":51.09878,
     "geom:longitude":54.08426,
     "iso:country":"KZ",
+    "lbl:bbox":"54.06426,51.07878,54.10426,51.11878",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chingirlau"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":610091,
         "gp:id":2257086,
-        "qs:id":1308030,
+        "qs_pg:id":1308030,
         "wd:id":"Q4516058",
         "wk:page":"Shyngyrlau"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421196515,
-    "wof:lastmodified":1563250079,
+    "wof:lastmodified":1566591993,
     "wof:name":"Chingirlau",
     "wof:parent_id":85672893,
     "wof:placetype":"locality",

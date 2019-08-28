@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"62.05834,52.36323,62.09834,52.40323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dosovka"
     ],
@@ -32,8 +36,7 @@
         "\u0414\u043e\u0441\u043e\u0432\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Dosovskiy",
-        "Dosovka"
+        "Dosovskiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1260066603,
-    "wof:lastmodified":1537659838,
+    "wof:lastmodified":1566591717,
     "wof:name":"Dosovka",
     "wof:parent_id":1108785661,
     "wof:placetype":"locality",

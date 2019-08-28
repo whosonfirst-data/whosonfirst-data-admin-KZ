@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.69919,42.55717,69.73919,42.59717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041c\u0430\u0434\u0430\u043d\u0438"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327322657,
-    "wof:lastmodified":1537659705,
+    "wof:lastmodified":1566591145,
     "wof:name":"Madani",
     "wof:parent_id":1108785595,
     "wof:placetype":"locality",

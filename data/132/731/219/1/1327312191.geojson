@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"76.564,52.54045,76.604,52.58045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saryshyghanaq"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Saryshyganak",
-        "Zhidkovskiy",
-        "Saryshyghanaq"
+        "Zhidkovskiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1327312191,
-    "wof:lastmodified":1537659476,
+    "wof:lastmodified":1566591089,
     "wof:name":"Zhidkovka",
     "wof:parent_id":1108785551,
     "wof:placetype":"locality",

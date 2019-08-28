@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.9777,52.68495,70.0177,52.72495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "\u016ar\u016bmkay"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242789393,
-    "wof:lastmodified":1537659535,
+    "wof:lastmodified":1566592090,
     "wof:name":"Urumkay",
     "wof:parent_id":1108785629,
     "wof:placetype":"locality",

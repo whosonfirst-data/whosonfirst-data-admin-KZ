@@ -10,6 +10,9 @@
     "geom:latitude":51.1801,
     "geom:longitude":71.44598,
     "iso:country":"KZ",
+    "lbl:bbox":"71.42598,51.1601,71.46598,51.2001",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
@@ -852,9 +855,6 @@
     "name:ukr_x_variant":[
         "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Astana"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0633\u062a\u0627\u0646\u06c1"
     ],
@@ -1072,7 +1072,7 @@
     "wof:concordances":{
         "gn:id":1526273,
         "gp:id":2255886,
-        "qs:id":912979,
+        "qs_pg:id":912979,
         "wd:id":"Q1520",
         "wk:page":"Astana"
     },
@@ -1088,7 +1088,7 @@
         }
     ],
     "wof:id":421182469,
-    "wof:lastmodified":1563250095,
+    "wof:lastmodified":1566591998,
     "wof:name":"Aqmola",
     "wof:parent_id":85672941,
     "wof:placetype":"locality",

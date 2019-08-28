@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"50.03,51.08,50.07,51.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gora Kyzylbas",
         "Gora Kyzyl Baz"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326945049,
-    "wof:lastmodified":1537659425,
+    "wof:lastmodified":1566591110,
     "wof:name":"Gora Kyzyl Baz",
     "wof:parent_id":1108785329,
     "wof:placetype":"locality",

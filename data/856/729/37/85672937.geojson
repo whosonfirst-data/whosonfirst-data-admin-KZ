@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":43.235937,
     "lbl:longitude":76.910369,
+    "lbl:min_zoom":8.0,
     "meso:name_alt2":"Almatinskaya",
     "meso:name_loc":"\u0410\u043b\u043c\u0430\u0442\u044b \u0433.\u0430.",
     "mps:latitude":43.286598,
@@ -225,7 +226,7 @@
         "Almaty"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bb3\u0bcd\u0bae\u0bbe\u0b9f\u0bbf  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b85\u0bb3\u0bcd\u0bae\u0bbe\u0b9f\u0bbf \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0442\u044b \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -343,9 +344,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-02-25",
+    "src:population_date":"2009-02-25",
     "statoids:area_km":"300",
     "statoids:area_mi":"100",
     "statoids:as_of_date":"2009-02-25",
@@ -371,7 +372,7 @@
         "gp:id":20070179,
         "hasc:id":"KZ.AC",
         "iso:id":"KZ-ALA",
-        "qs:id":332221,
+        "qs_pg:id":332221,
         "wd:id":"Q186466",
         "wk:page":"Almaty Region"
     },
@@ -396,11 +397,10 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1565726087,
+    "wof:lastmodified":1566591328,
     "wof:name":"Almaty City",
     "wof:parent_id":85632307,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city with regional status",
     "wof:population":1365632,
     "wof:population_rank":12,

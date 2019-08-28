@@ -10,8 +10,12 @@
     "geom:latitude":51.53092,
     "geom:longitude":69.79684,
     "iso:country":"KZ",
+    "lbl:bbox":"69.77684,51.51092,69.81684,51.55092",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u043a\u0430"
@@ -52,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Astrakhanskiy"
     ],
     "name:uzb_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":1526059,
         "gp:id":2256033,
-        "qs:id":133394,
+        "qs_pg:id":133394,
         "wd:id":"Q3448684",
         "wk:page":"Astrakhanka, Kazakhstan"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421167451,
-    "wof:lastmodified":1563250048,
+    "wof:lastmodified":1566591983,
     "wof:name":"Astrakhanka",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

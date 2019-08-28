@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"75.21683,43.43688,75.25683,43.47688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u0414\u0432\u0430 \u041a\u043e\u043b\u0445\u043e\u0437\u0430 \u0418\u043c\u0435\u043d\u0438 \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242944589,
-    "wof:lastmodified":1537660090,
+    "wof:lastmodified":1566592043,
     "wof:name":"Otdeleniye Nomer Dva Kolkhoza Imeni Kalinina",
     "wof:parent_id":1108785317,
     "wof:placetype":"locality",

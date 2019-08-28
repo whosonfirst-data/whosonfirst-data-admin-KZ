@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.40704,42.50538,70.44704,42.54538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Aqb\u012bik"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309795021,
-    "wof:lastmodified":1537660068,
+    "wof:lastmodified":1566591944,
     "wof:name":"Kuybyshevo",
     "wof:parent_id":1108785605,
     "wof:placetype":"locality",

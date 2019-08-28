@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"72.86494,42.9132,72.90494,42.9532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Tasch\u016blak"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1260056325,
-    "wof:lastmodified":1537660039,
+    "wof:lastmodified":1566591736,
     "wof:name":"Taschulak",
     "wof:parent_id":1108785489,
     "wof:placetype":"locality",

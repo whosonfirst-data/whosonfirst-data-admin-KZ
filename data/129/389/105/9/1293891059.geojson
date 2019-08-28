@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.78717,52.17155,70.82717,52.21155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041c\u0430\u0439"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293891059,
-    "wof:lastmodified":1537659712,
+    "wof:lastmodified":1566591416,
     "wof:name":"Krasnyy May",
     "wof:parent_id":1108785389,
     "wof:placetype":"locality",

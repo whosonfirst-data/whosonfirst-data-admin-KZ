@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"66.44801,52.78391,66.48801,52.82391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lomonosovka"
     ],
@@ -44,8 +48,7 @@
         "Lomonosova",
         "Lomonosov",
         "Lomonosovo",
-        "Lomonosovskiy",
-        "Lomonosovka"
+        "Lomonosovskiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1226628385,
-    "wof:lastmodified":1537659707,
+    "wof:lastmodified":1566592308,
     "wof:name":"Lomonosovka",
     "wof:parent_id":1108785571,
     "wof:placetype":"locality",

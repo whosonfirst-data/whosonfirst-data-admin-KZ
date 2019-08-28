@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"67.93694,54.11819,67.97694,54.15819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Ves\u00ebloye"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260265215,
-    "wof:lastmodified":1537659948,
+    "wof:lastmodified":1566591729,
     "wof:name":"Veseloye",
     "wof:parent_id":1108785563,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"82.78371,48.98804,82.82371,49.02804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maloross\u012byka"
     ],
@@ -36,7 +40,6 @@
     ],
     "name:und_x_variant":[
         "Malorossiyskoye",
-        "Maloross\u012byka",
         "Malorossiyka"
     ],
     "src:geom":"geonames",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1226115521,
-    "wof:lastmodified":1537659700,
+    "wof:lastmodified":1566592242,
     "wof:name":"Malorossiyka",
     "wof:parent_id":1108785463,
     "wof:placetype":"locality",

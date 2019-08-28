@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"77.16894,43.26258,77.20894,43.30258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0458\u0431\u0443\u043b\u0430\u043a"
     ],
@@ -35,8 +39,7 @@
         "Uchastkovoyye Khozyaystvo Sel\u2019skokhozyaystvennyy Institut"
     ],
     "name:und_x_variant":[
-        "Uchastkovoyye Khozyaystvo SKhI",
-        "Baybulak"
+        "Uchastkovoyye Khozyaystvo SKhI"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293901337,
-    "wof:lastmodified":1564151090,
+    "wof:lastmodified":1566591354,
     "wof:name":"Baybulak",
     "wof:parent_id":1108785421,
     "wof:placetype":"locality",

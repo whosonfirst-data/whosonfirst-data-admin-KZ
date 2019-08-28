@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"65.39754,53.78662,65.43754,53.82662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Voskresenka"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u043e\u0432\u043a\u0430"
-    ],
-    "name:und_x_variant":[
-        "Voskresenka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1344233495,
-    "wof:lastmodified":1537659517,
+    "wof:lastmodified":1566591224,
     "wof:name":"Voskresenovka",
     "wof:parent_id":1108785687,
     "wof:placetype":"locality",

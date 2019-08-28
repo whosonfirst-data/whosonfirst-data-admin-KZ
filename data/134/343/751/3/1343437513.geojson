@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"61.77463,52.46266,61.81463,52.50266",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ol'shanskiy"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1343437513,
-    "wof:lastmodified":1537659654,
+    "wof:lastmodified":1566591307,
     "wof:name":"Alshanov",
     "wof:parent_id":1108785661,
     "wof:placetype":"locality",

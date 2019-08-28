@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.58076,42.25461,69.62076,42.29461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0411\u0430\u0434\u0430\u043c \u041d\u043e\u043c\u0435\u0440 \u041e\u0434\u0438\u043d"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293867691,
-    "wof:lastmodified":1537660112,
+    "wof:lastmodified":1566591437,
     "wof:name":"Badam Nomer Odin",
     "wof:parent_id":1108785607,
     "wof:placetype":"locality",

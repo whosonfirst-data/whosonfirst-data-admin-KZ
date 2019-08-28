@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Atyrau",
     "iso:country":"KZ",
+    "lbl:bbox":"47.79222,47.95389,47.83222,47.99389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Batyrbek"
     ],
@@ -32,8 +36,7 @@
         "\u0411\u0430\u0442\u044b\u0440\u0431\u0435\u043a"
     ],
     "name:und_x_variant":[
-        "Bater Bek",
-        "Batyrbek"
+        "Bater Bek"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1243194379,
-    "wof:lastmodified":1537659442,
+    "wof:lastmodified":1566592118,
     "wof:name":"Batyrbek",
     "wof:parent_id":1108785299,
     "wof:placetype":"locality",

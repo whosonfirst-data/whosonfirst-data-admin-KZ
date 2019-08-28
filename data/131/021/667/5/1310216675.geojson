@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.35142,52.4831,70.39142,52.5231",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u044b\u0441\u0442\u0430\u0443\u043a\u0430\u0440\u0430\u0433\u0430\u0439"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310216675,
-    "wof:lastmodified":1537660124,
+    "wof:lastmodified":1566591863,
     "wof:name":"Kystaukaragay",
     "wof:parent_id":1108785389,
     "wof:placetype":"locality",

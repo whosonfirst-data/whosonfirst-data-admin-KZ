@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"66.73375,52.7775,66.77375,52.8175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vozvyshenka"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1327215995,
-    "wof:lastmodified":1537659515,
+    "wof:lastmodified":1566591183,
     "wof:name":"Vozvyshenka",
     "wof:parent_id":1108785571,
     "wof:placetype":"locality",

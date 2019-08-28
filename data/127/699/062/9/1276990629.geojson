@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"76.25028,43.33833,76.29028,43.37833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0422\u0430\u0440\u0430\u043d"
     ],
@@ -72,8 +76,7 @@
         "\u0422\u0430\u0440\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Imeni Tarana",
-        "Taran"
+        "Imeni Tarana"
     ],
     "name:uzb_x_preferred":[
         "Taran"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1276990629,
-    "wof:lastmodified":1564151423,
+    "wof:lastmodified":1566591516,
     "wof:name":"Taran",
     "wof:parent_id":1108785481,
     "wof:placetype":"locality",

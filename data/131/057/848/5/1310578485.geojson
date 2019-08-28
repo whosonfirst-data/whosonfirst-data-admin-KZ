@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"64.53722,47.55833,64.57722,47.59833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koskol\u2019",
         "Qosk\u00f6l"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310578485,
-    "wof:lastmodified":1537659465,
+    "wof:lastmodified":1566591877,
     "wof:name":"Qoskol",
     "wof:parent_id":1108785515,
     "wof:placetype":"locality",

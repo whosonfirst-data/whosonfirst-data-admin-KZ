@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aqtau",
     "iso:country":"KZ",
+    "lbl:bbox":"50.34319,44.61093,50.38319,44.65093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u043c\u044b\u0448"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259579797,
-    "wof:lastmodified":1537659409,
+    "wof:lastmodified":1566592172,
     "wof:name":"Kolmysh",
     "wof:parent_id":1108785341,
     "wof:placetype":"locality",

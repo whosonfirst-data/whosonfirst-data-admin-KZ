@@ -11,10 +11,14 @@
     "geom:longitude":68.35517,
     "gn:country":"KZ",
     "gn:fcode":"PPL",
-    "gn:pop":1354,
+    "gn:population":1354,
     "iso:country":"KZ",
+    "lbl:bbox":"68.33517,53.5636,68.37517,53.6036",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Birlestik"
     ],
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1532249,
         "gp:id":2264642,
-        "qs:id":556764
+        "qs_pg:id":556764
     },
     "wof:country":"KZ",
     "wof:created":1469052986,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890455937,
-    "wof:lastmodified":1505343666,
+    "wof:lastmodified":1566592000,
     "wof:name":"Birlestik",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"66.41879,53.59269,66.45879,53.63269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dzerzh\u012bnsk\u012by"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "Aksuatskiy",
-        "Dzerzhinskoye",
-        "Dzerzh\u012bnsk\u012by"
+        "Dzerzhinskoye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1243233377,
-    "wof:lastmodified":1537659836,
+    "wof:lastmodified":1566592056,
     "wof:name":"Dzerzhinskoye",
     "wof:parent_id":1108785689,
     "wof:placetype":"locality",

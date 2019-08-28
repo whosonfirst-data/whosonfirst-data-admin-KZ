@@ -12,8 +12,12 @@
     "gn:country":"KZ",
     "gp:adm0":23424871,
     "iso:country":"KZ",
+    "lbl:bbox":"63.286827,45.596674,63.326827,45.636674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0422\u0430\u0440\u044d\u0442\u0430\u043c"
     ],
@@ -95,7 +99,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2264978,
-        "qs:id":1131221,
+        "qs_pg:id":1131221,
         "wd:id":"Q2622157",
         "wk:page":"Tyuratam"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":890449769,
-    "wof:lastmodified":1563250101,
+    "wof:lastmodified":1566591998,
     "wof:name":"Tyuratam",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

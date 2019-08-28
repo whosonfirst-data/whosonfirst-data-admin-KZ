@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"77.49557,52.64482,77.53557,52.68482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rozhdestvenka"
     ],
@@ -38,8 +42,7 @@
         "\u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0435\u043d\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Rozhdestvenskoye",
-        "Rozhdestvenka"
+        "Rozhdestvenskoye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1309784055,
-    "wof:lastmodified":1564152105,
+    "wof:lastmodified":1566591948,
     "wof:name":"Rozhdestvenka",
     "wof:parent_id":1108785561,
     "wof:placetype":"locality",

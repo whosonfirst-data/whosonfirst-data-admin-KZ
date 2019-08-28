@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"67.65736,53.25817,67.69736,53.29817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vysokoye"
     ],
@@ -38,8 +42,7 @@
         "\u0412\u044b\u0441\u043e\u043a\u043e\u0435"
     ],
     "name:und_x_variant":[
-        "Shangal",
-        "Vysokoye"
+        "Shangal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1310375057,
-    "wof:lastmodified":1537659513,
+    "wof:lastmodified":1566591837,
     "wof:name":"Vysokoye",
     "wof:parent_id":1108785579,
     "wof:placetype":"locality",

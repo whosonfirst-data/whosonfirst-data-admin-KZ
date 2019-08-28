@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.83918,42.57142,70.87918,42.61142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u0430\u043f\u0442\u044b"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293465975,
-    "wof:lastmodified":1537660069,
+    "wof:lastmodified":1566591357,
     "wof:name":"Talapty",
     "wof:parent_id":1108785737,
     "wof:placetype":"locality",

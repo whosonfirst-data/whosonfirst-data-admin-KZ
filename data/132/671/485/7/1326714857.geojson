@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aqtau",
     "iso:country":"KZ",
+    "lbl:bbox":"54.39861,46.17833,54.43861,46.21833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Borankul"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326714857,
-    "wof:lastmodified":1537659382,
+    "wof:lastmodified":1566591153,
     "wof:name":"Opornyy",
     "wof:parent_id":1108785539,
     "wof:placetype":"locality",

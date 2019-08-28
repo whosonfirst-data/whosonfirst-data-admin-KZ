@@ -10,6 +10,9 @@
     "geom:latitude":52.63373,
     "geom:longitude":70.4177,
     "iso:country":"KZ",
+    "lbl:bbox":"70.3977,52.61373,70.4377,52.65373",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -70,9 +73,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0456\u043d\u0441\u044c\u043a"
-    ],
-    "name:unk_x_variant":[
-        "Mak\u012bnsk"
     ],
     "name:uzb_x_preferred":[
         "Makinsk"
@@ -199,7 +199,7 @@
     "wof:concordances":{
         "gn:id":1521230,
         "gp:id":2264665,
-        "qs:id":658703,
+        "qs_pg:id":658703,
         "wd:id":"Q1019392",
         "wk:page":"Makinsk"
     },
@@ -215,7 +215,7 @@
         }
     ],
     "wof:id":421174011,
-    "wof:lastmodified":1563250061,
+    "wof:lastmodified":1566591987,
     "wof:name":"Makinsk",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

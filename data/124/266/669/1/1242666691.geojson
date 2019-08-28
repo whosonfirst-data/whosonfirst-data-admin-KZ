@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"69.82036,42.65149,69.86036,42.69149",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Qyzylaryq"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242666691,
-    "wof:lastmodified":1537660056,
+    "wof:lastmodified":1566592036,
     "wof:name":"Qyzylaryq",
     "wof:parent_id":1108785583,
     "wof:placetype":"locality",

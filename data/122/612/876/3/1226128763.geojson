@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"65.4274,52.16392,65.4674,52.20392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Timt\u00fcyir"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226128763,
-    "wof:lastmodified":1537659541,
+    "wof:lastmodified":1566592287,
     "wof:name":"Tyuntyugur",
     "wof:parent_id":1108785533,
     "wof:placetype":"locality",

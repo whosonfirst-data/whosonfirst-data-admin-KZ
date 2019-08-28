@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.11771,40.77271,68.15771,40.81271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u0422\u0440\u0438 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u0418\u043c\u0435\u043d\u0438 \u041b\u0435\u043d\u0438\u043d\u0430"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344250999,
-    "wof:lastmodified":1537660079,
+    "wof:lastmodified":1566591212,
     "wof:name":"Otdeleniye Nomer Tri Sovkhoza Imeni Lenina",
     "wof:parent_id":1108785361,
     "wof:placetype":"locality",

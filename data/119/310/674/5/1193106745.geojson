@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"67.72412,54.63192,67.76412,54.67192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oktyabr'"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1193106745,
-    "wof:lastmodified":1537659946,
+    "wof:lastmodified":1566591695,
     "wof:name":"Oktyabr'",
     "wof:parent_id":1108785565,
     "wof:placetype":"locality",

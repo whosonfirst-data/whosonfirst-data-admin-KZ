@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.37031,43.91406,70.41031,43.95406",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Toghyzken"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1327197659,
-    "wof:lastmodified":1537659552,
+    "wof:lastmodified":1566591181,
     "wof:name":"Toghyzken",
     "wof:parent_id":1108785511,
     "wof:placetype":"locality",

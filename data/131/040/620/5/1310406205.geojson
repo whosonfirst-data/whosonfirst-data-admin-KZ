@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Aqtobe",
     "iso:country":"KZ",
+    "lbl:bbox":"56.76221,50.94072,56.80221,50.98072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Baturasay"
     ],
@@ -38,8 +42,7 @@
         "\u0411\u0430\u0439\u0442\u0443\u0440\u0430\u0441\u0430\u0439"
     ],
     "name:und_x_variant":[
-        "Bayturusayevskiy",
-        "Baturasay"
+        "Bayturusayevskiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1310406205,
-    "wof:lastmodified":1564151878,
+    "wof:lastmodified":1566591820,
     "wof:name":"Baturasay",
     "wof:parent_id":1108785323,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"76.42421,50.52387,76.46421,50.56387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0428\u043e\u043d\u0433\u044b"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226130445,
-    "wof:lastmodified":1537660128,
+    "wof:lastmodified":1566592273,
     "wof:name":"Shongy",
     "wof:parent_id":1108785655,
     "wof:placetype":"locality",

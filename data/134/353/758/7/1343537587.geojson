@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"70.62894,42.68904,70.66894,42.72904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Shynbulaq"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343537587,
-    "wof:lastmodified":1537659860,
+    "wof:lastmodified":1566591201,
     "wof:name":"Bratskoye",
     "wof:parent_id":1108785737,
     "wof:placetype":"locality",

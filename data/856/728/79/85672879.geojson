@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":52.108256,
     "lbl:longitude":63.679879,
+    "lbl:min_zoom":8.0,
     "meso:name_alt2":"Kustanayskaya",
     "meso:name_loc":"\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "mps:latitude":52.085726,
@@ -215,7 +216,7 @@
         "Qostanaj"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcb\u0bb8\u0bcd\u0b9f\u0bbe\u0ba9\u0bbe\u0baf\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b95\u0bcb\u0bb8\u0bcd\u0b9f\u0bbe\u0ba9\u0bbe\u0baf\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439 \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -246,9 +247,6 @@
     ],
     "name:und_x_variant":[
         "Kustanayskaya",
-        "\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
         "Kustanayskaya Oblast\u2019"
     ],
     "name:urd_x_preferred":[
@@ -338,9 +336,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-02-25",
+    "src:population_date":"2009-02-25",
     "statoids:area_km":"196,000",
     "statoids:area_mi":"75,700",
     "statoids:as_of_date":"2009-02-25",
@@ -364,7 +362,7 @@
         "gp:id":20070176,
         "hasc:id":"KZ.QS",
         "iso:id":"KZ-KUS",
-        "qs:id":1085810,
+        "qs_pg:id":1085810,
         "wd:id":"Q485605",
         "wk:page":"Kostanay Region"
     },
@@ -386,11 +384,10 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1565726082,
+    "wof:lastmodified":1566591319,
     "wof:name":"Qostanay",
     "wof:parent_id":85632307,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":885570,
     "wof:population_rank":11,

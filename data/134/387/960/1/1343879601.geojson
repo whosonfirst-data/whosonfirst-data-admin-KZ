@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"48.75694,50.45944,48.79694,50.49944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Molotkov"
     ],
@@ -33,8 +37,7 @@
         "\u041c\u043e\u043b\u043e\u0442\u043a\u043e\u0432"
     ],
     "name:und_x_variant":[
-        "Khutor Molotkov",
-        "Molotkov"
+        "Khutor Molotkov"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1343879601,
-    "wof:lastmodified":1537659389,
+    "wof:lastmodified":1566591293,
     "wof:name":"Molotkov",
     "wof:parent_id":1108785703,
     "wof:placetype":"locality",

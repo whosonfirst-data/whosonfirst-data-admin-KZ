@@ -11,10 +11,14 @@
     "geom:longitude":83.52475,
     "gn:country":"KZ",
     "gn:fcode":"PPL",
-    "gn:pop":6026,
+    "gn:population":6026,
     "iso:country":"KZ",
+    "lbl:bbox":"83.50475,49.6095,83.54475,49.6495",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041d\u043e\u0432\u0430\u044f \u0411\u0443\u0445\u0442\u0430\u0440\u043c\u0430"
     ],
@@ -36,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0411\u0443\u0445\u0442\u0430\u0440\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novaya Bukhtarma"
     ],
     "qs:name":"Zhanga Buqtyrma",
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":1520660,
         "gp:id":2263064,
-        "qs:id":133275,
+        "qs_pg:id":133275,
         "wd:id":"Q4321981"
     },
     "wof:country":"KZ",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890421709,
-    "wof:lastmodified":1563250109,
+    "wof:lastmodified":1566592001,
     "wof:name":"Zhanga Buqtyrma",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"53.08946,49.94188,53.12946,49.98188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Imeni Molotova",
         "Sarygyul\u2019",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293705035,
-    "wof:lastmodified":1537659372,
+    "wof:lastmodified":1566591363,
     "wof:name":"Sarygol'",
     "wof:parent_id":1108785495,
     "wof:placetype":"locality",

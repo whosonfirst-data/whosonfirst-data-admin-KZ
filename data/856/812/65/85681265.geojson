@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":45.978331,
     "lbl:longitude":63.383897,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.978331,
     "mps:longitude":63.383897,
     "mz:hierarchy_label":1,
@@ -45,7 +46,7 @@
     "name:rus_x_variant":[
         "\u0413\u043e\u0440\u043e\u0434 \u0411\u0430\u0439\u043a\u043e\u043d\u044b\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorod Baykonyr"
     ],
     "ne:abbrev":"",
@@ -119,8 +120,8 @@
     "qs:woeid":2345990,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"2009-02-25",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"2009-02-25",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2009-02-25",
@@ -157,11 +158,10 @@
         }
     ],
     "wof:id":85681265,
-    "wof:lastmodified":1565726080,
+    "wof:lastmodified":1566591316,
     "wof:name":"Baykonur lease in Qyzylorda",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city with regional status",
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:shortcode":"BY",

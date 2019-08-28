@@ -10,6 +10,9 @@
     "geom:latitude":45.25201,
     "geom:longitude":77.98007,
     "iso:country":"KZ",
+    "lbl:bbox":"77.96007,45.23201,78.00007,45.27201",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -67,9 +70,6 @@
     ],
     "name:ukr_x_variant":[
         "Zharyk"
-    ],
-    "name:unk_x_variant":[
-        "Ush-Tyube"
     ],
     "name:uzb_x_preferred":[
         "Uchtepa"
@@ -199,7 +199,7 @@
     "wof:concordances":{
         "gn:id":1517637,
         "gp:id":2264995,
-        "qs:id":133195,
+        "qs_pg:id":133195,
         "wd:id":"Q254928",
         "wk:page":"Ushtobe"
     },
@@ -215,7 +215,7 @@
         }
     ],
     "wof:id":421167367,
-    "wof:lastmodified":1563250045,
+    "wof:lastmodified":1566591982,
     "wof:name":"Ushtobe",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

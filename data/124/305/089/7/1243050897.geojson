@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"78.50798,50.78728,78.54798,50.82728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Topol'ka"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243050897,
-    "wof:lastmodified":1537659550,
+    "wof:lastmodified":1566592081,
     "wof:name":"Topol'ka",
     "wof:parent_id":1108785639,
     "wof:placetype":"locality",

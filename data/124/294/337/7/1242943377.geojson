@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"79.70454,50.46571,79.74454,50.50571",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bukenchi"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Bukunshi",
-        "Bukunchi",
-        "Bukenchi"
+        "Bukunchi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1242943377,
-    "wof:lastmodified":1537659858,
+    "wof:lastmodified":1566592041,
     "wof:name":"Bokenshi",
     "wof:parent_id":1108785641,
     "wof:placetype":"locality",

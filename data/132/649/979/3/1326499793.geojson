@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.70353,55.1655,68.74353,55.2055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041b\u0435\u0431\u0435\u0434\u043a\u0438"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326499793,
-    "wof:lastmodified":1537659712,
+    "wof:lastmodified":1566591153,
     "wof:name":"Lebedki",
     "wof:parent_id":1108785355,
     "wof:placetype":"locality",

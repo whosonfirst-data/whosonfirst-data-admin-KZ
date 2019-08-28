@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"78.68664,49.18011,78.72664,49.22011",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Atey"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344127263,
-    "wof:lastmodified":1537659899,
+    "wof:lastmodified":1566591221,
     "wof:name":"Atey",
     "wof:parent_id":1108785727,
     "wof:placetype":"locality",

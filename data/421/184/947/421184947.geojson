@@ -10,8 +10,12 @@
     "geom:latitude":49.14391,
     "geom:longitude":56.48196,
     "iso:country":"KZ",
+    "lbl:bbox":"56.46196,49.12391,56.50196,49.16391",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Shubarkuduk"
@@ -22,7 +26,7 @@
     "name:rus_x_preferred":[
         "\u0428\u0443\u0431\u0430\u0440\u043a\u0443\u0434\u0443\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chubar Kuduk"
     ],
     "qs:gn_country":"KZ",
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":608271,
         "gp:id":2264884,
-        "qs:id":1308357
+        "qs_pg:id":1308357
     },
     "wof:country":"KZ",
     "wof:created":1459009427,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421184947,
-    "wof:lastmodified":1505340690,
+    "wof:lastmodified":1566591995,
     "wof:name":"Shubarkuduk",
     "wof:parent_id":85672877,
     "wof:placetype":"locality",

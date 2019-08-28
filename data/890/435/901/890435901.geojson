@@ -11,10 +11,14 @@
     "geom:longitude":76.94,
     "gn:country":"KZ",
     "gn:fcode":"PPL",
-    "gn:pop":7874,
+    "gn:population":7874,
     "iso:country":"KZ",
+    "lbl:bbox":"76.92,43.35361,76.96,43.39361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Pervomayskiy"
     ],
@@ -42,7 +46,7 @@
     "name:rus_x_variant":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Imeni Pervaya Maya"
     ],
     "qs:name":"Pervomayskiy",
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":1520208,
         "gp:id":12514260,
-        "qs:id":133256,
+        "qs_pg:id":133256,
         "wd:id":"Q3900621",
         "wk:page":"Pervomaysky"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890435901,
-    "wof:lastmodified":1561828612,
+    "wof:lastmodified":1566592004,
     "wof:name":"Pervomayskiy",
     "wof:parent_id":85672937,
     "wof:placetype":"locality",

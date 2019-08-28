@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"81.64215,48.32954,81.68215,48.36954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Algabas"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1343732441,
-    "wof:lastmodified":1564151000,
+    "wof:lastmodified":1566591289,
     "wof:name":"Algabas",
     "wof:parent_id":1108785469,
     "wof:placetype":"locality",

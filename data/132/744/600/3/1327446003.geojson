@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Oral",
     "iso:country":"KZ",
+    "lbl:bbox":"48.91333,50.48,48.95333,50.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kartash\u00ebv"
     ],
@@ -33,8 +37,7 @@
         "\u041a\u0430\u0440\u0442\u0430\u0448\u043e\u0432"
     ],
     "name:und_x_variant":[
-        "Kartashov",
-        "Kartash\u00ebv"
+        "Kartashov"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1327446003,
-    "wof:lastmodified":1537659413,
+    "wof:lastmodified":1566591180,
     "wof:name":"Kartashev",
     "wof:parent_id":1108785703,
     "wof:placetype":"locality",

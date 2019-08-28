@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":50.765149,
     "lbl:longitude":75.516527,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:delete_fla":"2",
     "meso:dissme":"\u0411\u0430\u044f\u043d\u0430\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -36,6 +38,7 @@
     "mps:longitude":75.516527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0430\u0443\u044b\u043b \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -90,16 +93,13 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0430\u0443\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0411\u0430\u044f\u043d\u0430\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:uzb_x_preferred":[
         "Bayanavul"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-04-01",
+    "src:population_date":"1999-04-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"1999-04-01",
     "statoids:capital":"Bayan",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1108785655,
-    "wof:lastmodified":1563249695,
+    "wof:lastmodified":1566591786,
     "wof:name":"Bayanaul`skiy",
     "wof:parent_id":85672911,
     "wof:placetype":"county",

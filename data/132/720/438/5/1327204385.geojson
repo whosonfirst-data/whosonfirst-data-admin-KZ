@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"80.44854,50.18072,80.48854,50.22072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u0428\u043e\u043f\u0442\u044b\u0433\u0430\u043a"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327204385,
-    "wof:lastmodified":1537659589,
+    "wof:lastmodified":1566591190,
     "wof:name":"Razvaliny Shoptygak",
     "wof:parent_id":1108785641,
     "wof:placetype":"locality",

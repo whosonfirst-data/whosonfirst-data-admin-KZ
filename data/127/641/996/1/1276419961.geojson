@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"64.5558,53.32456,64.5958,53.36456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tanabayevskiy"
     ],
@@ -38,8 +42,7 @@
         "\u0422\u0430\u043d\u0430\u0431\u0430\u0435\u0432\u0441\u043a\u0438\u0439"
     ],
     "name:und_x_variant":[
-        "Imeni Dimitrova",
-        "Tanabayevskiy"
+        "Imeni Dimitrova"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1276419961,
-    "wof:lastmodified":1537659565,
+    "wof:lastmodified":1566591506,
     "wof:name":"Tanabayevskiy",
     "wof:parent_id":1108785531,
     "wof:placetype":"locality",

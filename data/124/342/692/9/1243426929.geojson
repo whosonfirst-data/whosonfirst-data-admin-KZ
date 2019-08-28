@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"71.1052,53.57488,71.1452,53.61488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ashchykol'"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1243426929,
-    "wof:lastmodified":1537659969,
+    "wof:lastmodified":1566592113,
     "wof:name":"Ashchykol'",
     "wof:parent_id":1108785683,
     "wof:placetype":"locality",

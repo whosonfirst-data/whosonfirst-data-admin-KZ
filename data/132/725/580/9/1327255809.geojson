@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Atyrau",
     "iso:country":"KZ",
+    "lbl:bbox":"53.24667,48.86333,53.28667,48.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kuzdygarakol\u2019",
         "Kuzdykarakol\u2019"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327255809,
-    "wof:lastmodified":1537659397,
+    "wof:lastmodified":1566591123,
     "wof:name":"Kuzdykarakol'",
     "wof:parent_id":1108785453,
     "wof:placetype":"locality",

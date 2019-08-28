@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"68.28237,43.26332,68.32237,43.30332",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kalinino"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1326519233,
-    "wof:lastmodified":1564150624,
+    "wof:lastmodified":1566591107,
     "wof:name":"Kalinino",
     "wof:parent_id":1108785667,
     "wof:placetype":"locality",

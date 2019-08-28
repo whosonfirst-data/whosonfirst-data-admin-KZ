@@ -10,6 +10,9 @@
     "geom:latitude":46.11917,
     "geom:longitude":73.61917,
     "iso:country":"KZ",
+    "lbl:bbox":"73.59917,46.09917,73.63917,46.13917",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -187,7 +190,7 @@
     "wof:concordances":{
         "gn:id":1519563,
         "gp:id":2264832,
-        "qs:id":273994,
+        "qs_pg:id":273994,
         "wd:id":"Q262448",
         "wk:page":"Saryshaghan"
     },
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":421179995,
-    "wof:lastmodified":1563250091,
+    "wof:lastmodified":1566591996,
     "wof:name":"Saryshagan",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

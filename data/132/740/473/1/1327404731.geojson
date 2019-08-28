@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"67.39137,43.57533,67.43137,43.61533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Toghyzken"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327404731,
-    "wof:lastmodified":1537659933,
+    "wof:lastmodified":1566591128,
     "wof:name":"Togusken",
     "wof:parent_id":1108785669,
     "wof:placetype":"locality",

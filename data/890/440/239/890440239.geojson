@@ -11,11 +11,15 @@
     "geom:longitude":72.78333,
     "gn:country":"KZ",
     "gn:fcode":"PPL",
-    "gn:pop":1804,
+    "gn:population":1804,
     "iso:country":"KZ",
+    "lbl:bbox":"72.76333,44.98,72.80333,45.02",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Akbakay"
     ],
     "qs:name":"Aqbaqay",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":1526900,
         "gp:id":2263689,
-        "qs:id":276695
+        "qs_pg:id":276695
     },
     "wof:country":"KZ",
     "wof:created":1469052267,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890440239,
-    "wof:lastmodified":1505343575,
+    "wof:lastmodified":1566591998,
     "wof:name":"Aqbaqay",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

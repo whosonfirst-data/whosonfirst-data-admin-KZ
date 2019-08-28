@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KZ",
+    "lbl:bbox":"82.67755,48.7629,82.71755,48.8029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "\u00dclken B\u00f6ken"
     ],
@@ -42,8 +46,7 @@
         "Bol\u2019shaya Bukon\u2019",
         "Bol\u2019shoy Boken",
         "Bukon\u2019",
-        "Bol\u2019shaya Boken\u2019",
-        "\u00dclken B\u00f6ken"
+        "Bol\u2019shaya Boken\u2019"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1260050253,
-    "wof:lastmodified":1537659866,
+    "wof:lastmodified":1566591736,
     "wof:name":"Ulken Boken",
     "wof:parent_id":1108785463,
     "wof:placetype":"locality",

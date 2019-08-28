@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"63.94415,45.45503,63.98415,45.49503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Kal\u012bn\u012bno"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1277160833,
-    "wof:lastmodified":1537659771,
+    "wof:lastmodified":1566591541,
     "wof:name":"Kentogay",
     "wof:parent_id":1108785695,
     "wof:placetype":"locality",

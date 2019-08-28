@@ -10,8 +10,12 @@
     "geom:latitude":54.34786,
     "geom:longitude":68.4598,
     "iso:country":"KZ",
+    "lbl:bbox":"68.4398,54.32786,68.4798,54.36786",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Yavlenka"
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":1517305,
         "gp:id":2265024,
-        "qs:id":276607,
+        "qs_pg:id":276607,
         "wd:id":"Q41215"
     },
     "wof:country":"KZ",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421178029,
-    "wof:lastmodified":1563250093,
+    "wof:lastmodified":1566591997,
     "wof:name":"Yavlenka",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

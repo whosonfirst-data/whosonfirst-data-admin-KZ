@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qyzylorda",
     "iso:country":"KZ",
+    "lbl:bbox":"67.20466,43.86209,67.24466,43.90209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "\u00c4limk\u00f6l"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343745469,
-    "wof:lastmodified":1537660073,
+    "wof:lastmodified":1566591297,
     "wof:name":"Alimkol",
     "wof:parent_id":1108785669,
     "wof:placetype":"locality",

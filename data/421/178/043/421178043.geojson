@@ -10,8 +10,12 @@
     "geom:latitude":41.26182,
     "geom:longitude":67.98437,
     "iso:country":"KZ",
+    "lbl:bbox":"67.96437,41.24182,68.00437,41.28182",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0428\u0430\u0440\u0434\u0430\u0440\u0430"
@@ -76,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0440\u0434\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Chardara"
-    ],
     "name:uzb_x_preferred":[
         "Chordara"
     ],
@@ -118,7 +119,7 @@
     "wof:concordances":{
         "gn:id":1524889,
         "gp:id":56122395,
-        "qs:id":276675,
+        "qs_pg:id":276675,
         "wd:id":"Q1047741"
     },
     "wof:country":"KZ",
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421178043,
-    "wof:lastmodified":1563250094,
+    "wof:lastmodified":1566591997,
     "wof:name":"Shardara",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

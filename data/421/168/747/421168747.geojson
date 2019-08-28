@@ -10,6 +10,9 @@
     "geom:latitude":51.23333,
     "geom:longitude":51.36667,
     "iso:country":"KZ",
+    "lbl:bbox":"51.34667,51.21333,51.38667,51.25333",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -376,7 +379,7 @@
     "wof:concordances":{
         "gn:id":608668,
         "gp:id":2264983,
-        "qs:id":275117,
+        "qs_pg:id":275117,
         "wd:id":"Q487439",
         "wk:page":"Oral, Kazakhstan"
     },
@@ -392,7 +395,7 @@
         }
     ],
     "wof:id":421168747,
-    "wof:lastmodified":1563250019,
+    "wof:lastmodified":1566591975,
     "wof:name":"Oral",
     "wof:parent_id":85672893,
     "wof:placetype":"locality",
