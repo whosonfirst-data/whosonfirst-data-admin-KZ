@@ -1,15 +1,17 @@
 {
   "id": 421175035,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-kz",
+  "properties": {
+    "src:alt_label":"naturalearth",
     "src:geom":"naturalearth",
-    "wof:geomhash":"ba436a90339180919d3663773cc1b903",
-    "wof:id":421175035
+    "wof:geomhash":"62224a0c0f6e546e4b4fa3995b367c71",
+    "wof:id":421175035,
+    "wof:repo":"whosonfirst-data-admin-kz"
 },
   "bbox": [
-    51.236500202240904,
+    51.2365002022409,
     43.62318869940964,
-    51.236500202240904,
+    51.2365002022409,
     43.62318869940964
 ],
   "geometry": {"coordinates":[51.2365002022409,43.62318869940964],"type":"Point"}

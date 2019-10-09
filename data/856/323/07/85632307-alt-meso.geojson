@@ -1,10 +1,12 @@
 {
   "id": "85632307",
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-kz",
+  "properties": {
+    "src:alt_label":"meso",
     "src:geom":"meso",
-    "wof:geomhash":"b3350a893c3292103216a01601fb35f8",
-    "wof:id":"85632307"
+    "wof:geomhash":"fc834b304ef509372a78481ef922a798",
+    "wof:id":"85632307",
+    "wof:repo":"whosonfirst-data-admin-kz"
 },
   "bbox": [
     46.49367200000012,
