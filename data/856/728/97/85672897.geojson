@@ -372,6 +372,9 @@
         "wk:page":"Akmola Region"
     },
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a8841434544ad23a2d7b3826d8c06166",
     "wof:hierarchy":[
         {
@@ -389,7 +392,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591319,
+    "wof:lastmodified":1582318965,
     "wof:name":"Aqmola",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

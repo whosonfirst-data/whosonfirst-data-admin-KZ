@@ -1127,7 +1127,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1180,6 +1181,11 @@
     },
     "wof:country":"KZ",
     "wof:country_alpha3":"KAZ",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"9b9b4c1a779331268e4b58f811aeb2f8",
     "wof:hierarchy":[
         {
@@ -1196,7 +1202,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591309,
+    "wof:lastmodified":1582318959,
     "wof:name":"Kazakhstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

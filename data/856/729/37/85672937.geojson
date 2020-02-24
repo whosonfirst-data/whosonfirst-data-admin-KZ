@@ -380,6 +380,9 @@
         1108785435
     ],
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2058eb3533afff91ba0f8a77662e4688",
     "wof:hierarchy":[
         {
@@ -397,7 +400,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591328,
+    "wof:lastmodified":1582318971,
     "wof:name":"Almaty City",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

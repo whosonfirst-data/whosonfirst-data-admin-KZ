@@ -372,6 +372,9 @@
         "wk:page":"Almaty Region"
     },
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"491811a021b98b7e7f234f35c02d819c",
     "wof:hierarchy":[
         {
@@ -389,7 +392,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591325,
+    "wof:lastmodified":1582318969,
     "wof:name":"Almaty",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

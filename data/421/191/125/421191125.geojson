@@ -994,6 +994,9 @@
     ],
     "wof:country":"KZ",
     "wof:created":1459009680,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b58562dd5438e643fb47b39c30797d93",
     "wof:hierarchy":[
         {
@@ -1004,7 +1007,7 @@
         }
     ],
     "wof:id":421191125,
-    "wof:lastmodified":1566591993,
+    "wof:lastmodified":1582318987,
     "wof:name":"Astana",
     "wof:parent_id":85672941,
     "wof:placetype":"locality",

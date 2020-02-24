@@ -369,6 +369,9 @@
         "wk:page":"Atyrau Region"
     },
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"830a058db55ce8d7d085a34ec3885136",
     "wof:hierarchy":[
         {
@@ -386,7 +389,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591318,
+    "wof:lastmodified":1582318965,
     "wof:name":"Atyrau",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

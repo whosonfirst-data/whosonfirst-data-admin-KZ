@@ -363,6 +363,9 @@
         "wk:page":"Pavlodar Region"
     },
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d197c72f4da5c8646fbd6b4c065a0cc9",
     "wof:hierarchy":[
         {
@@ -380,7 +383,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591325,
+    "wof:lastmodified":1582318969,
     "wof:name":"Pavlodar",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

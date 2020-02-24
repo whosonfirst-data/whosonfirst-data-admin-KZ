@@ -154,6 +154,9 @@
         421191125
     ],
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b58562dd5438e643fb47b39c30797d93",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591329,
+    "wof:lastmodified":1582318971,
     "wof:name":"Astana",
     "wof:parent_id":85632307,
     "wof:placetype":"region",
