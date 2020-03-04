@@ -346,6 +346,9 @@
     },
     "wof:country":"KZ",
     "wof:created":1459009053,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"36af8c2c5ff011a2375b6c9398978e38",
     "wof:hierarchy":[
         {
@@ -356,7 +359,7 @@
         }
     ],
     "wof:id":421175035,
-    "wof:lastmodified":1561828608,
+    "wof:lastmodified":1582318987,
     "wof:name":"Aqtau",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",

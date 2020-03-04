@@ -379,6 +379,9 @@
         "wk:page":"North Kazakhstan Region"
     },
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9226604dc9a4aee00fb07c31881a6c81",
     "wof:hierarchy":[
         {
@@ -396,7 +399,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591327,
+    "wof:lastmodified":1582318970,
     "wof:name":"North Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

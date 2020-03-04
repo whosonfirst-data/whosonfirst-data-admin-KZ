@@ -416,6 +416,9 @@
         "wk:page":"South Kazakhstan Region"
     },
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b736a2c7a9c1e7904d88f299b6d64f30",
     "wof:hierarchy":[
         {
@@ -433,7 +436,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591324,
+    "wof:lastmodified":1582318968,
     "wof:name":"South Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

@@ -367,6 +367,9 @@
         "wk:page":"Kostanay Region"
     },
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5b02985ea9346d5a8c6ae8e9afeed800",
     "wof:hierarchy":[
         {
@@ -384,7 +387,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591319,
+    "wof:lastmodified":1582318966,
     "wof:name":"Qostanay",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

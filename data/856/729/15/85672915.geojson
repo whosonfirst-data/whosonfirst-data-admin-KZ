@@ -388,6 +388,9 @@
         "wk:page":"East Kazakhstan Region"
     },
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9f41d9746e30e98e4510fdfd3c0fe99d",
     "wof:hierarchy":[
         {
@@ -405,7 +408,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591329,
+    "wof:lastmodified":1582318972,
     "wof:name":"East Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

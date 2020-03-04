@@ -368,6 +368,9 @@
         "wk:page":"Aktobe Region"
     },
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a421ed920ed38471c9669cb8dbe18390",
     "wof:hierarchy":[
         {
@@ -385,7 +388,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591321,
+    "wof:lastmodified":1582318967,
     "wof:name":"Aqt\u00f6be",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

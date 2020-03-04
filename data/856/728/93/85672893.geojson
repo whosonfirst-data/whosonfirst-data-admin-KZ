@@ -380,6 +380,9 @@
         "wk:page":"West Kazakhstan Region"
     },
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"35f1fc3773ca66c978b1a76b5ad3be3d",
     "wof:hierarchy":[
         {
@@ -397,7 +400,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591317,
+    "wof:lastmodified":1582318964,
     "wof:name":"West Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

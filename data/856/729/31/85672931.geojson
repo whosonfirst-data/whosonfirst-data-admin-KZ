@@ -333,6 +333,9 @@
         "wk:page":"Jambyl Region"
     },
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"07bf03034817e73ee4bc0e56fd1246c8",
     "wof:hierarchy":[
         {
@@ -350,7 +353,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591328,
+    "wof:lastmodified":1582318971,
     "wof:name":"Zhambyl",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

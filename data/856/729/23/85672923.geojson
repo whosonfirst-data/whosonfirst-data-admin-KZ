@@ -360,6 +360,9 @@
         "wk:page":"Mangystau Region"
     },
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1d0455eb1988850af5cb715f4006f92a",
     "wof:hierarchy":[
         {
@@ -377,7 +380,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591329,
+    "wof:lastmodified":1582318971,
     "wof:name":"Mangghystau",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

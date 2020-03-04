@@ -214,6 +214,9 @@
     },
     "wof:country":"KZ",
     "wof:created":1459009895,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"73578a3df217e7d409742f4f32960cbc",
     "wof:hierarchy":[
         {
@@ -224,7 +227,7 @@
         }
     ],
     "wof:id":421196855,
-    "wof:lastmodified":1566591992,
+    "wof:lastmodified":1582318987,
     "wof:name":"Beyneu",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",

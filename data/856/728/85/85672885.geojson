@@ -363,6 +363,9 @@
         "wk:page":"Kyzylorda Region"
     },
     "wof:country":"KZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"299d3b5977516fa9fccc537a76a4b885",
     "wof:hierarchy":[
         {
@@ -380,7 +383,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1566591322,
+    "wof:lastmodified":1582318967,
     "wof:name":"Qyzylorda",
     "wof:parent_id":85632307,
     "wof:placetype":"region",
