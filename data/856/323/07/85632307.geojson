@@ -1158,9 +1158,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Kazakhstan",
-        "digitalenvoy:country_code":[
-            398
-        ],
+        "digitalenvoy:country_code":398,
         "fb:id":"en.kazakhstan",
         "fifa:id":"KAZ",
         "fips:code":"KZ",
@@ -1204,7 +1202,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1583529166,
+    "wof:lastmodified":1583797372,
     "wof:name":"Kazakhstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
