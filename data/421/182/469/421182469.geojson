@@ -50,17 +50,24 @@
     "name:ara_x_variant":[
         "\u0646\u0648\u0631 \u0633\u0644\u0637\u0627\u0646"
     ],
+    "name:arc_x_preferred":[
+        "\u0722\u0718\u072a \u0723\u0718\u0720\u071b\u0710\u0722"
+    ],
     "name:arg_x_preferred":[
         "Astan\u00e1"
     ],
     "name:arg_x_variant":[
         "Nursultano"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0648\u0631 \u0633\u0644\u0637\u0627\u0646"
+    ],
     "name:ast_x_preferred":[
         "Astan\u00e1"
     ],
     "name:ast_x_variant":[
-        "Nur-Sult\u00e1n"
+        "Nur-Sult\u00e1n",
+        "Nur-Sultan"
     ],
     "name:ava_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
@@ -161,6 +168,9 @@
     "name:dan_x_variant":[
         "Nur-Sultan"
     ],
+    "name:deu_ch_x_preferred":[
+        "Nur-Sultan"
+    ],
     "name:deu_x_preferred":[
         "Astana"
     ],
@@ -185,6 +195,12 @@
     "name:ell_x_variant":[
         "\u0391\u03c3\u03c4\u03b1\u03bd\u03ac",
         "\u039d\u03bf\u03c5\u03c1\u03c3\u03bf\u03c5\u03bb\u03c4\u03ac\u03bd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Nur-Sultan"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Nur-Sultan"
     ],
     "name:eng_x_preferred":[
         "Astana"
@@ -292,6 +308,9 @@
         "Astana"
     ],
     "name:hat_x_variant":[
+        "Nur-Sultan"
+    ],
+    "name:hau_x_preferred":[
         "Nur-Sultan"
     ],
     "name:heb_x_preferred":[
@@ -420,6 +439,9 @@
     "name:kbd_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
     ],
+    "name:kbd_x_variant":[
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
+    ],
     "name:kin_x_preferred":[
         "Astana"
     ],
@@ -434,6 +456,9 @@
     ],
     "name:koi_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
+    ],
+    "name:koi_x_variant":[
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
     ],
     "name:kom_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
@@ -463,7 +488,8 @@
         "Astana"
     ],
     "name:lat_x_variant":[
-        "Nur-Sultan"
+        "Nur-Sultan",
+        "Nursultan"
     ],
     "name:lav_x_preferred":[
         "Astana"
@@ -598,7 +624,8 @@
         "Astana"
     ],
     "name:nld_x_variant":[
-        "Noersoeltan"
+        "Noersoeltan",
+        "Nur-Sultan"
     ],
     "name:nno_x_preferred":[
         "Astana"
@@ -671,6 +698,9 @@
     ],
     "name:pol_x_variant":[
         "Nur-Su\u0142tan"
+    ],
+    "name:por_br_x_preferred":[
+        "Nur-Sultan"
     ],
     "name:por_x_preferred":[
         "Astana"
@@ -945,6 +975,21 @@
     "name:zha_x_variant":[
         "Nur-Sultan"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u52aa\u5c14-\u82cf\u4e39"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u52aa\u723e\u8607\u4e39"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u52aa\u5c14-\u82cf\u4e39"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u52aa\u5c14-\u82cf\u4e39"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u52aa\u723e\u8607\u4e39"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u65af\u5854\u7d0d"
     ],
@@ -1088,7 +1133,7 @@
         }
     ],
     "wof:id":421182469,
-    "wof:lastmodified":1566591998,
+    "wof:lastmodified":1587428225,
     "wof:name":"Aqmola",
     "wof:parent_id":85672941,
     "wof:placetype":"locality",
