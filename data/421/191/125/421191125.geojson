@@ -698,10 +698,10 @@
         "Nur-Sultan"
     ],
     "name:rus_x_preferred":[
-        "\u0410\u0441\u0442\u0430\u043d\u0430"
+        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
     ],
     "name:rus_x_variant":[
-        "\u041d\u0443\u0440-\u0421\u0443\u043b\u0442\u0430\u043d"
+        "\u0410\u0441\u0442\u0430\u043d\u0430"
     ],
     "name:sah_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
@@ -1009,7 +1009,7 @@
         }
     ],
     "wof:id":421191125,
-    "wof:lastmodified":1607390902,
+    "wof:lastmodified":1614894915,
     "wof:name":"Astana",
     "wof:parent_id":85672941,
     "wof:placetype":"locality",
