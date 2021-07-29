@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":95.215489,
-    "geom:bbox":"85.2579463415,49.5887772011,85.2585256514,49.5894000417",
+    "geom:bbox":"85.257946,49.588777,85.258526,49.5894",
     "geom:latitude":49.589129,
-    "geom:longitude":85.258286,
+    "geom:longitude":85.258287,
     "iso:country":"KZ",
     "label:eng_x_preferred_longname":[
         "Zyryanovsk Rayon"
@@ -42,6 +42,9 @@
     "name:eng_x_preferred":[
         "Zyryanovsk"
     ],
+    "name:fra_x_preferred":[
+        "Zyryanovsk"
+    ],
     "name:und_x_variant":[
         "\u041a\u0430\u0442\u043e\u043d-\u041a\u0430\u0440\u0430\u0433\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"KZ",
     "wof:created":1481837904,
-    "wof:geomhash":"7e8f6245e120a51233643f4d9cd74a2f",
+    "wof:geomhash":"4b048bf05e0897570ae9d13858ade6a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108785315,
-    "wof:lastmodified":1566591783,
+    "wof:lastmodified":1627522314,
     "wof:name":"Zyryanovsk",
     "wof:parent_id":-1,
     "wof:placetype":"county",
@@ -77,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    85.25794634150846,
-    49.58877720113997,
-    85.25852565140967,
-    49.58940004168358
+    85.257946,
+    49.588777,
+    85.258526,
+    49.5894
 ],
-  "geometry": {"coordinates":[[[85.25852565140967,49.58940004168358],[85.25838750000014,49.58921050000021],[85.25794634150846,49.58877720113997],[85.25852565140967,49.58940004168358]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[85.258526,49.5894],[85.258388,49.589211],[85.257946,49.588777],[85.258526,49.5894]]],"type":"Polygon"}
 }

@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Astana"
     ],
+    "name:fra_x_preferred":[
+        "Noursoultan"
+    ],
     "name:kaz_x_preferred":[
         "Astana Qalasy"
     ],
@@ -177,7 +180,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1614894915,
+    "wof:lastmodified":1627522312,
     "wof:name":"Astana",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

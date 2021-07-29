@@ -32,6 +32,9 @@
         "Baikonur",
         "Bayqonyr"
     ],
+    "name:fra_x_preferred":[
+        "Ba\u00efkonour, Kyzylorda"
+    ],
     "name:kaz_x_preferred":[
         "Bayqongyr Qalasy"
     ],
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":85681265,
-    "wof:lastmodified":1614894913,
+    "wof:lastmodified":1627522309,
     "wof:name":"Baykonur lease in Qyzylorda",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
