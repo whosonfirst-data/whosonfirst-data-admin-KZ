@@ -29,14 +29,47 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0644\u064a\u0642\u0634\u064a"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u043b\u044b\u043a\u0448\u044b"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b2\u09bf\u0995\u09b6\u09be\u0987"
     ],
     "name:ceb_x_preferred":[
         "Balyqshy"
     ],
+    "name:deu_x_preferred":[
+        "Balyqshy"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03bb\u03af\u03ba\u03c3\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u06cc\u0627\u0633\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Balyqshy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05dc\u05d9\u05e7\u05e9\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0932\u0940\u0915\u094d\u0936\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Balyqshy"
+    ],
+    "name:ind_x_preferred":[
+        "Balyqshy"
+    ],
+    "name:ita_x_preferred":[
+        "Balyqshy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ea\u30af\u30b7\u30fc"
     ],
     "name:kaz_x_preferred":[
         "Balyqshy"
@@ -45,23 +78,47 @@
         "\u0411\u0430\u043b\u044b\u049b\u0448\u044b",
         "\u0411\u0430\u043b\u044b\u049b\u0448\u044b \u043a\u0435\u043d\u0442\u0456"
     ],
+    "name:kor_x_preferred":[
+        "\ubc1c\ub9ad\uc26c"
+    ],
     "name:msa_x_preferred":[
         "Balyqshy"
     ],
     "name:pol_x_preferred":[
         "Ba\u0142ykszy"
     ],
+    "name:por_x_preferred":[
+        "Balyqshy"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u044b\u043a\u0448\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Balyqshy"
+    ],
     "name:swe_x_preferred":[
         "Balyksji"
+    ],
+    "name:tur_x_preferred":[
+        "Balyqshy"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043a\u0448\u0456"
     ],
     "name:und_x_variant":[
         "Balykshi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0644\u06cc\u0642\u0634\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Balyqshy"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5df4\u96f7\u514b\u4ec0"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5df4\u96f7\u514b\u4ec0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +132,7 @@
         "gn:id":10821597
     },
     "wof:country":"KZ",
-    "wof:geomhash":"c5f4f87f928ab25331e708a378364266",
+    "wof:geomhash":"06a2e81ff59b20633ee775f41e41d064",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +143,7 @@
         }
     ],
     "wof:id":1259997375,
-    "wof:lastmodified":1566592141,
+    "wof:lastmodified":1636495714,
     "wof:name":"Balyqshy",
     "wof:parent_id":1108785413,
     "wof:placetype":"locality",
@@ -96,10 +153,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    81.55771999999997,
+    81.55772,
     45.95365,
-    81.55771999999997,
+    81.55772,
     45.95365
 ],
-  "geometry": {"coordinates":[81.55771999999997,45.95365],"type":"Point"}
+  "geometry": {"coordinates":[81.55772,45.95365],"type":"Point"}
 }

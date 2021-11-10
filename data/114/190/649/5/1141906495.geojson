@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.1499478749,52.4999078563,78.1499478749,52.4999078563",
+    "geom:bbox":"78.149948,52.499908,78.149948,52.499908",
     "geom:latitude":52.499908,
     "geom:longitude":78.149948,
     "iso:country":"KZ",
@@ -18,6 +18,72 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0628\u0642\u062a\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09be\u09b0\u09ac\u09be\u0995\u09a4\u09be\u0987"
+    ],
+    "name:deu_x_preferred":[
+        "Sharbaqty"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03c1\u03bc\u03c0\u03b1\u03ba\u03c4\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u0628\u0642\u062a\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Sherbakty"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e8\u05d1\u05d0\u05e7\u05d8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u0930\u094d\u092c\u0915\u094d\u0924\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Sharbaqty"
+    ],
+    "name:ind_x_preferred":[
+        "Sharbaqty"
+    ],
+    "name:ita_x_preferred":[
+        "Sharbaqty"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30eb\u30d0\u30af\u30c6\u30a3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0e4\ub974\ubc14\ud06c\ud2f0"
+    ],
+    "name:pol_x_preferred":[
+        "Sherbakty"
+    ],
+    "name:por_x_preferred":[
+        "Sharbakty"
+    ],
+    "name:spa_x_preferred":[
+        "Sharbaqty"
+    ],
+    "name:swe_x_preferred":[
+        "Sharbaqty"
+    ],
+    "name:tur_x_preferred":[
+        "Sharbaqty"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0631\u0628\u0642\u062a\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Sharbaqty"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6c99\u5df4\u514b\u8482"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6c99\u5df4\u514b\u8482"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
     "ne:ADM0_A3":"KAZ",
@@ -123,7 +189,7 @@
     "wof:concordances":{},
     "wof:country":"KZ",
     "wof:created":1499130601,
-    "wof:geomhash":"933ecd9e0c5f58b1d84bcda121e3d06b",
+    "wof:geomhash":"b05e55e1b790a44399878d42fa5a7b99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -133,7 +199,7 @@
         }
     ],
     "wof:id":1141906495,
-    "wof:lastmodified":1566592328,
+    "wof:lastmodified":1636495722,
     "wof:name":"Sharbaqty",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",
@@ -143,10 +209,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    78.14994787487467,
-    52.49990785634617,
-    78.14994787487467,
-    52.49990785634617
+    78.149948,
+    52.499908,
+    78.149948,
+    52.499908
 ],
-  "geometry": {"coordinates":[78.14994787487467,52.49990785634617],"type":"Point"}
+  "geometry": {"coordinates":[78.14994799999999,52.499908],"type":"Point"}
 }

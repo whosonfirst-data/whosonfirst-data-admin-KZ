@@ -44,8 +44,14 @@
     "name:fra_x_preferred":[
         "Turbat"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e8\u05d1\u05d0\u05d8"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u0941\u0930\u094d\u092c\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Turbat"
     ],
     "name:ita_x_preferred":[
         "Turbat"
@@ -101,7 +107,7 @@
         "gn:id":1517971
     },
     "wof:country":"KZ",
-    "wof:geomhash":"65f1d91aef7ca4c9a3ebdbc8a39f6df4",
+    "wof:geomhash":"77a73d2d32bfde0b45a7773c26e38925",
     "wof:hierarchy":[
         {
             "country_id":85632307,
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1209198301,
-    "wof:lastmodified":1566591651,
+    "wof:lastmodified":1636495694,
     "wof:name":"Turbat",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",
@@ -119,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    69.59170999999999,
+    69.59171,
     41.75594,
-    69.59170999999999,
+    69.59171,
     41.75594
 ],
-  "geometry": {"coordinates":[69.59170999999999,41.75594],"type":"Point"}
+  "geometry": {"coordinates":[69.59171000000001,41.75594],"type":"Point"}
 }

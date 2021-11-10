@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.1000369861,45.1833518667,55.1000369861,45.1833518667",
+    "geom:bbox":"55.100037,45.183352,55.100037,45.183352",
     "geom:latitude":45.183352,
     "geom:longitude":55.100037,
     "iso:country":"KZ",
@@ -18,8 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0646\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0435\u0439\u043d\u0435\u0443"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09df\u09a8\u09c7\u0989"
     ],
     "name:ceb_x_preferred":[
         "Beyneu"
@@ -27,8 +33,14 @@
     "name:deu_x_preferred":[
         "Beineu"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03ca\u03bd\u03ad\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Beyneu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0646\u0648"
     ],
     "name:fra_x_preferred":[
         "Be\u00efn\u00e9ou"
@@ -38,6 +50,18 @@
     ],
     "name:heb_x_variant":[
         "\u05d1\u05d9\u05d9\u05e0\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0928\u094d\u092f\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Beyneu"
+    ],
+    "name:ind_x_preferred":[
+        "Beyneu"
+    ],
+    "name:ita_x_preferred":[
+        "Beyneu"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30a4\u30ce\u30a4"
@@ -54,8 +78,14 @@
     "name:pol_x_preferred":[
         "Bejneu"
     ],
+    "name:por_x_preferred":[
+        "Beyneu"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0439\u043d\u0435\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Beyneu"
     ],
     "name:swe_x_preferred":[
         "Beyneu"
@@ -63,11 +93,20 @@
     "name:tuk_x_preferred":[
         "Beynew"
     ],
+    "name:tur_x_preferred":[
+        "Beyneu"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0439\u043d\u0435\u0443"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0646\u0648"
+    ],
     "name:uzb_x_preferred":[
         "Beynev"
+    ],
+    "name:vie_x_preferred":[
+        "Beyneu"
     ],
     "name:war_x_preferred":[
         "Beyneu"
@@ -182,7 +221,7 @@
     },
     "wof:country":"KZ",
     "wof:created":1499131006,
-    "wof:geomhash":"16206c3c245b950358fd2df8b03986d8",
+    "wof:geomhash":"4737f36bcdbcc025aae5b882cd0bf996",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -192,7 +231,7 @@
         }
     ],
     "wof:id":1141908983,
-    "wof:lastmodified":1566592328,
+    "wof:lastmodified":1636495722,
     "wof:name":"Beyneu",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",
@@ -202,10 +241,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.10003698611047,
-    45.18335186673363,
-    55.10003698611047,
-    45.18335186673363
+    55.100037,
+    45.183352,
+    55.100037,
+    45.183352
 ],
-  "geometry": {"coordinates":[55.10003698611047,45.18335186673363],"type":"Point"}
+  "geometry": {"coordinates":[55.100037,45.183352],"type":"Point"}
 }

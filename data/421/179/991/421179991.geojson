@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0645\u0648\u0646\u0627\u064a\u0643\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09c7\u09ae\u09cb\u09a8\u09be\u0987\u0996\u09be"
+    ],
     "name:chv_x_preferred":[
         "\u0428\u0435\u043c\u043e\u043d\u0430\u0438\u0445\u0430"
     ],
@@ -32,11 +38,38 @@
     "name:eng_x_variant":[
         "Shemonaikha"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0645\u0648\u0646\u0627\u06cc\u062e\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Shemonaikha"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05de\u05d5\u05e0\u05d0\u05d9\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u0947\u092e\u094b\u0928\u093e\u0907\u0916\u093e"
+    ],
     "name:hsb_x_preferred":[
         "\u0160emonaicha"
     ],
+    "name:hun_x_preferred":[
+        "Shemonaikha"
+    ],
+    "name:ind_x_preferred":[
+        "Shemonaikha"
+    ],
+    "name:ita_x_preferred":[
+        "Shemonaikha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a7\u30e2\u30ca\u30a4\u30cf"
+    ],
     "name:kaz_x_preferred":[
         "\u0428\u0435\u043c\u043e\u043d\u0430\u0438\u0445\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\uc250\ubaa8\ub098\uc774\uce74"
     ],
     "name:lit_x_preferred":[
         "\u0160emonaicha"
@@ -50,17 +83,29 @@
     "name:pol_x_variant":[
         "Taranovskoye"
     ],
+    "name:por_x_preferred":[
+        "Shemonaikha"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0435\u043c\u043e\u043d\u0430\u0438\u0445\u0430"
     ],
     "name:tat_x_preferred":[
         "\u0428\u0435\u043c\u043e\u043d\u0430\u0438\u0445\u0430"
     ],
+    "name:tur_x_preferred":[
+        "Shemonaikha"
+    ],
     "name:udm_x_preferred":[
         "\u0428\u0435\u043c\u043e\u043d\u0430\u0438\u0445\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043c\u043e\u043d\u0430\u0457\u0445\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06cc\u0645\u0648\u0646\u0627\u0626\u062e\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Shemonaikha"
     ],
     "name:zho_x_preferred":[
         "\u820d\u83ab\u5948\u54c8"
@@ -202,7 +247,7 @@
         }
     ],
     "wof:id":421179991,
-    "wof:lastmodified":1566591996,
+    "wof:lastmodified":1636495708,
     "wof:name":"Shemonaikha",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:bel_x_variant":[
         "\u0426\u0435\u043c\u0456\u0440\u0442\u0430\u045e"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09c7\u09ae\u09bf\u09b0\u09a4\u09be\u0989"
+    ],
     "name:bre_x_preferred":[
         "Temirtau"
     ],
@@ -78,7 +81,16 @@
     "name:fra_x_variant":[
         "Temirtau"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05de\u05d9\u05e8\u05d8\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0947\u092e\u093f\u0930\u094d\u0924\u093e\u090a"
+    ],
     "name:hsb_x_preferred":[
+        "Temirtau"
+    ],
+    "name:hun_x_preferred":[
         "Temirtau"
     ],
     "name:hye_x_preferred":[
@@ -182,6 +194,9 @@
     ],
     "name:uzb_x_variant":[
         "Temirtov"
+    ],
+    "name:vie_x_preferred":[
+        "Temirtau"
     ],
     "name:war_x_preferred":[
         "Temirtau"
@@ -327,7 +342,7 @@
         }
     ],
     "wof:id":421198741,
-    "wof:lastmodified":1566591992,
+    "wof:lastmodified":1636495707,
     "wof:name":"Temirtau",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

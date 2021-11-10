@@ -71,6 +71,12 @@
     "name:fra_x_preferred":[
         "Karamay"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d0\u05de\u05d0\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Karamay"
+    ],
     "name:ind_x_preferred":[
         "Karamay"
     ],
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":1310391811,
-    "wof:lastmodified":1566591841,
+    "wof:lastmodified":1636495698,
     "wof:name":"Karamay",
     "wof:parent_id":1108785385,
     "wof:placetype":"locality",

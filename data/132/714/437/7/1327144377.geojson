@@ -29,6 +29,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u0995\u09cb\u09df\u09be\u09b2\u09bf\u0995"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03ba\u03b1\u03bb\u03af\u03ba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05e7\u05dc\u05d9\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u094d\u0915\u093e\u092e\u094d\u091f\u093e\u090a"
+    ],
+    "name:hun_x_preferred":[
+        "Arqalyq"
+    ],
+    "name:ind_x_preferred":[
+        "Arqalyq"
+    ],
+    "name:tur_x_preferred":[
+        "Arqalyq"
+    ],
     "name:und_x_variant":[
         "Arkalyk",
         "Arqalyq",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1327144377,
-    "wof:lastmodified":1566591124,
+    "wof:lastmodified":1636495676,
     "wof:name":"Arqalyq",
     "wof:parent_id":1108785467,
     "wof:placetype":"locality",

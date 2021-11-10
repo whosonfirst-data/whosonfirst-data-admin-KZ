@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.2138996978,43.5345894562,75.2138996978,43.5345894562",
+    "geom:bbox":"75.2139,43.534589,75.2139,43.534589",
     "geom:latitude":43.534589,
     "geom:longitude":75.2139,
     "iso:country":"KZ",
@@ -21,11 +21,53 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u0627\u0631"
     ],
+    "name:ben_x_preferred":[
+        "\u0993\u09a4\u09be\u09b0"
+    ],
+    "name:deu_x_preferred":[
+        "Otar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c4\u03ac\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Otar"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Otar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d8\u05d0\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0924\u093e\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Otar"
+    ],
+    "name:ind_x_preferred":[
+        "Otar"
+    ],
+    "name:ita_x_preferred":[
+        "Otar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30bf\u30fc\u30eb"
+    ],
     "name:kaz_x_preferred":[
         "\u041e\u0442\u0430\u0440"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ud0c0\ub974"
+    ],
+    "name:nld_x_preferred":[
+        "Otar"
+    ],
+    "name:pol_x_preferred":[
+        "Otar"
     ],
     "name:por_x_preferred":[
         "Otar"
@@ -33,8 +75,29 @@
     "name:rus_x_preferred":[
         "\u041e\u0442\u0430\u0440"
     ],
+    "name:spa_x_preferred":[
+        "Otar"
+    ],
+    "name:swe_x_preferred":[
+        "Otar"
+    ],
+    "name:tur_x_preferred":[
+        "Otar"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u0442\u0430\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u062a\u0627\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Otar"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5965\u5854\u5c14"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5967\u5854\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -143,7 +206,7 @@
     },
     "wof:country":"KZ",
     "wof:created":1499130779,
-    "wof:geomhash":"00c9f6624fa684ecdb42375fdc7dfd72",
+    "wof:geomhash":"666d14eb37a78ffdeb2789e9b9e219c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -153,7 +216,7 @@
         }
     ],
     "wof:id":1141907855,
-    "wof:lastmodified":1566592327,
+    "wof:lastmodified":1636495722,
     "wof:name":"Otar",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",
@@ -163,10 +226,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    75.21389969777942,
-    43.53458945624533,
-    75.21389969777942,
-    43.53458945624533
+    75.2139,
+    43.534589,
+    75.2139,
+    43.534589
 ],
-  "geometry": {"coordinates":[75.21389969777942,43.53458945624533],"type":"Point"}
+  "geometry": {"coordinates":[75.2139,43.534589],"type":"Point"}
 }

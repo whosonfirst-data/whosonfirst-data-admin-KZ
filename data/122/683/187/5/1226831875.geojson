@@ -41,7 +41,13 @@
     "name:fra_x_preferred":[
         "Shan"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05df"
+    ],
     "name:hrv_x_preferred":[
+        "Shan"
+    ],
+    "name:hun_x_preferred":[
         "Shan"
     ],
     "name:ind_x_preferred":[
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1226831875,
-    "wof:lastmodified":1566592294,
+    "wof:lastmodified":1636495720,
     "wof:name":"Shan",
     "wof:parent_id":1108785469,
     "wof:placetype":"locality",

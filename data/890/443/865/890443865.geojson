@@ -94,6 +94,9 @@
     "name:hsb_x_preferred":[
         "Taldykorgan"
     ],
+    "name:hun_x_preferred":[
+        "Taldyqorghan"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u056c\u0564\u056b \u053f\u0578\u0582\u0580\u0563\u0561\u0576"
     ],
@@ -349,7 +352,7 @@
         }
     ],
     "wof:id":890443865,
-    "wof:lastmodified":1566592003,
+    "wof:lastmodified":1636495709,
     "wof:name":"Taldyqorghan",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

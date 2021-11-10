@@ -23,6 +23,9 @@
     "name:bel_x_preferred":[
         "\u041b\u0435\u043d\u0433\u0435\u0440"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c7\u0999\u09cd\u0997\u09c7\u09b0"
+    ],
     "name:ceb_x_preferred":[
         "Lenger"
     ],
@@ -41,8 +44,29 @@
     "name:fas_x_preferred":[
         "\u0644\u0646\u062c\u0631"
     ],
+    "name:fra_x_preferred":[
+        "Lenger"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e0\u05d2\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0947\u0902\u0917\u0930"
+    ],
     "name:hsb_x_preferred":[
         "Lenger"
+    ],
+    "name:hun_x_preferred":[
+        "Lenger"
+    ],
+    "name:ind_x_preferred":[
+        "Lenger"
+    ],
+    "name:ita_x_preferred":[
+        "Lenger"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30f3\u30ac\u30fc"
     ],
     "name:kaz_x_preferred":[
         "\u041b\u0435\u043d\u0433\u0435\u0440"
@@ -53,6 +77,9 @@
     ],
     "name:kir_x_preferred":[
         "\u041b\u0435\u043d\u0433\u0435\u0440 \u0448\u0430\u0430\u0440\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ub81d\uac70"
     ],
     "name:lit_x_preferred":[
         "Lengeras"
@@ -75,11 +102,17 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u043d\u0433\u0435\u0440"
     ],
+    "name:spa_x_preferred":[
+        "Lenger"
+    ],
     "name:swe_x_preferred":[
         "Lenger"
     ],
     "name:tat_x_preferred":[
         "\u041b\u04d9\u04a3\u0433\u04d9\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Lenger"
     ],
     "name:udm_x_preferred":[
         "\u041b\u0435\u043d\u0433\u0435\u0440"
@@ -90,8 +123,20 @@
     "name:und_x_variant":[
         "Kopi-Lenger"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0646\u06af\u0631"
+    ],
     "name:uzb_x_preferred":[
         "Lenger"
+    ],
+    "name:vie_x_preferred":[
+        "Lenger"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4f26\u683c"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u502b\u683c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -231,7 +276,7 @@
         }
     ],
     "wof:id":421168889,
-    "wof:lastmodified":1566591973,
+    "wof:lastmodified":1636495702,
     "wof:name":"Lenger",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

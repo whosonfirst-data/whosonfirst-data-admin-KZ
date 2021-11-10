@@ -24,7 +24,31 @@
         "Qusmuryn"
     ],
     "name:rus_x_preferred":[
+        "\u041a\u0443\u0441\u043c\u0443\u0440\u044b\u043d"
+    ],
+    "name:rus_x_variant":[
         "\u041a\u0443\u0448\u043c\u0443\u0440\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Qusmuryn"
+    ],
+    "name:tur_x_preferred":[
+        "Qusmuryn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0448\u043c\u0443\u0440\u0443\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0633\u0645\u0648\u0631\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Qusmuryn"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e93\u65af\u7a46\u6797"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5eab\u65af\u7a46\u6797"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -161,7 +185,7 @@
         }
     ],
     "wof:id":421197937,
-    "wof:lastmodified":1566591993,
+    "wof:lastmodified":1636495707,
     "wof:name":"Qusmuryn",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

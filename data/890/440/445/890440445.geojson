@@ -38,6 +38,9 @@
         "Altay"
     ],
     "name:hun_x_preferred":[
+        "Altaj"
+    ],
+    "name:hun_x_variant":[
         "Altaj j\u00e1r\u00e1s"
     ],
     "name:kaz_x_preferred":[
@@ -50,6 +53,9 @@
         "\u0410\u043b\u0442\u0430\u0439 \u0441\u0443\u043c"
     ],
     "name:pol_x_preferred":[
+        "Altay"
+    ],
+    "name:por_x_preferred":[
         "Altay"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":890440445,
-    "wof:lastmodified":1566591998,
+    "wof:lastmodified":1636495709,
     "wof:name":"Altay",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

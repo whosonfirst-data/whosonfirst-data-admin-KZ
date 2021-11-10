@@ -17,8 +17,20 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0625\u0631\u062a\u064a\u0633"
+    ],
     "name:bel_x_preferred":[
         "\u0406\u0440\u0442\u044b\u0448\u0441\u043a"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b0\u09a4\u09bf\u09b8"
+    ],
+    "name:deu_x_preferred":[
+        "Ertis"
+    ],
+    "name:ell_x_preferred":[
+        "\u0388\u03c1\u03c4\u03b9\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ertis"
@@ -26,11 +38,29 @@
     "name:est_x_preferred":[
         "Jertis"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u062a\u06cc\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Ertis"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d8\u05d9\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0906\u0930\u094d\u091f\u093f\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Ertis"
+    ],
+    "name:ind_x_preferred":[
         "Ertis"
     ],
     "name:ita_x_preferred":[
         "Ertis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30c6\u30a3\u30b9"
     ],
     "name:kaz_x_preferred":[
         "\u0415\u0440\u0442\u0456\u0441"
@@ -38,10 +68,19 @@
     "name:kaz_x_variant":[
         "\u0415\u0440\u0442\u0456\u0441 \u0430\u0443\u044b\u043b\u044b"
     ],
+    "name:kor_x_preferred":[
+        "\uc5d0\ub974\ud2f0\uc2a4"
+    ],
     "name:lit_x_preferred":[
         "Jertisas"
     ],
     "name:nld_x_preferred":[
+        "Ertis"
+    ],
+    "name:pol_x_preferred":[
+        "Ertis"
+    ],
+    "name:por_x_preferred":[
         "Ertis"
     ],
     "name:rus_x_preferred":[
@@ -50,14 +89,29 @@
     "name:spa_x_preferred":[
         "Ertis"
     ],
+    "name:tur_x_preferred":[
+        "Ertis"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u0440\u0442\u0438\u0441\u044c\u043a"
     ],
     "name:und_x_variant":[
         "Irtysh"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0631\u062a\u0633"
+    ],
     "name:uzb_x_preferred":[
         "Irtish"
+    ],
+    "name:vie_x_preferred":[
+        "Ertis"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u57c3\u5c14\u8482\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8449\u723e\u5b63\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -198,7 +252,7 @@
         }
     ],
     "wof:id":421168523,
-    "wof:lastmodified":1566591976,
+    "wof:lastmodified":1636495703,
     "wof:name":"Ertis",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

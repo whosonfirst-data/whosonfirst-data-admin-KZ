@@ -81,6 +81,9 @@
         "Progreso social"
     ],
     "name:ukr_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u043e\u0446\u0456\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0440\u043e\u0433\u0440\u0435\u0441"
     ],
     "name:urd_x_preferred":[
@@ -88,6 +91,9 @@
     ],
     "name:uzb_x_preferred":[
         "Utirtobe"
+    ],
+    "name:vie_x_preferred":[
+        "Progress"
     ],
     "name:zho_x_preferred":[
         "\u793e\u4f1a\u8fdb\u6b65"
@@ -104,7 +110,7 @@
         "gn:id":1535828
     },
     "wof:country":"KZ",
-    "wof:geomhash":"fb887bbfdf168dccf32ab830b08f1f9d",
+    "wof:geomhash":"20111bbf278869ad3729c1bcf376f76c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1292989939,
-    "wof:lastmodified":1566591401,
+    "wof:lastmodified":1636495688,
     "wof:name":"Progress",
     "wof:parent_id":1108785361,
     "wof:placetype":"locality",
@@ -125,10 +131,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    68.53799000000001,
+    68.53799,
     40.93295,
-    68.53799000000001,
+    68.53799,
     40.93295
 ],
-  "geometry": {"coordinates":[68.53799000000001,40.93295],"type":"Point"}
+  "geometry": {"coordinates":[68.53798999999999,40.93295],"type":"Point"}
 }

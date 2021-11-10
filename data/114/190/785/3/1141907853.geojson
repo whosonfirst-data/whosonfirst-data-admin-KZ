@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.4702807199,43.5420825389,79.4702807199,43.5420825389",
+    "geom:bbox":"79.470281,43.542083,79.470281,43.542083",
     "geom:latitude":43.542083,
     "geom:longitude":79.470281,
     "iso:country":"KZ",
@@ -18,6 +18,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b6\u09cb\u09a8\u099d\u09bf"
+    ],
+    "name:deu_x_preferred":[
+        "Shonzhy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0646\u062c\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Shonzhy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05e0\u05d6'\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u094b\u0902\u091c\u093c\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Shonzhy"
+    ],
+    "name:ind_x_preferred":[
+        "Shonzhy"
+    ],
+    "name:ita_x_preferred":[
+        "Shonzhy"
+    ],
+    "name:kor_x_preferred":[
+        "\uc200\uc9c0"
+    ],
+    "name:por_x_preferred":[
+        "Shonzhy"
+    ],
+    "name:spa_x_preferred":[
+        "Shonzhy"
+    ],
+    "name:tur_x_preferred":[
+        "Shonzhy"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0648\u0646\u0632\u06c1\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Shonzhy"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
     "ne:ADM0_A3":"KAZ",
@@ -123,7 +168,7 @@
     "wof:concordances":{},
     "wof:country":"KZ",
     "wof:created":1499130779,
-    "wof:geomhash":"acc9921543c17d1a3d6b93dc7b90b843",
+    "wof:geomhash":"dee98b2d0c11c4afb2d2a25a0cff466b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -133,7 +178,7 @@
         }
     ],
     "wof:id":1141907853,
-    "wof:lastmodified":1566592327,
+    "wof:lastmodified":1636495721,
     "wof:name":"Shonzhy",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",
@@ -143,10 +188,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    79.4702807199319,
-    43.54208253892767,
-    79.4702807199319,
-    43.54208253892767
+    79.470281,
+    43.542083,
+    79.470281,
+    43.542083
 ],
-  "geometry": {"coordinates":[79.47028071993191,43.54208253892767],"type":"Point"}
+  "geometry": {"coordinates":[79.470281,43.542083],"type":"Point"}
 }

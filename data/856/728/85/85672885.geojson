@@ -112,6 +112,9 @@
     "name:hin_x_preferred":[
         "\u0915\u093f\u091c\u093c\u093f\u0932\u0913\u0930\u0926\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:hun_x_preferred":[
+        "Kyzylorda"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0566\u0568\u056c-\u0555\u0580\u0564\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
     ],
@@ -383,7 +386,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1614894914,
+    "wof:lastmodified":1636495682,
     "wof:name":"Qyzylorda",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

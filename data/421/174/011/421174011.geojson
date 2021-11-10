@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0643\u064a\u0646\u0633\u0643"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u043a\u0456\u043d\u0441\u043a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u0995\u09bf\u09a8\u09b8\u09cd\u0995"
     ],
     "name:ceb_x_preferred":[
         "Mak\u012bnsk"
@@ -41,14 +47,32 @@
     "name:fra_x_preferred":[
         "Makinsk"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e7\u05d9\u05e0\u05e1\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0915\u093f\u0902\u0938\u094d\u0915"
+    ],
     "name:hsb_x_preferred":[
+        "Makinsk"
+    ],
+    "name:hun_x_preferred":[
+        "Makinsk"
+    ],
+    "name:ind_x_preferred":[
         "Makinsk"
     ],
     "name:ita_x_preferred":[
         "Makinsk"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ad\u30f3\u30b9\u30af"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u043a\u0438\u043d\u0441\u043a"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ud0a8\uc2a4\ud06c"
     ],
     "name:lit_x_preferred":[
         "Makinskas"
@@ -59,8 +83,14 @@
     "name:pol_x_preferred":[
         "Makinsk"
     ],
+    "name:por_x_preferred":[
+        "Makinsk"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043a\u0438\u043d\u0441\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Makinsk"
     ],
     "name:swe_x_preferred":[
         "Makinsk"
@@ -68,13 +98,22 @@
     "name:tat_x_preferred":[
         "\u041c\u0430\u043a\u0438\u043d\u0441\u043a"
     ],
+    "name:tur_x_preferred":[
+        "Makinsk"
+    ],
     "name:udm_x_preferred":[
         "\u041c\u0430\u043a\u0438\u043d\u0441\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0456\u043d\u0441\u044c\u043a"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u06a9\u0646\u0633\u06a9"
+    ],
     "name:uzb_x_preferred":[
+        "Makinsk"
+    ],
+    "name:vie_x_preferred":[
         "Makinsk"
     ],
     "ne:ADM0CAP":0.0,
@@ -215,7 +254,7 @@
         }
     ],
     "wof:id":421174011,
-    "wof:lastmodified":1566591987,
+    "wof:lastmodified":1636495706,
     "wof:name":"Makinsk",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

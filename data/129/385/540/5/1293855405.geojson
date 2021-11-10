@@ -29,18 +29,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0986\u09b2\u09c7\u0995\u09b8\u09c7\u0987\u09ad\u0995\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03b5\u03be\u03ad\u03b5\u03b2\u03ba\u03b1"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932\u0947\u0915\u094d\u0938\u0947\u092f\u0947\u0935\u094d\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Alekseyevka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ec\u30af\u30bb\u30a4\u30a8\u30d5\u30ab"
+    ],
     "name:kaz_x_preferred":[
         "K\u00f6ltoghan"
     ],
     "name:kaz_x_variant":[
         "\u041a\u04e9\u043b\u0442\u043e\u0493\u0430\u043d"
     ],
+    "name:kor_x_preferred":[
+        "\uc54c\ub809\uc138\uc608\ud504\uce74"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Alekseyevka"
+    ],
+    "name:swe_x_preferred":[
+        "Aleksejevka"
     ],
     "name:und_x_variant":[
         "Leont\u2019yevka",
         "Alekseevka",
+        "Alekseyevka"
+    ],
+    "name:vie_x_preferred":[
         "Alekseyevka"
     ],
     "src:geom":"geonames",
@@ -55,7 +82,7 @@
         "gn:id":1526450
     },
     "wof:country":"KZ",
-    "wof:geomhash":"c6d0d0cbe803a0fc5391181d504b7fe0",
+    "wof:geomhash":"bbba50d45fc2aa7875b417eadd05e302",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +93,7 @@
         }
     ],
     "wof:id":1293855405,
-    "wof:lastmodified":1566591367,
+    "wof:lastmodified":1636495686,
     "wof:name":"Alekseyevka",
     "wof:parent_id":1108785737,
     "wof:placetype":"locality",
@@ -76,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.33348000000001,
-    42.74162000000001,
-    70.33348000000001,
-    42.74162000000001
+    70.33348,
+    42.74162,
+    70.33348,
+    42.74162
 ],
-  "geometry": {"coordinates":[70.33348000000001,42.74162000000001],"type":"Point"}
+  "geometry": {"coordinates":[70.33347999999999,42.74162],"type":"Point"}
 }

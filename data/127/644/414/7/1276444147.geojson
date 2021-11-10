@@ -48,10 +48,11 @@
         "Abajus"
     ],
     "name:rus_x_preferred":[
-        "\u0410\u0431\u0430\u0439"
+        "\u0410\u0431\u0430\u044f"
     ],
     "name:rus_x_variant":[
-        "\u041a\u0430\u0448\u0430\u0440\u0430"
+        "\u041a\u0430\u0448\u0430\u0440\u0430",
+        "\u0410\u0431\u0430\u0439"
     ],
     "name:spa_x_preferred":[
         "Abay"
@@ -59,11 +60,29 @@
     "name:swe_x_preferred":[
         "Abay"
     ],
+    "name:tur_x_preferred":[
+        "Abay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0431\u0430\u044f"
+    ],
     "name:und_x_variant":[
         "Kashara"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u06d2"
+    ],
     "name:uzb_x_preferred":[
         "Abay"
+    ],
+    "name:vie_x_preferred":[
+        "Abay"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u62dc\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u62dc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -88,7 +107,7 @@
         }
     ],
     "wof:id":1276444147,
-    "wof:lastmodified":1566591450,
+    "wof:lastmodified":1636495689,
     "wof:name":"Abay",
     "wof:parent_id":1108785575,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
     "name:hin_x_preferred":[
         "\u092a\u093e\u0935\u094d\u0932\u094b\u0926\u093e\u0930 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:hun_x_preferred":[
+        "Pavlodar"
+    ],
     "name:hye_x_preferred":[
         "\u054a\u0561\u057e\u056c\u0578\u0564\u0561\u0580\u056b \u0574\u0561\u0580\u0566"
     ],
@@ -383,7 +386,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1614894914,
+    "wof:lastmodified":1636495682,
     "wof:name":"Pavlodar",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

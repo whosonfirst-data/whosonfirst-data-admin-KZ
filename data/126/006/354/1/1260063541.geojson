@@ -39,12 +39,24 @@
         "Talas"
     ],
     "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03bb\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
         "\u03a4\u03b1\u03bb\u03ac\u03c2"
     ],
     "name:fin_x_preferred":[
         "Talas"
     ],
     "name:fra_x_preferred":[
+        "Talas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05dc\u05d0\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Talas"
+    ],
+    "name:ind_x_preferred":[
         "Talas"
     ],
     "name:ita_x_preferred":[
@@ -83,6 +95,9 @@
     "name:uzb_x_preferred":[
         "Talas"
     ],
+    "name:vie_x_preferred":[
+        "Talas"
+    ],
     "name:zho_x_preferred":[
         "\u5854\u62c9\u65af"
     ],
@@ -98,7 +113,7 @@
         "gn:id":11118840
     },
     "wof:country":"KZ",
-    "wof:geomhash":"10070daf98e65a56ef45859c5d3330df",
+    "wof:geomhash":"a3097e1acbab4497bd91a9c1ddc27094",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":1260063541,
-    "wof:lastmodified":1566591717,
+    "wof:lastmodified":1636495695,
     "wof:name":"Talas",
     "wof:parent_id":1108785487,
     "wof:placetype":"locality",
@@ -119,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.47171999999998,
+    71.47172,
     42.93708,
-    71.47171999999998,
+    71.47172,
     42.93708
 ],
-  "geometry": {"coordinates":[71.47171999999998,42.93708],"type":"Point"}
+  "geometry": {"coordinates":[71.47172,42.93708],"type":"Point"}
 }

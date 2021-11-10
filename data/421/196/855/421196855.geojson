@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0646\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0435\u0439\u043d\u0435\u0443"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09df\u09a8\u09c7\u0989"
     ],
     "name:ceb_x_preferred":[
         "Beyneu"
@@ -26,8 +32,14 @@
     "name:deu_x_preferred":[
         "Beineu"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03ca\u03bd\u03ad\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Beyneu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0646\u0648"
     ],
     "name:fra_x_preferred":[
         "Be\u00efn\u00e9ou"
@@ -37,6 +49,18 @@
     ],
     "name:heb_x_variant":[
         "\u05d1\u05d9\u05d9\u05e0\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0928\u094d\u092f\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Beyneu"
+    ],
+    "name:ind_x_preferred":[
+        "Beyneu"
+    ],
+    "name:ita_x_preferred":[
+        "Beyneu"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30a4\u30ce\u30a4"
@@ -56,8 +80,14 @@
     "name:pol_x_preferred":[
         "Bejneu"
     ],
+    "name:por_x_preferred":[
+        "Beyneu"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0439\u043d\u0435\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Beyneu"
     ],
     "name:swe_x_preferred":[
         "Beyneu"
@@ -65,17 +95,26 @@
     "name:tuk_x_preferred":[
         "Beynew"
     ],
+    "name:tur_x_preferred":[
+        "Beyneu"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0439\u043d\u0435\u0443"
     ],
     "name:und_x_variant":[
         "Beyneu 1"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0646\u0648"
+    ],
     "name:uzb_x_preferred":[
         "Beyneu"
     ],
     "name:uzb_x_variant":[
         "Beynev"
+    ],
+    "name:vie_x_preferred":[
+        "Beyneu"
     ],
     "name:war_x_preferred":[
         "Beyneu"
@@ -227,7 +266,7 @@
         }
     ],
     "wof:id":421196855,
-    "wof:lastmodified":1582318987,
+    "wof:lastmodified":1636495707,
     "wof:name":"Beyneu",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",

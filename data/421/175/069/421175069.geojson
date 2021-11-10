@@ -113,6 +113,9 @@
     "name:hsb_x_preferred":[
         "Kok\u0161etau"
     ],
+    "name:hun_x_preferred":[
+        "Kokshetau"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u056f\u0579\u0565\u057f\u0561\u057e"
     ],
@@ -392,7 +395,7 @@
         }
     ],
     "wof:id":421175069,
-    "wof:lastmodified":1566591990,
+    "wof:lastmodified":1636495707,
     "wof:name":"Kokshetau",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

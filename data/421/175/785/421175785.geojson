@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0634\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09c1"
+    ],
     "name:ceb_x_preferred":[
         "Shu"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:deu_x_preferred":[
         "Schu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Shu"
@@ -41,8 +50,20 @@
     "name:heb_x_preferred":[
         "\u05e9\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u0936\u0942"
+    ],
     "name:hsb_x_preferred":[
         "\u0160u"
+    ],
+    "name:hun_x_preferred":[
+        "Shu"
+    ],
+    "name:ind_x_preferred":[
+        "Shu"
+    ],
+    "name:ita_x_preferred":[
+        "Shu"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e5"
@@ -65,6 +86,9 @@
     "name:pol_x_preferred":[
         "Szu"
     ],
+    "name:por_x_preferred":[
+        "Shu"
+    ],
     "name:rup_x_preferred":[
         "Chu"
     ],
@@ -73,6 +97,9 @@
     ],
     "name:rus_x_variant":[
         "\u0427\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Shu"
     ],
     "name:swe_x_preferred":[
         "Sju"
@@ -89,8 +116,14 @@
     "name:ukr_x_preferred":[
         "\u0428\u0443"
     ],
+    "name:urd_x_preferred":[
+        "\u0634\u0648"
+    ],
     "name:uzb_x_preferred":[
         "Chu"
+    ],
+    "name:vie_x_preferred":[
+        "Shu"
     ],
     "name:zho_x_preferred":[
         "\u695a\u57ce"
@@ -233,7 +266,7 @@
         }
     ],
     "wof:id":421175785,
-    "wof:lastmodified":1566591990,
+    "wof:lastmodified":1636495706,
     "wof:name":"Shu",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

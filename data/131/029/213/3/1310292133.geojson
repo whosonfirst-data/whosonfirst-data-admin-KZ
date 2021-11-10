@@ -80,6 +80,9 @@
     "name:hsb_x_preferred":[
         "Kok\u0161etau"
     ],
+    "name:hun_x_preferred":[
+        "Kokshetau"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u056f\u0579\u0565\u057f\u0561\u057e"
     ],
@@ -179,7 +182,7 @@
         "gn:id":11410128
     },
     "wof:country":"KZ",
-    "wof:geomhash":"e3ac7fae564dd90da6220bc643e85140",
+    "wof:geomhash":"c6d0b245b1633512a27778a0b62a4ed7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":1310292133,
-    "wof:lastmodified":1566591855,
+    "wof:lastmodified":1636495699,
     "wof:name":"Kokshetau",
     "wof:parent_id":1108785507,
     "wof:placetype":"locality",
@@ -200,10 +203,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    76.89723000000002,
+    76.89723,
     48.97836,
-    76.89723000000002,
+    76.89723,
     48.97836
 ],
-  "geometry": {"coordinates":[76.89723000000002,48.97836],"type":"Point"}
+  "geometry": {"coordinates":[76.89722999999999,48.97836],"type":"Point"}
 }

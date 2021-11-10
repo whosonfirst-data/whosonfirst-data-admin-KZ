@@ -29,10 +29,67 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u064a\u0627\u0644\u0628\u0627\u064a\u062a\u0627\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u09b0\u09bf\u09b2\u09ac\u09c7\u09a4\u09be\u09b2"
+    ],
+    "name:deu_x_preferred":[
+        "Burylbaytal"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c1\u03b9\u03bb\u03bc\u03c0\u03b1\u03ca\u03c4\u03ac\u03bb"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u06cc\u0644\u0628\u0627\u06cc\u062a\u0627\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Burylbaytal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d9\u05d1\u05d9\u05d9\u05d8\u05d0\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0941\u0930\u0940\u0932\u092c\u0947\u091f\u093e\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Burylbaytal"
+    ],
+    "name:ind_x_preferred":[
+        "Burylbaytal"
+    ],
+    "name:ita_x_preferred":[
+        "Burylbaytal"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\ub9b4\ubc14\uc774\ud0c8"
+    ],
+    "name:pol_x_preferred":[
+        "Bury\u0142bajta\u0142"
+    ],
+    "name:por_x_preferred":[
+        "Burylbaytal"
+    ],
+    "name:spa_x_preferred":[
+        "Burylbaytal"
+    ],
+    "name:swe_x_preferred":[
+        "Burylbaytal"
+    ],
+    "name:tur_x_preferred":[
+        "Burylbaytal"
+    ],
     "name:und_x_variant":[
         "Buribaytal",
         "Burubaytal",
         "B\u016brylbaytal"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0644\u0628\u06cc\u062a\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Burylbaytal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +115,7 @@
         }
     ],
     "wof:id":1259956211,
-    "wof:lastmodified":1566592175,
+    "wof:lastmodified":1636495715,
     "wof:name":"Burylbaytal",
     "wof:parent_id":1108785485,
     "wof:placetype":"locality",

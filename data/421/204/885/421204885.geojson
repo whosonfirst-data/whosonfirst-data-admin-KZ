@@ -108,6 +108,9 @@
         "Kyzylorda"
     ],
     "name:hun_x_preferred":[
+        "Kyzylorda"
+    ],
+    "name:hun_x_variant":[
         "Kizilorda"
     ],
     "name:hye_x_preferred":[
@@ -389,7 +392,7 @@
         }
     ],
     "wof:id":421204885,
-    "wof:lastmodified":1566591986,
+    "wof:lastmodified":1636495705,
     "wof:name":"Qyzylorda",
     "wof:parent_id":85672885,
     "wof:placetype":"locality",

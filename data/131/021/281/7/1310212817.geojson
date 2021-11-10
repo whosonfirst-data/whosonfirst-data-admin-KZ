@@ -29,6 +29,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u09b0\u09a8\u09bf"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03c1\u03bd\u03b9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u0930\u0928\u0940"
+    ],
     "name:kaz_x_preferred":[
         "M\u012brnyy"
     ],
@@ -47,7 +56,7 @@
         "gn:id":10838450
     },
     "wof:country":"KZ",
-    "wof:geomhash":"5d7bc050b26279cf1452158e1d97b698",
+    "wof:geomhash":"9386cebc59a9c1886b6fe716e5796c64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1310212817,
-    "wof:lastmodified":1566591862,
+    "wof:lastmodified":1636495700,
     "wof:name":"Mirnyy",
     "wof:parent_id":1108785617,
     "wof:placetype":"locality",
@@ -68,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.35658000000002,
+    72.35658,
     52.41351,
-    72.35658000000002,
+    72.35658,
     52.41351
 ],
-  "geometry": {"coordinates":[72.35658000000002,52.41351],"type":"Point"}
+  "geometry": {"coordinates":[72.35657999999999,52.41351],"type":"Point"}
 }

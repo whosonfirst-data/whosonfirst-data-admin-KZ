@@ -51,10 +51,11 @@
         "Abajus"
     ],
     "name:rus_x_preferred":[
-        "\u0414\u0438\u0440\u043c\u0435\u043d\u0441\u0430\u0439"
+        "\u0410\u0431\u0430\u044f"
     ],
     "name:rus_x_variant":[
-        "\u0410\u0431\u0430\u0439"
+        "\u0410\u0431\u0430\u0439",
+        "\u0414\u0438\u0440\u043c\u0435\u043d\u0441\u0430\u0439"
     ],
     "name:spa_x_preferred":[
         "Abay"
@@ -62,11 +63,29 @@
     "name:swe_x_preferred":[
         "Abay"
     ],
+    "name:tur_x_preferred":[
+        "Abay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0431\u0430\u044f"
+    ],
     "name:und_x_variant":[
         "Dirmensay"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u06d2"
+    ],
     "name:uzb_x_preferred":[
         "Abay"
+    ],
+    "name:vie_x_preferred":[
+        "Abay"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u62dc\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u62dc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +99,7 @@
         "gn:id":11120445
     },
     "wof:country":"KZ",
-    "wof:geomhash":"8969dcd0e72d4330353c83b7cb9533cb",
+    "wof:geomhash":"fd5e15beff817507804031007e38c0ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +110,7 @@
         }
     ],
     "wof:id":1326724135,
-    "wof:lastmodified":1566591095,
+    "wof:lastmodified":1636495674,
     "wof:name":"Abay",
     "wof:parent_id":1108785369,
     "wof:placetype":"locality",
@@ -101,10 +120,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    69.70770999999999,
+    69.70771,
     42.12,
-    69.70770999999999,
+    69.70771,
     42.12
 ],
-  "geometry": {"coordinates":[69.70770999999999,42.12],"type":"Point"}
+  "geometry": {"coordinates":[69.70771000000001,42.12],"type":"Point"}
 }

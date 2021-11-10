@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.4248713775,49.6998978873,83.4248713775,49.6998978873",
+    "geom:bbox":"83.424871,49.699898,83.424871,49.699898",
     "geom:latitude":49.699898,
     "geom:longitude":83.424871,
     "iso:country":"KZ",
@@ -24,6 +24,9 @@
     "name:bel_x_preferred":[
         "\u0421\u0435\u0440\u0430\u0431\u0440\u0430\u043d\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09b0\u09c7\u09ac\u09cd\u09b0\u09be\u09df\u09be\u09a8\u09b8\u09cd\u0995"
+    ],
     "name:deu_x_preferred":[
         "Serebrjansk"
     ],
@@ -33,11 +36,38 @@
     "name:eng_x_preferred":[
         "Serebryansk"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0628\u0631\u06cc\u0627\u0646\u0633\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Serebryansk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e8\u05d1\u05e8\u05d9\u05d0\u05e0\u05e1\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0930\u0947\u092c\u094d\u0930\u093f\u092f\u093e\u0902\u0938\u094d\u0915"
+    ],
     "name:hsb_x_preferred":[
         "Serebrjansk"
     ],
+    "name:hun_x_preferred":[
+        "Serebryansk"
+    ],
+    "name:ind_x_preferred":[
+        "Serebryansk"
+    ],
+    "name:ita_x_preferred":[
+        "Serebryansk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30ec\u30d6\u30ea\u30e3\u30f3\u30b9\u30af"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u0441\u043a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\ub808\ube0c\ub7b8\uc2a4\ud06c"
     ],
     "name:lit_x_preferred":[
         "Serebrianskas"
@@ -57,14 +87,29 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u0441\u043a"
     ],
+    "name:spa_x_preferred":[
+        "Serebryansk"
+    ],
+    "name:swe_x_preferred":[
+        "Serebryansk"
+    ],
     "name:tat_x_preferred":[
         "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u0441\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Serebryansk"
     ],
     "name:udm_x_preferred":[
         "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u0441\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u0441\u044c\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0631\u06cc\u0628\u0631\u0627\u0626\u0646\u0633\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Serebryansk"
     ],
     "name:zho_x_preferred":[
         "\u8c22\u5217\u5e03\u826f\u65af\u514b"
@@ -176,7 +221,7 @@
     },
     "wof:country":"KZ",
     "wof:created":1499130602,
-    "wof:geomhash":"c1e15c2c0e91594f95753fd15fab9f2d",
+    "wof:geomhash":"c6b0d93ab9faecb8bb473f44db0a3f25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -186,7 +231,7 @@
         }
     ],
     "wof:id":1141906497,
-    "wof:lastmodified":1566592328,
+    "wof:lastmodified":1636495722,
     "wof:name":"Serebryansk",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",
@@ -196,10 +241,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    83.42487137749981,
-    49.69989788725945,
-    83.42487137749981,
-    49.69989788725945
+    83.424871,
+    49.699898,
+    83.424871,
+    49.699898
 ],
-  "geometry": {"coordinates":[83.42487137749981,49.69989788725945],"type":"Point"}
+  "geometry": {"coordinates":[83.424871,49.699898],"type":"Point"}
 }

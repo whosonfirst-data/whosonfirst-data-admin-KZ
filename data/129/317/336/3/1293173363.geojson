@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0627\u0631\u0643\u064a\u0646\u062a"
     ],
+    "name:ben_x_preferred":[
+        "\u099d\u09be\u09b0\u0995\u09c7\u09a8\u09cd\u09a4"
+    ],
     "name:deu_x_preferred":[
         "Scharkent"
     ],
@@ -47,11 +50,26 @@
     "name:fra_x_preferred":[
         "Jarkent"
     ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u093e\u0930\u094d\u0915\u0947\u0928\u094d\u0924"
+    ],
     "name:hsb_x_preferred":[
         "\u017darkent"
     ],
+    "name:hun_x_preferred":[
+        "Zharkent"
+    ],
+    "name:ind_x_preferred":[
+        "Zharkent"
+    ],
+    "name:ita_x_preferred":[
+        "Zharkent"
+    ],
     "name:kaz_x_preferred":[
         "\u0416\u0430\u0440\u043a\u0435\u043d\u0442"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\ub974\ucf04\ud2b8"
     ],
     "name:lit_x_preferred":[
         "\u017darkentas"
@@ -80,8 +98,14 @@
     "name:und_x_variant":[
         "Sharkent"
     ],
+    "name:urd_x_preferred":[
+        "\u0632\u06c1\u0627\u0631\u06a9\u06cc\u0646\u0679"
+    ],
     "name:uzb_x_preferred":[
         "Jarkent"
+    ],
+    "name:vie_x_preferred":[
+        "Zharkent"
     ],
     "name:zho_x_preferred":[
         "\u624e\u723e\u80af\u7279"
@@ -109,7 +133,7 @@
         }
     ],
     "wof:id":1293173363,
-    "wof:lastmodified":1566591423,
+    "wof:lastmodified":1636495688,
     "wof:name":"Zharkent",
     "wof:parent_id":1108785579,
     "wof:placetype":"locality",

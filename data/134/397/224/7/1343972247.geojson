@@ -56,7 +56,13 @@
     "name:frr_x_preferred":[
         "Sumbe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05de\u05d1\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Sumbe"
+    ],
+    "name:hun_x_preferred":[
         "Sumbe"
     ],
     "name:ita_x_preferred":[
@@ -116,7 +122,7 @@
         "gn:id":11522569
     },
     "wof:country":"KZ",
-    "wof:geomhash":"ce84796277ed36f59798c068c8d8a3a0",
+    "wof:geomhash":"0ee35db6cfc64e9b0d12d9422aae751e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1343972247,
-    "wof:lastmodified":1566591206,
+    "wof:lastmodified":1636495678,
     "wof:name":"Sumbe",
     "wof:parent_id":1108785309,
     "wof:placetype":"locality",
@@ -137,10 +143,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    80.42175999999998,
+    80.42176,
     43.08534,
-    80.42175999999998,
+    80.42176,
     43.08534
 ],
-  "geometry": {"coordinates":[80.42175999999998,43.08534],"type":"Point"}
+  "geometry": {"coordinates":[80.42176000000001,43.08534],"type":"Point"}
 }

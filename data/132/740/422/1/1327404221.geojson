@@ -45,6 +45,9 @@
         "Altay"
     ],
     "name:hun_x_preferred":[
+        "Altaj"
+    ],
+    "name:hun_x_variant":[
         "Altaj j\u00e1r\u00e1s"
     ],
     "name:kaz_x_preferred":[
@@ -60,6 +63,9 @@
         "\u0410\u043b\u0442\u0430\u0439 \u0441\u0443\u043c"
     ],
     "name:pol_x_preferred":[
+        "Altay"
+    ],
+    "name:por_x_preferred":[
         "Altay"
     ],
     "name:rus_x_preferred":[
@@ -86,7 +92,7 @@
         "gn:id":10867439
     },
     "wof:country":"KZ",
-    "wof:geomhash":"ead0f83bde7d277a5a474c7efc32fb49",
+    "wof:geomhash":"9f386bdcacfa7b0f91cfcfab788fa9d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1327404221,
-    "wof:lastmodified":1566591127,
+    "wof:lastmodified":1636495676,
     "wof:name":"Altay",
     "wof:parent_id":1108785471,
     "wof:placetype":"locality",
@@ -107,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    85.13821999999998,
+    85.13822,
     48.43318,
-    85.13821999999998,
+    85.13822,
     48.43318
 ],
-  "geometry": {"coordinates":[85.13821999999998,48.43318],"type":"Point"}
+  "geometry": {"coordinates":[85.13822,48.43318],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"52.8000223377,43.3003918651,52.8000223377,43.3003918651",
+    "geom:bbox":"52.800022,43.300392,52.800022,43.300392",
     "geom:latitude":43.300392,
     "geom:longitude":52.800022,
     "iso:country":"KZ",
@@ -24,6 +24,9 @@
     "name:bel_x_preferred":[
         "\u0416\u0430\u043d\u0430\u0430\u0437\u0435\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u099d\u09be\u0982\u0997\u09be\u0993\u099c\u09c7\u09a8"
+    ],
     "name:bul_x_preferred":[
         "\u0416\u0430\u043d\u0430\u043e\u0437\u0435\u043d"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:deu_x_preferred":[
         "Schanga\u00f6sen"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03bd\u03b3\u03ba\u03b1\u03bf\u03b6\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Zhanaozen"
@@ -57,14 +63,23 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d6'\u05e0\u05d0\u05d5\u05d6\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u091c\u0902\u0917\u093e\u0913\u091c\u093c\u0947\u0928"
+    ],
     "name:hsb_x_preferred":[
         "\u017danaozen"
+    ],
+    "name:hun_x_preferred":[
+        "Zhangaozen"
     ],
     "name:hye_x_preferred":[
         "\u053a\u0561\u0576\u0561\u0585\u0566\u0565\u0576"
     ],
     "name:hyw_x_preferred":[
         "\u053a\u0561\u0576\u0561\u0585\u0566\u0565\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Zhangaozen"
     ],
     "name:ita_x_preferred":[
         "Ja\u00f1a\u00f6zen"
@@ -92,6 +107,9 @@
     ],
     "name:pol_x_preferred":[
         "\u017banga\u00f6zen"
+    ],
+    "name:por_x_preferred":[
+        "Zhanaozen"
     ],
     "name:rup_x_preferred":[
         "Zhana-Ozen"
@@ -242,7 +260,7 @@
     },
     "wof:country":"KZ",
     "wof:created":1499130782,
-    "wof:geomhash":"d4a42584d9f777c0aab7752cf6d3cd7c",
+    "wof:geomhash":"a539638b23b794780faa13a78958f9a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -252,7 +270,7 @@
         }
     ],
     "wof:id":1141907871,
-    "wof:lastmodified":1566592329,
+    "wof:lastmodified":1636495723,
     "wof:name":"Zhangaozen",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",
@@ -262,10 +280,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    52.80002233766379,
-    43.3003918650985,
-    52.80002233766379,
-    43.3003918650985
+    52.800022,
+    43.300392,
+    52.800022,
+    43.300392
 ],
-  "geometry": {"coordinates":[52.80002233766379,43.3003918650985],"type":"Point"}
+  "geometry": {"coordinates":[52.800022,43.300392],"type":"Point"}
 }

@@ -26,6 +26,9 @@
     "name:bel_x_preferred":[
         "\u0410\u0440\u0430\u043b\u044c\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09be\u09b2"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0440\u0430\u043b\u0441\u043a"
     ],
@@ -62,10 +65,19 @@
     "name:fra_x_preferred":[
         "Aralsk"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d0\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u093e\u0932"
+    ],
     "name:hsb_x_preferred":[
         "Aral"
     ],
     "name:hun_x_preferred":[
+        "Aral"
+    ],
+    "name:ind_x_preferred":[
         "Aral"
     ],
     "name:ita_x_preferred":[
@@ -124,6 +136,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0410\u0440\u0430\u043b"
+    ],
+    "name:tur_x_preferred":[
+        "Aral"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0430\u043b\u044c\u0441\u044c\u043a"
@@ -284,7 +299,7 @@
         }
     ],
     "wof:id":421168895,
-    "wof:lastmodified":1566591974,
+    "wof:lastmodified":1636495702,
     "wof:name":"Aral",
     "wof:parent_id":85672885,
     "wof:placetype":"locality",

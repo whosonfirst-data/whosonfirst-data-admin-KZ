@@ -26,6 +26,9 @@
     "name:bel_x_variant":[
         "\u041a\u0435\u043d\u0442\u0430\u045e"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c7\u09a8\u09cd\u09a4\u09be\u0989"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0435\u043d\u0442\u0430\u0443"
     ],
@@ -66,17 +69,32 @@
     "name:heb_x_preferred":[
         "\u05e7\u05e0\u05d8\u05d0\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u0902\u091f\u093e\u090a"
+    ],
     "name:hsb_x_preferred":[
+        "Kentau"
+    ],
+    "name:hun_x_preferred":[
+        "Kentau"
+    ],
+    "name:ind_x_preferred":[
         "Kentau"
     ],
     "name:ita_x_preferred":[
         "Kentau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30f3\u30bf\u30a6"
     ],
     "name:kat_x_preferred":[
         "\u10e5\u10d4\u10dc\u10d7\u10d0\u10e3"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0435\u043d\u0442\u0430\u0443"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf04\ud0c0\uc6b0"
     ],
     "name:lit_x_preferred":[
         "Kentau"
@@ -96,11 +114,17 @@
     "name:rus_x_preferred":[
         "\u041a\u0435\u043d\u0442\u0430\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Kentau"
+    ],
     "name:swe_x_preferred":[
         "Kentau"
     ],
     "name:tat_x_preferred":[
         "\u041a\u04d9\u043d\u0442\u0430\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Kentau"
     ],
     "name:udm_x_preferred":[
         "\u041a\u0435\u043d\u0442\u0430\u0443"
@@ -116,6 +140,9 @@
     ],
     "name:uzb_x_variant":[
         "Kentov"
+    ],
+    "name:vie_x_preferred":[
+        "Kentau"
     ],
     "name:zho_x_preferred":[
         "\u80af\u5957"
@@ -258,7 +285,7 @@
         }
     ],
     "wof:id":421167903,
-    "wof:lastmodified":1566591982,
+    "wof:lastmodified":1636495704,
     "wof:name":"Kentau",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

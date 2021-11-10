@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0631\u0648\u0645\u062a\u0627\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u0996\u09cb\u09b0\u09cb\u09ae\u09a4\u09be\u0989"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0445\u0440\u043e\u043c\u0442\u0430\u0443"
     ],
@@ -44,14 +47,35 @@
     "name:fra_x_preferred":[
         "Khromtaou"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7'\u05e8\u05d5\u05de\u05d8\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0916\u094d\u0930\u094b\u092e\u0924\u093e\u0909"
+    ],
     "name:hsb_x_preferred":[
         "Chromtau"
+    ],
+    "name:hun_x_preferred":[
+        "Khromtau"
+    ],
+    "name:ind_x_preferred":[
+        "Khromtau"
+    ],
+    "name:ita_x_preferred":[
+        "Khromtau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ed\u30e0\u30bf\u30a6"
     ],
     "name:kaz_x_preferred":[
         "\u0425\u0440\u043e\u043c\u0442\u0430\u0443"
     ],
     "name:kaz_x_variant":[
         "Khromta\u016b"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub86c\ud0c0\uc6b0"
     ],
     "name:lit_x_preferred":[
         "Chromtau"
@@ -77,11 +101,17 @@
     "name:rus_x_preferred":[
         "\u0425\u0440\u043e\u043c\u0442\u0430\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Khromtau"
+    ],
     "name:swe_x_preferred":[
         "Chromtau"
     ],
     "name:tat_x_preferred":[
         "\u0425\u0440\u043e\u043c\u0442\u0430\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Khromtau"
     ],
     "name:udm_x_preferred":[
         "\u0425\u0440\u043e\u043c\u0442\u0430\u0443"
@@ -92,8 +122,20 @@
     "name:und_x_variant":[
         "Khrom-Tai"
     ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06be\u0631\u0648\u0645\u0648\u0679\u0648"
+    ],
     "name:uzb_x_preferred":[
         "Xromtau"
+    ],
+    "name:vie_x_preferred":[
+        "Khromtau"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8d6b\u7f57\u59c6\u5957"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8d6b\u7f85\u59c6\u5957"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -233,7 +275,7 @@
         }
     ],
     "wof:id":421173991,
-    "wof:lastmodified":1566591988,
+    "wof:lastmodified":1636495706,
     "wof:name":"Khromtau",
     "wof:parent_id":85672877,
     "wof:placetype":"locality",

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0648\u0643\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u0989\u0995\u09c7"
+    ],
     "name:cat_x_preferred":[
         "Mauke"
     ],
@@ -36,6 +42,12 @@
         "Mauke"
     ],
     "name:deu_x_preferred":[
+        "Mauke"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03bf\u03c5\u03ba\u03b5"
+    ],
+    "name:eng_x_preferred":[
         "Mauke"
     ],
     "name:fas_x_preferred":[
@@ -47,11 +59,26 @@
     "name:fra_x_preferred":[
         "Mauke"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05de\u05d0\u05d5\u05e8\u05d9\u05e6\u05d9\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094c\u0915\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Mauke"
+    ],
+    "name:ind_x_preferred":[
+        "Mauke"
+    ],
     "name:ita_x_preferred":[
         "Mauke"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30a6\u30b1\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc6b0\ucf00"
     ],
     "name:lit_x_preferred":[
         "Mauk\u0117"
@@ -65,17 +92,36 @@
     "name:pol_x_preferred":[
         "Mauke"
     ],
+    "name:por_x_preferred":[
+        "Mauke"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0443\u043a\u0435"
     ],
     "name:spa_x_preferred":[
         "Mauke"
     ],
+    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
+        "Mauke"
+    ],
+    "name:tur_x_preferred":[
         "Mauke"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0443\u043a\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0648\u06a9\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Mauke"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6bdb\u51ef\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8302\u958b\u5cf6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -100,7 +146,7 @@
         }
     ],
     "wof:id":1192999385,
-    "wof:lastmodified":1566591688,
+    "wof:lastmodified":1636495694,
     "wof:name":"Mauke",
     "wof:parent_id":1108785655,
     "wof:placetype":"locality",

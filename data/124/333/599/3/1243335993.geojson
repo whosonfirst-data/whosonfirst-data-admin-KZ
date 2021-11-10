@@ -38,6 +38,9 @@
     "name:bel_x_preferred":[
         "\u0420\u0443\u0437\u0430\u0435\u045e\u043a\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09c1\u099c\u09be\u09df\u09c7\u09ad\u0995\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0443\u0437\u0430\u0435\u0432\u043a\u0430"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Rusajewka"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03c5\u03b6\u03b1\u03b3\u03b9\u03ad\u03b2\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "R\u016bzaevka"
@@ -74,11 +80,20 @@
     "name:fra_x_preferred":[
         "Rouza\u00efevka"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d6\u05d9\u05d9\u05d1\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0941\u091c\u093c\u093e\u092f\u0947\u0935\u094d\u0915\u093e"
+    ],
     "name:hsb_x_preferred":[
         "Ruzajewka"
     ],
     "name:hun_x_preferred":[
         "Ruzajevka"
+    ],
+    "name:ind_x_preferred":[
+        "Ruzayevka"
     ],
     "name:ita_x_preferred":[
         "Ruzaevka"
@@ -91,6 +106,9 @@
     ],
     "name:kom_x_preferred":[
         "\u0420\u0443\u0437\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\uc790\uc608\ud504\uce74"
     ],
     "name:lav_x_preferred":[
         "Ruzajevka"
@@ -125,6 +143,9 @@
     "name:srp_x_preferred":[
         "\u0420\u0443\u0437\u0430\u0458\u0435\u0432\u043a\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Ruzajevka"
+    ],
     "name:tat_x_preferred":[
         "\u0420\u0443\u0437\u0430\u0439"
     ],
@@ -140,8 +161,14 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0437\u0430\u0454\u0432\u043a\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0632\u0627\u06cc\u06d2\u06a9\u0627"
+    ],
     "name:vep_x_preferred":[
         "Ruzajevk"
+    ],
+    "name:vie_x_preferred":[
+        "Ruzayevka"
     ],
     "name:war_x_preferred":[
         "Ruzayevka"
@@ -175,7 +202,7 @@
         }
     ],
     "wof:id":1243335993,
-    "wof:lastmodified":1566592079,
+    "wof:lastmodified":1636495712,
     "wof:name":"Ruzayevka",
     "wof:parent_id":1108785571,
     "wof:placetype":"locality",

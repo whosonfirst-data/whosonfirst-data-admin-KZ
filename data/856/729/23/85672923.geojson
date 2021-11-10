@@ -109,6 +109,9 @@
     "name:hin_x_preferred":[
         "\u092e\u093e\u0928\u094d\u0917\u0940\u0938\u094d\u0924\u200b\u090a \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:hun_x_preferred":[
+        "Mangystau"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Mangghystau"
     ],
@@ -380,7 +383,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1614894915,
+    "wof:lastmodified":1636495684,
     "wof:name":"Mangghystau",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

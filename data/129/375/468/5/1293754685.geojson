@@ -32,13 +32,22 @@
     "name:bel_x_preferred":[
         "\u0422\u0430\u043a\u043c\u0430\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u099f\u09cb\u0995\u09ae\u09be\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Tokmak"
     ],
     "name:deu_x_preferred":[
         "Tokmak"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03ba\u03bc\u03ac\u03ba"
+    ],
     "name:fra_x_preferred":[
+        "Tokmak"
+    ],
+    "name:ind_x_preferred":[
         "Tokmak"
     ],
     "name:jpn_x_preferred":[
@@ -74,7 +83,7 @@
         "gn:id":1518109
     },
     "wof:country":"KZ",
-    "wof:geomhash":"f12d734cc71a51f03e3789ee6fee31ca",
+    "wof:geomhash":"3e86f0b7c675a86c73fe49f6e512f988",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1293754685,
-    "wof:lastmodified":1566591435,
+    "wof:lastmodified":1636495689,
     "wof:name":"Tokmak",
     "wof:parent_id":1108785633,
     "wof:placetype":"locality",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    61.03333000000001,
+    61.03333,
     45.83333,
-    61.03333000000001,
+    61.03333,
     45.83333
 ],
-  "geometry": {"coordinates":[61.03333000000001,45.83333],"type":"Point"}
+  "geometry": {"coordinates":[61.03333,45.83333],"type":"Point"}
 }

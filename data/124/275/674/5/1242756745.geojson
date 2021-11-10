@@ -48,6 +48,9 @@
         "Abajus"
     ],
     "name:rus_x_preferred":[
+        "\u0410\u0431\u0430\u044f"
+    ],
+    "name:rus_x_variant":[
         "\u0410\u0431\u0430\u0439"
     ],
     "name:spa_x_preferred":[
@@ -56,8 +59,26 @@
     "name:swe_x_preferred":[
         "Abay"
     ],
+    "name:tur_x_preferred":[
+        "Abay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0431\u0430\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u06d2"
+    ],
     "name:uzb_x_preferred":[
         "Abay"
+    ],
+    "name:vie_x_preferred":[
+        "Abay"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u62dc\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u62dc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +92,7 @@
         "gn:id":1535067
     },
     "wof:country":"KZ",
-    "wof:geomhash":"f8c7bd862dd1694feeeecb5c569cf764",
+    "wof:geomhash":"262fa3af50745ebb2077431a1fc882cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,7 +103,7 @@
         }
     ],
     "wof:id":1242756745,
-    "wof:lastmodified":1566592030,
+    "wof:lastmodified":1636495711,
     "wof:name":"Abay",
     "wof:parent_id":1108785677,
     "wof:placetype":"locality",
@@ -92,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    65.54583000000001,
+    65.54583,
     44.95111,
-    65.54583000000001,
+    65.54583,
     44.95111
 ],
-  "geometry": {"coordinates":[65.54583000000001,44.95111],"type":"Point"}
+  "geometry": {"coordinates":[65.54583,44.95111],"type":"Point"}
 }
