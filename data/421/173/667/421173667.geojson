@@ -20,11 +20,20 @@
     "name:bel_x_preferred":[
         "\u0427\u0430\u0433\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Shaghan"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0430\u0433\u0430\u043d"
+    ],
     "name:eng_x_preferred":[
         "Shaghan"
     ],
     "name:eng_x_variant":[
         "Chagan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u063a\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "Chagan"
@@ -41,11 +50,20 @@
     "name:rus_x_preferred":[
         "\u0427\u0430\u0433\u0430\u043d"
     ],
+    "name:swe_x_preferred":[
+        "Tjagan"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0430\u0433\u0430\u043d"
+    ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0433\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Shagan"
+    ],
+    "name:uzb_x_preferred":[
+        "Shag\u02bban"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -92,7 +110,7 @@
         }
     ],
     "wof:id":421173667,
-    "wof:lastmodified":1566591988,
+    "wof:lastmodified":1690938464,
     "wof:name":"Chagan",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

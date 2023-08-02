@@ -20,17 +20,29 @@
     "name:ara_x_preferred":[
         "\u0625\u0631\u062a\u064a\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Ertis"
+    ],
     "name:bel_x_preferred":[
         "\u0406\u0440\u0442\u044b\u0448\u0441\u043a"
     ],
     "name:ben_x_preferred":[
         "\u098f\u09b0\u09a4\u09bf\u09b8"
     ],
+    "name:ceb_x_preferred":[
+        "Ertis"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u0440\u0442\u044b\u0448\u0441\u043a"
+    ],
     "name:deu_x_preferred":[
         "Ertis"
     ],
     "name:ell_x_preferred":[
         "\u0388\u03c1\u03c4\u03b9\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c1\u03c4\u03af\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ertis"
@@ -88,6 +100,12 @@
     ],
     "name:spa_x_preferred":[
         "Ertis"
+    ],
+    "name:swe_x_preferred":[
+        "Irtysjsk"
+    ],
+    "name:tat_x_preferred":[
+        "\u0415\u0440\u0442\u0435\u0441"
     ],
     "name:tur_x_preferred":[
         "Ertis"
@@ -252,7 +270,7 @@
         }
     ],
     "wof:id":421168523,
-    "wof:lastmodified":1636495703,
+    "wof:lastmodified":1690938449,
     "wof:name":"Ertis",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

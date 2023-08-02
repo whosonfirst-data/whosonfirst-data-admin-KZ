@@ -17,14 +17,29 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Talgar"
+    ],
     "name:bel_x_preferred":[
         "\u0422\u0430\u043b\u0433\u0430\u0440"
     ],
     "name:cat_x_preferred":[
         "Talgar"
     ],
+    "name:ceb_x_preferred":[
+        "Talghar"
+    ],
+    "name:ces_x_preferred":[
+        "Talgar"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u043b\u0433\u0430\u0440"
+    ],
     "name:deu_x_preferred":[
         "Talghar"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bb\u03b3\u03ba\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Talgar"
@@ -50,6 +65,9 @@
     "name:hun_x_preferred":[
         "Talgar"
     ],
+    "name:hye_x_preferred":[
+        "\u0539\u0561\u056c\u0563\u0561\u0580"
+    ],
     "name:ita_x_preferred":[
         "Tal\u01e7ar"
     ],
@@ -61,6 +79,9 @@
     ],
     "name:kaz_x_variant":[
         "Talghar"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c8\uac00\ub974"
     ],
     "name:lit_x_preferred":[
         "Talgaras"
@@ -77,11 +98,20 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u0433\u0430\u0440"
     ],
+    "name:slk_x_preferred":[
+        "Talgar"
+    ],
     "name:spa_x_preferred":[
         "Talgar"
     ],
+    "name:swe_x_preferred":[
+        "Talghar"
+    ],
     "name:tat_x_preferred":[
         "\u0422\u0430\u043b\u0433\u0430\u0440"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0422\u0430\u043b\u0493\u0430\u0440"
     ],
     "name:udm_x_preferred":[
         "\u0422\u0430\u043b\u0433\u0430\u0440"
@@ -143,7 +173,7 @@
         }
     ],
     "wof:id":421168099,
-    "wof:lastmodified":1566591974,
+    "wof:lastmodified":1690938446,
     "wof:name":"Talghar",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

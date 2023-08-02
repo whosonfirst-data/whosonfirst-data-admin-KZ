@@ -25,7 +25,19 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0631\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Saran"
+    ],
     "name:bel_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u043d\u044c"
+    ],
+    "name:ceb_x_preferred":[
+        "Sorang"
+    ],
+    "name:che_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u044c"
     ],
     "name:ckb_x_preferred":[
@@ -65,8 +77,14 @@
         "\u0421\u043e\u0440\u0430\u043d",
         "\u0421\u0430\u0440\u0430\u043d"
     ],
+    "name:lav_x_preferred":[
+        "Sarana"
+    ],
     "name:lit_x_preferred":[
         "Saranas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u043d"
     ],
     "name:nld_x_preferred":[
         "Saran"
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":1125820555,
-    "wof:lastmodified":1566592005,
+    "wof:lastmodified":1690938483,
     "wof:name":"Sorang",
     "wof:parent_id":1108785651,
     "wof:placetype":"locality",

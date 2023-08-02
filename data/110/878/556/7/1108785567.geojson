@@ -51,6 +51,9 @@
     "name:eng_x_variant":[
         "Shal akyn District"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u0644\u200c\u0622\u0642\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Shal Akyna"
     ],
@@ -80,6 +83,9 @@
     ],
     "name:uzb_x_preferred":[
         "Shal aqin"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u723e\u963f\u80af\u5340"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1108785567,
-    "wof:lastmodified":1627522313,
+    "wof:lastmodified":1690938398,
     "wof:name":"Shal Akyna",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

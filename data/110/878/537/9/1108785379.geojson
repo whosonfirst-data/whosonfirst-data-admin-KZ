@@ -42,6 +42,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043c\u043b\u044e\u0442\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Mamlyutka A\u016bdany"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03b1\u03bc\u03bb\u03b9\u03bf\u03cd\u03c4"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:eng_x_variant":[
         "Mamlyut District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0645\u0644\u0648\u062a"
     ],
     "name:fra_x_preferred":[
         "Kyzylzhar"
@@ -75,6 +81,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043c\u043b\u044e\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:swe_x_preferred":[
+        "Mamlyutka A\u016bdany"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043c\u043b\u044e\u0442\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -83,6 +92,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57c3\u57fa\u5df4\u65af\u5716\u8332"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u59c6\u5c14\u5c24\u7279\u533a"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":1108785379,
-    "wof:lastmodified":1627522311,
+    "wof:lastmodified":1690938420,
     "wof:name":"Kyzylzharskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

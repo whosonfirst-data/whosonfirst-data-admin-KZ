@@ -22,11 +22,20 @@
     "name:bel_x_preferred":[
         "\u041d\u043e\u0432\u0430\u044f \u0411\u0443\u0445\u0442\u0430\u0440\u043c\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Zhanga Buqtyrma"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0411\u0443\u0445\u0442\u0430\u0440\u043c\u0430"
+    ],
     "name:eng_x_preferred":[
         "Zhanga Buqtyrma"
     ],
     "name:eng_x_variant":[
         "Novaya-Bukhtarma"
+    ],
+    "name:fra_x_preferred":[
+        "Nova\u00efa Boukhtarma"
     ],
     "name:kaz_x_preferred":[
         "\u0416\u0430\u04a3\u0430\u0431\u04b1\u049b\u0442\u044b\u0440\u043c\u0430"
@@ -37,11 +46,20 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0430\u044f \u0411\u0443\u0445\u0442\u0430\u0440\u043c\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Novaja Buchtarma"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u04a3\u0430 \u0411\u043e\u043a\u0442\u044b\u0440\u043c\u0430"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0411\u0443\u0445\u0442\u0430\u0440\u043c\u0430"
     ],
     "name:und_x_variant":[
         "Novaya Bukhtarma"
+    ],
+    "name:uzb_x_preferred":[
+        "Jana Buqtirma"
     ],
     "qs:name":"Zhanga Buqtyrma",
     "qs:photos_9r":0,
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":890421709,
-    "wof:lastmodified":1566592001,
+    "wof:lastmodified":1690938480,
     "wof:name":"Zhanga Buqtyrma",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

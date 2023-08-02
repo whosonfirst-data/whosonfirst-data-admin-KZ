@@ -20,14 +20,23 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u064a\u0646\u0633\u0643"
     ],
+    "name:aze_x_preferred":[
+        "Makinsk"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u043a\u0456\u043d\u0441\u043a"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0995\u09bf\u09a8\u09b8\u09cd\u0995"
     ],
+    "name:cat_x_preferred":[
+        "Makinsk"
+    ],
     "name:ceb_x_preferred":[
         "Mak\u012bnsk"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u043a\u0438\u043d\u0441\u043a"
     ],
     "name:deu_x_preferred":[
         "Makinsk"
@@ -115,6 +124,9 @@
     ],
     "name:vie_x_preferred":[
         "Makinsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u91d1\u65af\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -254,7 +266,7 @@
         }
     ],
     "wof:id":421174011,
-    "wof:lastmodified":1636495706,
+    "wof:lastmodified":1690938463,
     "wof:name":"Makinsk",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

@@ -48,6 +48,9 @@
     "name:bul_x_preferred":[
         "\u0417\u0438\u0440\u044f\u043d\u043e\u0432\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Zyryanovsk A\u016bdany"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0396\u03b9\u03c1\u03b3\u03b9\u03ac\u03bd"
     ],
@@ -55,10 +58,17 @@
         "Zyryanovsk"
     ],
     "name:eng_x_variant":[
-        "Zyryan District"
+        "Zyryan District",
+        "Altai District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0622\u0644\u062a\u0627\u06cc"
     ],
     "name:fra_x_preferred":[
         "district de Zyrian"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Altai"
     ],
     "name:ita_x_preferred":[
         "Zyryanovsk"
@@ -84,6 +94,12 @@
     "name:rus_x_preferred":[
         "\u0417\u044b\u0440\u044f\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Zyryanovsk A\u016bdany"
+    ],
     "name:ukr_x_preferred":[
         "\u0417\u0438\u0440\u044f\u043d\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -92,6 +108,9 @@
     ],
     "name:vie_x_preferred":[
         "Zyryanovsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u52d2\u6cf0\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -129,7 +148,7 @@
         }
     ],
     "wof:id":1108785461,
-    "wof:lastmodified":1636495698,
+    "wof:lastmodified":1690938441,
     "wof:name":"Zyryanovsk",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

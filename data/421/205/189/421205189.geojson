@@ -23,11 +23,17 @@
     "name:ceb_x_preferred":[
         "Balyqshy"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u043b\u044b\u043a\u0448\u0438"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03bb\u03af\u03ba\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Balyqshy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u06cc\u0642\u0634\u06cc"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u043b\u044b\u049b\u0448\u044b \u043a\u0435\u043d\u0442\u0456"
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":421205189,
-    "wof:lastmodified":1566591987,
+    "wof:lastmodified":1690938463,
     "wof:name":"Balykshi",
     "wof:parent_id":85672889,
     "wof:placetype":"locality",

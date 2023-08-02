@@ -20,11 +20,20 @@
     "name:bel_x_preferred":[
         "\u0411\u0430\u045e\u0446\u0456\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Ba\u016bt\u012bno"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0443\u0442\u0438\u043d\u043e"
+    ],
     "name:eng_x_preferred":[
         "Ba\u016bt\u012bno"
     ],
     "name:eng_x_variant":[
         "Bautino"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0626\u0648\u062a\u06cc\u0646"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0443\u0442\u0438\u043d\u043e"
@@ -38,11 +47,20 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0443\u0442\u0438\u043d\u043e"
     ],
+    "name:swe_x_preferred":[
+        "Bautino"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0443\u0442\u0438\u043d"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0443\u0442\u0456\u043d\u043e"
     ],
     "name:und_x_variant":[
         "Seleniye Bautino"
+    ],
+    "name:uzb_x_preferred":[
+        "Bautino"
     ],
     "name:zho_x_preferred":[
         "\u5305\u5b63\u8bfa"
@@ -91,7 +109,7 @@
         }
     ],
     "wof:id":421194059,
-    "wof:lastmodified":1566591977,
+    "wof:lastmodified":1690938451,
     "wof:name":"Bautino",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",

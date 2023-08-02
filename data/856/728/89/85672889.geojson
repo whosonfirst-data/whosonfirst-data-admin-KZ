@@ -37,8 +37,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u062a\u064a\u0631\u0627\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0628\u0644\u064a\u0633 \u0623\u062a\u064a\u0631\u0627\u0648"
+    ],
     "name:ast_x_preferred":[
         "Provincia d'Atirau"
+    ],
+    "name:awa_x_preferred":[
+        "\u0905\u0924\u093f\u0930\u090a \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:azb_x_preferred":[
         "\u0622\u062a\u06cc\u0631\u0627\u0648 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
@@ -69,6 +75,9 @@
     ],
     "name:ces_x_preferred":[
         "Atyrausk\u00e1 oblast"
+    ],
+    "name:crh_x_preferred":[
+        "At\u0131rav vil\u00e2yeti"
     ],
     "name:dan_x_preferred":[
         "Atyrau Province"
@@ -123,6 +132,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u056b\u057f\u0561\u0578\u0582 \u0574\u0561\u0580\u0566"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco At\u0131raw"
     ],
     "name:ind_x_preferred":[
         "Provinsi Atyrau"
@@ -183,6 +195,9 @@
     "name:nob_x_preferred":[
         "Atyrau oblast"
     ],
+    "name:oss_x_preferred":[
+        "\u0410\u0442\u044b\u0440\u0430\u0443\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
+    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0622\u062a\u06cc\u0631\u0627\u0624"
     ],
@@ -223,8 +238,14 @@
     "name:swe_x_preferred":[
         "Atyraw"
     ],
+    "name:swe_x_variant":[
+        "Atyrau"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0b9f\u0bbf\u0bb0\u0bbe\u0bb5\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b85\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0410\u0442\u044b\u0440\u0430\u0443 \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -265,6 +286,12 @@
     ],
     "name:war_x_preferred":[
         "Atyrau"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u7279\u52b3\u5dde"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u7279\u52de\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u963f\u7279\u52de\u5dde"
@@ -392,7 +419,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1636495681,
+    "wof:lastmodified":1690938387,
     "wof:name":"Atyrau",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

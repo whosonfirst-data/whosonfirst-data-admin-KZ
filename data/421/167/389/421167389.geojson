@@ -17,13 +17,22 @@
     "mz:is_current":1,
     "mz:min_zoom":5.6,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ace_x_preferred":[
+        "Oskemen"
+    ],
     "name:afr_x_preferred":[
         "Oskemen"
     ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u0643\u0645\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0633\u0643\u0645\u0627\u0646"
+    ],
     "name:ast_x_preferred":[
+        "\u00d6skemen"
+    ],
+    "name:aze_x_preferred":[
         "\u00d6skemen"
     ],
     "name:bel_x_preferred":[
@@ -49,6 +58,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u0633\u06a9\u06ce\u0645\u06ce\u0646"
+    ],
+    "name:crh_x_preferred":[
+        "\u00d6skemen"
     ],
     "name:cym_x_preferred":[
         "Oskemen"
@@ -92,6 +104,9 @@
     "name:fra_x_preferred":[
         "\u00d6skemen"
     ],
+    "name:gle_x_preferred":[
+        "Oskemen"
+    ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab8\u0acd\u0a95\u0ac7\u0aae\u0ac7\u0aa8"
     ],
@@ -110,6 +125,9 @@
     "name:hye_x_preferred":[
         "\u0548\u0582\u057d\u057f \u053f\u0561\u0574\u0565\u0576\u0578\u0563\u0578\u0580\u057d\u056f"
     ],
+    "name:ido_x_preferred":[
+        "\u00d6skemen"
+    ],
     "name:ind_x_preferred":[
         "\u00d6skemen"
     ],
@@ -121,6 +139,9 @@
     ],
     "name:jpn_x_variant":[
         "\u30aa\u30b9\u30b1\u30e1\u30f3"
+    ],
+    "name:kaa_x_preferred":[
+        "O'skemen"
     ],
     "name:kan_x_preferred":[
         "\u0c93\u0cb8\u0ccd\u0c95\u0cc6\u0cae\u0cc6\u0ca8\u0ccd"
@@ -136,6 +157,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc678\uc2a4\ucf00\uba58"
+    ],
+    "name:lat_x_preferred":[
+        "Petropylae"
     ],
     "name:lav_x_preferred":[
         "Ustjkamenogorska"
@@ -206,6 +230,9 @@
     "name:srp_x_preferred":[
         "\u0423\u0441\u0442-\u041a\u0430\u043c\u0435\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
     ],
+    "name:srp_x_variant":[
+        "\u041e\u0441\u043a\u0435\u043c\u0435\u043d"
+    ],
     "name:sun_x_preferred":[
         "Oskemen"
     ],
@@ -239,11 +266,17 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u041a\u0430\u043c\u0435\u043d\u043e\u0433\u043e\u0440\u0441\u044c\u043a"
     ],
+    "name:ukr_x_variant":[
+        "\u041e\u0441\u043a\u0435\u043c\u0435\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0633\u06a9\u06cc\u0645\u0646"
     ],
     "name:uzb_x_preferred":[
         "O\u02bbstkemen"
+    ],
+    "name:vec_x_preferred":[
+        "\u00d6skemen"
     ],
     "name:vep_x_preferred":[
         "Ust' Kamenogorsk"
@@ -253,6 +286,9 @@
     ],
     "name:war_x_preferred":[
         "Oskemen"
+    ],
+    "name:yue_x_preferred":[
+        "\u5967\u65af\u5361\u66fc"
     ],
     "name:zho_x_preferred":[
         "\u5384\u65af\u514b\u9580"
@@ -399,7 +435,7 @@
         }
     ],
     "wof:id":421167389,
-    "wof:lastmodified":1566591984,
+    "wof:lastmodified":1690938460,
     "wof:name":"Oskemen",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

@@ -23,11 +23,20 @@
     "name:ceb_x_preferred":[
         "Kurchum"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u0440\u0447\u0443\u043c"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c1\u03c3\u03af\u03bc"
+    ],
     "name:eng_x_preferred":[
         "Kurchum"
     ],
     "name:eng_x_variant":[
         "Kurshim"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u0634\u06cc\u0645"
     ],
     "name:fra_x_preferred":[
         "Kourchim"
@@ -47,14 +56,23 @@
     "name:swe_x_preferred":[
         "Kurtjum"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u04af\u0440\u0448\u0435\u043c"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0447\u0443\u043c"
     ],
     "name:und_x_variant":[
         "Kumashenkino"
     ],
+    "name:uzb_x_preferred":[
+        "Kurshim"
+    ],
     "name:vie_x_preferred":[
         "Kurshim"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u723e\u4e18\u59c6"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -102,7 +120,7 @@
         }
     ],
     "wof:id":421167409,
-    "wof:lastmodified":1566591980,
+    "wof:lastmodified":1690938455,
     "wof:name":"Kurchum",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

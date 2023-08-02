@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Pervomayskiy"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438"
+    ],
     "name:eng_x_preferred":[
         "Pervomayskiy"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u0648\u0645\u0627\u06cc\u0633\u06a9\u06cc"
     ],
     "name:ita_x_preferred":[
         "Pervomajskij"
@@ -46,8 +55,14 @@
     "name:rus_x_variant":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439"
     ],
+    "name:swe_x_preferred":[
+        "Pervomajskoje"
+    ],
     "name:und_x_variant":[
         "Imeni Pervaya Maya"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5c14\u6c83\u6885\u65af\u57fa"
     ],
     "qs:name":"Pervomayskiy",
     "qs:photos_9r":0,
@@ -80,7 +95,7 @@
         }
     ],
     "wof:id":890435901,
-    "wof:lastmodified":1566592004,
+    "wof:lastmodified":1690938483,
     "wof:name":"Pervomayskiy",
     "wof:parent_id":85672937,
     "wof:placetype":"locality",

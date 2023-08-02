@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Ayagoz"
+    ],
+    "name:aze_x_preferred":[
+        "Ayaqoz"
+    ],
     "name:bak_x_preferred":[
         "\u0410\u044f\u0433\u04af\u0499"
     ],
@@ -26,8 +32,14 @@
     "name:bul_x_preferred":[
         "\u0410\u044f\u0433\u043e\u0437"
     ],
+    "name:cat_x_preferred":[
+        "Ajaguz"
+    ],
     "name:ceb_x_preferred":[
         "Ayagoz"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u044f\u0433\u043e\u0437"
     ],
     "name:deu_x_preferred":[
         "Ajag\u00f6s"
@@ -37,6 +49,9 @@
     ],
     "name:eng_x_preferred":[
         "Ayagoz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06cc\u0627\u06af\u0648\u0632"
     ],
     "name:fin_x_preferred":[
         "Ayag\u00f6z"
@@ -248,7 +263,7 @@
         }
     ],
     "wof:id":421167457,
-    "wof:lastmodified":1566591983,
+    "wof:lastmodified":1690938459,
     "wof:name":"Ayaguz",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

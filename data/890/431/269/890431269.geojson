@@ -28,11 +28,17 @@
     "name:ceb_x_preferred":[
         "Munayshy"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0443\u043d\u0430\u0439\u0448\u044b"
+    ],
     "name:eng_x_preferred":[
         "Munayshy"
     ],
     "name:eng_x_variant":[
         "Munayshi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u0627\u06cc\u0634\u06cc"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u04b1\u043d\u0430\u0439\u0448\u044b"
@@ -48,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Munajsji"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u0439\u0448\u044b"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0443\u043d\u0430\u0439\u0448\u0438"
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":890431269,
-    "wof:lastmodified":1566592001,
+    "wof:lastmodified":1690938480,
     "wof:name":"Munayshy",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",

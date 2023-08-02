@@ -19,6 +19,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0439\u043a\u0445\u0438\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Saykhin"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u0439\u0445\u0438\u043d"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03ca\u03ba\u03af\u03bd"
     ],
@@ -28,11 +37,23 @@
     "name:eng_x_variant":[
         "Saykyn"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06cc\u0642\u06cc\u0646"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u0439\u049b\u044b\u043d"
     ],
+    "name:nld_x_preferred":[
+        "Sajchin"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0439\u0445\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Sajchin"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u0439\u043a\u044b\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0439\u0445\u0456\u043d"
@@ -74,7 +95,7 @@
         }
     ],
     "wof:id":890455683,
-    "wof:lastmodified":1566592000,
+    "wof:lastmodified":1690938480,
     "wof:name":"Saykhin",
     "wof:parent_id":85672893,
     "wof:placetype":"locality",

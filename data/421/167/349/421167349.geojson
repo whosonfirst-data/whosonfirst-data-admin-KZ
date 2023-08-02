@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0416\u0435\u043b\u0435\u0437\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Zhelez\u012bnka A\u016bdany"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0396\u03b5\u03bb\u03b5\u03b6\u03af\u03bd"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:eng_x_variant":[
         "Zhelezin District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062c\u0644\u0647\u200c\u0632\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
         "District de Jelezin"
@@ -59,6 +65,9 @@
     "name:rus_x_variant":[
         "\u0416\u0435\u043b\u0435\u0437\u0438\u043d\u043a\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Zhelez\u012bnka A\u016bdany"
+    ],
     "name:ukr_x_preferred":[
         "\u0416\u0435\u043b\u0435\u0437\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -67,6 +76,9 @@
     ],
     "name:uzb_x_preferred":[
         "Jelezin"
+    ],
+    "name:zho_x_preferred":[
+        "\u71b1\u5217\u6d25\u5340"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":421167349,
-    "wof:lastmodified":1566591981,
+    "wof:lastmodified":1690938456,
     "wof:name":"Zhelezinka",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

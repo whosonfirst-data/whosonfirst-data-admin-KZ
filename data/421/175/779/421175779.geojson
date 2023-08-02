@@ -17,11 +17,23 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u043a\u0430\u0440\u0435\u0432\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Tokarevka"
+    ],
     "name:deu_x_preferred":[
         "Ghabiden Mustafin"
     ],
     "name:eng_x_preferred":[
         "Tokarevka"
+    ],
+    "name:eng_x_variant":[
+        "Ghabiden Mustafin"
+    ],
+    "name:fas_x_preferred":[
+        "\u063a\u0627\u0628\u06cc\u062f\u0646 \u0645\u0635\u0637\u0641\u06cc\u0646"
     ],
     "name:kaz_x_preferred":[
         "\u0422\u043e\u043a\u0430\u0440\u0435\u0432\u043a\u0430"
@@ -34,6 +46,9 @@
     ],
     "name:rus_x_variant":[
         "\u0413\u0430\u0431\u0438\u0434\u0435\u043d\u0430 \u041c\u0443\u0441\u0442\u0430\u0444\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tokarevka"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0431\u0456\u0434\u0435\u043d\u0430 \u041c\u0443\u0441\u0442\u0430\u0444\u0456\u043d\u0430"
@@ -86,7 +101,7 @@
         }
     ],
     "wof:id":421175779,
-    "wof:lastmodified":1566591990,
+    "wof:lastmodified":1690938467,
     "wof:name":"Tokarevka",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u0643\u0627\u0644\u064a\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u0643\u0627\u0644\u064a\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Arkalyk"
+    ],
     "name:bak_x_preferred":[
         "\u0410\u0440\u04a1\u0430\u043b\u044b\u04a1"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u043a\u0430\u043b\u044a\u043a"
     ],
     "name:cat_x_preferred":[
         "Arkalik"
@@ -33,6 +42,9 @@
     ],
     "name:ces_x_preferred":[
         "Arkalyk"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u043a\u0445\u0430\u043b\u0438\u043a\u0445"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u0627\u0631\u0642\u0627\u0644\u0642"
@@ -80,11 +92,20 @@
     "name:kor_x_preferred":[
         "\uc544\ub974\uce7c\ub9ac\ud06c"
     ],
+    "name:lav_x_preferred":[
+        "Arkalika"
+    ],
     "name:lit_x_preferred":[
         "Arkalykas"
     ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0440\u043a\u0430\u043b\u0438\u043a"
+    ],
     "name:nld_x_preferred":[
         "Arkalyk"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0622\u0631\u0642\u0627\u0644\u06cc\u0642"
     ],
     "name:pol_x_preferred":[
         "Arka\u0142yk"
@@ -248,7 +269,7 @@
         }
     ],
     "wof:id":890443877,
-    "wof:lastmodified":1566592002,
+    "wof:lastmodified":1690938481,
     "wof:name":"Arkalyk",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

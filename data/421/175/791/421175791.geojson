@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Lisakovsk"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u0441\u0430\u043a\u043e\u0432\u0441\u043a"
+    ],
     "name:deu_x_preferred":[
         "Lissakowsk"
     ],
@@ -32,17 +35,32 @@
     "name:eng_x_variant":[
         "Lisakovsk"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0633\u0627\u06a9\u0648\u0641\u0633\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Lissakovsk"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e1\u05d0\u05e7\u05d5\u05d1\u05e1\u05e7"
+    ],
     "name:hsb_x_preferred":[
         "Lisakowsk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30b5\u30b3\u30d5\u30b9\u30af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10e1\u10d0\u10d9\u10dd\u10d5\u10e1\u10d9\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041b\u0438\u0441\u0430\u043a\u043e\u0432\u0441\u043a"
     ],
     "name:kaz_x_variant":[
         "L\u012bsakovsk"
+    ],
+    "name:lav_x_preferred":[
+        "Lisakova"
     ],
     "name:lit_x_preferred":[
         "Lisakovskas"
@@ -126,7 +144,7 @@
         }
     ],
     "wof:id":421175791,
-    "wof:lastmodified":1566591989,
+    "wof:lastmodified":1690938466,
     "wof:name":"Lisakovsk",
     "wof:parent_id":85672879,
     "wof:placetype":"locality",

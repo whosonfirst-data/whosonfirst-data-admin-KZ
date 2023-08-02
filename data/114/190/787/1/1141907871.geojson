@@ -21,6 +21,15 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0646\u0627\u0648\u0632\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0646\u0627\u0648\u0632\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Janaozen"
+    ],
+    "name:bak_x_preferred":[
+        "\u0416\u0430\u04a3\u0430\u04e9\u0437\u0435\u043d"
+    ],
     "name:bel_x_preferred":[
         "\u0416\u0430\u043d\u0430\u0430\u0437\u0435\u043d"
     ],
@@ -30,8 +39,17 @@
     "name:bul_x_preferred":[
         "\u0416\u0430\u043d\u0430\u043e\u0437\u0435\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Jangaozen"
+    ],
     "name:ceb_x_preferred":[
         "Zhanaozen"
+    ],
+    "name:ces_x_preferred":[
+        "\u017danaozen"
+    ],
+    "name:che_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u043e\u0437\u0435\u043d"
     ],
     "name:ckb_x_preferred":[
         "\u0698\u0627\u0646\u0627\u0626\u06c6\u0632\u06ce\u0646"
@@ -42,8 +60,14 @@
     "name:ell_x_preferred":[
         "\u0396\u03b1\u03bd\u03b3\u03ba\u03b1\u03bf\u03b6\u03ad\u03bd"
     ],
+    "name:ell_x_variant":[
+        "\u0396\u03b1\u03bd\u03b1\u03bf\u03b6\u03ad\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Zhanaozen"
+    ],
+    "name:est_x_preferred":[
+        "\u017danga\u00f6zen"
     ],
     "name:eus_x_preferred":[
         "Zhanaozen"
@@ -59,6 +83,9 @@
     ],
     "name:fra_x_preferred":[
         "Changa\u00f6sen"
+    ],
+    "name:fra_x_variant":[
+        "Janaozen"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d6'\u05e0\u05d0\u05d5\u05d6\u05df"
@@ -77,6 +104,9 @@
     ],
     "name:hyw_x_preferred":[
         "\u053a\u0561\u0576\u0561\u0585\u0566\u0565\u0576"
+    ],
+    "name:ile_x_preferred":[
+        "Zhanaozen"
     ],
     "name:ind_x_preferred":[
         "Zhangaozen"
@@ -99,11 +129,26 @@
     "name:kor_x_preferred":[
         "\uc790\ub098\uc624\uc820"
     ],
+    "name:lav_x_preferred":[
+        "\u017danaezena"
+    ],
     "name:lit_x_preferred":[
         "\u017danaozenas"
     ],
+    "name:mkd_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u043e\u0437\u0435\u043d"
+    ],
     "name:nld_x_preferred":[
         "Zjanaozen"
+    ],
+    "name:nob_x_preferred":[
+        "Zhanaozen"
+    ],
+    "name:oss_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u043e\u0437\u0435\u043d"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0698\u0627\u0646\u0627\u0624\u0632\u0646"
     ],
     "name:pol_x_preferred":[
         "\u017banga\u00f6zen"
@@ -128,6 +173,9 @@
     ],
     "name:tat_x_preferred":[
         "\u042f\u04a3\u0430\u04af\u0437\u04d9\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0c\u0e32\u0e07\u0e32\u0e27\u0e37\u0e2d\u0e40\u0e0b\u0e35\u0e22\u0e19"
     ],
     "name:tuk_x_preferred":[
         "Jana\u00f6zen"
@@ -270,7 +318,7 @@
         }
     ],
     "wof:id":1141907871,
-    "wof:lastmodified":1636495723,
+    "wof:lastmodified":1690938486,
     "wof:name":"Zhangaozen",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",

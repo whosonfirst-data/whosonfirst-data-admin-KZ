@@ -22,6 +22,15 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0644\u062f\u064a\u0643\u0648\u0631\u063a\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0644\u062f\u064a\u0643\u0648\u0631\u062c\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Taldykorgan"
+    ],
+    "name:aze_x_preferred":[
+        "Tald\u0131kurqan"
+    ],
     "name:bak_x_preferred":[
         "\u0422\u0430\u043b\u0434\u044b\u04a1\u043e\u0440\u0493\u0430\u043d"
     ],
@@ -48,6 +57,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u062a\u0627\u0644\u062f\u0642\u06c6\u0631\u063a\u0627\u0646"
+    ],
+    "name:crh_x_preferred":[
+        "Tald\u0131qor\u011fan"
     ],
     "name:dan_x_preferred":[
         "Taldykorgan"
@@ -97,6 +109,9 @@
     "name:hun_x_preferred":[
         "Taldyqorghan"
     ],
+    "name:hun_x_variant":[
+        "Taldikorgan"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u056c\u0564\u056b \u053f\u0578\u0582\u0580\u0563\u0561\u0576"
     ],
@@ -108,6 +123,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bf\u30eb\u30c7\u30a3\u30b3\u30eb\u30ac\u30f3"
+    ],
+    "name:kaa_x_preferred":[
+        "Tald\u0131qorg'an"
     ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cbe\u0cb2\u0ccd\u0ca1\u0cbf\u0c95\u0cca\u0cb0\u0ccd\u0c97\u0ca8\u0ccd"
@@ -126,6 +144,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud0c8\ub514\ucf54\ub974\uac04"
+    ],
+    "name:lat_x_preferred":[
+        "Taldy Kurgan"
     ],
     "name:lav_x_preferred":[
         "Taldikorgana"
@@ -150,6 +171,9 @@
     ],
     "name:nob_x_preferred":[
         "Taldykorgan"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u0430\u043b\u0434\u044b\u043a\u043e\u0440\u0433\u0430\u043d"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u0644\u062f\u06cc\u06a9\u0648\u0631\u063a\u0627\u0646"
@@ -187,6 +211,9 @@
     "name:swe_x_preferred":[
         "Taldyqorghan"
     ],
+    "name:szl_x_preferred":[
+        "Ta\u0142dykorgan"
+    ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbe\u0bb2\u0bcd\u0b9f\u0bbf\u0b95\u0bcb\u0bb0\u0bcd\u0b95\u0ba3\u0bcd"
     ],
@@ -199,6 +226,9 @@
     "name:tel_x_preferred":[
         "\u0c1f\u0c3e\u0c32\u0c4d\u0c21\u0c40\u0c15\u0c4a\u0c30\u0c4d\u0c17\u0c28\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0422\u043e\u043b\u0434\u0438\u049b\u04ef\u0440\u0493\u043e\u043d"
+    ],
     "name:tha_x_preferred":[
         "\u0e17\u0e32\u0e25\u0e14\u0e36\u0e01\u0e2d\u0e23\u0e4c\u0e01\u0e31\u0e19"
     ],
@@ -207,6 +237,9 @@
     ],
     "name:tur_x_preferred":[
         "Taldikorgan"
+    ],
+    "name:tur_x_variant":[
+        "Tald\u0131korgan"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043b\u0434\u0438\u043a\u043e\u0440\u0433\u0430\u043d"
@@ -352,7 +385,7 @@
         }
     ],
     "wof:id":890443865,
-    "wof:lastmodified":1636495709,
+    "wof:lastmodified":1690938482,
     "wof:name":"Taldyqorghan",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0645\u064a\u0631\u062a\u0627\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0645\u064a\u0631\u062a\u0627\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Temirtau"
+    ],
     "name:bak_x_preferred":[
         "\u0422\u0438\u043c\u0435\u0440\u0442\u0430\u0443"
     ],
@@ -36,6 +42,18 @@
         "Temirtau"
     ],
     "name:bul_x_preferred":[
+        "\u0422\u0435\u043c\u0438\u0440\u0442\u0430\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Temirtau"
+    ],
+    "name:ceb_x_preferred":[
+        "Temirtau"
+    ],
+    "name:ces_x_preferred":[
+        "Temirtau"
+    ],
+    "name:che_x_preferred":[
         "\u0422\u0435\u043c\u0438\u0440\u0442\u0430\u0443"
     ],
     "name:ckb_x_preferred":[
@@ -79,6 +97,9 @@
         "Temirtaou"
     ],
     "name:fra_x_variant":[
+        "Temirtau"
+    ],
+    "name:gle_x_preferred":[
         "Temirtau"
     ],
     "name:heb_x_preferred":[
@@ -135,6 +156,15 @@
     "name:nno_x_preferred":[
         "Temirtau"
     ],
+    "name:nob_x_preferred":[
+        "Temirtau"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u0435\u043c\u0438\u0440\u0442\u0430\u0443"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u0645\u06cc\u0631\u062a\u0627\u0624"
+    ],
     "name:pol_x_preferred":[
         "Temyrtau"
     ],
@@ -183,6 +213,9 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043c\u0456\u0440\u0442\u0430\u0443"
     ],
+    "name:ukr_x_variant":[
+        "\u0422\u0435\u043c\u0438\u0440\u0442\u0430\u0443"
+    ],
     "name:und_x_variant":[
         "Samarkandskoye"
     ],
@@ -194,6 +227,9 @@
     ],
     "name:uzb_x_variant":[
         "Temirtov"
+    ],
+    "name:vec_x_preferred":[
+        "Temirtau"
     ],
     "name:vie_x_preferred":[
         "Temirtau"
@@ -342,7 +378,7 @@
         }
     ],
     "wof:id":421198741,
-    "wof:lastmodified":1636495707,
+    "wof:lastmodified":1690938469,
     "wof:name":"Temirtau",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

@@ -20,11 +20,23 @@
     "name:aze_x_preferred":[
         "Turar R\u0131skulov"
     ],
+    "name:ces_x_preferred":[
+        "Turar Ryskulov"
+    ],
+    "name:deu_x_preferred":[
+        "Turar Rysqulow"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03bf\u03c5\u03c1\u03ac\u03c1 \u03a1\u03b9\u03c3\u03ba\u03bf\u03cd\u03bb\u03bf\u03c6"
     ],
     "name:eng_x_preferred":[
         "Turar Ryskulov"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0627\u0631 \u0631\u06cc\u0633\u06a9\u0648\u0644\u0648\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Tourar Rysqoulov"
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30e9\u30eb\u30fb\u30eb\u30a3\u30b9\u30af\u30ed\u30d5"
@@ -42,6 +54,9 @@
     "name:kir_x_preferred":[
         "\u0420\u044b\u0441\u043a\u0443\u043b\u043e\u0432"
     ],
+    "name:kir_x_variant":[
+        "\u0420\u044b\u0441\u043a\u0443\u043b\u043e\u0432 \u0422\u0443\u0440\u0430\u0440 \u0420\u044b\u0441\u043a\u0443\u043b\u043e\u0432\u0438\u0447"
+    ],
     "name:nld_x_preferred":[
         "Turar Ryskulov"
     ],
@@ -58,6 +73,9 @@
     "name:spa_x_preferred":[
         "Turar Ryskulov"
     ],
+    "name:spa_x_variant":[
+        "Turar Rysk\u00falov"
+    ],
     "name:tat_x_preferred":[
         "\u0422\u043e\u0440\u0430\u0440 \u042b\u0440\u044b\u0441\u043a\u043e\u043b\u043e\u0432"
     ],
@@ -67,8 +85,17 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u043a\u0435"
     ],
+    "name:ukr_x_variant":[
+        "\u0420\u0438\u0441\u043a\u0443\u043b\u043e\u0432 \u0422\u0443\u0440\u0430\u0440 \u0420\u0438\u0441\u043a\u0443\u043b\u043e\u0432\u0438\u0447"
+    ],
     "name:und_x_variant":[
         "Vannovskoye"
+    ],
+    "name:uzb_x_preferred":[
+        "Turor Risqulov"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fe\u62c9\u5c14\u00b7\u96f7\u65af\u5e93\u6d1b\u592b"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -115,7 +142,7 @@
         }
     ],
     "wof:id":421205515,
-    "wof:lastmodified":1566591987,
+    "wof:lastmodified":1690938463,
     "wof:name":"Turar Ryskulov",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

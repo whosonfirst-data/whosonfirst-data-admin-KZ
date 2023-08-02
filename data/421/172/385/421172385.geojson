@@ -17,11 +17,20 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0627\u0631\u0633\u0643"
+    ],
+    "name:aze_x_preferred":[
+        "\u00c7arsk"
+    ],
     "name:bel_x_preferred":[
         "\u0427\u0430\u0440\u0441\u043a"
     ],
     "name:ceb_x_preferred":[
         "Shar"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0430\u0440"
     ],
     "name:deu_x_preferred":[
         "Schar"
@@ -31,6 +40,9 @@
     ],
     "name:eng_x_variant":[
         "Charsk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0631"
     ],
     "name:hsb_x_preferred":[
         "\u0160ar"
@@ -203,7 +215,7 @@
         }
     ],
     "wof:id":421172385,
-    "wof:lastmodified":1566591988,
+    "wof:lastmodified":1690938465,
     "wof:name":"Charsk",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

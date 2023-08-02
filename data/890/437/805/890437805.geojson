@@ -28,6 +28,9 @@
     "name:ara_x_variant":[
         "\u062a\u0627\u0631\u0627\u0632"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0631\u0627\u0632"
+    ],
     "name:aze_x_preferred":[
         "Taraz"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:chv_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0437"
+    ],
+    "name:crh_x_preferred":[
+        "Taraz"
     ],
     "name:dan_x_preferred":[
         "Taraz"
@@ -97,6 +103,9 @@
     "name:heb_x_preferred":[
         "\u05d8\u05d0\u05e8\u05d0\u05d6"
     ],
+    "name:heb_x_variant":[
+        "\u05d8\u05e8\u05d0\u05d6"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u093e\u0930\u093e\u091c\u093c"
     ],
@@ -120,6 +129,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bf\u30e9\u30ba"
+    ],
+    "name:jpn_x_variant":[
+        "\u30bf\u30e9\u30b9"
+    ],
+    "name:kaa_x_preferred":[
+        "Taraz"
     ],
     "name:kan_x_preferred":[
         "\u0ca4\u0cb0\u0cbe\u0c9c\u0ccd"
@@ -166,6 +181,9 @@
     "name:nob_x_preferred":[
         "Taraz"
     ],
+    "name:oss_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0437"
+    ],
     "name:pnb_x_preferred":[
         "\u062a\u0631\u0627\u0632"
     ],
@@ -182,6 +200,9 @@
         "Taraz"
     ],
     "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0437"
+    ],
+    "name:sah_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0437"
     ],
     "name:sin_x_preferred":[
@@ -229,6 +250,9 @@
     "name:uzb_x_preferred":[
         "Taraz"
     ],
+    "name:vec_x_preferred":[
+        "Taraz"
+    ],
     "name:vep_x_preferred":[
         "Taraz"
     ],
@@ -237,6 +261,12 @@
     ],
     "name:war_x_preferred":[
         "Taraz"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5854\u62c9\u5179"
+    ],
+    "name:yue_x_preferred":[
+        "\u601b\u908f\u65af"
     ],
     "name:zho_x_preferred":[
         "\u5854\u62c9\u5179"
@@ -364,7 +394,7 @@
         }
     ],
     "wof:id":890437805,
-    "wof:lastmodified":1566591999,
+    "wof:lastmodified":1690938479,
     "wof:name":"Taraz",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

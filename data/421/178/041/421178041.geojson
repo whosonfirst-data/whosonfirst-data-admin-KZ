@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631\u0632\u0627\u0641\u064a\u0646\u0633\u0643"
     ],
+    "name:aze_x_preferred":[
+        "Derjavinsk"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u0437\u044f\u0440\u0436\u0430\u0432\u0456\u043d\u0441\u043a"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:ceb_x_preferred":[
         "Derzhav\u012bnsk"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0435\u0440\u0436\u0430\u0432\u0438\u043d\u0441\u043a"
     ],
     "name:deu_x_preferred":[
         "Derschawinsk"
@@ -92,6 +98,9 @@
     "name:swe_x_preferred":[
         "Derzhav\u012bnsk"
     ],
+    "name:swe_x_variant":[
+        "Derzjavinsk"
+    ],
     "name:tat_x_preferred":[
         "\u0414\u0435\u0440\u0436\u0430\u0432\u0438\u043d"
     ],
@@ -112,6 +121,9 @@
     ],
     "name:vie_x_preferred":[
         "Derzhavinsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u6377\u624e\u6587\u65af\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -251,7 +263,7 @@
         }
     ],
     "wof:id":421178041,
-    "wof:lastmodified":1636495709,
+    "wof:lastmodified":1690938476,
     "wof:name":"Derzhavinsk",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

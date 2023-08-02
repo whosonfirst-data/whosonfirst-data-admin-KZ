@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0631\u063a\u064a\u0632"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u0631\u062c\u064a\u0632"
+    ],
     "name:ceb_x_preferred":[
         "Yrghyz"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u0440\u0433\u0438\u0437"
+    ],
+    "name:deu_x_preferred":[
+        "Yrghys"
     ],
     "name:ell_x_preferred":[
         "\u0399\u03c1\u03b3\u03ba\u03af\u03b6"
@@ -31,6 +40,12 @@
     ],
     "name:eng_x_variant":[
         "Yrgyz"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0631\u063a\u06cc\u0632"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0580\u0563\u056b\u0566"
     ],
     "name:kaz_x_preferred":[
         "\u042b\u0440\u0493\u044b\u0437"
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":421197409,
-    "wof:lastmodified":1566591994,
+    "wof:lastmodified":1690938473,
     "wof:name":"Yrghyz",
     "wof:parent_id":85672877,
     "wof:placetype":"locality",

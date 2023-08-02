@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041f\u0435\u0440\u0430\u043c\u0451\u0442\u043d\u0430\u0435"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u0435\u043c\u0435\u0442\u043d\u043e\u0435"
     ],
     "name:ceb_x_preferred":[
         "Peremetnoe"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u043c\u0435\u0442\u043d\u043e\u0435"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b5\u03bc\u03b9\u03cc\u03c4\u03bd\u03bf\u03b3\u03b9\u03b5"
@@ -32,11 +38,20 @@
     "name:eng_x_variant":[
         "Peremyotnoye"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0645\u06cc\u062a\u0646\u0648\u06cc\u0647"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30ec\u30df\u30e7\u30fc\u30c8\u30ce\u30a8"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u0435\u0440\u0435\u043c\u0435\u0442\u043d\u043e\u0435"
     ],
     "name:nld_x_preferred":[
         "Peremyotnoye"
+    ],
+    "name:pol_x_preferred":[
+        "Pieriemiotnoje"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0435\u043c\u0451\u0442\u043d\u043e\u0435"
@@ -47,6 +62,9 @@
     "name:swe_x_preferred":[
         "Peremetnoje"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u043c\u0435\u0442\u043d\u043e\u0435"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0435\u043c\u0456\u0442\u043d\u0435"
     ],
@@ -55,6 +73,9 @@
     ],
     "name:uzb_x_preferred":[
         "Lenger"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5217\u82d7\u7279\u8afe\u8036"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -102,7 +123,7 @@
         }
     ],
     "wof:id":421168619,
-    "wof:lastmodified":1566591974,
+    "wof:lastmodified":1690938445,
     "wof:name":"Peremetnoye",
     "wof:parent_id":85672893,
     "wof:placetype":"locality",

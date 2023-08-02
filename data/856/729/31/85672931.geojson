@@ -37,11 +37,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0644\u064a\u0633 \u062c\u0627\u0645\u0628\u064a\u0644"
     ],
+    "name:awa_x_preferred":[
+        "\u091d\u093c\u093e\u092e\u092c\u093f\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
     "name:azb_x_preferred":[
         "\u0698\u0645\u0628\u06cc\u0644 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
     "name:aze_x_preferred":[
         "Cambul vilay\u0259ti"
+    ],
+    "name:bak_x_preferred":[
+        "\u0416\u0430\u043c\u0431\u044b\u043b \u04e9\u043b\u043a\u04d9\u04bb\u0435"
     ],
     "name:bel_x_preferred":[
         "\u0416\u0430\u043c\u0431\u044b\u043b\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -63,6 +69,9 @@
     ],
     "name:che_x_preferred":[
         "\u0416\u0430\u043c\u0431\u044b\u043b\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:crh_x_preferred":[
+        "Jamb\u0131l vil\u00e2yeti"
     ],
     "name:deu_x_preferred":[
         "Schambyl"
@@ -103,11 +112,20 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d6'\u05d0\u05de\u05d1\u05d5\u05dc"
     ],
+    "name:heb_x_variant":[
+        "\u05d6'\u05d0\u05de\u05d1\u05d5\u05dc"
+    ],
     "name:hin_x_preferred":[
         "\u091d\u093c\u093e\u092e\u092c\u093f\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:hun_x_preferred":[
         "Zhambyl"
+    ],
+    "name:hye_x_preferred":[
+        "\u053a\u0561\u0574\u0562\u056b\u056c\u057d\u056f\u0561\u0575\u0561 \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Jamb\u0131l"
     ],
     "name:ind_x_preferred":[
         "Provinsi Zhambyl"
@@ -162,6 +180,9 @@
     "name:nno_x_preferred":[
         "Zjambyl oblast"
     ],
+    "name:oss_x_preferred":[
+        "\u0416\u0430\u043c\u0431\u044b\u043b\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
+    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0622\u0642\u062a\u0648\u0628\u06d2"
     ],
@@ -199,6 +220,9 @@
     "name:swe_x_preferred":[
         "Zjambyl"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0496\u0430\u043c\u0431\u044b\u043b \u04e9\u043b\u043a\u04d9\u0441\u0435"
     ],
@@ -232,6 +256,12 @@
     ],
     "name:war_x_preferred":[
         "Zhambyl"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6c5f\u5e03\u5c14\u5dde"
+    ],
+    "name:yue_x_preferred":[
+        "\u6c5f\u5e03\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u6c5f\u5e03\u723e\u5dde"
@@ -359,7 +389,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1636495684,
+    "wof:lastmodified":1690938393,
     "wof:name":"Zhambyl",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

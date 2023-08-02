@@ -20,8 +20,20 @@
     "name:ceb_x_preferred":[
         "Sary\u00f6zek"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u043e\u0437\u0435\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Sary\u00f6sek"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03b9\u03bf\u03b6\u03ad\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Sary\u00f6zek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u06cc\u200c\u0627\u0648\u0632\u06a9"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30ea\u30aa\u30bc\u30af"
@@ -44,6 +56,12 @@
     "name:swe_x_preferred":[
         "Sary\u00f6zek"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u04af\u0437\u0435\u043a"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0430\u0440\u0438\u04ef\u0437\u0435\u043a"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0438\u043e\u0437\u0435\u043a"
     ],
@@ -52,6 +70,9 @@
     ],
     "name:uzb_x_preferred":[
         "Sario\u02bbzak"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u96f7\u5965\u6cfd\u514b"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -97,7 +118,7 @@
         }
     ],
     "wof:id":421194405,
-    "wof:lastmodified":1566591977,
+    "wof:lastmodified":1690938451,
     "wof:name":"Saryozek",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

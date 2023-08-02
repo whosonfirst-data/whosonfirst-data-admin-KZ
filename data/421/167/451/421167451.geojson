@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:arz_x_preferred":[
+        "\u0627\u0633\u062a\u0631\u0627\u062e\u0627\u0646\u0643\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u043a\u0430"
     ],
     "name:ceb_x_preferred":[
         "Astrakhan"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u043a\u0430"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03c4\u03c1\u03b1\u03c7\u03ac\u03bd\u03ba\u03b1"
@@ -47,11 +53,20 @@
     "name:nld_x_preferred":[
         "Astrakhanka"
     ],
+    "name:nno_x_preferred":[
+        "Astrakhanka"
+    ],
+    "name:nob_x_preferred":[
+        "Astrakhanka"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u043a\u0430"
     ],
     "name:swe_x_preferred":[
         "Astrakhan"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u043a\u0430"
@@ -111,7 +126,7 @@
         }
     ],
     "wof:id":421167451,
-    "wof:lastmodified":1566591983,
+    "wof:lastmodified":1690938458,
     "wof:name":"Astrakhanka",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

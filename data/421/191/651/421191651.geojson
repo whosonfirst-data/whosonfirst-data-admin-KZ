@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Dzhambeyty"
     ],
+    "name:che_x_preferred":[
+        "\u0416\u044b\u043c\u043f\u0438\u0442\u044b"
+    ],
     "name:ell_x_preferred":[
         "\u0396\u03b9\u03bc\u03c0\u03af\u03c4\u03b9"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:eng_x_variant":[
         "Zhympity"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u06cc\u0645\u067e\u06cc\u062a\u06cc"
     ],
     "name:heb_x_preferred":[
         "\u05d6'\u05d9\u05de\u05e4\u05d9\u05d8\u05d9"
@@ -53,11 +59,17 @@
     "name:swe_x_preferred":[
         "Dzjambejty"
     ],
+    "name:tat_x_preferred":[
+        "\u0496\u044b\u043c\u043f\u0438\u0442\u044b"
+    ],
     "name:ukr_x_preferred":[
         "\u0416\u0438\u043c\u043f\u0456\u0442\u0438"
     ],
     "name:ukr_x_variant":[
         "\u0427\u0438\u043d\u0433\u0456\u0440\u043b\u0430\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u59c6\u76ae\u7279"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":421191651,
-    "wof:lastmodified":1566591993,
+    "wof:lastmodified":1690938471,
     "wof:name":"Zhympity",
     "wof:parent_id":85672893,
     "wof:placetype":"locality",

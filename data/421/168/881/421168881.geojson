@@ -17,11 +17,20 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Karatau"
+    ],
     "name:cat_x_preferred":[
+        "Karatau"
+    ],
+    "name:ceb_x_preferred":[
         "Karatau"
     ],
     "name:ces_x_preferred":[
         "Karatau"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0442\u0430\u0443"
     ],
     "name:deu_x_preferred":[
         "Qaratau"
@@ -76,6 +85,9 @@
         "\u041a\u0430\u0440\u0430\u0442\u0430\u0443"
     ],
     "name:spa_x_preferred":[
+        "Karatau"
+    ],
+    "name:swe_x_preferred":[
         "Karatau"
     ],
     "name:tat_x_preferred":[
@@ -236,7 +248,7 @@
         }
     ],
     "wof:id":421168881,
-    "wof:lastmodified":1566591974,
+    "wof:lastmodified":1690938446,
     "wof:name":"Karatau",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

@@ -19,8 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "Priozersk"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u044b\u0430\u0437\u0451\u0440\u0441\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Prioziorsk"
+    ],
+    "name:ceb_x_preferred":[
+        "Priozersk"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0440\u0438\u043e\u0437\u0435\u0440\u0441\u043a"
     ],
     "name:deu_x_preferred":[
         "Priosersk"
@@ -31,14 +43,23 @@
     "name:epo_x_preferred":[
         "Priozjorsk"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u200c\u0627\u0648\u0632\u0631\u0633\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Prioziorsk"
     ],
     "name:hsb_x_preferred":[
         "Priozjorsk"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30aa\u30bc\u30eb\u30b9\u30af"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u0440\u0438\u043e\u0437\u0435\u0440\u0441\u043a"
+    ],
+    "name:lav_x_preferred":[
+        "Priozerska"
     ],
     "name:lit_x_preferred":[
         "Prioziorskas"
@@ -54,6 +75,9 @@
     ],
     "name:rus_x_variant":[
         "\u041f\u0440\u0438\u043e\u0437\u0451\u0440\u0441\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Priozersk"
     ],
     "name:tat_x_preferred":[
         "\u041f\u0440\u0438\u043e\u0437\u0451\u0440"
@@ -97,7 +121,7 @@
         }
     ],
     "wof:id":890454365,
-    "wof:lastmodified":1566592001,
+    "wof:lastmodified":1690938480,
     "wof:name":"Priozersk",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

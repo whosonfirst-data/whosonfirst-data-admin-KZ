@@ -17,11 +17,26 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Kishkenekol"
+    ],
+    "name:ceb_x_preferred":[
+        "Kishkenekol'"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0438\u0448\u043a\u0435\u043d\u0435\u043a\u043e\u043b\u044c"
+    ],
+    "name:deu_x_preferred":[
+        "Kischkenek\u00f6l"
+    ],
     "name:eng_x_preferred":[
         "Kishkenekol'"
     ],
     "name:eng_x_variant":[
         "Kishkenekol"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0634\u06a9\u0646\u06a9\u0648\u0644"
     ],
     "name:fra_x_preferred":[
         "Kishkenekol"
@@ -42,6 +57,9 @@
     "name:rus_x_variant":[
         "Kishkenekol\u2019",
         "\u041a\u0437\u044b\u043b\u0442\u0443"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0435\u0448\u043a\u0435\u043d\u0435\u043a\u04af\u043b"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0448\u043a\u0435\u043d\u0435\u043a\u043e\u043b\u044c"
@@ -192,7 +210,7 @@
         }
     ],
     "wof:id":421178037,
-    "wof:lastmodified":1566591997,
+    "wof:lastmodified":1690938476,
     "wof:name":"Kishkenekol'",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u062a\u0631\u0643\u0633\u062a\u0627\u0646"
     ],
+    "name:awa_x_preferred":[
+        "\u0926\u0915\u094d\u0916\u093f\u0928 \u0915\u093c\u093e\u091c\u093c\u093e\u0915\u093c\u0938\u094d\u0924\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
     "name:azb_x_preferred":[
         "\u06af\u0648\u0646\u0626\u06cc \u0642\u0627\u0632\u0627\u062e\u06cc\u0633\u062a\u0627\u0646 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
@@ -68,11 +71,15 @@
     "name:bul_x_preferred":[
         "\u042e\u0436\u043d\u043e\u043a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
+    "name:bul_x_variant":[
+        "\u0422\u0443\u0440\u043a\u0435\u0441\u0442\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
     "name:cat_x_preferred":[
         "Prov\u00edncia del Kazakhstan Meridional"
     ],
     "name:cat_x_variant":[
-        "prov\u00edncia del Kazakhstan Meridional"
+        "prov\u00edncia del Kazakhstan Meridional",
+        "Prov\u00edncia del Turquestan"
     ],
     "name:ceb_x_preferred":[
         "Yuzhno-Kazakhstanskaya Oblast'"
@@ -81,10 +88,17 @@
         "Jihokaza\u0161sk\u00e1 oblast"
     ],
     "name:ces_x_variant":[
-        "Turkistansk\u00e1 oblast"
+        "Turkistansk\u00e1 oblast",
+        "Turkest\u00e1nsk\u00e1 oblast"
     ],
     "name:che_x_preferred":[
         "\u041a\u044a\u0438\u043b\u0431\u0430-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:che_x_variant":[
+        "\u0422\u0443\u0440\u043a\u0435\u0441\u0442\u0430\u043d\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:crh_x_preferred":[
+        "T\u00fcrkistan vil\u00e2yeti"
     ],
     "name:dan_x_preferred":[
         "South Kazakhstan Region"
@@ -93,16 +107,21 @@
         "S\u00fcdkasachstan"
     ],
     "name:deu_x_variant":[
-        "Turkestan"
+        "Turkestan",
+        "T\u00fcrkistan"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03cc\u03c4\u03b9\u03bf\u03c5 \u039a\u03b1\u03b6\u03b1\u03ba\u03c3\u03c4\u03ac\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a4\u03bf\u03c5\u03c1\u03ba\u03b9\u03c3\u03c4\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Ongtustik Qazaqstan"
     ],
     "name:eng_x_variant":[
-        "Turkestan Region"
+        "Turkestan Region",
+        "Turkistan Region"
     ],
     "name:epo_x_preferred":[
         "Provinco Suda Kaza\u0125io"
@@ -116,11 +135,15 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0631\u06a9\u0633\u062a\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Etel\u00e4-Kazakstanin alue"
     ],
     "name:fin_x_variant":[
-        "T\u00fcrkistan alue"
+        "T\u00fcrkistan alue",
+        "T\u00fcrkistanin alue"
     ],
     "name:fra_x_preferred":[
         "Kazakhstan-M\u00e9ridional"
@@ -141,14 +164,23 @@
     "name:hin_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u093c\u093e\u091c\u093c\u093e\u0915\u093c\u0938\u094d\u0924\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:hin_x_variant":[
+        "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u093c\u091c\u093c\u093e\u0916\u093c\u0938\u094d\u0924\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
     "name:hun_x_preferred":[
         "D\u00e9l-Kazahszt\u00e1n"
     ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0580\u0561\u057e-\u0542\u0561\u0566\u0561\u056d\u057d\u057f\u0561\u0576\u0575\u0561\u0576 \u0574\u0561\u0580\u0566"
     ],
+    "name:ido_x_preferred":[
+        "Provinco T\u00fcrkistan"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Kazakhstan Selatan"
+    ],
+    "name:ind_x_variant":[
+        "Provinsi Turkistan"
     ],
     "name:isl_x_preferred":[
         "Su\u00f0ur-Kasakstanfylki"
@@ -177,6 +209,9 @@
         "\u041e\u04a3\u0442\u04af\u0441\u0442\u0456\u043a \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u041e\u0431\u043b\u044b\u0441\u044b",
         "\u0422\u04af\u0440\u043a\u0456\u0441\u0442\u0430\u043d \u043e\u0431\u043b\u044b\u0441\u044b"
     ],
+    "name:kir_x_preferred":[
+        "\u0422\u04af\u0440\u043a\u0441\u0442\u0430\u043d \u043e\u0431\u043b\u0443\u0441\u0443"
+    ],
     "name:kor_x_preferred":[
         "\ub0a8\uce74\uc790\ud750\uc2a4\ud0c4 \uc8fc"
     ],
@@ -186,8 +221,14 @@
     "name:lav_x_preferred":[
         "Dienvidkazahst\u0101nas apgabals"
     ],
+    "name:lav_x_variant":[
+        "Turkest\u0101nas apgabals"
+    ],
     "name:lit_x_preferred":[
         "Piet\u0173 Kazachstano sritis"
+    ],
+    "name:lit_x_variant":[
+        "Turkestano sritis"
     ],
     "name:mar_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u091d\u093e\u0915\u0938\u094d\u0924\u093e\u0928"
@@ -204,6 +245,9 @@
     "name:nld_x_preferred":[
         "Oblast Zuid-Kazachstan"
     ],
+    "name:nld_x_variant":[
+        "Oblast T\u00fcrkistan"
+    ],
     "name:nno_x_preferred":[
         "S\u00f8r-Kasakhstan oblast"
     ],
@@ -211,7 +255,11 @@
         "S\u00f8r Kazakhstan region"
     ],
     "name:nob_x_variant":[
-        "S\u00f8r-Kasakhstan"
+        "S\u00f8r-Kasakhstan",
+        "Turkistan"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u0443\u0440\u043a\u0435\u0441\u0442\u0430\u043d\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
     "name:pan_x_preferred":[
         "\u0a26\u0a71\u0a16\u0a23\u0a40 \u0a15\u0a1c\u0a3c\u0a3e\u0a16\u0a3c\u0a38\u0a24\u0a3e\u0a28"
@@ -222,6 +270,9 @@
     "name:pol_x_preferred":[
         "Obw\u00f3d po\u0142udniowokazachsta\u0144ski"
     ],
+    "name:pol_x_variant":[
+        "obw\u00f3d turkiesta\u0144ski"
+    ],
     "name:por_x_preferred":[
         "Cazaquist\u00e3o do Sul"
     ],
@@ -229,7 +280,8 @@
         "Provincia Kazahstanul de Sud"
     ],
     "name:ron_x_variant":[
-        "Turkistan"
+        "Turkistan",
+        "Provincia Turkistan"
     ],
     "name:rus_x_preferred":[
         "\u042e\u0436\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -251,11 +303,15 @@
     "name:spa_x_preferred":[
         "Provincia de Kazajist\u00e1n Meridional"
     ],
+    "name:spa_x_variant":[
+        "Kazajist\u00e1n Meridional"
+    ],
     "name:srp_x_preferred":[
         "\u0408\u0443\u0436\u043d\u043e\u043a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:srp_x_variant":[
-        "\u0408\u0443\u0436\u043d\u043e-\u043a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+        "\u0408\u0443\u0436\u043d\u043e-\u043a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+        "\u0422\u0443\u0440\u043a\u0435\u0441\u0442\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:swe_x_preferred":[
         "Sydkazakstan"
@@ -266,11 +322,17 @@
     "name:tat_x_preferred":[
         "\u041a\u04e9\u043d\u044c\u044f\u043a \u041a\u0430\u0437\u0430\u043a\u044a\u0441\u0442\u0430\u043d \u04e9\u043b\u043a\u04d9\u0441\u0435"
     ],
+    "name:tat_x_variant":[
+        "\u0422\u04e9\u0440\u043a\u0435\u0441\u0442\u0430\u043d \u04e9\u043b\u043a\u04d9\u0441\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c15\u0c1c\u0c15\u0c3f\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
     ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u04b6\u0430\u043d\u0443\u0431\u0438 \u049a\u0430\u0437\u043e\u049b\u0438\u0441\u0442\u043e\u043d"
+    ],
+    "name:tgk_x_variant":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u049a\u0430\u0437\u043e\u049b\u0438\u0441\u0442\u043e\u043d\u0438 \u04b6\u0430\u043d\u0443\u0431\u04e3"
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e0b\u0e31\u0e04\u0e2a\u0e16\u0e32\u0e19\u0e43\u0e15\u0e49"
@@ -311,6 +373,12 @@
     ],
     "name:war_x_preferred":[
         "Salatan nga Kasahistan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7a81\u53a5\u65af\u5766\u5dde"
+    ],
+    "name:yue_x_preferred":[
+        "\u7a81\u53a5\u65af\u5766\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5357\u54c8\u85a9\u514b\u65af\u5766\u5dde"
@@ -439,7 +507,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1636495682,
+    "wof:lastmodified":1690938390,
     "wof:name":"South Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

@@ -23,11 +23,20 @@
     "name:ceb_x_preferred":[
         "Saryaghash"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0430\u0433\u0430\u0448"
+    ],
     "name:deu_x_preferred":[
         "Saryaghasch"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03b9\u03b1\u03b3\u03ba\u03ac\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Saryagash"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u06cc\u200c\u0622\u063a\u0627\u062c"
     ],
     "name:fin_x_preferred":[
         "Sar\u0131a\u011fa\u015f"
@@ -71,6 +80,9 @@
     "name:tat_x_preferred":[
         "\u0421\u0430\u0440\u044b\u0430\u0433\u0430\u0447"
     ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0430\u0440\u0438\u0430\u0493\u0430\u0448"
+    ],
     "name:udm_x_preferred":[
         "\u0421\u0430\u0440\u044b\u0430\u0433\u0430\u0448"
     ],
@@ -82,6 +94,9 @@
     ],
     "name:uzb_x_preferred":[
         "Sariag\u02bbash"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u96f7\u963f\u52a0\u4ec0"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":421188333,
-    "wof:lastmodified":1566591988,
+    "wof:lastmodified":1690938464,
     "wof:name":"Saryaghash",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

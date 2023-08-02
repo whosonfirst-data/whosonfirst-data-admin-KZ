@@ -20,6 +20,15 @@
     "name:ceb_x_preferred":[
         "Balpyk B\u012b"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u043b\u043f\u044b\u043a"
+    ],
+    "name:dan_x_preferred":[
+        "Balpyk Bi"
+    ],
+    "name:deu_x_preferred":[
+        "Balpyq Bi"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03bb\u03c0\u03af\u03ba \u039c\u03c0\u03b9"
     ],
@@ -34,6 +43,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0561\u056c\u057a\u056b\u056f"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30eb\u30d4\u30af"
     ],
     "name:kaz_x_preferred":[
         "Balpyk B\u012b"
@@ -50,6 +62,9 @@
     "name:pol_x_preferred":[
         "Ba\u0142pyk Bi"
     ],
+    "name:ron_x_preferred":[
+        "Balp\u00eek Bi"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043f\u044b\u043a"
     ],
@@ -62,6 +77,9 @@
     "name:swe_x_preferred":[
         "Balpyk B\u012b"
     ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0430\u043b\u043f\u0438\u049b \u0431\u04e3"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u043f\u0438\u043a"
     ],
@@ -70,6 +88,9 @@
     ],
     "name:uzb_x_preferred":[
         "Balpiq-biy"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5c14\u4f69\u514b\u6bd4"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -116,7 +137,7 @@
         }
     ],
     "wof:id":421167415,
-    "wof:lastmodified":1566591979,
+    "wof:lastmodified":1690938454,
     "wof:name":"Kirovskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",
