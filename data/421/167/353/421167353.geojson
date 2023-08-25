@@ -20,6 +20,21 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0646\u0627\u062a\u0627\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0646\u0627\u062a\u0627\u0633"
+    ],
+    "name:aze_x_preferred":[
+        "Janatas"
+    ],
+    "name:bul_x_preferred":[
+        "\u0416\u0430\u043d\u0433\u0430\u0442\u0430\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Zhangatas"
+    ],
+    "name:che_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0442\u0430\u0441"
+    ],
     "name:deu_x_preferred":[
         "Schangatas"
     ],
@@ -53,6 +68,9 @@
     "name:lit_x_preferred":[
         "\u017danatasas"
     ],
+    "name:mdf_x_preferred":[
+        "\u0416\u0430\u043d\u0430\u0442\u0430\u0441"
+    ],
     "name:nld_x_preferred":[
         "Janatas"
     ],
@@ -61,6 +79,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0416\u0430\u043d\u0430\u0442\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Zhangatas"
     ],
     "name:tat_x_preferred":[
         "\u042f\u04a3\u0430\u0442\u0430\u0448"
@@ -79,6 +100,9 @@
     ],
     "name:uzb_x_preferred":[
         "Janatas"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u7eb3\u5854\u65af"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -125,7 +149,7 @@
         }
     ],
     "wof:id":421167353,
-    "wof:lastmodified":1566591978,
+    "wof:lastmodified":1690938453,
     "wof:name":"Zhanatas",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

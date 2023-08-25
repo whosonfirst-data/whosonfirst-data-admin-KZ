@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Kazalinsk"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0437\u0430\u043b\u0456\u043d\u0441\u043a"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:ceb_x_preferred":[
         "Qazaly"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043b\u0438\u043d\u0441\u043a"
     ],
     "name:deu_x_preferred":[
         "Qasaly"
@@ -73,6 +79,9 @@
     ],
     "name:und_x_variant":[
         "Kasalinsk"
+    ],
+    "name:uzb_x_preferred":[
+        "G\u02bbazali"
     ],
     "name:zho_x_preferred":[
         "\u5361\u672d\u6797\u65af\u514b"
@@ -214,7 +223,7 @@
         }
     ],
     "wof:id":421167905,
-    "wof:lastmodified":1566591982,
+    "wof:lastmodified":1690938457,
     "wof:name":"Kazalinsk",
     "wof:parent_id":85672885,
     "wof:placetype":"locality",

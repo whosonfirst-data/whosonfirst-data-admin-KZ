@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sergeyevka"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u0440\u0433\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Sergejew"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b5\u03c1\u03b3\u03ba\u03b5\u03b3\u03b9\u03ad\u03b2\u03ba\u03b1"
     ],
@@ -25,6 +34,9 @@
     ],
     "name:eng_x_variant":[
         "Sergeyevka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u06af\u06cc\u0641"
     ],
     "name:hsb_x_preferred":[
         "Sergejewka"
@@ -48,6 +60,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0433\u0435\u0435\u0432\u043a\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Sergejevka"
+    ],
     "name:tat_x_preferred":[
         "\u0421\u0435\u0440\u0433\u0435\u0435\u0432\u043a\u0430"
     ],
@@ -65,6 +80,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57c3\u57fa\u5df4\u65af\u5716\u8332"
+    ],
+    "name:zho_x_variant":[
+        "\u8c22\u5c14\u76d6\u8036\u592b\u5361"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":421200527,
-    "wof:lastmodified":1566591994,
+    "wof:lastmodified":1690938473,
     "wof:name":"Sergeyevka",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

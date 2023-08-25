@@ -17,6 +17,18 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0643\u064a\u0644\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Tekeli"
+    ],
+    "name:aze_x_preferred":[
+        "Tekeli"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u044d\u043a\u0435\u043b\u0456"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0435\u043a\u0435\u043b\u0438"
     ],
@@ -50,10 +62,16 @@
     "name:hsb_x_preferred":[
         "Tekeli"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30b1\u30ea"
+    ],
     "name:kaz_x_preferred":[
         "\u0422\u0435\u043a\u0435\u043b\u0456"
     ],
     "name:kaz_x_variant":[
+        "Tekeli"
+    ],
+    "name:lav_x_preferred":[
         "Tekeli"
     ],
     "name:lit_x_preferred":[
@@ -74,11 +92,20 @@
     "name:sco_x_preferred":[
         "Tekeli"
     ],
+    "name:spa_x_preferred":[
+        "Tekeli"
+    ],
     "name:swe_x_preferred":[
         "Tekeli"
     ],
     "name:tat_x_preferred":[
         "\u0422\u04d9\u043a\u04d9\u043b\u0435"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0422\u0435\u043a\u0435\u043b\u04e3"
+    ],
+    "name:tur_x_preferred":[
+        "Tekeli"
     ],
     "name:udm_x_preferred":[
         "\u0422\u0435\u043a\u0435\u043b\u0438"
@@ -140,7 +167,7 @@
         }
     ],
     "wof:id":421182019,
-    "wof:lastmodified":1566591998,
+    "wof:lastmodified":1690938477,
     "wof:name":"Tekeli",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

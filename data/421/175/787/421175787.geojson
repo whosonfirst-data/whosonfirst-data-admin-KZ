@@ -23,6 +23,18 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u0627\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0645\u0627\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Semey"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0645\u0626\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Semey"
+    ],
     "name:bak_x_preferred":[
         "\u0421\u0435\u043c\u0435\u0439"
     ],
@@ -55,6 +67,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0633\u06ce\u0645\u06ce\u06cc"
+    ],
+    "name:crh_x_preferred":[
+        "Semey"
     ],
     "name:cym_x_preferred":[
         "Semey"
@@ -96,6 +111,9 @@
     ],
     "name:fra_x_preferred":[
         "Seme\u00ef"
+    ],
+    "name:gle_x_preferred":[
+        "Semey"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aae\u0ac7\u0aaf"
@@ -139,6 +157,9 @@
     "name:kor_x_preferred":[
         "\uc138\uba54\uc774"
     ],
+    "name:lat_x_preferred":[
+        "Septem Palatia"
+    ],
     "name:lav_x_preferred":[
         "Semeja"
     ],
@@ -147,6 +168,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u092e\u0947\u092f"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u043c\u0435\u0458"
     ],
     "name:mon_x_preferred":[
         "\u0421\u0435\u043c\u0435\u0439"
@@ -168,6 +192,12 @@
     ],
     "name:oci_x_preferred":[
         "Semey"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0435\u043c\u0435\u0439"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u06cc\u0645\u06cc"
     ],
     "name:pol_x_preferred":[
         "Semej"
@@ -262,6 +292,9 @@
     "name:uzb_x_preferred":[
         "Semey"
     ],
+    "name:vec_x_preferred":[
+        "Semej"
+    ],
     "name:vep_x_preferred":[
         "Semei"
     ],
@@ -270,6 +303,9 @@
     ],
     "name:war_x_preferred":[
         "Semey"
+    ],
+    "name:wuu_x_preferred":[
+        "\u585e\u6885\u4f0a"
     ],
     "name:zho_x_preferred":[
         "\u585e\u7c73\u4f0a"
@@ -415,7 +451,7 @@
         }
     ],
     "wof:id":421175787,
-    "wof:lastmodified":1566591991,
+    "wof:lastmodified":1690938468,
     "wof:name":"Semey",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

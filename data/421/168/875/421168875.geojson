@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "S\u0259rk\u0259nd"
+    ],
     "name:ceb_x_preferred":[
         "Sarkand"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u0440\u043a\u0430\u043d\u0434"
     ],
     "name:cym_x_preferred":[
         "Sarkand"
@@ -41,6 +47,9 @@
     "name:hsb_x_preferred":[
         "Sarkan"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30eb\u30ab\u30f3\u30c9"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u0440\u049b\u0430\u043d"
     ],
@@ -49,6 +58,9 @@
     ],
     "name:lit_x_preferred":[
         "Sarkandas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0440\u043a\u0430\u043d\u0434"
     ],
     "name:msa_x_preferred":[
         "Sarkand"
@@ -71,6 +83,9 @@
     "name:tat_x_preferred":[
         "\u0421\u0430\u0440\u043a\u0430\u043d\u0434"
     ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0430\u0440\u049b\u0430\u043d\u0434"
+    ],
     "name:udm_x_preferred":[
         "\u0421\u0430\u0440\u043a\u0430\u043d\u0434"
     ],
@@ -82,6 +97,9 @@
     ],
     "name:uzb_x_preferred":[
         "Sarqand"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u5c14\u574e\u5fb7"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -221,7 +239,7 @@
         }
     ],
     "wof:id":421168875,
-    "wof:lastmodified":1566591974,
+    "wof:lastmodified":1690938446,
     "wof:name":"Sarkand",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

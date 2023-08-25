@@ -39,8 +39,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0622\u0631\u062a\u0627\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0439\u044a\u0440\u0442\u0430\u0443\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Ayyrta\u016b A\u016bdany"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03ca\u03b9\u03c1\u03c4\u03ac\u03bf\u03c5"
@@ -56,6 +62,9 @@
     ],
     "name:fra_x_preferred":[
         "Aiyrtau"
+    ],
+    "name:fra_x_variant":[
+        "district d'Aiyrtaou"
     ],
     "name:ita_x_preferred":[
         "Distretto di Ajyrtau"
@@ -75,11 +84,17 @@
     "name:rus_x_preferred":[
         "\u0410\u0439\u044b\u0440\u0442\u0430\u0443\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:swe_x_preferred":[
+        "Ayyrta\u016b A\u016bdany"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0439\u0438\u0440\u0442\u0430\u0443\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:uzb_x_preferred":[
         "Ayirtav"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u5384\u723e\u5957\u5340"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -117,7 +132,7 @@
         }
     ],
     "wof:id":1108785579,
-    "wof:lastmodified":1627522308,
+    "wof:lastmodified":1690938409,
     "wof:name":"Ayyrtauskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

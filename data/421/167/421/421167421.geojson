@@ -20,11 +20,23 @@
     "name:ceb_x_preferred":[
         "Otegen Batyra"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u0442\u0435\u0433\u0435\u043d \u0431\u0430\u0442\u044b\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "\u00d6tegen Batyr"
+    ],
     "name:ell_x_preferred":[
         "\u039f\u03c4\u03b5\u03b3\u03ba\u03ad\u03bd \u039c\u03c0\u03b1\u03c4\u03af\u03c1"
     ],
     "name:eng_x_preferred":[
         "Otegen Batyr"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062a\u06af\u0646 \u0628\u0627\u062a\u06cc\u0631"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30c6\u30b2\u30f3\uff1d\u30d0\u30c1\u30a7\u30a4\u30eb"
     ],
     "name:kaz_x_preferred":[
         "Energet\u012bchesk\u012by"
@@ -54,6 +66,12 @@
     "name:swe_x_preferred":[
         "Otegen Batyra"
     ],
+    "name:tat_x_preferred":[
+        "\u04ae\u0442\u0435\u0433\u0435\u043d \u0431\u0430\u0442\u044b\u0440"
+    ],
+    "name:tgk_x_preferred":[
+        "\u04ee\u0442\u0435\u0433\u0435\u043d \u0431\u043e\u0442\u0438\u0440"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u0442\u0435\u0433\u0435\u043d \u0431\u0430\u0442\u0438\u0440\u0430"
     ],
@@ -62,6 +80,9 @@
     ],
     "name:uzb_x_preferred":[
         "O\u02bbtegen-Botir"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u7279\u6839\u00b7\u5df4\u8482\u5c14"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -108,7 +129,7 @@
         }
     ],
     "wof:id":421167421,
-    "wof:lastmodified":1566591982,
+    "wof:lastmodified":1690938457,
     "wof:name":"Energeticheskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

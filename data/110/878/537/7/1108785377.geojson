@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
     "geom:area_square_m":404065.817923,
-    "geom:bbox":"63.085,52.9579927991,63.1004312841,52.9639826964",
+    "geom:bbox":"63.085,52.957993,63.100431,52.963983",
     "geom:latitude":52.960548,
     "geom:longitude":63.093252,
     "iso:country":"KZ",
@@ -45,6 +45,12 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Kustanayskiy Rayon"
+    ],
+    "name:ces_x_preferred":[
+        "Kostanajsk\u00fd okres"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039a\u03bf\u03c3\u03c4\u03b1\u03bd\u03ac\u03b9"
     ],
@@ -53,6 +59,9 @@
     ],
     "name:eng_x_variant":[
         "Kostanay District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0642\u0648\u0633\u062a\u0627\u0646\u0627\u06cc"
     ],
     "name:fra_x_preferred":[
         "district de Kostana\u00ef"
@@ -75,8 +84,14 @@
     "name:nld_x_preferred":[
         "Kostanay District"
     ],
+    "name:pol_x_preferred":[
+        "Kustanaj"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kustanayskiy Rayon"
     ],
     "name:tat_x_preferred":[
         "\u041a\u0443\u0441\u0442\u0430\u043d\u0430\u0439 \u0440\u0430\u0439\u043e\u043d\u044b"
@@ -86,6 +101,9 @@
     ],
     "name:uzb_x_preferred":[
         "Qo\u02bbstanoy"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u65af\u5854\u5948\u5340"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -101,7 +119,7 @@
     },
     "wof:country":"KZ",
     "wof:created":1481837940,
-    "wof:geomhash":"bbd62de579900059c3d980d0356349f2",
+    "wof:geomhash":"0a89c0114c170dd2e0a516b12f9ae5be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":1108785377,
-    "wof:lastmodified":1566591772,
+    "wof:lastmodified":1690938421,
     "wof:name":"Taranovskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",
@@ -122,10 +140,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    63.08499999999641,
-    52.9579927990503,
-    63.10043128411701,
-    52.96398269638777
+    63.085,
+    52.957993,
+    63.100431,
+    52.963983
 ],
-  "geometry": {"coordinates":[[[63.087210971567,52.96068924334541],[63.08942194313759,52.96280183961501],[63.09173476684785,52.96398269638777],[63.09380348524249,52.96324860416378],[63.09635290049827,52.96224536623498],[63.09900866003568,52.96170343153301],[63.10043128411701,52.95983907793197],[63.09871843541497,52.9579927990503],[63.09345959132055,52.95848457894157],[63.08749999999641,52.95879008972307],[63.08499999999641,52.95857664707581],[63.087210971567,52.96068924334541]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[63.087211,52.960689],[63.089422,52.962802],[63.091735,52.963983],[63.093803,52.963249],[63.096353,52.962245],[63.099009,52.961703],[63.100431,52.959839],[63.098718,52.957993],[63.09346,52.958485],[63.0875,52.95879],[63.085,52.958577],[63.087211,52.960689]]],"type":"Polygon"}
 }

@@ -24,6 +24,9 @@
     "name:ben_x_preferred":[
         "\u0993\u09a4\u09be\u09b0"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u0442\u0430\u0440"
+    ],
     "name:deu_x_preferred":[
         "Otar"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u062a\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u062a\u0627\u0631"
     ],
     "name:fra_x_preferred":[
         "Otar"
@@ -81,6 +87,9 @@
     "name:swe_x_preferred":[
         "Otar"
     ],
+    "name:tat_x_preferred":[
+        "\u041e\u0442\u0430\u0440"
+    ],
     "name:tur_x_preferred":[
         "Otar"
     ],
@@ -89,6 +98,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u062a\u0627\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Otar"
     ],
     "name:vie_x_preferred":[
         "Otar"
@@ -216,7 +228,7 @@
         }
     ],
     "wof:id":1141907855,
-    "wof:lastmodified":1636495722,
+    "wof:lastmodified":1690938485,
     "wof:name":"Otar",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

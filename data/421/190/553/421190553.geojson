@@ -17,6 +17,21 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Saumalkol'"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u0443\u043c\u0430\u043b\u043a\u043e\u043b\u044c"
+    ],
+    "name:dan_x_preferred":[
+        "Saumalk\u00f8l"
+    ],
+    "name:deu_x_preferred":[
+        "Saumalk\u00f6l"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bf\u03c5\u03bc\u03b1\u03bb\u03ba\u03cc\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Saumalkol'"
     ],
@@ -38,6 +53,12 @@
     "name:rus_x_variant":[
         "Saumalkol\u2019",
         "\u0421\u0430\u0443\u043c\u0430\u043b\u043a\u043e\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Volodarskoje"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u0443\u043c\u0430\u043b\u043a\u04af\u043b"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0443\u043c\u0430\u043b\u043a\u043e\u043b\u044c"
@@ -92,7 +113,7 @@
         }
     ],
     "wof:id":421190553,
-    "wof:lastmodified":1566591993,
+    "wof:lastmodified":1690938472,
     "wof:name":"Volodarskoe",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

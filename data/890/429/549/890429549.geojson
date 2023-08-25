@@ -25,11 +25,20 @@
     "name:ceb_x_preferred":[
         "Timiryazevo"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u043e"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b9\u03bc\u03b9\u03c1\u03b3\u03b9\u03ac\u03b6\u03b5\u03b2\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Timiryazevo"
     ],
     "name:eng_x_variant":[
         "Timiryazevka"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0645\u06cc\u0631\u06cc\u0627\u0632\u0648\u0648"
     ],
     "name:kaz_x_preferred":[
         "T\u012bm\u012bryazevo"
@@ -50,6 +59,9 @@
     "name:swe_x_preferred":[
         "Timirjazevo"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u043a\u0430"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0456\u043c\u0456\u0440\u044f\u0437\u0454\u0432\u043e"
     ],
@@ -58,6 +70,9 @@
     ],
     "name:uzb_x_preferred":[
         "Timiryazevka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b63\u7c73\u91cc\u4e9e\u6fa4\u6c83"
     ],
     "qs:name":"Timiryazevo",
     "qs:photos_9r":0,
@@ -90,7 +105,7 @@
         }
     ],
     "wof:id":890429549,
-    "wof:lastmodified":1566592003,
+    "wof:lastmodified":1690938482,
     "wof:name":"Timiryazevo",
     "wof:parent_id":85672907,
     "wof:placetype":"locality",

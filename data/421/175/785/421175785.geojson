@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0648"
     ],
+    "name:aze_x_preferred":[
+        "\u015eu"
+    ],
     "name:ben_x_preferred":[
         "\u09b6\u09c1"
     ],
@@ -266,7 +269,7 @@
         }
     ],
     "wof:id":421175785,
-    "wof:lastmodified":1636495706,
+    "wof:lastmodified":1690938466,
     "wof:name":"Shu",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

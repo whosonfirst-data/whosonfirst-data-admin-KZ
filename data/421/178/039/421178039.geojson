@@ -20,6 +20,12 @@
     "name:ceb_x_preferred":[
         "Kegen"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0435\u0433\u0435\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Kegen"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b5\u03b3\u03ba\u03ad\u03bd"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:fra_x_preferred":[
         "Kegen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30b2\u30cb"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0435\u0433\u0435\u043d"
@@ -56,6 +65,12 @@
     ],
     "name:swe_x_preferred":[
         "Kegen"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0435\u0433\u0435\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041a\u0435\u0433\u0435\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0433\u0435\u043d"
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":421178039,
-    "wof:lastmodified":1566591997,
+    "wof:lastmodified":1690938477,
     "wof:name":"Kegen",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

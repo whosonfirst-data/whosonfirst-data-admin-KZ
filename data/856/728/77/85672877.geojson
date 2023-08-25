@@ -37,11 +37,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0644\u064a\u0633 \u0623\u0643\u062a\u0648\u0628\u064a"
     ],
+    "name:awa_x_preferred":[
+        "\u0905\u0915\u0924\u094b\u092c\u0947 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
     "name:azb_x_preferred":[
         "\u0622\u0642\u200c\u062a\u067e\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
     "name:aze_x_preferred":[
         "Aqt\u00f6be vilay\u0259ti"
+    ],
+    "name:bak_x_preferred":[
+        "\u0410\u04a1\u0442\u04af\u0431\u04d9 \u04e9\u043b\u043a\u04d9\u04bb\u0435"
     ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0446\u044e\u0431\u0456\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -66,6 +72,12 @@
     ],
     "name:ces_x_variant":[
         "Aktobsk\u00e1 oblast"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043a\u0445\u0442\u043e\u044c\u0431\u0435\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:crh_x_preferred":[
+        "Aqt\u00f6be vil\u00e2yeti"
     ],
     "name:dan_x_preferred":[
         "Aktjubinsk oblast"
@@ -94,6 +106,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u06a9\u062a\u0648\u0628"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0622\u0642\u200c\u062a\u067e\u0647"
+    ],
     "name:fin_x_preferred":[
         "Aqt\u00f6ben alue"
     ],
@@ -114,6 +129,15 @@
     ],
     "name:hin_x_preferred":[
         "\u0905\u0915\u0924\u094b\u092c\u0947 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Akt\u00f6be ter\u00fclet"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056f\u057f\u0578\u0562\u0565\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Aqt\u00f6be"
     ],
     "name:ind_x_preferred":[
         "Provinsi Aqt\u00f6be"
@@ -179,11 +203,17 @@
     "name:nob_x_preferred":[
         "Aqt\u00f6be"
     ],
+    "name:oss_x_preferred":[
+        "\u0410\u043a\u0442\u043e\u0431\u0435\u0439\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
+    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0642\u062a\u0648\u0628\u06d2"
     ],
     "name:pol_x_preferred":[
         "Obw\u00f3d aktobski"
+    ],
+    "name:pol_x_variant":[
+        "obw\u00f3d aktobski"
     ],
     "name:por_x_preferred":[
         "Aqt\u00f6be"
@@ -261,6 +291,12 @@
     ],
     "name:war_x_preferred":[
         "Aktobe"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u514b\u6258\u522b\u5dde"
+    ],
+    "name:yue_x_preferred":[
+        "\u5384\u6258\u5225\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u963f\u514b\u6258\u8c9d\u5dde"
@@ -388,7 +424,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1614894914,
+    "wof:lastmodified":1690938389,
     "wof:name":"Aqt\u00f6be",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

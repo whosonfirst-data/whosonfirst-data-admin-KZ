@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0648\u0633\u062a\u0646\u0627\u064a"
     ],
+    "name:awa_x_preferred":[
+        "\u0915\u094b\u0938\u094d\u0924\u093e\u0928\u092f \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0648\u0633\u062a\u0627\u0646\u0627\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
@@ -60,6 +63,12 @@
     ],
     "name:che_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:crh_x_preferred":[
+        "Qostanay vil\u00e2yeti"
+    ],
+    "name:cym_x_preferred":[
+        "Ardal Kostanay"
     ],
     "name:dan_x_preferred":[
         "Kostanay Region"
@@ -114,6 +123,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u057d\u057f\u0561\u0576\u0561\u0575 \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Qostana\u00fd"
     ],
     "name:ind_x_preferred":[
         "Provinsi Qostanay"
@@ -177,6 +189,9 @@
     ],
     "name:nob_x_preferred":[
         "Kostanay region"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a4b\u0a38\u0a24\u0a3e\u0a28\u0a3e\u0a0f \u0a38\u0a42\u0a2c\u0a3e"
@@ -260,6 +275,12 @@
     ],
     "name:war_x_preferred":[
         "Kostanay"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e93\u65af\u5854\u5948\u5dde"
+    ],
+    "name:yue_x_preferred":[
+        "\u54e5\u65af\u5854\u91cc\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5eab\u65af\u5854\u5948\u5dde"
@@ -387,7 +408,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1614894913,
+    "wof:lastmodified":1690938388,
     "wof:name":"Qostanay",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

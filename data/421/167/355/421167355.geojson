@@ -23,11 +23,20 @@
     "name:ceb_x_preferred":[
         "Ayteke Bi"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u0439\u0442\u0435\u043a\u0435-\u0411\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "\u00c4iteke Bi"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03ca\u03c4\u03ad\u03ba\u03b5 \u039c\u03c0\u03b9"
     ],
     "name:eng_x_preferred":[
         "Ayteke Bi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06cc\u062a\u06a9\u0647 \u0628\u06cc"
     ],
     "name:kaz_x_preferred":[
         "\u04d8\u0439\u0442\u0435\u043a\u0435 \u0431\u0438 \u043a\u0435\u043d\u0442\u0456"
@@ -50,6 +59,9 @@
     "name:swe_x_preferred":[
         "Ayteke Bi"
     ],
+    "name:tat_x_preferred":[
+        "\u04d8\u0439\u0442\u0435\u043a\u0435 \u0431\u0438 \u043a\u0435\u043d\u0442\u0435"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0439\u0442\u0435\u043a\u0435-\u0431\u0456"
     ],
@@ -58,6 +70,9 @@
     ],
     "name:und_x_variant":[
         "Zhangaqazaly"
+    ],
+    "name:uzb_x_preferred":[
+        "Ayteke bi(Qizilo\u02bbrda viloyati)"
     ],
     "name:zho_x_preferred":[
         "Maykain"
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":421167355,
-    "wof:lastmodified":1566591979,
+    "wof:lastmodified":1690938453,
     "wof:name":"Ayteke Bi",
     "wof:parent_id":85672885,
     "wof:placetype":"locality",

@@ -26,17 +26,26 @@
     "name:ceb_x_preferred":[
         "Saryshaghan"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0448\u0430\u0433\u0430\u043d"
+    ],
     "name:deu_x_preferred":[
         "Saryschaghan"
     ],
     "name:eng_x_preferred":[
         "Saryshaghan"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u06cc\u200c\u0634\u0627\u063a\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Sarychagan"
     ],
     "name:ita_x_preferred":[
         "Sary\u0161agan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30ea\u30b7\u30e3\u30ac\u30f3"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u0440\u044b\u0448\u0430\u0493\u0430\u043d"
@@ -61,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Saryshaghan"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0448\u0430\u0433\u0430\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0438\u0448\u0430\u0433\u0430\u043d"
@@ -206,7 +218,7 @@
         }
     ],
     "wof:id":421179995,
-    "wof:lastmodified":1566591996,
+    "wof:lastmodified":1690938476,
     "wof:name":"Saryshagan",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

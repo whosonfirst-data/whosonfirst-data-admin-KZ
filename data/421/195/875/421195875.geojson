@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Akkol"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u043e\u043b\u044c"
     ],
@@ -26,8 +29,14 @@
     "name:ces_x_preferred":[
         "Akkol"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u043a\u0445\u043a\u043e\u044c\u043b"
+    ],
     "name:deu_x_preferred":[
         "Aqk\u00f6l"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03ba\u03ba\u03cc\u03bb"
     ],
     "name:eng_x_preferred":[
         "Akkol'"
@@ -45,6 +54,9 @@
         "\u05d0\u05e7\u05d5\u05dc"
     ],
     "name:hsb_x_preferred":[
+        "Akkol"
+    ],
+    "name:hun_x_preferred":[
         "Akkol"
     ],
     "name:kaz_x_preferred":[
@@ -76,6 +88,9 @@
         "\u0410\u043a\u043a\u043e\u043b\u044c"
     ],
     "name:sco_x_preferred":[
+        "Akkol"
+    ],
+    "name:slk_x_preferred":[
         "Akkol"
     ],
     "name:spa_x_preferred":[
@@ -153,7 +168,7 @@
         }
     ],
     "wof:id":421195875,
-    "wof:lastmodified":1636495703,
+    "wof:lastmodified":1690938450,
     "wof:name":"Alekseyevka",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

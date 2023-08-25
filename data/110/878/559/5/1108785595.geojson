@@ -96,6 +96,9 @@
     "name:uzb_x_preferred":[
         "Sayram"
     ],
+    "name:zho_x_preferred":[
+        "\u8cfd\u62c9\u59c6\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108785595,
-    "wof:lastmodified":1627522313,
+    "wof:lastmodified":1690938407,
     "wof:name":"Sayramskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

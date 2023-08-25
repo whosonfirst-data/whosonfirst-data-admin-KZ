@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u0631\u063a\u0627\u0633"
+    ],
+    "name:cym_x_preferred":[
+        "Khorgas"
+    ],
     "name:deu_x_preferred":[
         "Korgas"
     ],
@@ -44,10 +50,16 @@
     "name:kik_x_preferred":[
         "Khorgas"
     ],
+    "name:kor_x_preferred":[
+        "\ud6e0\uc5bc\uad88\uc4f0\uc2dc"
+    ],
     "name:nan_x_preferred":[
         "Khorgas-chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Khorgos"
+    ],
+    "name:por_x_preferred":[
         "Khorgos"
     ],
     "name:rus_x_preferred":[
@@ -56,11 +68,17 @@
     "name:spa_x_preferred":[
         "Horgos"
     ],
+    "name:swe_x_preferred":[
+        "Khorgas"
+    ],
     "name:tur_x_preferred":[
         "Korgas"
     ],
     "name:uig_x_preferred":[
         "\u0642\u0648\u0631\u063a\u0627\u0633 \u0634\u06d5\u06be\u0649\u0631\u0649"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440\u0433\u043e\u0441"
     ],
     "name:und_x_variant":[
         "Qorghas"
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":421166517,
-    "wof:lastmodified":1566591976,
+    "wof:lastmodified":1690938450,
     "wof:name":"Khorgos",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

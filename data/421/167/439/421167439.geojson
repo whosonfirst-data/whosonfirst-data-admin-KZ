@@ -23,6 +23,12 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b8\u09cd\u09a4\u09cb\u09ac\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Best\u00f6be"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0441\u0442\u043e\u0431\u0435"
+    ],
     "name:deu_x_preferred":[
         "Bestobe"
     ],
@@ -85,6 +91,9 @@
     ],
     "name:swe_x_preferred":[
         "Bestobe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0441\u0442\u04af\u0431\u0435"
     ],
     "name:tur_x_preferred":[
         "Bestobe"
@@ -243,7 +252,7 @@
         }
     ],
     "wof:id":421167439,
-    "wof:lastmodified":1636495704,
+    "wof:lastmodified":1690938455,
     "wof:name":"Bestobe",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

@@ -35,8 +35,14 @@
     "name:rus_x_preferred":[
         "\u041b\u0443\u0433\u043e\u0432\u043e\u0439"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0433\u043e\u0432\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Lugovka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5362\u6208\u6c83\u4f0a"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":421169309,
-    "wof:lastmodified":1566591985,
+    "wof:lastmodified":1690938460,
     "wof:name":"Lugovoy",
     "wof:parent_id":85672931,
     "wof:placetype":"locality",

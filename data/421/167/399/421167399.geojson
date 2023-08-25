@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Mayqayyng"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0439\u043a\u0430\u0438\u043d"
+    ],
     "name:eng_x_preferred":[
         "Mayqayyng"
     ],
@@ -35,6 +38,9 @@
     "name:nld_x_preferred":[
         "Mayqayyng"
     ],
+    "name:pol_x_preferred":[
+        "Mai\u2019qai\u2019yn\u2019"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0439\u043a\u0430\u0439\u043d"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:swe_x_preferred":[
         "Mayqayyng"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0439\u043a\u0430\u0439\u044b\u04a3"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0439\u043a\u0430\u0457\u043d"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":421167399,
-    "wof:lastmodified":1566591978,
+    "wof:lastmodified":1690938453,
     "wof:name":"Maykain",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

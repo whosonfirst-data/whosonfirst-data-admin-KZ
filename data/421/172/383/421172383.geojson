@@ -17,17 +17,32 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "\u00c7apayev"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0430\u043f\u0430\u0435\u0432"
     ],
     "name:ceb_x_preferred":[
         "Chapaev"
     ],
+    "name:ces_x_preferred":[
+        "\u010capajev"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0430\u043f\u0430\u0435\u0432"
+    ],
+    "name:deu_x_preferred":[
+        "Tschapajew"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03b1\u03c0\u03ac\u03b3\u03b9\u03b5\u03c6"
     ],
     "name:eng_x_preferred":[
         "Chapaev"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u067e\u0627\u06cc\u0641"
     ],
     "name:heb_x_preferred":[
         "Saryaghash"
@@ -47,6 +62,9 @@
     "name:swe_x_preferred":[
         "Tjapajev"
     ],
+    "name:tat_x_preferred":[
+        "\u0427\u0430\u043f\u0430\u0435\u0432"
+    ],
     "name:tur_x_preferred":[
         "Chapaev"
     ],
@@ -55,6 +73,9 @@
     ],
     "name:und_x_variant":[
         "Lbishchenskoye"
+    ],
+    "name:uzb_x_preferred":[
+        "Chapayevo"
     ],
     "name:zho_x_preferred":[
         "\u6070\u5df4\u8036\u592b"
@@ -197,7 +218,7 @@
         }
     ],
     "wof:id":421172383,
-    "wof:lastmodified":1566591988,
+    "wof:lastmodified":1690938465,
     "wof:name":"Chapayev",
     "wof:parent_id":85672893,
     "wof:placetype":"locality",

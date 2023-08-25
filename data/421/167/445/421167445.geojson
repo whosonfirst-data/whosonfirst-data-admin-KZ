@@ -17,14 +17,29 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Bayanaul"
+    ],
     "name:bel_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0430\u0443\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayana\u016byl"
+    ],
+    "name:che_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0430\u0443\u043b"
     ],
     "name:deu_x_preferred":[
         "Bajanaul"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03b3\u03b9\u03b1\u03bd\u03b1\u03bf\u03cd\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Bayanaul"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0627\u0646\u0627\u0648\u0644"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0561\u0575\u0561\u0576\u0561\u0578\u0582\u056c"
@@ -40,6 +55,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0430\u0443\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Bayana\u016byl"
     ],
     "name:tat_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0430\u0432\u044b\u043b"
@@ -101,7 +119,7 @@
         }
     ],
     "wof:id":421167445,
-    "wof:lastmodified":1566591983,
+    "wof:lastmodified":1690938458,
     "wof:name":"Bayanaul",
     "wof:parent_id":85672911,
     "wof:placetype":"locality",

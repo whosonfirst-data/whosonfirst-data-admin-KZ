@@ -22,6 +22,15 @@
     "name:ara_x_preferred":[
         "\u0623\u0643\u062a\u0627\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0643\u062a\u0627\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Aktau"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u06a9\u062a\u0627\u0648"
+    ],
     "name:aze_x_preferred":[
         "Aqtau"
     ],
@@ -55,8 +64,14 @@
     "name:che_x_preferred":[
         "\u0410\u043a\u0442\u0430\u0443"
     ],
+    "name:che_x_variant":[
+        "\u0410\u043a\u0445\u0442\u0430\u0443"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u0627\u0642\u062a\u0627\u0648"
+    ],
+    "name:crh_x_preferred":[
+        "Aqtav"
     ],
     "name:dan_x_preferred":[
         "Aqtau"
@@ -98,6 +113,9 @@
     "name:fra_x_preferred":[
         "Aktaou"
     ],
+    "name:gle_x_preferred":[
+        "Aktau"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0a95\u0acd\u0aa4\u0abe\u0a89"
     ],
@@ -118,6 +136,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u056f\u057f\u0561\u0578\u0582"
+    ],
+    "name:ile_x_preferred":[
+        "Aktau"
     ],
     "name:ind_x_preferred":[
         "Aqtau"
@@ -152,6 +173,9 @@
     "name:kor_x_preferred":[
         "\uc545\ud0c0\uc6b0"
     ],
+    "name:lat_x_preferred":[
+        "Aktau"
+    ],
     "name:lav_x_preferred":[
         "Aktau"
     ],
@@ -164,8 +188,17 @@
     "name:mar_x_preferred":[
         "\u090f\u0915\u093e\u091f\u093e\u090a"
     ],
+    "name:mdf_x_preferred":[
+        "\u0410\u043a\u0442\u0430\u0443"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043a\u0442\u0430\u0443"
+    ],
     "name:msa_x_preferred":[
         "Aktau"
+    ],
+    "name:myv_x_preferred":[
+        "\u0410\u043a\u0442\u0430\u0443"
     ],
     "name:nld_x_preferred":[
         "Aqtau"
@@ -175,6 +208,9 @@
     ],
     "name:nob_x_preferred":[
         "Aktau"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u043a\u0442\u0430\u0443"
     ],
     "name:pnb_x_preferred":[
         "\u0622\u0642\u062a\u0627\u0624"
@@ -189,7 +225,8 @@
         "Aktau"
     ],
     "name:ron_x_variant":[
-        "Akta\u00fa"
+        "Akta\u00fa",
+        "Aqtau"
     ],
     "name:rup_x_preferred":[
         "Aktau"
@@ -220,6 +257,9 @@
     ],
     "name:swe_x_preferred":[
         "Aktau"
+    ],
+    "name:swe_x_variant":[
+        "Aqtau"
     ],
     "name:tam_x_preferred":[
         "\u0b86\u0b95\u0bcd\u0b9f\u0bc1"
@@ -257,11 +297,17 @@
     "name:uzb_x_variant":[
         "Aqtov"
     ],
+    "name:vec_x_preferred":[
+        "Aktau"
+    ],
     "name:vie_x_preferred":[
         "Aktau"
     ],
     "name:war_x_preferred":[
         "Aktau"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u514b\u5957"
     ],
     "name:zho_x_preferred":[
         "\u963f\u514b\u5957"
@@ -389,7 +435,7 @@
         }
     ],
     "wof:id":890433415,
-    "wof:lastmodified":1566592004,
+    "wof:lastmodified":1690938482,
     "wof:name":"Aktau",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",

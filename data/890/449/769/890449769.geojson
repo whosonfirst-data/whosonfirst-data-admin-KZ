@@ -30,11 +30,17 @@
     "name:ceb_x_preferred":[
         "Baykonyr"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u043e\u0440\u0435\u0442\u0430\u043c"
+    ],
     "name:dan_x_preferred":[
         "Tjuratam"
     ],
     "name:eng_x_preferred":[
         "Tyuratam"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0648\u0631\u062a\u0627\u0645"
     ],
     "name:fra_x_preferred":[
         "Tiouratam"
@@ -60,11 +66,20 @@
     "name:pol_x_preferred":[
         "T\u00f6retam"
     ],
+    "name:por_x_preferred":[
+        "Tyuratam"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0440\u0435\u0442\u0430\u043c"
     ],
+    "name:spa_x_preferred":[
+        "Tiuratam"
+    ],
     "name:swe_x_preferred":[
         "Toretam"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u04af\u0440\u0435\u0442\u0430\u043c"
     ],
     "name:tur_x_preferred":[
         "Tyuratam"
@@ -122,7 +137,7 @@
         }
     ],
     "wof:id":890449769,
-    "wof:lastmodified":1566591998,
+    "wof:lastmodified":1690938479,
     "wof:name":"Tyuratam",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

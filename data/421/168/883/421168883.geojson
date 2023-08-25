@@ -32,6 +32,15 @@
     "name:bul_x_preferred":[
         "\u041e\u0441\u0430\u043a\u0430\u0440\u043e\u0432\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:bul_x_variant":[
+        "\u041e\u0441\u0430\u043a\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Osakarovka"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u0441\u0430\u043a\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
     "name:deu_x_preferred":[
         "Ossakarowka"
     ],
@@ -101,6 +110,9 @@
     "name:swe_x_preferred":[
         "Osakarovka"
     ],
+    "name:tat_x_preferred":[
+        "\u041e\u0441\u0430\u043a\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
     "name:tur_x_preferred":[
         "Osakarovka"
     ],
@@ -118,6 +130,9 @@
     ],
     "name:vie_x_preferred":[
         "Osakarovka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u8428\u5361\u7f57\u592b\u5361"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kazakhstan",
@@ -256,7 +271,7 @@
         }
     ],
     "wof:id":421168883,
-    "wof:lastmodified":1636495703,
+    "wof:lastmodified":1690938448,
     "wof:name":"Osakarovka",
     "wof:parent_id":85672905,
     "wof:placetype":"locality",

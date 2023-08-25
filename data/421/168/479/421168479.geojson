@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Martuk"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0443\u043a"
+    ],
     "name:deu_x_preferred":[
         "Martuk"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eng_x_variant":[
         "Martuk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u062a\u0648\u06a9"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05d8\u05d5\u05e7"
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421168479,
-    "wof:lastmodified":1566591974,
+    "wof:lastmodified":1690938445,
     "wof:name":"Martok",
     "wof:parent_id":85672877,
     "wof:placetype":"locality",

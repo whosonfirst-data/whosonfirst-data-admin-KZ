@@ -20,11 +20,21 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u0431\u0430\u0442\u0430\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Georg\u012bevka"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u043b\u0431\u0430\u0442\u0430\u0443"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bc\u03c0\u03b1\u03c4\u03ac\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Georg\u012bevka"
     ],
     "name:eng_x_variant":[
-        "Kalbataou"
+        "Kalbataou",
+        "Kalbatau"
     ],
     "name:fra_x_preferred":[
         "Kalbataou"
@@ -42,6 +52,12 @@
         "\u0413\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u043a\u0430"
     ],
     "name:rus_x_variant":[
+        "\u041a\u0430\u043b\u0431\u0430\u0442\u0430\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Qalbatau"
+    ],
+    "name:tat_x_preferred":[
         "\u041a\u0430\u043b\u0431\u0430\u0442\u0430\u0443"
     ],
     "name:ukr_x_preferred":[
@@ -94,7 +110,7 @@
         }
     ],
     "wof:id":421175067,
-    "wof:lastmodified":1566591991,
+    "wof:lastmodified":1690938468,
     "wof:name":"Georgievka",
     "wof:parent_id":85672915,
     "wof:placetype":"locality",

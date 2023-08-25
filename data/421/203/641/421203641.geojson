@@ -20,11 +20,23 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0633\u0627\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0644\u0633\u0627\u0631\u0649"
+    ],
+    "name:bak_x_preferred":[
+        "\u04a0\u043e\u043b\u0441\u0430\u0440\u0499\u0430\u0440"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0443\u043b\u044c\u0441\u0430\u0440\u044b"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043b\u0441\u0430\u0440\u044a"
+    ],
     "name:ceb_x_preferred":[
         "Qulsary"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u043b\u044c\u0441\u0430\u0440\u044b"
     ],
     "name:deu_x_preferred":[
         "Qulsary"
@@ -34,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Kulsary"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0648\u0644\u0633\u0627\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Qulsar\u0131"
@@ -46,6 +61,9 @@
     ],
     "name:hsb_x_preferred":[
         "Kulsary"
+    ],
+    "name:kaa_x_preferred":[
+        "Kulsari"
     ],
     "name:kaz_x_preferred":[
         "\u049a\u04b1\u043b\u0441\u0430\u0440\u044b"
@@ -79,6 +97,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041a\u043e\u043b\u0441\u0430\u0440\u044b"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041a\u04ef\u043b\u0441\u0430\u0440\u04e3"
     ],
     "name:tuk_x_preferred":[
         "Qulsary"
@@ -144,7 +165,7 @@
         }
     ],
     "wof:id":421203641,
-    "wof:lastmodified":1566591986,
+    "wof:lastmodified":1690938462,
     "wof:name":"Kulsary",
     "wof:parent_id":85672889,
     "wof:placetype":"locality",

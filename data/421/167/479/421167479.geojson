@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u062a\u064a\u0628\u0646\u0648\u063a\u0648\u0631\u0633\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u062a\u064a\u0628\u0646\u0648\u062c\u0648\u0631\u0633\u0643"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u067e\u0646\u0648\u0642\u0648\u0631\u0632\u06a9"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0446\u0435\u043f\u043d\u0430\u0433\u043e\u0440\u0441\u043a"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:ceb_x_preferred":[
         "Stepnogorsk"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
     ],
     "name:ckb_x_preferred":[
         "\u0633\u062a\u06ce\u067e\u0646\u06c6\u06af\u06c6\u0631\u0633\u06a9"
@@ -62,14 +71,26 @@
     "name:ita_x_preferred":[
         "Stepnogorsk"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c6\u30d7\u30ce\u30b4\u30eb\u30b9\u30af"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0442\u0435\u043f\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:lav_x_preferred":[
+        "Stepnogorska"
     ],
     "name:lit_x_preferred":[
         "Stepnogorskas"
     ],
     "name:nld_x_preferred":[
         "Stepnogorsk"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u062a\u067e\u0646\u0648\u06af\u0648\u0631\u0633\u06a9"
     ],
     "name:pol_x_preferred":[
         "Stiepnogorsk"
@@ -82,6 +103,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0421\u0442\u0435\u043f\u043d\u043e\u0433\u043e\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Stepnogorsk"
     ],
     "name:udm_x_preferred":[
         "\u0421\u0442\u0435\u043f\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
@@ -147,7 +171,7 @@
         }
     ],
     "wof:id":421167479,
-    "wof:lastmodified":1566591979,
+    "wof:lastmodified":1690938454,
     "wof:name":"Stepnogorsk",
     "wof:parent_id":85672897,
     "wof:placetype":"locality",

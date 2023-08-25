@@ -23,8 +23,17 @@
     "name:ara_x_variant":[
         "\u062f\u0631\u0648\u0632\u0647\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0631\u0648\u0632\u0647\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Dostyk"
+    ],
     "name:ceb_x_preferred":[
         "Dostyq"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u0441\u0442\u044b\u043a"
     ],
     "name:deu_x_preferred":[
         "Dostyk"
@@ -34,6 +43,9 @@
     ],
     "name:eng_x_preferred":[
         "Dostyk"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0633\u062a\u06cc\u06a9"
     ],
     "name:fra_x_preferred":[
         "Dostyk"
@@ -59,6 +71,9 @@
     "name:nld_x_preferred":[
         "Dostyq"
     ],
+    "name:pol_x_preferred":[
+        "Dostyk"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0440\u0443\u0436\u0431\u0430"
     ],
@@ -68,14 +83,29 @@
     "name:sco_x_preferred":[
         "Dostyk"
     ],
+    "name:spa_x_preferred":[
+        "Dostyk"
+    ],
     "name:swe_x_preferred":[
         "Druzjba"
+    ],
+    "name:swe_x_variant":[
+        "Dostyq"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u0441\u0442\u044b\u043a"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0414\u043e\u0441\u0442\u0438\u049b"
     ],
     "name:tur_x_preferred":[
         "Dost\u0131k"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0441\u0442\u0438\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Dostiq"
     ],
     "name:zho_x_preferred":[
         "\u591a\u65af\u7279\u514b"
@@ -128,7 +158,7 @@
         }
     ],
     "wof:id":421167427,
-    "wof:lastmodified":1566591983,
+    "wof:lastmodified":1690938458,
     "wof:name":"Druzhba",
     "wof:parent_id":85672921,
     "wof:placetype":"locality",

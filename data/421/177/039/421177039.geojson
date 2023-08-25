@@ -26,11 +26,23 @@
     "name:ceb_x_preferred":[
         "Kuryk"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u0440\u044b\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Quryq"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c1\u03af\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Quryq"
     ],
     "name:eng_x_variant":[
         "Kuryk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0648\u0631\u06cc\u0642"
     ],
     "name:fra_x_preferred":[
         "Kourik"
@@ -56,11 +68,17 @@
     "name:swe_x_preferred":[
         "Jeralijev"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0440\u044b\u043a"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0438\u043a"
     ],
     "name:uzb_x_preferred":[
         "Quruq"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u96f7\u514b"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -106,7 +124,7 @@
         }
     ],
     "wof:id":421177039,
-    "wof:lastmodified":1566591996,
+    "wof:lastmodified":1690938475,
     "wof:name":"Yeraliyev",
     "wof:parent_id":85672923,
     "wof:placetype":"locality",

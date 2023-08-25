@@ -17,11 +17,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0411\u0406\u0406\u041a \u0428\u044b\u043c\u043a\u0435\u043d\u0442"
+    ],
     "name:cat_x_preferred":[
         "BIIK Kazygurt"
     ],
     "name:dan_x_preferred":[
         "BIIK Kazygurt"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u0399\u0399\u039a \u039a\u03ac\u03b6\u03b9\u03b3\u03ba\u03bf\u03c5\u03c1\u03c4"
     ],
     "name:eng_x_preferred":[
         "BIIK Kazygurt"
@@ -36,7 +42,8 @@
         "Qazyqurt"
     ],
     "name:kaz_x_variant":[
-        "\u049a\u0430\u0437\u044b\u049b\u04b1\u0440\u0442"
+        "\u049a\u0430\u0437\u044b\u049b\u04b1\u0440\u0442",
+        "\u0411\u0418\u0406\u041a-\u049a\u0430\u0437\u044b\u0493\u04b1\u0440\u0442"
     ],
     "name:lit_x_preferred":[
         "\u0160ymkent BIIK-Kazygurt"
@@ -56,8 +63,14 @@
     "name:swe_x_preferred":[
         "BIIK Kazygurt"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0406\u0406\u041a-\u041a\u0430\u0437\u0438\u0433\u0443\u0440\u0442"
+    ],
     "name:und_x_variant":[
         "Kazyghurt"
+    ],
+    "name:uzb_x_preferred":[
+        "BIIK-Qozig\u2018urt"
     ],
     "qs:gn_country":"KZ",
     "qs:gn_fcode":"PPL",
@@ -104,7 +117,7 @@
         }
     ],
     "wof:id":421167405,
-    "wof:lastmodified":1566591983,
+    "wof:lastmodified":1690938458,
     "wof:name":"Kazygurt",
     "wof:parent_id":85672927,
     "wof:placetype":"locality",

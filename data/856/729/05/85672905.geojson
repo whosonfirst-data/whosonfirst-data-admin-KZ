@@ -37,11 +37,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0631\u0627\u063a\u0646\u062f\u064a"
     ],
+    "name:awa_x_preferred":[
+        "\u0915\u093e\u0930\u093e\u0917\u093c\u093e\u0928\u094d\u0926\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0631\u0627\u063a\u0646\u062f\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
     "name:aze_x_preferred":[
         "Karaqanda vilay\u0259ti"
+    ],
+    "name:bak_x_preferred":[
+        "\u04a0\u0430\u0440\u0430\u0493\u0430\u043d\u0434\u0430 \u04e9\u043b\u043a\u04d9\u04bb\u0435"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0437\u0456\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -63,6 +69,9 @@
     ],
     "name:che_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:crh_x_preferred":[
+        "Qara\u011fand\u0131 vil\u00e2yeti"
     ],
     "name:dan_x_preferred":[
         "Karagandy Region"
@@ -118,8 +127,17 @@
     "name:hye_x_preferred":[
         "\u053f\u0561\u0580\u0561\u0563\u0561\u0576\u0564\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
     ],
+    "name:ido_x_preferred":[
+        "Provinco Qara\u011fand\u0131"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Qaraghandy"
+    ],
+    "name:ind_x_variant":[
+        "Provinsi Karaganda"
+    ],
+    "name:inh_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0435\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:isl_x_preferred":[
         "Karagandyfylki"
@@ -129,6 +147,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30e9\u30ac\u30f3\u30c0\u5dde"
+    ],
+    "name:kaa_x_preferred":[
+        "Qarag'and\u0131 obl\u0131s\u0131"
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cb0\u0cbe\u0c97\u0cbe\u0c82\u0ca1\u0cbf \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
@@ -178,6 +199,9 @@
     "name:nob_x_preferred":[
         "Karagandy region"
     ],
+    "name:oss_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0430\u0439\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
+    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0642\u0627\u0631\u0627\u063a\u0627\u0646\u062f\u06cc"
     ],
@@ -209,6 +233,9 @@
     "name:sco_x_preferred":[
         "Karagandy Province"
     ],
+    "name:sco_x_variant":[
+        "Karaganda Region"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dbb\u0d9c\u0db1\u0dca\u0da9\u0dd2 \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
@@ -221,6 +248,9 @@
     "name:swe_x_preferred":[
         "Qaraghandy"
     ],
+    "name:swe_x_variant":[
+        "Qaraghandy oblysy"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0bb0\u0b95\u0ba3\u0bcd\u0b9f\u0bbf \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
@@ -232,6 +262,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u049a\u0430\u0440\u0430\u0493\u0430\u043d\u0434\u0439"
+    ],
+    "name:tgk_x_variant":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u049a\u0430\u0440\u0430\u0493\u0430\u043d\u0434\u04e3"
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e23\u0e32\u0e01\u0e31\u0e19\u0e14\u0e35"
@@ -266,6 +299,12 @@
     ],
     "name:war_x_preferred":[
         "Karagandy"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u62c9\u5e72\u8fbe\u5dde"
+    ],
+    "name:yue_x_preferred":[
+        "\u5361\u62c9\u5e72\u9054\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5361\u62c9\u5e72\u9054\u5dde"
@@ -393,7 +432,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1614894914,
+    "wof:lastmodified":1690938390,
     "wof:name":"Qaraghandy",
     "wof:parent_id":85632307,
     "wof:placetype":"region",
