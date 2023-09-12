@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.75481,
-    "geom:area_square_m":6486001034.914753,
+    "geom:area_square_m":6486000377.587111,
     "geom:bbox":"62.800642,45.565824,63.967134,46.390839",
     "geom:latitude":45.97833,
     "geom:longitude":63.383897,
     "iso:country":"KZ",
     "label:eng_x_preferred_longname":[
         "Baykonur"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "lease"
     ],
     "label:eng_x_preferred_shortcode":[
         "BY"
@@ -152,7 +155,7 @@
         "iso:id":"KZ-BAY"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"3283003f49a1d4413cb2bfc2af5e2ad9",
+    "wof:geomhash":"6bfbbdaaad57122ded05b7f849d057b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":85681265,
-    "wof:lastmodified":1627522309,
+    "wof:lastmodified":1694493254,
     "wof:name":"Baykonur lease in Qyzylorda",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
