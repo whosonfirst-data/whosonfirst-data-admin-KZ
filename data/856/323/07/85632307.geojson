@@ -1338,7 +1338,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"7",
     "statoids:ds":"KZ",
     "statoids:fifa":"KAZ",
@@ -1413,7 +1413,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1694492144,
+    "wof:lastmodified":1694639597,
     "wof:name":"Kazakhstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
