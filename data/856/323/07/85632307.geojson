@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":330.088792,
-    "geom:area_square_m":2712265284017.687988,
+    "geom:area_square_m":2718751284395.282227,
     "geom:bbox":"46.493672,40.568584,87.3154,55.441984",
     "geom:latitude":48.159713,
     "geom:longitude":67.261769,
@@ -14,6 +14,9 @@
     "iso:country":"KZ",
     "itu:country_code":[
         "7"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "KZ"
@@ -1334,7 +1337,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"7",
     "statoids:ds":"KZ",
     "statoids:fifa":"KAZ",
@@ -1393,7 +1397,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"4a3de15307fa764bcec537f119ad8538",
+    "wof:geomhash":"ad48cda67b84a9fba57d3c58a59583a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1409,12 +1413,12 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1690938384,
+    "wof:lastmodified":1694639597,
     "wof:name":"Kazakhstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":17948816,
-    "wof:population_rank":14,
+    "wof:population":18513930,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:shortcode":"KZ",
     "wof:superseded_by":[],
