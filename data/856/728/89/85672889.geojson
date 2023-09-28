@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.259344,
-    "geom:area_square_m":119013812190.11441,
+    "geom:area_square_m":119013813596.394791,
     "geom:bbox":"47.050191,45.993159,56.474642,49.239258",
     "geom:latitude":47.542944,
     "geom:longitude":52.109026,
@@ -393,16 +393,18 @@
         "gn:id":609862,
         "gp:id":2345986,
         "hasc:id":"KZ.AR",
+        "iso:code":"KZ-ATY",
         "iso:id":"KZ-ATY",
         "qs_pg:id":913682,
         "wd:id":"Q427658",
         "wk:page":"Atyrau Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"100f4db96538768f58ce1f3adfc31cd1",
+    "wof:geomhash":"05f1797ce2ef2e8282a009cb03ce406b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -419,7 +421,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1690938387,
+    "wof:lastmodified":1695884808,
     "wof:name":"Atyrau",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":25.475282,
-    "geom:area_square_m":195574526585.914642,
+    "geom:area_square_m":195574528495.342163,
     "geom:bbox":"59.993083,48.172459,68.097924,54.716753",
     "geom:latitude":51.603636,
     "geom:longitude":64.017043,
@@ -382,16 +382,18 @@
         "gn:id":1521671,
         "gp:id":20070176,
         "hasc:id":"KZ.QS",
+        "iso:code":"KZ-KUS",
         "iso:id":"KZ-KUS",
         "qs_pg:id":1085810,
         "wd:id":"Q485605",
         "wk:page":"Kostanay Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"05bb00191deed6e31cd62da2cb726c42",
+    "wof:geomhash":"cb80d633684e18f2f91df0e61785bec1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -408,7 +410,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1690938388,
+    "wof:lastmodified":1695884516,
     "wof:name":"Qostanay",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

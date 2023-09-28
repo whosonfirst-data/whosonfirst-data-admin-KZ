@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":34.251932,
-    "geom:area_square_m":278971291258.055847,
+    "geom:area_square_m":278971291986.188232,
     "geom:bbox":"76.790059,45.53935,87.3154,51.718525",
     "geom:latitude":48.789882,
     "geom:longitude":81.534461,
@@ -418,16 +418,18 @@
         "gn:id":1517381,
         "gp:id":20070175,
         "hasc:id":"KZ.EK",
+        "iso:code":"KZ-VOS",
         "iso:id":"KZ-VOS",
         "qs_pg:id":1085809,
         "wd:id":"Q36156",
         "wk:page":"East Kazakhstan Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"089b912c8b277b3f02af1861f62935fe",
+    "wof:geomhash":"07d5309901feb4747ffd7bc2d9c5b3f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -444,7 +446,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1690938394,
+    "wof:lastmodified":1695884811,
     "wof:name":"East Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

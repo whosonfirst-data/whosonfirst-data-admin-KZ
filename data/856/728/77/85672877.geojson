@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":36.643945,
-    "geom:area_square_m":299518386958.040833,
+    "geom:area_square_m":299518387922.342773,
     "geom:bbox":"53.619211,45.177413,64.269167,51.312203",
     "geom:latitude":48.607204,
     "geom:longitude":58.595421,
@@ -398,16 +398,18 @@
         "gn:id":610688,
         "gp:id":2345980,
         "hasc:id":"KZ.AT",
+        "iso:code":"KZ-AKT",
         "iso:id":"KZ-AKT",
         "qs_pg:id":1222522,
         "wd:id":"Q485437",
         "wk:page":"Aktobe Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4f6a3fbd5ba9b342a70d23312f44b35c",
+    "wof:geomhash":"d2fd050da92e0435ffc2aa59455ed97e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -424,7 +426,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1690938389,
+    "wof:lastmodified":1695884517,
     "wof:name":"Aqt\u00f6be",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

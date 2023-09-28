@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077366,
-    "geom:area_square_m":697181337.969643,
+    "geom:area_square_m":697181441.811811,
     "geom:bbox":"76.743077,43.033467,77.166882,43.400639",
     "geom:latitude":43.215843,
     "geom:longitude":76.942392,
@@ -390,11 +390,13 @@
         "gn:id":1537162,
         "gp:id":20070179,
         "hasc:id":"KZ.AC",
+        "iso:code":"KZ-ALA",
         "iso:id":"KZ-ALA",
         "qs_pg:id":332221,
         "wd:id":"Q186466",
         "wk:page":"Almaty Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1108785435
     ],
@@ -402,7 +404,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2abe003c9d637b220b62a2a4cb41197f",
+    "wof:geomhash":"8b8b15a048592627aa4b64f4ed47b749",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -419,7 +421,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1690938393,
+    "wof:lastmodified":1695884339,
     "wof:name":"Almaty City",
     "wof:parent_id":85632307,
     "wof:placetype":"region",
