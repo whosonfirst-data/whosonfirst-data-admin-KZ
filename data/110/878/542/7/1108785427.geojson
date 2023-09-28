@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.97032,
-    "geom:area_square_m":8702733215.945055,
+    "geom:area_square_m":8702733296.643967,
     "geom:bbox":"77.139681,43.123181,79.130974,43.849993",
     "geom:latitude":43.502899,
     "geom:longitude":78.161884,
@@ -129,9 +129,10 @@
         "hasc:id":"KZ.AA.EN",
         "wd:id":"Q2556225"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837967,
-    "wof:geomhash":"d6540e3580a0506cb70b6b470756d399",
+    "wof:geomhash":"b4f0a308705928e4a83b1f1ede46019b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108785427,
-    "wof:lastmodified":1690938419,
+    "wof:lastmodified":1695886683,
     "wof:name":"Enbekshikazakhskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

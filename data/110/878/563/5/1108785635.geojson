@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.51478,
-    "geom:area_square_m":4503881080.464879,
+    "geom:area_square_m":4503881401.101322,
     "geom:bbox":"78.060996,44.624764,79.94749,45.400943",
     "geom:latitude":44.962965,
     "geom:longitude":78.816353,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.AA.TQ",
         "wd:id":"Q2550435"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838079,
-    "wof:geomhash":"cf6be1b4e019756bc81eb47869624bca",
+    "wof:geomhash":"547a971a31a41b550f1311b549050148",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785635,
-    "wof:lastmodified":1690938427,
+    "wof:lastmodified":1695886661,
     "wof:name":"Taldyqorghan",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

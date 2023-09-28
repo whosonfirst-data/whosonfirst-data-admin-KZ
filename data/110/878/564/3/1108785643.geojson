@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.358568,
-    "geom:area_square_m":12134515749.293203,
+    "geom:area_square_m":12134516076.360584,
     "geom:bbox":"69.913555,42.918563,71.630499,44.483577",
     "geom:latitude":43.750869,
     "geom:longitude":70.83524,
@@ -135,9 +135,10 @@
         "hasc:id":"KZ.ZM.TL",
         "wd:id":"Q2422636"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838083,
-    "wof:geomhash":"ee0a87cfaedcbb7650128e3b36215f48",
+    "wof:geomhash":"9fca950954a2131fd64f86ef5955f15a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108785643,
-    "wof:lastmodified":1690938426,
+    "wof:lastmodified":1695886688,
     "wof:name":"Talasskiy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

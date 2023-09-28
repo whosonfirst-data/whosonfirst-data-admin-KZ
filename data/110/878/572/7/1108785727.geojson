@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.40709,
-    "geom:area_square_m":19506433153.429691,
+    "geom:area_square_m":19506432687.822506,
     "geom:bbox":"78.282709,48.271576,80.402533,49.861614",
     "geom:latitude":49.051391,
     "geom:longitude":79.42624,
@@ -138,9 +138,10 @@
         "hasc:id":"KZ.EK.AB",
         "wd:id":"Q1099244"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838123,
-    "wof:geomhash":"e238a97190a28a5a8a7c4266225fb4a9",
+    "wof:geomhash":"9380b3c2392d5c37ec366bf6f2feac21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108785727,
-    "wof:lastmodified":1690938415,
+    "wof:lastmodified":1695886682,
     "wof:name":"Abayskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

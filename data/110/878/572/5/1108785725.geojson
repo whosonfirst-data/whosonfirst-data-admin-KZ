@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.437204,
-    "geom:area_square_m":27900628902.523129,
+    "geom:area_square_m":27900628753.896988,
     "geom:bbox":"56.560997,47.820119,59.47866,49.861211",
     "geom:latitude":48.967697,
     "geom:longitude":58.076941,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.AT.MU",
         "wd:id":"Q2550369"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838122,
-    "wof:geomhash":"f6688e5aa4a522f72cde6ebe5a662b78",
+    "wof:geomhash":"8dbfa34acfa84709cfb23fbda53570ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785725,
-    "wof:lastmodified":1690938416,
+    "wof:lastmodified":1695886683,
     "wof:name":"Mugalzharskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

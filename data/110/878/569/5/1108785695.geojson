@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.583738,
-    "geom:area_square_m":31234721933.504154,
+    "geom:area_square_m":31234721419.434086,
     "geom:bbox":"61.92062,43.505666,64.491987,47.035105",
     "geom:latitude":45.174959,
     "geom:longitude":63.419394,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.QO.KR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838108,
-    "wof:geomhash":"b3a16baaf7f038464ce50e92012d61ae",
+    "wof:geomhash":"a15a18bea7123dad08b8b33a8a3f7d76",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785695,
-    "wof:lastmodified":1627522311,
+    "wof:lastmodified":1695886775,
     "wof:name":"Karmakchinskiy",
     "wof:parent_id":85672885,
     "wof:placetype":"county",

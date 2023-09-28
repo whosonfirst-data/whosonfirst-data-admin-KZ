@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.387934,
-    "geom:area_square_m":10690725729.109261,
+    "geom:area_square_m":10690725081.917324,
     "geom:bbox":"67.755799,50.616834,69.333297,52.213146",
     "geom:latitude":51.468604,
     "geom:longitude":68.458759,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.AM.AT",
         "wd:id":"Q4812946"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837945,
-    "wof:geomhash":"cfdb66e7922d410a0221345bd92be7ef",
+    "wof:geomhash":"5326f0df2bc1040291668b0fb110059a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785387,
-    "wof:lastmodified":1690938427,
+    "wof:lastmodified":1695886688,
     "wof:name":"Atbasarskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

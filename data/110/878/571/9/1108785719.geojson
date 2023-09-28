@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.403364,
-    "geom:area_square_m":3180247712.141378,
+    "geom:area_square_m":3180247805.681561,
     "geom:bbox":"83.167191,50.116107,84.271928,50.683905",
     "geom:latitude":50.385156,
     "geom:longitude":83.73106,
@@ -107,9 +107,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.EK.LE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838119,
-    "wof:geomhash":"f72ab08acab18b649ae92e0aa0cd8485",
+    "wof:geomhash":"727f4e44f06f86fc2e119ba459948b68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108785719,
-    "wof:lastmodified":1636495697,
+    "wof:lastmodified":1695886661,
     "wof:name":"Leninogorsk",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

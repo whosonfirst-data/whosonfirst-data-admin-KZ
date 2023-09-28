@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.760685,
-    "geom:area_square_m":14731756217.509335,
+    "geom:area_square_m":14731756178.303516,
     "geom:bbox":"49.389701,46.58139,51.391425,48.094109",
     "geom:latitude":47.415668,
     "geom:longitude":50.371673,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.AR.IS",
         "wd:id":"Q2737292"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837977,
-    "wof:geomhash":"67f8d8e2a288642fe41f0b2ff6bec4f4",
+    "wof:geomhash":"e4e380899bb95761a057be6b88d81024",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785449,
-    "wof:lastmodified":1690938417,
+    "wof:lastmodified":1695886683,
     "wof:name":"Isatayskiy",
     "wof:parent_id":85672889,
     "wof:placetype":"county",

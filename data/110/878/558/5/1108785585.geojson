@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.430928,
-    "geom:area_square_m":3964935233.916653,
+    "geom:area_square_m":3964935325.169005,
     "geom:bbox":"68.857911,41.555242,70.341681,42.219432",
     "geom:latitude":41.918051,
     "geom:longitude":69.599491,
@@ -129,9 +129,10 @@
         "hasc:id":"KZ.SK.KA",
         "wd:id":"Q1370228"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838049,
-    "wof:geomhash":"3272d58e544c22b994da3feef528791b",
+    "wof:geomhash":"5862fdac53b1d55054ff862fd5f0fb53",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108785585,
-    "wof:lastmodified":1690938403,
+    "wof:lastmodified":1695886775,
     "wof:name":"Kazygurtskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

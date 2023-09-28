@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.697976,
-    "geom:area_square_m":5283620619.611286,
+    "geom:area_square_m":5283620578.307015,
     "geom:bbox":"69.179224,51.767513,71.059048,52.700141",
     "geom:latitude":52.251351,
     "geom:longitude":70.052464,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.AM.BU",
         "wd:id":"Q4703463"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837946,
-    "wof:geomhash":"35df659c80d957274977ebfdb083c2f4",
+    "wof:geomhash":"29a7ce43e1a203d8dcbf8afd1ec974ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785389,
-    "wof:lastmodified":1690938427,
+    "wof:lastmodified":1695886688,
     "wof:name":"Bulandynskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.054872,
-    "geom:area_square_m":9516138374.447411,
+    "geom:area_square_m":9516138285.088051,
     "geom:bbox":"71.815203,42.530043,73.243543,44.007636",
     "geom:latitude":43.149791,
     "geom:longitude":72.51624,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.ZM.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837996,
-    "wof:geomhash":"009c88cf18bb9770279f240362b4f1bf",
+    "wof:geomhash":"ba2c1133dd74df4c51abdb2ae8ad1fab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785489,
-    "wof:lastmodified":1627522312,
+    "wof:lastmodified":1695886776,
     "wof:name":"Lugovskoy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

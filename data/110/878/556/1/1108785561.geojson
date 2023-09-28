@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.859096,
-    "geom:area_square_m":6481327484.873013,
+    "geom:area_square_m":6481327310.343302,
     "geom:bbox":"76.446404,51.862843,77.934899,52.996401",
     "geom:latitude":52.40069,
     "geom:longitude":77.235503,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.PA.PS",
         "wd:id":"Q509303"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838032,
-    "wof:geomhash":"084853748ebe59ec057962c514bccf5a",
+    "wof:geomhash":"41c5af414898c15f1d8b5148034b8923",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785561,
-    "wof:lastmodified":1690938399,
+    "wof:lastmodified":1695886676,
     "wof:name":"Pavlodarskiy",
     "wof:parent_id":85672911,
     "wof:placetype":"county",

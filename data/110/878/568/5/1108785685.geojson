@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.645054,
-    "geom:area_square_m":4638938389.936919,
+    "geom:area_square_m":4638938543.059406,
     "geom:bbox":"68.944851,53.965922,70.155919,54.933445",
     "geom:latitude":54.436836,
     "geom:longitude":69.588467,
@@ -103,7 +103,7 @@
     },
     "wof:country":"KZ",
     "wof:created":1481838102,
-    "wof:geomhash":"1c071adf5a9a220770e88f8b645e6b4c",
+    "wof:geomhash":"81a8a43e4a4dd906a69cb9d2b82749eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1108785685,
-    "wof:lastmodified":1690938411,
+    "wof:lastmodified":1695886680,
     "wof:name":"Akkayin",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

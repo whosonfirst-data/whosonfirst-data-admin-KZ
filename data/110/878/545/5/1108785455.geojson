@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.556894,
-    "geom:area_square_m":4663886775.607224,
+    "geom:area_square_m":4663886987.984787,
     "geom:bbox":"52.353337,46.983322,53.83653,47.740247",
     "geom:latitude":47.36759,
     "geom:longitude":53.120557,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.AR.MK",
         "wd:id":"Q2550418"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837980,
-    "wof:geomhash":"d8d5f5d84785c569583eaa67862a82a7",
+    "wof:geomhash":"9b924df6624c4263b4ed4dbaebf0ef78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785455,
-    "wof:lastmodified":1690938418,
+    "wof:lastmodified":1695886684,
     "wof:name":"Makatskiy",
     "wof:parent_id":85672889,
     "wof:placetype":"county",

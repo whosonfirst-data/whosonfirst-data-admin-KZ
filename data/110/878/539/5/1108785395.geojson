@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.159779,
-    "geom:area_square_m":9118804548.92897,
+    "geom:area_square_m":9118804158.706739,
     "geom:bbox":"68.637765,50.039407,70.853975,51.11532",
     "geom:latitude":50.515859,
     "geom:longitude":69.919712,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.AM.KR",
         "wd:id":"Q2565586"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837948,
-    "wof:geomhash":"f6bb69e2e0e76698fd2b74d8922dce4d",
+    "wof:geomhash":"3dfa12431300c3ae4162413ea98913a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785395,
-    "wof:lastmodified":1690938423,
+    "wof:lastmodified":1695886686,
     "wof:name":"Korgalzhynskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

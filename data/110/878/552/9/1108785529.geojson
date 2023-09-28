@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.576296,
-    "geom:area_square_m":12120586384.80245,
+    "geom:area_square_m":12120587028.752411,
     "geom:bbox":"61.45664,50.849752,63.100995,52.259598",
     "geom:latitude":51.547925,
     "geom:longitude":62.323805,
@@ -117,9 +117,10 @@
         "hasc:id":"KZ.QS.KA",
         "wd:id":"Q703004"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838016,
-    "wof:geomhash":"3dabe248d8be52e3cecae31f0e55af91",
+    "wof:geomhash":"7583e00a5d6a95754c95ef3bc86d3ddf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108785529,
-    "wof:lastmodified":1690938424,
+    "wof:lastmodified":1695886687,
     "wof:name":"Kamystinskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

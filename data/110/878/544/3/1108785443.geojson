@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.769011,
-    "geom:area_square_m":5992560251.478833,
+    "geom:area_square_m":5992560240.409702,
     "geom:bbox":"71.590551,50.412743,73.172831,51.43026",
     "geom:latitude":50.9347,
     "geom:longitude":72.215688,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.AM.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837974,
-    "wof:geomhash":"c84a1f1950c852c8bf5e9f2c4630e8c1",
+    "wof:geomhash":"5ea1a43da49344f758bce49fdd93ee6c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785443,
-    "wof:lastmodified":1627522309,
+    "wof:lastmodified":1695886773,
     "wof:name":"Arshalynskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

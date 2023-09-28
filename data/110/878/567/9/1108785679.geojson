@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.386542,
-    "geom:area_square_m":10249859334.634651,
+    "geom:area_square_m":10249859295.684069,
     "geom:bbox":"73.410667,52.804405,75.775196,53.827809",
     "geom:latitude":53.28444,
     "geom:longitude":74.507219,
@@ -129,9 +129,10 @@
         "hasc:id":"KZ.PA.IR",
         "wd:id":"Q58179"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838100,
-    "wof:geomhash":"d7868dfde2879f92ac58955359c4dfea",
+    "wof:geomhash":"ef2f7b88752c88ee069a4b8864d89f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108785679,
-    "wof:lastmodified":1690938400,
+    "wof:lastmodified":1695886677,
     "wof:name":"Irtyshskiy",
     "wof:parent_id":85672911,
     "wof:placetype":"county",

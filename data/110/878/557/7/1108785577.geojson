@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.607069,
-    "geom:area_square_m":11730226122.28507,
+    "geom:area_square_m":11730226158.536486,
     "geom:bbox":"68.585874,53.224792,71.144496,54.404809",
     "geom:latitude":53.821542,
     "geom:longitude":69.981875,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.NK.TA",
         "wd:id":"Q35899"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838044,
-    "wof:geomhash":"8a633a6d7fe9f9fdd78c2f608978b515",
+    "wof:geomhash":"2cfc42f1459e3839743d660f0db2e7df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785577,
-    "wof:lastmodified":1690938410,
+    "wof:lastmodified":1695886777,
     "wof:name":"Taiynshinskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

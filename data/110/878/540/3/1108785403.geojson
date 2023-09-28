@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.27838,
-    "geom:area_square_m":37023687030.554741,
+    "geom:area_square_m":37023686624.733917,
     "geom:bbox":"73.94134,44.284639,77.181856,46.781777",
     "geom:latitude":45.582988,
     "geom:longitude":75.357109,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.AA.BA",
         "wd:id":"Q2565663"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837953,
-    "wof:geomhash":"37d14d21b3c1030e7f95be934856fcf2",
+    "wof:geomhash":"5215082b6b9288695280f057de3e9d61",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785403,
-    "wof:lastmodified":1690938439,
+    "wof:lastmodified":1695886694,
     "wof:name":"Balkhashskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

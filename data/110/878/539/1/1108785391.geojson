@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.955965,
-    "geom:area_square_m":7360181522.218036,
+    "geom:area_square_m":7360181971.991149,
     "geom:bbox":"68.945343,51.03465,70.491509,52.025197",
     "geom:latitude":51.489549,
     "geom:longitude":69.710884,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.AM.AS",
         "wd:id":"Q2466344"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837947,
-    "wof:geomhash":"259cfec0d30836298de9083b01cdd8df",
+    "wof:geomhash":"4191693e2198664ace5a48c63de3dbfe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785391,
-    "wof:lastmodified":1690938422,
+    "wof:lastmodified":1695886686,
     "wof:name":"Astrakhansiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

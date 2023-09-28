@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.546442,
-    "geom:area_square_m":19477692975.628193,
+    "geom:area_square_m":19477692867.580769,
     "geom:bbox":"73.658314,50.998539,76.56447,52.552429",
     "geom:latitude":51.785885,
     "geom:longitude":74.917952,
@@ -203,9 +203,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.PA.EK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838126,
-    "wof:geomhash":"ab17ecf199ab185d5db6afe53f6bb86e",
+    "wof:geomhash":"4ec6d5faf4f661f713fb22711e17038e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -215,7 +216,7 @@
         }
     ],
     "wof:id":1108785733,
-    "wof:lastmodified":1636495697,
+    "wof:lastmodified":1695886661,
     "wof:name":"Ekibastuz",
     "wof:parent_id":85672911,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.841284,
-    "geom:area_square_m":16773694758.178673,
+    "geom:area_square_m":16773694972.345196,
     "geom:bbox":"65.998692,41.869615,68.953637,43.174908",
     "geom:latitude":42.545775,
     "geom:longitude":67.433489,
@@ -114,9 +114,10 @@
         "hasc:id":"KZ.SK.OT",
         "wd:id":"Q2554487"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838052,
-    "wof:geomhash":"12b235fabb591f24cfb92eab10858e7f",
+    "wof:geomhash":"8e529284cad2bf6cc34ed7c3b4c59ef0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108785593,
-    "wof:lastmodified":1690938407,
+    "wof:lastmodified":1695886777,
     "wof:name":"Otrarskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

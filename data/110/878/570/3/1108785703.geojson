@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.3874,
-    "geom:area_square_m":19059445836.654484,
+    "geom:area_square_m":19059446242.622757,
     "geom:bbox":"47.536865,49.049647,50.673436,50.673563",
     "geom:latitude":49.786109,
     "geom:longitude":49.076679,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.WK.KZ",
         "wd:id":"Q952951"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838111,
-    "wof:geomhash":"0071692942b1c4995246daca4fbcc48b",
+    "wof:geomhash":"17dd598aa66cf36e5edbcbe885cb93e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785703,
-    "wof:lastmodified":1690938442,
+    "wof:lastmodified":1695886696,
     "wof:name":"Kaztalovskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

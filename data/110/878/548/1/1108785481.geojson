@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.126897,
-    "geom:area_square_m":18944913763.547192,
+    "geom:area_square_m":18944912825.541019,
     "geom:bbox":"74.409524,42.860756,76.531548,44.863079",
     "geom:latitude":43.913657,
     "geom:longitude":75.640559,
@@ -59,9 +59,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.AA.ZH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837993,
-    "wof:geomhash":"c57d7bf809d54fb99a6489ddf632ab79",
+    "wof:geomhash":"12f0238c920bf11d3c02a6e3e9850fa0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108785481,
-    "wof:lastmodified":1627522314,
+    "wof:lastmodified":1695886778,
     "wof:name":"Zhambylskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

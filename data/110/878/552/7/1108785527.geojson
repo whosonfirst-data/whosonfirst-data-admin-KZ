@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.706721,
-    "geom:area_square_m":37639203773.437637,
+    "geom:area_square_m":37639204055.800278,
     "geom:bbox":"62.231073,48.172459,65.102237,50.989795",
     "geom:latitude":49.701431,
     "geom:longitude":63.631095,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.QS.DZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838015,
-    "wof:geomhash":"35aef3a7eeb9948547cfc7a849008c86",
+    "wof:geomhash":"fe13c9e614d37428417e0959a8c53aa5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785527,
-    "wof:lastmodified":1627522310,
+    "wof:lastmodified":1695886774,
     "wof:name":"Dzhangil`dinskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.682759,
-    "geom:area_square_m":4946915697.197136,
+    "geom:area_square_m":4946915836.544529,
     "geom:bbox":"67.63442,53.727702,69.037402,54.484368",
     "geom:latitude":54.129145,
     "geom:longitude":68.295147,
@@ -59,9 +59,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.AM.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838033,
-    "wof:geomhash":"47945791f4698a239960e3a6e16fc77a",
+    "wof:geomhash":"7acc0134202229347bd25b50f046ef89",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108785563,
-    "wof:lastmodified":1627522310,
+    "wof:lastmodified":1695886774,
     "wof:name":"Esil`skiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

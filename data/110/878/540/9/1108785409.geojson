@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.164109,
-    "geom:area_square_m":10308246059.624184,
+    "geom:area_square_m":10308246696.11561,
     "geom:bbox":"78.858062,43.757811,80.52506,44.841996",
     "geom:latitude":44.263761,
     "geom:longitude":79.769199,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.AA.PA",
         "wd:id":"Q2556261"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837958,
-    "wof:geomhash":"11c1607e8ec58e3c479a4ef9c138cbf4",
+    "wof:geomhash":"62fe95dcab10b45305cf592bda1c0c18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785409,
-    "wof:lastmodified":1690938438,
+    "wof:lastmodified":1695886694,
     "wof:name":"Panfilovskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.893326,
-    "geom:area_square_m":8018931332.610861,
+    "geom:area_square_m":8018931332.610273,
     "geom:bbox":"67.6603778637,42.9722546676,69.058337096,44.020065875",
     "geom:latitude":43.451718,
     "geom:longitude":68.347366,
@@ -233,9 +233,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.SK.TU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838094,
-    "wof:geomhash":"2588089c586a4df2922f1f49b6c9e8d9",
+    "wof:geomhash":"6552a163858a9198ae1ee5d9b0adeb31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -245,7 +246,7 @@
         }
     ],
     "wof:id":1108785667,
-    "wof:lastmodified":1566591752,
+    "wof:lastmodified":1695886679,
     "wof:name":"Turkestan",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

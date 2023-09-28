@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.876371,
-    "geom:area_square_m":7788724813.239486,
+    "geom:area_square_m":7788725361.48876,
     "geom:bbox":"75.987942,43.337602,77.156829,44.770254",
     "geom:latitude":44.047605,
     "geom:longitude":76.555851,
@@ -135,9 +135,10 @@
         "hasc:id":"KZ.AA.IL",
         "wd:id":"Q2466404"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837969,
-    "wof:geomhash":"45edacd0a951caf62d93c51fabd8e86b",
+    "wof:geomhash":"8556da9249431630c9d1945b23bcbd48",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108785433,
-    "wof:lastmodified":1690938416,
+    "wof:lastmodified":1695886683,
     "wof:name":"Iliyskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

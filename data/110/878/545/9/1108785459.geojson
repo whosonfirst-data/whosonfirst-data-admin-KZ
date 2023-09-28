@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.670246,
-    "geom:area_square_m":47061765897.92511,
+    "geom:area_square_m":47061766601.898788,
     "geom:bbox":"76.790059,46.787103,81.672672,48.860131",
     "geom:latitude":47.837239,
     "geom:longitude":79.015916,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.EK.AY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837982,
-    "wof:geomhash":"3d0fd4a845766b21ba9574575f5357bf",
+    "wof:geomhash":"9dc5a59a99a28bf57d4fedf751f62163",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785459,
-    "wof:lastmodified":1627522308,
+    "wof:lastmodified":1695886772,
     "wof:name":"Ayagozskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

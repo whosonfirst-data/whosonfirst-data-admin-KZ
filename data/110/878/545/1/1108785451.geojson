@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.438099,
-    "geom:area_square_m":3690812722.715376,
+    "geom:area_square_m":3690812722.71536,
     "geom:bbox":"51.542331696,46.725223541,52.7556612375,47.4744197675",
     "geom:latitude":47.053188,
     "geom:longitude":52.157925,
@@ -242,9 +242,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.AR.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837978,
-    "wof:geomhash":"3db5c635ba1490fdd89c65a87dd26201",
+    "wof:geomhash":"6458349fc7a9cb37ca00129bf45a5f16",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -254,7 +255,7 @@
         }
     ],
     "wof:id":1108785451,
-    "wof:lastmodified":1566591769,
+    "wof:lastmodified":1695886684,
     "wof:name":"Atyrau",
     "wof:parent_id":85672889,
     "wof:placetype":"county",

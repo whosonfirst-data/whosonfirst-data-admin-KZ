@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252252,
-    "geom:area_square_m":2297942292.411672,
+    "geom:area_square_m":2297942311.63935,
     "geom:bbox":"69.76977,42.330646,70.803103,42.824832",
     "geom:latitude":42.546961,
     "geom:longitude":70.246559,
@@ -129,9 +129,10 @@
         "hasc:id":"KZ.SK.TY",
         "wd:id":"Q2554511"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838063,
-    "wof:geomhash":"6b4491fb2d72f6784cf6f07a627f878e",
+    "wof:geomhash":"16b3956d0c5236eeb654ee4561af965a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108785605,
-    "wof:lastmodified":1690938400,
+    "wof:lastmodified":1695886778,
     "wof:name":"Tyul`kubaskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

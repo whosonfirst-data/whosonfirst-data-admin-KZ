@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.815654,
-    "geom:area_square_m":16288735460.339792,
+    "geom:area_square_m":16288736099.036678,
     "geom:bbox":"66.087714,42.333889,68.06251,44.444044",
     "geom:latitude":43.485138,
     "geom:longitude":67.134831,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.QO.ZN",
         "wd:id":"Q2726410"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838095,
-    "wof:geomhash":"ca15456ab059e98c9f2565d74cc8d0fb",
+    "wof:geomhash":"ea4c9c5c2c84a469d435445caf79bdfd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785669,
-    "wof:lastmodified":1690938405,
+    "wof:lastmodified":1695886678,
     "wof:name":"Zhanakorganskiy",
     "wof:parent_id":85672885,
     "wof:placetype":"county",

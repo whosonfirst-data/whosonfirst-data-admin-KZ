@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000902,
-    "geom:area_square_m":6693639.925437,
+    "geom:area_square_m":6693674.268223,
     "geom:bbox":"70.662619,53.104101,70.722546,53.124615",
     "geom:latitude":53.114114,
     "geom:longitude":70.690339,
@@ -59,9 +59,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.AM.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837938,
-    "wof:geomhash":"61526e79d75d471a5790ea648a0f6675",
+    "wof:geomhash":"d16ca5c0d1b25198c82d19194e8d934e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108785371,
-    "wof:lastmodified":1627522310,
+    "wof:lastmodified":1695886774,
     "wof:name":"Shuchinskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000512,
-    "geom:area_square_m":4443160.369856,
+    "geom:area_square_m":4443035.717907,
     "geom:bbox":"52.885649,45.399026,52.960957,45.464314",
     "geom:latitude":45.431622,
     "geom:longitude":52.921344,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.MG.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838026,
-    "wof:geomhash":"b91ef4002cfe01be1a249d66acf2bb12",
+    "wof:geomhash":"1aee088ac231b9444296ddfc69286652",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108785547,
-    "wof:lastmodified":1627522312,
+    "wof:lastmodified":1695886776,
     "wof:name":"Manghystauskiy",
     "wof:parent_id":-1,
     "wof:placetype":"county",

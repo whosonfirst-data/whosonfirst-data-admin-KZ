@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.935383,
-    "geom:area_square_m":7335393387.109111,
+    "geom:area_square_m":7335393930.212509,
     "geom:bbox":"53.258186,49.997539,54.571897,51.277018",
     "geom:latitude":50.637943,
     "geom:longitude":53.960402,
@@ -117,9 +117,10 @@
         "hasc:id":"KZ.WK.CH",
         "wd:id":"Q2737280"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838115,
-    "wof:geomhash":"789e0c40f5b07230da2a3c857a60ed47",
+    "wof:geomhash":"a23b59a2bb426db4f4dd75a329872a8f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108785711,
-    "wof:lastmodified":1690938436,
+    "wof:lastmodified":1695886693,
     "wof:name":"Chingirlauskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

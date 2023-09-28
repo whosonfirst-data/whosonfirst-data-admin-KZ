@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.153276,
-    "geom:area_square_m":8431068928.402309,
+    "geom:area_square_m":8431068720.292544,
     "geom:bbox":"70.94825,53.180873,72.515494,54.366212",
     "geom:latitude":53.755945,
     "geom:longitude":71.708553,
@@ -117,9 +117,10 @@
         "hasc:id":"KZ.NK.AZ",
         "wd:id":"Q45708"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838101,
-    "wof:geomhash":"2782aec696ebc7214d5fbbd1d67554cb",
+    "wof:geomhash":"4c3f87ff03161e686fc93a828beba229",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108785683,
-    "wof:lastmodified":1690938410,
+    "wof:lastmodified":1695886773,
     "wof:name":"Akzharskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

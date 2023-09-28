@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":1961923.289471,
+    "geom:area_square_m":1961954.38897,
     "geom:bbox":"68.81522,54.83912,68.833033,54.858594",
     "geom:latitude":54.848319,
     "geom:longitude":68.82415,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.NK.KY",
         "wd:id":"Q32419"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837941,
-    "wof:geomhash":"a93992716ba916608d43b3cb81a3afbf",
+    "wof:geomhash":"de9a8427360f61655d0bfb1bafce5a38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785379,
-    "wof:lastmodified":1690938420,
+    "wof:lastmodified":1695886775,
     "wof:name":"Kyzylzharskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

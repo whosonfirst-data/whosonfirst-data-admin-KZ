@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.683255,
-    "geom:area_square_m":32205884246.885933,
+    "geom:area_square_m":32205884326.283348,
     "geom:bbox":"69.07439,43.21858,71.535548,46.002765",
     "geom:latitude":44.992923,
     "geom:longitude":70.320625,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.ZM.SA",
         "wd:id":"Q2321974"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838008,
-    "wof:geomhash":"3588782de129523ae87c7799682315e6",
+    "wof:geomhash":"be062f071b380550ac34b5bcbb3f5db8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785511,
-    "wof:lastmodified":1690938398,
+    "wof:lastmodified":1695886676,
     "wof:name":"Sarysuskiy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

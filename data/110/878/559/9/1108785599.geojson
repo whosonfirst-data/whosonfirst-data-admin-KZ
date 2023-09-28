@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.65107,
-    "geom:area_square_m":40757187372.27459,
+    "geom:area_square_m":40757187617.672058,
     "geom:bbox":"67.181242,43.408402,69.822445,46.001822",
     "geom:latitude":44.868663,
     "geom:longitude":68.569573,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.SK.SU",
         "wd:id":"Q2554556"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838060,
-    "wof:geomhash":"ce649fc4e0879c2c92bd41aef257bacb",
+    "wof:geomhash":"37b89eadea32f7741d078ebb476d4c9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785599,
-    "wof:lastmodified":1690938406,
+    "wof:lastmodified":1695886679,
     "wof:name":"Suzakskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

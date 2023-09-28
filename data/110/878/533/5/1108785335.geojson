@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.96518,
-    "geom:area_square_m":7065572578.929906,
+    "geom:area_square_m":7065573715.565207,
     "geom:bbox":"62.077804,52.918377,63.722055,54.231363",
     "geom:latitude":53.698771,
     "geom:longitude":62.866533,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.QS.FY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837920,
-    "wof:geomhash":"c552500ce47b0e80aa5e235315cec232",
+    "wof:geomhash":"77bbcf910ab8c6a5fd5bc4397d611498",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785335,
-    "wof:lastmodified":1627522310,
+    "wof:lastmodified":1695886773,
     "wof:name":"Fyodorovskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

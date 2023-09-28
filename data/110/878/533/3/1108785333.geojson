@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.950582,
-    "geom:area_square_m":6975485967.373611,
+    "geom:area_square_m":6975486015.328873,
     "geom:bbox":"60.896175,53.055528,62.47587,54.086611",
     "geom:latitude":53.597405,
     "geom:longitude":61.781794,
@@ -114,9 +114,10 @@
         "hasc:id":"KZ.QS.KB",
         "wd:id":"Q1377553"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837918,
-    "wof:geomhash":"4cbb250e29ce48b4f449225f57986f95",
+    "wof:geomhash":"cd304b3176c017514472a9918bbd7963",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108785333,
-    "wof:lastmodified":1690938404,
+    "wof:lastmodified":1695886678,
     "wof:name":"Karabalykskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

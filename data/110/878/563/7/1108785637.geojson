@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.409154,
-    "geom:area_square_m":28850536056.79612,
+    "geom:area_square_m":28850536015.020264,
     "geom:bbox":"52.732971,45.993159,56.474642,47.781296",
     "geom:latitude":46.810538,
     "geom:longitude":54.245296,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.AR.ZH",
         "wd:id":"Q2550349"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838080,
-    "wof:geomhash":"66b9d3925efa75ed651fe959c8ea5229",
+    "wof:geomhash":"0158ef8f80a6d6547fb822f027a31cd6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785637,
-    "wof:lastmodified":1690938426,
+    "wof:lastmodified":1695886688,
     "wof:name":"Zhylyoyskiy",
     "wof:parent_id":85672889,
     "wof:placetype":"county",

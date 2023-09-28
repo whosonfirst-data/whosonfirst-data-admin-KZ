@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.034537,
-    "geom:area_square_m":8280781559.411769,
+    "geom:area_square_m":8280781792.479445,
     "geom:bbox":"46.779962,49.061646,48.101682,50.463886",
     "geom:latitude":49.658681,
     "geom:longitude":47.435047,
@@ -114,9 +114,10 @@
         "hasc:id":"KZ.WK.DB",
         "wd:id":"Q2736676"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837910,
-    "wof:geomhash":"ee63cd31162bdc9dd3b535c230db43b8",
+    "wof:geomhash":"c52bb612898b66520fc65df2f3ff13e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108785327,
-    "wof:lastmodified":1690938413,
+    "wof:lastmodified":1695886681,
     "wof:name":"Dzhanybekskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

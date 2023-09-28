@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.03263,
-    "geom:area_square_m":7924805598.62636,
+    "geom:area_square_m":7924805065.014937,
     "geom:bbox":"77.291661,51.140127,79.339548,52.155903",
     "geom:latitude":51.636514,
     "geom:longitude":78.287579,
@@ -129,9 +129,10 @@
         "hasc:id":"KZ.PA.LE",
         "wd:id":"Q47982"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838031,
-    "wof:geomhash":"b3e278e5ec71c515d49fc632fa39444c",
+    "wof:geomhash":"ef2a8ba88ec5c7d4d035bea1b4b3bf89",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108785559,
-    "wof:lastmodified":1690938423,
+    "wof:lastmodified":1695886686,
     "wof:name":"Lebyazhinskiy",
     "wof:parent_id":85672911,
     "wof:placetype":"county",

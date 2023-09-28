@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073622,
-    "geom:area_square_m":586631241.877808,
+    "geom:area_square_m":586630899.683023,
     "geom:bbox":"82.469344,49.728488,82.965957,50.036767",
     "geom:latitude":49.878946,
     "geom:longitude":82.702858,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.EK.UL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837990,
-    "wof:geomhash":"b76238c0b352a58efac27f6a6a3db69d",
+    "wof:geomhash":"2e15d84c950dbbcacf1f999a11deb144",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785475,
-    "wof:lastmodified":1627522314,
+    "wof:lastmodified":1695886778,
     "wof:name":"Ulanskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

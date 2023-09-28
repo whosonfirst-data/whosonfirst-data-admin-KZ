@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.302249,
-    "geom:area_square_m":10132532592.308315,
+    "geom:area_square_m":10132532447.68519,
     "geom:bbox":"78.089118,50.412187,79.941647,51.718525",
     "geom:latitude":51.004667,
     "geom:longitude":79.101149,
@@ -132,9 +132,10 @@
         "hasc:id":"KZ.EK.BE",
         "wd:id":"Q2466416"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838081,
-    "wof:geomhash":"6b036395e41f5fec6e9fb5ab0a401eb9",
+    "wof:geomhash":"264940dcbd7b287a365b6ca5f7a5a1ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108785639,
-    "wof:lastmodified":1690938426,
+    "wof:lastmodified":1695886688,
     "wof:name":"Beskaragayskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

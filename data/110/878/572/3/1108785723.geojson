@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.490305,
-    "geom:area_square_m":35647092844.159821,
+    "geom:area_square_m":35647092547.549576,
     "geom:bbox":"59.293483,48.720825,62.950356,51.312203",
     "geom:latitude":50.055664,
     "geom:longitude":61.057675,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.AT.AY",
         "wd:id":"Q1209360"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838121,
-    "wof:geomhash":"7ea2ed135819ba899fa3b7c572029496",
+    "wof:geomhash":"c65f618c6486c32d57fe0494eb8c6774",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785723,
-    "wof:lastmodified":1690938415,
+    "wof:lastmodified":1695886682,
     "wof:name":"Aytekebiyskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

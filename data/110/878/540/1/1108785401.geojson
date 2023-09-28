@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.410403,
-    "geom:area_square_m":11381874621.004457,
+    "geom:area_square_m":11381874163.721512,
     "geom:bbox":"53.619211,48.638563,55.51175,49.814121",
     "geom:latitude":49.258945,
     "geom:longitude":54.586121,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.AT.UI",
         "wd:id":"Q2550333"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837952,
-    "wof:geomhash":"8b101bba3a002b61777336c537b0f7c0",
+    "wof:geomhash":"922df8f6d933ebccaea613b11698449f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785401,
-    "wof:lastmodified":1690938438,
+    "wof:lastmodified":1695886694,
     "wof:name":"Uilskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

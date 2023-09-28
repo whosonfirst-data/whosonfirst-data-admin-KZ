@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.062617,
-    "geom:area_square_m":24549165414.501606,
+    "geom:area_square_m":24549164709.21183,
     "geom:bbox":"49.945462,48.490079,53.425505,50.795924",
     "geom:latitude":49.587753,
     "geom:longitude":51.543034,
@@ -117,9 +117,10 @@
         "hasc:id":"KZ.WK.AK",
         "wd:id":"Q2550287"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838114,
-    "wof:geomhash":"f91a4de708241d2caf51f6c6cfed3941",
+    "wof:geomhash":"6084b0463991c7476a38d5c55ae2097a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108785709,
-    "wof:lastmodified":1690938441,
+    "wof:lastmodified":1695886696,
     "wof:name":"Akzhaikskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

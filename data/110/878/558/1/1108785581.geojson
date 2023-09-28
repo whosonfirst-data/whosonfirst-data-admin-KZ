@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.701797,
-    "geom:area_square_m":6425084793.073676,
+    "geom:area_square_m":6425083973.754543,
     "geom:bbox":"66.790294,41.936424,69.214507,42.751681",
     "geom:latitude":42.234277,
     "geom:longitude":68.197977,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.SK.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838046,
-    "wof:geomhash":"0358ca901bf1d25ad3e228ec917d645d",
+    "wof:geomhash":"76e5d0a5d74262eb2de32b39f2b4901b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785581,
-    "wof:lastmodified":1627522309,
+    "wof:lastmodified":1695886773,
     "wof:name":"Arysskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

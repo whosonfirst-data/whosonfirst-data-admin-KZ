@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.461828,
-    "geom:area_square_m":12662584093.817299,
+    "geom:area_square_m":12662583542.992641,
     "geom:bbox":"77.788467,44.934938,80.229021,46.255763",
     "geom:latitude":45.52987,
     "geom:longitude":79.036837,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.AA.AK",
         "wd:id":"Q2737272"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837957,
-    "wof:geomhash":"4ee6e295904b90552872677abcdaedcd",
+    "wof:geomhash":"ae9bb4eb2475b3ae4f284ce4c3661d1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785407,
-    "wof:lastmodified":1690938438,
+    "wof:lastmodified":1695886694,
     "wof:name":"Aksuskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

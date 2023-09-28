@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.057883,
-    "geom:area_square_m":8178729039.668431,
+    "geom:area_square_m":8178729129.841406,
     "geom:bbox":"50.256451,50.620244,52.557545,51.776105",
     "geom:latitude":51.299651,
     "geom:longitude":51.245227,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.WK.ZE",
         "wd:id":"Q2737304"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837912,
-    "wof:geomhash":"a1b2a1feb974a761047baf365e682158",
+    "wof:geomhash":"76485e5bb30250f7a8ab70b6987a0bc3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785331,
-    "wof:lastmodified":1690938403,
+    "wof:lastmodified":1695886677,
     "wof:name":"Zelenovskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

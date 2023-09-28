@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.945175,
-    "geom:area_square_m":7443868473.09318,
+    "geom:area_square_m":7443869068.421832,
     "geom:bbox":"82.033254,49.857592,84.053774,51.014753",
     "geom:latitude":50.436761,
     "geom:longitude":83.044528,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.EK.GL",
         "wd:id":"Q893317"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837900,
-    "wof:geomhash":"c792470adaa8ea3c479507204410254b",
+    "wof:geomhash":"f3e93e066ccb9d580463ba591fc1912b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785307,
-    "wof:lastmodified":1690938421,
+    "wof:lastmodified":1695886685,
     "wof:name":"Glubokovskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

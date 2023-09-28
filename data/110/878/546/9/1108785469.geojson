@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.775108,
-    "geom:area_square_m":23095926896.856636,
+    "geom:area_square_m":23095926337.33844,
     "geom:bbox":"81.397145,46.966942,84.405716,48.498767",
     "geom:latitude":47.695275,
     "geom:longitude":82.866496,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.EK.TA",
         "wd:id":"Q613774"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837986,
-    "wof:geomhash":"3451b5a122f19dbdea4975e9c7cd9ea8",
+    "wof:geomhash":"3d47ce553e53c5178ecec5b84cd92588",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785469,
-    "wof:lastmodified":1690938440,
+    "wof:lastmodified":1695886695,
     "wof:name":"Tarbagatayskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

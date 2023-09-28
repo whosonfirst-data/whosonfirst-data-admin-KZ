@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.64132,
-    "geom:area_square_m":23134286662.019482,
+    "geom:area_square_m":23134287632.535778,
     "geom:bbox":"63.400057,43.572047,64.942654,46.841176",
     "geom:latitude":44.893168,
     "geom:longitude":64.278561,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.QO.ZL",
         "wd:id":"Q2726452"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838097,
-    "wof:geomhash":"11637f0920f76f5096c01e39ed0f0782",
+    "wof:geomhash":"79edc1b9f1a4ae419477e0be06ef169c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785673,
-    "wof:lastmodified":1690938401,
+    "wof:lastmodified":1695886677,
     "wof:name":"Zhalagashskiy",
     "wof:parent_id":85672885,
     "wof:placetype":"county",

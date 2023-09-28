@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.344568,
-    "geom:area_square_m":18321863172.792091,
+    "geom:area_square_m":18321862937.670303,
     "geom:bbox":"73.882962,50.008038,76.778845,51.646551",
     "geom:latitude":50.802571,
     "geom:longitude":75.494584,
@@ -132,9 +132,10 @@
         "hasc:id":"KZ.PA.BA",
         "wd:id":"Q2448467"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838089,
-    "wof:geomhash":"3d3b596b5fad2880ed7096fadf252976",
+    "wof:geomhash":"ef1186c0d52ff747f54487b84f0f495d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108785655,
-    "wof:lastmodified":1690938432,
+    "wof:lastmodified":1695886691,
     "wof:name":"Bayanaul`skiy",
     "wof:parent_id":85672911,
     "wof:placetype":"county",

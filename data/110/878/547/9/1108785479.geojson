@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085243,
-    "geom:area_square_m":759908877.025069,
+    "geom:area_square_m":759908895.156788,
     "geom:bbox":"71.560332,43.685688,71.960114,44.026141",
     "geom:latitude":43.867656,
     "geom:longitude":71.748018,
@@ -62,7 +62,7 @@
     "wof:concordances":{},
     "wof:country":"KZ",
     "wof:created":1481837992,
-    "wof:geomhash":"3ee442773b5a9c367a9f00dd202ea3bd",
+    "wof:geomhash":"f48287a22ae065e64b911808d2133a9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1108785479,
-    "wof:lastmodified":1627522311,
+    "wof:lastmodified":1695886775,
     "wof:name":"Zhualy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

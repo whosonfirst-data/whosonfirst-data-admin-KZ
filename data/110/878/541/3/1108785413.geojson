@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.702729,
-    "geom:area_square_m":23227696914.472122,
+    "geom:area_square_m":23227696217.958977,
     "geom:bbox":"79.462041,45.124556,82.587726,46.909536",
     "geom:latitude":45.96904,
     "geom:longitude":80.953007,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.AA.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837959,
-    "wof:geomhash":"f9c16aaf707581324ba77ea165afb015",
+    "wof:geomhash":"ad60b7c702112f8a6f810e56056a768c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785413,
-    "wof:lastmodified":1627522309,
+    "wof:lastmodified":1695886772,
     "wof:name":"Alakolskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",
