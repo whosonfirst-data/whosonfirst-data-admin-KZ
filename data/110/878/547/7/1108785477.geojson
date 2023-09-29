@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120236,
-    "geom:area_square_m":1076818689.070345,
+    "geom:area_square_m":1076818408.211838,
     "geom:bbox":"71.479988,43.391657,71.943435,43.820886",
     "geom:latitude":43.590912,
     "geom:longitude":71.739074,
@@ -74,7 +74,7 @@
     "wof:concordances":{},
     "wof:country":"KZ",
     "wof:created":1481837991,
-    "wof:geomhash":"1cad0306cfc8a4f01bde71661689b840",
+    "wof:geomhash":"d5e3743ea71c3cc33e6ae93587f007bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108785477,
-    "wof:lastmodified":1636495698,
+    "wof:lastmodified":1695886661,
     "wof:name":"Zhambyl",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

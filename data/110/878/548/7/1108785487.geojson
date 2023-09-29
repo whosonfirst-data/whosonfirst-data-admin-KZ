@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.536077,
-    "geom:area_square_m":4819744590.706914,
+    "geom:area_square_m":4819744877.910401,
     "geom:bbox":"71.11989,42.775571,72.244748,44.040426",
     "geom:latitude":43.355124,
     "geom:longitude":71.706515,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.ZM.BA",
         "wd:id":"Q2549636"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837995,
-    "wof:geomhash":"da0398af193b47c88f4dcd0ac9d2a83d",
+    "wof:geomhash":"5eff3d68809071ed4d41674f0d152927",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785487,
-    "wof:lastmodified":1690938443,
+    "wof:lastmodified":1695886697,
     "wof:name":"Bayzakskiy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

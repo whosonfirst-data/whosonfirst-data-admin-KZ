@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.834023,
-    "geom:area_square_m":23220635558.353325,
+    "geom:area_square_m":23220636690.245029,
     "geom:bbox":"83.300147,47.776135,86.819216,49.075784",
     "geom:latitude":48.498684,
     "geom:longitude":84.850386,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.EK.KU",
         "wd:id":"Q2550784"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837987,
-    "wof:geomhash":"6b3c073f16f14ee41eee268429f0af68",
+    "wof:geomhash":"d1f5c77c8cbd1b37162ad46fd38b498c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785471,
-    "wof:lastmodified":1690938437,
+    "wof:lastmodified":1695886693,
     "wof:name":"Kurchumskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

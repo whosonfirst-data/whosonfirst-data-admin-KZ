@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.897076,
-    "geom:area_square_m":6780616910.776166,
+    "geom:area_square_m":6780617252.230194,
     "geom:bbox":"77.630292,51.775368,79.129567,52.885694",
     "geom:latitude":52.317497,
     "geom:longitude":78.328444,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.PA.SH",
         "wd:id":"Q2554498"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838068,
-    "wof:geomhash":"f875888bd8247925c8ff163d443f6aa4",
+    "wof:geomhash":"fc4e02df9ba5782e270f514e7ff8d62e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785615,
-    "wof:lastmodified":1690938409,
+    "wof:lastmodified":1695886680,
     "wof:name":"Sherbaktinskiy",
     "wof:parent_id":85672911,
     "wof:placetype":"county",

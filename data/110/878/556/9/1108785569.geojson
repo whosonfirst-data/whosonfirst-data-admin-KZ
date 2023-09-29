@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.840087,
-    "geom:area_square_m":6186685468.856657,
+    "geom:area_square_m":6186685652.145633,
     "geom:bbox":"64.802579,53.049347,66.409852,53.966196",
     "geom:latitude":53.446398,
     "geom:longitude":65.680961,
@@ -114,9 +114,10 @@
         "hasc:id":"KZ.QS.SA",
         "wd:id":"Q1249595"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838036,
-    "wof:geomhash":"c019f3f83931955ea04225bec0129cb9",
+    "wof:geomhash":"9be616d8ab5f979b1d3c377b1caf54f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108785569,
-    "wof:lastmodified":1690938398,
+    "wof:lastmodified":1695886676,
     "wof:name":"Sarykol`skiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

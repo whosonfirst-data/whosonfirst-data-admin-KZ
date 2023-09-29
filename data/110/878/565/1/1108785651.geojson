@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.971132,
-    "geom:area_square_m":15653896299.787039,
+    "geom:area_square_m":15653896388.513775,
     "geom:bbox":"71.970192,49.400223,75.132689,50.65808",
     "geom:latitude":50.039526,
     "geom:longitude":73.689365,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.QG.BZ",
         "wd:id":"Q2726463"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838086,
-    "wof:geomhash":"fd8271d872c4b75e64e4a44de9e55508",
+    "wof:geomhash":"654cac05898670d59d2863b998775bb5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785651,
-    "wof:lastmodified":1690938432,
+    "wof:lastmodified":1695886691,
     "wof:name":"Bukhar-Zhyrauskiy",
     "wof:parent_id":85672905,
     "wof:placetype":"county",

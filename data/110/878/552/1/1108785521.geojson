@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.948944,
-    "geom:area_square_m":7549725133.354109,
+    "geom:area_square_m":7549725345.688389,
     "geom:bbox":"56.177073,49.53779,58.417965,50.448097",
     "geom:latitude":49.952995,
     "geom:longitude":57.059506,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.AT.AL",
         "wd:id":"Q279835"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838012,
-    "wof:geomhash":"8dba743dcc6531f495a263024d85aa8e",
+    "wof:geomhash":"11dfb7f0a6e2c1f123bf3a03e36ff1c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785521,
-    "wof:lastmodified":1690938424,
+    "wof:lastmodified":1695886687,
     "wof:name":"Alginskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.853647,
-    "geom:area_square_m":42032878405.664986,
+    "geom:area_square_m":42032877367.32283,
     "geom:bbox":"52.716362,44.437697,56.743708,46.510801",
     "geom:latitude":45.542623,
     "geom:longitude":54.972286,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.MG.BE",
         "wd:id":"Q650725"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838022,
-    "wof:geomhash":"e042f2bf63e9989c4d72f7b10ba5bd17",
+    "wof:geomhash":"4fa90c91354cfa5d6189df870c90e95d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785539,
-    "wof:lastmodified":1690938433,
+    "wof:lastmodified":1695886692,
     "wof:name":"Beyneuskiy",
     "wof:parent_id":85672923,
     "wof:placetype":"county",

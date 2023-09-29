@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076857,
-    "geom:area_square_m":692604991.469156,
+    "geom:area_square_m":692604991.469177,
     "geom:bbox":"76.743077,43.033467,77.147546,43.400639",
     "geom:latitude":43.214961,
     "geom:longitude":76.941006,
@@ -557,7 +557,7 @@
     ],
     "wof:country":"KZ",
     "wof:created":1481837970,
-    "wof:geomhash":"25803b9a6e9b5c7fe921131bc7bc2491",
+    "wof:geomhash":"a37cb9df12b383a9166f9bd7119e0d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -567,7 +567,7 @@
         }
     ],
     "wof:id":1108785435,
-    "wof:lastmodified":1587163113,
+    "wof:lastmodified":1695886288,
     "wof:name":"Almaty",
     "wof:parent_id":85672937,
     "wof:placetype":"county",

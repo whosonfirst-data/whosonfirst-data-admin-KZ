@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.505019,
-    "geom:area_square_m":11883049023.934378,
+    "geom:area_square_m":11883048899.157383,
     "geom:bbox":"51.832826,49.597931,53.683428,50.958113",
     "geom:latitude":50.316571,
     "geom:longitude":52.679291,
@@ -117,9 +117,10 @@
         "hasc:id":"KZ.WK.SY",
         "wd:id":"Q2736622"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838000,
-    "wof:geomhash":"e4708c61a557f9bdff7663593ff5bc76",
+    "wof:geomhash":"c9dcff991fc66fb6864eebbea38927b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108785495,
-    "wof:lastmodified":1690938436,
+    "wof:lastmodified":1695886693,
     "wof:name":"Syrymskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

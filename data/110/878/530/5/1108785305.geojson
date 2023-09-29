@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.822679,
-    "geom:area_square_m":6434787587.96844,
+    "geom:area_square_m":6434787320.091792,
     "geom:bbox":"80.289676,50.216232,81.759666,51.316303",
     "geom:latitude":50.760183,
     "geom:longitude":81.041882,
@@ -129,9 +129,10 @@
         "hasc:id":"KZ.EK.BO",
         "wd:id":"Q2550746"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837899,
-    "wof:geomhash":"fb793d8ff2304406201291eb22f7c91e",
+    "wof:geomhash":"fcf4aef0dad8f2796f05d8dcc8b42e61",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108785305,
-    "wof:lastmodified":1690938422,
+    "wof:lastmodified":1695886685,
     "wof:name":"Borodulikhinskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

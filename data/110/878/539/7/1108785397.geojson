@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.825423,
-    "geom:area_square_m":6230337879.743584,
+    "geom:area_square_m":6230337668.692148,
     "geom:bbox":"67.737693,51.986333,69.502812,52.827546",
     "geom:latitude":52.379387,
     "geom:longitude":68.682738,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.AM.SA",
         "wd:id":"Q2565597"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837949,
-    "wof:geomhash":"edd955fe0a51c90e4594c169213d5680",
+    "wof:geomhash":"6f5ef35adfd56281fc5890c943f2a451",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785397,
-    "wof:lastmodified":1690938422,
+    "wof:lastmodified":1695886686,
     "wof:name":"Sandyktauskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

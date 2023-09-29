@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.971367,
-    "geom:area_square_m":8705519807.897083,
+    "geom:area_square_m":8705519559.81431,
     "geom:bbox":"79.000558,43.136416,80.756702,43.979782",
     "geom:latitude":43.548405,
     "geom:longitude":79.812197,
@@ -135,9 +135,10 @@
         "hasc:id":"KZ.AA.UY",
         "wd:id":"Q2360606"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837966,
-    "wof:geomhash":"a9963289d96919b241263e128c2927cd",
+    "wof:geomhash":"6f1d01715b42f2ef2dcbc96af0244c3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108785425,
-    "wof:lastmodified":1690938420,
+    "wof:lastmodified":1695886684,
     "wof:name":"Uygurskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

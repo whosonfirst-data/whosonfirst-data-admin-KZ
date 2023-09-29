@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.754418,
-    "geom:area_square_m":12956748568.75959,
+    "geom:area_square_m":12956749058.183817,
     "geom:bbox":"71.602738,52.592372,74.04072,54.137095",
     "geom:latitude":53.325322,
     "geom:longitude":72.8717,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.NK.UA",
         "wd:id":"Q30516"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837936,
-    "wof:geomhash":"8949be9dd05ed35e4558a478b54a2704",
+    "wof:geomhash":"348e22b728d4b17ff72478315c20dfde",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785367,
-    "wof:lastmodified":1690938430,
+    "wof:lastmodified":1695886690,
     "wof:name":"Ualikhanovskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

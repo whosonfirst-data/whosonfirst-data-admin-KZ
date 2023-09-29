@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.960598,
-    "geom:area_square_m":15148753559.258789,
+    "geom:area_square_m":15148752325.50145,
     "geom:bbox":"63.024892,50.576149,65.513418,52.010466",
     "geom:latitude":51.326952,
     "geom:longitude":64.141697,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.QS.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838009,
-    "wof:geomhash":"4b413db1c4d599541f7553002dc10ca0",
+    "wof:geomhash":"5238cbc6f690c30e471cadd5a99b7791",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785513,
-    "wof:lastmodified":1627522312,
+    "wof:lastmodified":1695886776,
     "wof:name":"Naurzumskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

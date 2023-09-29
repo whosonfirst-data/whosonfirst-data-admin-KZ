@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.427979,
-    "geom:area_square_m":10834131307.625051,
+    "geom:area_square_m":10834131325.545712,
     "geom:bbox":"70.151741,51.751968,72.722088,52.675869",
     "geom:latitude":52.150886,
     "geom:longitude":71.531528,
@@ -129,9 +129,10 @@
         "hasc:id":"KZ.AM.AK",
         "wd:id":"Q2456359"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838069,
-    "wof:geomhash":"269cb8974ca165fdf38b63a3267513dd",
+    "wof:geomhash":"d0647de43347e49d5eaad2f4eb06051f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108785617,
-    "wof:lastmodified":1690938408,
+    "wof:lastmodified":1695886679,
     "wof:name":"Akkol`skiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

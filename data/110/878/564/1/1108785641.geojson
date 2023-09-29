@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.653572,
-    "geom:area_square_m":29133084784.65625,
+    "geom:area_square_m":29133084784.6562,
     "geom:bbox":"77.0510755733,48.6297434601,81.3901916372,50.9193360668",
     "geom:latitude":49.842592,
     "geom:longitude":78.891138,
@@ -223,7 +223,7 @@
     "wof:concordances":{},
     "wof:country":"KZ",
     "wof:created":1481838082,
-    "wof:geomhash":"271154584404366bddd0cd78a15a9eb4",
+    "wof:geomhash":"e242250d8569d6f07b841e32fa6ba5b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -233,7 +233,7 @@
         }
     ],
     "wof:id":1108785641,
-    "wof:lastmodified":1566591778,
+    "wof:lastmodified":1695886687,
     "wof:name":"Semey",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

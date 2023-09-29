@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.750283,
-    "geom:area_square_m":14262627961.716827,
+    "geom:area_square_m":14262627411.751516,
     "geom:bbox":"81.531205,48.137497,84.235593,49.477222",
     "geom:latitude":48.775012,
     "geom:longitude":82.903201,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.EK.KO",
         "wd:id":"Q2550775"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837984,
-    "wof:geomhash":"9f3daf91d9da6e10a7178b875dd81295",
+    "wof:geomhash":"14abf0b79440169dccfc876b5a93791d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785463,
-    "wof:lastmodified":1690938441,
+    "wof:lastmodified":1695886696,
     "wof:name":"Kokpektinskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.02129,
-    "geom:area_square_m":7982935659.874844,
+    "geom:area_square_m":7982935794.285914,
     "geom:bbox":"48.98297,50.248368,50.86638,51.285948",
     "geom:latitude":50.791498,
     "geom:longitude":49.928715,
@@ -114,9 +114,10 @@
         "hasc:id":"KZ.WK.TA",
         "wd:id":"Q387436"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837911,
-    "wof:geomhash":"18d438b248e1081f76b3f1e690612266",
+    "wof:geomhash":"48ac2023645afad59fe01a54f547eaaa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108785329,
-    "wof:lastmodified":1690938413,
+    "wof:lastmodified":1695886681,
     "wof:name":"Taskalinskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

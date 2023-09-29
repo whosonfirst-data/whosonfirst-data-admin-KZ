@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.684822,
-    "geom:area_square_m":12729078905.283186,
+    "geom:area_square_m":12729079737.708166,
     "geom:bbox":"64.688919,51.290282,66.323253,53.187244",
     "geom:latitude":52.336601,
     "geom:longitude":65.405122,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.QS.KS",
         "wd:id":"Q1010136"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838019,
-    "wof:geomhash":"15f2127cc30a33f3bf7f35681a992b7a",
+    "wof:geomhash":"32d07c708bb97682d6cd81eb038c2f80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785533,
-    "wof:lastmodified":1690938433,
+    "wof:lastmodified":1695886692,
     "wof:name":"Karasuskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

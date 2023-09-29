@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.027357,
-    "geom:area_square_m":24912944450.169395,
+    "geom:area_square_m":24912944888.417934,
     "geom:bbox":"52.347244,47.281484,55.122705,49.239258",
     "geom:latitude":48.2765,
     "geom:longitude":53.681996,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.AR.KZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837979,
-    "wof:geomhash":"599dd974a997b18fc2c8a6fab514af4e",
+    "wof:geomhash":"21346ff79fdf598c0c5fc472ea4c39d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785453,
-    "wof:lastmodified":1627522311,
+    "wof:lastmodified":1695886775,
     "wof:name":"Kzylkoginskiy",
     "wof:parent_id":85672889,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.961917,
-    "geom:area_square_m":8457453986.79302,
+    "geom:area_square_m":8457455489.121052,
     "geom:bbox":"50.219501,43.732516,52.110451,45.364834",
     "geom:latitude":44.678267,
     "geom:longitude":51.209345,
@@ -111,9 +111,10 @@
         "hasc:id":"KZ.MG.TU",
         "wd:id":"Q720422"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837923,
-    "wof:geomhash":"fbe3023695000939fa1ed7d955cb1f19",
+    "wof:geomhash":"dc4fa867a70728898589bc95fbfb0400",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108785341,
-    "wof:lastmodified":1690938405,
+    "wof:lastmodified":1695886678,
     "wof:name":"Tupkaraganskiy",
     "wof:parent_id":85672923,
     "wof:placetype":"county",

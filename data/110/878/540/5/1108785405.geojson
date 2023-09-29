@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.809142,
-    "geom:area_square_m":7101717540.911468,
+    "geom:area_square_m":7101717094.15798,
     "geom:bbox":"76.733326,44.426511,78.551975,45.103042",
     "geom:latitude":44.780882,
     "geom:longitude":77.611691,
@@ -129,9 +129,10 @@
         "hasc:id":"KZ.AA.KO",
         "wd:id":"Q2550398"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837954,
-    "wof:geomhash":"9aeb36e2ab78a3c4955322bad8446dc5",
+    "wof:geomhash":"3ff82265e8e4306ca69a180f54f5ae7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108785405,
-    "wof:lastmodified":1690938439,
+    "wof:lastmodified":1695886695,
     "wof:name":"Koksuskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

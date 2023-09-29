@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.679322,
-    "geom:area_square_m":5290592964.404658,
+    "geom:area_square_m":5290592668.534255,
     "geom:bbox":"68.557318,50.557611,70.199949,51.426334",
     "geom:latitude":50.961709,
     "geom:longitude":69.294623,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.AM.EG",
         "wd:id":"Q2565628"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838003,
-    "wof:geomhash":"0a81ab0100c014a8870c64de896d0d47",
+    "wof:geomhash":"cc5cd6fd98dc11eb33d7825e6397b9b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785503,
-    "wof:lastmodified":1690938412,
+    "wof:lastmodified":1695886680,
     "wof:name":"Egindykol`skiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

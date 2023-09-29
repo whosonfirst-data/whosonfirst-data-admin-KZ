@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.230648,
-    "geom:area_square_m":9848699232.620455,
+    "geom:area_square_m":9848699585.374336,
     "geom:bbox":"52.589997,49.088684,54.57933,50.2729",
     "geom:latitude":49.667949,
     "geom:longitude":53.511062,
@@ -114,9 +114,10 @@
         "hasc:id":"KZ.WK.KR",
         "wd:id":"Q595124"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837999,
-    "wof:geomhash":"db6f8fc8cc91635dd966e3c71b55ffd5",
+    "wof:geomhash":"9c8a01aa6c996c441f465aa118882c9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108785493,
-    "wof:lastmodified":1690938435,
+    "wof:lastmodified":1695886693,
     "wof:name":"Karatobinskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

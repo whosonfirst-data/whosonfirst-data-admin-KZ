@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.453231,
-    "geom:area_square_m":11408023155.170073,
+    "geom:area_square_m":11408024046.129883,
     "geom:bbox":"71.640416,49.929963,74.051012,51.311965",
     "geom:latitude":50.590038,
     "geom:longitude":73.008061,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.QG.OS",
         "wd:id":"Q737748"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838088,
-    "wof:geomhash":"f0e696eb4f0a3b801badddcdaaa9bef1",
+    "wof:geomhash":"fbd59d618aae330505511195b02b557c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785653,
-    "wof:lastmodified":1690938432,
+    "wof:lastmodified":1695886691,
     "wof:name":"Osakarovskiy",
     "wof:parent_id":85672905,
     "wof:placetype":"county",

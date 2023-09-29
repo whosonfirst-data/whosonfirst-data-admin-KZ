@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.295355,
-    "geom:area_square_m":28648058584.343807,
+    "geom:area_square_m":28648058005.318348,
     "geom:bbox":"64.652142,43.667786,67.36139,46.503097",
     "geom:latitude":45.322992,
     "geom:longitude":65.639442,
@@ -113,7 +113,7 @@
     },
     "wof:country":"KZ",
     "wof:created":1481838096,
-    "wof:geomhash":"7f44608f28818091b978da9a888f0f40",
+    "wof:geomhash":"0d754cd62b34509310ae51956435e40a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":1108785671,
-    "wof:lastmodified":1690938401,
+    "wof:lastmodified":1695886677,
     "wof:name":"Syrdariya",
     "wof:parent_id":85672885,
     "wof:placetype":"county",

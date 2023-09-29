@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.356606,
-    "geom:area_square_m":124307169539.082138,
+    "geom:area_square_m":124307169130.100861,
     "geom:bbox":"73.410667,50.008038,79.339548,54.457595",
     "geom:latitude":52.069063,
     "geom:longitude":76.245247,
@@ -381,16 +381,18 @@
         "gn:id":1520239,
         "gp:id":2345993,
         "hasc:id":"KZ.PA",
+        "iso:code":"KZ-PAV",
         "iso:id":"KZ-PAV",
         "qs_pg:id":890083,
         "wd:id":"Q486144",
         "wk:page":"Pavlodar Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4ce30f9e1a5358350cd544cd64951460",
+    "wof:geomhash":"374a9d468dd8291a9e3d1b286c2740fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -407,7 +409,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1690938391,
+    "wof:lastmodified":1695884809,
     "wof:name":"Pavlodar",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

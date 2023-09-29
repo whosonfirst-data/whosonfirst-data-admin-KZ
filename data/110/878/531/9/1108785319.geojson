@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.743224,
-    "geom:area_square_m":6694281202.810739,
+    "geom:area_square_m":6694280703.909678,
     "geom:bbox":"72.331666,42.408899,73.959696,44.019077",
     "geom:latitude":43.244208,
     "geom:longitude":73.150872,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.ZM.ME",
         "wd:id":"Q2549670"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837907,
-    "wof:geomhash":"af83646f0f966289613178da68f12a5a",
+    "wof:geomhash":"64b6e536182ee4328e03624308285386",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785319,
-    "wof:lastmodified":1690938428,
+    "wof:lastmodified":1695886689,
     "wof:name":"Merkenskiy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

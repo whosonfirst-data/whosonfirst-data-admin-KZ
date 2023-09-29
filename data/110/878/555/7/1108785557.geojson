@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.929513,
-    "geom:area_square_m":6864732050.178843,
+    "geom:area_square_m":6864731581.277001,
     "geom:bbox":"75.567319,52.831026,77.400406,53.730571",
     "geom:latitude":53.325487,
     "geom:longitude":76.486688,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.PA.KA",
         "wd:id":"Q75251"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838030,
-    "wof:geomhash":"49d0b25d3d8dd7bb453282e8450f8556",
+    "wof:geomhash":"2adb6d6405d2d67b85646b485d8b7159",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785557,
-    "wof:lastmodified":1690938423,
+    "wof:lastmodified":1695886686,
     "wof:name":"Kachirskiy",
     "wof:parent_id":85672911,
     "wof:placetype":"county",

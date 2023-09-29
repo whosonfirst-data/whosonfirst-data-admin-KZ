@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.951537,
-    "geom:area_square_m":66219039960.52858,
+    "geom:area_square_m":66219038374.026978,
     "geom:bbox":"71.266964,45.998698,74.599672,49.430424",
     "geom:latitude":47.656122,
     "geom:longitude":72.873189,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.QG.ST",
         "wd:id":"Q2726493"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838006,
-    "wof:geomhash":"3cb91c1ccc692dd4cbd248ee27ff4c5b",
+    "wof:geomhash":"97ff45b1a9d57c539b6845d65af23759",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785509,
-    "wof:lastmodified":1690938411,
+    "wof:lastmodified":1695886681,
     "wof:name":"Shetskiy",
     "wof:parent_id":85672905,
     "wof:placetype":"county",

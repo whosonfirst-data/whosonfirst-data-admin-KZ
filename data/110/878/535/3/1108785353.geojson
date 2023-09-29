@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.083782,
-    "geom:area_square_m":7743492723.088264,
+    "geom:area_square_m":7743492970.756565,
     "geom:bbox":"69.819908,53.969557,71.293468,55.310033",
     "geom:latitude":54.701916,
     "geom:longitude":70.583548,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.NK.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837930,
-    "wof:geomhash":"5e94b1a67699ade03b28216fb330acbb",
+    "wof:geomhash":"5826924489f4c7ec60465fc76e5ed097",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785353,
-    "wof:lastmodified":1627522309,
+    "wof:lastmodified":1695886772,
     "wof:name":"Bulaevskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.595353,
-    "geom:area_square_m":4243921978.189027,
+    "geom:area_square_m":4243921578.175611,
     "geom:bbox":"67.489618,54.379949,68.942526,55.21881",
     "geom:latitude":54.79565,
     "geom:longitude":68.264327,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.NK.MA",
         "wd:id":"Q32419"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837932,
-    "wof:geomhash":"c4e6522f8d3f9ad33f821bad7d762a71",
+    "wof:geomhash":"5516f2017803e4d0593b463238bf2baa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785359,
-    "wof:lastmodified":1690938412,
+    "wof:lastmodified":1695886775,
     "wof:name":"Mamlyutskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

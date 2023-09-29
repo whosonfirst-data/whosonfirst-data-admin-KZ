@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.828588,
-    "geom:area_square_m":6487427311.845627,
+    "geom:area_square_m":6487428430.851213,
     "geom:bbox":"55.905081,50.209552,57.693455,51.115111",
     "geom:latitude":50.714003,
     "geom:longitude":56.738985,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.AT.MA",
         "wd:id":"Q2550413"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837908,
-    "wof:geomhash":"36d90436aa8169d225953d00aca2167c",
+    "wof:geomhash":"14ba33b6ca3646293aac55de9cb66d8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785323,
-    "wof:lastmodified":1690938414,
+    "wof:lastmodified":1695886681,
     "wof:name":"Martukskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

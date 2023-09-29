@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":18.902897,
-    "geom:area_square_m":150812678400.817078,
+    "geom:area_square_m":150812678898.205444,
     "geom:bbox":"46.493672,47.95181,54.57933,51.776105",
     "geom:latitude":49.811989,
     "geom:longitude":50.678007,
@@ -423,16 +423,18 @@
         "gn:id":607847,
         "gp:id":2345998,
         "hasc:id":"KZ.WK",
+        "iso:code":"KZ-ZAP",
         "iso:id":"KZ-ZAP",
         "qs_pg:id":423789,
         "wd:id":"Q486007",
         "wk:page":"West Kazakhstan Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f8452962f5611b0ae5276819bb670b0b",
+    "wof:geomhash":"ec2d09dfea0bbb02b57394295f453323",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -449,7 +451,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1690938386,
+    "wof:lastmodified":1695884808,
     "wof:name":"West Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

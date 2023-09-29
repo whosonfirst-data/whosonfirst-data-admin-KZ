@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.53258,
-    "geom:area_square_m":39448500060.930893,
+    "geom:area_square_m":39448502203.155243,
     "geom:bbox":"60.173435,43.576581,63.351155,47.102849",
     "geom:latitude":45.256695,
     "geom:longitude":62.141119,
@@ -114,9 +114,10 @@
         "hasc:id":"KZ.QO.KZ",
         "wd:id":"Q976752"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838067,
-    "wof:geomhash":"17454aadf349e10374f63dbef035f394",
+    "wof:geomhash":"20bb54139cfc9ed03ba41fad13386236",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108785613,
-    "wof:lastmodified":1690938409,
+    "wof:lastmodified":1695886680,
     "wof:name":"Kazalinskiy",
     "wof:parent_id":85672885,
     "wof:placetype":"county",

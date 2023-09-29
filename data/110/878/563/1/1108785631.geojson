@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.298545,
-    "geom:area_square_m":2356100688.187156,
+    "geom:area_square_m":2356100374.773143,
     "geom:bbox":"56.867024,50.113799,57.788218,50.59531",
     "geom:latitude":50.339261,
     "geom:longitude":57.320103,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.AT.AQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838077,
-    "wof:geomhash":"c8411f9f4606e138a8fd3732231d8e55",
+    "wof:geomhash":"5cf6bf59e54d681012ba85ef17ebbf03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785631,
-    "wof:lastmodified":1627522309,
+    "wof:lastmodified":1695886773,
     "wof:name":"Aqtobe",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

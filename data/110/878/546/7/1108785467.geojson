@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.722101,
-    "geom:area_square_m":21990303220.385006,
+    "geom:area_square_m":21990304143.47736,
     "geom:bbox":"80.108999,48.250149,82.543908,50.241481",
     "geom:latitude":49.205989,
     "geom:longitude":81.120045,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.EK.ZH",
         "wd:id":"Q2726381"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837985,
-    "wof:geomhash":"6e5406a6088e7ca72f2cba0e119f6268",
+    "wof:geomhash":"6a08778fb4b6e90a304a7c0d19663497",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785467,
-    "wof:lastmodified":1690938440,
+    "wof:lastmodified":1695886696,
     "wof:name":"Zharminskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

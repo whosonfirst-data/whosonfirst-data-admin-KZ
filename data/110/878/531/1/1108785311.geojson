@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.206448,
-    "geom:area_square_m":10087333269.518188,
+    "geom:area_square_m":10087333470.75754,
     "geom:bbox":"84.203992,46.862866,85.702938,48.01991",
     "geom:latitude":47.453054,
     "geom:longitude":84.981877,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.EK.ZA",
         "wd:id":"Q2726370"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837902,
-    "wof:geomhash":"349726abf8cdade454d714cc38ae3c81",
+    "wof:geomhash":"b9e3a8b5e7e02399a619594deeca7380",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785311,
-    "wof:lastmodified":1690938429,
+    "wof:lastmodified":1695886689,
     "wof:name":"Zaysanskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

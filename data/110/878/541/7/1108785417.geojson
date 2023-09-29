@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.828204,
-    "geom:area_square_m":24141568341.124405,
+    "geom:area_square_m":24141567968.722603,
     "geom:bbox":"77.465757,45.027658,80.806039,47.289027",
     "geom:latitude":46.341594,
     "geom:longitude":78.988819,
@@ -129,9 +129,10 @@
         "hasc:id":"KZ.AA.SA",
         "wd:id":"Q2556173"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837961,
-    "wof:geomhash":"a5d4dd2b52b1cb9a5885330410b6c7d6",
+    "wof:geomhash":"2f818f21b4eb2927b67eb910f477cf8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108785417,
-    "wof:lastmodified":1690938439,
+    "wof:lastmodified":1695886695,
     "wof:name":"Sarkandskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

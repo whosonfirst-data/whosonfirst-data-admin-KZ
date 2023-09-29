@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.983919,
-    "geom:area_square_m":7500655102.760513,
+    "geom:area_square_m":7500654874.03975,
     "geom:bbox":"59.993083,51.387623,61.73134,52.512487",
     "geom:latitude":51.938023,
     "geom:longitude":61.029827,
@@ -129,9 +129,10 @@
         "hasc:id":"KZ.QS.ZH",
         "wd:id":"Q1378355"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838014,
-    "wof:geomhash":"e89884b5372bf91346e6f8341d20edd5",
+    "wof:geomhash":"3152197230ae6d622df85424fece5768",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108785525,
-    "wof:lastmodified":1690938425,
+    "wof:lastmodified":1695886687,
     "wof:name":"Zhitikarinskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

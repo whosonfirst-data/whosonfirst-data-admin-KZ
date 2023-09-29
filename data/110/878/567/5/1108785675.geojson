@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.562487,
-    "geom:area_square_m":31555704528.300735,
+    "geom:area_square_m":31555704382.761795,
     "geom:bbox":"64.956023,42.633201,67.52907,45.709578",
     "geom:latitude":44.241581,
     "geom:longitude":66.377699,
@@ -137,7 +137,7 @@
     },
     "wof:country":"KZ",
     "wof:created":1481838098,
-    "wof:geomhash":"2423508dcb62b380b6bbfcbbf8cf3a7d",
+    "wof:geomhash":"b9ec72fe42d218b46450eb1cfbc72d01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +147,7 @@
         }
     ],
     "wof:id":1108785675,
-    "wof:lastmodified":1690938402,
+    "wof:lastmodified":1695886660,
     "wof:name":"Shieli",
     "wof:parent_id":85672885,
     "wof:placetype":"county",

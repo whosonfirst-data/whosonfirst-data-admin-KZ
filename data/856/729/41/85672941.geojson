@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090696,
-    "geom:area_square_m":703577514.676455,
+    "geom:area_square_m":703577572.013569,
     "geom:bbox":"71.220936,50.999912,71.728067,51.301212",
     "geom:latitude":51.143772,
     "geom:longitude":71.437183,
@@ -152,10 +152,12 @@
         "gn:id":1538317,
         "gp:id":20070181,
         "hasc:id":"KZ.AS",
+        "iso:code":"KZ-AST",
         "iso:id":"KZ-AST",
         "qs_pg:id":349676,
         "unlc:id":"KZ-AST"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421191125
     ],
@@ -163,7 +165,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"98ef2f6f0e6ad4977f0812601bbfa77a",
+    "wof:geomhash":"b13b8d0851299c00f94652b72061b851",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -180,7 +182,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1627522312,
+    "wof:lastmodified":1695884755,
     "wof:name":"Astana",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

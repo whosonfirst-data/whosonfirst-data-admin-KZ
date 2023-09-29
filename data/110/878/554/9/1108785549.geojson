@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001415,
-    "geom:area_square_m":12629342.876245,
+    "geom:area_square_m":12629249.421008,
     "geom:bbox":"51.10956,43.746549,51.145941,43.815643",
     "geom:latitude":43.784218,
     "geom:longitude":51.127106,
@@ -117,9 +117,10 @@
         "hasc:id":"KZ.MG.AQ",
         "wd:id":"Q720411"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838027,
-    "wof:geomhash":"ab453ea3fb45059d1f59edd72b770029",
+    "wof:geomhash":"6a65df2463f6fe9144291d63e26dfecf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108785549,
-    "wof:lastmodified":1690938434,
+    "wof:lastmodified":1695886692,
     "wof:name":"Aqtau",
     "wof:parent_id":85672923,
     "wof:placetype":"county",

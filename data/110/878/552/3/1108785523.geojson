@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.602581,
-    "geom:area_square_m":12688504510.222385,
+    "geom:area_square_m":12688504595.476109,
     "geom:bbox":"57.580895,49.577311,60.044747,50.695852",
     "geom:latitude":50.18468,
     "geom:longitude":58.832402,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.AT.KT",
         "wd:id":"Q2550426"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838013,
-    "wof:geomhash":"e927bafc92d7a364469290b5a96ed996",
+    "wof:geomhash":"f7a3091b307221d7c1f0c045802db67c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785523,
-    "wof:lastmodified":1690938424,
+    "wof:lastmodified":1695886687,
     "wof:name":"Khromtauskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.374091,
-    "geom:area_square_m":61754259939.490494,
+    "geom:area_square_m":61754260449.228371,
     "geom:bbox":"57.592895,45.382777,62.076063,49.059028",
     "geom:latitude":47.364483,
     "geom:longitude":59.375261,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.AT.SH",
         "wd:id":"Q980931"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838023,
-    "wof:geomhash":"5a97e732ea90e1e55e5b0396dddfb755",
+    "wof:geomhash":"9339d289d9e38d5465ee5308fc8d7915",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785541,
-    "wof:lastmodified":1690938434,
+    "wof:lastmodified":1695886692,
     "wof:name":"Shalkarskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

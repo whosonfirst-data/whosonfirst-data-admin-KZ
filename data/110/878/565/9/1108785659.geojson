@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.436299,
-    "geom:area_square_m":10878044960.378963,
+    "geom:area_square_m":10878045303.668488,
     "geom:bbox":"62.800347,51.692206,65.014132,52.86304",
     "geom:latitude":52.229054,
     "geom:longitude":63.93437,
@@ -114,9 +114,10 @@
         "hasc:id":"KZ.QS.AU",
         "wd:id":"Q1427082"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838091,
-    "wof:geomhash":"76903a16c8b1a59503322fb31ec15ce8",
+    "wof:geomhash":"cab9433ea96d517e367b5236e88c1245",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108785659,
-    "wof:lastmodified":1690938431,
+    "wof:lastmodified":1695886691,
     "wof:name":"Auliekol`skiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

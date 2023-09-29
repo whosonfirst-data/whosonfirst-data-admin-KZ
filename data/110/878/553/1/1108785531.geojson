@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.704441,
-    "geom:area_square_m":5231038886.522658,
+    "geom:area_square_m":5231038921.518526,
     "geom:bbox":"63.954964,52.595662,65.102389,53.569072",
     "geom:latitude":53.091074,
     "geom:longitude":64.600708,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.QS.AL",
         "wd:id":"Q2476538"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838018,
-    "wof:geomhash":"5efadd59630dc86be8c29926d5f4b421",
+    "wof:geomhash":"59b2655a4b6a0e9022ca2142cd5a2353",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785531,
-    "wof:lastmodified":1690938433,
+    "wof:lastmodified":1695886692,
     "wof:name":"Altynsarinskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

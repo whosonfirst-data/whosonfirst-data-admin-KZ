@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.039394,
-    "geom:area_square_m":7816856165.302346,
+    "geom:area_square_m":7816855942.35164,
     "geom:bbox":"61.989399,51.965329,63.561648,53.043854",
     "geom:latitude":52.53954,
     "geom:longitude":62.793357,
@@ -124,9 +124,10 @@
         "hasc:id":"KZ.QS.TA",
         "wd:id":"Q431619"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838020,
-    "wof:geomhash":"0d2e8bf384c85b883fd72639b202e74e",
+    "wof:geomhash":"95ff2b7f023976516dc09c32b92baf43",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108785535,
-    "wof:lastmodified":1690938434,
+    "wof:lastmodified":1695886692,
     "wof:name":"Taranovskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

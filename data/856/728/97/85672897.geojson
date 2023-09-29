@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":18.85916,
-    "geom:area_square_m":144276977246.044556,
+    "geom:area_square_m":144276976279.935394,
     "geom:bbox":"65.40941,50.039407,74.253596,53.652842",
     "geom:latitude":51.775315,
     "geom:longitude":69.901856,
@@ -399,16 +399,18 @@
         "gn:id":1518003,
         "gp:id":2345996,
         "hasc:id":"KZ.AM",
+        "iso:code":"KZ-AKM",
         "iso:id":"KZ-AKM",
         "qs_pg:id":890084,
         "wd:id":"Q485056",
         "wk:page":"Akmola Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"58a0c3e92bdfe2a497b93d5b37abc78a",
+    "wof:geomhash":"a686064885e8a9214c9159be9254cf42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -425,7 +427,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1690938387,
+    "wof:lastmodified":1695884517,
     "wof:name":"Aqmola",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

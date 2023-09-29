@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.230911,
-    "geom:area_square_m":2105670676.741233,
+    "geom:area_square_m":2105670907.030459,
     "geom:bbox":"68.827354,42.19539,69.607634,42.781343",
     "geom:latitude":42.483442,
     "geom:longitude":69.221141,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.SK.OR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838051,
-    "wof:geomhash":"73c0928650ac81cd202ab978e4efea47",
+    "wof:geomhash":"69c3c5b648fa533aa614386c3afd9125",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785589,
-    "wof:lastmodified":1627522312,
+    "wof:lastmodified":1695886776,
     "wof:name":"Ordabasynskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

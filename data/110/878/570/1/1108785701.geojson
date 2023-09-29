@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.329657,
-    "geom:area_square_m":19020177115.294502,
+    "geom:area_square_m":19020176441.169102,
     "geom:bbox":"46.493672,48.068236,49.19986,49.271386",
     "geom:latitude":48.678927,
     "geom:longitude":47.980207,
@@ -102,9 +102,10 @@
         "hasc:id":"KZ.WK.UD",
         "wd:id":"Q2736647"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838110,
-    "wof:geomhash":"7eeea9e4fa32b28f3cb63abd0a5fb018",
+    "wof:geomhash":"cb5126cdf085620f2e966556a4ab3754",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108785701,
-    "wof:lastmodified":1690938442,
+    "wof:lastmodified":1695886696,
     "wof:name":"Urdinskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

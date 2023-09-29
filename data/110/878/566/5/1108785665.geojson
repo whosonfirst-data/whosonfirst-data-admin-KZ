@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.094957,
-    "geom:area_square_m":8104310134.967321,
+    "geom:area_square_m":8104309065.286894,
     "geom:bbox":"62.574064,52.654918,64.473962,53.82779",
     "geom:latitude":53.231684,
     "geom:longitude":63.545568,
@@ -129,9 +129,10 @@
         "hasc:id":"KZ.QS.QO",
         "wd:id":"Q619361"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838093,
-    "wof:geomhash":"759321ea5d4c46fb932cbf63810cc7a3",
+    "wof:geomhash":"c221cb3695a1526c77b18c5c680220e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108785665,
-    "wof:lastmodified":1690938406,
+    "wof:lastmodified":1695886679,
     "wof:name":"Qostanay",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

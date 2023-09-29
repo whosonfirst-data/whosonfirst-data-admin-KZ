@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.944009,
-    "geom:area_square_m":24896101885.886868,
+    "geom:area_square_m":24896101934.642452,
     "geom:bbox":"79.898021,45.53935,83.029644,47.710803",
     "geom:latitude":46.84964,
     "geom:longitude":81.528614,
@@ -132,9 +132,10 @@
         "hasc:id":"KZ.EK.UR",
         "wd:id":"Q2550803"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838124,
-    "wof:geomhash":"36209507fee6fa5b09c8658d39d851a2",
+    "wof:geomhash":"ae66a72650d3223876becc0eb93a48fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108785729,
-    "wof:lastmodified":1690938414,
+    "wof:lastmodified":1695886682,
     "wof:name":"Urdzharskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

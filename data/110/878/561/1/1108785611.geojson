@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.531762,
-    "geom:area_square_m":4176001823.173947,
+    "geom:area_square_m":4176001821.470931,
     "geom:bbox":"81.632016,50.178322,83.045187,50.927274",
     "geom:latitude":50.572343,
     "geom:longitude":82.244429,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.EK.SH",
         "wd:id":"Q2466428"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838066,
-    "wof:geomhash":"c60f542b5da07169f95e61b28d5b0f72",
+    "wof:geomhash":"f4465773228a11c742e23eef1ad832d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785611,
-    "wof:lastmodified":1690938408,
+    "wof:lastmodified":1695886679,
     "wof:name":"Shemonaikhinskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

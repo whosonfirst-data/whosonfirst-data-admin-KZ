@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.486249,
-    "geom:area_square_m":11566251724.22496,
+    "geom:area_square_m":11566251551.375465,
     "geom:bbox":"65.440618,50.379433,67.939159,51.741927",
     "geom:latitude":50.996423,
     "geom:longitude":66.679653,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.AM.ZR",
         "wd:id":"Q2556274"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838001,
-    "wof:geomhash":"4963a47aadd45043a33a5604e5899c38",
+    "wof:geomhash":"6ef304c5fe943873b12cf254c0cf602f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785497,
-    "wof:lastmodified":1690938435,
+    "wof:lastmodified":1695886692,
     "wof:name":"Zharkainskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

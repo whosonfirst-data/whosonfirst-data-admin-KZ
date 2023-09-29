@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.265049,
-    "geom:area_square_m":2318949329.479113,
+    "geom:area_square_m":2318949617.415321,
     "geom:bbox":"65.135346,44.622973,65.902401,45.377301",
     "geom:latitude":44.962712,
     "geom:longitude":65.488941,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.QO.QY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838099,
-    "wof:geomhash":"253068a8ddb89474ea1624695d348976",
+    "wof:geomhash":"1c9abac895eb150ed54ce86798e47f91",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108785677,
-    "wof:lastmodified":1636495696,
+    "wof:lastmodified":1695886660,
     "wof:name":"Qyzylorda",
     "wof:parent_id":85672885,
     "wof:placetype":"county",

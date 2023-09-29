@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.392657,
-    "geom:area_square_m":11113888873.567949,
+    "geom:area_square_m":11113888755.465517,
     "geom:bbox":"82.86769,49.29113,85.280687,50.289577",
     "geom:latitude":49.804876,
     "geom:longitude":84.14451,
@@ -136,9 +136,10 @@
         "hasc:id":"KZ.EK.ZY",
         "wd:id":"Q2664367"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837983,
-    "wof:geomhash":"cfe9df6fe4f23be57a01d5a7bbe4d54e",
+    "wof:geomhash":"00d403f670c718209d0c3a1ce3e93b83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1108785461,
-    "wof:lastmodified":1690938441,
+    "wof:lastmodified":1695886661,
     "wof:name":"Zyryanovsk",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085769,
-    "geom:area_square_m":784610998.152129,
+    "geom:area_square_m":784610998.152239,
     "geom:bbox":"69.2268365191,42.1137472398,69.7450727546,42.4513473573",
     "geom:latitude":42.284512,
     "geom:longitude":69.527794,
@@ -251,9 +251,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.SK.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838065,
-    "wof:geomhash":"0874104694f77a39fc19e72c474f75a0",
+    "wof:geomhash":"8e109b6df5cd74c9b4b68f2cc3116d8d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -263,7 +264,7 @@
         }
     ],
     "wof:id":1108785607,
-    "wof:lastmodified":1566591742,
+    "wof:lastmodified":1695886677,
     "wof:name":"Shymkent",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

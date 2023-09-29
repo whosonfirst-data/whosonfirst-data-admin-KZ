@@ -152,8 +152,10 @@
         "gn:id":1538316,
         "gp:id":-2345990,
         "hasc:id":"KZ.BY",
+        "iso:code":"KZ-BAY",
         "iso:id":"KZ-BAY"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KZ",
     "wof:geomhash":"6bfbbdaaad57122ded05b7f849d057b5",
     "wof:hierarchy":[
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":85681265,
-    "wof:lastmodified":1694493254,
+    "wof:lastmodified":1695884755,
     "wof:name":"Baykonur lease in Qyzylorda",
     "wof:parent_id":85632685,
     "wof:placetype":"region",

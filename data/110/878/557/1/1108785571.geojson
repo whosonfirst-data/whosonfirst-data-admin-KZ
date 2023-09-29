@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.494187,
-    "geom:area_square_m":11179874555.706699,
+    "geom:area_square_m":11179874649.099771,
     "geom:bbox":"66.01023,52.20965,68.056509,53.369349",
     "geom:latitude":52.763043,
     "geom:longitude":66.913651,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.NK.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838037,
-    "wof:geomhash":"dd6c087eace01f5a26aa58728c372648",
+    "wof:geomhash":"9a36b9a49eb7934f795ea4bd4d983611",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785571,
-    "wof:lastmodified":1627522314,
+    "wof:lastmodified":1695886778,
     "wof:name":"Tselinniy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.16777,
-    "geom:area_square_m":9728030367.979782,
+    "geom:area_square_m":9728030150.558769,
     "geom:bbox":"50.625957,46.897388,52.706604,48.184248",
     "geom:latitude":47.646055,
     "geom:longitude":51.801199,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.AR.MB",
         "wd:id":"Q2556162"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837981,
-    "wof:geomhash":"39653bd21c1e9ec8dcbee2d6f42a3228",
+    "wof:geomhash":"7544cccaafed121f4042dfcab4f9b2a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785457,
-    "wof:lastmodified":1690938418,
+    "wof:lastmodified":1695886684,
     "wof:name":"Makhambetskiy",
     "wof:parent_id":85672889,
     "wof:placetype":"county",

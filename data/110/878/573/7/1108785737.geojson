@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.382155,
-    "geom:area_square_m":3469748429.3605,
+    "geom:area_square_m":3469748590.948142,
     "geom:bbox":"70.20676,42.321283,71.23087,43.159682",
     "geom:latitude":42.753942,
     "geom:longitude":70.710325,
@@ -132,9 +132,10 @@
         "hasc:id":"KZ.ZM.ZL",
         "wd:id":"Q2549660"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838127,
-    "wof:geomhash":"39b69abfe536b5e756517e79716217ff",
+    "wof:geomhash":"dd36434e44d450659aeeb11f240b9a7e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108785737,
-    "wof:lastmodified":1690938420,
+    "wof:lastmodified":1695886684,
     "wof:name":"Zhualynskiy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

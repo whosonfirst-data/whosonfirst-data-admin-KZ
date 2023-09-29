@@ -1376,6 +1376,7 @@
         "hasc:id":"KZ",
         "icao:code":"UN",
         "ioc:id":"KAZ",
+        "iso:code":"KZ",
         "itu:id":"KAZ",
         "m49:code":"398",
         "marc:id":"kz",
@@ -1388,6 +1389,7 @@
         "wk:page":"Kazakhstan",
         "wmo:id":"KZ"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KZ",
     "wof:country_alpha3":"KAZ",
     "wof:geom_alt":[
@@ -1413,7 +1415,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1694639597,
+    "wof:lastmodified":1695881258,
     "wof:name":"Kazakhstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000509,
-    "geom:area_square_m":4576356.586715,
+    "geom:area_square_m":4576450.342634,
     "geom:bbox":"77.135898,43.336753,77.166882,43.359922",
     "geom:latitude":43.348969,
     "geom:longitude":77.151711,
@@ -59,9 +59,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.AA.TG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837939,
-    "wof:geomhash":"01da46b90a9c397a27273a7a88d5f577",
+    "wof:geomhash":"5fd432e478a239247cdefd30d573d0d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108785373,
-    "wof:lastmodified":1627522313,
+    "wof:lastmodified":1695886776,
     "wof:name":"Talgarskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

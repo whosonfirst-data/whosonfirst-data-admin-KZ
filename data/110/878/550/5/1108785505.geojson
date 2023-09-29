@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.843616,
-    "geom:area_square_m":57198081349.754707,
+    "geom:area_square_m":57198079704.605499,
     "geom:bbox":"73.285276,45.995,77.679214,48.921544",
     "geom:latitude":47.47063,
     "geom:longitude":75.449132,
@@ -108,9 +108,10 @@
         "hasc:id":"KZ.PA.AT",
         "wd:id":"Q612211"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838004,
-    "wof:geomhash":"6163c8f27e5140a101ac602fd0c19350",
+    "wof:geomhash":"d893fe751f11b8d3172ff91e720d2bc6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108785505,
-    "wof:lastmodified":1690938412,
+    "wof:lastmodified":1695886681,
     "wof:name":"Aktogayskiy",
     "wof:parent_id":85672905,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.704999,
-    "geom:area_square_m":23326665313.873119,
+    "geom:area_square_m":23326666335.213501,
     "geom:bbox":"76.176966,44.969601,78.469778,46.635047",
     "geom:latitude":45.779391,
     "geom:longitude":77.18237,
@@ -132,9 +132,10 @@
         "hasc:id":"KZ.AA.KT",
         "wd:id":"Q2550342"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837960,
-    "wof:geomhash":"94c1283e50251ad2173d869684b1778d",
+    "wof:geomhash":"b599f32b36e97940b47147d8b4ff737c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108785415,
-    "wof:lastmodified":1690938440,
+    "wof:lastmodified":1695886695,
     "wof:name":"Karatal`skiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

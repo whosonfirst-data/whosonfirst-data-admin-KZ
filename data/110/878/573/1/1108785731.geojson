@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.067459,
-    "geom:area_square_m":8344119570.324212,
+    "geom:area_square_m":8344119827.667556,
     "geom:bbox":"51.099269,50.008508,52.580962,51.438009",
     "geom:latitude":50.789298,
     "geom:longitude":51.734346,
@@ -114,9 +114,10 @@
         "hasc:id":"KZ.WK.TE",
         "wd:id":"Q2736634"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838125,
-    "wof:geomhash":"b0a125e72868ba8d556a75f8622ff1d0",
+    "wof:geomhash":"01ab8d1a6651229e1e9f550c3aa20c78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108785731,
-    "wof:lastmodified":1690938420,
+    "wof:lastmodified":1695886684,
     "wof:name":"Terektinskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

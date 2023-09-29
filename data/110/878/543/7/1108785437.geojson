@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.599284,
-    "geom:area_square_m":4599016120.304784,
+    "geom:area_square_m":4599015770.300476,
     "geom:bbox":"69.966724,51.269615,71.994127,51.852645",
     "geom:latitude":51.637886,
     "geom:longitude":71.003691,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.AM.SD",
         "wd:id":"Q2556281"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837971,
-    "wof:geomhash":"1c5b72cb969fbaa0739b064259cb95f6",
+    "wof:geomhash":"f4ede0a37c70697737ab7ef5d2647a3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785437,
-    "wof:lastmodified":1690938416,
+    "wof:lastmodified":1695886683,
     "wof:name":"Shortandinskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

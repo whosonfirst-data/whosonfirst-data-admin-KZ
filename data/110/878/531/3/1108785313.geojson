@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.598426,
-    "geom:area_square_m":12897983837.912701,
+    "geom:area_square_m":12897982969.782064,
     "geom:bbox":"84.101441,48.882417,87.3154,49.812674",
     "geom:latitude":49.263959,
     "geom:longitude":85.672292,
@@ -117,9 +117,10 @@
         "hasc:id":"KZ.EK.KK",
         "wd:id":"Q2550792"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837903,
-    "wof:geomhash":"8ff4dde42481a86aa60b60f5accd2b28",
+    "wof:geomhash":"f5c17c644cf4a44787cd02d8914d9e41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108785313,
-    "wof:lastmodified":1690938429,
+    "wof:lastmodified":1695886690,
     "wof:name":"Katon-Karagayskiy",
     "wof:parent_id":85672915,
     "wof:placetype":"county",

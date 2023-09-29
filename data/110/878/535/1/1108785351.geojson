@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.726382,
-    "geom:area_square_m":5398111633.823797,
+    "geom:area_square_m":5398111840.262628,
     "geom:bbox":"76.830436,52.676637,78.323623,53.57839",
     "geom:latitude":53.058071,
     "geom:longitude":77.521514,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.PA.US",
         "wd:id":"Q2554534"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837929,
-    "wof:geomhash":"17c837da66365746f04a81bd4ad27429",
+    "wof:geomhash":"3f4c82b3a8b1d3582c2ed5d1a61e7675",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785351,
-    "wof:lastmodified":1690938412,
+    "wof:lastmodified":1695886681,
     "wof:name":"Uspenskiy",
     "wof:parent_id":85672911,
     "wof:placetype":"county",

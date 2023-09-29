@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.546342,
-    "geom:area_square_m":20707649141.295498,
+    "geom:area_square_m":20707649157.474991,
     "geom:bbox":"48.951524,47.95181,51.322173,49.854616",
     "geom:latitude":48.875538,
     "geom:longitude":50.117686,
@@ -118,9 +118,10 @@
         "hasc:id":"KZ.WK.DG",
         "wd:id":"Q2736638"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838084,
-    "wof:geomhash":"81d31e1862ca5e7ad992ba3d4fcb792b",
+    "wof:geomhash":"df1757f76793a769e85906fbd5228e4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108785647,
-    "wof:lastmodified":1690938425,
+    "wof:lastmodified":1695886688,
     "wof:name":"Dzhangalinskiy",
     "wof:parent_id":85672893,
     "wof:placetype":"county",

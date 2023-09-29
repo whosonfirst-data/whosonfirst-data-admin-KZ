@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.063529,
-    "geom:area_square_m":41500902243.56691,
+    "geom:area_square_m":41500901654.478737,
     "geom:bbox":"60.061136,47.180145,64.269167,49.670953",
     "geom:latitude":48.481346,
     "geom:longitude":62.146074,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.AT.IR",
         "wd:id":"Q2550383"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838118,
-    "wof:geomhash":"7dd6db02ee8af14ecfe774f754565e26",
+    "wof:geomhash":"baeb490e1d656d6f621db81a973366f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785715,
-    "wof:lastmodified":1690938437,
+    "wof:lastmodified":1695886693,
     "wof:name":"Irgizskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

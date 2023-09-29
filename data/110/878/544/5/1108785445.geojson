@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.390902,
-    "geom:area_square_m":11443611287.614902,
+    "geom:area_square_m":11443611649.391832,
     "geom:bbox":"49.975313,47.83784,52.813161,48.729841",
     "geom:latitude":48.288749,
     "geom:longitude":51.412621,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.AR.IN",
         "wd:id":"Q2737298"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837976,
-    "wof:geomhash":"330fbb101a0d99724dc0fc8675ca2ee4",
+    "wof:geomhash":"cb9ebe302dbde89c1bdbf8163f57edaa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785445,
-    "wof:lastmodified":1690938417,
+    "wof:lastmodified":1695886683,
     "wof:name":"Inderskiy",
     "wof:parent_id":85672889,
     "wof:placetype":"county",

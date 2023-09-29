@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.005195,
-    "geom:area_square_m":117159146119.570053,
+    "geom:area_square_m":117159145942.376938,
     "geom:bbox":"65.998692,40.568584,70.943222,46.001822",
     "geom:latitude":43.216874,
     "geom:longitude":68.453802,
@@ -481,16 +481,18 @@
         "gn:id":1524787,
         "gp:id":2345982,
         "hasc:id":"KZ.SK",
+        "iso:code":"KZ-YUZ",
         "iso:id":"KZ-YUZ",
         "qs_pg:id":894911,
         "wd:id":"Q815330",
         "wk:page":"South Kazakhstan Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dbbfd7b57502c4cd9c1fda2add3974a3",
+    "wof:geomhash":"3ec901c1974d636cc75de8aa1a43b387",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -507,7 +509,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1690938390,
+    "wof:lastmodified":1695884809,
     "wof:name":"South Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

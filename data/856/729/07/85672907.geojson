@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.518298,
-    "geom:area_square_m":98597738260.877548,
+    "geom:area_square_m":98597738295.249969,
     "geom:bbox":"65.953484,52.20965,74.04072,55.441984",
     "geom:latitude":53.850135,
     "geom:longitude":69.283298,
@@ -415,16 +415,18 @@
         "gn:id":1519367,
         "gp:id":20070174,
         "hasc:id":"KZ.NK",
+        "iso:code":"KZ-SEV",
         "iso:id":"KZ-SEV",
         "qs_pg:id":8656,
         "wd:id":"Q485088",
         "wk:page":"North Kazakhstan Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dce348d59a1a390e24f11cc365451c80",
+    "wof:geomhash":"b2c47a06a697c77b1a40b40dadf68f27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -441,7 +443,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1690938392,
+    "wof:lastmodified":1695884809,
     "wof:name":"North Kazakhstan",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.633445,
-    "geom:area_square_m":4952160172.358404,
+    "geom:area_square_m":4952160267.316096,
     "geom:bbox":"57.284404,50.436709,58.908046,51.180847",
     "geom:latitude":50.783961,
     "geom:longitude":58.103751,
@@ -111,9 +111,10 @@
         "hasc:id":"KZ.AT.KA",
         "wd:id":"Q2550358"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838109,
-    "wof:geomhash":"6ee80ff1152cf16aa5823a6e54080377",
+    "wof:geomhash":"f44b48925913590c06f8ee3bcc414552",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108785697,
-    "wof:lastmodified":1690938399,
+    "wof:lastmodified":1695886676,
     "wof:name":"Kargalinskiy",
     "wof:parent_id":85672877,
     "wof:placetype":"county",

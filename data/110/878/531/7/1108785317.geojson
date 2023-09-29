@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.982155,
-    "geom:area_square_m":8816851315.144672,
+    "geom:area_square_m":8816851656.526169,
     "geom:bbox":"74.13348,42.796248,75.823598,44.339349",
     "geom:latitude":43.447107,
     "geom:longitude":74.981306,
@@ -120,9 +120,10 @@
         "hasc:id":"KZ.ZM.KO",
         "wd:id":"Q2554520"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837906,
-    "wof:geomhash":"9fa38e8174ab32473e0d1bda5f2f127a",
+    "wof:geomhash":"02caca874aee46cc5737d591c4e64cf3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108785317,
-    "wof:lastmodified":1690938428,
+    "wof:lastmodified":1695886690,
     "wof:name":"Kordayskiy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

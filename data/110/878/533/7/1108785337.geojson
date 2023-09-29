@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.493069,
-    "geom:area_square_m":4411615305.480824,
+    "geom:area_square_m":4411615448.262626,
     "geom:bbox":"51.028593,43.158408,52.000934,44.144639",
     "geom:latitude":43.648254,
     "geom:longitude":51.567523,
@@ -105,9 +105,10 @@
         "hasc:id":"KZ.MG.KA",
         "wd:id":"Q720411"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837922,
-    "wof:geomhash":"a09dab29693fd4b8ab1969cb8874e333",
+    "wof:geomhash":"faedc9b90bf59543080c6bc3759775da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108785337,
-    "wof:lastmodified":1690938403,
+    "wof:lastmodified":1695886677,
     "wof:name":"Karakiyanskiy",
     "wof:parent_id":85672923,
     "wof:placetype":"county",

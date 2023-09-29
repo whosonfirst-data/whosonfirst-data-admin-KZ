@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011497,
-    "geom:area_square_m":98235541.384716,
+    "geom:area_square_m":98235723.537046,
     "geom:bbox":"49.70425,46.201889,49.846584,46.366249",
     "geom:latitude":46.290365,
     "geom:longitude":49.785203,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.AR.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837898,
-    "wof:geomhash":"b7bd283038ad51808087bf10c000744d",
+    "wof:geomhash":"7d7b4f9053fc80bacdef956928bc871f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108785301,
-    "wof:lastmodified":1627522311,
+    "wof:lastmodified":1695886775,
     "wof:name":"Kurmangazinskiy",
     "wof:parent_id":85672889,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.688679,
-    "geom:area_square_m":49790716343.084923,
+    "geom:area_square_m":49790717540.072334,
     "geom:bbox":"70.74055,43.822195,74.52371,46.002214",
     "geom:latitude":44.937559,
     "geom:longitude":72.71785,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.ZM.MO",
         "wd:id":"Q2549644"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837994,
-    "wof:geomhash":"918929905392eb1345ff4db22aa1be53",
+    "wof:geomhash":"9acde94a7ad9c4f36042493fd68935e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785485,
-    "wof:lastmodified":1690938443,
+    "wof:lastmodified":1695886697,
     "wof:name":"Moyynkumskiy",
     "wof:parent_id":85672931,
     "wof:placetype":"county",

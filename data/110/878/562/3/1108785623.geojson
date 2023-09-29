@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.306585,
-    "geom:area_square_m":10025555737.342972,
+    "geom:area_square_m":10025556083.618607,
     "geom:bbox":"66.81122,50.903962,68.12939,52.435161",
     "geom:latitude":51.643419,
     "geom:longitude":67.491402,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.AM.ZS",
         "wd:id":"Q2605063"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838073,
-    "wof:geomhash":"84a814249d70342d54aef5149caac511",
+    "wof:geomhash":"c55a67ca06d1f91d64101ffa78e27a13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785623,
-    "wof:lastmodified":1690938431,
+    "wof:lastmodified":1695886690,
     "wof:name":"Zhaksynskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

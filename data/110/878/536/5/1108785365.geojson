@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.404903,
-    "geom:area_square_m":12998533228.902271,
+    "geom:area_square_m":12998533254.267395,
     "geom:bbox":"66.532396,40.967495,68.643404,42.172257",
     "geom:latitude":41.560189,
     "geom:longitude":67.438851,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.SK.CH",
         "wd:id":"Q2605432"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837935,
-    "wof:geomhash":"902fdce3259d9453c44a20a2e6f4285a",
+    "wof:geomhash":"adc45efffea78ada1c18d366ee3467e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785365,
-    "wof:lastmodified":1690938430,
+    "wof:lastmodified":1695886774,
     "wof:name":"Chardarinskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.898402,
-    "geom:area_square_m":6746110060.434252,
+    "geom:area_square_m":6746110363.980032,
     "geom:bbox":"60.712023,52.143406,62.554985,53.036277",
     "geom:latitude":52.607334,
     "geom:longitude":61.629555,
@@ -114,9 +114,10 @@
         "hasc:id":"KZ.QS.DE",
         "wd:id":"Q1510481"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838092,
-    "wof:geomhash":"7e780ff702b43e75bcc8e5865ff1f41c",
+    "wof:geomhash":"97f039f62c015e4984b0cd9ec58fd30e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108785661,
-    "wof:lastmodified":1690938406,
+    "wof:lastmodified":1695886679,
     "wof:name":"Denisovskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

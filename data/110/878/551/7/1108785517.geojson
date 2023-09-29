@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.323058,
-    "geom:area_square_m":10487032943.171753,
+    "geom:area_square_m":10487032943.171116,
     "geom:bbox":"65.7167755244,49.5867145982,68.0979238091,50.6687208246",
     "geom:latitude":50.131555,
     "geom:longitude":66.796649,
@@ -158,9 +158,10 @@
     "wof:concordances":{
         "hasc:id":"KZ.QS.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838011,
-    "wof:geomhash":"857ee3e8c59d238ec811bcd941ae50c2",
+    "wof:geomhash":"a3f9e925a10f310e3b5c9209dd307596",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":1108785517,
-    "wof:lastmodified":1566591738,
+    "wof:lastmodified":1695886676,
     "wof:name":"Arkalyk",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

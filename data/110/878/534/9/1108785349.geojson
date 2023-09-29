@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.037046,
-    "geom:area_square_m":7560509650.973644,
+    "geom:area_square_m":7560509765.185563,
     "geom:bbox":"75.010488,53.335478,77.068333,54.457595",
     "geom:latitude":53.871553,
     "geom:longitude":76.017835,
@@ -117,9 +117,10 @@
         "hasc:id":"KZ.PA.ZH",
         "wd:id":"Q44486"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837928,
-    "wof:geomhash":"cac085ae9ceecdec2384e79186714e8a",
+    "wof:geomhash":"e064c9124174c218175a75d1af4755f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108785349,
-    "wof:lastmodified":1690938404,
+    "wof:lastmodified":1695886678,
     "wof:name":"Zhelezinskiy",
     "wof:parent_id":85672911,
     "wof:placetype":"county",

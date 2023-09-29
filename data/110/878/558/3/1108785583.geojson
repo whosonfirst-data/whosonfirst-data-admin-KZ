@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.794309,
-    "geom:area_square_m":7177371563.246522,
+    "geom:area_square_m":7177372133.004686,
     "geom:bbox":"68.780456,42.599283,70.245276,43.576818",
     "geom:latitude":43.049388,
     "geom:longitude":69.484308,
@@ -117,9 +117,10 @@
         "hasc:id":"KZ.SK.BA",
         "wd:id":"Q522660"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838048,
-    "wof:geomhash":"b14b31f14d8b6c8bc619b81e4a3905c0",
+    "wof:geomhash":"cbcf62dc96be9b1707ee80cc451181b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108785583,
-    "wof:lastmodified":1690938402,
+    "wof:lastmodified":1695886773,
     "wof:name":"Baydibekskiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",

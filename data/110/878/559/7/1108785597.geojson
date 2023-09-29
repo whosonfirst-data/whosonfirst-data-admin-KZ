@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.607748,
-    "geom:area_square_m":63504924264.740227,
+    "geom:area_square_m":63504923468.718323,
     "geom:bbox":"68.528533,45.998255,72.130377,49.381879",
     "geom:latitude":47.533877,
     "geom:longitude":70.405015,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.QG.ZA",
         "wd:id":"Q2726480"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838059,
-    "wof:geomhash":"14fc78dea2cf9f5d3de94966fda74578",
+    "wof:geomhash":"697f275c4208e7aa3485067c52b4c569",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785597,
-    "wof:lastmodified":1690938407,
+    "wof:lastmodified":1695886679,
     "wof:name":"Zhanaarkinskiy",
     "wof:parent_id":85672905,
     "wof:placetype":"county",

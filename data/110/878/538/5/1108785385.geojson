@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.89904,
-    "geom:area_square_m":6544238643.633736,
+    "geom:area_square_m":6544239108.186745,
     "geom:bbox":"63.538538,53.471245,64.993274,54.39804",
     "geom:latitude":53.93631,
     "geom:longitude":64.318484,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.QS.ME",
         "wd:id":"Q793969"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837944,
-    "wof:geomhash":"3294210d1aa78cac0da9472893d9a115",
+    "wof:geomhash":"0533fae7678a026108f918201d3d23d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785385,
-    "wof:lastmodified":1690938428,
+    "wof:lastmodified":1695886689,
     "wof:name":"Mendykarinskiy",
     "wof:parent_id":85672879,
     "wof:placetype":"county",

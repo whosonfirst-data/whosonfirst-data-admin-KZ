@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.303957,
-    "geom:area_square_m":144216515947.922607,
+    "geom:area_square_m":144216517520.577789,
     "geom:bbox":"69.07439,42.321283,75.823598,46.002765",
     "geom:latitude":44.319904,
     "geom:longitude":72.145956,
@@ -363,16 +363,18 @@
         "gn:id":1524444,
         "gp:id":2345983,
         "hasc:id":"KZ.ZM",
+        "iso:code":"KZ-ZHA",
         "iso:id":"KZ-ZHA",
         "qs_pg:id":318524,
         "wd:id":"Q486657",
         "wk:page":"Jambyl Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d768f5d570481163d9cb5e00579b7a5c",
+    "wof:geomhash":"f47c6a90197a218e82ba530d7498415c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -389,7 +391,7 @@
         "rus",
         "kaz"
     ],
-    "wof:lastmodified":1690938393,
+    "wof:lastmodified":1695884812,
     "wof:name":"Zhambyl",
     "wof:parent_id":85632307,
     "wof:placetype":"region",

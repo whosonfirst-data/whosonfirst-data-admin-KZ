@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.294079,
-    "geom:area_square_m":11448166817.039478,
+    "geom:area_square_m":11448167455.116152,
     "geom:bbox":"76.898843,43.828322,79.999625,44.910719",
     "geom:latitude":44.319999,
     "geom:longitude":78.417868,
@@ -132,9 +132,10 @@
         "hasc:id":"KZ.AA.KE",
         "wd:id":"Q2556317"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837965,
-    "wof:geomhash":"7ccbc686b7ce6cd1f7b665a6232f2f89",
+    "wof:geomhash":"2c1be4d08d64cfe526fe210bc664d652",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108785423,
-    "wof:lastmodified":1690938419,
+    "wof:lastmodified":1695886684,
     "wof:name":"Kerbulakskiy",
     "wof:parent_id":85672921,
     "wof:placetype":"county",

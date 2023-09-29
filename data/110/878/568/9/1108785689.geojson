@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.612946,
-    "geom:area_square_m":4485083016.933759,
+    "geom:area_square_m":4485082725.2902,
     "geom:bbox":"65.953484,53.261403,67.182766,54.100829",
     "geom:latitude":53.717582,
     "geom:longitude":66.5542,
@@ -141,9 +141,10 @@
         "hasc:id":"KZ.NK.TI",
         "wd:id":"Q32417"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838104,
-    "wof:geomhash":"0067f73ae151a9c8fda179a9cb68f410",
+    "wof:geomhash":"ae27fc723f587845ed64c32a8d634415",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108785689,
-    "wof:lastmodified":1690938410,
+    "wof:lastmodified":1695886660,
     "wof:name":"Timiryazevskiy",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

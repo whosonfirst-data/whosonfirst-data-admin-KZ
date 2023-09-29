@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.640955,
-    "geom:area_square_m":4684298622.805498,
+    "geom:area_square_m":4684299192.455343,
     "geom:bbox":"66.859893,53.2975,67.980404,54.283547",
     "geom:latitude":53.768827,
     "geom:longitude":67.393518,
@@ -111,9 +111,10 @@
         "hasc:id":"KZ.NK.SA",
         "wd:id":"Q32421"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838035,
-    "wof:geomhash":"1af6726b6aa7e7799083983b2d98ef52",
+    "wof:geomhash":"41c07e06a76c04fd12463481d7b68291",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108785567,
-    "wof:lastmodified":1690938398,
+    "wof:lastmodified":1695886776,
     "wof:name":"Shal Akyna",
     "wof:parent_id":85672907,
     "wof:placetype":"county",

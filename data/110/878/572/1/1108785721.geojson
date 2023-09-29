@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.043417,
-    "geom:area_square_m":7733696702.374777,
+    "geom:area_square_m":7733697016.182427,
     "geom:bbox":"68.541088,52.562322,70.103178,53.652842",
     "geom:latitude":53.171466,
     "geom:longitude":69.266275,
@@ -129,9 +129,10 @@
         "hasc:id":"KZ.AM.ZE",
         "wd:id":"Q2556291"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838120,
-    "wof:geomhash":"d189ba75fd5e3e117c5a685c6f4620fc",
+    "wof:geomhash":"75939086777b892fba0a9e90a6364769",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108785721,
-    "wof:lastmodified":1690938415,
+    "wof:lastmodified":1695886682,
     "wof:name":"Zerendinskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

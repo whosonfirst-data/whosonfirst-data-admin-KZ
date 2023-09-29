@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.77975,
-    "geom:area_square_m":6064335340.632706,
+    "geom:area_square_m":6064335491.921755,
     "geom:bbox":"70.374621,50.472301,71.789495,51.518818",
     "geom:latitude":51.025711,
     "geom:longitude":70.987635,
@@ -123,9 +123,10 @@
         "hasc:id":"KZ.AM.TS",
         "wd:id":"Q2224859"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838074,
-    "wof:geomhash":"37275927dd416e85d70c1cdfa1d20bde",
+    "wof:geomhash":"ac452ef7dfb0e2b8188306eb499eb8de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108785625,
-    "wof:lastmodified":1690938431,
+    "wof:lastmodified":1695886691,
     "wof:name":"Tselinogradskiy",
     "wof:parent_id":85672897,
     "wof:placetype":"county",

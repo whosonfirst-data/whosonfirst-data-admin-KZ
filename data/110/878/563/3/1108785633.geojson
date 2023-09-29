@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.183871,
-    "geom:area_square_m":52849885135.767822,
+    "geom:area_square_m":52849885221.976494,
     "geom:bbox":"58.929517,44.815327,62.940294,47.841251",
     "geom:latitude":46.273157,
     "geom:longitude":60.876327,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.QO.AR",
         "wd:id":"Q2726397"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481838078,
-    "wof:geomhash":"4a0a9fe974a3534c3557fa88f74830d8",
+    "wof:geomhash":"1e89051b28137f9c1150ac64c632a5e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785633,
-    "wof:lastmodified":1690938427,
+    "wof:lastmodified":1695886689,
     "wof:name":"Aral`skiy",
     "wof:parent_id":85672885,
     "wof:placetype":"county",

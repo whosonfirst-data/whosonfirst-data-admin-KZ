@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.187239,
-    "geom:area_square_m":1752335592.839905,
+    "geom:area_square_m":1752335492.966591,
     "geom:bbox":"67.936153,40.568584,68.663579,41.044272",
     "geom:latitude":40.810983,
     "geom:longitude":68.338916,
@@ -126,9 +126,10 @@
         "hasc:id":"KZ.SK.MA",
         "wd:id":"Q2554567"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KZ",
     "wof:created":1481837933,
-    "wof:geomhash":"340f629d609689801b7a7b35aacbe6f5",
+    "wof:geomhash":"3eba43f80bde53b72885cfd575ab7efb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108785361,
-    "wof:lastmodified":1690938430,
+    "wof:lastmodified":1695886775,
     "wof:name":"Maktaaral`skiy",
     "wof:parent_id":85672927,
     "wof:placetype":"county",
