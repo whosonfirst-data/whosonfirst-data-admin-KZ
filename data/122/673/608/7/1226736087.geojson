@@ -41,6 +41,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u043d\u043e\u0432\u043a\u0430"
     ],
+    "name:und_x_variant":[
+        "Bannovskiy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,6 +54,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1525771
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1525770
+        ]
     },
     "wof:country":"KZ",
     "wof:geomhash":"bd7b0f4d35b668f30c1158c4a4c53bed",
@@ -64,13 +72,15 @@
         }
     ],
     "wof:id":1226736087,
-    "wof:lastmodified":1566592238,
+    "wof:lastmodified":1706240332,
     "wof:name":"Bannovka",
     "wof:parent_id":1108785335,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259670125
+    ],
     "wof:tags":[]
 },
   "bbox": [

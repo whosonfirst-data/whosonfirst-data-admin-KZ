@@ -41,6 +41,9 @@
     "name:kaz_x_preferred":[
         "Aryqbalyq"
     ],
+    "name:kaz_x_variant":[
+        "\u0410\u0440\u044b\u049b\u0431\u0430\u043b\u044b\u049b"
+    ],
     "name:pol_x_preferred":[
         "Kozacy syberyjscy"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:rus_x_variant":[
         "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0435 \u043a\u0430\u0437\u0430\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Arykbalykskiy"
     ],
     "name:zho_x_preferred":[
         "\u897f\u4f2f\u5229\u4e9e\u54e5\u85a9\u514b"
@@ -68,8 +74,13 @@
         "gn:id":1526180,
         "wk:page":"Siberian_Cossacks"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1526178
+        ]
+    },
     "wof:country":"KZ",
-    "wof:geomhash":"aba1494e6199e3f635e46eebed599e6a",
+    "wof:geomhash":"d4e5a78f48f4b7379b2a4e6ec7bf16f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +91,22 @@
         }
     ],
     "wof:id":1243527009,
-    "wof:lastmodified":1566592018,
+    "wof:lastmodified":1706240333,
     "wof:name":"Arykbalyk",
     "wof:parent_id":1108785579,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310673301
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    68.20468000000001,
+    68.20468,
     52.95667,
-    68.20468000000001,
+    68.20468,
     52.95667
 ],
-  "geometry": {"coordinates":[68.20468000000001,52.95667],"type":"Point"}
+  "geometry": {"coordinates":[68.20468,52.95667],"type":"Point"}
 }

@@ -35,6 +35,9 @@
     "name:kaz_x_preferred":[
         "Zapadnoe"
     ],
+    "name:kaz_x_variant":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0435"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0435"
     ],
@@ -52,6 +55,11 @@
     "wof:concordances":{
         "gn:id":1517099
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1517093
+        ]
+    },
     "wof:country":"KZ",
     "wof:geomhash":"00ae6775d36b885352750dd93033137d",
     "wof:hierarchy":[
@@ -64,13 +72,15 @@
         }
     ],
     "wof:id":1225916689,
-    "wof:lastmodified":1566592269,
+    "wof:lastmodified":1706240331,
     "wof:name":"Zapadnoye",
     "wof:parent_id":1108785571,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327012013
+    ],
     "wof:tags":[]
 },
   "bbox": [

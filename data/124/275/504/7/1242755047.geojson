@@ -38,6 +38,9 @@
     "name:rus_x_preferred":[
         "\u0422\u044e\u0435\u043c\u043e\u0439\u043d\u0430\u043a"
     ],
+    "name:und_x_variant":[
+        "T\u00fcyemoynak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,6 +51,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10871128
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8516133
+        ]
     },
     "wof:country":"KZ",
     "wof:geomhash":"dd49dc4229371716d1200c6e7ffa7512",
@@ -61,13 +69,15 @@
         }
     ],
     "wof:id":1242755047,
-    "wof:lastmodified":1566592030,
+    "wof:lastmodified":1706240332,
     "wof:name":"Tyuyemoynak",
     "wof:parent_id":1108785515,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242950231
+    ],
     "wof:tags":[]
 },
   "bbox": [

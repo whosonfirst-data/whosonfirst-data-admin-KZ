@@ -41,6 +41,9 @@
     "name:deu_x_preferred":[
         "Kasanka"
     ],
+    "name:eng_x_preferred":[
+        "Kazanka"
+    ],
     "name:fra_x_preferred":[
         "Kazanka"
     ],
@@ -81,8 +84,13 @@
     "wof:concordances":{
         "gn:id":1517069
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1522853
+        ]
+    },
     "wof:country":"KZ",
-    "wof:geomhash":"2aa977aadc5e5159923c4febec3c0306",
+    "wof:geomhash":"70e332ebe95af53fa4d9d9a5c8340733",
     "wof:hierarchy":[
         {
             "country_id":85632307,
@@ -90,20 +98,22 @@
         }
     ],
     "wof:id":1209588127,
-    "wof:lastmodified":1566591622,
+    "wof:lastmodified":1706240331,
     "wof:name":"Kazanka",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310474415
+    ],
     "wof:tags":[]
 },
   "bbox": [
     67.45075,
-    53.32196999999999,
+    53.32197,
     67.45075,
-    53.32196999999999
+    53.32197
 ],
-  "geometry": {"coordinates":[67.45075,53.32196999999999],"type":"Point"}
+  "geometry": {"coordinates":[67.45075,53.32197],"type":"Point"}
 }

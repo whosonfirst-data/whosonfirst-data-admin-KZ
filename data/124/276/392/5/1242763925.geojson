@@ -32,8 +32,17 @@
     "name:eng_x_preferred":[
         "Podgorodka"
     ],
+    "name:kaz_x_preferred":[
+        "Podgorodka"
+    ],
+    "name:kaz_x_variant":[
+        "\u041f\u043e\u0434\u0433\u043e\u0440\u043e\u0434\u043a\u0430"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0434\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Prigorodnyy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,6 +54,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1541142
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1520038
+        ]
     },
     "wof:country":"KZ",
     "wof:geomhash":"375925e6146e74e0de633a344f8b23ac",
@@ -58,13 +72,15 @@
         }
     ],
     "wof:id":1242763925,
-    "wof:lastmodified":1566592093,
+    "wof:lastmodified":1706240332,
     "wof:name":"Podgorodka",
     "wof:parent_id":1108785333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310191501
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -38,6 +38,9 @@
     "name:deu_x_preferred":[
         "Karasu"
     ],
+    "name:eng_x_preferred":[
+        "Karasu"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0631\u0647\u200c\u0633\u0648"
     ],
@@ -97,6 +100,11 @@
     "wof:concordances":{
         "gn:id":1523156
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1523155
+        ]
+    },
     "wof:country":"KZ",
     "wof:geomhash":"b2f7ad416554c6cc02fab86eb9dd0e06",
     "wof:hierarchy":[
@@ -109,13 +117,15 @@
         }
     ],
     "wof:id":1242988985,
-    "wof:lastmodified":1566592099,
+    "wof:lastmodified":1706240332,
     "wof:name":"Karasu",
     "wof:parent_id":1108785657,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343873069
+    ],
     "wof:tags":[]
 },
   "bbox": [
