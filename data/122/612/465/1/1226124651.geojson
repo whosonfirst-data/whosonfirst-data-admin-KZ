@@ -35,11 +35,17 @@
     "name:kaz_x_preferred":[
         "Novoselovka"
     ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u043e\u0432\u043a\u0430"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u043e\u0432\u043a\u0430"
     ],
     "name:rus_x_variant":[
         "Novos\u00eblovka"
+    ],
+    "name:und_x_variant":[
+        "Parizhskaya Kommuna"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,8 +58,13 @@
     "wof:concordances":{
         "gn:id":1520552
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1520246
+        ]
+    },
     "wof:country":"KZ",
-    "wof:geomhash":"580a4c9c9149950c470fecbadab80795",
+    "wof:geomhash":"3eb9d4d872b1133120d96fe0691ef255",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,20 +75,22 @@
         }
     ],
     "wof:id":1226124651,
-    "wof:lastmodified":1566592286,
+    "wof:lastmodified":1706240332,
     "wof:name":"Novoselovka",
     "wof:parent_id":1108785571,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259452771
+    ],
     "wof:tags":[]
 },
   "bbox": [
     67.03599,
-    53.19951999999999,
+    53.19952,
     67.03599,
-    53.19951999999999
+    53.19952
 ],
-  "geometry": {"coordinates":[67.03599,53.19951999999999],"type":"Point"}
+  "geometry": {"coordinates":[67.03599,53.19952],"type":"Point"}
 }

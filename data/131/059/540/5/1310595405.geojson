@@ -35,6 +35,12 @@
     "name:rus_x_variant":[
         "\u0422\u0440\u0438\u0446\u0430\u0442\u044c \u041b\u0435\u0442 \u041a\u0430\u0437\u0430\u0445\u0441\u043a\u043e\u0439 \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u043e\u0439 \u0421\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
     ],
+    "name:und_x_variant":[
+        "Unymker"
+    ],
+    "name:uzb_x_preferred":[
+        "Onimger"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +51,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10956128
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1512477
+        ]
     },
     "wof:country":"KZ",
     "wof:geomhash":"b52e9b4fc93973f854ba8b12857fe6c5",
@@ -58,13 +69,15 @@
         }
     ],
     "wof:id":1310595405,
-    "wof:lastmodified":1566591872,
+    "wof:lastmodified":1706240333,
     "wof:name":"Tritsat' Let Kazakhskoy Sovetskoy Sotsialisticheskoy Respubliki",
     "wof:parent_id":1108785361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327222855
+    ],
     "wof:tags":[]
 },
   "bbox": [

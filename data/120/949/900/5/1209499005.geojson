@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1522902
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10427250
+        ]
+    },
     "wof:country":"KZ",
     "wof:geomhash":"545d4b20c8e7bd45faba6d32381c8ec0",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1209499005,
-    "wof:lastmodified":1566591597,
+    "wof:lastmodified":1706240331,
     "wof:name":"Qaynarbulaq",
     "wof:parent_id":85632307,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242766609
+    ],
     "wof:tags":[]
 },
   "bbox": [

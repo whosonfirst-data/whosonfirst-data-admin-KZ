@@ -35,6 +35,9 @@
     "name:kaz_x_preferred":[
         "Afanas\u2019evka"
     ],
+    "name:kaz_x_variant":[
+        "\u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432\u043a\u0430"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432\u043a\u0430"
     ],
@@ -52,6 +55,11 @@
     "wof:concordances":{
         "gn:id":1526945
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1526944
+        ]
+    },
     "wof:country":"KZ",
     "wof:geomhash":"688e6cfe488df8a59bd0e632a5da98ae",
     "wof:hierarchy":[
@@ -64,13 +72,15 @@
         }
     ],
     "wof:id":1242844039,
-    "wof:lastmodified":1566592085,
+    "wof:lastmodified":1706240332,
     "wof:name":"Afanas'yevka",
     "wof:parent_id":1108785567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309775621
+    ],
     "wof:tags":[]
 },
   "bbox": [

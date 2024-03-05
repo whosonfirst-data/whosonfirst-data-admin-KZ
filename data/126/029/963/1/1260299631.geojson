@@ -29,6 +29,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:kaz_x_preferred":[
+        "Ashchybulaq"
+    ],
+    "name:kaz_x_variant":[
+        "\u0410\u0449\u044b\u0431\u04b1\u043b\u0430\u049b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0449\u044b\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043d\u0430\u0442\u043e\u043b\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Anatol\u2019yevskoye",
+        "Anatol\u2019yevka",
+        "Ashchybulak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +56,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1529690
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1526311
+        ]
     },
     "wof:country":"KZ",
     "wof:geomhash":"b7536ace9ac7d451fd62f17a21bde213",
@@ -52,13 +74,15 @@
         }
     ],
     "wof:id":1260299631,
-    "wof:lastmodified":1566591724,
+    "wof:lastmodified":1706240333,
     "wof:name":"Ashchybulak",
     "wof:parent_id":1108785427,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343373527
+    ],
     "wof:tags":[]
 },
   "bbox": [
